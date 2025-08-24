@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <title>Alt-i-ett Kalkulator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+<h1>Alt-i-ett Kalkulator</h1>
+
+<!-- Dagens dato og klokkeslett -->
+<div>
+    <h2>Dagens dato og klokkeslett</h2>
+    <p id="currentDateTime"></p>
+</div>
+
+<!-- Prosentkalkulator -->
+<div>
+    <h2>Prosentkalkulator</h2>
+    <input id="percentValue" type="number" placeholder="Tall">
+    <input id="percentPercent" type="number" placeholder="%">
+    <button id="percentButton">Regn ut</button>
+    <p id="percentResult"></p>
+</div>
+
+<!-- Timeslønn kalkulator -->
+<div>
+    <h2>Timeslønn / månedslønn</h2>
+    <input id="monthlySalary" type="number" placeholder="Månedslønn">
+    <input id="hoursPerWeek" type="number" placeholder="Timer per uke">
+    <button id="hourlyButton">Regn ut timeslønn</button>
+    <p id="hourlyResult"></p>
+</div>
+
+<!-- Alderskalkulator -->
+<div>
+    <h2>Alder</h2>
+    <input id="birthDate" type="date">
+    <button id="ageButton">Regn ut alder</button>
+    <p id="ageResult"></p>
+</div>
+
+<!-- Differanse mellom datoer -->
+<div>
+    <h2>Differanse mellom datoer</h2>
+    <input id="date1" type="date">
+    <input id="date2" type="date">
+    <button id="dateDiffButton">Regn ut</button>
+    <p id="dateDiffResult"></p>
+</div>
+
+<!-- Tidssoner -->
+<div>
+    <h2>Tidssoner</h2>
+    <input id="timezone" type="text" placeholder="Eks: Europe/Oslo">
+    <button id="timezoneButton">Vis tid</button>
+    <p id="timezoneResult"></p>
+</div>
+
+<!-- Random tidskonvertering -->
+<div>
+    <h2>Minutter → Timer/Dager</h2>
+    <input id="minutesInput" type="number" placeholder="Antall minutter">
+    <button id="minutesButton">Konverter</button>
+    <p id="minutesResult"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
