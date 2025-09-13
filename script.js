@@ -86,6 +86,36 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         }
 
+    // ⏰ Tid-diff
+    const timeBtn = document.getElementById('timeDiffButton');
+    if (timeBtn) {
+        timeBtn.addEventListener('click', () => {
+            const t1 = document.getElementById('time1').value;
+            const t2 = document.getElementById('time2').value;
+
+            if (!t1 || !t2) return; // sjekk at begge er fylt inn
+
+            // split "HH:MM"
+            const [h1, m1] = t1.split(":").map(Number);
+            const [h2, m2] = t2.split(":").map(Number);
+
+            // gjør om til minutter siden midnatt
+            const total1 = h1 * 60 + m1;
+            const total2 = h2 * 60 + m2;
+
+            // absolutt differanse
+            const diffMinutes = Math.abs(total2 - total1);
+            const hours = Math.floor(diffMinutes / 60);
+            const minutes = diffMinutes % 60;
+
+            const el = document.getElementById('timeDiffResult');
+            if (el) {
+                el.innerHTML = `Forskjell: ${hours} timer og ${minutes} minutter`;
+            }
+        });
+    }
+
+
   // 🌍 Tidssoner
         const tzBtn = document.getElementById('timezoneButton');
         if (tzBtn) {
