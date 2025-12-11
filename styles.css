@@ -16,11 +16,22 @@ main {
     gap: 1rem;
 }
 
-div {
+div.background1 {
+    border: 1px solid #243242;
+    padding: 2rem;
+    border-radius: 12px;
+}
+
+.bordercolor {
+    border: 1px solid #243242;
+}
+
+.bordershadow { 
+    box-shadow: 0 0 10px rgb(5, 14, 22);
     background-color: rgb(15, 33, 51);
     padding: 1.5rem;
     border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+
 }
 
 /* Knappestil */
@@ -29,7 +40,7 @@ button {
     background: #0df2d7;
     border: 0px solid rgb(242, 105, 13);
     padding: 0.6rem 1.2rem;
-    border-radius: 12px;
+    border-radius: 8px;
     cursor: pointer;
     transition: border 0.2s, box-shadow 0.2s, background 0.2s;
 }
@@ -43,12 +54,13 @@ button:hover {
 input[type="number"],
 input[type="date"],
 input[type="text"] {
-    padding: 0.5rem 0.8rem;
-    margin: 0.5rem; /* legger litt space på alle sider */
-    border: 1px solid rgb(13, 242, 215);
-    border-radius: 12px;
+    padding: 1rem 1rem;
+    margin: 0rem; /* legger litt space på alle sider */
+    border: 2px solid rgb(13, 242, 215);
+    border-radius: 8px;
     font-size: 1rem;
     width: 150px;
+    Color: #000
 }
 
 
@@ -95,7 +107,7 @@ h2 {
     font-size: 1.2rem;
     padding: 5px;
     border: none;
-    border-radius: 6px;
+    border-radius: 8px;
     background: #071627; /* int */
     color: #00f597; /* int */
 }

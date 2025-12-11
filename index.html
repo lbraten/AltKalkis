@@ -8,157 +8,157 @@
 </head>
 <body>
     <h1>AltKalkis <br />Tid &amp; Tall</h1>
-
-    <main>
-        <!-- Dagens dato og klokkeslett -->
-        <div>
-            <h2>Dagens dato og klokkeslett</h2>
-            <p id="currentDateTime"></p>
-        </div>
-
-        <!-- Prosentkalkulator -->
-        <div>
-            <h2>Prosentkalkulator</h2>
-            <input id="percentValue" type="number" placeholder="Tall" />
-            <input id="percentPercent" type="number" placeholder="%" />
-            <button id="percentButton">Regn ut</button>
-            <p id="percentResult"></p>
-        </div>
-
-        <!-- Timeslønn kalkulator -->
-        <div>
-            <h2>Timeslønn / månedslønn</h2>
-            <input id="monthlySalary" type="number" placeholder="Månedslønn" />
-            <input id="hoursPerWeek" type="number" placeholder="Timer per uke" />
-            <button id="hourlyButton">Regn ut timeslønn</button>
-            <p id="hourlyResult"></p>
-        </div>
-
-        <!-- Alderskalkulator -->
-        <div>
-            <h2>Alder</h2>
-            <input id="birthDate" type="date" />
-            <button id="ageButton">Regn ut alder</button>
-            <p id="ageResult"></p>
-        </div>
-
-        <!-- Differanse mellom datoer -->
-        <div>
-            <h2>Differanse mellom datoer</h2>
-            <input id="date1" type="date" />
-            <input id="date2" type="date" />
-            <button id="dateDiffButton">Regn ut</button>
-            <p id="dateDiffResult"></p>
-        </div>
-
-        <!-- Differanse mellom klokkeslett -->
-        <div>
-            <h2>Differanse mellom klokkeslett</h2>
-            <input id="time1" type="time" />
-            <input id="time2" type="time" />
-            <button id="timeDiffButton">Regn ut</button>
-            <p id="timeDiffResult"></p>
-        </div>
-
-        <!-- Tidssoner -->
-        <div>
-            <h2>Tidssoner</h2>
-            <select id="timezoneSelect">
-                <option value="Europe/London">GMT / London</option>
-                <option value="Atlantic/Reykjavik">GMT / Reykjavik</option>
-                <option value="Europe/Berlin">CET / Berlin</option>
-                <option value="Europe/Oslo" selected>CET / Oslo</option>
-                <option value="Europe/Moscow">MSK / Moscow</option>
-                <!-- flere tidssoner... -->
-            </select>
-            <button id="timezoneButton">Vis tid</button>
-            <p id="timezoneResult"></p>
-        </div>
-
-        <!-- Kalkulator -->
-        <div>
-            <h2>Kalkulator</h2>
-            <input type="text" id="calcDisplay" disabled />
-            <div class="calc-buttons">
-                <button class="calc-btn">7</button>
-                <button class="calc-btn">8</button>
-                <button class="calc-btn">9</button>
-                <button class="calc-btn operator">/</button>
-
-                <button class="calc-btn">4</button>
-                <button class="calc-btn">5</button>
-                <button class="calc-btn">6</button>
-                <button class="calc-btn operator">*</button>
-
-                <button class="calc-btn">1</button>
-                <button class="calc-btn">2</button>
-                <button class="calc-btn">3</button>
-                <button class="calc-btn operator">-</button>
-
-                <button class="calc-btn">0</button>
-                <button class="calc-btn">.</button>
-                <button class="calc-btn" id="clear">C</button>
-                <button class="calc-btn operator">+</button>
-
-                <button class="calc-btn equal" id="equals">=</button>
+    <div class="background1">
+        <main>
+            <!-- Dagens dato og klokkeslett -->
+            <div class="bordershadow">
+                <h2>Dagens dato og klokkeslett</h2>
+                <p id="currentDateTime"></p>
             </div>
-        </div>
 
-        <!-- Valutakalkulator -->
-        <div class="container">
-            <h2>Valutakalkulator</h2>
-            <div class="converter">
-                <input type="number" id="amount" placeholder="Beløp i NOK" />
-                <select id="currency">
-                    <option value="EUR">Euro (EUR)</option>
-                    <option value="USD">US Dollar (USD)</option>
-                    <option value="GBP">Britiske Pund (GBP)</option>
-                    <!-- flere valutaer... -->
+            <!-- Prosentkalkulator -->
+            <div class="bordershadow">
+                <h2>Prosentkalkulator</h2>
+                <input id="percentValue" type="number" placeholder="Tall" />
+                <input id="percentPercent" type="number" placeholder="%" />
+                <button id="percentButton">Regn ut</button>
+                <p id="percentResult"></p>
+            </div>
+
+            <!-- Timeslønn kalkulator -->
+            <div class="bordershadow">
+                <h2>Timeslønn / månedslønn</h2>
+                <input id="monthlySalary" type="number" placeholder="Månedslønn" />
+                <input id="hoursPerWeek" type="number" placeholder="Timer per uke" />
+                <button id="hourlyButton">Regn ut timeslønn</button>
+                <p id="hourlyResult"></p>
+            </div>
+
+            <!-- Alderskalkulator -->
+            <div class="bordershadow">
+                <h2>Alder</h2>
+                <input id="birthDate" type="date" />
+                <button id="ageButton">Regn ut alder</button>
+                <p id="ageResult"></p>
+            </div>
+
+            <!-- Differanse mellom datoer -->
+            <div class="bordershadow">
+                <h2>Differanse mellom datoer</h2>
+                <input id="date1" type="date" />
+                <input id="date2" type="date" />
+                <button id="dateDiffButton">Regn ut</button>
+                <p id="dateDiffResult"></p>
+            </div>
+
+            <!-- Differanse mellom klokkeslett -->
+            <div class="bordershadow">
+                <h2>Differanse mellom klokkeslett</h2>
+                <input id="time1" type="time" />
+                <input id="time2" type="time" />
+                <button id="timeDiffButton">Regn ut</button>
+                <p id="timeDiffResult"></p>
+            </div>
+
+            <!-- Tidssoner -->
+            <div class="bordershadow">
+                <h2>Tidssoner</h2>
+                <select id="timezoneSelect">
+                    <option value="Europe/London">GMT / London</option>
+                    <option value="Atlantic/Reykjavik">GMT / Reykjavik</option>
+                    <option value="Europe/Berlin">CET / Berlin</option>
+                    <option value="Europe/Oslo" selected>CET / Oslo</option>
+                    <option value="Europe/Moscow">MSK / Moscow</option>
+                    <!-- flere tidssoner... -->
                 </select>
-                <button id="convertBtn">Konverter</button>
+                <button id="timezoneButton">Vis tid</button>
+                <p id="timezoneResult"></p>
             </div>
-            <div id="result"></div>
-        </div>
 
-        <!-- Dagens historiske -->
-        <div>
-            <h2>Dagens historiske</h2>
-            <p id="dagens">Laster...</p>
-        </div>
+            <!-- Kalkulator -->
+            <div class="bordershadow">
+                <h2>Kalkulator</h2>
+                <input type="text" class="bordercolor" id="calcDisplay" disabled />
+                <div class="calc-buttons">
+                    <button class="calc-btn">7</button>
+                    <button class="calc-btn">8</button>
+                    <button class="calc-btn">9</button>
+                    <button class="calc-btn operator">/</button>
 
-        <!-- Klokke-widget -->
-        <div class="wrap" id="klokke">
-            <h1>Enkel klokke‑widget</h1>
+                    <button class="calc-btn">4</button>
+                    <button class="calc-btn">5</button>
+                    <button class="calc-btn">6</button>
+                    <button class="calc-btn operator">*</button>
 
-            <div class="label">timer</div>
-            <div id="timeren" class="display">00:00:00</div>
+                    <button class="calc-btn">1</button>
+                    <button class="calc-btn">2</button>
+                    <button class="calc-btn">3</button>
+                    <button class="calc-btn operator">-</button>
 
-            <div class="label">nedtelling</div>
-            <div id="nedtelling" class="display">00:10:00</div>
+                    <button class="calc-btn">0</button>
+                    <button class="calc-btn">.</button>
+                    <button class="calc-btn" id="clear">C</button>
+                    <button class="calc-btn operator">+</button>
 
-            <div class="row">
-                <input id="minInput" type="number" min="0" step="1" placeholder="Minutter" />
-                <input id="sekInput" type="number" min="0" max="59" step="1" placeholder="Sekunder" />
-                <button id="startBtn" type="button">Start nedtelling</button>
-                <button id="stoppBtn" type="button">Stopp</button>
-                <button id="resetBtn" type="button">Reset</button>
+                    <button class="calc-btn equal" id="equals">=</button>
+                </div>
             </div>
-            <div class="muted">Hint: La feltene stå tomme for å starte en rask 10‑minutters nedtelling.</div>
-        </div>
 
-        <!-- Været -->
-        <div id="weather">
-            <h2>Været i Oslo</h2>
-            <p class="temp">Henter...</p>
-        </div>
+            <!-- Valutakalkulator -->
+            <div class="bordershadow">
+                <h2>Valutakalkulator</h2>
+                <div class="converter">
+                    <input type="number" id="amount" placeholder="Beløp i NOK" />
+                    <select id="currency">
+                        <option value="EUR">Euro (EUR)</option>
+                        <option value="USD">US Dollar (USD)</option>
+                        <option value="GBP">Britiske Pund (GBP)</option>
+                        <!-- flere valutaer... -->
+                    </select>
+                    <button id="convertBtn">Konverter</button>
+                </div>
+                <div id="result"></div>
+            </div>
 
-        <!-- Dagens quote -->
-        <div id="quote">
-            <h2>Dagens sitat</h2>
-            <p id="quoteResult">Henter...</p>
-        </div>
-    </main>
+            <!-- Dagens historiske -->
+            <div class="bordershadow">
+                <h2>Dagens historiske</h2>
+                <p id="dagens">Laster...</p>
+            </div>
 
+            <!-- Klokke-widget -->
+            <div class="bordershadow" id="klokke">
+                <h1>Enkel klokke‑widget</h1>
+
+                <div class="label">timer</div>
+                <div id="timeren" class="display">00:00:00</div>
+
+                <div class="label">nedtelling</div>
+                <div id="nedtelling" class="display">00:10:00</div>
+
+                <div class="row">
+                    <input id="minInput" type="number" min="0" step="1" placeholder="Minutter" />
+                    <input id="sekInput" type="number" min="0" max="59" step="1" placeholder="Sekunder" />
+                    <button id="startBtn" type="button">Start nedtelling</button>
+                    <button id="stoppBtn" type="button">Stopp</button>
+                    <button id="resetBtn" type="button">Reset</button>
+                </div>
+                <div class="muted">Hint: La feltene stå tomme for å starte en rask 10‑minutters nedtelling.</div>
+            </div>
+
+            <!-- Været -->
+            <div id="weather" class="bordershadow">
+                <h2>Været i Oslo</h2>
+                <p class="temp">Henter...</p>
+            </div>
+
+            <!-- Dagens quote -->
+            <div class="bordershadow" id="quote">
+                <h2>Dagens sitat</h2>
+                <p id="quoteResult">Henter...</p>
+            </div>
+        </main>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
