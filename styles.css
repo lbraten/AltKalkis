@@ -40,6 +40,14 @@ div.background1 {
     border-radius: 12px;
 }
 
+.lysereboks {
+    background-color: rgb(15, 33, 51);
+    border: 1px solid #243242;
+    color:#ffffff;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
 #percentResult {
     margin-left: 15px;
     color:#ffffff
@@ -136,7 +144,6 @@ h2 {
     text-align: right;
     font-size: 1.2rem;
     padding: 5px;
-    border: none;
     border-radius: 8px;
     background: #071627; /* int */
     color: #00f597; /* int */
@@ -145,7 +152,7 @@ h2 {
 .calc-buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 8px;
+    gap: 3px;
     background: #071627;
     border: 1px solid #243242;
     padding: 1rem;
@@ -202,5 +209,17 @@ h2 {
 }
 
 .resultbtn {
-    color:#ff0000
+    color:#ff00bf
+}
+
+.valutaboks {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-inline-end: 20px;
+    border: 1px solid #243242;
+    border-radius: 8px;
+    font-size: 1rem;
+    width: 150px;
+    background-color: rgb(15, 33, 51);
+    color:#ffffff
 }
