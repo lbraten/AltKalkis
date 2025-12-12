@@ -1,15 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     console.log("✅ DOM er lastet");
 
-    // 🔄 Dato og tid
-    function updateDateTime() {
-        const now = new Date();
-        const el = document.getElementById("currentDateTime");
-        if (el) el.innerText = now.toLocaleString("nb-NO");
-    }
-    updateDateTime();
-    setInterval(updateDateTime, 1000);
-
     // 📊 Prosentkalkulator
     const percentBtn = document.getElementById("percentButton");
     if (percentBtn) {

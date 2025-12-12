@@ -223,3 +223,11 @@ h2 {
     background-color: rgb(15, 33, 51);
     color:#ffffff
 }
+
+#analogClock {
+  display: block;
+  max-width: 280px;
+  width: 100%;
+  height: auto;
+  margin: 8px 0 4px;
+}
