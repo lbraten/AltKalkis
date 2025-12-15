@@ -8,6 +8,8 @@
 </head>
 <body>
     <h1>AltKalkis <br />Tid &amp; Tall</h1>
+    <link rel="icon" href="hvit.altkalkis.png">
+    <img class="ikon" src="hvit.altkalkis.png">
     <div class="background1">
         <main>
             <!-- Dagens dato og klokkeslett -->
@@ -178,6 +180,40 @@
                 <div class="muted">Hint: La feltene stå tomme for å starte en rask 10‑minutters nedtelling.</div>
             </div>
 
+
+            <!-- Hex / Color palette (The Color API) -->
+            <div class="bordershadow" id="colorWidget">
+            <h2>Hex / fargepalett</h2>
+
+            <div class="converter">
+                <input id="hexInput" type="text" placeholder="#0df2d7 eller 0df2d7" />
+                <input id="colorPicker" type="color" value="#0df2d7" aria-label="Velg farge" />
+                <select id="schemeMode" class="lysereboks" aria-label="Palett-modus">
+                <option value="monochrome">Monochrome</option>
+                <option value="monochrome-dark">Monochrome dark</option>
+                <option value="monochrome-light">Monochrome light</option>
+                <option value="analogic" selected>Analogic</option>
+                <option value="complement">Complement</option>
+                <option value="analogic-complement">Analogic complement</option>
+                <option value="triad">Triad</option>
+                <option value="quad">Quad</option>
+                </select>
+
+                <button id="hexFetchBtn" class="vanligknapp" type="button">Hent</button>
+            </div>
+
+            <p id="hexStatus" style="margin-top:10px; margin-bottom:8px;">Klar.</p>
+
+            <div id="hexInfo" class="hex-info" hidden></div>
+
+            <h3 style="margin-top: 14px;">Palette</h3>
+            <div id="palette" class="palette" aria-label="Fargepalett"></div>
+
+            <p class="muted" style="margin-top:8px;">
+                Klikk på en farge for å kopiere HEX.
+            </p> </div>
+
+
             
             <!-- Vær (Open-Meteo) -->
             <div id="openMeteoWidget" class="bordershadow">
@@ -220,6 +256,13 @@
                 <h2>Sitat</h2>
                 <p id="quoteResult">Henter...</p>
             </div>
+            
+            <h1 id="holidayTitle">Helligdager</h1>
+
+            <div id="holidays">
+            <p>Laster helligdager…</p>
+            </div>
+
 
             <div class="bordershadow" class="fund-widget" id="fundWidget">
             <h2>KLP AksjeGlobal Indeks N</h2>
@@ -241,6 +284,8 @@
             </div>
         </main>
     </div>
+    <script src="holidays.js"></script>
+    <script src="color-widget.js"></script>
     <script src="onthisday.js"></script>
     <script src="open-meteo.js"></script>
     <script src="script.js"></script>

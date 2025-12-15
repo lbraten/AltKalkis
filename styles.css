@@ -234,7 +234,6 @@ h2 {
   margin: 8px 0 4px;
 }
 
-
 a:link,
 a:visited {
   color: #0df2d7;
@@ -249,7 +248,12 @@ a:visited {
 
 a:hover {
   color: #0df2d7;
-
-  /* Bare gjør streken tykkere ved hover */
   text-decoration-thickness: 2px;
+}
+
+.ikon {
+    position: absolute;
+    top: 45px;
+    left: 60px;
+    height: 120px;
 }
