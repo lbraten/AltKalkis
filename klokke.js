@@ -14,14 +14,11 @@ function drawAnalogClock() {
 
   // Skarp på høy-DPI skjermer (retina)
   const dpr = window.devicePixelRatio || 1;
-  const logicalSize = Math.min(canvas.width, canvas.height);
-  const size = logicalSize; // attributtstørrelse (px) fra HTML
-  if (canvas._scaled !== true) {
+  const rect = canvas.getBoundingClientRect();
+  const size = Math.round(Math.min(rect.width, rect.height));
+  if (canvas.width !== size * dpr || canvas.height !== size * dpr) {
     canvas.width = size * dpr;
     canvas.height = size * dpr;
-    canvas.style.width = size + "px";
-    canvas.style.height = size + "px";
-    canvas._scaled = true;
   }
   ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
 
@@ -29,6 +26,7 @@ function drawAnalogClock() {
   ctx.clearRect(0, 0, size, size);
 
   // Midtpunkt
+  ctx.save();
   ctx.translate(radius, radius);
 
   // Bakgrunn / klokkeramme
@@ -110,6 +108,8 @@ function drawAnalogClock() {
   ctx.arc(0, 0, 4, 0, Math.PI * 2);
   ctx.fillStyle = "#333333";
   ctx.fill();
+
+  ctx.restore();
 }
 
 // ⏱ Oppdateringstimer

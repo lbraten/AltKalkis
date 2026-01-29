@@ -227,11 +227,11 @@ h2 {
 }
 
 #analogClock {
-  display: block;
-  max-width: 280px;
-  width: 100%;
-  height: auto;
-  margin: 8px 0 4px;
+    display: block;
+    width: 220px;
+    height: 220px;
+    max-width: none;
+    margin: 8px 0 4px;
 }
 
 a:link,
