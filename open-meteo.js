@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const cityInput = document.getElementById("omCity");
   const searchCityBtn = document.getElementById("omSearchCityBtn");
   const cityResults = document.getElementById("omCityResults");
+  const presetCitySelect = document.getElementById("omPresetCity");
 
   const latInput = document.getElementById("omLat");
   const lonInput = document.getElementById("omLon");
@@ -80,6 +81,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     setStatus("Ferdig.");
     renderWeather({ label, lat, lon, data });
+    document.dispatchEvent(
+      new CustomEvent("open-meteo:forecast", {
+        detail: { lat, lon },
+      })
+    );
   }
 
   async function geocodeCity(name) {
@@ -154,6 +160,27 @@ document.addEventListener("DOMContentLoaded", () => {
     // Derfor: lat/lon blir satt når du klikker "Hent vær" etter å ha valgt.
     setStatus("Trykk «Hent vær» for valgt treff.");
   });
+
+  if (presetCitySelect) {
+    presetCitySelect.addEventListener("change", async () => {
+      const opt = presetCitySelect.selectedOptions[0];
+      if (!opt || !opt.dataset.lat || !opt.dataset.lon) return;
+
+      const lat = Number(opt.dataset.lat);
+      const lon = Number(opt.dataset.lon);
+      if (!Number.isFinite(lat) || !Number.isFinite(lon)) return;
+
+      latInput.value = lat;
+      lonInput.value = lon;
+
+      try {
+        await fetchForecast(lat, lon, opt.value || "Valgt by");
+      } catch (err) {
+        console.error(err);
+        setStatus(`Feil: ${err.message}`);
+      }
+    });
+  }
 
   fetchBtn.addEventListener("click", async () => {
     const lat = Number(latInput.value);

@@ -232,16 +232,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     getDailyQuote();
 
-    // 📈 Demo line chart (fake data)
-    function generateRandomSeries(count, min, max) {
-        const values = [];
-        for (let i = 0; i < count; i++) {
-            values.push(Math.floor(min + Math.random() * (max - min + 1)));
-        }
-        return values;
-    }
-
-    function drawDemoLineChart(canvas) {
+    // 📈 Temperatur siste 30 dager (Open-Meteo)
+    function drawTemperatureLineChart(canvas, labels, points) {
         if (!canvas) return;
         const ctx = canvas.getContext("2d");
         if (!ctx) return;
@@ -258,28 +250,24 @@ document.addEventListener("DOMContentLoaded", () => {
         canvas.width = width * dpr;
         canvas.height = height * dpr;
 
-        // Fake data points (random)
-        const points = generateRandomSeries(12, 12, 68);
-        const formatter = new Intl.DateTimeFormat("no-NO", {
-            day: "2-digit",
-            month: "2-digit",
-            year: "numeric",
+        const safePoints = Array.isArray(points) ? points : [];
+        const safeLabels = Array.isArray(labels) ? labels : [];
+        const tempFormatter = new Intl.NumberFormat("no-NO", {
+            minimumFractionDigits: 0,
+            maximumFractionDigits: 1,
         });
-        const today = new Date();
-        const labels = points.map((_, i) => {
-            const d = new Date(today);
-            d.setDate(today.getDate() - (points.length - 1 - i));
-            return formatter.format(d);
-        });
-        const maxVal = Math.max(...points) + 8;
-        const minVal = Math.min(...points) - 8;
+
+        const finitePoints = safePoints.filter((v) => Number.isFinite(v));
+        const maxVal = (finitePoints.length ? Math.max(...finitePoints) : 0) + 4;
+        const minVal = (finitePoints.length ? Math.min(...finitePoints) : 0) - 4;
         const padX = 10;
         const padY = 12;
         const usableW = width - padX * 2;
         const usableH = height - padY * 2;
 
-        const coords = points.map((v, i) => {
-            const x = padX + (usableW * i) / (points.length - 1);
+        const denom = Math.max(1, safePoints.length - 1);
+        const coords = safePoints.map((v, i) => {
+            const x = padX + (usableW * i) / denom;
             const t = (v - minVal) / (maxVal - minVal);
             const y = height - padY - t * usableH;
             return { x, y };
@@ -345,7 +333,8 @@ document.addEventListener("DOMContentLoaded", () => {
             const paddingY = 8;
             const lineHeight = 16;
             const text1 = label;
-            const text2 = `Verdi: ${value}`;
+            const tempText = Number.isFinite(value) ? `${tempFormatter.format(value)}°C` : "—";
+            const text2 = `Temperatur: ${tempText}`;
 
             ctx.font = "12px system-ui, -apple-system, Segoe UI, sans-serif";
             const w1 = ctx.measureText(text1).width;
@@ -430,7 +419,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.arc(p.x, p.y, 7, 0, Math.PI * 2);
                 ctx.stroke();
 
-                drawTooltip(hoverPos, labels[hoverIndex], points[hoverIndex]);
+                drawTooltip(hoverPos, safeLabels[hoverIndex], safePoints[hoverIndex]);
             }
         }
 
@@ -487,8 +476,191 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    const trendChart = document.getElementById("trendChart");
-    drawDemoLineChart(trendChart);
+    function replaceAndDrawTrendChart(labels, points) {
+        const current = document.getElementById("trendChart");
+        if (!current || !current.parentNode) return;
+        const fresh = current.cloneNode(true);
+        current.parentNode.replaceChild(fresh, current);
+        drawTemperatureLineChart(fresh, labels, points);
+    }
+
+    const dayFormatter = new Intl.DateTimeFormat("no-NO", {
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric",
+    });
+
+    function formatDateYmd(d) {
+        const year = d.getFullYear();
+        const month = String(d.getMonth() + 1).padStart(2, "0");
+        const day = String(d.getDate()).padStart(2, "0");
+        return `${year}-${month}-${day}`;
+    }
+
+    function getLastDaysRange(days = 30) {
+        const end = new Date();
+        const start = new Date();
+        start.setDate(end.getDate() - (days - 1));
+        return { start, end };
+    }
+
+    function getRangeForKey(rangeKey) {
+        const today = new Date();
+        if (rangeKey === "1y") {
+            return getLastDaysRange(365);
+        }
+        if (rangeKey === "ytd") {
+            return { start: new Date(today.getFullYear(), 0, 1), end: today };
+        }
+        if (rangeKey === "5y") {
+            return getLastDaysRange(365 * 5);
+        }
+        return getLastDaysRange(30);
+    }
+
+    async function fetchTemperaturesForRange(lat, lon, rangeKey) {
+        const { start, end } = getRangeForKey(rangeKey);
+        const startDate = formatDateYmd(start);
+        const endDate = formatDateYmd(end);
+
+        const url =
+            "https://archive-api.open-meteo.com/v1/archive" +
+            `?latitude=${encodeURIComponent(lat)}` +
+            `&longitude=${encodeURIComponent(lon)}` +
+            `&start_date=${startDate}` +
+            `&end_date=${endDate}` +
+            `&daily=temperature_2m_mean` +
+            `&timezone=Europe%2FOslo`;
+
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`Vær-API feil: ${res.status} ${res.statusText}`);
+        const data = await res.json();
+
+        const days = data?.daily?.time || [];
+        const temps = data?.daily?.temperature_2m_mean || [];
+
+        const labels = days.map((d) => dayFormatter.format(new Date(d)));
+        const values = temps.map((t) => (Number.isFinite(t) ? t : null));
+
+        return { labels, values };
+    }
+
+    const omStatusEl = document.getElementById("omStatus");
+    const omRangeSelector = document.getElementById("omRangeSelector");
+    const omRangeButtons = omRangeSelector
+        ? Array.from(omRangeSelector.querySelectorAll("[data-range]"))
+        : [];
+    const omRangeIndicator = omRangeSelector
+        ? omRangeSelector.querySelector(".range-selector__indicator")
+        : null;
+
+    const setOmStatus = (msg) => {
+        if (omStatusEl) omStatusEl.textContent = msg;
+    };
+
+    let omSelectedRange = "30d";
+
+    const positionRangeIndicator = () => {
+        if (!omRangeSelector || !omRangeIndicator) return;
+        const activeBtn = omRangeSelector.querySelector(".range-selector__btn.is-active");
+        if (!activeBtn) return;
+        const buttonRect = activeBtn.getBoundingClientRect();
+        const containerRect = omRangeSelector.getBoundingClientRect();
+        const offsetX = buttonRect.left - containerRect.left;
+        omRangeIndicator.style.width = `${buttonRect.width}px`;
+        omRangeIndicator.style.transform = `translateX(${offsetX}px)`;
+    };
+
+    const setActiveRange = (nextRange) => {
+        if (!nextRange || omSelectedRange === nextRange) return;
+        omSelectedRange = nextRange;
+        omRangeButtons.forEach((btn) => {
+            const isActive = btn.dataset.range === nextRange;
+            btn.classList.toggle("is-active", isActive);
+            btn.setAttribute("aria-selected", isActive ? "true" : "false");
+        });
+        positionRangeIndicator();
+    };
+
+    async function updateTrendChartForCoords(lat, lon) {
+        if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
+            setOmStatus("Skriv inn gyldige koordinater.");
+            return;
+        }
+        try {
+            setOmStatus("Henter temperatur…");
+            const { labels, values } = await fetchTemperaturesForRange(lat, lon, omSelectedRange);
+            replaceAndDrawTrendChart(labels, values);
+            setOmStatus("");
+        } catch (err) {
+            console.error(err);
+            setOmStatus(`Feil: ${err.message}`);
+        }
+    }
+
+    const omLatInput = document.getElementById("omLat");
+    const omLonInput = document.getElementById("omLon");
+    const omPresetCity = document.getElementById("omPresetCity");
+    const DEFAULT_LAT = 59.9139;
+    const DEFAULT_LON = 10.7522;
+
+    if (omLatInput && omLonInput) {
+        if (omRangeButtons.length) {
+            omRangeButtons.forEach((btn) => {
+                btn.addEventListener("click", () => {
+                    const nextRange = btn.dataset.range;
+                    setActiveRange(nextRange);
+                    updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
+                });
+            });
+            requestAnimationFrame(positionRangeIndicator);
+            window.addEventListener("resize", positionRangeIndicator);
+        }
+
+        if (!omLatInput.value) omLatInput.value = DEFAULT_LAT;
+        if (!omLonInput.value) omLonInput.value = DEFAULT_LON;
+
+        let omInputTimer = null;
+        const scheduleOmUpdate = () => {
+            if (omInputTimer) clearTimeout(omInputTimer);
+            omInputTimer = setTimeout(() => {
+                updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
+            }, 400);
+        };
+
+        if (omPresetCity) {
+            const opt = omPresetCity.selectedOptions[0];
+            const lat = Number(opt?.dataset?.lat);
+            const lon = Number(opt?.dataset?.lon);
+            if (Number.isFinite(lat) && Number.isFinite(lon)) {
+                omLatInput.value = lat;
+                omLonInput.value = lon;
+            }
+
+            omPresetCity.addEventListener("change", () => {
+                const sel = omPresetCity.selectedOptions[0];
+                const nextLat = Number(sel?.dataset?.lat);
+                const nextLon = Number(sel?.dataset?.lon);
+                if (Number.isFinite(nextLat) && Number.isFinite(nextLon)) {
+                    omLatInput.value = nextLat;
+                    omLonInput.value = nextLon;
+                    updateTrendChartForCoords(nextLat, nextLon);
+                }
+            });
+        }
+
+        omLatInput.addEventListener("input", scheduleOmUpdate);
+        omLonInput.addEventListener("input", scheduleOmUpdate);
+        omLatInput.addEventListener("change", scheduleOmUpdate);
+        omLonInput.addEventListener("change", scheduleOmUpdate);
+
+        updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
+    }
+
+    document.addEventListener("open-meteo:forecast", (evt) => {
+        const { lat, lon } = evt?.detail || {};
+        updateTrendChartForCoords(Number(lat), Number(lon));
+    });
 
     // ⏱️ Klokke-widget
     const timerDisplay = document.getElementById("timeren");

@@ -22,7 +22,26 @@
 
             <!-- Grafer (plassholdere) -->
             <div class="bordershadow card--wide card--m" id="charts">
-                <h2>Grafer</h2>
+                <h2>Temperatur (°C)</h2>
+                <div class="converter" style="gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:10px;">
+                    <select id="omPresetCity" class="lysereboks" aria-label="Velg by">
+                        <option value="Oslo" data-lat="59.9139" data-lon="10.7522">Oslo</option>
+                        <option value="Bergen" data-lat="60.3913" data-lon="5.3221">Bergen</option>
+                        <option value="Trondheim" data-lat="63.4305" data-lon="10.3951">Trondheim</option>
+                        <option value="Stavanger" data-lat="58.9690" data-lon="5.7331">Stavanger</option>
+                        <option value="Tromsø" data-lat="69.6492" data-lon="18.9553">Tromsø</option>
+                    </select>
+                    <input id="omLat" type="number" step="0.0001" placeholder="Latitude" aria-label="Latitude" />
+                    <input id="omLon" type="number" step="0.0001" placeholder="Longitude" aria-label="Longitude" />
+                    <div id="omRangeSelector" class="range-selector" role="tablist" aria-label="Velg periode">
+                        <span class="range-selector__indicator" aria-hidden="true"></span>
+                        <button type="button" class="range-selector__btn is-active" data-range="30d" role="tab" aria-selected="true">30 D</button>
+                        <button type="button" class="range-selector__btn" data-range="1y" role="tab" aria-selected="false">1 ÅR</button>
+                        <button type="button" class="range-selector__btn" data-range="ytd" role="tab" aria-selected="false">YTD</button>
+                        <button type="button" class="range-selector__btn" data-range="5y" role="tab" aria-selected="false">5 ÅR</button>
+                    </div>
+                    <div id="omStatus" class="sr-only" aria-live="polite"></div>
+                </div>
                 <div class="chart-grid">
                     <div class="chart-tile">
                         <canvas id="trendChart" class="chart-canvas" aria-label="Trend graf"></canvas>
@@ -159,6 +178,12 @@
                 <div id="result"></div>
             </div>
 
+                 <!-- Dagens quote -->
+            <div class="bordershadow card--s" id="quote">
+                <h2>Sitat</h2>
+                <p id="quoteResult">Henter...</p>
+            </div>
+
             <!-- Dagens historiske -->
             <div class="bordershadow card--wide">
                 <h2>Dagens historiske</h2>
@@ -218,49 +243,6 @@
                 Klikk på en farge for å kopiere HEX.
             </p> </div>
 
-
-            
-            <!-- Vær (Open-Meteo) -->
-            <div id="openMeteoWidget" class="bordershadow card--wide card--m">
-            <h2>Vær (Open-Meteo)</h2>
-
-            <div class="converter">
-                <!-- By-søk -->
-                <input id="omCity" type="text" placeholder="By (f.eks. Molde, Oslo)" />
-                <button id="omSearchCityBtn" class="vanligknapp" type="button">Søk by</button>
-            </div>
-
-            <div class="converter" style="margin-top: 8px;">
-                <!-- Treff-liste -->
-                <select id="omCityResults" class="lysereboks" style="width: 100%;" hidden></select>
-            </div>
-
-            <div class="converter" style="margin-top: 10px;">
-                <!-- Koordinater -->
-                <input id="omLat" type="number" step="0.0001" placeholder="Latitude (f.eks. 62.7370)" />
-                <input id="omLon" type="number" step="0.0001" placeholder="Longitude (f.eks. 7.1600)" />
-                <button id="omFetchBtn" class="vanligknapp" type="button">Hent vær</button>
-            </div>
-
-            <div class="converter" style="margin-top: 10px;">
-                <button id="omMyLocationBtn" class="vanligknapp" type="button">Bruk min posisjon</button>
-            </div>
-
-            <div class="percentResult" style="margin-top: 10px;">
-                <p id="omStatus" style="margin: 0;">Klar.</p>
-            </div>
-
-            <div id="omOutput" style="margin-top: 10px;">
-                <p style="margin:0;">Ingen data enda.</p>
-            </div>
-            </div>
-
-
-            <!-- Dagens quote -->
-            <div class="bordershadow card--s" id="quote">
-                <h2>Sitat</h2>
-                <p id="quoteResult">Henter...</p>
-            </div>
             
             <div class="bordershadow card--wide card--m" id="holidayCard">
                 <h2 id="holidayTitle">Helligdager</h2>
@@ -294,7 +276,6 @@
     <script src="holidays.js"></script>
     <script src="color-widget.js"></script>
     <script src="onthisday.js"></script>
-    <script src="open-meteo.js"></script>
     <script src="script.js"></script>
     <script src="fund-klp.js"></script>
     <script src="klokke.js"></script>

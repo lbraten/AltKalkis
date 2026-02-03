@@ -1,6 +1,14 @@
 
 <!-- HTML -->
-<canvas id="myAreaChart" style="width:100%;max-width:800px;height:320px"></canvas>
+<div style="max-width:800px;">
+  <div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:10px;">
+    <input id="omLat" type="number" step="0.0001" placeholder="Latitude" style="flex:1; min-width:140px;" />
+    <input id="omLon" type="number" step="0.0001" placeholder="Longitude" style="flex:1; min-width:140px;" />
+    <button id="omFetchBtn" type="button">Hent siste 30 dager</button>
+    <span id="omStatus" style="opacity:.75; font-size:14px;">Klar.</span>
+  </div>
+  <canvas id="myAreaChart" style="width:100%;max-width:800px;height:320px"></canvas>
+</div>
 
 <script type="module">
   import {
@@ -30,36 +38,23 @@
   const tickColor = getComputedStyle(document.documentElement)
     .getPropertyValue('--bfc-base-c-2')?.trim() || '#6b7280';
 
-  const locale = 'en-US';
-  const monthYearFormatter = new Intl.DateTimeFormat(locale, { month: 'short', year: 'numeric' });
-  const numberFormatter = new Intl.NumberFormat(locale);
+  const locale = 'nb-NO';
+  const dayFormatter = new Intl.DateTimeFormat(locale, { day: '2-digit', month: '2-digit', year: 'numeric' });
+  const numberFormatter = new Intl.NumberFormat(locale, { maximumFractionDigits: 1 });
 
-  const raw = [
-    { date: '2023-01', value: 242725 },
-    { date: '2023-02', value: 237632 },
-    { date: '2023-03', value: 216610 },
-    { date: '2023-04', value: 225223 },
-    { date: '2023-05', value: 210043 },
-    { date: '2023-06', value: 237577 },
-    { date: '2023-07', value: 266538 },
-    { date: '2023-08', value: 278820 },
-    { date: '2023-09', value: 252026 },
-    { date: '2023-10', value: 258326 },
-    { date: '2023-11', value: 260691 },
-    { date: '2023-12', value: 262566 },
-    { date: '2024-01', value: 276147 },
-    { date: '2024-02', value: 240784 },
-    { date: '2024-03', value: 274169 },
-    { date: '2024-04', value: 224765 },
-    { date: '2024-05', value: 211219 },
-    { date: '2024-06', value: 15803 },
-    { date: '2024-07', value: 274453 },
-    { date: '2024-08', value: 946658 },
-  ];
+  const latInput = document.getElementById('omLat');
+  const lonInput = document.getElementById('omLon');
+  const fetchBtn = document.getElementById('omFetchBtn');
+  const statusEl = document.getElementById('omStatus');
 
-  // For Chart.js bruker vi labels + data arrays
-  const labels = raw.map(d => monthYearFormatter.format(new Date(d.date)));
-  const values = raw.map(d => d.value);
+  const DEFAULT_LAT = 59.9139; // Oslo
+  const DEFAULT_LON = 10.7522;
+  latInput.value = DEFAULT_LAT;
+  lonInput.value = DEFAULT_LON;
+
+  // Starter tomt – fylles via Open-Meteo
+  let labels = [];
+  let values = [];
 
   const ctx = document.getElementById('myAreaChart').getContext('2d');
 
@@ -107,7 +102,7 @@
           cornerRadius: 10,
           displayColors: false,
           callbacks: {
-            label: (ctx) => numberFormatter.format(ctx.parsed.y),
+            label: (ctx) => `Temperatur: ${numberFormatter.format(ctx.parsed.y)}°C`,
             title: (items) => items.map(i => labels[i.dataIndex]),
           },
         },
@@ -133,6 +128,77 @@
         },
       },
     },
+  });
+
+  const setStatus = (msg) => (statusEl.textContent = msg);
+
+  function formatDateYmd(d) {
+    const year = d.getFullYear();
+    const month = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    return `${year}-${month}-${day}`;
+  }
+
+  function getLastDaysRange(days = 30) {
+    const end = new Date();
+    const start = new Date();
+    start.setDate(end.getDate() - (days - 1));
+    return { start, end };
+  }
+
+  async function fetchLast30Days(lat, lon) {
+    const { start, end } = getLastDaysRange(30);
+    const startDate = formatDateYmd(start);
+    const endDate = formatDateYmd(end);
+
+    const url =
+      'https://archive-api.open-meteo.com/v1/archive' +
+      `?latitude=${encodeURIComponent(lat)}` +
+      `&longitude=${encodeURIComponent(lon)}` +
+      `&start_date=${startDate}` +
+      `&end_date=${endDate}` +
+      `&daily=temperature_2m_mean` +
+      `&timezone=Europe%2FOslo`;
+
+    setStatus('Henter værdata…');
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`Vær-API feil: ${res.status} ${res.statusText}`);
+    const data = await res.json();
+
+    const days = data?.daily?.time || [];
+    const temps = data?.daily?.temperature_2m_mean || [];
+
+    labels = days.map((d) => dayFormatter.format(new Date(d)));
+    values = temps.map((t) => (Number.isFinite(t) ? t : null));
+
+    chart.data.labels = labels;
+    chart.data.datasets[0].data = values;
+    chart.update();
+
+    setStatus(`Viser ${labels.length} dager (${startDate}–${endDate}).`);
+  }
+
+  fetchBtn.addEventListener('click', async () => {
+    const lat = Number(latInput.value);
+    const lon = Number(lonInput.value);
+
+    if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
+      setStatus('Skriv inn gyldige koordinater.');
+      return;
+    }
+
+    try {
+      await fetchLast30Days(lat, lon);
+    } catch (err) {
+      console.error(err);
+      setStatus(`Feil: ${err.message}`);
+    }
+  });
+
+  // Auto-hent ved innlasting
+  fetchLast30Days(DEFAULT_LAT, DEFAULT_LON).catch((err) => {
+    console.error(err);
+    setStatus(`Feil: ${err.message}`);
   });
 
   // Hjelpefunksjon for RGBA
