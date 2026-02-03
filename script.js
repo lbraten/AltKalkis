@@ -2,97 +2,139 @@ document.addEventListener("DOMContentLoaded", () => {
     console.log("✅ DOM er lastet");
 
     // 📊 Prosentkalkulator
-    const percentBtn = document.getElementById("percentButton");
-    if (percentBtn) {
-        percentBtn.addEventListener("click", () => {
-            const value = parseFloat(document.getElementById("percentValue").value);
-            const percent = parseFloat(document.getElementById("percentPercent").value);
-            const resultEl = document.getElementById("percentResult");
-            if (!isNaN(value) && !isNaN(percent) && resultEl) {   
-                const result = (value * percent / 100).toFixed(2);
-                resultEl.textContent = `Resultat: ${result}`;
-            } else if (resultEl) {
-                resultEl.innerText = "Skriv inn gyldige tall.";
-            }
-        });
-    }
+    const percentValueInput = document.getElementById("percentValue");
+    const percentPercentInput = document.getElementById("percentPercent");
+    const percentResultEl = document.getElementById("percentResult");
+    const updatePercent = () => {
+        if (!percentValueInput || !percentPercentInput || !percentResultEl) return;
+        const valueStr = percentValueInput.value;
+        const percentStr = percentPercentInput.value;
+        if (!valueStr && !percentStr) {
+            percentResultEl.textContent = "Resultat:";
+            return;
+        }
+        const value = parseFloat(valueStr);
+        const percent = parseFloat(percentStr);
+        if (!isNaN(value) && !isNaN(percent)) {
+            const result = (value * percent / 100).toFixed(2);
+            percentResultEl.textContent = `Resultat: ${result}`;
+        } else {
+            percentResultEl.innerText = "Skriv inn gyldige tall.";
+        }
+    };
+    if (percentValueInput) percentValueInput.addEventListener("input", updatePercent);
+    if (percentPercentInput) percentPercentInput.addEventListener("input", updatePercent);
+    updatePercent();
 
     // 💸 Timeslønn
-    const hourlyBtn = document.getElementById("hourlyButton");
-    if (hourlyBtn) {
-        hourlyBtn.addEventListener("click", () => {
-            const salary = parseFloat(document.getElementById("monthlySalary").value);
-            const hours = parseFloat(document.getElementById("hoursPerWeek").value);
-            const el = document.getElementById("hourlyResult");
-            if (isNaN(salary) || isNaN(hours) || hours <= 0) {
-                if (el) el.innerText = "Skriv inn gyldige verdier.";
-                return;
-            }
-            const yearlyHours = hours * 52;
-            const hourly = (salary * 12 / yearlyHours).toFixed(2);
-            if (el) el.innerText = `Timeslønn: ${hourly} kr/t`;
-        });
-    }
+    const monthlySalaryInput = document.getElementById("monthlySalary");
+    const hoursPerWeekInput = document.getElementById("hoursPerWeek");
+    const hourlyResultEl = document.getElementById("hourlyResult");
+    const updateHourly = () => {
+        if (!monthlySalaryInput || !hoursPerWeekInput || !hourlyResultEl) return;
+        const salaryStr = monthlySalaryInput.value;
+        const hoursStr = hoursPerWeekInput.value;
+        if (!salaryStr && !hoursStr) {
+            hourlyResultEl.innerText = "Timeslønn:";
+            return;
+        }
+        const salary = parseFloat(salaryStr);
+        const hours = parseFloat(hoursStr);
+        if (isNaN(salary) || isNaN(hours) || hours <= 0) {
+            hourlyResultEl.innerText = "Skriv inn gyldige verdier.";
+            return;
+        }
+        const yearlyHours = hours * 52;
+        const hourly = (salary * 12 / yearlyHours).toFixed(2);
+        hourlyResultEl.innerText = `Timeslønn: ${hourly} kr/t`;
+    };
+    if (monthlySalaryInput) monthlySalaryInput.addEventListener("input", updateHourly);
+    if (hoursPerWeekInput) hoursPerWeekInput.addEventListener("input", updateHourly);
+    updateHourly();
 
     // 🎂 Alderskalkulator
-    const ageBtn = document.getElementById("ageButton");
-    if (ageBtn) {
-        ageBtn.addEventListener("click", () => {
-            const birthStr = document.getElementById("birthDate").value;
-            const ageEl = document.getElementById("ageResult");
-            if (!birthStr) {
-                if (ageEl) ageEl.innerText = "Vennligst skriv inn en gyldig dato.";
-                return;
-            }
-            const birth = new Date(birthStr);
-            const now = new Date();
-            const diffMs = now - birth;
-            const ageInYears = diffMs / (1000 * 60 * 60 * 24 * 365.25);
-            const ageRounded = Math.floor(ageInYears * 10) / 10;
-            const years = Math.floor(ageInYears);
-            const months = Math.floor((ageInYears - years) * 12);
-            if (ageEl) ageEl.innerText = `Omtrent ${ageRounded} år (${years} år og ${months} måneder).`;
-        });
-    }
+    const birthDateInput = document.getElementById("birthDate");
+    const ageResultEl = document.getElementById("ageResult");
+    const updateAge = () => {
+        if (!birthDateInput || !ageResultEl) return;
+        const birthStr = birthDateInput.value;
+        if (!birthStr) {
+            ageResultEl.innerText = "Omtrent ...";
+            return;
+        }
+        const birth = new Date(birthStr);
+        const now = new Date();
+        const diffMs = now - birth;
+        const ageInYears = diffMs / (1000 * 60 * 60 * 24 * 365.25);
+        const ageRounded = Math.floor(ageInYears * 10) / 10;
+        const years = Math.floor(ageInYears);
+        const months = Math.floor((ageInYears - years) * 12);
+        ageResultEl.innerText = `Omtrent ${ageRounded} år (${years} år og ${months} måneder).`;
+    };
+    if (birthDateInput) birthDateInput.addEventListener("input", updateAge);
+    updateAge();
 
     // 📆 Dato-diff
-    const diffBtn = document.getElementById("dateDiffButton");
-    if (diffBtn) {
-        diffBtn.addEventListener("click", () => {
-            const d1 = new Date(document.getElementById("date1").value);
-            const d2 = new Date(document.getElementById("date2").value);
-            const el = document.getElementById("dateDiffResult");
-            if (isNaN(d1) || isNaN(d2)) {
-                if (el) el.innerText = "Velg to gyldige datoer.";
-                return;
-            }
-            const diffMs = Math.abs(d2 - d1);
-            const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-            let years = d2.getFullYear() - d1.getFullYear();
-            let months = d2.getMonth() - d1.getMonth();
-            if (months < 0) { years--; months += 12; }
-            if (el) el.innerHTML = `Forskjell: ${diffDays} dager<br>(${years} år og ${months} måneder)`;
-        });
-    }
+    const date1Input = document.getElementById("date1");
+    const date2Input = document.getElementById("date2");
+    const dateDiffResultEl = document.getElementById("dateDiffResult");
+    const updateDateDiff = () => {
+        if (!date1Input || !date2Input || !dateDiffResultEl) return;
+        const d1Str = date1Input.value;
+        const d2Str = date2Input.value;
+        if (!d1Str && !d2Str) {
+            dateDiffResultEl.innerText = "";
+            return;
+        }
+        if (!d1Str || !d2Str) {
+            dateDiffResultEl.innerText = "Velg to gyldige datoer.";
+            return;
+        }
+        const d1 = new Date(d1Str);
+        const d2 = new Date(d2Str);
+        if (isNaN(d1) || isNaN(d2)) {
+            dateDiffResultEl.innerText = "Velg to gyldige datoer.";
+            return;
+        }
+        const diffMs = Math.abs(d2 - d1);
+        const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+        let years = d2.getFullYear() - d1.getFullYear();
+        let months = d2.getMonth() - d1.getMonth();
+        if (months < 0) { years--; months += 12; }
+        dateDiffResultEl.innerHTML = `Forskjell: ${diffDays} dager<br>(${years} år og ${months} måneder)`;
+    };
+    if (date1Input) date1Input.addEventListener("input", updateDateDiff);
+    if (date2Input) date2Input.addEventListener("input", updateDateDiff);
+    updateDateDiff();
 
     // ⏰ Tid-diff
-    const timeBtn = document.getElementById("timeDiffButton");
-    if (timeBtn) {
-        timeBtn.addEventListener("click", () => {
-            const t1 = document.getElementById("time1").value;
-            const t2 = document.getElementById("time2").value;
-            const el = document.getElementById("timeDiffResult");
-            if (!t1 || !t2) { if (el) el.innerText = "Fyll inn begge klokkeslett."; return; }
-            const [h1, m1] = t1.split(":").map(Number);
-            const [h2, m2] = t2.split(":").map(Number);
-            const total1 = h1 * 60 + m1;
-            const total2 = h2 * 60 + m2;
-            const diffMinutes = Math.abs(total2 - total1);
-            const hours = Math.floor(diffMinutes / 60);
-            const minutes = diffMinutes % 60;
-            if (el) el.innerText = `Forskjell: ${hours} timer og ${minutes} minutter`;
-        });
-    }
+    const time1Input = document.getElementById("time1");
+    const time2Input = document.getElementById("time2");
+    const timeDiffResultEl = document.getElementById("timeDiffResult");
+    const updateTimeDiff = () => {
+        if (!time1Input || !time2Input || !timeDiffResultEl) return;
+        const t1 = time1Input.value;
+        const t2 = time2Input.value;
+        if (!t1 && !t2) {
+            timeDiffResultEl.innerText = "";
+            return;
+        }
+        if (!t1 || !t2) {
+            timeDiffResultEl.innerText = "Fyll inn begge klokkeslett.";
+            return;
+        }
+        const [h1, m1] = t1.split(":").map(Number);
+        const [h2, m2] = t2.split(":").map(Number);
+        const total1 = h1 * 60 + m1;
+        const total2 = h2 * 60 + m2;
+        const diffMinutes = Math.abs(total2 - total1);
+        const hours = Math.floor(diffMinutes / 60);
+        const minutes = diffMinutes % 60;
+        timeDiffResultEl.innerText = `Forskjell: ${hours} timer og ${minutes} minutter`;
+    };
+    if (time1Input) time1Input.addEventListener("input", updateTimeDiff);
+    if (time2Input) time2Input.addEventListener("input", updateTimeDiff);
+    updateTimeDiff();
 
     // 🌍 Tidssoner
     const tzBtn = document.getElementById("timezoneButton");
@@ -218,6 +260,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Fake data points (random)
         const points = generateRandomSeries(12, 12, 68);
+        const formatter = new Intl.DateTimeFormat("no-NO", {
+            day: "2-digit",
+            month: "2-digit",
+            year: "numeric",
+        });
+        const today = new Date();
+        const labels = points.map((_, i) => {
+            const d = new Date(today);
+            d.setDate(today.getDate() - (points.length - 1 - i));
+            return formatter.format(d);
+        });
         const maxVal = Math.max(...points) + 8;
         const minVal = Math.min(...points) - 8;
         const padX = 10;
@@ -261,6 +314,73 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
 
+        let hoverIndex = -1;
+        let hoverPos = null;
+        let interactiveReady = false;
+        const hitRadius = 10;
+
+        function drawSmoothPath() {
+            if (coords.length < 2) return;
+            const tension = 0.5;
+            ctx.beginPath();
+            ctx.moveTo(coords[0].x, coords[0].y);
+            for (let i = 0; i < coords.length - 1; i++) {
+                const p0 = coords[i - 1] || coords[i];
+                const p1 = coords[i];
+                const p2 = coords[i + 1];
+                const p3 = coords[i + 2] || p2;
+
+                const cp1x = p1.x + ((p2.x - p0.x) / 6) * tension;
+                const cp1y = p1.y + ((p2.y - p0.y) / 6) * tension;
+                const cp2x = p2.x - ((p3.x - p1.x) / 6) * tension;
+                const cp2y = p2.y - ((p3.y - p1.y) / 6) * tension;
+
+                ctx.bezierCurveTo(cp1x, cp1y, cp2x, cp2y, p2.x, p2.y);
+            }
+        }
+
+        function drawTooltip(pos, label, value) {
+            if (!pos) return;
+            const paddingX = 10;
+            const paddingY = 8;
+            const lineHeight = 16;
+            const text1 = label;
+            const text2 = `Verdi: ${value}`;
+
+            ctx.font = "12px system-ui, -apple-system, Segoe UI, sans-serif";
+            const w1 = ctx.measureText(text1).width;
+            const w2 = ctx.measureText(text2).width;
+            const boxW = Math.max(w1, w2) + paddingX * 2;
+            const boxH = paddingY * 2 + lineHeight * 2;
+
+            let x = pos.x + 12;
+            let y = pos.y - boxH - 12;
+            if (x + boxW > width) x = width - boxW - 6;
+            if (y < 6) y = pos.y + 12;
+
+            const radius = 8;
+            ctx.fillStyle = `rgba(${bgElevated}, 0.92)`;
+            ctx.strokeStyle = `rgba(${textBase}, 0.12)`;
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+            ctx.moveTo(x + radius, y);
+            ctx.lineTo(x + boxW - radius, y);
+            ctx.quadraticCurveTo(x + boxW, y, x + boxW, y + radius);
+            ctx.lineTo(x + boxW, y + boxH - radius);
+            ctx.quadraticCurveTo(x + boxW, y + boxH, x + boxW - radius, y + boxH);
+            ctx.lineTo(x + radius, y + boxH);
+            ctx.quadraticCurveTo(x, y + boxH, x, y + boxH - radius);
+            ctx.lineTo(x, y + radius);
+            ctx.quadraticCurveTo(x, y, x + radius, y);
+            ctx.closePath();
+            ctx.fill();
+            ctx.stroke();
+
+            ctx.fillStyle = `rgba(${textBase}, 0.92)`;
+            ctx.fillText(text1, x + paddingX, y + paddingY + lineHeight - 3);
+            ctx.fillText(text2, x + paddingX, y + paddingY + lineHeight * 2 - 3);
+        }
+
         function render(progress) {
             drawBase();
 
@@ -269,40 +389,48 @@ document.addEventListener("DOMContentLoaded", () => {
             const lastIndex = Math.floor(progressSegments);
             const t = progressSegments - lastIndex;
 
-            // Line
+            // Gradient fill under line
+            ctx.save();
+            ctx.beginPath();
+            ctx.rect(0, 0, width * progress, height);
+            ctx.clip();
+            ctx.beginPath();
+            drawSmoothPath();
+            ctx.lineTo(coords[coords.length - 1].x, height - padY);
+            ctx.lineTo(coords[0].x, height - padY);
+            ctx.closePath();
+            const fillGradient = ctx.createLinearGradient(0, padY, 0, height - padY);
+            fillGradient.addColorStop(0, `rgba(${accent}, 0.35)`);
+            fillGradient.addColorStop(1, `rgba(${accent}, 0.0)`);
+            ctx.fillStyle = fillGradient;
+            ctx.fill();
+            ctx.restore();
+
+            // Smooth line
+            ctx.save();
+            ctx.beginPath();
+            ctx.rect(0, 0, width * progress, height);
+            ctx.clip();
             ctx.strokeStyle = `rgb(${accent})`;
             ctx.lineWidth = 2.5;
-            ctx.beginPath();
-            ctx.moveTo(coords[0].x, coords[0].y);
-            for (let i = 1; i <= lastIndex && i < coords.length; i++) {
-                ctx.lineTo(coords[i].x, coords[i].y);
-            }
-            if (lastIndex + 1 < coords.length) {
-                const prev = coords[Math.max(0, lastIndex)];
-                const next = coords[lastIndex + 1];
-                const ix = prev.x + (next.x - prev.x) * t;
-                const iy = prev.y + (next.y - prev.y) * t;
-                ctx.lineTo(ix, iy);
-            }
+            drawSmoothPath();
             ctx.stroke();
+            ctx.restore();
 
-            // Glow dots
-            ctx.fillStyle = `rgba(${accent}, 0.85)`;
-            for (let i = 0; i <= lastIndex && i < coords.length; i++) {
+            // Hover point + tooltip
+            if (hoverIndex >= 0 && interactiveReady) {
+                const p = coords[hoverIndex];
+                ctx.fillStyle = `rgba(${accent}, 0.95)`;
                 ctx.beginPath();
-                ctx.arc(coords[i].x, coords[i].y, 2.6, 0, Math.PI * 2);
+                ctx.arc(p.x, p.y, 4, 0, Math.PI * 2);
                 ctx.fill();
-            }
-            if (lastIndex + 1 < coords.length) {
-                const prev = coords[Math.max(0, lastIndex)];
-                const next = coords[lastIndex + 1];
-                const ix = prev.x + (next.x - prev.x) * t;
-                const iy = prev.y + (next.y - prev.y) * t;
-                ctx.globalAlpha = 0.5;
+                ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
+                ctx.lineWidth = 1;
                 ctx.beginPath();
-                ctx.arc(ix, iy, 2.6, 0, Math.PI * 2);
-                ctx.fill();
-                ctx.globalAlpha = 1;
+                ctx.arc(p.x, p.y, 7, 0, Math.PI * 2);
+                ctx.stroke();
+
+                drawTooltip(hoverPos, labels[hoverIndex], points[hoverIndex]);
             }
         }
 
@@ -311,101 +439,56 @@ document.addEventListener("DOMContentLoaded", () => {
         function animate(now) {
             const progress = Math.min(1, (now - start) / duration);
             render(progress);
-            if (progress < 1) requestAnimationFrame(animate);
+            if (progress < 1) {
+                requestAnimationFrame(animate);
+            } else {
+                interactiveReady = true;
+            }
         }
         requestAnimationFrame(animate);
+
+        function getMousePos(evt) {
+            const box = canvas.getBoundingClientRect();
+            return {
+                x: evt.clientX - box.left,
+                y: evt.clientY - box.top,
+            };
+        }
+
+        function findNearestPoint(pos) {
+            let nearest = -1;
+            let minDist = Infinity;
+            for (let i = 0; i < coords.length; i++) {
+                const dx = pos.x - coords[i].x;
+                const dy = pos.y - coords[i].y;
+                const dist = Math.hypot(dx, dy);
+                if (dist < minDist) {
+                    minDist = dist;
+                    nearest = i;
+                }
+            }
+            return nearest;
+        }
+
+        canvas.addEventListener("mousemove", (evt) => {
+            if (!interactiveReady) return;
+            const pos = getMousePos(evt);
+            const idx = findNearestPoint(pos);
+            hoverIndex = idx;
+            hoverPos = idx >= 0 ? pos : null;
+            render(1);
+        });
+
+        canvas.addEventListener("mouseleave", () => {
+            if (!interactiveReady) return;
+            hoverIndex = -1;
+            hoverPos = null;
+            render(1);
+        });
     }
 
     const trendChart = document.getElementById("trendChart");
     drawDemoLineChart(trendChart);
-
-    // 📊 Demo bar chart (fake data)
-    function drawDemoBarChart(canvas) {
-        if (!canvas) return;
-        const ctx = canvas.getContext("2d");
-        if (!ctx) return;
-
-        const rootStyles = getComputedStyle(document.documentElement);
-        const accent = rootStyles.getPropertyValue("--color").trim() || "189, 150, 255";
-        const bgElevated = rootStyles.getPropertyValue("--color-bg-elevated").trim() || "8, 14, 24";
-        const textBase = rootStyles.getPropertyValue("--color-text-base").trim() || "243, 243, 246";
-
-        const dpr = window.devicePixelRatio || 1;
-        const rect = canvas.getBoundingClientRect();
-        const width = Math.max(240, rect.width);
-        const height = Math.max(140, rect.height);
-        canvas.width = width * dpr;
-        canvas.height = height * dpr;
-        ctx.scale(dpr, dpr);
-
-        // Background
-        ctx.clearRect(0, 0, width, height);
-        ctx.fillStyle = `rgba(${bgElevated}, 0.55)`;
-        ctx.fillRect(0, 0, width, height);
-
-        // Grid (horizontal only, dashed)
-        ctx.strokeStyle = `rgba(${textBase}, 0.08)`;
-        ctx.lineWidth = 1;
-        ctx.setLineDash([5, 5]);
-        const gridRows = 4;
-        for (let r = 1; r < gridRows; r++) {
-            const y = (height / gridRows) * r;
-            ctx.beginPath();
-            ctx.moveTo(0, y);
-            ctx.lineTo(width, y);
-            ctx.stroke();
-        }
-        ctx.setLineDash([]);
-
-        // Fake data (random)
-        const values = generateRandomSeries(10, 90, 250);
-        const maxVal = Math.max(...values) + 20;
-        const minVal = Math.min(...values) - 20;
-        const padX = 14;
-        const padY = 14;
-        const usableW = width - padX * 2;
-        const usableH = height - padY * 2;
-        const barGap = 10;
-        const barCount = values.length;
-        const barWidth = (usableW - barGap * (barCount - 1)) / barCount;
-
-        const lineColor = `rgb(${accent})`;
-        const gradient = ctx.createLinearGradient(0, padY, 0, height - padY);
-        gradient.addColorStop(0, `rgba(${accent}, 0.8)`);
-        gradient.addColorStop(1, `rgba(${accent}, 0.05)`);
-
-        // Bars
-        values.forEach((v, i) => {
-            const t = (v - minVal) / (maxVal - minVal);
-            const barHeight = Math.max(6, t * usableH);
-            const x = padX + i * (barWidth + barGap);
-            const y = height - padY - barHeight;
-
-            // Rounded rect
-            const radius = Math.min(8, barWidth / 2);
-            ctx.beginPath();
-            ctx.moveTo(x, y + radius);
-            ctx.arcTo(x, y, x + radius, y, radius);
-            ctx.lineTo(x + barWidth - radius, y);
-            ctx.arcTo(x + barWidth, y, x + barWidth, y + radius, radius);
-            ctx.lineTo(x + barWidth, y + barHeight);
-            ctx.lineTo(x, y + barHeight);
-            ctx.closePath();
-
-            ctx.fillStyle = gradient;
-            ctx.fill();
-
-            // Subtle top stroke
-            ctx.strokeStyle = lineColor;
-            ctx.globalAlpha = 0.7;
-            ctx.lineWidth = 1;
-            ctx.stroke();
-            ctx.globalAlpha = 1;
-        });
-    }
-
-    const distributionChart = document.getElementById("distributionChart");
-    drawDemoBarChart(distributionChart);
 
     // ⏱️ Klokke-widget
     const timerDisplay = document.getElementById("timeren");
@@ -569,5 +652,50 @@ document.addEventListener("DOMContentLoaded", () => {
             if (el.temp) el.temp.textContent = "Klarte ikke hente værdata 😢";
         }
         }
+
+    // 🧱 Auto-masonry: høyde og bredde basert på innhold
+    const grid = document.querySelector("main");
+    if (grid) {
+        const cards = Array.from(grid.querySelectorAll(".bordershadow"));
+        const autoWideThreshold = 36; // antall rader før auto-wide
+        let resizeTimer;
+
+        const applyMasonry = () => {
+            const styles = getComputedStyle(grid);
+            const rowHeight = parseFloat(styles.getPropertyValue("grid-auto-rows")) || 8;
+            const rowGap = parseFloat(styles.getPropertyValue("row-gap")) || 0;
+            const columnCount = styles.gridTemplateColumns.split(" ").length;
+            const canBeWide = columnCount >= 2;
+
+            // Første pass: fjern auto-wide og nullstill span
+            cards.forEach((card) => {
+                card.classList.remove("card--wide-auto");
+                card.style.gridRowEnd = "auto";
+            });
+
+            // Mål faktisk innholdshøyde og beregn span
+            cards.forEach((card) => {
+                const contentHeight = card.scrollHeight;
+                const rowSpan = Math.ceil((contentHeight + rowGap) / (rowHeight + rowGap));
+                if (canBeWide && rowSpan >= autoWideThreshold && !card.classList.contains("card--wide")) {
+                    card.classList.add("card--wide-auto");
+                }
+                card.style.gridRowEnd = `span ${rowSpan}`;
+            });
+        };
+
+        const requestLayout = () => window.requestAnimationFrame(applyMasonry);
+
+        window.addEventListener("load", requestLayout);
+        window.addEventListener("resize", () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(requestLayout, 80);
+        });
+
+        const observer = new ResizeObserver(requestLayout);
+        cards.forEach((card) => observer.observe(card));
+
+        requestLayout();
+    }
 
 });

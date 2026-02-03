@@ -27,9 +27,6 @@
                     <div class="chart-tile">
                         <canvas id="trendChart" class="chart-canvas" aria-label="Trend graf"></canvas>
                     </div>
-                    <div class="chart-tile">
-                        <canvas id="distributionChart" class="chart-canvas" aria-label="Fordeling graf"></canvas>
-                    </div>
                 </div>
             </div>
 
@@ -38,7 +35,6 @@
                 <h2>Prosentkalkulator</h2>
                     <input id="percentValue" type="number" placeholder="Tall" />
                     <input id="percentPercent" type="number" placeholder="%" />
-                    <button id="percentButton" class="vanligknapp">Regn ut</button>
                     <div class="percentResult">
                         <p id="percentResult">Resultat:</p>
                     </div>
@@ -49,7 +45,6 @@
                 <h2>Timeslønn / månedslønn</h2>
                 <input id="monthlySalary" type="number" placeholder="Månedslønn" />
                 <input id="hoursPerWeek" type="number" placeholder="Timer per uke" />
-                <button id="hourlyButton" class="vanligknapp">Regn ut timeslønn</button>
                 <div class="percentResult">
                     <p id="hourlyResult">Timeslønn:</p>
                 </div>
@@ -59,7 +54,6 @@
             <div class="bordershadow card--s">
                 <h2>Alder</h2>
                 <input id="birthDate" type="date" />
-                <button id="ageButton" class="vanligknapp">Regn ut alder</button>
                 <div class="percentResult">
                     <p id="ageResult">Omtrent ...</p>
                 </div>
@@ -72,7 +66,6 @@
                 <input class="klokkeslettinput" id="date1" type="date" />
                 <p>Til:</p>
                 <input class="klokkeslettinput" id="date2" type="date" />
-                <button id="dateDiffButton" class="vanligknapp">Regn ut</button>
                 <p id="dateDiffResult"></p>
             </div>
 
@@ -81,7 +74,6 @@
                 <h2>Differanse mellom klokkeslett</h2>
                 <input id="time1" type="time" />
                 <input id="time2" type="time" />
-                <button id="timeDiffButton" class="vanligknapp">Regn ut</button>
                 <p id="timeDiffResult"></p>
             </div>
 
@@ -168,7 +160,7 @@
             </div>
 
             <!-- Dagens historiske -->
-            <div class="bordershadow card--s">
+            <div class="bordershadow card--wide">
                 <h2>Dagens historiske</h2>
                 <div id="dagens">Laster...</div>
             </div>
