@@ -6,9 +6,8 @@
 // KLP AksjeGlobal Indeks N
 const ISIN = "NO0012445404"; // [1](https://www.skagenfondene.no/fond/aksjefond/klp-aksjeglobal-indeks-n/)[2](https://api.fund.storebrand.no/open/funddata/document?documentType=FUND_PROFILE&isin=NO0012445404&languageCode=no&market=NOR)
 
-// Leeway API (historiske kurser + ISIN-søk) [3](https://www.leeway.tech/data-api/live/en)
-const LEEWAY_TOKEN = "DIN_LEEWAY_TOKEN_HER";
-const LEEWAY_BASE = "https://api.leeway.tech/api/v1/public";
+// API-proxy (serverless) som holder nøklene skjult
+const API_BASE = "/api";
 
 // Cache for å spare API-kall (gratisnivået er begrenset) [3](https://www.leeway.tech/data-api/live/en)
 const CACHE_TTL_MS = 6 * 60 * 60 * 1000; // 6 timer
@@ -65,32 +64,20 @@ function cacheSet(key, data) {
 // =====================
 
 
-async function resolveSymbolByIsin_OpenFIGI(isin) {
-  const OPENFIGI_KEY = "DIN_OPENFIGI_API_KEY"; // gratis å få
-  const url = "https://api.openfigi.com/v3/mapping";
-  const body = [{
-    idType: "ID_ISIN",
-    idValue: isin,
-    // Tips: snevre inn på børs hvis du vet den:
-    // exchCode: "OSE", // Oslo Børs
-  }];
+async function resolveSymbolByIsin(isin) {
+  const cacheKey = `isin_symbol_${isin}`;
+  const cached = cacheGet(cacheKey);
+  if (cached) return cached;
 
-  const res = await fetch(url, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "X-OPENFIGI-APIKEY": OPENFIGI_KEY
-    },
-    body: JSON.stringify(body)
-  });
-  if (!res.ok) throw new Error(`OpenFIGI (HTTP ${res.status})`);
-
+  const url = `${API_BASE}/resolve-symbol?isin=${encodeURIComponent(isin)}`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`Symbol-oppslag feilet (HTTP ${res.status})`);
   const json = await res.json();
-  // Finn første treff med ticker
-  const data = json?.[0]?.data || [];
-  if (!data.length) throw new Error(`Fant ikke symbol for ISIN ${isin} via OpenFIGI.`);
-  const withTicker = data.find(x => x.ticker) || data[0];
-  return withTicker.ticker || withTicker.name || isin;
+  const symbol = json?.symbol;
+  if (!symbol) throw new Error("Fant ikke symbol for ISIN.");
+
+  cacheSet(cacheKey, symbol);
+  return symbol;
 }
 
 async function fetchHistoricalQuotes(symbol) {
@@ -98,8 +85,7 @@ async function fetchHistoricalQuotes(symbol) {
   const cached = cacheGet(cacheKey);
   if (cached) return cached;
 
-  // Leeway: historiske kurser via /historicalquotes/{SYMBOL.EXCHANGE} [3](https://www.leeway.tech/data-api/live/en)
-  const url = `${LEEWAY_BASE}/historicalquotes/${encodeURIComponent(symbol)}?apitoken=${encodeURIComponent(LEEWAY_TOKEN)}`;
+  const url = `${API_BASE}/historical-quotes?symbol=${encodeURIComponent(symbol)}`;
   const res = await fetch(url);
   if (!res.ok) throw new Error(`Historikk feilet (HTTP ${res.status})`);
 

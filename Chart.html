@@ -52,9 +52,9 @@
     { date: '2024-03', value: 274169 },
     { date: '2024-04', value: 224765 },
     { date: '2024-05', value: 211219 },
-    { date: '2024-06', value: 267703 },
+    { date: '2024-06', value: 15803 },
     { date: '2024-07', value: 274453 },
-    { date: '2024-08', value: 246658 },
+    { date: '2024-08', value: 946658 },
   ];
 
   // For Chart.js bruker vi labels + data arrays
@@ -78,19 +78,34 @@
         borderWidth: 2,
         fill: true,
         backgroundColor: gradient,
-        tension: 0.4, // "monotone"-aktig kurve
-        pointRadius: 0, // Skjul punkter
+        tension: 0.35, // mykere, moderne kurve
+        pointRadius: 0,
+        pointHoverRadius: 4,
+        pointHitRadius: 10,
+        borderCapStyle: 'round',
+        borderJoinStyle: 'round',
       }],
     },
     options: {
       responsive: true,
       maintainAspectRatio: false,
       layout: { padding: { left: 10 } },
+      interaction: { mode: 'index', intersect: false },
+      elements: {
+        line: { borderWidth: 2 },
+        point: { radius: 0, hoverRadius: 4, hitRadius: 10 },
+      },
       plugins: {
         legend: { display: false },
         tooltip: {
-          intersect: false,
-          mode: 'index',
+          backgroundColor: 'rgba(9, 24, 39, 0.92)',
+          titleColor: '#e5e7eb',
+          bodyColor: '#f3f4f6',
+          borderColor: 'rgba(59, 130, 246, 0.35)',
+          borderWidth: 1,
+          padding: 12,
+          cornerRadius: 10,
+          displayColors: false,
           callbacks: {
             label: (ctx) => numberFormatter.format(ctx.parsed.y),
             title: (items) => items.map(i => labels[i.dataIndex]),
@@ -100,7 +115,7 @@
       scales: {
         x: {
           grid: { display: false },
-          ticks: { display: false }, // skjul X-aksen som i koden din
+          ticks: { display: false },
         },
         y: {
           grid: {

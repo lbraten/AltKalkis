@@ -13,15 +13,28 @@
     <div class="background1">
         <main>
             <!-- Dagens dato og klokkeslett -->
-            <div class="bordershadow">
+            <div class="bordershadow card--m">
                 <h2>Dagens dato og klokkeslett</h2>
                 <p id="currentDateTime"></p>
                 <!-- Analog klokke -->
                 <canvas id="analogClock" width="220" height="220" aria-label="Analog klokke"></canvas>
             </div>
 
+            <!-- Grafer (plassholdere) -->
+            <div class="bordershadow card--wide card--m" id="charts">
+                <h2>Grafer</h2>
+                <div class="chart-grid">
+                    <div class="chart-tile">
+                        <canvas id="trendChart" class="chart-canvas" aria-label="Trend graf"></canvas>
+                    </div>
+                    <div class="chart-tile">
+                        <canvas id="distributionChart" class="chart-canvas" aria-label="Fordeling graf"></canvas>
+                    </div>
+                </div>
+            </div>
+
             <!-- Prosentkalkulator -->
-            <div class="bordershadow">
+            <div class="bordershadow card--s">
                 <h2>Prosentkalkulator</h2>
                     <input id="percentValue" type="number" placeholder="Tall" />
                     <input id="percentPercent" type="number" placeholder="%" />
@@ -32,7 +45,7 @@
             </div>
 
             <!-- Timeslønn kalkulator -->
-            <div class="bordershadow">
+            <div class="bordershadow card--s">
                 <h2>Timeslønn / månedslønn</h2>
                 <input id="monthlySalary" type="number" placeholder="Månedslønn" />
                 <input id="hoursPerWeek" type="number" placeholder="Timer per uke" />
@@ -43,7 +56,7 @@
             </div>
 
             <!-- Alderskalkulator -->
-            <div class="bordershadow">
+            <div class="bordershadow card--s">
                 <h2>Alder</h2>
                 <input id="birthDate" type="date" />
                 <button id="ageButton" class="vanligknapp">Regn ut alder</button>
@@ -53,7 +66,7 @@
             </div>
 
             <!-- Differanse mellom datoer -->
-            <div class="bordershadow">
+            <div class="bordershadow card--s">
                 <h2>Differanse mellom datoer</h2>
                 <p>Fra:</p>
                 <input class="klokkeslettinput" id="date1" type="date" />
@@ -64,7 +77,7 @@
             </div>
 
             <!-- Differanse mellom klokkeslett -->
-            <div class="bordershadow">
+            <div class="bordershadow card--s">
                 <h2>Differanse mellom klokkeslett</h2>
                 <input id="time1" type="time" />
                 <input id="time2" type="time" />
@@ -73,7 +86,7 @@
             </div>
 
             <!-- Tidssoner -->
-            <div class="bordershadow">
+            <div class="bordershadow card--s">
                 <h2>Tidssoner</h2>
                 <select id="timezoneSelect" class="lysereboks">
                     <option value="Europe/London">GMT / London</option>
@@ -110,7 +123,7 @@
             </div>
 
             <!-- Kalkulator -->
-            <div class="bordershadow">
+            <div class="bordershadow card--m">
                 <h2>Kalkulator</h2>
                 <input type="text" class="bordercolor" id="calcDisplay" disabled />
                 <div class="calc-buttons">
@@ -139,7 +152,7 @@
             </div>
 
             <!-- Valutakalkulator -->
-            <div class="bordershadow">
+            <div class="bordershadow card--s">
                 <h2>Valutakalkulator</h2>
                 <div class="converter">
                     <input type="number" id="amount" placeholder="Beløp i NOK" />
@@ -155,13 +168,13 @@
             </div>
 
             <!-- Dagens historiske -->
-            <div class="bordershadow">
+            <div class="bordershadow card--s">
                 <h2>Dagens historiske</h2>
                 <div id="dagens">Laster...</div>
             </div>
 
             <!-- Klokke-widget -->
-            <div class="bordershadow" id="klokke">
+            <div class="bordershadow card--wide card--m" id="klokke">
                 <h1>Enkel klokke‑widget</h1>
 
                 <div class="label">timer</div>
@@ -182,7 +195,7 @@
 
 
             <!-- Hex / Color palette (The Color API) -->
-            <div class="bordershadow" id="colorWidget">
+            <div class="bordershadow card--m" id="colorWidget">
             <h2>Hex / fargepalett</h2>
 
             <div class="converter">
@@ -216,7 +229,7 @@
 
             
             <!-- Vær (Open-Meteo) -->
-            <div id="openMeteoWidget" class="bordershadow">
+            <div id="openMeteoWidget" class="bordershadow card--wide card--m">
             <h2>Vær (Open-Meteo)</h2>
 
             <div class="converter">
@@ -252,19 +265,21 @@
 
 
             <!-- Dagens quote -->
-            <div class="bordershadow" id="quote">
+            <div class="bordershadow card--s" id="quote">
                 <h2>Sitat</h2>
                 <p id="quoteResult">Henter...</p>
             </div>
             
-            <h1 id="holidayTitle">Helligdager</h1>
+            <div class="bordershadow card--wide card--m" id="holidayCard">
+                <h2 id="holidayTitle">Helligdager</h2>
 
-            <div id="holidays">
-            <p>Laster helligdager…</p>
+                <div id="holidays">
+                <p>Laster helligdager…</p>
+                </div>
             </div>
 
 
-            <div class="bordershadow" class="fund-widget" id="fundWidget">
+            <div class="bordershadow card--wide card--m fund-widget" id="fundWidget">
             <h2>KLP AksjeGlobal Indeks N</h2>
 
             <div class="controls">

@@ -189,7 +189,223 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     getDailyQuote();
-    ``
+
+    // 📈 Demo line chart (fake data)
+    function generateRandomSeries(count, min, max) {
+        const values = [];
+        for (let i = 0; i < count; i++) {
+            values.push(Math.floor(min + Math.random() * (max - min + 1)));
+        }
+        return values;
+    }
+
+    function drawDemoLineChart(canvas) {
+        if (!canvas) return;
+        const ctx = canvas.getContext("2d");
+        if (!ctx) return;
+
+        const rootStyles = getComputedStyle(document.documentElement);
+        const accent = rootStyles.getPropertyValue("--color").trim() || "189, 150, 255";
+        const bgElevated = rootStyles.getPropertyValue("--color-bg-elevated").trim() || "8, 14, 24";
+        const textBase = rootStyles.getPropertyValue("--color-text-base").trim() || "243, 243, 246";
+
+        const dpr = window.devicePixelRatio || 1;
+        const rect = canvas.getBoundingClientRect();
+        const width = Math.max(240, rect.width);
+        const height = Math.max(140, rect.height);
+        canvas.width = width * dpr;
+        canvas.height = height * dpr;
+
+        // Fake data points (random)
+        const points = generateRandomSeries(12, 12, 68);
+        const maxVal = Math.max(...points) + 8;
+        const minVal = Math.min(...points) - 8;
+        const padX = 10;
+        const padY = 12;
+        const usableW = width - padX * 2;
+        const usableH = height - padY * 2;
+
+        const coords = points.map((v, i) => {
+            const x = padX + (usableW * i) / (points.length - 1);
+            const t = (v - minVal) / (maxVal - minVal);
+            const y = height - padY - t * usableH;
+            return { x, y };
+        });
+
+        function drawBase() {
+            ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+            // Background
+            ctx.clearRect(0, 0, width, height);
+            ctx.fillStyle = `rgba(${bgElevated}, 0.55)`;
+            ctx.fillRect(0, 0, width, height);
+
+            // Grid
+            ctx.strokeStyle = `rgba(${textBase}, 0.06)`;
+            ctx.lineWidth = 1;
+            const gridRows = 4;
+            const gridCols = 6;
+            for (let r = 1; r < gridRows; r++) {
+                const y = (height / gridRows) * r;
+                ctx.beginPath();
+                ctx.moveTo(0, y);
+                ctx.lineTo(width, y);
+                ctx.stroke();
+            }
+            for (let c = 1; c < gridCols; c++) {
+                const x = (width / gridCols) * c;
+                ctx.beginPath();
+                ctx.moveTo(x, 0);
+                ctx.lineTo(x, height);
+                ctx.stroke();
+            }
+        }
+
+        function render(progress) {
+            drawBase();
+
+            const totalSegments = coords.length - 1;
+            const progressSegments = totalSegments * progress;
+            const lastIndex = Math.floor(progressSegments);
+            const t = progressSegments - lastIndex;
+
+            // Line
+            ctx.strokeStyle = `rgb(${accent})`;
+            ctx.lineWidth = 2.5;
+            ctx.beginPath();
+            ctx.moveTo(coords[0].x, coords[0].y);
+            for (let i = 1; i <= lastIndex && i < coords.length; i++) {
+                ctx.lineTo(coords[i].x, coords[i].y);
+            }
+            if (lastIndex + 1 < coords.length) {
+                const prev = coords[Math.max(0, lastIndex)];
+                const next = coords[lastIndex + 1];
+                const ix = prev.x + (next.x - prev.x) * t;
+                const iy = prev.y + (next.y - prev.y) * t;
+                ctx.lineTo(ix, iy);
+            }
+            ctx.stroke();
+
+            // Glow dots
+            ctx.fillStyle = `rgba(${accent}, 0.85)`;
+            for (let i = 0; i <= lastIndex && i < coords.length; i++) {
+                ctx.beginPath();
+                ctx.arc(coords[i].x, coords[i].y, 2.6, 0, Math.PI * 2);
+                ctx.fill();
+            }
+            if (lastIndex + 1 < coords.length) {
+                const prev = coords[Math.max(0, lastIndex)];
+                const next = coords[lastIndex + 1];
+                const ix = prev.x + (next.x - prev.x) * t;
+                const iy = prev.y + (next.y - prev.y) * t;
+                ctx.globalAlpha = 0.5;
+                ctx.beginPath();
+                ctx.arc(ix, iy, 2.6, 0, Math.PI * 2);
+                ctx.fill();
+                ctx.globalAlpha = 1;
+            }
+        }
+
+        const duration = 900;
+        const start = performance.now();
+        function animate(now) {
+            const progress = Math.min(1, (now - start) / duration);
+            render(progress);
+            if (progress < 1) requestAnimationFrame(animate);
+        }
+        requestAnimationFrame(animate);
+    }
+
+    const trendChart = document.getElementById("trendChart");
+    drawDemoLineChart(trendChart);
+
+    // 📊 Demo bar chart (fake data)
+    function drawDemoBarChart(canvas) {
+        if (!canvas) return;
+        const ctx = canvas.getContext("2d");
+        if (!ctx) return;
+
+        const rootStyles = getComputedStyle(document.documentElement);
+        const accent = rootStyles.getPropertyValue("--color").trim() || "189, 150, 255";
+        const bgElevated = rootStyles.getPropertyValue("--color-bg-elevated").trim() || "8, 14, 24";
+        const textBase = rootStyles.getPropertyValue("--color-text-base").trim() || "243, 243, 246";
+
+        const dpr = window.devicePixelRatio || 1;
+        const rect = canvas.getBoundingClientRect();
+        const width = Math.max(240, rect.width);
+        const height = Math.max(140, rect.height);
+        canvas.width = width * dpr;
+        canvas.height = height * dpr;
+        ctx.scale(dpr, dpr);
+
+        // Background
+        ctx.clearRect(0, 0, width, height);
+        ctx.fillStyle = `rgba(${bgElevated}, 0.55)`;
+        ctx.fillRect(0, 0, width, height);
+
+        // Grid (horizontal only, dashed)
+        ctx.strokeStyle = `rgba(${textBase}, 0.08)`;
+        ctx.lineWidth = 1;
+        ctx.setLineDash([5, 5]);
+        const gridRows = 4;
+        for (let r = 1; r < gridRows; r++) {
+            const y = (height / gridRows) * r;
+            ctx.beginPath();
+            ctx.moveTo(0, y);
+            ctx.lineTo(width, y);
+            ctx.stroke();
+        }
+        ctx.setLineDash([]);
+
+        // Fake data (random)
+        const values = generateRandomSeries(10, 90, 250);
+        const maxVal = Math.max(...values) + 20;
+        const minVal = Math.min(...values) - 20;
+        const padX = 14;
+        const padY = 14;
+        const usableW = width - padX * 2;
+        const usableH = height - padY * 2;
+        const barGap = 10;
+        const barCount = values.length;
+        const barWidth = (usableW - barGap * (barCount - 1)) / barCount;
+
+        const lineColor = `rgb(${accent})`;
+        const gradient = ctx.createLinearGradient(0, padY, 0, height - padY);
+        gradient.addColorStop(0, `rgba(${accent}, 0.8)`);
+        gradient.addColorStop(1, `rgba(${accent}, 0.05)`);
+
+        // Bars
+        values.forEach((v, i) => {
+            const t = (v - minVal) / (maxVal - minVal);
+            const barHeight = Math.max(6, t * usableH);
+            const x = padX + i * (barWidth + barGap);
+            const y = height - padY - barHeight;
+
+            // Rounded rect
+            const radius = Math.min(8, barWidth / 2);
+            ctx.beginPath();
+            ctx.moveTo(x, y + radius);
+            ctx.arcTo(x, y, x + radius, y, radius);
+            ctx.lineTo(x + barWidth - radius, y);
+            ctx.arcTo(x + barWidth, y, x + barWidth, y + radius, radius);
+            ctx.lineTo(x + barWidth, y + barHeight);
+            ctx.lineTo(x, y + barHeight);
+            ctx.closePath();
+
+            ctx.fillStyle = gradient;
+            ctx.fill();
+
+            // Subtle top stroke
+            ctx.strokeStyle = lineColor;
+            ctx.globalAlpha = 0.7;
+            ctx.lineWidth = 1;
+            ctx.stroke();
+            ctx.globalAlpha = 1;
+        });
+    }
+
+    const distributionChart = document.getElementById("distributionChart");
+    drawDemoBarChart(distributionChart);
 
     // ⏱️ Klokke-widget
     const timerDisplay = document.getElementById("timeren");
