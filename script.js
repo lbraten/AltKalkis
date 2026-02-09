@@ -353,7 +353,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const tempText = Number.isFinite(value) ? `${tempFormatter.format(value)}°C` : "—";
             const lines = [label, `Temperatur: ${tempText}`];
             if (Number.isFinite(humidityValue)) {
-                lines.push(`Luftfuktighet: ${humidityFormatter.format(humidityValue)}%`);
+                lines.push(`Fuktighet: ${humidityFormatter.format(humidityValue)}%`);
             }
 
             ctx.font = "12px system-ui, -apple-system, Segoe UI, sans-serif";
@@ -942,6 +942,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const grid = document.querySelector("main");
     if (grid) {
         const cards = Array.from(grid.querySelectorAll(".bordershadow"));
+        const fixedHeightCards = new Set(["datetimeCard", "weatherCard", "calculatorCard"]);
         const autoWideThreshold = 36; // antall rader før auto-wide
         let resizeTimer;
 
@@ -954,18 +955,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
             // Første pass: fjern auto-wide og nullstill span
             cards.forEach((card) => {
+                if (card.classList.contains("is-hidden")) return;
                 card.classList.remove("card--wide-auto");
                 card.style.gridRowEnd = "auto";
+                if (!fixedHeightCards.has(card.id)) {
+                    card.style.height = "auto";
+                }
             });
 
             // Mål faktisk innholdshøyde og beregn span
             cards.forEach((card) => {
-                const contentHeight = card.scrollHeight;
+                if (card.classList.contains("is-hidden")) return;
+                const contentHeight = card.getBoundingClientRect().height;
                 const rowSpan = Math.ceil((contentHeight + rowGap) / (rowHeight + rowGap));
+                const snappedHeight = rowSpan * rowHeight + (rowSpan - 1) * rowGap;
                 if (canBeWide && rowSpan >= autoWideThreshold && !card.classList.contains("card--wide")) {
                     card.classList.add("card--wide-auto");
                 }
                 card.style.gridRowEnd = `span ${rowSpan}`;
+                if (!fixedHeightCards.has(card.id)) {
+                    card.style.height = `${snappedHeight}px`;
+                }
             });
         };
 
