@@ -641,8 +641,10 @@ document.addEventListener("DOMContentLoaded", () => {
         const buttonRect = activeBtn.getBoundingClientRect();
         const containerRect = omRangeSelector.getBoundingClientRect();
         const offsetX = buttonRect.left - containerRect.left;
-        omRangeIndicator.style.width = `${buttonRect.width}px`;
-        omRangeIndicator.style.transform = `translateX(${offsetX}px)`;
+        const inset = 10;
+        const indicatorWidth = Math.max(24, buttonRect.width - inset);
+        omRangeIndicator.style.width = `${indicatorWidth}px`;
+        omRangeIndicator.style.transform = `translateX(${offsetX + inset / 2}px)`;
     };
 
     const setActiveRange = (nextRange) => {
@@ -940,57 +942,51 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // 🧱 Auto-masonry: høyde og bredde basert på innhold
         const grid = document.querySelector("main");
-    if (grid) {
-        const cards = Array.from(grid.querySelectorAll(".bordershadow"));
-        const fixedHeightCards = new Set(["datetimeCard", "weatherCard", "calculatorCard"]);
-        const autoWideThreshold = 36; // antall rader før auto-wide
-        let resizeTimer;
+        if (grid) {
+            const cards = Array.from(grid.querySelectorAll(".bordershadow"));
+            const autoWideThreshold = 36; // antall rader før auto-wide
+            let resizeTimer;
 
-        const applyMasonry = () => {
-            const styles = getComputedStyle(grid);
-            const rowHeight = parseFloat(styles.getPropertyValue("grid-auto-rows")) || 8;
-            const rowGap = parseFloat(styles.getPropertyValue("row-gap")) || 0;
-            const columnCount = styles.gridTemplateColumns.split(" ").length;
-            const canBeWide = columnCount >= 2;
+            const applyMasonry = () => {
+                const styles = getComputedStyle(grid);
+                const rowHeight = parseFloat(styles.getPropertyValue("grid-auto-rows")) || 8;
+                const rowGap = parseFloat(styles.getPropertyValue("row-gap")) || 0;
+                const masonryAdjust = 2; // juster for mindre "luft" under kort
+                const columnCount = styles.gridTemplateColumns.split(" ").length;
+                const canBeWide = columnCount >= 2;
 
-            // Første pass: fjern auto-wide og nullstill span
-            cards.forEach((card) => {
-                if (card.classList.contains("is-hidden")) return;
-                card.classList.remove("card--wide-auto");
-                card.style.gridRowEnd = "auto";
-                if (!fixedHeightCards.has(card.id)) {
-                    card.style.height = "auto";
-                }
+                // Første pass: fjern auto-wide og nullstill span
+                cards.forEach((card) => {
+                    if (card.classList.contains("is-hidden")) return;
+                    card.classList.remove("card--wide-auto");
+                    card.style.gridRowEnd = "auto";
+                });
+
+                // Mål faktisk innholdshøyde og beregn span
+                cards.forEach((card) => {
+                    if (card.classList.contains("is-hidden")) return;
+                    const contentHeight = card.getBoundingClientRect().height;
+                    const rawSpan = (contentHeight + rowGap - masonryAdjust) / (rowHeight + rowGap);
+                    const rowSpan = Math.max(1, Math.ceil(rawSpan));
+                    if (canBeWide && rowSpan >= autoWideThreshold && !card.classList.contains("card--wide")) {
+                        card.classList.add("card--wide-auto");
+                    }
+                    card.style.gridRowEnd = `span ${rowSpan}`;
+                });
+            };
+
+            const requestLayout = () => window.requestAnimationFrame(applyMasonry);
+
+            window.addEventListener("load", requestLayout);
+            window.addEventListener("resize", () => {
+                clearTimeout(resizeTimer);
+                resizeTimer = setTimeout(requestLayout, 80);
             });
 
-            // Mål faktisk innholdshøyde og beregn span
-            cards.forEach((card) => {
-                if (card.classList.contains("is-hidden")) return;
-                const contentHeight = card.getBoundingClientRect().height;
-                const rowSpan = Math.ceil((contentHeight + rowGap) / (rowHeight + rowGap));
-                const snappedHeight = rowSpan * rowHeight + (rowSpan - 1) * rowGap;
-                if (canBeWide && rowSpan >= autoWideThreshold && !card.classList.contains("card--wide")) {
-                    card.classList.add("card--wide-auto");
-                }
-                card.style.gridRowEnd = `span ${rowSpan}`;
-                if (!fixedHeightCards.has(card.id)) {
-                    card.style.height = `${snappedHeight}px`;
-                }
-            });
-        };
+            const observer = new ResizeObserver(requestLayout);
+            cards.forEach((card) => observer.observe(card));
 
-        const requestLayout = () => window.requestAnimationFrame(applyMasonry);
-
-        window.addEventListener("load", requestLayout);
-        window.addEventListener("resize", () => {
-            clearTimeout(resizeTimer);
-            resizeTimer = setTimeout(requestLayout, 80);
-        });
-
-        const observer = new ResizeObserver(requestLayout);
-        cards.forEach((card) => observer.observe(card));
-
-        requestLayout();
-    }
+            requestLayout();
+        }
 
 });
