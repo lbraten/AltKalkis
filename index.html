@@ -6,15 +6,90 @@
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.cdnfonts.com/css/satoshi" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="icon" href="hvit.altkalkis.png">
 </head>
 <body>
-    <h1>AltKalkis <br />Tid &amp; Tall</h1>
-    <link rel="icon" href="hvit.altkalkis.png">
-    <img class="ikon" src="hvit.altkalkis.png">
-    <div class="background1">
-        <main>
+    <div class="app-shell">
+        <header class="topbar">
+            <div class="topbar__brand">
+                <img class="topbar__logo" src="hvit.altkalkis.png" alt="AltKalkis logo">
+                <span class="topbar__title">AltKalkis</span>
+            </div>
+        </header>
+        <div class="app-body">
+            <aside class="sidebar" aria-label="Navigasjon">
+                <div class="sidebar__title">Bokser</div>
+                <div class="sidebar__list">
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="datetimeCard" checked>
+                        <span>Dagens dato og klokkeslett</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="weatherCard" checked>
+                        <span>Temperatur</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="percentCard" checked>
+                        <span>Prosentkalkulator</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="salaryCard" checked>
+                        <span>Timeslønn / månedslønn</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="ageCard" checked>
+                        <span>Alder</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="dateDiffCard" checked>
+                        <span>Dato-differanse</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="timeDiffCard" checked>
+                        <span>Klokkeslett-differanse</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="timezoneCard" checked>
+                        <span>Tidssoner</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="calculatorCard" checked>
+                        <span>Kalkulator</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="currencyCard" checked>
+                        <span>Valutakalkulator</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="quote" checked>
+                        <span>Sitat</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="historicalCard" checked>
+                        <span>Dagens historiske</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="klokke" checked>
+                        <span>Klokke-widget</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="colorWidget" checked>
+                        <span>Hex / fargepalett</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="holidayCard" checked>
+                        <span>Helligdager</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="fundWidget" checked>
+                        <span>Fond</span>
+                    </label>
+                </div>
+            </aside>
+            <div class="background1">
+                <main>
             <!-- Dagens dato og klokkeslett -->
-            <div class="bordershadow card--m">
+            <div class="bordershadow card--m" id="datetimeCard">
                 <h2>Dagens dato og klokkeslett</h2>
                 <p id="currentDateTime"></p>
                 <!-- Analog klokke -->
@@ -22,7 +97,7 @@
             </div>
 
             <!-- Grafer (plassholdere) -->
-            <div class="bordershadow card--wide card--m" id="charts">
+            <div class="bordershadow card--wide card--m" id="weatherCard">
                 <h2>Temperatur (°C)</h2>
                 <div class="converter" style="gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:10px;">
                     <select id="omPresetCity" class="lysereboks" aria-label="Velg by">
@@ -58,7 +133,7 @@
             </div>
 
             <!-- Prosentkalkulator -->
-            <div class="bordershadow card--s">
+            <div class="bordershadow card--s" id="percentCard">
                 <h2>Prosentkalkulator</h2>
                     <input id="percentValue" type="number" placeholder="Tall" />
                     <input id="percentPercent" type="number" placeholder="%" />
@@ -68,7 +143,7 @@
             </div>
 
             <!-- Timeslønn kalkulator -->
-            <div class="bordershadow card--s">
+            <div class="bordershadow card--s" id="salaryCard">
                 <h2>Timeslønn / månedslønn</h2>
                 <input id="monthlySalary" type="number" placeholder="Månedslønn" />
                 <input id="hoursPerWeek" type="number" placeholder="Timer per uke" />
@@ -78,7 +153,7 @@
             </div>
 
             <!-- Alderskalkulator -->
-            <div class="bordershadow card--s">
+            <div class="bordershadow card--s" id="ageCard">
                 <h2>Alder</h2>
                 <input id="birthDate" type="date" />
                 <div class="percentResult">
@@ -87,7 +162,7 @@
             </div>
 
             <!-- Differanse mellom datoer -->
-            <div class="bordershadow card--s">
+            <div class="bordershadow card--s" id="dateDiffCard">
                 <h2>Differanse mellom datoer</h2>
                 <p>Fra:</p>
                 <input class="klokkeslettinput" id="date1" type="date" />
@@ -97,7 +172,7 @@
             </div>
 
             <!-- Differanse mellom klokkeslett -->
-            <div class="bordershadow card--s">
+            <div class="bordershadow card--s" id="timeDiffCard">
                 <h2>Differanse mellom klokkeslett</h2>
                 <input id="time1" type="time" />
                 <input id="time2" type="time" />
@@ -105,7 +180,7 @@
             </div>
 
             <!-- Tidssoner -->
-            <div class="bordershadow card--s">
+            <div class="bordershadow card--s" id="timezoneCard">
                 <h2>Tidssoner</h2>
                 <select id="timezoneSelect" class="lysereboks">
                     <option value="Europe/London">GMT / London</option>
@@ -142,7 +217,7 @@
             </div>
 
             <!-- Kalkulator -->
-            <div class="bordershadow card--m">
+            <div class="bordershadow card--m" id="calculatorCard">
                 <h2>Kalkulator</h2>
                 <input type="text" class="bordercolor" id="calcDisplay" disabled />
                 <div class="calc-buttons">
@@ -171,7 +246,7 @@
             </div>
 
             <!-- Valutakalkulator -->
-            <div class="bordershadow card--s">
+            <div class="bordershadow card--s" id="currencyCard">
                 <h2>Valutakalkulator</h2>
                 <div class="converter">
                     <input type="number" id="amount" placeholder="Beløp i NOK" />
@@ -193,7 +268,7 @@
             </div>
 
             <!-- Dagens historiske -->
-            <div class="bordershadow card--wide">
+            <div class="bordershadow card--wide" id="historicalCard">
                 <h2>Dagens historiske</h2>
                 <div id="dagens">Laster...</div>
             </div>
@@ -279,7 +354,9 @@
                 <div class="error" id="error" hidden></div>
             </div>
             </div>
-        </main>
+                </main>
+            </div>
+        </div>
     </div>
     <script src="holidays.js"></script>
     <script src="color-widget.js"></script>

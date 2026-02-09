@@ -908,8 +908,38 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         }
 
-    // 🧱 Auto-masonry: høyde og bredde basert på innhold
-    const grid = document.querySelector("main");
+        // ✅ Vis/skjul bokser fra sidebar
+        const cardToggles = document.querySelectorAll("[data-toggle-card]");
+        const storedVisibility = JSON.parse(localStorage.getItem("altkalkis-card-visibility") || "{}");
+        const applyVisibility = (cardId, isVisible) => {
+            const card = document.getElementById(cardId);
+            if (!card) return;
+            card.classList.toggle("is-hidden", !isVisible);
+        };
+
+        if (cardToggles.length) {
+            cardToggles.forEach((toggle) => {
+                const targetId = toggle.dataset.toggleCard;
+                if (!targetId) return;
+
+                if (Object.prototype.hasOwnProperty.call(storedVisibility, targetId)) {
+                    toggle.checked = Boolean(storedVisibility[targetId]);
+                }
+
+                applyVisibility(targetId, toggle.checked);
+
+                toggle.addEventListener("change", () => {
+                    const isVisible = toggle.checked;
+                    storedVisibility[targetId] = isVisible;
+                    localStorage.setItem("altkalkis-card-visibility", JSON.stringify(storedVisibility));
+                    applyVisibility(targetId, isVisible);
+                    window.dispatchEvent(new Event("resize"));
+                });
+            });
+        }
+
+        // 🧱 Auto-masonry: høyde og bredde basert på innhold
+        const grid = document.querySelector("main");
     if (grid) {
         const cards = Array.from(grid.querySelectorAll(".bordershadow"));
         const autoWideThreshold = 36; // antall rader før auto-wide

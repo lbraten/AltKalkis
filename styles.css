@@ -44,10 +44,105 @@ body {
     background-color: rgb(var(--color-fill));
     background-image: var(--bg-gradient);
     color: rgb(var(--color-text-base));
-    display: flex;
-    justify-content: center;
-    padding: 2.5rem 2rem 4rem;
+    margin: 0;
     min-height: 100vh;
+}
+
+.app-shell {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.topbar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1rem;
+    padding: 0.9rem 1.6rem;
+    border-bottom: 1px solid rgba(var(--color-border), 0.7);
+    background: rgba(var(--color-bg-elevated), 0.92);
+    backdrop-filter: blur(12px);
+}
+
+.topbar__brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 600;
+    font-size: 1.05rem;
+    letter-spacing: 0.4px;
+}
+
+.topbar__logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.app-body {
+    display: grid;
+    grid-template-columns: 240px minmax(0, 1fr);
+    gap: 1.5rem;
+    align-items: start;
+    padding: 1.5rem 2rem 3rem;
+}
+
+.sidebar {
+    position: sticky;
+    top: 74px;
+    align-self: start;
+    background: rgba(var(--color-bg-elevated), 0.9);
+    border: 1px solid rgba(var(--color-border), 0.7);
+    border-radius: 16px;
+    padding: 1rem 0.9rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    max-height: calc(100vh - 110px);
+    overflow: auto;
+}
+
+.sidebar__title {
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 600;
+    font-size: 0.95rem;
+    letter-spacing: 0.4px;
+    color: rgba(var(--color-text-base), 0.9);
+    padding: 0 0.4rem;
+}
+
+.sidebar__list {
+    display: grid;
+    gap: 0.45rem;
+}
+
+.sidebar__toggle {
+    display: flex;
+    gap: 0.6rem;
+    align-items: center;
+    padding: 0.5rem 0.6rem;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    transition: border 0.2s, background 0.2s;
+    font-size: 0.88rem;
+    color: rgba(var(--color-text-base), 0.9);
+}
+
+.sidebar__toggle:hover {
+    border-color: rgba(var(--color-border), 0.7);
+    background: rgba(var(--color-bg-input), 0.6);
+}
+
+.sidebar__toggle input {
+    width: 16px;
+    height: 16px;
+    accent-color: rgb(var(--color-button-accent));
 }
 
 /* GRID layout for kortene */
@@ -69,6 +164,8 @@ div.background1 {
     background: rgba(var(--color-bg-elevated), 0.85);
     backdrop-filter: blur(10px);
     width: 100%;
+    margin: 0 auto;
+    max-width: 1480px;
 }
 
 .bordercolor {
@@ -548,4 +645,19 @@ a:hover {
     top: 45px;
     left: 60px;
     height: 120px;
+}
+
+.is-hidden {
+    display: none !important;
+}
+
+@media (max-width: 980px) {
+    .app-body {
+        grid-template-columns: 1fr;
+    }
+
+    .sidebar {
+        position: static;
+        max-height: none;
+    }
 }
