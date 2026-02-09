@@ -520,11 +520,9 @@ document.addEventListener("DOMContentLoaded", () => {
             let nearest = -1;
             let minDist = Infinity;
             for (let i = 0; i < coords.length; i++) {
-                const dx = pos.x - coords[i].x;
-                const dy = pos.y - coords[i].y;
-                const dist = Math.hypot(dx, dy);
-                if (dist < minDist) {
-                    minDist = dist;
+                const dx = Math.abs(pos.x - coords[i].x);
+                if (dx < minDist) {
+                    minDist = dx;
                     nearest = i;
                 }
             }
