@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <title>AltKalkis</title>
     <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/satoshi" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
     <h1>AltKalkis <br />Tid &amp; Tall</h1>
@@ -31,8 +32,10 @@
                         <option value="Stavanger" data-lat="58.9690" data-lon="5.7331">Stavanger</option>
                         <option value="Tromsø" data-lat="69.6492" data-lon="18.9553">Tromsø</option>
                     </select>
-                    <input id="omLat" type="number" step="0.0001" placeholder="Latitude" aria-label="Latitude" />
-                    <input id="omLon" type="number" step="0.0001" placeholder="Longitude" aria-label="Longitude" />
+                    <div class="coordinate-row" aria-label="Koordinater">
+                        <input id="omLat" type="number" step="0.0001" placeholder="Latitude" aria-label="Latitude" />
+                        <input id="omLon" type="number" step="0.0001" placeholder="Longitude" aria-label="Longitude" />
+                    </div>
                     <div id="omRangeSelector" class="range-selector" role="tablist" aria-label="Velg periode">
                         <span class="range-selector__indicator" aria-hidden="true"></span>
                         <button type="button" class="range-selector__btn is-active" data-range="30d" role="tab" aria-selected="true">30 D</button>

@@ -11,6 +11,7 @@
     --color-bg-elevated: 18, 24, 40;
     --color-bg-input: 14, 20, 36;
     --color-border: 42, 50, 70;
+    --color-success: 88, 214, 141;
     --color-ring: 186, 145, 255;
     --color-ring-muted: 120, 131, 160;
     --bg-gradient:
@@ -38,7 +39,7 @@
 }
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     background-color: rgb(var(--color-fill));
     background-image: var(--bg-gradient);
     color: rgb(var(--color-text-base));
@@ -205,6 +206,18 @@ input[type="text"] {
     color: rgb(var(--color-text-base));
 }
 
+/* Felles stil for tall-input piler */
+input[type="number"] {
+    appearance: auto;
+    -moz-appearance: auto;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: auto;
+    margin: 0;
+}
+
 
 
 input[type="number"]:hover,
@@ -223,6 +236,7 @@ input:focus {
 
 /* Overskrifter */
 h1 {
+    font-family: 'Satoshi', sans-serif;
     text-align: center;
     font-weight: 600;
     margin-bottom: 2rem;
@@ -231,9 +245,18 @@ h1 {
 }
 
 h2 {
+    font-family: 'Satoshi', sans-serif;
     font-weight: 600;
     margin-bottom: 0.5rem;
     margin-top: 0;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 600;
 }
 
 /* Responsivt */
@@ -243,6 +266,11 @@ h2 {
     input[type="text"] {
         width: 100%;
         margin-bottom: 0.5rem;
+    }
+
+    .coordinate-row {
+        flex-direction: column;
+        align-items: stretch;
     }
 
     div {
@@ -273,7 +301,7 @@ h2 {
     padding: 5px;
     border-radius: 8px;
     background: rgb(var(--color-bg-input));
-    color: rgb(var(--color-text-base));
+    color: rgb(var(--color-success));
     border: 1px solid rgba(var(--color-border), 0.35);
 }
 
@@ -328,6 +356,19 @@ h2 {
     display: grid;
     gap: 10px;
     margin-bottom: 1rem;
+}
+
+.coordinate-row {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.coordinate-row input[type="number"] {
+    width: 140px;
+    flex: 1 1 0;
+    min-width: 0;
 }
 
 .range-selector {
