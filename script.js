@@ -233,13 +233,14 @@ document.addEventListener("DOMContentLoaded", () => {
     getDailyQuote();
 
     // 📈 Temperatur siste 30 dager (Open-Meteo)
-    function drawTemperatureLineChart(canvas, labels, points) {
+    function drawTemperatureLineChart(canvas, labels, points, options = {}) {
         if (!canvas) return;
         const ctx = canvas.getContext("2d");
         if (!ctx) return;
 
         const rootStyles = getComputedStyle(document.documentElement);
         const accent = rootStyles.getPropertyValue("--color").trim() || "189, 150, 255";
+        const humidityAccent = rootStyles.getPropertyValue("--color-humidity").trim() || "88, 196, 255";
         const bgElevated = rootStyles.getPropertyValue("--color-bg-elevated").trim() || "8, 14, 24";
         const textBase = rootStyles.getPropertyValue("--color-text-base").trim() || "243, 243, 246";
 
@@ -251,27 +252,44 @@ document.addEventListener("DOMContentLoaded", () => {
         canvas.height = height * dpr;
 
         const safePoints = Array.isArray(points) ? points : [];
+        const safeHumidityPoints = Array.isArray(options.humidityPoints) ? options.humidityPoints : null;
         const safeLabels = Array.isArray(labels) ? labels : [];
         const tempFormatter = new Intl.NumberFormat("no-NO", {
             minimumFractionDigits: 0,
             maximumFractionDigits: 1,
         });
+        const humidityFormatter = new Intl.NumberFormat("no-NO", {
+            minimumFractionDigits: 0,
+            maximumFractionDigits: 0,
+        });
 
-        const finitePoints = safePoints.filter((v) => Number.isFinite(v));
-        const maxVal = (finitePoints.length ? Math.max(...finitePoints) : 0) + 4;
-        const minVal = (finitePoints.length ? Math.min(...finitePoints) : 0) - 4;
+        const computeScale = (values, pad = 4) => {
+            const finite = Array.isArray(values) ? values.filter((v) => Number.isFinite(v)) : [];
+            const maxVal = (finite.length ? Math.max(...finite) : 0) + pad;
+            const minVal = (finite.length ? Math.min(...finite) : 0) - pad;
+            return { minVal, maxVal };
+        };
+
+        const tempScale = computeScale(safePoints, 4);
+        const humidityScale = safeHumidityPoints ? computeScale(safeHumidityPoints, 5) : null;
         const padX = 10;
         const padY = 12;
         const usableW = width - padX * 2;
         const usableH = height - padY * 2;
 
         const denom = Math.max(1, safePoints.length - 1);
-        const coords = safePoints.map((v, i) => {
-            const x = padX + (usableW * i) / denom;
-            const t = (v - minVal) / (maxVal - minVal);
-            const y = height - padY - t * usableH;
-            return { x, y };
-        });
+        const toCoords = (values, scale) =>
+            values.map((v, i) => {
+                const x = padX + (usableW * i) / denom;
+                const t = (v - scale.minVal) / (scale.maxVal - scale.minVal);
+                const y = height - padY - t * usableH;
+                return { x, y };
+            });
+
+        const coords = toCoords(safePoints, tempScale);
+        const humidityCoords = safeHumidityPoints && humidityScale ? toCoords(safeHumidityPoints, humidityScale) : null;
+
+        const hasHumidity = Array.isArray(humidityCoords) && humidityCoords.length > 1;
 
         function drawBase() {
             ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
@@ -307,16 +325,16 @@ document.addEventListener("DOMContentLoaded", () => {
         let interactiveReady = false;
         const hitRadius = 10;
 
-        function drawSmoothPath() {
-            if (coords.length < 2) return;
+        function drawSmoothPath(pointsArray) {
+            if (!pointsArray || pointsArray.length < 2) return;
             const tension = 0.5;
             ctx.beginPath();
-            ctx.moveTo(coords[0].x, coords[0].y);
-            for (let i = 0; i < coords.length - 1; i++) {
-                const p0 = coords[i - 1] || coords[i];
-                const p1 = coords[i];
-                const p2 = coords[i + 1];
-                const p3 = coords[i + 2] || p2;
+            ctx.moveTo(pointsArray[0].x, pointsArray[0].y);
+            for (let i = 0; i < pointsArray.length - 1; i++) {
+                const p0 = pointsArray[i - 1] || pointsArray[i];
+                const p1 = pointsArray[i];
+                const p2 = pointsArray[i + 1];
+                const p3 = pointsArray[i + 2] || p2;
 
                 const cp1x = p1.x + ((p2.x - p0.x) / 6) * tension;
                 const cp1y = p1.y + ((p2.y - p0.y) / 6) * tension;
@@ -327,20 +345,21 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
 
-        function drawTooltip(pos, label, value) {
+        function drawTooltip(pos, label, value, humidityValue) {
             if (!pos) return;
             const paddingX = 10;
             const paddingY = 8;
             const lineHeight = 16;
-            const text1 = label;
             const tempText = Number.isFinite(value) ? `${tempFormatter.format(value)}°C` : "—";
-            const text2 = `Temperatur: ${tempText}`;
+            const lines = [label, `Temperatur: ${tempText}`];
+            if (Number.isFinite(humidityValue)) {
+                lines.push(`Luftfuktighet: ${humidityFormatter.format(humidityValue)}%`);
+            }
 
             ctx.font = "12px system-ui, -apple-system, Segoe UI, sans-serif";
-            const w1 = ctx.measureText(text1).width;
-            const w2 = ctx.measureText(text2).width;
-            const boxW = Math.max(w1, w2) + paddingX * 2;
-            const boxH = paddingY * 2 + lineHeight * 2;
+            const widths = lines.map((line) => ctx.measureText(line).width);
+            const boxW = Math.max(...widths) + paddingX * 2;
+            const boxH = paddingY * 2 + lineHeight * lines.length;
 
             let x = pos.x + 12;
             let y = pos.y - boxH - 12;
@@ -366,8 +385,9 @@ document.addEventListener("DOMContentLoaded", () => {
             ctx.stroke();
 
             ctx.fillStyle = `rgba(${textBase}, 0.92)`;
-            ctx.fillText(text1, x + paddingX, y + paddingY + lineHeight - 3);
-            ctx.fillText(text2, x + paddingX, y + paddingY + lineHeight * 2 - 3);
+            lines.forEach((line, idx) => {
+                ctx.fillText(line, x + paddingX, y + paddingY + lineHeight * (idx + 1) - 3);
+            });
         }
 
         function render(progress) {
@@ -384,7 +404,7 @@ document.addEventListener("DOMContentLoaded", () => {
             ctx.rect(0, 0, width * progress, height);
             ctx.clip();
             ctx.beginPath();
-            drawSmoothPath();
+            drawSmoothPath(coords);
             ctx.lineTo(coords[coords.length - 1].x, height - padY);
             ctx.lineTo(coords[0].x, height - padY);
             ctx.closePath();
@@ -402,13 +422,51 @@ document.addEventListener("DOMContentLoaded", () => {
             ctx.clip();
             ctx.strokeStyle = `rgb(${accent})`;
             ctx.lineWidth = 2.5;
-            drawSmoothPath();
+            drawSmoothPath(coords);
             ctx.stroke();
             ctx.restore();
+
+            if (hasHumidity) {
+                ctx.save();
+                ctx.beginPath();
+                ctx.rect(0, 0, width * progress, height);
+                ctx.clip();
+                ctx.beginPath();
+                drawSmoothPath(humidityCoords);
+                ctx.lineTo(humidityCoords[humidityCoords.length - 1].x, height - padY);
+                ctx.lineTo(humidityCoords[0].x, height - padY);
+                ctx.closePath();
+                const humidityFill = ctx.createLinearGradient(0, padY, 0, height - padY);
+                humidityFill.addColorStop(0, `rgba(${humidityAccent}, 0.22)`);
+                humidityFill.addColorStop(1, `rgba(${humidityAccent}, 0.0)`);
+                ctx.fillStyle = humidityFill;
+                ctx.fill();
+                ctx.restore();
+
+                ctx.save();
+                ctx.beginPath();
+                ctx.rect(0, 0, width * progress, height);
+                ctx.clip();
+                ctx.strokeStyle = `rgb(${humidityAccent})`;
+                ctx.lineWidth = 2;
+                drawSmoothPath(humidityCoords);
+                ctx.stroke();
+                ctx.restore();
+            }
 
             // Hover point + tooltip
             if (hoverIndex >= 0 && interactiveReady) {
                 const p = coords[hoverIndex];
+                ctx.save();
+                ctx.strokeStyle = `rgba(${textBase}, 0.22)`;
+                ctx.lineWidth = 1;
+                ctx.setLineDash([4, 6]);
+                ctx.beginPath();
+                ctx.moveTo(p.x, padY);
+                ctx.lineTo(p.x, height - padY);
+                ctx.stroke();
+                ctx.restore();
+
                 ctx.fillStyle = `rgba(${accent}, 0.95)`;
                 ctx.beginPath();
                 ctx.arc(p.x, p.y, 4, 0, Math.PI * 2);
@@ -419,7 +477,21 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.arc(p.x, p.y, 7, 0, Math.PI * 2);
                 ctx.stroke();
 
-                drawTooltip(hoverPos, safeLabels[hoverIndex], safePoints[hoverIndex]);
+                if (hasHumidity) {
+                    const hp = humidityCoords[hoverIndex];
+                    ctx.fillStyle = `rgba(${humidityAccent}, 0.95)`;
+                    ctx.beginPath();
+                    ctx.arc(hp.x, hp.y, 3.5, 0, Math.PI * 2);
+                    ctx.fill();
+                    ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
+                    ctx.lineWidth = 1;
+                    ctx.beginPath();
+                    ctx.arc(hp.x, hp.y, 6.5, 0, Math.PI * 2);
+                    ctx.stroke();
+                }
+
+                const humidityValue = hasHumidity ? safeHumidityPoints[hoverIndex] : null;
+                drawTooltip(hoverPos, safeLabels[hoverIndex], safePoints[hoverIndex], humidityValue);
             }
         }
 
@@ -476,12 +548,12 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    function replaceAndDrawTrendChart(labels, points) {
+    function replaceAndDrawTrendChart(labels, points, options = {}) {
         const current = document.getElementById("trendChart");
         if (!current || !current.parentNode) return;
         const fresh = current.cloneNode(true);
         current.parentNode.replaceChild(fresh, current);
-        drawTemperatureLineChart(fresh, labels, points);
+        drawTemperatureLineChart(fresh, labels, points, options);
     }
 
     const dayFormatter = new Intl.DateTimeFormat("no-NO", {
@@ -529,7 +601,7 @@ document.addEventListener("DOMContentLoaded", () => {
             `&longitude=${encodeURIComponent(lon)}` +
             `&start_date=${startDate}` +
             `&end_date=${endDate}` +
-            `&daily=temperature_2m_mean` +
+            `&daily=temperature_2m_mean,relative_humidity_2m_mean` +
             `&timezone=Europe%2FOslo`;
 
         const res = await fetch(url);
@@ -538,11 +610,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const days = data?.daily?.time || [];
         const temps = data?.daily?.temperature_2m_mean || [];
+        const humidity = data?.daily?.relative_humidity_2m_mean || [];
 
         const labels = days.map((d) => dayFormatter.format(new Date(d)));
         const values = temps.map((t) => (Number.isFinite(t) ? t : null));
+        const humidityValues = humidity.map((h) => (Number.isFinite(h) ? h : null));
 
-        return { labels, values };
+        return { labels, values, humidity: humidityValues };
     }
 
     const omStatusEl = document.getElementById("omStatus");
@@ -589,8 +663,11 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         try {
             setOmStatus("Henter temperatur…");
-            const { labels, values } = await fetchTemperaturesForRange(lat, lon, omSelectedRange);
-            replaceAndDrawTrendChart(labels, values);
+            const { labels, values, humidity } = await fetchTemperaturesForRange(lat, lon, omSelectedRange);
+            const includeHumidity = !!omHumidityToggle?.checked;
+            replaceAndDrawTrendChart(labels, values, {
+                humidityPoints: includeHumidity ? humidity : null,
+            });
             setOmStatus("");
         } catch (err) {
             console.error(err);
@@ -601,6 +678,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const omLatInput = document.getElementById("omLat");
     const omLonInput = document.getElementById("omLon");
     const omPresetCity = document.getElementById("omPresetCity");
+    const omHumidityToggle = document.getElementById("omHumidityToggle");
     const DEFAULT_LAT = 59.9139;
     const DEFAULT_LON = 10.7522;
 
@@ -653,6 +731,11 @@ document.addEventListener("DOMContentLoaded", () => {
         omLonInput.addEventListener("input", scheduleOmUpdate);
         omLatInput.addEventListener("change", scheduleOmUpdate);
         omLonInput.addEventListener("change", scheduleOmUpdate);
+        if (omHumidityToggle) {
+            omHumidityToggle.addEventListener("change", () => {
+                updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
+            });
+        }
 
         updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
     }

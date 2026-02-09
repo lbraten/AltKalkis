@@ -5,6 +5,7 @@
     --color-fill: 10, 16, 30;
     --muted: 96, 88, 122;
     --color: 186, 145, 255;
+    --color-humidity: 88, 196, 255;
     --color-button-accent: 186, 145, 255;
     --color-button-accent-hover: 203, 171, 255;
     --color-button-muted: 22, 30, 48;
@@ -369,6 +370,68 @@ h6 {
     width: 140px;
     flex: 1 1 0;
     min-width: 0;
+}
+
+.toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 8px;
+    border: 1px solid rgba(var(--color-border), 0.45);
+    background: rgba(var(--color-bg-input), 0.9);
+    border-radius: 8px;
+    height: 51px;
+    cursor: pointer;
+    user-select: none;
+    color: rgba(var(--color-text-base), 0.9);
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
+.toggle input {
+    position: absolute;
+    opacity: 0;
+    width: 1px;
+    height: 1px;
+    margin: 0;
+}
+
+.toggle__track {
+    position: relative;
+    width: 38px;
+    height: 22px;
+    background: rgba(var(--color-border), 0.75);
+    border-radius: 999px;
+    transition: background 0.2s ease;
+}
+
+.toggle__track::after {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: rgb(var(--color-text-base));
+    transition: transform 0.2s ease;
+}
+
+.toggle input:focus-visible + .toggle__track {
+    box-shadow: 0 0 0 3px rgba(var(--color-ring), 0.35);
+}
+
+.toggle input:checked + .toggle__track {
+    background: rgb(var(--color-button-accent));
+}
+
+.toggle input:checked + .toggle__track::after {
+    transform: translateX(16px);
+}
+
+.toggle__label {
+    font-weight: 600;
+    letter-spacing: 0.2px;
 }
 
 .range-selector {

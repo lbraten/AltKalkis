@@ -35,6 +35,11 @@
                     <div class="coordinate-row" aria-label="Koordinater">
                         <input id="omLat" type="number" step="0.0001" placeholder="Latitude" aria-label="Latitude" />
                         <input id="omLon" type="number" step="0.0001" placeholder="Longitude" aria-label="Longitude" />
+                        <label class="toggle" for="omHumidityToggle">
+                            <input id="omHumidityToggle" type="checkbox" />
+                            <span class="toggle__track" aria-hidden="true"></span>
+                            <span class="toggle__label">Luftfuktighet</span>
+                        </label>
                     </div>
                     <div id="omRangeSelector" class="range-selector" role="tablist" aria-label="Velg periode">
                         <span class="range-selector__indicator" aria-hidden="true"></span>
