@@ -88,10 +88,6 @@
                         <input type="checkbox" data-toggle-card="holidayCard" checked>
                         <span>Helligdager</span>
                     </label>
-                    <label class="sidebar__toggle">
-                        <input type="checkbox" data-toggle-card="fundWidget" checked>
-                        <span>Fond</span>
-                    </label>
                 </div>
             </aside>
             <div class="background1">
@@ -191,11 +187,19 @@
             <!-- Differanse mellom datoer -->
             <div class="bordershadow card--s" id="dateDiffCard">
                 <h2>Differanse mellom datoer</h2>
-                <p>Fra:</p>
-                <input class="klokkeslettinput" id="date1" type="date" />
-                <p>Til:</p>
-                <input class="klokkeslettinput" id="date2" type="date" />
-                <p id="dateDiffResult"></p>
+                <div class="date-diff-row">
+                    <label class="date-diff-group" for="date1">
+                        <span>Fra:</span>
+                        <input class="klokkeslettinput" id="date1" type="date" />
+                    </label>
+                    <label class="date-diff-group" for="date2">
+                        <span>Til:</span>
+                        <input class="klokkeslettinput" id="date2" type="date" />
+                    </label>
+                </div>
+                <div class="result-box" aria-live="polite">
+                    <p id="dateDiffResult"></p>
+                </div>
             </div>
 
             <!-- Differanse mellom klokkeslett -->
@@ -281,9 +285,20 @@
                         <option value="EUR">Euro (EUR)</option>
                         <option value="USD">US Dollar (USD)</option>
                         <option value="GBP">Britiske Pund (GBP)</option>
-                        <!-- flere valutaer... -->
+                        <option value="SEK">Svenske kroner (SEK)</option>
+                        <option value="DKK">Danske kroner (DKK)</option>
+                        <option value="ISK">Islandske kroner (ISK)</option>
+                        <option value="CHF">Sveitsiske franc (CHF)</option>
+                        <option value="PLN">Polske zloty (PLN)</option>
+                        <option value="CZK">Tsjekkiske koruna (CZK)</option>
+                        <option value="HUF">Ungarske forint (HUF)</option>
+                        <option value="JPY">Japanske yen (JPY)</option>
+                        <option value="CNY">Kinesiske yuan (CNY)</option>
+                        <option value="INR">Indiske rupier (INR)</option>
+                        <option value="AUD">Australske dollar (AUD)</option>
+                        <option value="NZD">New Zealand dollar (NZD)</option>
+                        <option value="CAD">Kanadiske dollar (CAD)</option>
                     </select>
-                    <button id="convertBtn" class="vanligknapp">Konverter</button>
                 </div>
                 <div id="result"></div>
             </div>
@@ -377,24 +392,6 @@
             </div>
 
 
-            <div class="bordershadow card--wide card--m fund-widget" id="fundWidget">
-            <h2>KLP AksjeGlobal Indeks N</h2>
-
-            <div class="controls">
-                <label>
-                Fra dato:
-                <input type="date" id="startDate" value="2025-12-01" />
-                </label>
-
-                <button id="calcBtn">Beregn</button>
-            </div>
-
-            <div class="result">
-                <div class="pct flat" id="pct">—</div>
-                <div class="meta" id="meta"></div>
-                <div class="error" id="error" hidden></div>
-            </div>
-            </div>
                 </main>
             </div>
         </div>
@@ -404,7 +401,6 @@
     <script src="onthisday.js"></script>
     <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
     <script src="script.js"></script>
-    <script src="fund-klp.js"></script>
     <script src="klokke.js"></script>
 </body>
 </html>

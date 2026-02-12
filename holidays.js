@@ -95,4 +95,5 @@ console.log("holidays.js lastet ✅");
     }
    }
 
-  loadHolidays();})
+  loadHolidays();
+})();

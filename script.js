@@ -202,25 +202,34 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     // 💱 Valutakalkulator
-    const convertBtn = document.getElementById("convertBtn");
-    if (convertBtn) {
-        convertBtn.addEventListener("click", async () => {
-            const amount = parseFloat(document.getElementById("amount").value);
-            const currency = document.getElementById("currency").value;
-            const resEl = document.getElementById("result");
-            if (!amount || amount <= 0) { resEl.innerText = "Skriv inn et gyldig beløp!"; return; }
-            try {
-                const res = await fetch(`https://api.frankfurter.app/latest?from=NOK&to=${currency}`);
-                const data = await res.json();
-                const rate = data.rates[currency];
-                const converted = (amount * rate).toFixed(2);
-                resEl.innerText = `${amount} NOK = ${converted} ${currency}`;
-            } catch (error) {
-                console.error("❌ API-feil:", error);
+    const amountInput = document.getElementById("amount");
+    const currencySelect = document.getElementById("currency");
+    const resEl = document.getElementById("result");
+    const convertCurrency = async () => {
+        if (!amountInput || !currencySelect || !resEl) return;
+        const amount = parseFloat(amountInput.value);
+        const currency = currencySelect.value;
+        if (!amountInput.value || isNaN(amount) || amount <= 0) {
+            resEl.innerText = "Skriv inn et gyldig beløp!";
+            return;
+        }
+        try {
+            const res = await fetch(`https://api.frankfurter.app/latest?from=NOK&to=${currency}`);
+            const data = await res.json();
+            const rate = data.rates[currency];
+            if (!rate) {
                 resEl.innerText = "Kunne ikke hente valutakurs";
+                return;
             }
-        });
-    }
+            const converted = (amount * rate).toFixed(2);
+            resEl.innerText = `${amount} NOK = ${converted} ${currency}`;
+        } catch (error) {
+            console.error("❌ API-feil:", error);
+            resEl.innerText = "Kunne ikke hente valutakurs";
+        }
+    };
+    if (amountInput) amountInput.addEventListener("input", convertCurrency);
+    if (currencySelect) currencySelect.addEventListener("change", convertCurrency);
 
     // 🧭 Entur ruter
     const enturBtn = document.getElementById("enturSearchBtn");
