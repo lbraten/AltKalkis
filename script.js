@@ -404,6 +404,17 @@ document.addEventListener("DOMContentLoaded", () => {
         const humidityActive = options.humidityActive === true;
         const uvActive = options.uvActive === true;
         const aqiActive = options.aqiActive === true;
+        const gradientAllowed = options.gradientAllowed !== false;
+        const animateGradient = options.animateGradient === true;
+        const animateTemp = options.animateTemp !== false;
+        const animateHumidity = options.animateHumidity !== false;
+        const animateUv = options.animateUv !== false;
+        const animateAqi = options.animateAqi !== false;
+        const animateOutTemp = options.animateOutTemp === true;
+        const animateOutHumidity = options.animateOutHumidity === true;
+        const animateOutUv = options.animateOutUv === true;
+        const animateOutAqi = options.animateOutAqi === true;
+        const onComplete = typeof options.onComplete === "function" ? options.onComplete : null;
         const safeLabels = Array.isArray(labels) ? labels : [];
         const tempFormatter = new Intl.NumberFormat("no-NO", {
             minimumFractionDigits: 0,
@@ -480,7 +491,6 @@ document.addEventListener("DOMContentLoaded", () => {
         const hasHumidity = hasFinite(safeHumidityPoints) && Array.isArray(humidityCoords) && humidityCoords.length > 1;
         const hasUv = hasFinite(safeUvPoints) && Array.isArray(uvCoords) && uvCoords.length > 1;
         const hasAqi = hasFinite(safeAqiPoints) && Array.isArray(aqiCoords) && aqiCoords.length > 1;
-        const disableGradient = uvActive || aqiActive;
         const baseCoords = hasTemp
             ? coords
             : hasHumidity
@@ -606,6 +616,18 @@ document.addEventListener("DOMContentLoaded", () => {
                 return;
             }
 
+            const tempProgress = animateOutTemp ? 1 - progress : animateTemp ? progress : 1;
+            const humidityProgress = animateOutHumidity ? 1 - progress : animateHumidity ? progress : 1;
+            const uvProgress = animateOutUv ? 1 - progress : animateUv ? progress : 1;
+            const aqiProgress = animateOutAqi ? 1 - progress : animateAqi ? progress : 1;
+            const gradientOpacity = gradientAllowed
+                ? animateGradient
+                    ? progress
+                    : 1
+                : animateGradient
+                    ? 1 - progress
+                    : 0;
+
             const totalSegments = baseCoords.length - 1;
             const progressSegments = totalSegments * progress;
             const lastIndex = Math.floor(progressSegments);
@@ -614,16 +636,16 @@ document.addEventListener("DOMContentLoaded", () => {
             // Gradient fill under line
             ctx.save();
             ctx.beginPath();
-            ctx.rect(0, 0, width * progress, height);
+            ctx.rect(0, 0, width * tempProgress, height);
             ctx.clip();
-            if (hasTemp && !disableGradient) {
+            if (hasTemp && gradientOpacity > 0) {
                 ctx.beginPath();
                 drawSmoothPath(coords);
                 ctx.lineTo(coords[coords.length - 1].x, height - padY);
                 ctx.lineTo(coords[0].x, height - padY);
                 ctx.closePath();
                 const fillGradient = ctx.createLinearGradient(0, padY, 0, height - padY);
-                fillGradient.addColorStop(0, `rgba(${accent}, 0.35)`);
+                fillGradient.addColorStop(0, `rgba(${accent}, ${0.35 * gradientOpacity})`);
                 fillGradient.addColorStop(1, `rgba(${accent}, 0.0)`);
                 ctx.fillStyle = fillGradient;
                 ctx.fill();
@@ -634,7 +656,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (hasTemp) {
                 ctx.save();
                 ctx.beginPath();
-                ctx.rect(0, 0, width * progress, height);
+                ctx.rect(0, 0, width * tempProgress, height);
                 ctx.clip();
                 ctx.strokeStyle = `rgb(${accent})`;
                 ctx.lineWidth = 2.5;
@@ -646,16 +668,16 @@ document.addEventListener("DOMContentLoaded", () => {
             if (hasHumidity) {
                 ctx.save();
                 ctx.beginPath();
-                ctx.rect(0, 0, width * progress, height);
+                ctx.rect(0, 0, width * humidityProgress, height);
                 ctx.clip();
-                if (!disableGradient) {
+                if (gradientOpacity > 0) {
                     ctx.beginPath();
                     drawSmoothPath(humidityCoords);
                     ctx.lineTo(humidityCoords[humidityCoords.length - 1].x, height - padY);
                     ctx.lineTo(humidityCoords[0].x, height - padY);
                     ctx.closePath();
                     const humidityFill = ctx.createLinearGradient(0, padY, 0, height - padY);
-                    humidityFill.addColorStop(0, `rgba(${humidityAccent}, 0.22)`);
+                    humidityFill.addColorStop(0, `rgba(${humidityAccent}, ${0.22 * gradientOpacity})`);
                     humidityFill.addColorStop(1, `rgba(${humidityAccent}, 0.0)`);
                     ctx.fillStyle = humidityFill;
                     ctx.fill();
@@ -664,7 +686,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 ctx.save();
                 ctx.beginPath();
-                ctx.rect(0, 0, width * progress, height);
+                ctx.rect(0, 0, width * humidityProgress, height);
                 ctx.clip();
                 ctx.strokeStyle = `rgb(${humidityAccent})`;
                 ctx.lineWidth = 2;
@@ -676,7 +698,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (hasUv) {
                 ctx.save();
                 ctx.beginPath();
-                ctx.rect(0, 0, width * progress, height);
+                ctx.rect(0, 0, width * uvProgress, height);
                 ctx.clip();
                 ctx.strokeStyle = `rgb(${uvAccent})`;
                 ctx.lineWidth = 2;
@@ -688,7 +710,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (hasAqi) {
                 ctx.save();
                 ctx.beginPath();
-                ctx.rect(0, 0, width * progress, height);
+                ctx.rect(0, 0, width * aqiProgress, height);
                 ctx.clip();
                 ctx.strokeStyle = `rgb(${aqiAccent})`;
                 ctx.setLineDash([6, 6]);
@@ -781,6 +803,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 requestAnimationFrame(animate);
             } else {
                 interactiveReady = true;
+                if (onComplete) onComplete();
             }
         }
         requestAnimationFrame(animate);
@@ -1002,6 +1025,11 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     let omSelectedRange = "30d";
+    let omPrevToggleState = null;
+    let omPrevTempGradient = null;
+    let omPrevSeries = null;
+    let omPrevSeriesKey = null;
+    let omPrevGradientAllowed = null;
 
     const positionRangeIndicator = () => {
         if (!omRangeSelector || !omRangeIndicator) return;
@@ -1039,6 +1067,30 @@ document.addEventListener("DOMContentLoaded", () => {
             const includeHumidity = !!omHumidityToggle?.checked;
             const includeUv = !!omUvToggle?.checked;
             const includeAqi = !!omAqiToggle?.checked;
+            const disableGradient = includeUv || includeAqi;
+            const gradientAllowed = !disableGradient;
+            const tempGradient = includeTemp && gradientAllowed;
+            const animateGradient = omPrevGradientAllowed !== null && omPrevGradientAllowed !== gradientAllowed;
+
+            const fetchKey = `${lat},${lon},${omSelectedRange}`;
+            const canAnimateOut = !!omPrevSeries && omPrevSeriesKey === fetchKey;
+
+            const nextToggleState = {
+                temp: includeTemp,
+                humidity: includeHumidity,
+                uv: includeUv,
+                aqi: includeAqi,
+            };
+
+            const animateTemp = includeTemp && (!omPrevToggleState || !omPrevToggleState.temp);
+            const animateHumidity = includeHumidity && (!omPrevToggleState || !omPrevToggleState.humidity);
+            const animateUv = includeUv && (!omPrevToggleState || !omPrevToggleState.uv);
+            const animateAqi = includeAqi && (!omPrevToggleState || !omPrevToggleState.aqi);
+
+            const tempOff = !!omPrevToggleState?.temp && !includeTemp;
+            const humidityOff = !!omPrevToggleState?.humidity && !includeHumidity;
+            const uvOff = !!omPrevToggleState?.uv && !includeUv;
+            const aqiOff = !!omPrevToggleState?.aqi && !includeAqi;
 
             const extraRequests = [
                 includeUv ? fetchUvIndexForRange(lat, lon, omSelectedRange, days) : Promise.resolve(null),
@@ -1053,14 +1105,81 @@ document.addEventListener("DOMContentLoaded", () => {
             if (aqiResult.status === "rejected" || !hasFiniteSeries(aqiValues)) warnings.push("AQI");
 
             const tempValues = includeTemp ? values : values.map(() => null);
-            replaceAndDrawTrendChart(labels, tempValues, {
-                humidityPoints: includeHumidity ? humidity : null,
-                uvPoints: includeUv ? uvValues : null,
-                aqiPoints: includeAqi ? aqiValues : null,
-                humidityActive: includeHumidity,
-                uvActive: includeUv,
-                aqiActive: includeAqi,
+
+            const exitLabels = canAnimateOut && (tempOff || humidityOff || uvOff || aqiOff)
+                ? omPrevSeries?.labels || labels
+                : labels;
+            const exitTemp = includeTemp
+                ? values
+                : tempOff && canAnimateOut
+                    ? omPrevSeries?.tempValues || null
+                    : null;
+            const exitHumidity = includeHumidity
+                ? humidity
+                : humidityOff && canAnimateOut
+                    ? omPrevSeries?.humidityValues || null
+                    : null;
+            const exitUv = includeUv
+                ? uvValues
+                : uvOff && canAnimateOut
+                    ? omPrevSeries?.uvValues || null
+                    : null;
+            const exitAqi = includeAqi
+                ? aqiValues
+                : aqiOff && canAnimateOut
+                    ? omPrevSeries?.aqiValues || null
+                    : null;
+
+            const runExitAnimation = canAnimateOut && (tempOff || humidityOff || uvOff || aqiOff);
+
+            const finalDraw = () => {
+                replaceAndDrawTrendChart(labels, tempValues, {
+                    humidityPoints: includeHumidity ? humidity : null,
+                    uvPoints: includeUv ? uvValues : null,
+                    aqiPoints: includeAqi ? aqiValues : null,
+                    humidityActive: includeHumidity,
+                    uvActive: includeUv,
+                    aqiActive: includeAqi,
+                    gradientAllowed,
+                    animateGradient: false,
+                    animateTemp: false,
+                    animateHumidity: false,
+                    animateUv: false,
+                    animateAqi: false,
+                });
+            };
+
+            replaceAndDrawTrendChart(exitLabels, exitTemp || tempValues, {
+                humidityPoints: exitHumidity,
+                uvPoints: exitUv,
+                aqiPoints: exitAqi,
+                humidityActive: includeHumidity || humidityOff,
+                uvActive: includeUv || uvOff,
+                aqiActive: includeAqi || aqiOff,
+                gradientAllowed,
+                animateGradient,
+                animateTemp,
+                animateHumidity,
+                animateUv,
+                animateAqi,
+                animateOutTemp: runExitAnimation && tempOff,
+                animateOutHumidity: runExitAnimation && humidityOff,
+                animateOutUv: runExitAnimation && uvOff,
+                animateOutAqi: runExitAnimation && aqiOff,
+                onComplete: runExitAnimation ? finalDraw : null,
             });
+
+            omPrevToggleState = nextToggleState;
+            omPrevTempGradient = tempGradient;
+            omPrevSeries = {
+                labels,
+                tempValues: values,
+                humidityValues: humidity,
+                uvValues,
+                aqiValues,
+            };
+            omPrevSeriesKey = fetchKey;
+            omPrevGradientAllowed = gradientAllowed;
 
             if (warnings.length) {
                 setOmStatus(`Delvis feil: ${warnings.join(", ")} utilgjengelig.`);
