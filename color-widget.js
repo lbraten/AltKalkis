@@ -103,7 +103,7 @@
   async function loadFromHex(rawHex) {
     const hex6 = normalizeHex(rawHex);
     if (!hex6) {
-      setStatus("Ugyldig hex. Bruk f.eks. #0df2d7 eller 0df2d7.");
+      setStatus("Ugyldig hex. Bruk f.eks. #BA91FF eller BA91FF.");
       return;
     }
 
@@ -132,7 +132,7 @@
 
   function wireUp() {
     // Default
-    if (!hexInput.value) hexInput.value = "#0df2d7";
+    if (!hexInput.value) hexInput.value = "#BA91FF";
 
     fetchBtn.addEventListener("click", () => loadFromHex(hexInput.value));
 

@@ -40,6 +40,21 @@
             rgba(31, 46, 74, 0.00) 72%)
         ,
         rgb(var(--color-fill));
+    --app-body-gradient:
+        radial-gradient(32% 30% at 14% 8%,
+            rgba(186, 145, 255, 0.14) 0%,
+            rgba(186, 145, 255, 0.06) 55%,
+            rgba(186, 145, 255, 0.00) 85%)
+        ,
+        radial-gradient(34% 28% at 86% 18%,
+            rgba(56, 214, 231, 0.12) 0%,
+            rgba(56, 214, 231, 0.05) 45%,
+            rgba(56, 214, 231, 0.00) 80%)
+        ,
+        radial-gradient(65% 45% at 50% 100%,
+            rgba(10, 16, 30, 0.50) 0%,
+            rgba(10, 16, 30, 0.32) 50%,
+            rgba(10, 16, 30, 0.00) 78%);
 }
 
 body {
@@ -156,6 +171,11 @@ body {
     gap: 1.5rem;
     align-items: start;
     padding: 1.5rem 1.5rem 3rem;
+    background:
+        var(--app-body-gradient),
+        rgb(var(--color-fill));
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .sidebar {
@@ -446,20 +466,33 @@ div.background1 {
 }
 
 .percentResult {
-    background: rgba(var(--color-bg-input), 0.85);
-    padding: 1px;
-    border-radius: 12px;
-    border: 1px solid rgba(var(--color-border), 0.5);
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    border: 0;
+    margin-top: 0.5rem;
+    min-height: 1.4em;
 }
 
 .result-box {
-    background: rgba(var(--color-bg-input), 0.85);
-    padding: 0.35rem 0.6rem;
-    border-radius: 12px;
-    border: 1px solid rgba(var(--color-border), 0.5);
-    min-height: 44px;
-    display: flex;
-    align-items: center;
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    border: 0;
+    margin-top: 0.5rem;
+    min-height: 1.4em;
+    display: block;
+}
+
+#percentResult,
+#hourlyResult,
+#ageResult,
+#dateDiffResult,
+#timeDiffResult,
+#timezoneResult,
+#enturStatus {
+    margin: 0;
+    min-height: 1.4em;
 }
 
 .date-diff-row {
