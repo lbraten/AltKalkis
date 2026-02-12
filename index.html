@@ -65,12 +65,12 @@
                         <span>Valutakalkulator</span>
                     </label>
                     <label class="sidebar__toggle">
-                        <input type="checkbox" data-toggle-card="enturCard" checked>
-                        <span>Ruter (Entur)</span>
-                    </label>
-                    <label class="sidebar__toggle">
                         <input type="checkbox" data-toggle-card="quote" checked>
                         <span>Sitat</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="enturCard" checked>
+                        <span>Ruter (Entur)</span>
                     </label>
                     <label class="sidebar__toggle">
                         <input type="checkbox" data-toggle-card="historicalCard" checked>
@@ -96,6 +96,8 @@
             </aside>
             <div class="background1">
                 <main>
+                    <div class="grid-sizer" aria-hidden="true"></div>
+                    <div class="gutter-sizer" aria-hidden="true"></div>
             <!-- Dagens dato og klokkeslett -->
             <div class="bordershadow card--m" id="datetimeCard">
                 <h2>Dagens dato og klokkeslett</h2>
@@ -118,11 +120,28 @@
                     <div class="coordinate-row" aria-label="Koordinater">
                         <input id="omLat" type="number" step="0.0001" placeholder="Latitude" aria-label="Latitude" />
                         <input id="omLon" type="number" step="0.0001" placeholder="Longitude" aria-label="Longitude" />
-                        <label class="toggle" for="omHumidityToggle">
-                            <input id="omHumidityToggle" type="checkbox" />
-                            <span class="toggle__track" aria-hidden="true"></span>
-                            <span class="toggle__label">Fuktighet</span>
-                        </label>
+                        <div class="metric-toggles" role="group" aria-label="Grafserier">
+                            <label class="metric-toggle metric-toggle--temp">
+                                <input id="omTempToggle" type="checkbox" checked />
+                                <span class="metric-toggle__box" aria-hidden="true"></span>
+                                <span class="metric-toggle__label">Temperatur</span>
+                            </label>
+                            <label class="metric-toggle metric-toggle--humidity">
+                                <input id="omHumidityToggle" type="checkbox" />
+                                <span class="metric-toggle__box" aria-hidden="true"></span>
+                                <span class="metric-toggle__label">Fuktighet</span>
+                            </label>
+                            <label class="metric-toggle metric-toggle--uv">
+                                <input id="omUvToggle" type="checkbox" />
+                                <span class="metric-toggle__box" aria-hidden="true"></span>
+                                <span class="metric-toggle__label">UV</span>
+                            </label>
+                            <label class="metric-toggle metric-toggle--aqi">
+                                <input id="omAqiToggle" type="checkbox" />
+                                <span class="metric-toggle__box" aria-hidden="true"></span>
+                                <span class="metric-toggle__label">Luftkvalitet</span>
+                            </label>
+                        </div>
                     </div>
                     <div id="omRangeSelector" class="range-selector" role="tablist" aria-label="Velg periode">
                         <span class="range-selector__indicator" aria-hidden="true"></span>
@@ -383,6 +402,7 @@
     <script src="holidays.js"></script>
     <script src="color-widget.js"></script>
     <script src="onthisday.js"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
     <script src="script.js"></script>
     <script src="fund-klp.js"></script>
     <script src="klokke.js"></script>

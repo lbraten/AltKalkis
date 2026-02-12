@@ -370,7 +370,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     } catch (err) {
         console.error(err);
-        el.innerText = "Klarte ikke hente sitat 😅";
+        el.innerText = "Klarte ikke hente sitat";
     }
     }
 
@@ -385,6 +385,8 @@ document.addEventListener("DOMContentLoaded", () => {
         const rootStyles = getComputedStyle(document.documentElement);
         const accent = rootStyles.getPropertyValue("--color").trim() || "189, 150, 255";
         const humidityAccent = rootStyles.getPropertyValue("--color-humidity").trim() || "88, 196, 255";
+        const uvAccent = rootStyles.getPropertyValue("--color-uv").trim() || "246, 198, 82";
+        const aqiAccent = rootStyles.getPropertyValue("--color-aqi").trim() || "255, 110, 130";
         const bgElevated = rootStyles.getPropertyValue("--color-bg-elevated").trim() || "8, 14, 24";
         const textBase = rootStyles.getPropertyValue("--color-text-base").trim() || "243, 243, 246";
 
@@ -397,12 +399,25 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const safePoints = Array.isArray(points) ? points : [];
         const safeHumidityPoints = Array.isArray(options.humidityPoints) ? options.humidityPoints : null;
+        const safeUvPoints = Array.isArray(options.uvPoints) ? options.uvPoints : null;
+        const safeAqiPoints = Array.isArray(options.aqiPoints) ? options.aqiPoints : null;
+        const humidityActive = options.humidityActive === true;
+        const uvActive = options.uvActive === true;
+        const aqiActive = options.aqiActive === true;
         const safeLabels = Array.isArray(labels) ? labels : [];
         const tempFormatter = new Intl.NumberFormat("no-NO", {
             minimumFractionDigits: 0,
             maximumFractionDigits: 1,
         });
         const humidityFormatter = new Intl.NumberFormat("no-NO", {
+            minimumFractionDigits: 0,
+            maximumFractionDigits: 0,
+        });
+        const uvFormatter = new Intl.NumberFormat("no-NO", {
+            minimumFractionDigits: 0,
+            maximumFractionDigits: 1,
+        });
+        const aqiFormatter = new Intl.NumberFormat("no-NO", {
             minimumFractionDigits: 0,
             maximumFractionDigits: 0,
         });
@@ -414,14 +429,39 @@ document.addEventListener("DOMContentLoaded", () => {
             return { minVal, maxVal };
         };
 
+        const normalizeSeries = (values) => {
+            if (!Array.isArray(values)) return [];
+            const normalized = values.slice();
+            let last = null;
+            for (let i = 0; i < normalized.length; i++) {
+                if (Number.isFinite(normalized[i])) {
+                    last = normalized[i];
+                } else if (Number.isFinite(last)) {
+                    normalized[i] = last;
+                }
+            }
+            for (let i = normalized.length - 1; i >= 0; i--) {
+                if (Number.isFinite(normalized[i])) break;
+                for (let j = i - 1; j >= 0; j--) {
+                    if (Number.isFinite(normalized[j])) {
+                        normalized[i] = normalized[j];
+                        break;
+                    }
+                }
+            }
+            return normalized;
+        };
+
         const tempScale = computeScale(safePoints, 4);
         const humidityScale = safeHumidityPoints ? computeScale(safeHumidityPoints, 5) : null;
+        const uvScale = safeUvPoints ? computeScale(safeUvPoints, 1) : null;
+        const aqiScale = safeAqiPoints ? computeScale(safeAqiPoints, 8) : null;
         const padX = 10;
         const padY = 12;
         const usableW = width - padX * 2;
         const usableH = height - padY * 2;
 
-        const denom = Math.max(1, safePoints.length - 1);
+        const denom = Math.max(1, safeLabels.length - 1);
         const toCoords = (values, scale) =>
             values.map((v, i) => {
                 const x = padX + (usableW * i) / denom;
@@ -431,9 +471,25 @@ document.addEventListener("DOMContentLoaded", () => {
             });
 
         const coords = toCoords(safePoints, tempScale);
-        const humidityCoords = safeHumidityPoints && humidityScale ? toCoords(safeHumidityPoints, humidityScale) : null;
+        const humidityCoords = safeHumidityPoints && humidityScale ? toCoords(normalizeSeries(safeHumidityPoints), humidityScale) : null;
+        const uvCoords = safeUvPoints && uvScale ? toCoords(normalizeSeries(safeUvPoints), uvScale) : null;
+        const aqiCoords = safeAqiPoints && aqiScale ? toCoords(normalizeSeries(safeAqiPoints), aqiScale) : null;
 
-        const hasHumidity = Array.isArray(humidityCoords) && humidityCoords.length > 1;
+        const hasFinite = (values) => Array.isArray(values) && values.some((v) => Number.isFinite(v));
+        const hasTemp = hasFinite(safePoints) && Array.isArray(coords) && coords.length > 1;
+        const hasHumidity = hasFinite(safeHumidityPoints) && Array.isArray(humidityCoords) && humidityCoords.length > 1;
+        const hasUv = hasFinite(safeUvPoints) && Array.isArray(uvCoords) && uvCoords.length > 1;
+        const hasAqi = hasFinite(safeAqiPoints) && Array.isArray(aqiCoords) && aqiCoords.length > 1;
+        const disableGradient = uvActive || aqiActive;
+        const baseCoords = hasTemp
+            ? coords
+            : hasHumidity
+                ? humidityCoords
+                : hasUv
+                    ? uvCoords
+                    : hasAqi
+                        ? aqiCoords
+                        : null;
 
         function drawBase() {
             ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
@@ -489,15 +545,24 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
 
-        function drawTooltip(pos, label, value, humidityValue) {
+        function drawTooltip(pos, label, value, humidityValue, uvValue, aqiValue) {
             if (!pos) return;
             const paddingX = 10;
             const paddingY = 8;
             const lineHeight = 16;
-            const tempText = Number.isFinite(value) ? `${tempFormatter.format(value)}°C` : "—";
-            const lines = [label, `Temperatur: ${tempText}`];
+            const lines = [label];
+            if (Number.isFinite(value)) {
+                const tempText = `${tempFormatter.format(value)}°C`;
+                lines.push(`Temperatur: ${tempText}`);
+            }
             if (Number.isFinite(humidityValue)) {
                 lines.push(`Fuktighet: ${humidityFormatter.format(humidityValue)}%`);
+            }
+            if (Number.isFinite(uvValue)) {
+                lines.push(`UV-indeks: ${uvFormatter.format(uvValue)}`);
+            }
+            if (Number.isFinite(aqiValue)) {
+                lines.push(`Luftkvalitet (AQI): ${aqiFormatter.format(aqiValue)}`);
             }
 
             ctx.font = "12px system-ui, -apple-system, Segoe UI, sans-serif";
@@ -537,7 +602,11 @@ document.addEventListener("DOMContentLoaded", () => {
         function render(progress) {
             drawBase();
 
-            const totalSegments = coords.length - 1;
+            if (!baseCoords || baseCoords.length < 2) {
+                return;
+            }
+
+            const totalSegments = baseCoords.length - 1;
             const progressSegments = totalSegments * progress;
             const lastIndex = Math.floor(progressSegments);
             const t = progressSegments - lastIndex;
@@ -547,44 +616,50 @@ document.addEventListener("DOMContentLoaded", () => {
             ctx.beginPath();
             ctx.rect(0, 0, width * progress, height);
             ctx.clip();
-            ctx.beginPath();
-            drawSmoothPath(coords);
-            ctx.lineTo(coords[coords.length - 1].x, height - padY);
-            ctx.lineTo(coords[0].x, height - padY);
-            ctx.closePath();
-            const fillGradient = ctx.createLinearGradient(0, padY, 0, height - padY);
-            fillGradient.addColorStop(0, `rgba(${accent}, 0.35)`);
-            fillGradient.addColorStop(1, `rgba(${accent}, 0.0)`);
-            ctx.fillStyle = fillGradient;
-            ctx.fill();
+            if (hasTemp && !disableGradient) {
+                ctx.beginPath();
+                drawSmoothPath(coords);
+                ctx.lineTo(coords[coords.length - 1].x, height - padY);
+                ctx.lineTo(coords[0].x, height - padY);
+                ctx.closePath();
+                const fillGradient = ctx.createLinearGradient(0, padY, 0, height - padY);
+                fillGradient.addColorStop(0, `rgba(${accent}, 0.35)`);
+                fillGradient.addColorStop(1, `rgba(${accent}, 0.0)`);
+                ctx.fillStyle = fillGradient;
+                ctx.fill();
+            }
             ctx.restore();
 
             // Smooth line
-            ctx.save();
-            ctx.beginPath();
-            ctx.rect(0, 0, width * progress, height);
-            ctx.clip();
-            ctx.strokeStyle = `rgb(${accent})`;
-            ctx.lineWidth = 2.5;
-            drawSmoothPath(coords);
-            ctx.stroke();
-            ctx.restore();
+            if (hasTemp) {
+                ctx.save();
+                ctx.beginPath();
+                ctx.rect(0, 0, width * progress, height);
+                ctx.clip();
+                ctx.strokeStyle = `rgb(${accent})`;
+                ctx.lineWidth = 2.5;
+                drawSmoothPath(coords);
+                ctx.stroke();
+                ctx.restore();
+            }
 
             if (hasHumidity) {
                 ctx.save();
                 ctx.beginPath();
                 ctx.rect(0, 0, width * progress, height);
                 ctx.clip();
-                ctx.beginPath();
-                drawSmoothPath(humidityCoords);
-                ctx.lineTo(humidityCoords[humidityCoords.length - 1].x, height - padY);
-                ctx.lineTo(humidityCoords[0].x, height - padY);
-                ctx.closePath();
-                const humidityFill = ctx.createLinearGradient(0, padY, 0, height - padY);
-                humidityFill.addColorStop(0, `rgba(${humidityAccent}, 0.22)`);
-                humidityFill.addColorStop(1, `rgba(${humidityAccent}, 0.0)`);
-                ctx.fillStyle = humidityFill;
-                ctx.fill();
+                if (!disableGradient) {
+                    ctx.beginPath();
+                    drawSmoothPath(humidityCoords);
+                    ctx.lineTo(humidityCoords[humidityCoords.length - 1].x, height - padY);
+                    ctx.lineTo(humidityCoords[0].x, height - padY);
+                    ctx.closePath();
+                    const humidityFill = ctx.createLinearGradient(0, padY, 0, height - padY);
+                    humidityFill.addColorStop(0, `rgba(${humidityAccent}, 0.22)`);
+                    humidityFill.addColorStop(1, `rgba(${humidityAccent}, 0.0)`);
+                    ctx.fillStyle = humidityFill;
+                    ctx.fill();
+                }
                 ctx.restore();
 
                 ctx.save();
@@ -598,9 +673,35 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.restore();
             }
 
+            if (hasUv) {
+                ctx.save();
+                ctx.beginPath();
+                ctx.rect(0, 0, width * progress, height);
+                ctx.clip();
+                ctx.strokeStyle = `rgb(${uvAccent})`;
+                ctx.lineWidth = 2;
+                drawSmoothPath(uvCoords);
+                ctx.stroke();
+                ctx.restore();
+            }
+
+            if (hasAqi) {
+                ctx.save();
+                ctx.beginPath();
+                ctx.rect(0, 0, width * progress, height);
+                ctx.clip();
+                ctx.strokeStyle = `rgb(${aqiAccent})`;
+                ctx.setLineDash([6, 6]);
+                ctx.lineWidth = 2;
+                drawSmoothPath(aqiCoords);
+                ctx.stroke();
+                ctx.setLineDash([]);
+                ctx.restore();
+            }
+
             // Hover point + tooltip
-            if (hoverIndex >= 0 && interactiveReady) {
-                const p = coords[hoverIndex];
+            if (hoverIndex >= 0 && interactiveReady && baseCoords) {
+                const p = baseCoords[hoverIndex];
                 ctx.save();
                 ctx.strokeStyle = `rgba(${textBase}, 0.22)`;
                 ctx.lineWidth = 1;
@@ -611,15 +712,18 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.stroke();
                 ctx.restore();
 
-                ctx.fillStyle = `rgba(${accent}, 0.95)`;
-                ctx.beginPath();
-                ctx.arc(p.x, p.y, 4, 0, Math.PI * 2);
-                ctx.fill();
-                ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
-                ctx.lineWidth = 1;
-                ctx.beginPath();
-                ctx.arc(p.x, p.y, 7, 0, Math.PI * 2);
-                ctx.stroke();
+                if (hasTemp) {
+                    const tp = coords[hoverIndex];
+                    ctx.fillStyle = `rgba(${accent}, 0.95)`;
+                    ctx.beginPath();
+                    ctx.arc(tp.x, tp.y, 4, 0, Math.PI * 2);
+                    ctx.fill();
+                    ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
+                    ctx.lineWidth = 1;
+                    ctx.beginPath();
+                    ctx.arc(tp.x, tp.y, 7, 0, Math.PI * 2);
+                    ctx.stroke();
+                }
 
                 if (hasHumidity) {
                     const hp = humidityCoords[hoverIndex];
@@ -634,8 +738,37 @@ document.addEventListener("DOMContentLoaded", () => {
                     ctx.stroke();
                 }
 
+                if (hasUv) {
+                    const up = uvCoords[hoverIndex];
+                    ctx.fillStyle = `rgba(${uvAccent}, 0.95)`;
+                    ctx.beginPath();
+                    ctx.arc(up.x, up.y, 3.5, 0, Math.PI * 2);
+                    ctx.fill();
+                    ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
+                    ctx.lineWidth = 1;
+                    ctx.beginPath();
+                    ctx.arc(up.x, up.y, 6.5, 0, Math.PI * 2);
+                    ctx.stroke();
+                }
+
+                if (hasAqi) {
+                    const ap = aqiCoords[hoverIndex];
+                    ctx.fillStyle = `rgba(${aqiAccent}, 0.95)`;
+                    ctx.beginPath();
+                    ctx.arc(ap.x, ap.y, 3.5, 0, Math.PI * 2);
+                    ctx.fill();
+                    ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
+                    ctx.lineWidth = 1;
+                    ctx.beginPath();
+                    ctx.arc(ap.x, ap.y, 6.5, 0, Math.PI * 2);
+                    ctx.stroke();
+                }
+
+                const tempValue = hasTemp ? safePoints[hoverIndex] : null;
                 const humidityValue = hasHumidity ? safeHumidityPoints[hoverIndex] : null;
-                drawTooltip(hoverPos, safeLabels[hoverIndex], safePoints[hoverIndex], humidityValue);
+                const uvValue = hasUv ? safeUvPoints[hoverIndex] : null;
+                const aqiValue = hasAqi ? safeAqiPoints[hoverIndex] : null;
+                drawTooltip(hoverPos, safeLabels[hoverIndex], tempValue, humidityValue, uvValue, aqiValue);
             }
         }
 
@@ -663,8 +796,9 @@ document.addEventListener("DOMContentLoaded", () => {
         function findNearestPoint(pos) {
             let nearest = -1;
             let minDist = Infinity;
-            for (let i = 0; i < coords.length; i++) {
-                const dx = Math.abs(pos.x - coords[i].x);
+            const targets = baseCoords || [];
+            for (let i = 0; i < targets.length; i++) {
+                const dx = Math.abs(pos.x - targets[i].x);
                 if (dx < minDist) {
                     minDist = dx;
                     nearest = i;
@@ -758,7 +892,100 @@ document.addEventListener("DOMContentLoaded", () => {
         const values = temps.map((t) => (Number.isFinite(t) ? t : null));
         const humidityValues = humidity.map((h) => (Number.isFinite(h) ? h : null));
 
-        return { labels, values, humidity: humidityValues };
+        return { labels, values, humidity: humidityValues, days };
+    }
+
+    const mapDailySeries = (days = [], seriesDays = [], seriesValues = []) => {
+        const valueMap = new Map();
+        seriesDays.forEach((d, idx) => {
+            const v = seriesValues[idx];
+            valueMap.set(d, Number.isFinite(v) ? v : null);
+        });
+        return days.map((d) => (valueMap.has(d) ? valueMap.get(d) : null));
+    };
+
+    const hasFiniteSeries = (values) => Array.isArray(values) && values.some((v) => Number.isFinite(v));
+
+    async function fetchUvIndexForRange(lat, lon, rangeKey, days = []) {
+        const { start, end } = getRangeForKey(rangeKey);
+        const startDate = formatDateYmd(start);
+        const endDate = formatDateYmd(end);
+
+        const archiveUrl =
+            "https://archive-api.open-meteo.com/v1/archive" +
+            `?latitude=${encodeURIComponent(lat)}` +
+            `&longitude=${encodeURIComponent(lon)}` +
+            `&start_date=${startDate}` +
+            `&end_date=${endDate}` +
+            `&daily=uv_index_max` +
+            `&timezone=Europe%2FOslo`;
+
+        const res = await fetch(archiveUrl);
+        if (!res.ok) throw new Error(`UV-API feil: ${res.status} ${res.statusText}`);
+        const data = await res.json();
+
+        const uvDays = data?.daily?.time || [];
+        const uvValues = data?.daily?.uv_index_max || [];
+        const mapped = mapDailySeries(days, uvDays, uvValues);
+        if (hasFiniteSeries(mapped)) return mapped;
+
+        const recentDays = Math.min(Math.max(days.length, 1), 30);
+        const forecastUrl =
+            "https://api.open-meteo.com/v1/forecast" +
+            `?latitude=${encodeURIComponent(lat)}` +
+            `&longitude=${encodeURIComponent(lon)}` +
+            `&daily=uv_index_max` +
+            `&past_days=${recentDays}` +
+            `&forecast_days=0` +
+            `&timezone=Europe%2FOslo`;
+
+        const forecastRes = await fetch(forecastUrl);
+        if (!forecastRes.ok) throw new Error(`UV-forecast feil: ${forecastRes.status} ${forecastRes.statusText}`);
+        const forecastData = await forecastRes.json();
+        const fDays = forecastData?.daily?.time || [];
+        const fValues = forecastData?.daily?.uv_index_max || [];
+        return mapDailySeries(days, fDays, fValues);
+    }
+
+    async function fetchAqiForRange(lat, lon, rangeKey, days = []) {
+        const { start, end } = getRangeForKey(rangeKey);
+        const startDate = formatDateYmd(start);
+        const endDate = formatDateYmd(end);
+
+        const url =
+            "https://air-quality-api.open-meteo.com/v1/air-quality" +
+            `?latitude=${encodeURIComponent(lat)}` +
+            `&longitude=${encodeURIComponent(lon)}` +
+            `&start_date=${startDate}` +
+            `&end_date=${endDate}` +
+            `&hourly=european_aqi` +
+            `&timezone=Europe%2FOslo`;
+
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`AQI-API feil: ${res.status} ${res.statusText}`);
+        const data = await res.json();
+
+        const times = data?.hourly?.time || [];
+        const values = data?.hourly?.european_aqi || [];
+        const dayBuckets = new Map();
+
+        times.forEach((time, idx) => {
+            const dayKey = typeof time === "string" ? time.slice(0, 10) : null;
+            const v = values[idx];
+            if (!dayKey || !Number.isFinite(v)) return;
+            if (!dayBuckets.has(dayKey)) {
+                dayBuckets.set(dayKey, { sum: 0, count: 0 });
+            }
+            const bucket = dayBuckets.get(dayKey);
+            bucket.sum += v;
+            bucket.count += 1;
+        });
+
+        return days.map((d) => {
+            const bucket = dayBuckets.get(d);
+            if (!bucket || !bucket.count) return null;
+            return bucket.sum / bucket.count;
+        });
     }
 
     const omStatusEl = document.getElementById("omStatus");
@@ -806,13 +1033,40 @@ document.addEventListener("DOMContentLoaded", () => {
             return;
         }
         try {
-            setOmStatus("Henter temperatur…");
-            const { labels, values, humidity } = await fetchTemperaturesForRange(lat, lon, omSelectedRange);
+            setOmStatus("Henter grafdata…");
+            const { labels, values, humidity, days } = await fetchTemperaturesForRange(lat, lon, omSelectedRange);
+            const includeTemp = omTempToggle ? omTempToggle.checked : true;
             const includeHumidity = !!omHumidityToggle?.checked;
-            replaceAndDrawTrendChart(labels, values, {
+            const includeUv = !!omUvToggle?.checked;
+            const includeAqi = !!omAqiToggle?.checked;
+
+            const extraRequests = [
+                includeUv ? fetchUvIndexForRange(lat, lon, omSelectedRange, days) : Promise.resolve(null),
+                includeAqi ? fetchAqiForRange(lat, lon, omSelectedRange, days) : Promise.resolve(null),
+            ];
+            const [uvResult, aqiResult] = await Promise.allSettled(extraRequests);
+            const warnings = [];
+
+            const uvValues = uvResult.status === "fulfilled" ? uvResult.value : null;
+            if (uvResult.status === "rejected" || !hasFiniteSeries(uvValues)) warnings.push("UV");
+            const aqiValues = aqiResult.status === "fulfilled" ? aqiResult.value : null;
+            if (aqiResult.status === "rejected" || !hasFiniteSeries(aqiValues)) warnings.push("AQI");
+
+            const tempValues = includeTemp ? values : values.map(() => null);
+            replaceAndDrawTrendChart(labels, tempValues, {
                 humidityPoints: includeHumidity ? humidity : null,
+                uvPoints: includeUv ? uvValues : null,
+                aqiPoints: includeAqi ? aqiValues : null,
+                humidityActive: includeHumidity,
+                uvActive: includeUv,
+                aqiActive: includeAqi,
             });
-            setOmStatus("");
+
+            if (warnings.length) {
+                setOmStatus(`Delvis feil: ${warnings.join(", ")} utilgjengelig.`);
+            } else {
+                setOmStatus("");
+            }
         } catch (err) {
             console.error(err);
             setOmStatus(`Feil: ${err.message}`);
@@ -822,7 +1076,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const omLatInput = document.getElementById("omLat");
     const omLonInput = document.getElementById("omLon");
     const omPresetCity = document.getElementById("omPresetCity");
+    const omTempToggle = document.getElementById("omTempToggle");
     const omHumidityToggle = document.getElementById("omHumidityToggle");
+    const omUvToggle = document.getElementById("omUvToggle");
+    const omAqiToggle = document.getElementById("omAqiToggle");
     const DEFAULT_LAT = 59.9139;
     const DEFAULT_LON = 10.7522;
 
@@ -875,11 +1132,12 @@ document.addEventListener("DOMContentLoaded", () => {
         omLonInput.addEventListener("input", scheduleOmUpdate);
         omLatInput.addEventListener("change", scheduleOmUpdate);
         omLonInput.addEventListener("change", scheduleOmUpdate);
-        if (omHumidityToggle) {
-            omHumidityToggle.addEventListener("change", () => {
+        [omTempToggle, omHumidityToggle, omUvToggle, omAqiToggle].forEach((toggle) => {
+            if (!toggle) return;
+            toggle.addEventListener("change", () => {
                 updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
             });
-        }
+        });
 
         updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
     }
@@ -1048,13 +1306,14 @@ document.addEventListener("DOMContentLoaded", () => {
             render(data2);
         } catch (err2) {
             console.error("Klarte ikke hente værdata:", err2);
-            if (el.temp) el.temp.textContent = "Klarte ikke hente værdata 😢";
+            if (el.temp) el.temp.textContent = "Klarte ikke hente værdata";
         }
         }
 
         // ✅ Vis/skjul bokser fra sidebar
         const cardToggles = document.querySelectorAll("[data-toggle-card]");
         const storedVisibility = JSON.parse(localStorage.getItem("altkalkis-card-visibility") || "{}");
+        let requestMasonryLayout = null;
         const applyVisibility = (cardId, isVisible) => {
             const card = document.getElementById(cardId);
             if (!card) return;
@@ -1081,58 +1340,42 @@ document.addEventListener("DOMContentLoaded", () => {
                         if (typeof updateDateTime === "function") updateDateTime();
                         if (typeof drawAnalogClock === "function") drawAnalogClock();
                     }
+                    if (typeof requestMasonryLayout === "function") requestMasonryLayout();
                     window.dispatchEvent(new Event("resize"));
                 });
             });
         }
 
-        // 🧱 Auto-masonry: høyde og bredde basert på innhold
+        // 🧱 Masonry: tett layout uten tomme rom
         const grid = document.querySelector("main");
-        if (grid) {
+        if (grid && window.Masonry) {
             const cards = Array.from(grid.querySelectorAll(".bordershadow"));
-            const autoWideThreshold = 36; // antall rader før auto-wide
             let resizeTimer;
-
-            const applyMasonry = () => {
-                const styles = getComputedStyle(grid);
-                const rowHeight = parseFloat(styles.getPropertyValue("grid-auto-rows")) || 8;
-                const rowGap = parseFloat(styles.getPropertyValue("row-gap")) || 0;
-                const masonryAdjust = 2; // juster for mindre "luft" under kort
-                const columnCount = styles.gridTemplateColumns.split(" ").length;
-                const canBeWide = columnCount >= 2;
-
-                // Første pass: fjern auto-wide og nullstill span
-                cards.forEach((card) => {
-                    if (card.classList.contains("is-hidden")) return;
-                    card.classList.remove("card--wide-auto");
-                    card.style.gridRowEnd = "auto";
-                });
-
-                // Mål faktisk innholdshøyde og beregn span
-                cards.forEach((card) => {
-                    if (card.classList.contains("is-hidden")) return;
-                    const contentHeight = card.getBoundingClientRect().height;
-                    const rawSpan = (contentHeight + rowGap - masonryAdjust) / (rowHeight + rowGap);
-                    const rowSpan = Math.max(1, Math.ceil(rawSpan));
-                    if (canBeWide && rowSpan >= autoWideThreshold && !card.classList.contains("card--wide")) {
-                        card.classList.add("card--wide-auto");
-                    }
-                    card.style.gridRowEnd = `span ${rowSpan}`;
-                });
-            };
-
-            const requestLayout = () => window.requestAnimationFrame(applyMasonry);
-
-            window.addEventListener("load", requestLayout);
-            window.addEventListener("resize", () => {
-                clearTimeout(resizeTimer);
-                resizeTimer = setTimeout(requestLayout, 80);
+            const masonry = new Masonry(grid, {
+                itemSelector: ".bordershadow",
+                columnWidth: ".grid-sizer",
+                gutter: ".gutter-sizer",
+                percentPosition: true,
+                transitionDuration: "0.2s",
             });
 
-            const observer = new ResizeObserver(requestLayout);
+            const requestLayout = () => {
+                masonry.reloadItems();
+                masonry.layout();
+            };
+
+            requestMasonryLayout = () => window.requestAnimationFrame(requestLayout);
+
+            window.addEventListener("load", requestMasonryLayout);
+            window.addEventListener("resize", () => {
+                clearTimeout(resizeTimer);
+                resizeTimer = setTimeout(requestMasonryLayout, 120);
+            });
+
+            const observer = new ResizeObserver(requestMasonryLayout);
             cards.forEach((card) => observer.observe(card));
 
-            requestLayout();
+            requestMasonryLayout();
         }
 
 });

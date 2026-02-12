@@ -13,8 +13,11 @@
     --color-bg-input: 14, 20, 36;
     --color-border: 42, 50, 70;
     --color-success: 88, 214, 141;
+    --color-uv: 246, 198, 82;
+    --color-aqi: 255, 110, 130;
     --color-ring: 186, 145, 255;
     --color-ring-muted: 120, 131, 160;
+    --masonry-gutter: 16px;
     --bg-gradient:
         radial-gradient(70% 70% at 80% 40%,
             rgba(103, 64, 150, 0.22) 0%,
@@ -232,17 +235,33 @@ body {
     accent-color: rgb(var(--color-button-accent));
 }
 
-/* GRID layout for kortene */
+/* Masonry layout for kortene */
 main {
-
     width: 100%;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    grid-auto-rows: 8px;
-    grid-auto-flow: dense;
-    gap: 1rem;
-    align-items: start;
-    align-content: start;
+    position: relative;
+}
+
+.grid-sizer,
+.bordershadow {
+    width: calc((100% - 2 * var(--masonry-gutter)) / 3);
+}
+
+.gutter-sizer {
+    width: var(--masonry-gutter);
+}
+
+.grid-sizer,
+.gutter-sizer {
+    height: 0;
+}
+
+.bordershadow {
+    margin-bottom: var(--masonry-gutter);
+}
+
+.card--wide,
+.card--wide-auto {
+    width: calc(((100% - 2 * var(--masonry-gutter)) / 3) * 2 + var(--masonry-gutter));
 }
 
 div.background1 {
@@ -256,9 +275,24 @@ div.background1 {
     box-sizing: border-box;
 }
 
+@media (max-width: 1100px) {
+    .grid-sizer,
+    .bordershadow {
+        width: calc((100% - var(--masonry-gutter)) / 2);
+    }
+
+    .card--wide,
+    .card--wide-auto {
+        width: 100%;
+    }
+}
+
 @media (max-width: 640px) {
-    main {
-        grid-template-columns: 1fr;
+    .grid-sizer,
+    .bordershadow,
+    .card--wide,
+    .card--wide-auto {
+        width: 100%;
     }
 }
 
@@ -281,6 +315,7 @@ div.background1 {
     overflow: visible;
     transition: none;
     grid-row-end: span 1;
+    margin: 0 0 var(--masonry-gutter) 0;
 }
 
 .card--s {
@@ -352,7 +387,7 @@ div.background1 {
 
 .card--wide,
 .card--wide-auto {
-    grid-column: span 2;
+    grid-column: auto;
 }
 
 .chart-grid {
@@ -606,13 +641,102 @@ h6 {
     display: flex;
     gap: 8px;
     align-items: center;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 }
 
 .coordinate-row input[type="number"] {
     width: 140px;
     flex: 1 1 0;
     min-width: 0;
+}
+
+.metric-toggles {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+
+.metric-toggle {
+    --metric-color: var(--color-button-accent);
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 0 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(var(--color-border), 0.45);
+    background: rgba(var(--color-bg-input), 0.9);
+    height: 51px;
+    cursor: pointer;
+    user-select: none;
+    color: rgba(var(--color-text-base), 0.9);
+    font-size: 0.88rem;
+    white-space: nowrap;
+}
+
+.metric-toggle--humidity {
+    --metric-color: var(--color-humidity);
+}
+
+.metric-toggle--temp {
+    --metric-color: var(--color);
+}
+
+.metric-toggle--uv {
+    --metric-color: var(--color-uv);
+}
+
+.metric-toggle--aqi {
+    --metric-color: var(--color-aqi);
+}
+
+.metric-toggle input {
+    position: absolute;
+    opacity: 0;
+    width: 1px;
+    height: 1px;
+    margin: 0;
+}
+
+.metric-toggle__box {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+    border: 1.5px solid rgba(var(--color-border), 0.9);
+    background: rgba(var(--color-bg-elevated), 0.35);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.metric-toggle__box::after {
+    content: "";
+    width: 8px;
+    height: 4px;
+    border-left: 2px solid rgba(var(--color-text-inverted), 0.9);
+    border-bottom: 2px solid rgba(var(--color-text-inverted), 0.9);
+    transform: rotate(-45deg) scale(0);
+    transition: transform 0.2s ease;
+}
+
+.metric-toggle input:checked + .metric-toggle__box {
+    background: rgb(var(--metric-color));
+    border-color: rgb(var(--metric-color));
+}
+
+.metric-toggle input:checked + .metric-toggle__box::after {
+    transform: rotate(-45deg) scale(1);
+}
+
+.metric-toggle input:focus-visible + .metric-toggle__box {
+    box-shadow: 0 0 0 3px rgba(var(--color-ring), 0.35);
+}
+
+.metric-toggle__label {
+    font-weight: 600;
+    letter-spacing: 0.2px;
 }
 
 .toggle {
