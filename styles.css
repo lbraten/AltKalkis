@@ -169,8 +169,8 @@ body {
     z-index: 20;
     background: rgba(var(--color-bg-elevated), 0.9);
     border: 1px solid rgba(var(--color-border), 0.7);
-    border-radius: 16px;
-    padding: 1rem 1.5rem;
+    border-radius: 0px;
+    padding: 1rem 1rem;
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
@@ -189,7 +189,7 @@ body {
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.2s ease;
-    z-index: 15;
+    z-index: 9;
 }
 
 .drawer-backdrop.is-open {
