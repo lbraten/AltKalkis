@@ -11,13 +11,17 @@
 <body>
     <div class="app-shell">
         <header class="topbar">
+            <button class="topbar__menu" type="button" aria-label="Åpne bokser" aria-expanded="false" aria-controls="sidebarDrawer">
+                <span class="topbar__menu-bars" aria-hidden="true"></span>
+            </button>
             <div class="topbar__brand">
                 <img class="topbar__logo" src="hvit.altkalkis.png" alt="AltKalkis logo">
                 <span class="topbar__title">AltKalkis</span>
             </div>
         </header>
+        <div class="drawer-backdrop" data-drawer-backdrop aria-hidden="true"></div>
         <div class="app-body">
-            <aside class="sidebar" aria-label="Navigasjon">
+            <aside class="sidebar" id="sidebarDrawer" aria-label="Navigasjon">
                 <div class="sidebar__title">Bokser</div>
                 <div class="sidebar__list">
                     <label class="sidebar__toggle">
@@ -59,6 +63,10 @@
                     <label class="sidebar__toggle">
                         <input type="checkbox" data-toggle-card="currencyCard" checked>
                         <span>Valutakalkulator</span>
+                    </label>
+                    <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="enturCard" checked>
+                        <span>Ruter (Entur)</span>
                     </label>
                     <label class="sidebar__toggle">
                         <input type="checkbox" data-toggle-card="quote" checked>
@@ -259,6 +267,20 @@
                     <button id="convertBtn" class="vanligknapp">Konverter</button>
                 </div>
                 <div id="result"></div>
+            </div>
+
+            <!-- Ruter (Entur) -->
+            <div class="bordershadow card--wide card--m" id="enturCard">
+                <h2>Ruter (Entur)</h2>
+                <div class="route-controls">
+                    <input id="enturFrom" type="text" placeholder="Fra (f.eks. Oslo S)" />
+                    <input id="enturTo" type="text" placeholder="Til (f.eks. Bergen stasjon)" />
+                    <input id="enturDate" type="date" aria-label="Reisedato" />
+                    <input id="enturTime" type="time" aria-label="Tidspunkt" />
+                    <button id="enturSearchBtn" class="vanligknapp" type="button">Søk</button>
+                </div>
+                <p id="enturStatus" class="muted" aria-live="polite"></p>
+                <div id="enturResults" class="route-results" aria-live="polite"></div>
             </div>
 
                  <!-- Dagens quote -->

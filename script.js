@@ -1,6 +1,32 @@
 document.addEventListener("DOMContentLoaded", () => {
     console.log("✅ DOM er lastet");
 
+    const menuBtn = document.querySelector(".topbar__menu");
+    const sidebar = document.getElementById("sidebarDrawer");
+    const backdrop = document.querySelector("[data-drawer-backdrop]");
+    const setDrawerOpen = (open) => {
+        if (!menuBtn || !sidebar || !backdrop) return;
+        sidebar.classList.toggle("is-open", open);
+        backdrop.classList.toggle("is-open", open);
+        menuBtn.classList.toggle("is-open", open);
+        menuBtn.setAttribute("aria-expanded", open ? "true" : "false");
+    };
+
+    if (menuBtn) {
+        menuBtn.addEventListener("click", () => {
+            const isOpen = sidebar?.classList.contains("is-open");
+            setDrawerOpen(!isOpen);
+        });
+    }
+
+    if (backdrop) {
+        backdrop.addEventListener("click", () => setDrawerOpen(false));
+    }
+
+    document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape") setDrawerOpen(false);
+    });
+
     // 📊 Prosentkalkulator
     const percentValueInput = document.getElementById("percentValue");
     const percentPercentInput = document.getElementById("percentPercent");
@@ -195,6 +221,124 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         });
     }
+
+    // 🧭 Entur ruter
+    const enturBtn = document.getElementById("enturSearchBtn");
+    const enturFromInput = document.getElementById("enturFrom");
+    const enturToInput = document.getElementById("enturTo");
+    const enturDateInput = document.getElementById("enturDate");
+    const enturTimeInput = document.getElementById("enturTime");
+    const enturStatusEl = document.getElementById("enturStatus");
+    const enturResultsEl = document.getElementById("enturResults");
+
+    const setEnturDefaults = () => {
+        if (!enturDateInput || !enturTimeInput) return;
+        const now = new Date();
+        if (!enturDateInput.value) enturDateInput.value = now.toISOString().slice(0, 10);
+        if (!enturTimeInput.value) enturTimeInput.value = now.toTimeString().slice(0, 5);
+    };
+
+    const formatEnturTime = (iso) => {
+        if (!iso) return "";
+        const date = new Date(iso);
+        return date.toLocaleTimeString("nb-NO", { hour: "2-digit", minute: "2-digit" });
+    };
+
+    const formatEnturDuration = (seconds) => {
+        if (typeof seconds !== "number") return "";
+        const mins = Math.round(seconds / 60);
+        const hours = Math.floor(mins / 60);
+        const rest = mins % 60;
+        return hours > 0 ? `${hours} t ${rest} min` : `${rest} min`;
+    };
+
+    const renderEnturResults = (trips = []) => {
+        if (!enturResultsEl) return;
+        enturResultsEl.innerHTML = "";
+
+        if (!trips.length) {
+            enturResultsEl.innerHTML = "<p>Ingen ruter funnet.</p>";
+            return;
+        }
+
+        trips.forEach((trip) => {
+            const card = document.createElement("div");
+            card.className = "route-card";
+
+            const meta = document.createElement("div");
+            meta.className = "route-card__meta";
+            meta.textContent = `Varighet: ${formatEnturDuration(trip.duration)} · ${formatEnturTime(trip.departure)}–${formatEnturTime(trip.arrival)}`;
+
+            const legs = document.createElement("div");
+            legs.className = "route-legs";
+
+            (trip.legs || []).forEach((leg) => {
+                const legEl = document.createElement("div");
+                legEl.className = "route-leg";
+
+                const mode = document.createElement("span");
+                mode.className = "route-leg__mode";
+                mode.textContent = leg.modeLabel || leg.mode || "Ukjent";
+
+                const info = document.createElement("span");
+                const line = leg.line ? ` (${leg.line})` : "";
+                info.textContent = `${leg.from} → ${leg.to}${line}`;
+
+                legEl.append(mode, info);
+                legs.appendChild(legEl);
+            });
+
+            card.append(meta, legs);
+            enturResultsEl.appendChild(card);
+        });
+    };
+
+    const fetchEnturRoutes = async () => {
+        if (!enturFromInput || !enturToInput || !enturDateInput || !enturTimeInput || !enturStatusEl) return;
+        const from = enturFromInput.value.trim();
+        const to = enturToInput.value.trim();
+        const date = enturDateInput.value;
+        const time = enturTimeInput.value;
+
+        if (!from || !to) {
+            enturStatusEl.textContent = "Skriv inn både Fra og Til.";
+            renderEnturResults([]);
+            return;
+        }
+
+        enturStatusEl.textContent = "Henter ruter…";
+        renderEnturResults([]);
+
+        try {
+            const params = new URLSearchParams({ from, to, date, time });
+            const res = await fetch(`/.netlify/functions/entur-routes?${params.toString()}`);
+            const contentType = res.headers.get("content-type") || "";
+            let data = null;
+            if (contentType.includes("application/json")) {
+                data = await res.json();
+            } else {
+                const text = await res.text();
+                throw new Error(`Uventet svar: ${text.slice(0, 120)}`);
+            }
+            if (!res.ok) {
+                throw new Error(data?.error || `HTTP ${res.status}`);
+            }
+            enturStatusEl.textContent = data?.message || "";
+            renderEnturResults(data?.trips || []);
+        } catch (err) {
+            console.error("Entur-feil:", err);
+            enturStatusEl.textContent = "Kunne ikke hente ruter.";
+        }
+    };
+
+    if (enturBtn) enturBtn.addEventListener("click", fetchEnturRoutes);
+    [enturFromInput, enturToInput, enturDateInput, enturTimeInput].forEach((input) => {
+        if (!input) return;
+        input.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") fetchEnturRoutes();
+        });
+    });
+    setEnturDefaults();
 
 
     // 📜 Sitat fra Quotable (random ved hver lasting)
@@ -933,6 +1077,10 @@ document.addEventListener("DOMContentLoaded", () => {
                     storedVisibility[targetId] = isVisible;
                     localStorage.setItem("altkalkis-card-visibility", JSON.stringify(storedVisibility));
                     applyVisibility(targetId, isVisible);
+                    if (isVisible && targetId === "datetimeCard") {
+                        if (typeof updateDateTime === "function") updateDateTime();
+                        if (typeof drawAnalogClock === "function") drawAnalogClock();
+                    }
                     window.dispatchEvent(new Event("resize"));
                 });
             });

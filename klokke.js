@@ -11,6 +11,7 @@ function drawAnalogClock() {
   if (!canvas) return;
 
   const ctx = canvas.getContext("2d");
+  if (!ctx) return;
 
   const rootStyles = getComputedStyle(document.documentElement);
   const getVar = (name, fallback) => rootStyles.getPropertyValue(name).trim() || fallback;
@@ -30,6 +31,7 @@ function drawAnalogClock() {
   const dpr = window.devicePixelRatio || 1;
   const rect = canvas.getBoundingClientRect();
   const size = Math.round(Math.min(rect.width, rect.height));
+  if (size <= 0) return;
   if (canvas.width !== size * dpr || canvas.height !== size * dpr) {
     canvas.width = size * dpr;
     canvas.height = size * dpr;
