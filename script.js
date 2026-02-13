@@ -95,6 +95,13 @@ document.addEventListener("DOMContentLoaded", () => {
         const ageRounded = Math.floor(ageInYears * 10) / 10;
         const years = Math.floor(ageInYears);
         const months = Math.floor((ageInYears - years) * 12);
+        if (years === 0 && months === 0) {
+            const totalDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+            const weeks = Math.floor(totalDays / 7);
+            const days = totalDays % 7;
+            ageResultEl.innerText = `Omtrent ${ageRounded} år (${weeks} uker og ${days} dager).`;
+            return;
+        }
         ageResultEl.innerText = `Omtrent ${ageRounded} år (${years} år og ${months} måneder).`;
     };
     if (birthDateInput) birthDateInput.addEventListener("input", updateAge);
@@ -385,7 +392,111 @@ document.addEventListener("DOMContentLoaded", () => {
 
     getDailyQuote();
 
-    // 📈 Temperatur siste 30 dager (Open-Meteo)
+    // 📰 NRK Nyheter (RSS)
+    const nrkStatusEl = document.getElementById("nrkNewsStatus");
+    const nrkListEl = document.getElementById("nrkNewsList");
+
+    const stripHtml = (value) => {
+        if (!value) return "";
+        return value.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+    };
+
+    const formatNrkTime = (dateStr) => {
+        if (!dateStr) return "";
+        const date = new Date(dateStr);
+        if (Number.isNaN(date.getTime())) return "";
+        return date.toLocaleTimeString("nb-NO", { hour: "2-digit", minute: "2-digit" });
+    };
+
+    const renderNrkNews = (items) => {
+        if (!nrkListEl) return;
+        nrkListEl.innerHTML = "";
+
+        items.forEach((item) => {
+            const link = item.link || "https://www.nrk.no/nyheter/";
+            const card = document.createElement("a");
+            card.className = "nrk-news-item";
+            card.href = link;
+            card.target = "_blank";
+            card.rel = "noopener";
+
+            const time = document.createElement("div");
+            time.className = "nrk-news-time";
+            time.textContent = item.time || "";
+
+            const category = document.createElement("div");
+            category.className = "nrk-news-category";
+            category.textContent = item.category || "NRK Nyheter";
+
+            const title = document.createElement("div");
+            title.className = "nrk-news-title";
+            title.textContent = item.title || "";
+
+            card.append(time, category, title);
+            nrkListEl.appendChild(card);
+        });
+    };
+
+    const fetchTextWithFallback = async (urls) => {
+        let lastError = null;
+        for (const url of urls) {
+            try {
+                const res = await fetch(url, { cache: "no-store" });
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                return await res.text();
+            } catch (err) {
+                lastError = err;
+            }
+        }
+        throw lastError || new Error("Ukjent feil");
+    };
+
+    const fetchNrkNews = async () => {
+        if (!nrkStatusEl || !nrkListEl) return;
+        nrkStatusEl.textContent = "Laster NRK Nyheter...";
+
+        const feedUrl = "https://www.nrk.no/nyheter/siste.rss";
+        const proxyUrls = [
+            `https://api.allorigins.win/raw?url=${encodeURIComponent(feedUrl)}`,
+            `https://r.jina.ai/http://www.nrk.no/nyheter/siste.rss`,
+            `https://cors.isomorphic-git.org/${feedUrl}`,
+        ];
+
+        try {
+            const xmlText = await fetchTextWithFallback(proxyUrls);
+            const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+            const items = Array.from(doc.querySelectorAll("item"));
+
+            const parsed = items.slice(0, 4).map((item) => {
+                const title = stripHtml(item.querySelector("title")?.textContent || "");
+                const pubDate = item.querySelector("pubDate")?.textContent || "";
+                const category = stripHtml(item.querySelector("category")?.textContent || "");
+                const link = item.querySelector("link")?.textContent || "";
+
+                return {
+                    title,
+                    time: formatNrkTime(pubDate),
+                    category,
+                    link,
+                };
+            });
+
+            if (!parsed.length) {
+                nrkStatusEl.textContent = "Fant ingen nyheter.";
+                return;
+            }
+
+            nrkStatusEl.textContent = "";
+            renderNrkNews(parsed);
+        } catch (err) {
+            console.error("NRK RSS-feil:", err);
+            nrkStatusEl.textContent = "Kunne ikke hente NRK Nyheter.";
+        }
+    };
+
+    fetchNrkNews();
+
+    // Temperatur siste 30 dager (Open-Meteo)
     function drawTemperatureLineChart(canvas, labels, points, options = {}) {
         if (!canvas) return;
         const ctx = canvas.getContext("2d");

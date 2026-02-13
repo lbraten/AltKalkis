@@ -41,20 +41,20 @@
         ,
         rgb(var(--color-fill));
     --app-body-gradient:
-        radial-gradient(32% 30% at 14% 8%,
-            rgba(88, 194, 201, 0.14) 0%,
-            rgba(88, 194, 201, 0.06) 55%,
-            rgba(88, 194, 201, 0.00) 85%)
+        radial-gradient(32% 30% at 12% 10%,
+            rgba(255, 0, 128, 0.16) 0%,
+            rgba(250, 142, 253, 0.10) 52%,
+            rgba(254, 147, 225, 0.00) 82%)
         ,
-        radial-gradient(34% 28% at 86% 18%,
-            rgba(244, 178, 94, 0.12) 0%,
-            rgba(244, 178, 94, 0.05) 45%,
-            rgba(244, 178, 94, 0.00) 80%)
+        radial-gradient(36% 30% at 88% 16%,
+            rgba(76, 0, 255, 0.24) 0%,
+            rgba(254, 151, 195, 0.12) 46%,
+            rgba(254, 151, 195, 0.00) 78%)
         ,
-        radial-gradient(65% 45% at 50% 100%,
-            rgba(10, 16, 30, 0.50) 0%,
-            rgba(10, 16, 30, 0.32) 50%,
-            rgba(10, 16, 30, 0.00) 78%);
+        radial-gradient(75% 55% at 50% 100%,
+            rgba(255, 0, 187, 0.18) 0%,
+            rgba(254, 151, 195, 0.12) 48%,
+            rgba(254, 151, 195, 0.00) 76%);
 }
 
 body {
@@ -502,6 +502,13 @@ div.background1 {
     flex-wrap: wrap;
 }
 
+.time-diff-row {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .date-diff-group {
     display: inline-flex;
     align-items: center;
@@ -609,6 +616,11 @@ h6 {
     }
 
     .date-diff-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .time-diff-row {
         flex-direction: column;
         align-items: stretch;
     }
@@ -980,6 +992,74 @@ h6 {
     box-shadow: 0 12px 30px rgba(3, 10, 18, 0.4);
 }
 
+#klokke .clock-widget {
+    display: grid;
+    gap: 1rem;
+}
+
+#klokke .clock-widget__grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+#klokke .clock-widget__panel {
+    padding: 0.9rem 1rem;
+    border-radius: 12px;
+    border: 1px solid rgba(var(--color-border), 0.6);
+    background: rgba(var(--color-bg-input), 0.7);
+    display: grid;
+    gap: 0.35rem;
+}
+
+#klokke .clock-widget__label {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: rgba(var(--color-text-muted), 0.9);
+}
+
+#klokke .clock-widget__display {
+    font-family: 'Satoshi', sans-serif;
+    font-size: 1.7rem;
+    letter-spacing: 0.12em;
+    color: rgba(var(--color-text-base), 0.95);
+}
+
+#klokke .clock-widget__controls {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+#klokke .clock-widget__inputs,
+#klokke .clock-widget__buttons {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#klokke .clock-widget__inputs input[type="number"] {
+    width: 140px;
+}
+
+#klokke .clock-widget__hint {
+    margin-top: -0.25rem;
+    font-size: 0.88rem;
+}
+
+@media (max-width: 700px) {
+    #klokke .clock-widget__grid {
+        grid-template-columns: 1fr;
+    }
+
+    #klokke .clock-widget__controls {
+        grid-template-columns: 1fr;
+    }
+}
+
 a:link,
 a:visited {
     color: rgb(var(--color));
@@ -1005,6 +1085,110 @@ a:hover {
 
 .is-hidden {
     display: none !important;
+}
+
+.holidayList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 0.75rem;
+}
+
+.holiday {
+    padding: 0.85rem 1rem;
+    border-radius: 14px;
+    border: 1px solid rgba(var(--color-border), 0.5);
+    background: rgba(var(--color-bg-elevated), 0.7);
+    box-shadow: 0 10px 22px rgba(5, 8, 16, 0.25);
+}
+
+.holiday--next {
+    border-color: rgba(var(--color-success), 0.8);
+    background: linear-gradient(120deg,
+        rgba(var(--color-success), 0.22),
+        rgba(var(--color-bg-elevated), 0.7));
+    box-shadow: 0 0 0 1px rgba(var(--color-success), 0.4),
+        0 14px 28px rgba(5, 8, 16, 0.35);
+}
+
+.holiday__badge {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 0.6rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    letter-spacing: 0.3px;
+    border: 1px solid rgba(var(--color-success), 0.55);
+    background: rgba(var(--color-success), 0.2);
+    color: rgb(var(--color-text-base));
+}
+
+.card-title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+}
+
+.card-link {
+    font-size: 0.85rem;
+    color: rgba(var(--color-text-base), 0.92);
+    text-decoration: none;
+    padding: 0.2rem 0.55rem;
+    border-radius: 8px;
+    border: 1px solid rgba(var(--color-border), 0.6);
+    background: rgba(var(--color-button-muted), 0.7);
+}
+
+.card-link:hover {
+    background: rgba(var(--color-button-muted), 0.9);
+}
+
+.nrk-news-status {
+    margin-top: 0.25rem;
+    font-size: 0.9rem;
+    color: rgba(var(--color-text-muted), 0.95);
+}
+
+.nrk-news-list {
+    display: grid;
+    gap: 0.75rem;
+    margin-top: 0.75rem;
+}
+
+.nrk-news-item {
+    display: grid;
+    gap: 0.2rem;
+    padding: 0.6rem 0.75rem;
+    border-radius: 12px;
+    border: 1px solid rgba(var(--color-border), 0.6);
+    background: rgba(var(--color-bg-input), 0.6);
+    color: rgba(var(--color-text-base), 0.96);
+    text-decoration: none;
+}
+
+.nrk-news-item:hover {
+    border-color: rgba(var(--color-ring), 0.7);
+    box-shadow: 0 0 0 1px rgba(var(--color-ring), 0.25);
+}
+
+.nrk-news-time {
+    font-size: 0.85rem;
+    color: rgba(var(--color-text-muted), 0.95);
+}
+
+.nrk-news-category {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: rgba(var(--color-text-base), 0.92);
+}
+
+.nrk-news-title {
+    font-size: 0.95rem;
+    line-height: 1.35;
+    color: rgba(var(--color-text-base), 0.95);
 }
 
 @media (max-width: 980px) {

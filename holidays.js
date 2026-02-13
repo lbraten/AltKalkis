@@ -1,5 +1,5 @@
 
-console.log("holidays.js lastet ✅");
+console.log("holidays.js lastet");
 
 (() => {
   const container = document.getElementById("holidays");
@@ -49,25 +49,34 @@ console.log("holidays.js lastet ✅");
       /** @type {Array<{date:string, localName:string, name:string, types:string[]}>} */
       const holidays = await res.json();
 
-      // Sortér etter dato (ISO-format gjør dette enkelt)
+      // Sorter slik at neste helligdag ligger øverst (rullerende sortering)
+      const todayIso = new Date().toISOString().slice(0, 10);
       holidays.sort((a, b) => a.date.localeCompare(b.date));
+      const upcoming = holidays.filter(h => h.date >= todayIso);
+      const past = holidays.filter(h => h.date < todayIso);
+      const ordered = [...upcoming, ...past];
+      const nextIndex = upcoming.length ? 0 : -1;
 
-      if (!holidays.length) {
+      if (!ordered.length) {
         container.innerHTML = `<p>Fant ingen helligdager for ${year}.</p>`;
         return;
       }
 
-      const listItems = holidays.map(h => {
+      const listItems = ordered.map((h, index) => {
         const dateText = formatDate(h.date);
         const local = escapeHtml(h.localName ?? "");
         const english = escapeHtml(h.name ?? "");
-        const types = Array.isArray(h.types) ? h.types.join(", ") : "";
+        const types = Array.isArray(h.types)
+          ? h.types.filter((type) => type !== "Public").join(", ")
+          : "";
+        const isNext = index === nextIndex;
 
         return `
-          <li class="holiday">
+          <li class="holiday${isNext ? " holiday--next" : ""}">
             <div class="holiday__date">${escapeHtml(dateText)}</div>
             <div class="holiday__names">
               <strong class="holiday__local">${local}</strong>
+              ${isNext ? `<span class="holiday__badge">Neste helligdag</span>` : ""}
               ${english && english !== local ? `<span class="holiday__en">(${english})</span>` : ""}
             </div>
             ${types ? `<div class="holiday__types">${escapeHtml(types)}</div>` : ""}
@@ -79,9 +88,6 @@ console.log("holidays.js lastet ✅");
         <ul class="holidayList">
           ${listItems}
         </ul>
-        <small class="source">
-          Kilde: Nager.Date PublicHolidays API
-        </small>
       `;
     } catch (err) {
       container.innerHTML = `

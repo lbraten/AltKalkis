@@ -69,6 +69,10 @@
                         <span>Sitat</span>
                     </label>
                     <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="nrkNewsCard" checked>
+                        <span>NRK nyheter</span>
+                    </label>
+                    <label class="sidebar__toggle">
                         <input type="checkbox" data-toggle-card="enturCard" checked>
                         <span>Ruter (Entur)</span>
                     </label>
@@ -205,8 +209,10 @@
             <!-- Differanse mellom klokkeslett -->
             <div class="bordershadow card--s" id="timeDiffCard">
                 <h2>Differanse mellom klokkeslett</h2>
-                <input id="time1" type="time" />
-                <input id="time2" type="time" />
+                <div class="time-diff-row">
+                    <input id="time1" type="time" />
+                    <input id="time2" type="time" />
+                </div>
                 <p id="timeDiffResult"></p>
             </div>
 
@@ -323,6 +329,16 @@
                 <p id="quoteResult">Henter...</p>
             </div>
 
+            <!-- NRK Nyheter (RSS) -->
+            <div class="bordershadow card--m" id="nrkNewsCard">
+                <div class="card-title-row">
+                    <h2>NRK Nyheter</h2>
+                    <a class="card-link" href="https://www.nrk.no/nyheter/" target="_blank" rel="noopener">Se alle</a>
+                </div>
+                <div id="nrkNewsStatus" class="nrk-news-status">Laster NRK Nyheter...</div>
+                <div id="nrkNewsList" class="nrk-news-list" aria-live="polite"></div>
+            </div>
+
             <!-- Dagens historiske -->
             <div class="bordershadow card--wide" id="historicalCard">
                 <h2>Dagens historiske</h2>
@@ -331,22 +347,34 @@
 
             <!-- Klokke-widget -->
             <div class="bordershadow card--wide card--m" id="klokke">
-                <h1>Enkel klokke-widget</h1>
+                <div class="clock-widget">
+                    <h2>Enkel klokke-widget</h2>
 
-                <div class="label">timer</div>
-                <div id="timeren" class="display">00:00:00</div>
+                    <div class="clock-widget__grid">
+                        <div class="clock-widget__panel">
+                            <div class="clock-widget__label">Timer</div>
+                            <div id="timeren" class="clock-widget__display">00:00:00</div>
+                        </div>
+                        <div class="clock-widget__panel">
+                            <div class="clock-widget__label">Nedtelling</div>
+                            <div id="nedtelling" class="clock-widget__display">00:10:00</div>
+                        </div>
+                    </div>
 
-                <div class="label">nedtelling</div>
-                <div id="nedtelling" class="display">00:10:00</div>
+                    <div class="clock-widget__controls">
+                        <div class="clock-widget__inputs">
+                            <input id="minInput" type="number" min="0" step="1" placeholder="Minutter" />
+                            <input id="sekInput" type="number" min="0" max="59" step="1" placeholder="Sekunder" />
+                        </div>
+                        <div class="clock-widget__buttons">
+                            <button id="startBtn" type="button">Start nedtelling</button>
+                            <button id="stoppBtn" type="button">Stopp</button>
+                            <button id="resetBtn" type="button">Reset</button>
+                        </div>
+                    </div>
 
-                <div class="row">
-                    <input id="minInput" type="number" min="0" step="1" placeholder="Minutter" />
-                    <input id="sekInput" type="number" min="0" max="59" step="1" placeholder="Sekunder" />
-                    <button id="startBtn" type="button">Start nedtelling</button>
-                    <button id="stoppBtn" type="button">Stopp</button>
-                    <button id="resetBtn" type="button">Reset</button>
+                    <div class="clock-widget__hint muted">Hint: La feltene stå tomme for å starte en rask 10-minutters nedtelling.</div>
                 </div>
-                <div class="muted">Hint: La feltene stå tomme for å starte en rask 10-minutters nedtelling.</div>
             </div>
 
 
