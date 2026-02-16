@@ -1,20 +1,20 @@
 (() => {
   const TARGET_ID = "dagens";
 
-  // Velg språk: 'nb' (norsk bokmål). Fallback til 'en' om noe feiler.
+  //velg språk: 'nb' (norsk bokmål). fallback til 'en' om noe feiler.
   const PRIMARY_LANG = "en";
   const FALLBACK_LANG = "en";
 
-  // Hvor mange punkter vil du vise?
+  //hvor mange punkter vil du vise?
   const MAX_ITEMS = 5;
 
-  // Enkel cache i localStorage (sparer requests)
-  const CACHE_TTL_MS = 6 * 60 * 60 * 1000; // 6 timer
+  //enkel cache i localstorage (sparer requests)
+  const CACHE_TTL_MS = 6 * 60 * 60 * 1000; //6 timer
 
   const pad2 = (n) => String(n).padStart(2, "0");
 
   function getTodayMMDD() {
-    const d = new Date(); // lokal dato (Oslo)
+    const d = new Date(); //lokal dato (oslo)
     return { mm: pad2(d.getMonth() + 1), dd: pad2(d.getDate()) };
   }
 
@@ -39,23 +39,23 @@
     try {
       localStorage.setItem(key, JSON.stringify({ ts: Date.now(), data }));
     } catch {
-      // ignore (storage full / blocked)
+      //ignore (storage full / blocked)
     }
   }
 
   function wikiUrlFromPage(lang, page) {
-    // Feed API pleier å ha content_urls.desktop.page i page-objektet.
+    //feed api pleier å ha content_urls.desktop.page i page-objektet.
     const direct = page?.content_urls?.desktop?.page;
     if (direct) return direct;
 
-    // fallback: bygg URL fra tittel
+    //fallback: bygg url fra tittel
     const title = page?.title || "";
     const slug = encodeURIComponent(title.replace(/ /g, "_"));
     return `https://${lang}.wikipedia.org/wiki/${slug}`;
   }
 
   function pickItems(data) {
-    // Prioriter "selected" (kuraterte), ellers "events".
+    //prioriter "selected" (kuraterte), ellers "events".
     const list =
       (Array.isArray(data?.selected) && data.selected) ||
       (Array.isArray(data?.events) && data.events) ||
@@ -83,7 +83,7 @@
       const year = item?.year ? String(item.year) : "";
       const text = item?.text || "Ukjent hendelse";
 
-      // Velg første relaterte side som link (om den finnes)
+      //velg første relaterte side som link (om den finnes)
       const page = Array.isArray(item?.pages) ? item.pages[0] : null;
       const url = page ? wikiUrlFromPage(lang, page) : null;
 
@@ -126,12 +126,12 @@
 
   async function fetchOnThisDay(lang, type, mm, dd) {
     const url = `https://api.wikimedia.org/feed/v1/wikipedia/${lang}/onthisday/${type}/${mm}/${dd}`;
-    // Endepunkt + parametre er dokumentert av Wikimedia Feed API. [1](https://api.wikimedia.org/wiki/Feed_API/Reference/On_this_day)
+    //endepunkt + parametre er dokumentert av wikimedia feed api. [1](https://api.wikimedia.org/wiki/feed_api/reference/on_this_day)
 
     const res = await fetch(url, {
       headers: {
         "Accept": "application/json",
-        // Wikimedia ber om at klienter identifiserer seg med User-Agent/Api-User-Agent. [2](https://www.mediawiki.org/wiki/Wikimedia_REST_API)
+        //wikimedia ber om at klienter identifiserer seg med user-agent/api-user-agent. [2](https://www.mediawiki.org/wiki/wikimedia_rest_api)
         "Api-User-Agent": "AltKalkis/1.0 (https://ditt-domene.no; kontakt@ditt-domene.no)"
       },
       cache: "no-store"
@@ -148,9 +148,9 @@
     if (!container) return;
 
     const { mm, dd } = getTodayMMDD();
-    const type = "all"; // kan endres til events/births/deaths/holidays [1](https://api.wikimedia.org/wiki/Feed_API/Reference/On_this_day)
+    const type = "all"; //kan endres til events/births/deaths/holidays [1](https://api.wikimedia.org/wiki/feed_api/reference/on_this_day)
 
-    // 1) prøv cache
+    //1) prøv cache
     const key1 = cacheKey(PRIMARY_LANG, mm, dd, type);
     const cached1 = loadCache(key1);
     if (cached1) {
@@ -165,7 +165,7 @@
       saveCache(key1, data);
       render(container, PRIMARY_LANG, mm, dd, data);
     } catch (e1) {
-      // fallback: engelsk
+      //fallback: engelsk
       try {
         const key2 = cacheKey(FALLBACK_LANG, mm, dd, type);
         const cached2 = loadCache(key2);
@@ -185,7 +185,7 @@
     }
   }
 
-  // Kjør når DOM er klar
+  //kjør når dom er klar
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", init);
   } else {

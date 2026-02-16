@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (event.key === "Escape") setDrawerOpen(false);
     });
 
-    // 📊 Prosentkalkulator
+    //prosentkalkulator
     const percentValueInput = document.getElementById("percentValue");
     const percentPercentInput = document.getElementById("percentPercent");
     const percentResultEl = document.getElementById("percentResult");
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (percentPercentInput) percentPercentInput.addEventListener("input", updatePercent);
     updatePercent();
 
-    // 💸 Timeslønn
+    //timeslønn
     const monthlySalaryInput = document.getElementById("monthlySalary");
     const hoursPerWeekInput = document.getElementById("hoursPerWeek");
     const hourlyResultEl = document.getElementById("hourlyResult");
@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (hoursPerWeekInput) hoursPerWeekInput.addEventListener("input", updateHourly);
     updateHourly();
 
-    // 🎂 Alderskalkulator
+    //alderskalkulator
     const birthDateInput = document.getElementById("birthDate");
     const ageResultEl = document.getElementById("ageResult");
     const updateAge = () => {
@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (birthDateInput) birthDateInput.addEventListener("input", updateAge);
     updateAge();
 
-    // 📆 Dato-diff
+    //dato-diff
     const date1Input = document.getElementById("date1");
     const date2Input = document.getElementById("date2");
     const dateDiffResultEl = document.getElementById("dateDiffResult");
@@ -140,7 +140,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (date2Input) date2Input.addEventListener("input", updateDateDiff);
     updateDateDiff();
 
-    // ⏰ Tid-diff
+    //tid-diff
     const time1Input = document.getElementById("time1");
     const time2Input = document.getElementById("time2");
     const timeDiffResultEl = document.getElementById("timeDiffResult");
@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (time2Input) time2Input.addEventListener("input", updateTimeDiff);
     updateTimeDiff();
 
-    // 🌍 Tidssoner
+    //tidssoner
     const tzBtn = document.getElementById("timezoneButton");
     if (tzBtn) {
         tzBtn.addEventListener("click", () => {
@@ -186,7 +186,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // 🧮 Kalkulator
+    //kalkulator
     const calcDisplay = document.getElementById("calcDisplay");
     const buttons = document.querySelectorAll(".calc-btn");
     let currentInput = "";
@@ -208,7 +208,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
-    // 💱 Valutakalkulator
+    //valutakalkulator
     const amountInput = document.getElementById("amount");
     const currencySelect = document.getElementById("currency");
     const resEl = document.getElementById("result");
@@ -238,7 +238,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (amountInput) amountInput.addEventListener("input", convertCurrency);
     if (currencySelect) currencySelect.addEventListener("change", convertCurrency);
 
-    // 🧭 Entur ruter
+    //entur ruter
     const enturBtn = document.getElementById("enturSearchBtn");
     const enturFromInput = document.getElementById("enturFrom");
     const enturToInput = document.getElementById("enturTo");
@@ -357,16 +357,16 @@ document.addEventListener("DOMContentLoaded", () => {
     setEnturDefaults();
 
 
-    // 📜 Sitat fra Quotable (random ved hver lasting)
+    //sitat fra quotable (random ved hver lasting)
     async function getDailyQuote() {
     const el = document.getElementById("quoteResult");
 
     try {
-        // /quotes/random returnerer en ARRAY med quotes (default 1 hvis limit ikke settes)
+        ///quotes/random returnerer en array med quotes (default 1 hvis limit ikke settes)
         const url = "https://api.quotable.io/quotes/random?limit=1";
 
         const res = await fetch(url, {
-        // mode: "cors" er default for cross-origin fetch, men kan stå for tydelighet
+        //mode: "cors" er default for cross-origin fetch, men kan stå for tydelighet
         mode: "cors",
         headers: { "Accept": "application/json" },
         });
@@ -392,7 +392,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     getDailyQuote();
 
-    // 📰 NRK Nyheter (RSS)
+    //nrk nyheter (rss)
     const nrkStatusEl = document.getElementById("nrkNewsStatus");
     const nrkListEl = document.getElementById("nrkNewsList");
 
@@ -437,23 +437,72 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     };
 
-    const fetchTextWithFallback = async (urls) => {
-        let lastError = null;
-        for (const url of urls) {
-            try {
-                const res = await fetch(url, { cache: "no-store" });
-                if (!res.ok) throw new Error(`HTTP ${res.status}`);
-                return await res.text();
-            } catch (err) {
-                lastError = err;
-            }
+    const NRK_CACHE_KEY = "nrkNewsCache";
+    const NRK_CACHE_TTL = 1000 * 60 * 15; //15 min
+
+    const loadNrkCache = () => {
+        try {
+            const raw = localStorage.getItem(NRK_CACHE_KEY);
+            if (!raw) return null;
+            const cached = JSON.parse(raw);
+            if (!cached || !Array.isArray(cached.items)) return null;
+            return cached;
+        } catch {
+            return null;
         }
-        throw lastError || new Error("Ukjent feil");
+    };
+
+    const saveNrkCache = (items) => {
+        try {
+            localStorage.setItem(
+                NRK_CACHE_KEY,
+                JSON.stringify({ timestamp: Date.now(), items })
+            );
+        } catch {
+            //ignore quota/storage errors
+        }
+    };
+
+    const fetchWithTimeout = async (url, timeoutMs = 6500) => {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+        try {
+            const res = await fetch(url, { cache: "no-store", signal: controller.signal });
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            return await res.text();
+        } finally {
+            clearTimeout(timeoutId);
+        }
+    };
+
+    const fetchTextWithFallback = async (urls) => {
+        const attempts = urls.map((url) => fetchWithTimeout(url));
+        try {
+            return await Promise.any(attempts);
+        } catch (err) {
+            let lastError = err;
+            for (const url of urls) {
+                try {
+                    return await fetchWithTimeout(url, 9000);
+                } catch (innerErr) {
+                    lastError = innerErr;
+                }
+            }
+            throw lastError || new Error("Ukjent feil");
+        }
     };
 
     const fetchNrkNews = async () => {
         if (!nrkStatusEl || !nrkListEl) return;
-        nrkStatusEl.textContent = "Laster NRK Nyheter...";
+        const cached = loadNrkCache();
+        const isFresh = cached && Date.now() - cached.timestamp < NRK_CACHE_TTL;
+
+        if (cached?.items?.length) {
+            renderNrkNews(cached.items);
+            nrkStatusEl.textContent = isFresh ? "Oppdaterer NRK Nyheter..." : "Oppdaterer (lagret versjon kan være eldre)...";
+        } else {
+            nrkStatusEl.textContent = "Laster NRK Nyheter...";
+        }
 
         const feedUrl = "https://www.nrk.no/nyheter/siste.rss";
         const proxyUrls = [
@@ -488,15 +537,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
             nrkStatusEl.textContent = "";
             renderNrkNews(parsed);
+            saveNrkCache(parsed);
         } catch (err) {
             console.error("NRK RSS-feil:", err);
-            nrkStatusEl.textContent = "Kunne ikke hente NRK Nyheter.";
+            if (cached?.items?.length) {
+                renderNrkNews(cached.items);
+                nrkStatusEl.textContent = "Viser lagrede nyheter. Kunne ikke oppdatere nå.";
+            } else {
+                nrkStatusEl.textContent = "Kunne ikke hente NRK Nyheter.";
+            }
         }
     };
 
     fetchNrkNews();
 
-    // Temperatur siste 30 dager (Open-Meteo)
+    //temperatur siste 30 dager (open-meteo)
     function drawTemperatureLineChart(canvas, labels, points, options = {}) {
         if (!canvas) return;
         const ctx = canvas.getContext("2d");
@@ -624,12 +679,12 @@ document.addEventListener("DOMContentLoaded", () => {
         function drawBase() {
             ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
 
-            // Background
+            //background
             ctx.clearRect(0, 0, width, height);
             ctx.fillStyle = `rgba(${bgElevated}, 0.55)`;
             ctx.fillRect(0, 0, width, height);
 
-            // Grid
+            //grid
             ctx.strokeStyle = `rgba(${textBase}, 0.06)`;
             ctx.lineWidth = 1;
             const gridRows = 4;
@@ -753,7 +808,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const lastIndex = Math.floor(progressSegments);
             const t = progressSegments - lastIndex;
 
-            // Gradient fill under line
+            //gradient fill under line
             ctx.save();
             ctx.beginPath();
             ctx.rect(0, 0, width * tempProgress, height);
@@ -772,7 +827,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }
             ctx.restore();
 
-            // Smooth line
+            //smooth line
             if (hasTemp) {
                 ctx.save();
                 ctx.beginPath();
@@ -841,7 +896,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.restore();
             }
 
-            // Hover point + tooltip
+            //hover point + tooltip
             if (hoverIndex >= 0 && interactiveReady && baseCoords) {
                 const p = baseCoords[hoverIndex];
                 ctx.save();
@@ -1386,7 +1441,7 @@ document.addEventListener("DOMContentLoaded", () => {
         updateTrendChartForCoords(Number(lat), Number(lon));
     });
 
-    // ⏱️ Klokke-widget
+    //klokke-widget
     const timerDisplay = document.getElementById("timeren");
     const countdownDisplay = document.getElementById("nedtelling");
     const minInput = document.getElementById("minInput");
@@ -1444,7 +1499,7 @@ document.addEventListener("DOMContentLoaded", () => {
     oppdaterCountdown();
 
 
-        // 🌦️ Vær: prøv data fra data/weather.json, ellers fallback til MET.no (med User-Agent)
+        //vær: prøv data fra data/weather.json, ellers fallback til met.no (med user-agent)
         async function getWeather() {
         const el = {
             temp: document.querySelector(".temp"),
@@ -1457,20 +1512,20 @@ document.addEventListener("DOMContentLoaded", () => {
             symbol: document.querySelector(".symbol"),
         };
 
-        // Hjelpere
+        //hjelpere
         const degToDir = (deg) => {
-            // 16-sektors kompass
-            const dirs = ["N","NØ","Ø","SØ","S","SV","V","NV","N"]; // kort variant
+            //16-sektors kompass
+            const dirs = ["N","NØ","Ø","SØ","S","SV","V","NV","N"]; //kort variant
             const idx = Math.round(((deg % 360) / 45));
             return dirs[idx];
         };
 
-        // Enkel vindkjøling (metodisk ikke 100% offisiell; gir “ok” indikator ved lave temp)
+        //enkel vindkjøling (metodisk ikke 100% offisiell; gir “ok” indikator ved lave temp)
         const feelsLike = (tC, windMs) => {
             if (tC === undefined || windMs === undefined) return undefined;
-            // Konverter til km/t for en enkel formel (ikke offisiell WCI)
+            //konverter til km/t for en enkel formel (ikke offisiell wci)
             const v = windMs * 3.6;
-            // Grov tilnærming: føles = T - k * v, lavere k når varmere
+            //grov tilnærming: føles = t - k * v, lavere k når varmere
             const k = tC <= 5 ? 0.1 : 0.03;
             return Math.round((tC - k * v) * 10) / 10;
         };
@@ -1481,19 +1536,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
             const now = ts.data?.instant?.details || {};
             const next1h = ts.data?.next_1_hours;
-            // next_6_hours finnes ofte også: ts.data?.next_6_hours
+            //next_6_hours finnes ofte også: ts.data?.next_6_hours
 
             const temp = now.air_temperature;
-            const wind = now.wind_speed; // m/s
-            const gust = now.wind_speed_of_gust; // m/s
-            const windDir = now.wind_from_direction; // grader
-            const rh = now.relative_humidity; // %
-            const clouds = now.cloud_area_fraction; // %
-            const pressure = now.air_pressure_at_sea_level; // hPa
+            const wind = now.wind_speed; //m/s
+            const gust = now.wind_speed_of_gust; //m/s
+            const windDir = now.wind_from_direction; //grader
+            const rh = now.relative_humidity; //%
+            const clouds = now.cloud_area_fraction; //%
+            const pressure = now.air_pressure_at_sea_level; //hpa
 
             const feels = feelsLike(temp, wind);
 
-            // Oppdater DOM – legg inn kun hvis felt finnes
+            //oppdater dom – legg inn kun hvis felt finnes
             if (typeof temp === "number" && el.temp) el.temp.textContent = `${temp} °C`;
             if (typeof feels === "number" && el.feels) el.feels.textContent = `Føles som: ${feels} °C`;
 
@@ -1512,15 +1567,15 @@ document.addEventListener("DOMContentLoaded", () => {
             const sym = next1h?.summary?.symbol_code;
             if (typeof precip === "number" && el.precip) el.precip.textContent = `Nedbør (neste 1t): ${precip.toFixed(1)} mm`;
             if (sym && el.symbol) {
-                // Du kan senere mappe symbol_code -> ikonfil (f.eks. 'partlycloudy_day' -> /icons/partlycloudy_day.svg)
+                //du kan senere mappe symbol_code -> ikonfil (f.eks. 'partlycloudy_day' -> /icons/partlycloudy_day.svg)
                 el.symbol.textContent = `Værsymbol: ${sym}`;
-                // Eksempel for ikon:
-                // el.symbol.innerHTML = `<img src="/icons/${sym}.svg" alt="${sym}" width="28" height="28">`;
+                //eksempel for ikon:
+                //el.symbol.innerHTML = `<img src="/icons/${sym}.svg" alt="${sym}" width="28" height="28">`;
             }
             }
         };
 
-        // 1) Prøv same-origin JSON (Actions) først
+        //1) prøv same-origin json (actions) først
         try {
             const res = await fetch("data/weather.json", { cache: "no-cache" });
             if (!res.ok) throw new Error("weather.json mangler");
@@ -1531,12 +1586,12 @@ document.addEventListener("DOMContentLoaded", () => {
             console.warn("Bruker ikke weather.json:", err);
         }
 
-        // 2) Fallback: direkte MET.no (med User-Agent)
+        //2) fallback: direkte met.no (med user-agent)
         try {
             const url = "https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=59.91&lon=10.75";
             const res2 = await fetch(url, {
             headers: {
-                // Sett din egen identifikator/kontaktinfo i UA i produksjon (se MET.no guidelines)
+                //sett din egen identifikator/kontaktinfo i ua i produksjon (se met.no guidelines)
                 "User-Agent": "LeandersVærWidget/1.0 (kontakt: example@example.com)"
             }
             });
@@ -1549,7 +1604,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         }
 
-        // ✅ Vis/skjul bokser fra sidebar
+        //vis/skjul bokser fra sidebar
         const cardToggles = document.querySelectorAll("[data-toggle-card]");
         const storedVisibility = JSON.parse(localStorage.getItem("altkalkis-card-visibility") || "{}");
         let requestMasonryLayout = null;
@@ -1585,7 +1640,7 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         }
 
-        // 🧱 Masonry: tett layout uten tomme rom
+        //masonry: tett layout uten tomme rom
         const grid = document.querySelector("main");
         if (grid && window.Masonry) {
             const cards = Array.from(grid.querySelectorAll(".bordershadow"));

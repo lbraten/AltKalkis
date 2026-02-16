@@ -17,7 +17,7 @@
     if (!raw) return null;
     let h = String(raw).trim().replace(/^#/, "");
 
-    // Tillat 3-tegns hex (#abc -> aabbcc)
+    //tillat 3-tegns hex (#abc -> aabbcc)
     if (/^[0-9a-fA-F]{3}$/.test(h)) {
       h = h.split("").map((c) => c + c).join("");
     }
@@ -27,7 +27,7 @@
   }
 
   async function fetchColorInfo(hex6) {
-    // /id endpoint: Get Color GET /id{?hex,...} [1](https://www.thecolorapi.com/docs)
+    ///id endpoint: get color get /id{?hex,...} [1](https://www.thecolorapi.com/docs)
     const url = `https://www.thecolorapi.com/id?hex=${hex6}&format=json`;
     const res = await fetch(url, { headers: { Accept: "application/json" } });
     if (!res.ok) throw new Error(`ID HTTP ${res.status}`);
@@ -35,7 +35,7 @@
   }
 
   async function fetchScheme(hex6, mode, count = 5) {
-    // /scheme endpoint: Get Scheme GET /scheme{?hex,...,mode,count} [1](https://www.thecolorapi.com/docs)
+    ///scheme endpoint: get scheme get /scheme{?hex,...,mode,count} [1](https://www.thecolorapi.com/docs)
     const url = `https://www.thecolorapi.com/scheme?hex=${hex6}&mode=${encodeURIComponent(mode)}&count=${count}&format=json`;
     const res = await fetch(url, { headers: { Accept: "application/json" } });
     if (!res.ok) throw new Error(`SCHEME HTTP ${res.status}`);
@@ -43,7 +43,7 @@
   }
 
   function renderInfo(data) {
-    // Responsen inneholder bl.a. name.value, rgb.value, hsl.value, cmyk.value, contrast.value [1](https://www.thecolorapi.com/docs)
+    //responsen inneholder bl.a. name.value, rgb.value, hsl.value, cmyk.value, contrast.value [1](https://www.thecolorapi.com/docs)
     const name = data?.name?.value ?? "Ukjent";
     const hex = data?.hex?.value ?? "#??????";
     const rgb = data?.rgb?.value ?? "—";
@@ -68,7 +68,7 @@
     for (const c of colors) {
       const hex = c?.hex?.value ?? "#000000";
       const name = c?.name?.value ?? "";
-      const textColor = c?.contrast?.value ?? "#000000"; // best-contrast i respons [1](https://www.thecolorapi.com/docs)
+      const textColor = c?.contrast?.value ?? "#000000"; //best-contrast i respons [1](https://www.thecolorapi.com/docs)
 
       const sw = document.createElement("div");
       sw.className = "swatch";
@@ -85,7 +85,7 @@
           await navigator.clipboard.writeText(hex);
           setStatus(`Kopierte ${hex} ✅`);
         } catch {
-          // fallback hvis clipboard ikke er tilgjengelig
+          //fallback hvis clipboard ikke er tilgjengelig
           const tmp = document.createElement("textarea");
           tmp.value = hex;
           document.body.appendChild(tmp);
@@ -110,7 +110,7 @@
     setStatus("Henter data…");
     infoEl.hidden = true;
 
-    // Synk fargepicker + input
+    //synk fargepicker + input
     const hexWithHash = `#${hex6}`;
     colorPicker.value = hexWithHash;
     hexInput.value = hexWithHash;
@@ -131,23 +131,23 @@
   }
 
   function wireUp() {
-    // Default
+    //default
     if (!hexInput.value) hexInput.value = "#BA91FF";
 
     fetchBtn.addEventListener("click", () => loadFromHex(hexInput.value));
 
-    // Enter i input
+    //enter i input
     hexInput.addEventListener("keydown", (e) => {
       if (e.key === "Enter") loadFromHex(hexInput.value);
     });
 
-    // Når du velger i color picker
+    //når du velger i color picker
     colorPicker.addEventListener("input", () => loadFromHex(colorPicker.value));
 
-    // Når du bytter mode
+    //når du bytter mode
     schemeMode.addEventListener("change", () => loadFromHex(hexInput.value));
 
-    // Første load
+    //første load
     loadFromHex(hexInput.value);
   }
 

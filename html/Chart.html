@@ -24,7 +24,7 @@
     Legend,
   } from 'https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.esm.js';
 
-  // Registrer nødvendige komponenter
+  //registrer nødvendige komponenter
   Chart.register(
     LineController, LineElement, PointElement,
     LinearScale, CategoryScale, TimeSeriesScale,
@@ -47,18 +47,18 @@
   const fetchBtn = document.getElementById('omFetchBtn');
   const statusEl = document.getElementById('omStatus');
 
-  const DEFAULT_LAT = 59.9139; // Oslo
+  const DEFAULT_LAT = 59.9139; //oslo
   const DEFAULT_LON = 10.7522;
   latInput.value = DEFAULT_LAT;
   lonInput.value = DEFAULT_LON;
 
-  // Starter tomt – fylles via Open-Meteo
+  //starter tomt – fylles via open-meteo
   let labels = [];
   let values = [];
 
   const ctx = document.getElementById('myAreaChart').getContext('2d');
 
-  // Lag en vertikal gradient (topp -> bunn)
+  //lag en vertikal gradient (topp -> bunn)
   const gradient = ctx.createLinearGradient(0, 0, 0, ctx.canvas.height);
   gradient.addColorStop(0, hexToRgba(lineColor, 0.8));
   gradient.addColorStop(1, hexToRgba(lineColor, 0));
@@ -73,7 +73,7 @@
         borderWidth: 2,
         fill: true,
         backgroundColor: gradient,
-        tension: 0.35, // mykere, moderne kurve
+        tension: 0.35, //mykere, moderne kurve
         pointRadius: 0,
         pointHoverRadius: 4,
         pointHitRadius: 10,
@@ -195,13 +195,13 @@
     }
   });
 
-  // Auto-hent ved innlasting
+  //auto-hent ved innlasting
   fetchLast30Days(DEFAULT_LAT, DEFAULT_LON).catch((err) => {
     console.error(err);
     setStatus(`Feil: ${err.message}`);
   });
 
-  // Hjelpefunksjon for RGBA
+  //hjelpefunksjon for rgba
   function hexToRgba(hex, alpha = 1) {
     const c = hex.replace('#', '');
     const bigint = parseInt(c.length === 3 ? c.split('').map(x => x + x).join('') : c, 16);
@@ -211,7 +211,7 @@
     return `rgba(${r}, ${g}, ${b}, ${alpha})`;
   }
 
-  // Rebuild gradient on resize to keep nice falloff
+  //rebuild gradient on resize to keep nice falloff
   new ResizeObserver(() => {
     const { height } = ctx.canvas.getBoundingClientRect();
     const g = ctx.createLinearGradient(0, 0, 0, height);

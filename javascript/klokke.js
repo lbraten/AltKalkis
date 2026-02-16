@@ -1,11 +1,11 @@
-// 🔄 Dato og tid (digital)
+//dato og tid (digital)
 function updateDateTime() {
   const now = new Date();
   const el = document.getElementById("currentDateTime");
   if (el) el.innerText = now.toLocaleString("nb-NO");
 }
 
-// 🎯 Analog klokke (canvas)
+//analog klokke (canvas)
 function drawAnalogClock() {
   const canvas = document.getElementById("analogClock");
   if (!canvas) return;
@@ -27,7 +27,7 @@ function drawAnalogClock() {
   const bgInput = getVar("--color-bg-input", "14, 20, 36");
   const border = getVar("--color-border", "42, 50, 70");
 
-  // Skarp på høy-DPI skjermer (retina)
+  //skarp på høy-dpi skjermer (retina)
   const dpr = window.devicePixelRatio || 1;
   const rect = canvas.getBoundingClientRect();
   const size = Math.round(Math.min(rect.width, rect.height));
@@ -41,11 +41,11 @@ function drawAnalogClock() {
   const radius = size / 2;
   ctx.clearRect(0, 0, size, size);
 
-  // Midtpunkt
+  //midtpunkt
   ctx.save();
   ctx.translate(radius, radius);
 
-  // Bakgrunn (moderne, uten ramme)
+  //bakgrunn (moderne, uten ramme)
   ctx.beginPath();
   ctx.arc(0, 0, radius - 4, 0, Math.PI * 2);
   const faceGradient = ctx.createRadialGradient(0, -radius * 0.2, radius * 0.2, 0, 0, radius);
@@ -54,13 +54,13 @@ function drawAnalogClock() {
   ctx.fillStyle = faceGradient;
   ctx.fill();
 
-  // Markører (moderne prikker + subtile minuttstreker)
+  //markører (moderne prikker + subtile minuttstreker)
   ctx.save();
   ctx.strokeStyle = rgb(textMuted, 0.6);
   ctx.fillStyle = rgb(textBase, 0.9);
   ctx.lineCap = "round";
 
-  // Minuttstreker
+  //minuttstreker
   for (let i = 0; i < 60; i++) {
     const angle = (i * Math.PI) / 30;
     ctx.rotate(angle);
@@ -72,7 +72,7 @@ function drawAnalogClock() {
     ctx.rotate(-angle);
   }
 
-  // Timeprikker
+  //timeprikker
   for (let n = 1; n <= 12; n++) {
     const angle = (n * Math.PI) / 6;
     const tx = Math.sin(angle) * (radius - 26);
@@ -83,24 +83,24 @@ function drawAnalogClock() {
   }
   ctx.restore();
 
-  // Tid nå
+  //tid nå
   const now = new Date();
   const hour = now.getHours() % 12;
   const minute = now.getMinutes();
   const second = now.getSeconds();
   const ms = now.getMilliseconds();
 
-  // Vinkelberegninger
+  //vinkelberegninger
   const secondAngle = ((second + ms / 1000) * Math.PI) / 30;
   const minuteAngle = ((minute + second / 60 + ms / 60000) * Math.PI) / 30;
   const hourAngle = ((hour + minute / 60 + second / 3600) * Math.PI) / 6;
 
-  // Visere
+  //visere
   function drawHand(angle, length, width, color) {
     ctx.save();
     ctx.rotate(angle);
     ctx.beginPath();
-    ctx.moveTo(0, 8);            // litt bak midten for estetikk
+    ctx.moveTo(0, 8);            //litt bak midten for estetikk
     ctx.lineTo(0, -length);
     ctx.lineWidth = width;
     ctx.strokeStyle = color;
@@ -109,27 +109,27 @@ function drawAnalogClock() {
     ctx.restore();
   }
 
-  // Timeviser
+  //timeviser
   drawHand(hourAngle, radius * 0.50, 5, rgb(textBase, 0.95));
 
-  // Minuttviser
+  //minuttviser
   drawHand(minuteAngle, radius * 0.70, 4, rgb(textMuted, 0.95));
 
-  // Sekundviser (rød)
+  //sekundviser (rød)
   drawHand(secondAngle, radius * 0.82, 1.6, rgb(accent, 1));
 
-  // Senterknapp
+  //senterknapp
   ctx.beginPath();
   ctx.arc(0, 0, 4, 0, Math.PI * 2);
   ctx.fillStyle = rgb(accent, 1);
   ctx.fill();
 
-  // Ingen ytre ring (bevisst moderne)
+  //ingen ytre ring (bevisst moderne)
 
   ctx.restore();
 }
 
-// ⏱ Smooth animasjon
+//smooth animasjon
 let lastSecond = -1;
 function tick() {
   const now = new Date();

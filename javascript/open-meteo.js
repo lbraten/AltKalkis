@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const statusEl = document.getElementById("omStatus");
   const outputEl = document.getElementById("omOutput");
 
-  // --- Helpers ---
+  //--- helpers ---
   const setStatus = (msg) => (statusEl.textContent = msg);
 
   const fmt = (n, digits = 1) => {
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
       ? daily.precipitation_probability_max[0]
       : null;
 
-    // Open-Meteo har "weather_code" som variabel; vi viser bare koden (du kan mappe til tekst senere). [3](https://open-meteo.com/en/docs)
+    //open-meteo har "weather_code" som variabel; vi viser bare koden (du kan mappe til tekst senere). [3](https://open-meteo.com/en/docs)
     outputEl.innerHTML = `
       <div>
         <p style="margin:0;"><strong>${label}</strong></p>
@@ -62,8 +62,8 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   async function fetchForecast(lat, lon, label = "Valgt sted") {
-    // Forecast API (dokumentert her): https://api.open-meteo.com/v1/forecast … [3](https://open-meteo.com/en/docs)
-    // Vi ber om "current" + "daily" variabler.
+    //forecast api (dokumentert her): https://api.open-meteo.com/v1/forecast … [3](https://open-meteo.com/en/docs)
+    //vi ber om "current" + "daily" variabler.
     const url =
       "https://api.open-meteo.com/v1/forecast" +
       `?latitude=${encodeURIComponent(lat)}` +
@@ -89,8 +89,8 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   async function geocodeCity(name) {
-    // Geocoding API endpoint og parametere er dokumentert her. [1](https://open-meteo.com/en/docs/geocoding-api)
-    // Vi begrenser til Norge med countryCode=NO for mer presise treff. [1](https://open-meteo.com/en/docs/geocoding-api)
+    //geocoding api endpoint og parametere er dokumentert her. [1](https://open-meteo.com/en/docs/geocoding-api)
+    //vi begrenser til norge med countrycode=no for mer presise treff. [1](https://open-meteo.com/en/docs/geocoding-api)
     const url =
       "https://geocoding-api.open-meteo.com/v1/search" +
       `?name=${encodeURIComponent(name)}` +
@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
       return null;
     }
 
-    // Fyll dropdown med treff
+    //fyll dropdown med treff
     results.forEach((r, idx) => {
       const opt = document.createElement("option");
       const admin = [r.admin1, r.admin2, r.country].filter(Boolean).join(", ");
@@ -125,11 +125,11 @@ document.addEventListener("DOMContentLoaded", () => {
     cityResults.hidden = false;
     setStatus(`Fant ${results.length} treff. Velg ett, eller hent direkte.`);
 
-    // Returner første som “default”
+    //returner første som “default”
     return results;
   }
 
-  // --- Event handlers ---
+  //--- event handlers ---
   searchCityBtn.addEventListener("click", async () => {
     const name = (cityInput.value || "").trim();
     if (!name) {
@@ -141,7 +141,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const results = await geocodeCity(name);
       if (!results) return;
 
-      // Autopopuler lat/lon med første treff
+      //autopopuler lat/lon med første treff
       latInput.value = results[0].latitude;
       lonInput.value = results[0].longitude;
       cityResults.value = "0";
@@ -155,9 +155,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const idx = Number(cityResults.value);
     if (Number.isNaN(idx)) return;
 
-    // Vi må hente “siste søk” igjen hvis du vil støtte endring uten lagring.
-    // En enkel løsning: trigge nytt søk når man velger – men her bruker vi lat/lon-feltene.
-    // Derfor: lat/lon blir satt når du klikker "Hent vær" etter å ha valgt.
+    //vi må hente “siste søk” igjen hvis du vil støtte endring uten lagring.
+    //en enkel løsning: trigge nytt søk når man velger – men her bruker vi lat/lon-feltene.
+    //derfor: lat/lon blir satt når du klikker "Hent vær" etter å ha valgt.
     setStatus("Trykk «Hent vær» for valgt treff.");
   });
 

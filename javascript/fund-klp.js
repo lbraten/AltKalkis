@@ -1,20 +1,20 @@
 
-// =====================
-// KONFIG
-// =====================
+//=====================
+//konfig
+//=====================
 
-// KLP AksjeGlobal Indeks N
-const ISIN = "NO0012445404"; // [1](https://www.skagenfondene.no/fond/aksjefond/klp-aksjeglobal-indeks-n/)[2](https://api.fund.storebrand.no/open/funddata/document?documentType=FUND_PROFILE&isin=NO0012445404&languageCode=no&market=NOR)
+//klp aksjeglobal indeks n
+const ISIN = "NO0012445404"; //[1](https://www.skagenfondene.no/fond/aksjefond/klp-aksjeglobal-indeks-n/)[2](https://api.fund.storebrand.no/open/funddata/document?documentType=FUND_PROFILE&isin=NO0012445404&languageCode=no&market=NOR)
 
-// API-proxy (serverless) som holder nøklene skjult
+//api-proxy (serverless) som holder nøklene skjult
 const API_BASE = "/api";
 
-// Cache for å spare API-kall (gratisnivået er begrenset) [3](https://www.leeway.tech/data-api/live/en)
-const CACHE_TTL_MS = 6 * 60 * 60 * 1000; // 6 timer
+//cache for å spare api-kall (gratisnivået er begrenset) [3](https://www.leeway.tech/data-api/live/en)
+const CACHE_TTL_MS = 6 * 60 * 60 * 1000; //6 timer
 
-// =====================
-// UI helpers
-// =====================
+//=====================
+//ui helpers
+//=====================
 function setStatus({ pctText = "—", cls = "flat", meta = "", error = "" }) {
   const pctEl = document.getElementById("pct");
   const metaEl = document.getElementById("meta");
@@ -59,9 +59,9 @@ function cacheSet(key, data) {
   } catch { /* ignore */ }
 }
 
-// =====================
-// API calls
-// =====================
+//=====================
+//api calls
+//=====================
 
 
 async function resolveSymbolByIsin(isin) {
@@ -100,21 +100,21 @@ async function fetchHistoricalQuotes(symbol) {
   return rows;
 }
 
-// =====================
-// Data-behandling
-// =====================
+//=====================
+//data-behandling
+//=====================
 
 function normalizeRows(rows) {
-  // Vi forventer felter som o/h/l/c/v/date (Leeway beskriver dette for historikk) [3](https://www.leeway.tech/data-api/live/en)
+  //vi forventer felter som o/h/l/c/v/date (leeway beskriver dette for historikk) [3](https://www.leeway.tech/data-api/live/en)
   const out = rows
     .map(r => {
       const dateStr = r.date || r.datetime || r.day || null;
       const ts = r.timestamp ? Number(r.timestamp) : null;
 
-      // Finn dato
+      //finn dato
       let iso;
       if (dateStr) {
-        // ofte "YYYY-MM-DD"
+        //ofte "yyyy-mm-dd"
         iso = String(dateStr).slice(0, 10);
       } else if (Number.isFinite(ts)) {
         iso = new Date(ts * 1000).toISOString().slice(0, 10);
@@ -122,20 +122,20 @@ function normalizeRows(rows) {
         return null;
       }
 
-      // close
+      //close
       const close = Number(r.c ?? r.close ?? r.price ?? r.nav);
       if (!Number.isFinite(close)) return null;
 
       return { date: iso, close };
     })
     .filter(Boolean)
-    .sort((a, b) => a.date.localeCompare(b.date)); // asc
+    .sort((a, b) => a.date.localeCompare(b.date)); //asc
 
   return out;
 }
 
 function findClosestOnOrBefore(rowsAsc, isoDate) {
-  // Binærsøk: finn siste rad der date <= isoDate
+  //binærsøk: finn siste rad der date <= isodate
   let lo = 0, hi = rowsAsc.length - 1, ans = -1;
   while (lo <= hi) {
     const mid = (lo + hi) >> 1;
@@ -149,9 +149,9 @@ function findClosestOnOrBefore(rowsAsc, isoDate) {
   return ans >= 0 ? rowsAsc[ans] : null;
 }
 
-// =====================
-// Main
-// =====================
+//=====================
+//main
+//=====================
 
 async function calculate() {
   const startDate = document.getElementById("startDate").value;
@@ -197,4 +197,4 @@ async function calculate() {
 }
 
 document.getElementById("calcBtn").addEventListener("click", calculate);
-calculate(); // auto på load
+calculate(); //auto på load
