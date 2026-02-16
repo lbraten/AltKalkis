@@ -1377,6 +1377,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const DEFAULT_LAT = 59.9139;
     const DEFAULT_LON = 10.7522;
 
+    if (omHumidityToggle) omHumidityToggle.checked = true;
+    if (omUvToggle) omUvToggle.checked = true;
+    if (omAqiToggle) omAqiToggle.checked = true;
+
     if (omLatInput && omLonInput) {
         if (omRangeButtons.length) {
             omRangeButtons.forEach((btn) => {
