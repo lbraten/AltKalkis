@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const setStatus = (msg) => (statusEl.textContent = msg);
 
   const fmt = (n, digits = 1) => {
-    if (n === null || n === undefined || Number.isNaN(n)) return "—";
+    if (n === null || n === undefined || Number.isNaN(n)) return "-";
     return Number(n).toFixed(digits);
   };
 
@@ -46,8 +46,8 @@ document.addEventListener("DOMContentLoaded", () => {
           • Vind: ${fmt(cur.wind_speed_10m)} m/s
         </p>
         <p style="margin:6px 0 0 0;">
-          Værkode: ${cur.weather_code ?? "—"}
-          • Tid: ${cur.time ?? "—"}
+          Værkode: ${cur.weather_code ?? "-"}
+          • Tid: ${cur.time ?? "-"}
         </p>
 
         <hr style="opacity:.2; margin:10px 0;" />
@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <p style="margin:0;"><strong>I dag</strong></p>
         <p style="margin:6px 0 0 0;">
           Min: ${fmt(todayMin)}°C • Maks: ${fmt(todayMax)}°C
-          • Nedbørssjanse (maks): ${precipProb ?? "—"}%
+          • Nedbørssjanse (maks): ${precipProb ?? "-"}%
         </p>
       </div>
     `;
@@ -118,7 +118,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const opt = document.createElement("option");
       const admin = [r.admin1, r.admin2, r.country].filter(Boolean).join(", ");
       opt.value = String(idx);
-      opt.textContent = `${r.name}${admin ? " — " + admin : ""} (${fmt(r.latitude, 4)}, ${fmt(r.longitude, 4)})`;
+      opt.textContent = `${r.name}${admin ? " - " + admin : ""} (${fmt(r.latitude, 4)}, ${fmt(r.longitude, 4)})`;
       cityResults.appendChild(opt);
     });
 

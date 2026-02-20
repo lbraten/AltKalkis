@@ -46,9 +46,9 @@
     //responsen inneholder bl.a. name.value, rgb.value, hsl.value, cmyk.value, contrast.value [1](https://www.thecolorapi.com/docs)
     const name = data?.name?.value ?? "Ukjent";
     const hex = data?.hex?.value ?? "#??????";
-    const rgb = data?.rgb?.value ?? "—";
-    const hsl = data?.hsl?.value ?? "—";
-    const cmyk = data?.cmyk?.value ?? "—";
+    const rgb = data?.rgb?.value ?? "-";
+    const hsl = data?.hsl?.value ?? "-";
+    const cmyk = data?.cmyk?.value ?? "-";
     const contrast = data?.contrast?.value ?? "#000000";
 
     infoEl.innerHTML = `

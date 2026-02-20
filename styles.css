@@ -255,6 +255,18 @@ body {
     accent-color: rgb(var(--color-button-accent));
 }
 
+.market-controls .market-field {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 150px;
+}
+
+.market-controls .market-field span {
+    font-size: 0.78rem;
+    color: rgba(var(--color-text-muted), 0.9);
+}
+
 /* Masonry layout for kortene */
 main {
     width: 100%;
@@ -952,6 +964,17 @@ h6 {
 
 }
 
+#quoteResult {
+
+    height: 135px;
+    overflow-y: auto;
+    padding: 0.85rem 1rem;
+    border-radius: 10px;
+    border: 1px solid rgba(var(--color-border), 0.5);
+    background: rgba(var(--color-bg-input), 0.55);
+    line-height: 1.5;
+}
+
 .resultbtn {
     color:#ff00bf
 }
@@ -984,12 +1007,77 @@ h6 {
 
 #analogClock {
     display: block;
-    width: 220px;
-    height: 220px;
+    width: 260px;
+    height: 260px;
     max-width: none;
-    margin: 8px 0 4px;
+    margin: 10px auto 4px;
     border-radius: 50%;
     box-shadow: 0 12px 30px rgba(3, 10, 18, 0.4);
+}
+
+#currentDateTime {
+    display: grid;
+    gap: 0.2rem;
+    font-family: 'Satoshi', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#currentDateTime .digital-clock__time {
+    font-size: clamp(1.9rem, 3vw, 2.8rem);
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    color: rgba(var(--color-text-base), 0.98);
+    display: inline-flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 0.12em;
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: "tnum";
+}
+
+#currentDateTime .digital-clock__digits {
+    display: inline-flex;
+    gap: 0.12em;
+    min-width: 2ch;
+}
+
+#currentDateTime .digital-clock__digit {
+    display: inline-block;
+    width: 1ch;
+    text-align: center;
+    will-change: transform, opacity;
+}
+
+#currentDateTime .digital-clock__digit.is-ticking {
+    animation: digitalDigitSlide 0.35s ease-out;
+}
+
+#currentDateTime .digital-clock__digits[data-part="seconds"] .digital-clock__digit {
+    color: rgb(var(--color-button-accent));
+}
+
+#currentDateTime .digital-clock__colon {
+    display: inline-block;
+    opacity: 0.65;
+}
+
+#currentDateTime .digital-clock__date {
+    font-size: 0.95rem;
+    color: rgba(var(--color-text-muted), 0.95);
+    letter-spacing: 0.03em;
+    text-transform: capitalize;
+}
+
+#currentDateTime .digital-clock__meta {
+    font-size: 0.92rem;
+    color: rgba(var(--color-text-base), 0.88);
+}
+
+@keyframes digitalDigitSlide {
+    0% { transform: translateY(40%); opacity: 0; }
+    70% { transform: translateY(-6%); opacity: 1; }
+    100% { transform: translateY(0); opacity: 1; }
 }
 
 #klokke .clock-widget {

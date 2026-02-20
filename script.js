@@ -357,30 +357,34 @@ document.addEventListener("DOMContentLoaded", () => {
     setEnturDefaults();
 
 
-    //sitat fra quotable (random ved hver lasting)
+    //sitat fra lokal JSON-liste (random per dag)
     async function getDailyQuote() {
     const el = document.getElementById("quoteResult");
 
     try {
-        ///quotes/random returnerer en array med quotes (default 1 hvis limit ikke settes)
-        const url = "https://api.quotable.io/quotes/random?limit=1";
-
-        const res = await fetch(url, {
-        //mode: "cors" er default for cross-origin fetch, men kan stå for tydelighet
-        mode: "cors",
-        headers: { "Accept": "application/json" },
+        const res = await fetch("data/quote.json", {
+            headers: { "Accept": "application/json" },
         });
 
-        if (!res.ok) throw new Error(`Quotable-feil: ${res.status}`);
+        if (!res.ok) throw new Error(`Quote-fil-feil: ${res.status}`);
 
         const data = await res.json();
-        const q = data?.[0];
+        const list = Array.isArray(data) ? data : [];
+        if (!list.length) {
+            el.innerText = "Ingen sitat tilgjengelig.";
+            return;
+        }
 
-        const quote = q?.content;
-        const author = q?.author;
+        const now = new Date();
+        const start = new Date(now.getFullYear(), 0, 1);
+        const dayOfYear = Math.floor((now - start) / 86400000);
+        const q = list[dayOfYear % list.length];
+
+        const quote = q?.text || q?.quote || q?.content;
+        const author = q?.author || "Ukjent";
 
         if (quote && author) {
-        el.innerText = `"${quote}" — ${author}`;
+        el.innerText = `"${quote}" - ${author}`;
         } else {
         el.innerText = "Ingen sitat tilgjengelig.";
         }
@@ -508,7 +512,6 @@ document.addEventListener("DOMContentLoaded", () => {
         const proxyUrls = [
             `https://api.allorigins.win/raw?url=${encodeURIComponent(feedUrl)}`,
             `https://r.jina.ai/http://www.nrk.no/nyheter/siste.rss`,
-            `https://cors.isomorphic-git.org/${feedUrl}`,
         ];
 
         try {
@@ -595,6 +598,9 @@ document.addEventListener("DOMContentLoaded", () => {
             minimumFractionDigits: 0,
             maximumFractionDigits: 1,
         });
+        const primaryLabel = options.primaryLabel || "Temperatur";
+        const primarySuffix = typeof options.primarySuffix === "string" ? options.primarySuffix : "°C";
+        const primaryFormatter = options.primaryFormatter || tempFormatter;
         const humidityFormatter = new Intl.NumberFormat("no-NO", {
             minimumFractionDigits: 0,
             maximumFractionDigits: 0,
@@ -737,8 +743,9 @@ document.addEventListener("DOMContentLoaded", () => {
             const lineHeight = 16;
             const lines = [label];
             if (Number.isFinite(value)) {
-                const tempText = `${tempFormatter.format(value)}°C`;
-                lines.push(`Temperatur: ${tempText}`);
+                const formatted = primaryFormatter.format(value);
+                const suffix = primarySuffix ? `${primarySuffix}` : "";
+                lines.push(`${primaryLabel}: ${formatted}${suffix}`);
             }
             if (Number.isFinite(humidityValue)) {
                 lines.push(`Fuktighet: ${humidityFormatter.format(humidityValue)}%`);
@@ -1064,6 +1071,16 @@ document.addEventListener("DOMContentLoaded", () => {
         return getLastDaysRange(30);
     }
 
+    const toIsoStartOfDay = (date) => {
+        const utc = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0));
+        return utc.toISOString();
+    };
+
+    const toIsoEndOfDay = (date) => {
+        const utc = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59));
+        return utc.toISOString();
+    };
+
     async function fetchTemperaturesForRange(lat, lon, rangeKey) {
         const { start, end } = getRangeForKey(rangeKey);
         const startDate = formatDateYmd(start);
@@ -1376,12 +1393,45 @@ document.addEventListener("DOMContentLoaded", () => {
     const omAqiToggle = document.getElementById("omAqiToggle");
     const DEFAULT_LAT = 59.9139;
     const DEFAULT_LON = 10.7522;
+    const CUSTOM_PRESET_VALUE = "custom";
 
     if (omHumidityToggle) omHumidityToggle.checked = true;
     if (omUvToggle) omUvToggle.checked = true;
     if (omAqiToggle) omAqiToggle.checked = true;
 
     if (omLatInput && omLonInput) {
+        const ensureCustomPreset = () => {
+            if (!omPresetCity) return null;
+            let customOption = omPresetCity.querySelector(`option[value="${CUSTOM_PRESET_VALUE}"]`);
+            if (!customOption) {
+                customOption = document.createElement("option");
+                customOption.value = CUSTOM_PRESET_VALUE;
+                customOption.textContent = "Egendefinert";
+                omPresetCity.appendChild(customOption);
+            }
+            return customOption;
+        };
+
+        const syncPresetFromCoords = (lat, lon) => {
+            if (!omPresetCity) return;
+            if (!Number.isFinite(lat) || !Number.isFinite(lon)) return;
+            const options = Array.from(omPresetCity.options);
+            const match = options.find((opt) => {
+                const optLat = Number(opt.dataset.lat);
+                const optLon = Number(opt.dataset.lon);
+                return Number.isFinite(optLat)
+                    && Number.isFinite(optLon)
+                    && Math.abs(optLat - lat) < 1e-6
+                    && Math.abs(optLon - lon) < 1e-6;
+            });
+            if (match) {
+                omPresetCity.value = match.value;
+            } else {
+                ensureCustomPreset();
+                omPresetCity.value = CUSTOM_PRESET_VALUE;
+            }
+        };
+
         if (omRangeButtons.length) {
             omRangeButtons.forEach((btn) => {
                 btn.addEventListener("click", () => {
@@ -1401,8 +1451,26 @@ document.addEventListener("DOMContentLoaded", () => {
         const scheduleOmUpdate = () => {
             if (omInputTimer) clearTimeout(omInputTimer);
             omInputTimer = setTimeout(() => {
-                updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
+                const lat = Number(omLatInput.value);
+                const lon = Number(omLonInput.value);
+                syncPresetFromCoords(lat, lon);
+                updateTrendChartForCoords(lat, lon);
             }, 400);
+        };
+
+        const handleCoordPaste = (event) => {
+            const text = event.clipboardData?.getData("text")?.trim();
+            if (!text) return;
+            const matches = text.match(/-?\d+(?:[.,]\d+)?/g);
+            if (!matches || matches.length < 2) return;
+            const lat = Number(matches[0].replace(",", "."));
+            const lon = Number(matches[1].replace(",", "."));
+            if (!Number.isFinite(lat) || !Number.isFinite(lon)) return;
+            event.preventDefault();
+            omLatInput.value = lat;
+            omLonInput.value = lon;
+            syncPresetFromCoords(lat, lon);
+            updateTrendChartForCoords(lat, lon);
         };
 
         if (omPresetCity) {
@@ -1412,15 +1480,22 @@ document.addEventListener("DOMContentLoaded", () => {
             if (Number.isFinite(lat) && Number.isFinite(lon)) {
                 omLatInput.value = lat;
                 omLonInput.value = lon;
+                syncPresetFromCoords(lat, lon);
             }
 
             omPresetCity.addEventListener("change", () => {
                 const sel = omPresetCity.selectedOptions[0];
+                if (sel?.value === CUSTOM_PRESET_VALUE) {
+                    omLatInput.value = "";
+                    omLonInput.value = "";
+                    return;
+                }
                 const nextLat = Number(sel?.dataset?.lat);
                 const nextLon = Number(sel?.dataset?.lon);
                 if (Number.isFinite(nextLat) && Number.isFinite(nextLon)) {
                     omLatInput.value = nextLat;
                     omLonInput.value = nextLon;
+                    syncPresetFromCoords(nextLat, nextLon);
                     updateTrendChartForCoords(nextLat, nextLon);
                 }
             });
@@ -1430,6 +1505,8 @@ document.addEventListener("DOMContentLoaded", () => {
         omLonInput.addEventListener("input", scheduleOmUpdate);
         omLatInput.addEventListener("change", scheduleOmUpdate);
         omLonInput.addEventListener("change", scheduleOmUpdate);
+        omLatInput.addEventListener("paste", handleCoordPaste);
+        omLonInput.addEventListener("paste", handleCoordPaste);
         [omTempToggle, omHumidityToggle, omUvToggle, omAqiToggle].forEach((toggle) => {
             if (!toggle) return;
             toggle.addEventListener("change", () => {
@@ -1439,6 +1516,226 @@ document.addEventListener("DOMContentLoaded", () => {
 
         updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
     }
+
+    //aksjer og krypto (gratis)
+    function replaceAndDrawMarketChart(labels, points, options = {}) {
+        const current = document.getElementById("marketChart");
+        if (!current || !current.parentNode) return;
+        const fresh = current.cloneNode(true);
+        current.parentNode.replaceChild(fresh, current);
+        drawTemperatureLineChart(fresh, labels, points, options);
+    }
+
+    const COINGECKO_BASE = "https://api.coingecko.com/api/v3";
+    const marketTypeSelect = document.getElementById("marketType");
+    const marketSymbolInput = document.getElementById("marketSymbol");
+    const marketBaseInput = document.getElementById("marketBase");
+    const marketQuoteInput = document.getElementById("marketQuote");
+    const marketFetchBtn = document.getElementById("marketFetchBtn");
+    const marketStatusEl = document.getElementById("marketStatus");
+    const marketRangeSelector = document.getElementById("marketRangeSelector");
+    const marketRangeButtons = marketRangeSelector
+        ? Array.from(marketRangeSelector.querySelectorAll("[data-range]"))
+        : [];
+    const marketRangeIndicator = marketRangeSelector
+        ? marketRangeSelector.querySelector(".range-selector__indicator")
+        : null;
+    const marketFields = Array.from(document.querySelectorAll("[data-market-field]"));
+    let marketSelectedRange = "30d";
+
+    const setMarketStatus = (msg) => {
+        if (marketStatusEl) marketStatusEl.textContent = msg;
+    };
+
+    const normalizeUpper = (value) => (value || "").trim().toUpperCase();
+    const normalizeLower = (value) => (value || "").trim().toLowerCase();
+
+    const coinGeckoIds = {
+        btc: "bitcoin",
+        eth: "ethereum",
+        sol: "solana",
+        xrp: "ripple",
+        ada: "cardano",
+        doge: "dogecoin",
+        bnb: "binancecoin",
+        link: "chainlink",
+        dot: "polkadot",
+        ltc: "litecoin",
+    };
+
+    const toggleMarketFields = () => {
+        const type = marketTypeSelect?.value || "stock";
+        marketFields.forEach((field) => {
+            const show = field.dataset.marketField === type;
+            field.classList.toggle("is-hidden", !show);
+        });
+    };
+
+    const positionMarketRangeIndicator = () => {
+        if (!marketRangeSelector || !marketRangeIndicator) return;
+        const activeBtn = marketRangeSelector.querySelector(".range-selector__btn.is-active");
+        if (!activeBtn) return;
+        const buttonRect = activeBtn.getBoundingClientRect();
+        const containerRect = marketRangeSelector.getBoundingClientRect();
+        const offsetX = buttonRect.left - containerRect.left;
+        const inset = 10;
+        const indicatorWidth = Math.max(24, buttonRect.width - inset);
+        marketRangeIndicator.style.width = `${indicatorWidth}px`;
+        marketRangeIndicator.style.transform = `translateX(${offsetX + inset / 2}px)`;
+    };
+
+    const setMarketRange = (nextRange) => {
+        if (!nextRange || marketSelectedRange === nextRange) return;
+        marketSelectedRange = nextRange;
+        marketRangeButtons.forEach((btn) => {
+            const isActive = btn.dataset.range === nextRange;
+            btn.classList.toggle("is-active", isActive);
+            btn.setAttribute("aria-selected", isActive ? "true" : "false");
+        });
+        positionMarketRangeIndicator();
+    };
+
+    const parseStooqCsv = (csvText, rangeKey) => {
+        const lines = csvText.trim().split(/\r?\n/);
+        if (lines.length < 2) return { labels: [], values: [] };
+        const { start, end } = getRangeForKey(rangeKey);
+        const labels = [];
+        const values = [];
+        const datePattern = /^\d{4}-\d{2}-\d{2}$/;
+
+        for (let i = 1; i < lines.length; i++) {
+            const line = lines[i].trim();
+            if (!line) continue;
+            const parts = line.includes(";") ? line.split(";") : line.split(",");
+            const dateStr = parts[0];
+            const closeStr = parts[4];
+            if (!dateStr || !datePattern.test(dateStr) || !closeStr) continue;
+            const date = new Date(`${dateStr}T00:00:00Z`);
+            if (!Number.isFinite(date.getTime())) continue;
+            if (date < start || date > end) continue;
+            const closeVal = Number.parseFloat(closeStr);
+            labels.push(dayFormatter.format(date));
+            values.push(Number.isFinite(closeVal) ? closeVal : null);
+        }
+
+        return { labels, values };
+    };
+
+    async function fetchStooqHistory(symbol, rangeKey) {
+        const cleanSymbol = normalizeLower(symbol);
+        const baseUrl = `https://stooq.com/q/d/l/?s=${encodeURIComponent(cleanSymbol)}&i=d`;
+        const proxyUrls = [
+            `https://r.jina.ai/http://stooq.com/q/d/l/?s=${encodeURIComponent(cleanSymbol)}&i=d`,
+            `https://api.allorigins.win/raw?url=${encodeURIComponent(baseUrl)}`,
+        ];
+        const csvText = await fetchTextWithFallback(proxyUrls);
+        const parsed = parseStooqCsv(csvText, rangeKey);
+        if (!parsed.labels.length) {
+            throw new Error("Fant ingen data (sjekk Stooq-symbol).");
+        }
+        return parsed;
+    }
+
+    const getCoinGeckoDays = (rangeKey) => {
+        if (rangeKey === "1y") return 365;
+        if (rangeKey === "5y") return 365 * 5;
+        if (rangeKey === "ytd") {
+            const today = new Date();
+            const start = new Date(today.getFullYear(), 0, 1);
+            const diffMs = today - start;
+            return Math.max(1, Math.ceil(diffMs / (1000 * 60 * 60 * 24)));
+        }
+        return 30;
+    };
+
+    async function fetchCoinGeckoHistory(baseAsset, quoteAsset, rangeKey) {
+        const base = normalizeLower(baseAsset);
+        const quote = normalizeLower(quoteAsset);
+        const coinId = coinGeckoIds[base] || base;
+        const days = getCoinGeckoDays(rangeKey);
+        const url =
+            `${COINGECKO_BASE}/coins/${encodeURIComponent(coinId)}/market_chart` +
+            `?vs_currency=${encodeURIComponent(quote)}` +
+            `&days=${encodeURIComponent(days)}` +
+            `&interval=daily`;
+
+        const res = await fetch(url);
+        if (!res.ok) {
+            throw new Error(`CoinGecko feil: ${res.status} ${res.statusText}`);
+        }
+        const data = await res.json();
+        const prices = Array.isArray(data?.prices) ? data.prices : [];
+        const labels = prices.map((entry) => dayFormatter.format(new Date(entry[0])));
+        const values = prices.map((entry) => (Number.isFinite(entry[1]) ? entry[1] : null));
+        if (!labels.length) {
+            throw new Error("Fant ingen data (sjekk coin ID).");
+        }
+        return { labels, values, coinId };
+    }
+
+    async function updateMarketChart() {
+        const type = marketTypeSelect?.value || "stock";
+        setMarketStatus("Henter markedsdata…");
+
+        try {
+            if (type === "stock") {
+                const symbol = normalizeLower(marketSymbolInput?.value);
+                if (!symbol) {
+                    setMarketStatus("Skriv inn Stooq-symbol (f.eks. aapl.us).");
+                    return;
+                }
+                const { labels, values } = await fetchStooqHistory(symbol, marketSelectedRange);
+                replaceAndDrawMarketChart(labels, values, {
+                    primaryLabel: `${symbol.toUpperCase()} pris`,
+                    primarySuffix: "",
+                    primaryFormatter: new Intl.NumberFormat("no-NO", { maximumFractionDigits: 2 }),
+                });
+                setMarketStatus("");
+            } else {
+                const baseAsset = normalizeUpper(marketBaseInput?.value);
+                const quoteAsset = normalizeUpper(marketQuoteInput?.value);
+                if (!baseAsset || !quoteAsset) {
+                    setMarketStatus("Skriv inn base og quote.");
+                    return;
+                }
+                const { labels, values } = await fetchCoinGeckoHistory(baseAsset, quoteAsset, marketSelectedRange);
+                replaceAndDrawMarketChart(labels, values, {
+                    primaryLabel: `${baseAsset}/${quoteAsset}`,
+                    primarySuffix: "",
+                    primaryFormatter: new Intl.NumberFormat("no-NO", { maximumFractionDigits: 6 }),
+                });
+                setMarketStatus("");
+            }
+        } catch (err) {
+            console.error(err);
+            setMarketStatus(`Feil: ${err.message}`);
+        }
+    }
+
+    if (marketTypeSelect) {
+        toggleMarketFields();
+        marketTypeSelect.addEventListener("change", () => {
+            toggleMarketFields();
+            updateMarketChart();
+        });
+    }
+
+    if (marketRangeButtons.length) {
+        marketRangeButtons.forEach((btn) => {
+            btn.addEventListener("click", () => {
+                const nextRange = btn.dataset.range;
+                setMarketRange(nextRange);
+                updateMarketChart();
+            });
+        });
+        requestAnimationFrame(positionMarketRangeIndicator);
+        window.addEventListener("resize", positionMarketRangeIndicator);
+    }
+
+    if (marketFetchBtn) {
+        marketFetchBtn.addEventListener("click", updateMarketChart);
+    }
+
 
     document.addEventListener("open-meteo:forecast", (evt) => {
         const { lat, lon } = evt?.detail || {};

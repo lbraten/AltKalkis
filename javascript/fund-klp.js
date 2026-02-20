@@ -15,7 +15,7 @@ const CACHE_TTL_MS = 6 * 60 * 60 * 1000; //6 timer
 //=====================
 //ui helpers
 //=====================
-function setStatus({ pctText = "—", cls = "flat", meta = "", error = "" }) {
+function setStatus({ pctText = "-", cls = "flat", meta = "", error = "" }) {
   const pctEl = document.getElementById("pct");
   const metaEl = document.getElementById("meta");
   const errEl = document.getElementById("error");

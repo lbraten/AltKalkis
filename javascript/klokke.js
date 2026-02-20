@@ -2,7 +2,82 @@
 function updateDateTime() {
   const now = new Date();
   const el = document.getElementById("currentDateTime");
-  if (el) el.innerText = now.toLocaleString("nb-NO");
+  if (el) {
+    const pad = (value) => String(value).padStart(2, "0");
+    const hours = pad(now.getHours());
+    const minutes = pad(now.getMinutes());
+    const seconds = pad(now.getSeconds());
+    const dateStr = now.toLocaleDateString("nb-NO", {
+      weekday: "long",
+      day: "2-digit",
+      month: "long",
+      year: "numeric",
+    });
+    const daysLeft = getDaysLeftInYear(now);
+    if (!el.querySelector(".digital-clock__time")) {
+      el.innerHTML = `
+        <span class="digital-clock__time">
+          <span class="digital-clock__digits" data-part="hours">
+            <span class="digital-clock__digit"></span><span class="digital-clock__digit"></span>
+          </span>
+          <span class="digital-clock__colon">:</span>
+          <span class="digital-clock__digits" data-part="minutes">
+            <span class="digital-clock__digit"></span><span class="digital-clock__digit"></span>
+          </span>
+          <span class="digital-clock__colon">:</span>
+          <span class="digital-clock__digits" data-part="seconds">
+            <span class="digital-clock__digit"></span><span class="digital-clock__digit"></span>
+          </span>
+        </span>
+        <span class="digital-clock__date"></span>
+        <span class="digital-clock__meta"></span>
+      `;
+    }
+
+    const digitsMap = {
+      hours: pad(now.getHours()),
+      minutes: pad(now.getMinutes()),
+      seconds: pad(now.getSeconds()),
+    };
+    Object.entries(digitsMap).forEach(([part, value]) => {
+      const group = el.querySelector(`.digital-clock__digits[data-part="${part}"]`);
+      if (!group) return;
+      const digitEls = Array.from(group.querySelectorAll(".digital-clock__digit"));
+      value.split("").forEach((digit, index) => {
+        const digitEl = digitEls[index];
+        if (!digitEl) return;
+        if (digitEl.textContent !== digit) {
+          digitEl.textContent = digit;
+          digitEl.classList.remove("is-ticking");
+          void digitEl.offsetWidth;
+          digitEl.classList.add("is-ticking");
+        }
+      });
+    });
+
+    const dateEl = el.querySelector(".digital-clock__date");
+    const metaEl = el.querySelector(".digital-clock__meta");
+    if (dateEl) dateEl.textContent = `${dateStr} (uke ${getIsoWeek(now)})`;
+    if (metaEl) metaEl.textContent = `${daysLeft} dager igjen av ${now.getFullYear()}`;
+  }
+}
+
+function getIsoWeek(date) {
+  const tmp = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  const day = tmp.getUTCDay() || 7;
+  tmp.setUTCDate(tmp.getUTCDate() + 4 - day);
+  const yearStart = new Date(Date.UTC(tmp.getUTCFullYear(), 0, 1));
+  const weekNo = Math.ceil((((tmp - yearStart) / 86400000) + 1) / 7);
+  return weekNo;
+}
+
+function getDaysLeftInYear(date) {
+  const year = date.getFullYear();
+  const start = new Date(year, 0, 1);
+  const today = new Date(year, date.getMonth(), date.getDate());
+  const dayOfYear = Math.floor((today - start) / 86400000) + 1;
+  const daysInYear = new Date(year, 1, 29).getMonth() === 1 ? 366 : 365;
+  return Math.max(0, daysInYear - dayOfYear);
 }
 
 //analog klokke (canvas)
