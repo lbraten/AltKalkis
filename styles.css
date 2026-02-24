@@ -812,7 +812,7 @@ h6 {
 
 .weather-controls-row {
     display: grid;
-    grid-template-columns: minmax(280px, 1.2fr) minmax(360px, 2fr);
+    grid-template-columns: minmax(200px, 360px) minmax(0, 1fr);
     gap: 10px;
     align-items: stretch;
     width: 100%;
@@ -820,9 +820,13 @@ h6 {
 
 .location-controls {
     display: grid;
-    grid-template-rows: minmax(51px, auto) minmax(51px, auto);
+    grid-template-rows: auto auto;
     gap: 10px;
     width: 100%;
+}
+
+#weatherCard .location-controls {
+    max-width: 360px;
 }
 
 .field-with-icon {
@@ -843,6 +847,15 @@ h6 {
     max-width: none;
 }
 
+#weatherCard .field-with-icon--city {
+    max-width: 329px;
+    justify-self: start;
+}
+
+#weatherCard .field-with-icon--city .weather-field-control {
+    width: 100%;
+}
+
 .field-icon {
     position: absolute;
     left: 10px;
@@ -858,7 +871,7 @@ h6 {
 .weather-field-control,
 .field-with-icon input[type="number"] {
     appearance: none;
-    width: 100%;
+    width: 20%;
     height: 100%;
     border: 0;
     outline: 0;
@@ -870,6 +883,27 @@ h6 {
 
 .weather-field-control {
     cursor: pointer;
+}
+
+#weatherCard #omPresetCity {
+    color-scheme: dark;
+}
+
+#weatherCard #omPresetCity option {
+    background-color: rgb(var(--color-bg-input));
+    color: rgb(var(--color-text-base));
+}
+
+#weatherCard #omPresetCity option:checked,
+#weatherCard #omPresetCity option:focus {
+    background-color: rgba(var(--color-border), 0.45);
+    color: rgb(var(--color-text-base));
+    font-weight: 500;
+}
+
+#weatherCard #omPresetCity option:hover {
+    background-color: rgba(var(--color-border), 0.35);
+    color: rgb(var(--color-text-base));
 }
 
 .field-with-icon:focus-within {
@@ -955,10 +989,14 @@ h6 {
 
 .coordinate-row {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(110px, 1fr));
     gap: 8px;
     align-items: stretch;
     width: 100%;
+}
+
+#weatherCard .location-controls .field-with-icon {
+    min-height: 44px;
 }
 
 .coordinate-row input[type="number"] {
@@ -1073,7 +1111,7 @@ h6 {
 
 @media (max-width: 1220px) {
     .weather-controls-row {
-        grid-template-columns: minmax(260px, 1fr) minmax(300px, 1fr);
+        grid-template-columns: minmax(190px, 320px) minmax(0, 1fr);
     }
 
     .metric-toggles {
