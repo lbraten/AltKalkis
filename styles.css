@@ -515,6 +515,27 @@ div.background1 {
     opacity: 1;
 }
 
+.chart-tile.is-invalid .chart-canvas {
+    opacity: 0.3;
+    filter: grayscale(0.9);
+}
+
+.chart-tile.is-invalid::after {
+    content: attr(data-invalid-message);
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.75rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: rgba(var(--color-text-base), 0.92);
+    background: rgba(var(--color-bg-elevated), 0.45);
+    pointer-events: none;
+}
+
 @keyframes chart-spin {
     to {
         transform: rotate(360deg);
@@ -656,6 +677,12 @@ input:focus {
     border-color: rgba(var(--color-ring), 1);
     outline: none;
     box-shadow: 0 0 0 3px rgba(var(--color-ring), 0.2);
+}
+
+.field-with-icon input:focus,
+.weather-field-control:focus {
+    box-shadow: none;
+    border-color: transparent;
 }
 
 /* Overskrifter */

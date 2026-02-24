@@ -351,9 +351,9 @@
 
             <div class="bordershadow card--wide card--m" id="marketCard">
                 <h2>Aksjer og krypto (gratis)</h2>
-                <div class="converter market-controls" style="gap:10px; flex-wrap:wrap; align-items:flex-end; margin-bottom:10px;">
+                <div class="converter market-controls" style="display:flex; gap:10px; flex-wrap:nowrap; align-items:flex-end; margin-bottom:10px; overflow-x:auto;">
                     <label class="market-field">
-                        <span>Type</span>
+                        <span>Markedstype</span>
                         <select id="marketType" class="lysereboks" aria-label="Velg markedstype">
                             <option value="stock">Aksje</option>
                             <option value="crypto">Krypto (CoinGecko)</option>
@@ -364,11 +364,11 @@
                         <input id="marketSymbol" class="lysereboks" type="text" value="aapl.us" placeholder="f.eks. NO0012445404 eller aapl.us" />
                     </label>
                     <label class="market-field is-hidden" data-market-field="crypto">
-                        <span>Base (symbol/ID)</span>
+                        <span>Basis (symbol/ID)</span>
                         <input id="marketBase" class="lysereboks" type="text" placeholder="f.eks. BTC eller bitcoin" />
                     </label>
                     <label class="market-field is-hidden" data-market-field="crypto">
-                        <span>Quote</span>
+                        <span>Motvaluta</span>
                         <input id="marketQuote" class="lysereboks" type="text" placeholder="f.eks. USD" />
                     </label>
                 </div>

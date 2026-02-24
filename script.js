@@ -1782,6 +1782,18 @@ document.addEventListener("DOMContentLoaded", () => {
         marketChartTile.classList.toggle("is-loading", Boolean(isLoading));
     };
 
+    const setMarketChartInvalid = (message = "Ugyldig symbol/ISIN") => {
+        if (!marketChartTile) return;
+        marketChartTile.classList.add("is-invalid");
+        marketChartTile.dataset.invalidMessage = message;
+    };
+
+    const clearMarketChartInvalid = () => {
+        if (!marketChartTile) return;
+        marketChartTile.classList.remove("is-invalid");
+        delete marketChartTile.dataset.invalidMessage;
+    };
+
     const normalizeUpper = (value) => (value || "").trim().toUpperCase();
     const normalizeLower = (value) => (value || "").trim().toLowerCase();
 
@@ -1996,6 +2008,7 @@ document.addEventListener("DOMContentLoaded", () => {
     async function updateMarketChart() {
         const type = marketTypeSelect?.value || "stock";
         setMarketChartLoading(true);
+        clearMarketChartInvalid();
         setMarketStatus("Henter markedsdata…");
 
         try {
@@ -2003,6 +2016,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const rawSymbol = (marketSymbolInput?.value || "").trim();
                 if (!rawSymbol) {
                     setMarketStatus("Skriv inn Stooq-symbol (f.eks. aapl.us).");
+                    setMarketChartInvalid("Ugyldig symbol/ISIN");
                     return;
                 }
 
@@ -2017,7 +2031,8 @@ document.addEventListener("DOMContentLoaded", () => {
                         values = fundResult.values;
                         chartLabel = fundResult.symbol || chartLabel;
                     } catch {
-                        setMarketStatus("KLP/ISIN krever serverless API (Netlify/Vercel). Uten API må du bruke Stooq-symbol (f.eks. aapl.us).");
+                        setMarketStatus("Ugyldig symbol/ISIN.");
+                        setMarketChartInvalid("Ugyldig symbol/ISIN");
                         return;
                     }
                 } else {
@@ -2031,12 +2046,13 @@ document.addEventListener("DOMContentLoaded", () => {
                     primarySuffix: "",
                     primaryFormatter: new Intl.NumberFormat("no-NO", { maximumFractionDigits: 2 }),
                 });
+                clearMarketChartInvalid();
                 setMarketStatus("");
             } else {
                 const baseAsset = normalizeUpper(marketBaseInput?.value);
                 const quoteAsset = normalizeUpper(marketQuoteInput?.value);
                 if (!baseAsset || !quoteAsset) {
-                    setMarketStatus("Skriv inn base og quote.");
+                    setMarketStatus("Skriv inn basis og motvaluta.");
                     return;
                 }
                 const { labels, values } = await fetchCoinGeckoHistory(baseAsset, quoteAsset, marketSelectedRange);
@@ -2045,10 +2061,14 @@ document.addEventListener("DOMContentLoaded", () => {
                     primarySuffix: "",
                     primaryFormatter: new Intl.NumberFormat("no-NO", { maximumFractionDigits: 6 }),
                 });
+                clearMarketChartInvalid();
                 setMarketStatus("");
             }
         } catch (err) {
             console.error(err);
+            if (type === "stock") {
+                setMarketChartInvalid("Ugyldig symbol/ISIN");
+            }
             setMarketStatus(`Feil: ${err.message}`);
         } finally {
             setMarketChartLoading(false);
