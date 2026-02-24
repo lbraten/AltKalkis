@@ -168,45 +168,6 @@
                 <p id="quoteResult">Henter...</p>
             </div>
 
-            <div class="bordershadow card--wide card--m" id="marketCard">
-                <h2>Aksjer og krypto (gratis)</h2>
-                <div class="converter market-controls" style="gap:10px; flex-wrap:wrap; align-items:flex-end; margin-bottom:10px;">
-                    <label class="market-field">
-                        <span>Type</span>
-                        <select id="marketType" class="lysereboks" aria-label="Velg markedstype">
-                            <option value="stock">Aksje</option>
-                            <option value="crypto">Krypto (CoinGecko)</option>
-                        </select>
-                    </label>
-                    <label class="market-field" data-market-field="stock">
-                        <span>Symbol (Stooq)</span>
-                        <input id="marketSymbol" class="lysereboks" type="text" placeholder="f.eks. aapl.us" />
-                    </label>
-                    <label class="market-field is-hidden" data-market-field="crypto">
-                        <span>Base (symbol/ID)</span>
-                        <input id="marketBase" class="lysereboks" type="text" placeholder="f.eks. BTC eller bitcoin" />
-                    </label>
-                    <label class="market-field is-hidden" data-market-field="crypto">
-                        <span>Quote</span>
-                        <input id="marketQuote" class="lysereboks" type="text" placeholder="f.eks. USD" />
-                    </label>
-                    <button id="marketFetchBtn" class="lysereboks" type="button">Hent data</button>
-                </div>
-                <div id="marketRangeSelector" class="range-selector" role="tablist" aria-label="Velg periode for marked">
-                    <span class="range-selector__indicator" aria-hidden="true"></span>
-                    <button type="button" class="range-selector__btn is-active" data-range="30d" role="tab" aria-selected="true">30 D</button>
-                    <button type="button" class="range-selector__btn" data-range="1y" role="tab" aria-selected="false">1 ÅR</button>
-                    <button type="button" class="range-selector__btn" data-range="ytd" role="tab" aria-selected="false">YTD</button>
-                    <button type="button" class="range-selector__btn" data-range="5y" role="tab" aria-selected="false">5 ÅR</button>
-                </div>
-                <div id="marketStatus" class="sr-only" aria-live="polite"></div>
-                <div class="chart-grid">
-                    <div class="chart-tile">
-                        <canvas id="marketChart" class="chart-canvas" aria-label="Markedsdiagram"></canvas>
-                    </div>
-                </div>
-            </div>
-
             <!-- Prosentkalkulator -->
             <div class="bordershadow card--s" id="percentCard">
                 <h2>Prosentkalkulator</h2>
@@ -355,6 +316,45 @@
                     </select>
                 </div>
                 <div id="result"></div>
+            </div>
+
+            <div class="bordershadow card--wide card--m" id="marketCard">
+                <h2>Aksjer og krypto (gratis)</h2>
+                <div class="converter market-controls" style="gap:10px; flex-wrap:wrap; align-items:flex-end; margin-bottom:10px;">
+                    <label class="market-field">
+                        <span>Type</span>
+                        <select id="marketType" class="lysereboks" aria-label="Velg markedstype">
+                            <option value="stock">Aksje</option>
+                            <option value="crypto">Krypto (CoinGecko)</option>
+                        </select>
+                    </label>
+                    <label class="market-field" data-market-field="stock">
+                        <span>Symbol (Stooq)</span>
+                        <input id="marketSymbol" class="lysereboks" type="text" placeholder="f.eks. aapl.us" />
+                    </label>
+                    <label class="market-field is-hidden" data-market-field="crypto">
+                        <span>Base (symbol/ID)</span>
+                        <input id="marketBase" class="lysereboks" type="text" placeholder="f.eks. BTC eller bitcoin" />
+                    </label>
+                    <label class="market-field is-hidden" data-market-field="crypto">
+                        <span>Quote</span>
+                        <input id="marketQuote" class="lysereboks" type="text" placeholder="f.eks. USD" />
+                    </label>
+                    <button id="marketFetchBtn" class="lysereboks" type="button">Hent data</button>
+                </div>
+                <div id="marketRangeSelector" class="range-selector" role="tablist" aria-label="Velg periode for marked">
+                    <span class="range-selector__indicator" aria-hidden="true"></span>
+                    <button type="button" class="range-selector__btn is-active" data-range="30d" role="tab" aria-selected="true">30 D</button>
+                    <button type="button" class="range-selector__btn" data-range="1y" role="tab" aria-selected="false">1 ÅR</button>
+                    <button type="button" class="range-selector__btn" data-range="ytd" role="tab" aria-selected="false">YTD</button>
+                    <button type="button" class="range-selector__btn" data-range="5y" role="tab" aria-selected="false">5 ÅR</button>
+                </div>
+                <div id="marketStatus" class="sr-only" aria-live="polite"></div>
+                <div class="chart-grid">
+                    <div class="chart-tile">
+                        <canvas id="marketChart" class="chart-canvas" aria-label="Markedsdiagram"></canvas>
+                    </div>
+                </div>
             </div>
 
             <!-- Ruter (Entur) -->
