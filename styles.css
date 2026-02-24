@@ -57,10 +57,30 @@
             rgba(254, 151, 195, 0.00) 76%);
 }
 
+@media (max-width: 720px) {
+    :root {
+        --bg-gradient:
+            radial-gradient(90% 70% at 80% 25%,
+                rgba(103, 64, 150, 0.18) 0%,
+                rgba(103, 64, 150, 0.06) 55%,
+                rgba(103, 64, 150, 0.00) 78%)
+            ,
+            radial-gradient(90% 70% at 10% 80%,
+                rgba(30, 78, 140, 0.18) 0%,
+                rgba(30, 78, 140, 0.06) 55%,
+                rgba(30, 78, 140, 0.00) 78%)
+            ,
+            rgb(var(--color-fill));
+    }
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
     background-color: rgb(var(--color-fill));
     background-image: var(--bg-gradient);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
     color: rgb(var(--color-text-base));
     margin: 0;
     min-height: 100vh;
@@ -325,6 +345,13 @@ div.background1 {
     .card--wide,
     .card--wide-auto {
         width: 100%;
+    }
+}
+
+@media (max-width: 720px) {
+    body {
+        background-size: 140% 140%;
+        background-position: center 10%;
     }
 }
 
