@@ -1287,9 +1287,4 @@ a:hover {
     .app-body {
         grid-template-columns: 1fr;
     }
-
-    .sidebar {
-        position: static;
-        max-height: none;
-    }
 }
