@@ -615,6 +615,10 @@ h6 {
 
 /* Responsivt */
 @media (max-width: 600px) {
+    .app-body {
+        padding: 0.75rem 0.75rem 2rem;
+    }
+
     input[type="number"],
     input[type="date"],
     input[type="text"] {
