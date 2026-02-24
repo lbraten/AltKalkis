@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.cdnfonts.com/css/satoshi" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/js/all.min.js"></script>
     <link rel="icon" href="images/ny2.sort.altkalkis.svg" media="(prefers-color-scheme: light)">
     <link rel="icon" href="images/ny2.hvit.altkalkis.svg" media="(prefers-color-scheme: dark)">
 </head>
@@ -112,38 +113,62 @@
             <!-- Grafer (plassholdere) -->
             <div class="bordershadow card--wide card--m" id="weatherCard">
                 <h2>Temperatur (°C)</h2>
-                <div class="converter" style="gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:10px;">
-                    <select id="omPresetCity" class="lysereboks" aria-label="Velg by">
-                        <option value="Oslo" data-lat="59.9139" data-lon="10.7522">Oslo</option>
-                        <option value="Bergen" data-lat="60.3913" data-lon="5.3221">Bergen</option>
-                        <option value="Trondheim" data-lat="63.4305" data-lon="10.3951">Trondheim</option>
-                        <option value="Stavanger" data-lat="58.9690" data-lon="5.7331">Stavanger</option>
-                        <option value="Tromsø" data-lat="69.6492" data-lon="18.9553">Tromsø</option>
-                        <option value="custom">Egendefinert</option>
-                    </select>
-                    <div class="coordinate-row" aria-label="Koordinater">
-                        <input id="omLat" type="number" step="0.0001" placeholder="Latitude" aria-label="Latitude" />
-                        <input id="omLon" type="number" step="0.0001" placeholder="Longitude" aria-label="Longitude" />
+                <button
+                    type="button"
+                    id="omUvSourceInfo"
+                    class="info-dot info-dot--card"
+                    aria-label="Datakilde for UV-graf"
+                    data-tooltip="Hentet fra Open-Meteo"
+                >
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" aria-hidden="true" focusable="false">
+                        <path fill="rgb(255, 255, 255)" d="M320 576C461.4 576 576 461.4 576 320C576 178.6 461.4 64 320 64C178.6 64 64 178.6 64 320C64 461.4 178.6 576 320 576zM288 224C288 206.3 302.3 192 320 192C337.7 192 352 206.3 352 224C352 241.7 337.7 256 320 256C302.3 256 288 241.7 288 224zM280 288L328 288C341.3 288 352 298.7 352 312L352 400L360 400C373.3 400 384 410.7 384 424C384 437.3 373.3 448 360 448L280 448C266.7 448 256 437.3 256 424C256 410.7 266.7 400 280 400L304 400L304 336L280 336C266.7 336 256 325.3 256 312C256 298.7 266.7 288 280 288z"/>
+                    </svg>
+                </button>
+                <div class="converter weather-controls" style="gap:8px; margin-bottom:10px;">
+                    <div class="weather-controls-row" aria-label="Værkontroller">
+                        <div class="location-controls" aria-label="Sted og koordinater">
+                            <label class="field-with-icon field-with-icon--city" aria-label="Velg by">
+                                <i class="fa-solid fa-location-dot field-icon" aria-hidden="true"></i>
+                                <select id="omPresetCity" class="weather-field-control" aria-label="Velg by">
+                                    <option value="Oslo" data-lat="59.9139" data-lon="10.7522">Oslo</option>
+                                    <option value="Bergen" data-lat="60.3913" data-lon="5.3221">Bergen</option>
+                                    <option value="Trondheim" data-lat="63.4305" data-lon="10.3951">Trondheim</option>
+                                    <option value="Stavanger" data-lat="58.9690" data-lon="5.7331">Stavanger</option>
+                                    <option value="Tromsø" data-lat="69.6492" data-lon="18.9553">Tromsø</option>
+                                    <option value="custom">Egendefinert</option>
+                                </select>
+                            </label>
+                            <div class="coordinate-row" aria-label="Koordinater">
+                                <label class="field-with-icon" aria-label="Latitude">
+                                    <i class="fa-solid fa-compass field-icon" aria-hidden="true"></i>
+                                    <input id="omLat" type="number" step="0.0001" placeholder="Latitude" aria-label="Latitude" />
+                                </label>
+                                <label class="field-with-icon" aria-label="Longitude">
+                                    <i class="fa-solid fa-compass field-icon" aria-hidden="true"></i>
+                                    <input id="omLon" type="number" step="0.0001" placeholder="Longitude" aria-label="Longitude" />
+                                </label>
+                            </div>
+                        </div>
                         <div class="metric-toggles" role="group" aria-label="Grafserier">
                             <label class="metric-toggle metric-toggle--temp">
                                 <input id="omTempToggle" type="checkbox" checked />
                                 <span class="metric-toggle__box" aria-hidden="true"></span>
-                                <span class="metric-toggle__label">Temperatur</span>
+                                <span class="metric-toggle__label"><i class="fa-solid fa-temperature-half metric-toggle__icon" aria-hidden="true"></i><span>Temperatur</span></span>
                             </label>
                             <label class="metric-toggle metric-toggle--humidity">
                                 <input id="omHumidityToggle" type="checkbox" />
                                 <span class="metric-toggle__box" aria-hidden="true"></span>
-                                <span class="metric-toggle__label">Fuktighet</span>
+                                <span class="metric-toggle__label"><i class="fa-solid fa-droplet metric-toggle__icon" aria-hidden="true"></i><span>Fuktighet</span></span>
                             </label>
                             <label class="metric-toggle metric-toggle--uv">
                                 <input id="omUvToggle" type="checkbox" />
                                 <span class="metric-toggle__box" aria-hidden="true"></span>
-                                <span class="metric-toggle__label">UV</span>
+                                <span class="metric-toggle__label"><i class="fa-solid fa-sun metric-toggle__icon" aria-hidden="true"></i><span>UV</span></span>
                             </label>
                             <label class="metric-toggle metric-toggle--aqi">
                                 <input id="omAqiToggle" type="checkbox" />
                                 <span class="metric-toggle__box" aria-hidden="true"></span>
-                                <span class="metric-toggle__label">Luftkvalitet</span>
+                                <span class="metric-toggle__label"><i class="fa-solid fa-wind metric-toggle__icon" aria-hidden="true"></i><span>Luftkvalitet</span></span>
                             </label>
                         </div>
                     </div>
@@ -157,9 +182,15 @@
                     <div id="omStatus" class="sr-only" aria-live="polite"></div>
                 </div>
                 <div class="chart-grid">
-                    <div class="chart-tile">
+                    <div class="chart-tile" id="trendChartTile">
                         <canvas id="trendChart" class="chart-canvas" aria-label="Trend graf"></canvas>
+                        <div class="chart-loading-overlay" id="trendChartLoading" aria-hidden="true">
+                            <span class="chart-loading-spinner" aria-hidden="true"></span>
+                        </div>
                     </div>
+                </div>
+                <div class="chart-meta-status" aria-live="polite">
+                    <span id="omUvUpdatedAt"></span>
                 </div>
             </div>
 
@@ -329,8 +360,8 @@
                         </select>
                     </label>
                     <label class="market-field" data-market-field="stock">
-                        <span>Symbol (Stooq)</span>
-                        <input id="marketSymbol" class="lysereboks" type="text" placeholder="f.eks. aapl.us" />
+                        <span>Symbol / ISIN</span>
+                        <input id="marketSymbol" class="lysereboks" type="text" value="aapl.us" placeholder="f.eks. NO0012445404 eller aapl.us" />
                     </label>
                     <label class="market-field is-hidden" data-market-field="crypto">
                         <span>Base (symbol/ID)</span>
@@ -340,7 +371,6 @@
                         <span>Quote</span>
                         <input id="marketQuote" class="lysereboks" type="text" placeholder="f.eks. USD" />
                     </label>
-                    <button id="marketFetchBtn" class="lysereboks" type="button">Hent data</button>
                 </div>
                 <div id="marketRangeSelector" class="range-selector" role="tablist" aria-label="Velg periode for marked">
                     <span class="range-selector__indicator" aria-hidden="true"></span>
@@ -351,8 +381,11 @@
                 </div>
                 <div id="marketStatus" class="sr-only" aria-live="polite"></div>
                 <div class="chart-grid">
-                    <div class="chart-tile">
+                    <div class="chart-tile chart-tile--market" id="marketChartTile">
                         <canvas id="marketChart" class="chart-canvas" aria-label="Markedsdiagram"></canvas>
+                        <div class="chart-loading-overlay" id="marketChartLoading" aria-hidden="true">
+                            <span class="chart-loading-spinner" aria-hidden="true"></span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -388,7 +421,7 @@
             </div>
 
             <!-- Klokke-widget -->
-            <div class="bordershadow card--wide card--m" id="klokke">
+            <div class="bordershadow card--m" id="klokke">
                 <div class="clock-widget">
                     <h2>Enkel klokke-widget</h2>
 

@@ -444,6 +444,23 @@ document.addEventListener("DOMContentLoaded", () => {
     const NRK_CACHE_KEY = "nrkNewsCache";
     const NRK_CACHE_TTL = 1000 * 60 * 15; //15 min
 
+    const formatNrkUpdatedAt = (timestamp) => {
+        if (!Number.isFinite(timestamp)) return "";
+        const date = new Date(timestamp);
+        if (Number.isNaN(date.getTime())) return "";
+
+        const now = new Date();
+        const dateOnly = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+        const nowOnly = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        const diffDays = Math.round((dateOnly - nowOnly) / 86400000);
+        const timePart = date.toLocaleTimeString("nb-NO", { hour: "2-digit", minute: "2-digit" });
+
+        if (diffDays === 0) return `Sist oppdatert i dag kl. ${timePart}`;
+        if (diffDays === -1) return `Sist oppdatert i går kl. ${timePart}`;
+        const datePart = date.toLocaleDateString("nb-NO", { day: "2-digit", month: "2-digit", year: "numeric" });
+        return `Sist oppdatert ${datePart} kl. ${timePart}`;
+    };
+
     const loadNrkCache = () => {
         try {
             const raw = localStorage.getItem(NRK_CACHE_KEY);
@@ -503,14 +520,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (cached?.items?.length) {
             renderNrkNews(cached.items);
-            nrkStatusEl.textContent = isFresh ? "Oppdaterer NRK Nyheter..." : "Oppdaterer (lagret versjon kan være eldre)...";
+            const updatedText = formatNrkUpdatedAt(cached.timestamp);
+            nrkStatusEl.textContent = isFresh
+                ? `Oppdaterer NRK Nyheter... ${updatedText}`.trim()
+                : `Oppdaterer (lagret versjon kan være eldre)... ${updatedText}`.trim();
         } else {
             nrkStatusEl.textContent = "Laster NRK Nyheter...";
         }
 
         const feedUrl = "https://www.nrk.no/nyheter/siste.rss";
         const proxyUrls = [
-            `https://api.allorigins.win/raw?url=${encodeURIComponent(feedUrl)}`,
             `https://r.jina.ai/http://www.nrk.no/nyheter/siste.rss`,
         ];
 
@@ -538,14 +557,16 @@ document.addEventListener("DOMContentLoaded", () => {
                 return;
             }
 
-            nrkStatusEl.textContent = "";
+            const updatedAt = Date.now();
             renderNrkNews(parsed);
             saveNrkCache(parsed);
+            nrkStatusEl.textContent = formatNrkUpdatedAt(updatedAt);
         } catch (err) {
             console.error("NRK RSS-feil:", err);
             if (cached?.items?.length) {
                 renderNrkNews(cached.items);
-                nrkStatusEl.textContent = "Viser lagrede nyheter. Kunne ikke oppdatere nå.";
+                const updatedText = formatNrkUpdatedAt(cached.timestamp);
+                nrkStatusEl.textContent = `Viser lagrede nyheter. Kunne ikke oppdatere nå. ${updatedText}`.trim();
             } else {
                 nrkStatusEl.textContent = "Kunne ikke hente NRK Nyheter.";
             }
@@ -644,6 +665,29 @@ document.addEventListener("DOMContentLoaded", () => {
             return normalized;
         };
 
+        const splitFiniteSegments = (pointsArray) => {
+            if (!Array.isArray(pointsArray) || !pointsArray.length) return [];
+            const segments = [];
+            let current = [];
+
+            pointsArray.forEach((point) => {
+                const isFinitePoint = point
+                    && Number.isFinite(point.x)
+                    && Number.isFinite(point.y);
+
+                if (isFinitePoint) {
+                    current.push(point);
+                    return;
+                }
+
+                if (current.length >= 2) segments.push(current);
+                current = [];
+            });
+
+            if (current.length >= 2) segments.push(current);
+            return segments;
+        };
+
         const tempScale = computeScale(safePoints, 4);
         const humidityScale = safeHumidityPoints ? computeScale(safeHumidityPoints, 5) : null;
         const uvScale = safeUvPoints ? computeScale(safeUvPoints, 1) : null;
@@ -656,6 +700,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const denom = Math.max(1, safeLabels.length - 1);
         const toCoords = (values, scale) =>
             values.map((v, i) => {
+                if (!Number.isFinite(v)) return null;
                 const x = padX + (usableW * i) / denom;
                 const t = (v - scale.minVal) / (scale.maxVal - scale.minVal);
                 const y = height - padY - t * usableH;
@@ -664,14 +709,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const coords = toCoords(safePoints, tempScale);
         const humidityCoords = safeHumidityPoints && humidityScale ? toCoords(normalizeSeries(safeHumidityPoints), humidityScale) : null;
-        const uvCoords = safeUvPoints && uvScale ? toCoords(normalizeSeries(safeUvPoints), uvScale) : null;
-        const aqiCoords = safeAqiPoints && aqiScale ? toCoords(normalizeSeries(safeAqiPoints), aqiScale) : null;
+        const uvCoords = safeUvPoints && uvScale ? toCoords(safeUvPoints, uvScale) : null;
+        const aqiCoords = safeAqiPoints && aqiScale ? toCoords(safeAqiPoints, aqiScale) : null;
 
         const hasFinite = (values) => Array.isArray(values) && values.some((v) => Number.isFinite(v));
-        const hasTemp = hasFinite(safePoints) && Array.isArray(coords) && coords.length > 1;
-        const hasHumidity = hasFinite(safeHumidityPoints) && Array.isArray(humidityCoords) && humidityCoords.length > 1;
-        const hasUv = hasFinite(safeUvPoints) && Array.isArray(uvCoords) && uvCoords.length > 1;
-        const hasAqi = hasFinite(safeAqiPoints) && Array.isArray(aqiCoords) && aqiCoords.length > 1;
+        const hasLineSegments = (coordsArray) => splitFiniteSegments(coordsArray).length > 0;
+        const hasTemp = hasFinite(safePoints) && Array.isArray(coords) && hasLineSegments(coords);
+        const hasHumidity = hasFinite(safeHumidityPoints) && Array.isArray(humidityCoords) && hasLineSegments(humidityCoords);
+        const hasUv = hasFinite(safeUvPoints) && Array.isArray(uvCoords) && hasLineSegments(uvCoords);
+        const hasAqi = hasFinite(safeAqiPoints) && Array.isArray(aqiCoords) && hasLineSegments(aqiCoords);
         const baseCoords = hasTemp
             ? coords
             : hasHumidity
@@ -718,22 +764,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
         function drawSmoothPath(pointsArray) {
             if (!pointsArray || pointsArray.length < 2) return;
+            const segments = splitFiniteSegments(pointsArray);
+            if (!segments.length) return;
             const tension = 0.5;
-            ctx.beginPath();
-            ctx.moveTo(pointsArray[0].x, pointsArray[0].y);
-            for (let i = 0; i < pointsArray.length - 1; i++) {
-                const p0 = pointsArray[i - 1] || pointsArray[i];
-                const p1 = pointsArray[i];
-                const p2 = pointsArray[i + 1];
-                const p3 = pointsArray[i + 2] || p2;
+            segments.forEach((segment) => {
+                ctx.beginPath();
+                ctx.moveTo(segment[0].x, segment[0].y);
+                for (let i = 0; i < segment.length - 1; i++) {
+                    const p0 = segment[i - 1] || segment[i];
+                    const p1 = segment[i];
+                    const p2 = segment[i + 1];
+                    const p3 = segment[i + 2] || p2;
 
-                const cp1x = p1.x + ((p2.x - p0.x) / 6) * tension;
-                const cp1y = p1.y + ((p2.y - p0.y) / 6) * tension;
-                const cp2x = p2.x - ((p3.x - p1.x) / 6) * tension;
-                const cp2y = p2.y - ((p3.y - p1.y) / 6) * tension;
+                    const cp1x = p1.x + ((p2.x - p0.x) / 6) * tension;
+                    const cp1y = p1.y + ((p2.y - p0.y) / 6) * tension;
+                    const cp2x = p2.x - ((p3.x - p1.x) / 6) * tension;
+                    const cp2y = p2.y - ((p3.y - p1.y) / 6) * tension;
 
-                ctx.bezierCurveTo(cp1x, cp1y, cp2x, cp2y, p2.x, p2.y);
-            }
+                    ctx.bezierCurveTo(cp1x, cp1y, cp2x, cp2y, p2.x, p2.y);
+                }
+                ctx.stroke();
+            });
         }
 
         function drawTooltip(pos, label, value, humidityValue, uvValue, aqiValue) {
@@ -843,7 +894,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.strokeStyle = `rgb(${accent})`;
                 ctx.lineWidth = 2.5;
                 drawSmoothPath(coords);
-                ctx.stroke();
                 ctx.restore();
             }
 
@@ -873,7 +923,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.strokeStyle = `rgb(${humidityAccent})`;
                 ctx.lineWidth = 2;
                 drawSmoothPath(humidityCoords);
-                ctx.stroke();
                 ctx.restore();
             }
 
@@ -885,7 +934,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.strokeStyle = `rgb(${uvAccent})`;
                 ctx.lineWidth = 2;
                 drawSmoothPath(uvCoords);
-                ctx.stroke();
                 ctx.restore();
             }
 
@@ -898,7 +946,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.setLineDash([6, 6]);
                 ctx.lineWidth = 2;
                 drawSmoothPath(aqiCoords);
-                ctx.stroke();
                 ctx.setLineDash([]);
                 ctx.restore();
             }
@@ -1120,11 +1167,119 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     const hasFiniteSeries = (values) => Array.isArray(values) && values.some((v) => Number.isFinite(v));
+    const hasNonZeroSeries = (values, epsilon = 1e-9) =>
+        Array.isArray(values) && values.some((v) => Number.isFinite(v) && Math.abs(v) > epsilon);
+
+    const OM_UV_CACHE_PREFIX = "omUvDailyCacheV1";
+    const OM_UV_CACHE_MAX_DAYS = 365 * 6;
+    const OM_UV_SHARED_URL = "data/uv-history.json";
+    let sharedUvHistoryPromise = null;
+    let sharedUvUpdatedAt = null;
+    let sharedUvSource = null;
+
+    const toUvLocationKey = (lat, lon) => {
+        const safeLat = Number(lat);
+        const safeLon = Number(lon);
+        return `${safeLat.toFixed(4)},${safeLon.toFixed(4)}`;
+    };
+
+    const getUvCacheKey = (lat, lon) => {
+        return `${OM_UV_CACHE_PREFIX}:${toUvLocationKey(lat, lon)}`;
+    };
+
+    const loadSharedUvHistory = async () => {
+        if (!sharedUvHistoryPromise) {
+            sharedUvHistoryPromise = fetch(OM_UV_SHARED_URL, { cache: "no-cache" })
+                .then((res) => {
+                    if (!res.ok) return null;
+                    return res.json();
+                })
+                .catch(() => null);
+        }
+        return sharedUvHistoryPromise;
+    };
+
+    const getSharedUvMapForLocation = async (lat, lon) => {
+        const shared = await loadSharedUvHistory();
+        sharedUvUpdatedAt = shared?.updatedAt || null;
+        sharedUvSource = shared?.source || null;
+        const values = shared?.locations?.[toUvLocationKey(lat, lon)] || null;
+        if (!values || typeof values !== "object") {
+            return { map: new Map(), updatedAt: sharedUvUpdatedAt };
+        }
+
+        const map = new Map();
+        Object.entries(values).forEach(([day, value]) => {
+            if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) return;
+            if (!Number.isFinite(value)) return;
+            map.set(day, value);
+        });
+        return { map, updatedAt: sharedUvUpdatedAt };
+    };
+
+    const loadUvCacheMap = (lat, lon) => {
+        try {
+            const raw = localStorage.getItem(getUvCacheKey(lat, lon));
+            if (!raw) return new Map();
+            const parsed = JSON.parse(raw);
+            const values = parsed?.values;
+            if (!values || typeof values !== "object") return new Map();
+
+            const map = new Map();
+            Object.entries(values).forEach(([day, value]) => {
+                if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) return;
+                if (!Number.isFinite(value)) return;
+                map.set(day, value);
+            });
+            return map;
+        } catch {
+            return new Map();
+        }
+    };
+
+    const saveUvCacheMap = (lat, lon, uvMap) => {
+        if (!(uvMap instanceof Map) || !uvMap.size) return;
+        try {
+            const cutoff = new Date();
+            cutoff.setDate(cutoff.getDate() - OM_UV_CACHE_MAX_DAYS);
+            const cutoffKey = formatDateYmd(cutoff);
+            const pruned = {};
+
+            uvMap.forEach((value, day) => {
+                if (day < cutoffKey) return;
+                if (!Number.isFinite(value)) return;
+                pruned[day] = value;
+            });
+
+            localStorage.setItem(
+                getUvCacheKey(lat, lon),
+                JSON.stringify({
+                    updatedAt: Date.now(),
+                    values: pruned,
+                })
+            );
+        } catch {
+            // ignore quota/storage errors
+        }
+    };
+
+    const mergeDailySeriesIntoCache = (uvMap, seriesDays = [], seriesValues = []) => {
+        if (!(uvMap instanceof Map)) return;
+        seriesDays.forEach((day, idx) => {
+            const value = seriesValues[idx];
+            if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) return;
+            if (!Number.isFinite(value)) return;
+            uvMap.set(day, value);
+        });
+    };
 
     async function fetchUvIndexForRange(lat, lon, rangeKey, days = []) {
         const { start, end } = getRangeForKey(rangeKey);
         const startDate = formatDateYmd(start);
         const endDate = formatDateYmd(end);
+        const uvCache = loadUvCacheMap(lat, lon);
+        const sharedUv = await getSharedUvMapForLocation(lat, lon);
+        sharedUv.map.forEach((value, day) => uvCache.set(day, value));
 
         const archiveUrl =
             "https://archive-api.open-meteo.com/v1/archive" +
@@ -1135,14 +1290,18 @@ document.addEventListener("DOMContentLoaded", () => {
             `&daily=uv_index_max` +
             `&timezone=Europe%2FOslo`;
 
-        const res = await fetch(archiveUrl);
-        if (!res.ok) throw new Error(`UV-API feil: ${res.status} ${res.statusText}`);
-        const data = await res.json();
-
-        const uvDays = data?.daily?.time || [];
-        const uvValues = data?.daily?.uv_index_max || [];
-        const mapped = mapDailySeries(days, uvDays, uvValues);
-        if (hasFiniteSeries(mapped)) return mapped;
+        let archiveMapped = null;
+        try {
+            const archiveRes = await fetch(archiveUrl);
+            if (!archiveRes.ok) throw new Error(`UV-API feil: ${archiveRes.status} ${archiveRes.statusText}`);
+            const archiveData = await archiveRes.json();
+            const uvDays = archiveData?.daily?.time || [];
+            const uvValues = archiveData?.daily?.uv_index_max || [];
+            mergeDailySeriesIntoCache(uvCache, uvDays, uvValues);
+            archiveMapped = mapDailySeries(days, uvDays, uvValues);
+        } catch {
+            archiveMapped = null;
+        }
 
         const recentDays = Math.min(Math.max(days.length, 1), 30);
         const forecastUrl =
@@ -1154,12 +1313,28 @@ document.addEventListener("DOMContentLoaded", () => {
             `&forecast_days=0` +
             `&timezone=Europe%2FOslo`;
 
-        const forecastRes = await fetch(forecastUrl);
-        if (!forecastRes.ok) throw new Error(`UV-forecast feil: ${forecastRes.status} ${forecastRes.statusText}`);
-        const forecastData = await forecastRes.json();
-        const fDays = forecastData?.daily?.time || [];
-        const fValues = forecastData?.daily?.uv_index_max || [];
-        return mapDailySeries(days, fDays, fValues);
+        let forecastMapped = null;
+        let forecastError = null;
+
+        try {
+            const forecastRes = await fetch(forecastUrl);
+            if (!forecastRes.ok) throw new Error(`UV-forecast feil: ${forecastRes.status} ${forecastRes.statusText}`);
+            const forecastData = await forecastRes.json();
+            const fDays = forecastData?.daily?.time || [];
+            const fValues = forecastData?.daily?.uv_index_max || [];
+            mergeDailySeriesIntoCache(uvCache, fDays, fValues);
+            forecastMapped = mapDailySeries(days, fDays, fValues);
+        } catch (err) {
+            forecastError = err;
+        }
+
+        saveUvCacheMap(lat, lon, uvCache);
+        const cachedMapped = days.map((day) => (uvCache.has(day) ? uvCache.get(day) : null));
+        if (hasFiniteSeries(cachedMapped)) return cachedMapped;
+        if (hasFiniteSeries(forecastMapped)) return forecastMapped;
+        if (hasFiniteSeries(archiveMapped)) return archiveMapped;
+        if (forecastError) throw forecastError;
+        return days.map(() => null);
     }
 
     async function fetchAqiForRange(lat, lon, rangeKey, days = []) {
@@ -1204,6 +1379,8 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     const omStatusEl = document.getElementById("omStatus");
+    const omUvUpdatedAtEl = document.getElementById("omUvUpdatedAt");
+    const omUvSourceInfoEl = document.getElementById("omUvSourceInfo");
     const omRangeSelector = document.getElementById("omRangeSelector");
     const omRangeButtons = omRangeSelector
         ? Array.from(omRangeSelector.querySelectorAll("[data-range]"))
@@ -1211,9 +1388,51 @@ document.addEventListener("DOMContentLoaded", () => {
     const omRangeIndicator = omRangeSelector
         ? omRangeSelector.querySelector(".range-selector__indicator")
         : null;
+    const trendChartTile = document.getElementById("trendChartTile");
 
     const setOmStatus = (msg) => {
         if (omStatusEl) omStatusEl.textContent = msg;
+    };
+
+    const formatSharedUvUpdatedAt = (isoStr) => {
+        if (!isoStr) return "";
+        const date = new Date(isoStr);
+        if (Number.isNaN(date.getTime())) return "";
+        const datePart = date.toLocaleDateString("nb-NO", {
+            day: "2-digit",
+            month: "2-digit",
+            year: "numeric",
+        });
+        const timePart = date.toLocaleTimeString("nb-NO", {
+            hour: "2-digit",
+            minute: "2-digit",
+        });
+        return `Delt UV-data sist oppdatert: ${datePart} kl. ${timePart}`;
+    };
+
+    const formatSharedUvSource = (source) => {
+        if (!source) return "Hentet fra Open-Meteo";
+        if (source.includes("open-meteo")) {
+            if (source.includes("forecast")) return "Hentet fra Open-Meteo (forecast)";
+            return "Hentet fra Open-Meteo";
+        }
+        return `Hentet fra: ${source}`;
+    };
+
+    const setOmUvUpdatedAtStatus = () => {
+        if (!omUvUpdatedAtEl) return;
+        const text = formatSharedUvUpdatedAt(sharedUvUpdatedAt);
+        omUvUpdatedAtEl.textContent = text || "Delt UV-data: venter på første oppdatering.";
+        if (omUvSourceInfoEl) {
+            const sourceText = formatSharedUvSource(sharedUvSource);
+            omUvSourceInfoEl.dataset.tooltip = sourceText;
+            omUvSourceInfoEl.removeAttribute("title");
+        }
+    };
+
+    const setTrendChartLoading = (isLoading) => {
+        if (!trendChartTile) return;
+        trendChartTile.classList.toggle("is-loading", Boolean(isLoading));
     };
 
     let omSelectedRange = "30d";
@@ -1250,8 +1469,10 @@ document.addEventListener("DOMContentLoaded", () => {
     async function updateTrendChartForCoords(lat, lon) {
         if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
             setOmStatus("Skriv inn gyldige koordinater.");
+            setTrendChartLoading(false);
             return;
         }
+        setTrendChartLoading(true);
         try {
             setOmStatus("Henter grafdata…");
             const { labels, values, humidity, days } = await fetchTemperaturesForRange(lat, lon, omSelectedRange);
@@ -1291,10 +1512,15 @@ document.addEventListener("DOMContentLoaded", () => {
             const [uvResult, aqiResult] = await Promise.allSettled(extraRequests);
             const warnings = [];
 
-            const uvValues = uvResult.status === "fulfilled" ? uvResult.value : null;
-            if (uvResult.status === "rejected" || !hasFiniteSeries(uvValues)) warnings.push("UV");
-            const aqiValues = aqiResult.status === "fulfilled" ? aqiResult.value : null;
-            if (aqiResult.status === "rejected" || !hasFiniteSeries(aqiValues)) warnings.push("AQI");
+            setOmUvUpdatedAtStatus();
+
+            const uvRawValues = uvResult.status === "fulfilled" ? uvResult.value : null;
+            const uvValues = hasNonZeroSeries(uvRawValues) ? uvRawValues : null;
+            if (uvResult.status === "rejected" || !uvValues) warnings.push("UV");
+
+            const aqiRawValues = aqiResult.status === "fulfilled" ? aqiResult.value : null;
+            const aqiValues = hasNonZeroSeries(aqiRawValues) ? aqiRawValues : null;
+            if (aqiResult.status === "rejected" || !aqiValues) warnings.push("AQI");
 
             const tempValues = includeTemp ? values : values.map(() => null);
 
@@ -1381,6 +1607,8 @@ document.addEventListener("DOMContentLoaded", () => {
         } catch (err) {
             console.error(err);
             setOmStatus(`Feil: ${err.message}`);
+        } finally {
+            setTrendChartLoading(false);
         }
     }
 
@@ -1531,7 +1759,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const marketSymbolInput = document.getElementById("marketSymbol");
     const marketBaseInput = document.getElementById("marketBase");
     const marketQuoteInput = document.getElementById("marketQuote");
-    const marketFetchBtn = document.getElementById("marketFetchBtn");
     const marketStatusEl = document.getElementById("marketStatus");
     const marketRangeSelector = document.getElementById("marketRangeSelector");
     const marketRangeButtons = marketRangeSelector
@@ -1540,11 +1767,19 @@ document.addEventListener("DOMContentLoaded", () => {
     const marketRangeIndicator = marketRangeSelector
         ? marketRangeSelector.querySelector(".range-selector__indicator")
         : null;
+    const marketChartTile = document.getElementById("marketChartTile");
     const marketFields = Array.from(document.querySelectorAll("[data-market-field]"));
+    const DEFAULT_STOCK_SYMBOL = "aapl.us";
     let marketSelectedRange = "30d";
+    let marketAutoFetchTimer = null;
 
     const setMarketStatus = (msg) => {
         if (marketStatusEl) marketStatusEl.textContent = msg;
+    };
+
+    const setMarketChartLoading = (isLoading) => {
+        if (!marketChartTile) return;
+        marketChartTile.classList.toggle("is-loading", Boolean(isLoading));
     };
 
     const normalizeUpper = (value) => (value || "").trim().toUpperCase();
@@ -1626,7 +1861,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const baseUrl = `https://stooq.com/q/d/l/?s=${encodeURIComponent(cleanSymbol)}&i=d`;
         const proxyUrls = [
             `https://r.jina.ai/http://stooq.com/q/d/l/?s=${encodeURIComponent(cleanSymbol)}&i=d`,
-            `https://api.allorigins.win/raw?url=${encodeURIComponent(baseUrl)}`,
+            `https://r.jina.ai/http://www.stooq.com/q/d/l/?s=${encodeURIComponent(cleanSymbol)}&i=d`,
         ];
         const csvText = await fetchTextWithFallback(proxyUrls);
         const parsed = parseStooqCsv(csvText, rangeKey);
@@ -1634,6 +1869,91 @@ document.addEventListener("DOMContentLoaded", () => {
             throw new Error("Fant ingen data (sjekk Stooq-symbol).");
         }
         return parsed;
+    }
+
+    const isIsin = (value) => /^NO\d{10}$/i.test((value || "").trim());
+
+    const filterByRange = (rows, rangeKey) => {
+        const { start, end } = getRangeForKey(rangeKey);
+        return rows.filter((row) => row.date >= start && row.date <= end);
+    };
+
+    async function fetchFundHistoryByIsin(isin, rangeKey) {
+        const cleanIsin = normalizeUpper(isin);
+        const resolveUrl = `/.netlify/functions/resolve-symbol?isin=${encodeURIComponent(cleanIsin)}`;
+        const legacyResolveUrl = `/api/resolve-symbol?isin=${encodeURIComponent(cleanIsin)}`;
+
+        let symbol = "";
+        let resolved = null;
+        try {
+            resolved = await fetch(resolveUrl);
+        } catch {
+            resolved = null;
+        }
+        if (!resolved || !resolved.ok) {
+            resolved = await fetch(legacyResolveUrl);
+        }
+        if (!resolved.ok) {
+            throw new Error(`Symbol-oppslag feilet (HTTP ${resolved.status})`);
+        }
+        const resolvedData = await resolved.json();
+        symbol = normalizeUpper(resolvedData?.symbol || "");
+        if (!symbol) {
+            throw new Error("Fant ikke symbol for ISIN.");
+        }
+
+        const historyUrl = `/.netlify/functions/historical-quotes?symbol=${encodeURIComponent(symbol)}`;
+        const legacyHistoryUrl = `/api/historical-quotes?symbol=${encodeURIComponent(symbol)}`;
+
+        let historyRes = null;
+        try {
+            historyRes = await fetch(historyUrl);
+        } catch {
+            historyRes = null;
+        }
+        if (!historyRes || !historyRes.ok) {
+            historyRes = await fetch(legacyHistoryUrl);
+        }
+        if (!historyRes.ok) {
+            throw new Error(`Historikk feilet (HTTP ${historyRes.status})`);
+        }
+
+        const historyJson = await historyRes.json();
+        const rawRows = Array.isArray(historyJson)
+            ? historyJson
+            : (historyJson.data || historyJson.results || historyJson.quotes || []);
+
+        const normalizedRows = rawRows
+            .map((row) => {
+                const dateValue = row.date || row.datetime || row.day || null;
+                const tsValue = row.timestamp ? Number(row.timestamp) : null;
+
+                let date = null;
+                if (dateValue) {
+                    date = new Date(String(dateValue).slice(0, 10));
+                } else if (Number.isFinite(tsValue)) {
+                    date = new Date(tsValue * 1000);
+                }
+                if (!date || !Number.isFinite(date.getTime())) return null;
+
+                const close = Number(row.c ?? row.close ?? row.price ?? row.nav);
+                if (!Number.isFinite(close)) return null;
+
+                return { date, close };
+            })
+            .filter(Boolean)
+            .sort((a, b) => a.date - b.date);
+
+        const filteredRows = filterByRange(normalizedRows, rangeKey);
+        if (!filteredRows.length) {
+            throw new Error("Fant ingen fondsdata i valgt periode.");
+        }
+
+        return {
+            labels: filteredRows.map((row) => dayFormatter.format(row.date)),
+            values: filteredRows.map((row) => row.close),
+            symbol,
+        };
     }
 
     const getCoinGeckoDays = (rangeKey) => {
@@ -1675,18 +1995,39 @@ document.addEventListener("DOMContentLoaded", () => {
 
     async function updateMarketChart() {
         const type = marketTypeSelect?.value || "stock";
+        setMarketChartLoading(true);
         setMarketStatus("Henter markedsdata…");
 
         try {
             if (type === "stock") {
-                const symbol = normalizeLower(marketSymbolInput?.value);
-                if (!symbol) {
+                const rawSymbol = (marketSymbolInput?.value || "").trim();
+                if (!rawSymbol) {
                     setMarketStatus("Skriv inn Stooq-symbol (f.eks. aapl.us).");
                     return;
                 }
-                const { labels, values } = await fetchStooqHistory(symbol, marketSelectedRange);
+
+                let labels = [];
+                let values = [];
+                let chartLabel = normalizeUpper(rawSymbol);
+
+                if (isIsin(rawSymbol)) {
+                    try {
+                        const fundResult = await fetchFundHistoryByIsin(rawSymbol, marketSelectedRange);
+                        labels = fundResult.labels;
+                        values = fundResult.values;
+                        chartLabel = fundResult.symbol || chartLabel;
+                    } catch {
+                        setMarketStatus("KLP/ISIN krever serverless API (Netlify/Vercel). Uten API må du bruke Stooq-symbol (f.eks. aapl.us).");
+                        return;
+                    }
+                } else {
+                    const stooqResult = await fetchStooqHistory(rawSymbol, marketSelectedRange);
+                    labels = stooqResult.labels;
+                    values = stooqResult.values;
+                }
+
                 replaceAndDrawMarketChart(labels, values, {
-                    primaryLabel: `${symbol.toUpperCase()} pris`,
+                    primaryLabel: `${chartLabel} pris`,
                     primarySuffix: "",
                     primaryFormatter: new Intl.NumberFormat("no-NO", { maximumFractionDigits: 2 }),
                 });
@@ -1709,14 +2050,24 @@ document.addEventListener("DOMContentLoaded", () => {
         } catch (err) {
             console.error(err);
             setMarketStatus(`Feil: ${err.message}`);
+        } finally {
+            setMarketChartLoading(false);
         }
     }
 
+    const scheduleMarketAutoFetch = () => {
+        clearTimeout(marketAutoFetchTimer);
+        marketAutoFetchTimer = setTimeout(updateMarketChart, 450);
+    };
+
     if (marketTypeSelect) {
+        if (marketTypeSelect.value === "stock" && marketSymbolInput && !marketSymbolInput.value.trim()) {
+            marketSymbolInput.value = DEFAULT_STOCK_SYMBOL;
+        }
         toggleMarketFields();
         marketTypeSelect.addEventListener("change", () => {
             toggleMarketFields();
-            updateMarketChart();
+            scheduleMarketAutoFetch();
         });
     }
 
@@ -1732,8 +2083,23 @@ document.addEventListener("DOMContentLoaded", () => {
         window.addEventListener("resize", positionMarketRangeIndicator);
     }
 
-    if (marketFetchBtn) {
-        marketFetchBtn.addEventListener("click", updateMarketChart);
+    if (marketSymbolInput) {
+        marketSymbolInput.addEventListener("input", scheduleMarketAutoFetch);
+        marketSymbolInput.addEventListener("change", scheduleMarketAutoFetch);
+    }
+
+    if (marketBaseInput) {
+        marketBaseInput.addEventListener("input", scheduleMarketAutoFetch);
+        marketBaseInput.addEventListener("change", scheduleMarketAutoFetch);
+    }
+
+    if (marketQuoteInput) {
+        marketQuoteInput.addEventListener("input", scheduleMarketAutoFetch);
+        marketQuoteInput.addEventListener("change", scheduleMarketAutoFetch);
+    }
+
+    if (marketTypeSelect || marketRangeButtons.length || marketSymbolInput || marketBaseInput || marketQuoteInput) {
+        updateMarketChart();
     }
 
 

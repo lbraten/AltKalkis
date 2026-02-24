@@ -458,6 +458,10 @@ div.background1 {
     margin-bottom: 1rem;
 }
 
+#weatherCard .chart-grid {
+    margin-bottom: 0.35rem;
+}
+
 .chart-tile {
     background: rgba(var(--color-bg-input), 0.95);
     border: 1px dashed rgba(var(--color-border), 0.7);
@@ -468,6 +472,8 @@ div.background1 {
     align-items: center;
     justify-content: center;
     flex: 1;
+    position: relative;
+    overflow: hidden;
     color: rgba(var(--color-text-base), 0.8);
     font-size: 0.95rem;
 }
@@ -476,6 +482,43 @@ div.background1 {
     width: 100%;
     height: 100%;
     display: block;
+}
+
+.chart-loading-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(var(--color-bg-elevated), 0.42);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease;
+}
+
+.chart-loading-spinner {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 3px solid rgba(var(--color-text-base), 0.2);
+    border-top-color: rgb(var(--color-button-accent));
+    animation: chart-spin 0.85s linear infinite;
+}
+
+.chart-tile.is-loading .chart-canvas {
+    opacity: 0.38;
+    filter: saturate(0.75);
+    transition: opacity 0.18s ease;
+}
+
+.chart-tile.is-loading .chart-loading-overlay {
+    opacity: 1;
+}
+
+@keyframes chart-spin {
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 .bordershadow:hover {
@@ -763,24 +806,172 @@ h6 {
     margin-bottom: 1rem;
 }
 
-.coordinate-row {
-    display: flex;
+.weather-controls {
     gap: 8px;
+}
+
+.weather-controls-row {
+    display: grid;
+    grid-template-columns: minmax(280px, 1.2fr) minmax(360px, 2fr);
+    gap: 10px;
+    align-items: stretch;
+    width: 100%;
+}
+
+.location-controls {
+    display: grid;
+    grid-template-rows: minmax(51px, auto) minmax(51px, auto);
+    gap: 10px;
+    width: 100%;
+}
+
+.field-with-icon {
+    position: relative;
+    display: inline-flex;
     align-items: center;
-    flex-wrap: wrap;
+    min-height: 51px;
+    border-radius: 8px;
+    border: 1px solid rgba(var(--color-border), 0.35);
+    background: rgba(var(--color-bg-input), 0.95);
+    padding-left: 30px;
+    min-width: 140px;
+}
+
+.field-with-icon--city {
+    min-width: 0;
+    width: 100%;
+    max-width: none;
+}
+
+.field-icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: rgba(var(--color-text-base), 0.62);
+    font-size: 0.78rem;
+    width: 0.9rem;
+    height: 0.9rem;
+    pointer-events: none;
+}
+
+.weather-field-control,
+.field-with-icon input[type="number"] {
+    appearance: none;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: rgb(var(--color-text-base));
+    padding: 0 10px 0 0;
+    font: inherit;
+}
+
+.weather-field-control {
+    cursor: pointer;
+}
+
+.field-with-icon:focus-within {
+    box-shadow: 0 0 0 3px rgba(var(--color-ring), 0.3);
+    border-color: rgba(var(--color-border), 0.7);
+}
+
+.chart-meta-status {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.82rem;
+    color: rgba(var(--color-text-base), 0.72);
+    min-height: 1.1em;
+}
+
+#weatherCard {
+    position: relative;
+}
+
+.info-dot {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 999px;
+    border: 0;
+    background: transparent;
+    color: rgba(var(--color-text-base), 0.88);
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1;
+    cursor: help;
+    user-select: none;
+    padding: 0;
+}
+
+.info-dot svg {
+    width: 28px;
+    height: 28px;
+    display: block;
+}
+
+.info-dot--card {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 4;
+}
+
+.info-dot::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    left: 50%;
+    bottom: calc(100% + 10px);
+    transform: translateX(-50%);
+    min-width: 170px;
+    max-width: 260px;
+    padding: 6px 8px;
+    border-radius: 8px;
+    background: rgba(var(--color-bg-elevated), 0.97);
+    border: 1px solid rgba(var(--color-border), 0.45);
+    color: rgba(var(--color-text-base), 0.94);
+    font-size: 0.76rem;
+    line-height: 1.35;
+    text-align: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s ease;
+    z-index: 5;
+}
+
+.info-dot:hover::after,
+.info-dot:focus-visible::after {
+    opacity: 1;
+}
+
+.info-dot:focus-visible {
+    outline: 0;
+    box-shadow: 0 0 0 3px rgba(var(--color-ring), 0.35);
+}
+
+.coordinate-row {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    align-items: stretch;
+    width: 100%;
 }
 
 .coordinate-row input[type="number"] {
-    width: 140px;
-    flex: 1 1 0;
+    width: 100%;
     min-width: 0;
 }
 
 .metric-toggles {
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
-    gap: 8px;
-    align-items: center;
+    gap: 10px;
+    align-items: stretch;
+    width: 100%;
 }
 
 .metric-toggle {
@@ -789,7 +980,7 @@ h6 {
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    padding: 0 10px;
+    padding: 0 12px;
     border-radius: 8px;
     border: 1px solid rgba(var(--color-border), 0.45);
     background: rgba(var(--color-bg-input), 0.9);
@@ -799,6 +990,8 @@ h6 {
     color: rgba(var(--color-text-base), 0.9);
     font-size: 0.88rem;
     white-space: nowrap;
+    min-width: 140px;
+    flex: 1 1 150px;
 }
 
 .metric-toggle--humidity {
@@ -861,8 +1054,47 @@ h6 {
 }
 
 .metric-toggle__label {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
     font-weight: 600;
     letter-spacing: 0.2px;
+    min-width: 0;
+}
+
+.metric-toggle__icon {
+    font-size: 0.78rem;
+    line-height: 1;
+    opacity: 0.9;
+    width: 0.9rem;
+    height: 0.9rem;
+    flex: 0 0 auto;
+}
+
+@media (max-width: 1220px) {
+    .weather-controls-row {
+        grid-template-columns: minmax(260px, 1fr) minmax(300px, 1fr);
+    }
+
+    .metric-toggles {
+        gap: 8px;
+    }
+}
+
+@media (max-width: 860px) {
+    .weather-controls-row {
+        grid-template-columns: 1fr;
+    }
+
+    .metric-toggles {
+        gap: 8px;
+        grid-column: auto;
+    }
+
+    .metric-toggle {
+        min-width: 0;
+        flex: 1 1 calc(50% - 4px);
+    }
 }
 
 .toggle {
