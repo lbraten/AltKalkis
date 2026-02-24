@@ -1946,15 +1946,66 @@ document.addEventListener("DOMContentLoaded", () => {
         if (grid && window.Masonry) {
             const cards = Array.from(grid.querySelectorAll(".bordershadow"));
             let resizeTimer;
+            const isWideCard = (card) => card.classList.contains("card--wide") || card.classList.contains("card--wide-auto");
             const masonry = new Masonry(grid, {
                 itemSelector: ".bordershadow",
                 columnWidth: ".grid-sizer",
                 gutter: ".gutter-sizer",
                 percentPosition: true,
+                horizontalOrder: false,
                 transitionDuration: "0.2s",
             });
 
+            const reorderCardsForPacking = () => {
+                if (window.matchMedia("(max-width: 1100px)").matches) return;
+
+                const visibleCards = cards.filter((card) => !card.classList.contains("is-hidden"));
+                if (visibleCards.length < 4) return;
+
+                const wideCards = [];
+                const regularCards = [];
+                visibleCards.forEach((card) => {
+                    if (isWideCard(card)) {
+                        wideCards.push(card);
+                    } else {
+                        regularCards.push(card);
+                    }
+                });
+
+                if (!wideCards.length || !regularCards.length) return;
+
+                const ordered = [];
+                let wideIndex = 0;
+                let regularIndex = 0;
+
+                while (wideIndex < wideCards.length || regularIndex < regularCards.length) {
+                    if (wideIndex < wideCards.length) {
+                        ordered.push(wideCards[wideIndex]);
+                        wideIndex += 1;
+                    }
+
+                    if (regularIndex < regularCards.length) {
+                        ordered.push(regularCards[regularIndex]);
+                        regularIndex += 1;
+                    }
+
+                    if (wideIndex >= wideCards.length) {
+                        while (regularIndex < regularCards.length) {
+                            ordered.push(regularCards[regularIndex]);
+                            regularIndex += 1;
+                        }
+                    }
+                }
+
+                const currentOrder = visibleCards.map((card) => card.id).join("|");
+                const nextOrder = ordered.map((card) => card.id).join("|");
+                if (currentOrder === nextOrder) return;
+
+                ordered.forEach((card) => grid.appendChild(card));
+            };
+
             const requestLayout = () => {
+                reorderCardsForPacking();
                 masonry.reloadItems();
                 masonry.layout();
             };
