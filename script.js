@@ -586,8 +586,68 @@ document.addEventListener("DOMContentLoaded", () => {
         const humidityAccent = rootStyles.getPropertyValue("--color-humidity").trim() || "88, 196, 255";
         const uvAccent = rootStyles.getPropertyValue("--color-uv").trim() || "246, 198, 82";
         const aqiAccent = rootStyles.getPropertyValue("--color-aqi").trim() || "255, 110, 130";
+        const successAccent = rootStyles.getPropertyValue("--color-success").trim() || "88, 214, 141";
         const bgElevated = rootStyles.getPropertyValue("--color-bg-elevated").trim() || "8, 14, 24";
         const textBase = rootStyles.getPropertyValue("--color-text-base").trim() || "243, 243, 246";
+
+        const parseRgbTriplet = (value, fallback) => {
+            const parts = String(value || "")
+                .split(",")
+                .map((part) => Number.parseFloat(part.trim()));
+            if (parts.length === 3 && parts.every((part) => Number.isFinite(part))) {
+                return parts.map((part) => Math.max(0, Math.min(255, Math.round(part))));
+            }
+            return fallback;
+        };
+        const blendRgb = (from, to, t) => from.map((channel, idx) => Math.round(channel + (to[idx] - channel) * t));
+        const smoothStep = (edge0, edge1, x) => {
+            if (edge0 === edge1) return x < edge0 ? 0 : 1;
+            const normalized = Math.max(0, Math.min(1, (x - edge0) / (edge1 - edge0)));
+            return normalized * normalized * (3 - 2 * normalized);
+        };
+        const rgbToCss = (rgb, alpha = 1) => `rgba(${rgb[0]}, ${rgb[1]}, ${rgb[2]}, ${alpha})`;
+
+        const uvGreen = parseRgbTriplet(successAccent, [88, 214, 141]);
+        const uvYellow = parseRgbTriplet(uvAccent, [246, 198, 82]);
+        const uvRed = parseRgbTriplet(aqiAccent, [255, 110, 130]);
+        const uvPurple = parseRgbTriplet(accent, [189, 150, 255]);
+        const uvOrange = blendRgb(uvYellow, uvRed, 0.45);
+
+        const uvBoundaryLow = 2.45;
+        const uvBoundaryMid = 5.5;
+        const uvBoundaryHigh = 7.5;
+        const uvBoundaryExtreme = 10.5;
+        const uvTransition = 0.35;
+
+        const getUvRgb = (uvValue) => {
+            if (!Number.isFinite(uvValue)) return uvYellow;
+
+            if (uvValue <= uvBoundaryLow - uvTransition) return uvGreen;
+            if (uvValue < uvBoundaryLow + uvTransition) {
+                const t = smoothStep(uvBoundaryLow - uvTransition, uvBoundaryLow + uvTransition, uvValue);
+                return blendRgb(uvGreen, uvYellow, t);
+            }
+
+            if (uvValue <= uvBoundaryMid - uvTransition) return uvYellow;
+            if (uvValue < uvBoundaryMid + uvTransition) {
+                const t = smoothStep(uvBoundaryMid - uvTransition, uvBoundaryMid + uvTransition, uvValue);
+                return blendRgb(uvYellow, uvOrange, t);
+            }
+
+            if (uvValue <= uvBoundaryHigh - uvTransition) return uvOrange;
+            if (uvValue < uvBoundaryHigh + uvTransition) {
+                const t = smoothStep(uvBoundaryHigh - uvTransition, uvBoundaryHigh + uvTransition, uvValue);
+                return blendRgb(uvOrange, uvRed, t);
+            }
+
+            if (uvValue <= uvBoundaryExtreme - uvTransition) return uvRed;
+            if (uvValue < uvBoundaryExtreme + uvTransition) {
+                const t = smoothStep(uvBoundaryExtreme - uvTransition, uvBoundaryExtreme + uvTransition, uvValue);
+                return blendRgb(uvRed, uvPurple, t);
+            }
+
+            return uvPurple;
+        };
 
         const dpr = window.devicePixelRatio || 1;
         const rect = canvas.getBoundingClientRect();
@@ -711,6 +771,43 @@ document.addEventListener("DOMContentLoaded", () => {
         const humidityCoords = safeHumidityPoints && humidityScale ? toCoords(normalizeSeries(safeHumidityPoints), humidityScale) : null;
         const uvCoords = safeUvPoints && uvScale ? toCoords(safeUvPoints, uvScale) : null;
         const aqiCoords = safeAqiPoints && aqiScale ? toCoords(safeAqiPoints, aqiScale) : null;
+
+        const buildUvStroke = () => {
+            if (!Array.isArray(uvCoords) || !uvCoords.length || !usableW) {
+                return `rgb(${uvAccent})`;
+            }
+
+            const stops = uvCoords
+                .map((point, index) => {
+                    const value = safeUvPoints[index];
+                    if (!point || !Number.isFinite(point.x) || !Number.isFinite(value)) return null;
+                    const offset = Math.max(0, Math.min(1, (point.x - padX) / usableW));
+                    return { offset, color: getUvRgb(value) };
+                })
+                .filter(Boolean);
+
+            if (!stops.length) return `rgb(${uvAccent})`;
+
+            if (stops.length === 1) {
+                const singleColor = rgbToCss(stops[0].color, 1);
+                const singleGradient = ctx.createLinearGradient(padX, 0, width - padX, 0);
+                singleGradient.addColorStop(0, singleColor);
+                singleGradient.addColorStop(1, singleColor);
+                return singleGradient;
+            }
+
+            const gradient = ctx.createLinearGradient(padX, 0, width - padX, 0);
+            const firstColor = rgbToCss(stops[0].color, 1);
+            const lastColor = rgbToCss(stops[stops.length - 1].color, 1);
+
+            if (stops[0].offset > 0) gradient.addColorStop(0, firstColor);
+            stops.forEach((stop) => {
+                gradient.addColorStop(stop.offset, rgbToCss(stop.color, 1));
+            });
+            if (stops[stops.length - 1].offset < 1) gradient.addColorStop(1, lastColor);
+
+            return gradient;
+        };
 
         const hasFinite = (values) => Array.isArray(values) && values.some((v) => Number.isFinite(v));
         const hasLineSegments = (coordsArray) => splitFiniteSegments(coordsArray).length > 0;
@@ -931,7 +1028,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.beginPath();
                 ctx.rect(0, 0, width * uvProgress, height);
                 ctx.clip();
-                ctx.strokeStyle = `rgb(${uvAccent})`;
+                ctx.strokeStyle = buildUvStroke();
                 ctx.lineWidth = 2;
                 drawSmoothPath(uvCoords);
                 ctx.restore();
@@ -997,7 +1094,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (hasUv) {
                     const up = uvCoords[hoverIndex];
                     if (up && Number.isFinite(up.x) && Number.isFinite(up.y)) {
-                        ctx.fillStyle = `rgba(${uvAccent}, 0.95)`;
+                        const uvColor = getUvRgb(safeUvPoints[hoverIndex]);
+                        ctx.fillStyle = rgbToCss(uvColor, 0.95);
                         ctx.beginPath();
                         ctx.arc(up.x, up.y, 3.5, 0, Math.PI * 2);
                         ctx.fill();
@@ -1625,49 +1723,128 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const omLatInput = document.getElementById("omLat");
     const omLonInput = document.getElementById("omLon");
-    const omPresetCity = document.getElementById("omPresetCity");
+    const geocodingSearchInput = document.getElementById("geocodingSearch");
+    const omLocationResults = document.getElementById("omLocationResults");
     const omTempToggle = document.getElementById("omTempToggle");
     const omHumidityToggle = document.getElementById("omHumidityToggle");
     const omUvToggle = document.getElementById("omUvToggle");
     const omAqiToggle = document.getElementById("omAqiToggle");
     const DEFAULT_LAT = 59.9139;
     const DEFAULT_LON = 10.7522;
-    const CUSTOM_PRESET_VALUE = "custom";
+    const OM_GEOCODING_ENDPOINT = "https://geocoding-api.open-meteo.com/v1/search";
 
     if (omHumidityToggle) omHumidityToggle.checked = true;
     if (omUvToggle) omUvToggle.checked = true;
     if (omAqiToggle) omAqiToggle.checked = true;
 
     if (omLatInput && omLonInput) {
-        const ensureCustomPreset = () => {
-            if (!omPresetCity) return null;
-            let customOption = omPresetCity.querySelector(`option[value="${CUSTOM_PRESET_VALUE}"]`);
-            if (!customOption) {
-                customOption = document.createElement("option");
-                customOption.value = CUSTOM_PRESET_VALUE;
-                customOption.textContent = "Egendefinert";
-                omPresetCity.appendChild(customOption);
-            }
-            return customOption;
+        const searchField = geocodingSearchInput?.closest(".field-with-icon--city") || null;
+        let omLocationSearchTimer = null;
+        let omLocationResultsData = [];
+        let omLocationActiveIndex = -1;
+
+        const closeLocationOverlay = () => {
+            if (!omLocationResults || !geocodingSearchInput) return;
+            omLocationResults.hidden = true;
+            geocodingSearchInput.setAttribute("aria-expanded", "false");
+            omLocationActiveIndex = -1;
         };
 
-        const syncPresetFromCoords = (lat, lon) => {
-            if (!omPresetCity) return;
-            if (!Number.isFinite(lat) || !Number.isFinite(lon)) return;
-            const options = Array.from(omPresetCity.options);
-            const match = options.find((opt) => {
-                const optLat = Number(opt.dataset.lat);
-                const optLon = Number(opt.dataset.lon);
-                return Number.isFinite(optLat)
-                    && Number.isFinite(optLon)
-                    && Math.abs(optLat - lat) < 1e-6
-                    && Math.abs(optLon - lon) < 1e-6;
+        const formatLocationLabel = (entry) => {
+            const parts = [entry.name, entry.admin1, entry.country].filter(Boolean);
+            return parts.join(", ");
+        };
+
+        const setActiveLocationResult = (nextIndex) => {
+            if (!omLocationResults) return;
+            const nodes = Array.from(omLocationResults.querySelectorAll(".weather-location-results__item"));
+            nodes.forEach((node, idx) => {
+                const isActive = idx === nextIndex;
+                node.classList.toggle("is-active", isActive);
+                node.setAttribute("aria-selected", isActive ? "true" : "false");
             });
-            if (match) {
-                omPresetCity.value = match.value;
-            } else {
-                ensureCustomPreset();
-                omPresetCity.value = CUSTOM_PRESET_VALUE;
+            omLocationActiveIndex = nextIndex;
+        };
+
+        const selectLocationResult = (entry) => {
+            if (!entry || !Number.isFinite(Number(entry.latitude)) || !Number.isFinite(Number(entry.longitude))) return;
+            const lat = Number(entry.latitude);
+            const lon = Number(entry.longitude);
+            omLatInput.value = lat.toFixed(4);
+            omLonInput.value = lon.toFixed(4);
+            if (geocodingSearchInput) geocodingSearchInput.value = formatLocationLabel(entry);
+            closeLocationOverlay();
+            updateTrendChartForCoords(lat, lon);
+        };
+
+        const renderLocationResults = (results = []) => {
+            if (!omLocationResults || !geocodingSearchInput) return;
+            omLocationResults.innerHTML = "";
+            omLocationResultsData = results;
+
+            if (!results.length) {
+                closeLocationOverlay();
+                return;
+            }
+
+            results.forEach((entry, index) => {
+                const button = document.createElement("button");
+                button.type = "button";
+                button.className = "weather-location-results__item";
+                button.setAttribute("role", "option");
+                button.setAttribute("aria-selected", "false");
+
+                const name = document.createElement("span");
+                name.className = "weather-location-results__name";
+                name.textContent = entry.name || "Ukjent sted";
+
+                const meta = document.createElement("span");
+                meta.className = "weather-location-results__meta";
+                meta.textContent = [entry.admin1, entry.country].filter(Boolean).join(", ");
+
+                button.append(name, meta);
+                button.addEventListener("click", () => selectLocationResult(entry));
+                button.addEventListener("mouseenter", () => setActiveLocationResult(index));
+                omLocationResults.appendChild(button);
+            });
+
+            omLocationResults.hidden = false;
+            geocodingSearchInput.setAttribute("aria-expanded", "true");
+            setActiveLocationResult(-1);
+        };
+
+        const fetchLocationResults = async (queryText) => {
+            const query = (queryText || "").trim();
+            if (query.length < 2) {
+                renderLocationResults([]);
+                setOmStatus("");
+                return;
+            }
+
+            const params = new URLSearchParams({
+                name: query,
+                count: "8",
+                language: "no",
+                format: "json",
+            });
+
+            try {
+                const response = await fetch(`${OM_GEOCODING_ENDPOINT}?${params.toString()}`);
+                if (!response.ok) {
+                    throw new Error("Kunne ikke hente stedsforslag");
+                }
+                const data = await response.json();
+                const results = Array.isArray(data?.results) ? data.results : [];
+                renderLocationResults(results);
+                if (!results.length) {
+                    setOmStatus("Ingen treff på sted.");
+                } else {
+                    setOmStatus("");
+                }
+            } catch (error) {
+                console.error(error);
+                renderLocationResults([]);
+                setOmStatus("Klarte ikke hente stedsforslag.");
             }
         };
 
@@ -1685,6 +1862,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (!omLatInput.value) omLatInput.value = DEFAULT_LAT;
         if (!omLonInput.value) omLonInput.value = DEFAULT_LON;
+        if (geocodingSearchInput && !geocodingSearchInput.value.trim()) {
+            geocodingSearchInput.value = "Oslo, Norge";
+        }
 
         let omInputTimer = null;
         const scheduleOmUpdate = () => {
@@ -1692,7 +1872,7 @@ document.addEventListener("DOMContentLoaded", () => {
             omInputTimer = setTimeout(() => {
                 const lat = Number(omLatInput.value);
                 const lon = Number(omLonInput.value);
-                syncPresetFromCoords(lat, lon);
+                closeLocationOverlay();
                 updateTrendChartForCoords(lat, lon);
             }, 400);
         };
@@ -1708,37 +1888,56 @@ document.addEventListener("DOMContentLoaded", () => {
             event.preventDefault();
             omLatInput.value = lat;
             omLonInput.value = lon;
-            syncPresetFromCoords(lat, lon);
+            closeLocationOverlay();
             updateTrendChartForCoords(lat, lon);
         };
 
-        if (omPresetCity) {
-            const opt = omPresetCity.selectedOptions[0];
-            const lat = Number(opt?.dataset?.lat);
-            const lon = Number(opt?.dataset?.lon);
-            if (Number.isFinite(lat) && Number.isFinite(lon)) {
-                omLatInput.value = lat;
-                omLonInput.value = lon;
-                syncPresetFromCoords(lat, lon);
-            }
+        if (geocodingSearchInput) {
+            geocodingSearchInput.addEventListener("input", () => {
+                if (omLocationSearchTimer) clearTimeout(omLocationSearchTimer);
+                omLocationSearchTimer = setTimeout(() => {
+                    fetchLocationResults(geocodingSearchInput.value);
+                }, 250);
+            });
 
-            omPresetCity.addEventListener("change", () => {
-                const sel = omPresetCity.selectedOptions[0];
-                if (sel?.value === CUSTOM_PRESET_VALUE) {
-                    omLatInput.value = "";
-                    omLonInput.value = "";
+            geocodingSearchInput.addEventListener("focus", () => {
+                if (omLocationResultsData.length) {
+                    omLocationResults.hidden = false;
+                    geocodingSearchInput.setAttribute("aria-expanded", "true");
+                }
+            });
+
+            geocodingSearchInput.addEventListener("keydown", (event) => {
+                if (omLocationResults?.hidden || !omLocationResultsData.length) return;
+                if (event.key === "ArrowDown") {
+                    event.preventDefault();
+                    const next = Math.min(omLocationActiveIndex + 1, omLocationResultsData.length - 1);
+                    setActiveLocationResult(next);
                     return;
                 }
-                const nextLat = Number(sel?.dataset?.lat);
-                const nextLon = Number(sel?.dataset?.lon);
-                if (Number.isFinite(nextLat) && Number.isFinite(nextLon)) {
-                    omLatInput.value = nextLat;
-                    omLonInput.value = nextLon;
-                    syncPresetFromCoords(nextLat, nextLon);
-                    updateTrendChartForCoords(nextLat, nextLon);
+                if (event.key === "ArrowUp") {
+                    event.preventDefault();
+                    const next = Math.max(omLocationActiveIndex - 1, 0);
+                    setActiveLocationResult(next);
+                    return;
+                }
+                if (event.key === "Enter" && omLocationActiveIndex >= 0) {
+                    event.preventDefault();
+                    selectLocationResult(omLocationResultsData[omLocationActiveIndex]);
+                    return;
+                }
+                if (event.key === "Escape") {
+                    closeLocationOverlay();
                 }
             });
         }
+
+        document.addEventListener("click", (event) => {
+            if (!searchField) return;
+            if (!searchField.contains(event.target)) {
+                closeLocationOverlay();
+            }
+        });
 
         omLatInput.addEventListener("input", scheduleOmUpdate);
         omLonInput.addEventListener("input", scheduleOmUpdate);

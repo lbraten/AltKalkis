@@ -127,17 +127,11 @@
                 <div class="converter weather-controls" style="gap:8px; margin-bottom:10px;">
                     <div class="weather-controls-row" aria-label="Værkontroller">
                         <div class="location-controls" aria-label="Sted og koordinater">
-                            <label class="field-with-icon field-with-icon--city" aria-label="Velg by">
+                            <label class="field-with-icon field-with-icon--city" aria-label="Søk etter sted">
                                 <i class="fa-solid fa-location-dot field-icon" aria-hidden="true"></i>
-                                <select id="omPresetCity" class="weather-field-control" aria-label="Velg by">
-                                    <option value="Oslo" data-lat="59.9139" data-lon="10.7522">Oslo</option>
-                                    <option value="Bergen" data-lat="60.3913" data-lon="5.3221">Bergen</option>
-                                    <option value="Trondheim" data-lat="63.4305" data-lon="10.3951">Trondheim</option>
-                                    <option value="Stavanger" data-lat="58.9690" data-lon="5.7331">Stavanger</option>
-                                    <option value="Tromsø" data-lat="69.6492" data-lon="18.9553">Tromsø</option>
-                                    <option value="custom">Egendefinert</option>
-                                </select>
+                                <input type="text" id="geocodingSearch" class="weather-field-control" placeholder="Søk etter sted" aria-label="Søk etter sted" aria-autocomplete="list" aria-controls="omLocationResults" aria-expanded="false" autocomplete="off" />
                             </label>
+                            <div id="omLocationResults" class="weather-location-results" role="listbox" aria-label="Forslag til steder" hidden></div>
                             <div class="coordinate-row" aria-label="Koordinater">
                                 <label class="field-with-icon" aria-label="Latitude">
                                     <i class="fa-solid fa-compass field-icon" aria-hidden="true"></i>

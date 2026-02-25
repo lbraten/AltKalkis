@@ -678,8 +678,7 @@ button.vanligknapp {
 /* Inputfelter */
 input[type="number"],
 input[type="date"],
-input[type="time"],
-input[type="text"] {
+input[type="time"] {
     padding: 1rem 1rem;
     margin: 0rem; /* legger litt space på alle sider */
     border: 1px solid rgba(var(--color-border), 0.35);
@@ -705,8 +704,7 @@ input[type="number"]::-webkit-inner-spin-button {
 
 
 input[type="number"]:hover,
-input[type="date"]:hover,
-input[type="text"]:hover {
+input[type="date"]:hover {
     border-color: rgba(var(--color-ring), 0.85);
 }
 
@@ -716,6 +714,11 @@ input:focus {
     border-color: rgba(var(--color-ring), 1);
     outline: none;
     box-shadow: 0 0 0 3px rgba(var(--color-ring), 0.2);
+}
+
+input[type="text"]:focus {
+    border-color: transparent;
+    outline: none;
 }
 
 /* Overskrifter */
@@ -883,6 +886,7 @@ h6 {
     grid-template-rows: auto auto;
     gap: 10px;
     width: 100%;
+    position: relative;
 }
 
 #weatherCard .location-controls {
@@ -905,6 +909,8 @@ h6 {
     min-width: 0;
     width: 100%;
     max-width: none;
+    min-height: 53px;
+    height: 53px;
 }
 
 #weatherCard .field-with-icon--city {
@@ -945,30 +951,70 @@ h6 {
     cursor: pointer;
 }
 
-#weatherCard #omPresetCity {
-    color-scheme: dark;
+#weatherCard #geocodingSearch {
+    width: 100%;
+    min-width: 0;
+    cursor: text;
 }
 
-#weatherCard #omPresetCity option {
-    background-color: rgb(var(--color-bg-input));
-    color: rgb(var(--color-text-base));
+.weather-location-results {
+    position: absolute;
+    top: calc(53px + 6px);
+    left: 0;
+    right: 0;
+    z-index: 25;
+    max-height: 240px;
+    overflow-y: auto;
+    border-radius: 10px;
+    border: 1px solid rgba(var(--color-border), 0.75);
+    background: rgba(var(--color-bg-elevated), 0.98);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.28);
+    padding: 6px;
 }
 
-#weatherCard #omPresetCity option:checked,
-#weatherCard #omPresetCity option:focus {
-    background-color: rgba(var(--color-border), 0.45);
-    color: rgb(var(--color-text-base));
-    font-weight: 500;
+.weather-location-results[hidden] {
+    display: none;
 }
 
-#weatherCard #omPresetCity option:hover {
-    background-color: rgba(var(--color-border), 0.35);
-    color: rgb(var(--color-text-base));
+.weather-location-results__item {
+    width: 100%;
+    border: 0;
+    background: transparent;
+    color: rgba(var(--color-text-base), 0.94);
+    border-radius: 8px;
+    padding: 8px 10px;
+    text-align: left;
+    cursor: pointer;
+    display: grid;
+    gap: 2px;
+}
+
+.weather-location-results__item:hover,
+.weather-location-results__item.is-active {
+    background: rgba(var(--color-border), 0.35);
+}
+
+.weather-location-results__name {
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.weather-location-results__meta {
+    font-size: 0.78rem;
+    color: rgba(var(--color-text-muted), 0.95);
 }
 
 .field-with-icon:focus-within {
     box-shadow: 0 0 0 3px rgba(var(--color-ring), 0.3);
     border-color: rgba(var(--color-border), 0.7);
+}
+
+.field-with-icon input:focus,
+.field-with-icon .weather-field-control:focus {
+    box-shadow: none;
+    border-color: transparent;
+    outline: none;
 }
 
 .chart-meta-status {
@@ -1056,7 +1102,7 @@ h6 {
 }
 
 #weatherCard .location-controls .field-with-icon {
-    min-height: 44px;
+    min-height: 53px;
 }
 
 .coordinate-row input[type="number"] {
