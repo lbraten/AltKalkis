@@ -1321,7 +1321,7 @@ document.addEventListener("DOMContentLoaded", () => {
             `&longitude=${encodeURIComponent(lon)}` +
             `&daily=uv_index_max` +
             `&past_days=${recentDays}` +
-            `&forecast_days=0` +
+            `&forecast_days=1` +
             `&timezone=Europe%2FOslo`;
 
         let forecastMapped = null;

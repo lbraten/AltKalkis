@@ -30,20 +30,58 @@ const readJsonSafe = async (filePath, fallback) => {
 };
 
 const fetchUvSeries = async (lat, lon) => {
-  const url =
+  const today = new Date();
+  const startDate = new Date(today);
+  startDate.setUTCDate(startDate.getUTCDate() - MAX_DAYS);
+  const startDateKey = formatDateYmd(startDate);
+  const endDateKey = formatDateYmd(today);
+
+  const archiveUrl =
+    "https://archive-api.open-meteo.com/v1/archive" +
+    `?latitude=${encodeURIComponent(lat)}` +
+    `&longitude=${encodeURIComponent(lon)}` +
+    `&start_date=${startDateKey}` +
+    `&end_date=${endDateKey}` +
+    "&daily=uv_index_max" +
+    "&timezone=Europe%2FOslo";
+
+  const forecastUrl =
     "https://api.open-meteo.com/v1/forecast" +
     `?latitude=${encodeURIComponent(lat)}` +
     `&longitude=${encodeURIComponent(lon)}` +
     "&daily=uv_index_max" +
     "&past_days=30" +
-    "&forecast_days=0" +
+    "&forecast_days=1" +
     "&timezone=Europe%2FOslo";
 
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const data = await res.json();
-  const days = data?.daily?.time || [];
-  const values = data?.daily?.uv_index_max || [];
+  const [archiveRes, forecastRes] = await Promise.all([fetch(archiveUrl), fetch(forecastUrl)]);
+  if (!archiveRes.ok) throw new Error(`Archive HTTP ${archiveRes.status}`);
+  if (!forecastRes.ok) throw new Error(`Forecast HTTP ${forecastRes.status}`);
+
+  const archiveData = await archiveRes.json();
+  const forecastData = await forecastRes.json();
+  const merged = {};
+
+  const archiveDays = archiveData?.daily?.time || [];
+  const archiveValues = archiveData?.daily?.uv_index_max || [];
+  archiveDays.forEach((day, idx) => {
+    const value = archiveValues[idx];
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) return;
+    if (!Number.isFinite(value)) return;
+    merged[day] = value;
+  });
+
+  const forecastDays = forecastData?.daily?.time || [];
+  const forecastValues = forecastData?.daily?.uv_index_max || [];
+  forecastDays.forEach((day, idx) => {
+    const value = forecastValues[idx];
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) return;
+    if (!Number.isFinite(value)) return;
+    merged[day] = value;
+  });
+
+  const days = Object.keys(merged).sort();
+  const values = days.map((day) => merged[day]);
   return { days, values };
 };
 
@@ -68,7 +106,7 @@ const pruneOldDays = (valuesObj) => {
 async function main() {
   const doc = await readJsonSafe(UV_FILE, {
     updatedAt: null,
-    source: "open-meteo-forecast-daily-uv-index-max",
+    source: "open-meteo-archive+forecast-daily-uv-index-max",
     locations: {},
   });
 
