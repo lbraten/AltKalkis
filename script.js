@@ -953,6 +953,7 @@ document.addEventListener("DOMContentLoaded", () => {
             //hover point + tooltip
             if (hoverIndex >= 0 && interactiveReady && baseCoords) {
                 const p = baseCoords[hoverIndex];
+                if (!p || !Number.isFinite(p.x) || !Number.isFinite(p.y)) return;
                 ctx.save();
                 ctx.strokeStyle = `rgba(${textBase}, 0.22)`;
                 ctx.lineWidth = 1;
@@ -965,54 +966,62 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 if (hasTemp) {
                     const tp = coords[hoverIndex];
-                    ctx.fillStyle = `rgba(${accent}, 0.95)`;
-                    ctx.beginPath();
-                    ctx.arc(tp.x, tp.y, 4, 0, Math.PI * 2);
-                    ctx.fill();
-                    ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
-                    ctx.lineWidth = 1;
-                    ctx.beginPath();
-                    ctx.arc(tp.x, tp.y, 7, 0, Math.PI * 2);
-                    ctx.stroke();
+                    if (tp && Number.isFinite(tp.x) && Number.isFinite(tp.y)) {
+                        ctx.fillStyle = `rgba(${accent}, 0.95)`;
+                        ctx.beginPath();
+                        ctx.arc(tp.x, tp.y, 4, 0, Math.PI * 2);
+                        ctx.fill();
+                        ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
+                        ctx.lineWidth = 1;
+                        ctx.beginPath();
+                        ctx.arc(tp.x, tp.y, 7, 0, Math.PI * 2);
+                        ctx.stroke();
+                    }
                 }
 
                 if (hasHumidity) {
                     const hp = humidityCoords[hoverIndex];
-                    ctx.fillStyle = `rgba(${humidityAccent}, 0.95)`;
-                    ctx.beginPath();
-                    ctx.arc(hp.x, hp.y, 3.5, 0, Math.PI * 2);
-                    ctx.fill();
-                    ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
-                    ctx.lineWidth = 1;
-                    ctx.beginPath();
-                    ctx.arc(hp.x, hp.y, 6.5, 0, Math.PI * 2);
-                    ctx.stroke();
+                    if (hp && Number.isFinite(hp.x) && Number.isFinite(hp.y)) {
+                        ctx.fillStyle = `rgba(${humidityAccent}, 0.95)`;
+                        ctx.beginPath();
+                        ctx.arc(hp.x, hp.y, 3.5, 0, Math.PI * 2);
+                        ctx.fill();
+                        ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
+                        ctx.lineWidth = 1;
+                        ctx.beginPath();
+                        ctx.arc(hp.x, hp.y, 6.5, 0, Math.PI * 2);
+                        ctx.stroke();
+                    }
                 }
 
                 if (hasUv) {
                     const up = uvCoords[hoverIndex];
-                    ctx.fillStyle = `rgba(${uvAccent}, 0.95)`;
-                    ctx.beginPath();
-                    ctx.arc(up.x, up.y, 3.5, 0, Math.PI * 2);
-                    ctx.fill();
-                    ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
-                    ctx.lineWidth = 1;
-                    ctx.beginPath();
-                    ctx.arc(up.x, up.y, 6.5, 0, Math.PI * 2);
-                    ctx.stroke();
+                    if (up && Number.isFinite(up.x) && Number.isFinite(up.y)) {
+                        ctx.fillStyle = `rgba(${uvAccent}, 0.95)`;
+                        ctx.beginPath();
+                        ctx.arc(up.x, up.y, 3.5, 0, Math.PI * 2);
+                        ctx.fill();
+                        ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
+                        ctx.lineWidth = 1;
+                        ctx.beginPath();
+                        ctx.arc(up.x, up.y, 6.5, 0, Math.PI * 2);
+                        ctx.stroke();
+                    }
                 }
 
                 if (hasAqi) {
                     const ap = aqiCoords[hoverIndex];
-                    ctx.fillStyle = `rgba(${aqiAccent}, 0.95)`;
-                    ctx.beginPath();
-                    ctx.arc(ap.x, ap.y, 3.5, 0, Math.PI * 2);
-                    ctx.fill();
-                    ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
-                    ctx.lineWidth = 1;
-                    ctx.beginPath();
-                    ctx.arc(ap.x, ap.y, 6.5, 0, Math.PI * 2);
-                    ctx.stroke();
+                    if (ap && Number.isFinite(ap.x) && Number.isFinite(ap.y)) {
+                        ctx.fillStyle = `rgba(${aqiAccent}, 0.95)`;
+                        ctx.beginPath();
+                        ctx.arc(ap.x, ap.y, 3.5, 0, Math.PI * 2);
+                        ctx.fill();
+                        ctx.strokeStyle = `rgba(${textBase}, 0.25)`;
+                        ctx.lineWidth = 1;
+                        ctx.beginPath();
+                        ctx.arc(ap.x, ap.y, 6.5, 0, Math.PI * 2);
+                        ctx.stroke();
+                    }
                 }
 
                 const tempValue = hasTemp ? safePoints[hoverIndex] : null;
@@ -1050,7 +1059,9 @@ document.addEventListener("DOMContentLoaded", () => {
             let minDist = Infinity;
             const targets = baseCoords || [];
             for (let i = 0; i < targets.length; i++) {
-                const dx = Math.abs(pos.x - targets[i].x);
+                const point = targets[i];
+                if (!point || !Number.isFinite(point.x) || !Number.isFinite(point.y)) continue;
+                const dx = Math.abs(pos.x - point.x);
                 if (dx < minDist) {
                     minDist = dx;
                     nearest = i;

@@ -31,7 +31,7 @@
         ,
         radial-gradient(80% 70% at 10% 55%,
             rgba(0, 0, 0, 0.4) 0%,
-            rgba(0, 0, 0, 0.18) 60%,
+            rgba(0, 0, 0, 0.588) 60%,
             rgba(31, 46, 74, 0.00) 72%)
         ,
         radial-gradient(60% 60% at 20% 100%,
@@ -42,7 +42,7 @@
         rgb(var(--color-fill));
     --app-body-gradient:
         radial-gradient(32% 30% at 12% 10%,
-            rgba(255, 0, 128, 0.16) 0%,
+            rgba(255, 0, 128, 0.586) 0%,
             rgba(250, 142, 253, 0.10) 52%,
             rgba(254, 147, 225, 0.00) 82%)
         ,
@@ -84,6 +84,31 @@ body {
     color: rgb(var(--color-text-base));
     margin: 0;
     min-height: 100vh;
+    position: relative;
+    isolation: isolate;
+    overflow-x: hidden;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: -25vmax;
+    pointer-events: none;
+    z-index: -1;
+    background:
+        radial-gradient(circle at 14% 16%, rgba(var(--color), 0.28) 0%, rgba(var(--color), 0.00) 50%),
+        radial-gradient(circle at 86% 18%, rgba(var(--color-humidity), 0.22) 0%, rgba(var(--color-humidity), 0.00) 52%),
+        radial-gradient(circle at 52% 84%, rgba(var(--color-aqi), 0.16) 0%, rgba(var(--color-aqi), 0.00) 58%);
+    filter: blur(72px) saturate(110%);
+    opacity: 0.7;
+    transform: translateZ(0);
+}
+
+@media (max-width: 720px) {
+    body::before {
+        filter: blur(54px) saturate(105%);
+        opacity: 0.58;
+    }
 }
 
 .app-shell {
@@ -317,11 +342,18 @@ main {
 }
 
 div.background1 {
-    border: 1px solid rgba(var(--color-border), 0.65);
+    border: 1px solid rgba(var(--color-border), 0.58);
     padding: clamp(0.75rem, 2vw, 1.25rem);
     border-radius: 16px;
-    background: rgba(var(--color-bg-elevated), 0.85);
-    backdrop-filter: blur(10px);
+    background:
+        linear-gradient(145deg,
+            rgba(var(--color-bg-elevated), 0.56) 0%,
+            rgba(var(--color-bg-input), 0.42) 100%);
+    backdrop-filter: blur(16px) saturate(118%);
+    -webkit-backdrop-filter: blur(16px) saturate(118%);
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.06),
+        0 18px 44px rgba(4, 9, 18, 0.45);
     width: min(100%, 1400px);
     margin: 0 auto;
     box-sizing: border-box;
@@ -360,11 +392,18 @@ div.background1 {
 }
 
 .bordershadow { 
-    box-shadow: 0 10px 30px rgba(3, 10, 18, 0.45);
-    background: rgb(var(--color-bg-elevated));
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.08),
+        0 16px 34px rgba(3, 10, 18, 0.42);
+    background:
+        linear-gradient(160deg,
+            rgba(var(--color-bg-elevated), 0.50) 0%,
+            rgba(var(--color-bg-input), 0.34) 100%);
     padding: 1rem;
     border-radius: 16px;
-    border: 1px solid rgba(var(--color-border), 0.6);
+    border: 1px solid rgba(var(--color-border), 0.42);
+    backdrop-filter: blur(16px) saturate(124%);
+    -webkit-backdrop-filter: blur(16px) saturate(124%);
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
@@ -677,12 +716,6 @@ input:focus {
     border-color: rgba(var(--color-ring), 1);
     outline: none;
     box-shadow: 0 0 0 3px rgba(var(--color-ring), 0.2);
-}
-
-.field-with-icon input:focus,
-.weather-field-control:focus {
-    box-shadow: none;
-    border-color: transparent;
 }
 
 /* Overskrifter */
