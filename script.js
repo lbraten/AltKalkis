@@ -698,10 +698,10 @@ document.addEventListener("DOMContentLoaded", () => {
         };
         const rgbToCss = (rgb, alpha = 1) => `rgba(${rgb[0]}, ${rgb[1]}, ${rgb[2]}, ${alpha})`;
 
-        const uvGreen = parseRgbTriplet(successAccent, [48, 214, 111]);
-        const uvYellow = parseRgbTriplet(uvAccent, [255, 220, 60]);
-        const uvRed = parseRgbTriplet(aqiAccent, [255, 40, 40]);
-        const uvPurple = parseRgbTriplet(accent, [255, 100, 255]);
+        const uvGreen = parseRgbTriplet(successAccent, [0, 255, 90]);
+        const uvYellow = parseRgbTriplet(uvAccent, [255, 235, 0]);
+        const uvRed = [255, 0, 0];
+        const uvPurple = parseRgbTriplet(accent, [175, 0, 255]);
         const uvOrange = blendRgb(uvYellow, uvRed, 0.45);
 
         const uvBoundaryLow = 2.45;

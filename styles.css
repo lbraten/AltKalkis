@@ -1164,11 +1164,10 @@ h6 {
     --metric-color: var(--color-uv);
     --metric-gradient: linear-gradient(
         to top,
-        rgb(88, 214, 141) 0%,
-        rgb(88, 214, 141) 50%,
-        rgb(246, 198, 82) 64%,
-        rgb(255, 110, 130) 90%,
-        rgb(186, 145, 255) 100%
+        rgb(var(--color-success)) 50%,
+        rgb(var(--color-uv)) 60%,
+        rgb(var(--color-aqi)) 80%,
+        rgb(var(--color)) 60%
     );
 }
 
