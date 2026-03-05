@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-05T14:49:41.027Z",
+  "updatedAt": "2026-03-05T15:53:28.040Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Steinskred nær Giljajuvet i Gjesdal – person kan være truffet",
+      "link": "https://www.nrk.no/rogaland/steinskred-naer-giljajuvet-i-gjesdal-_-person-kan-vaere-truffet-1.17796229",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Thu, 05 Mar 2026 15:43:58 GMT"
+    },
+    {
+      "title": "Libanon: 102 drept i israelske angrep siden mandag",
+      "link": "https://www.nrk.no/nyheter/libanon_-102-drept-i-israelske-angrep-siden-mandag-1.17796198",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 05 Mar 2026 15:36:47 GMT"
+    },
+    {
+      "title": "NHO før lønnsoppgjøret: Må sikre bedriftenes konkurransekraft i en urolig tid",
+      "link": "https://www.nrk.no/nyheter/nho-for-lonnsoppgjoret_-ma-sikre-bedriftenes-konkurransekraft-i-en-urolig-tid-1.17796183",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 05 Mar 2026 15:08:30 GMT"
+    },
+    {
+      "title": "Aftenposten: Politiet oppretter sak på mulig motarbeiding av rettsvesenet i Høiby-saken",
+      "link": "https://www.nrk.no/nyheter/aftenposten_-politiet-oppretter-sak-pa-mulig-motarbeiding-av-rettsvesenet-i-hoiby-saken-1.17796162",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Thu, 05 Mar 2026 14:55:08 GMT"
+    },
     {
       "title": "Svensk politi sender delegasjon til Midtøsten for å hjelpe svensker i området",
       "link": "https://www.nrk.no/nyheter/svensk-politi-sender-delegasjon-til-midtosten-for-a-hjelpe-svensker-i-omradet-1.17796065",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/fire-menn-domt-for-voldtekt-og-grov-vold-1.17796111",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 05 Mar 2026 14:26:08 GMT"
-    },
-    {
-      "title": "Qatar: Har avskåret nye iranske angrep",
-      "link": "https://www.nrk.no/nyheter/qatar_-har-avskaret-nye-iranske-angrep-1.17796075",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 05 Mar 2026 14:11:13 GMT"
-    },
-    {
-      "title": "Karl Ove Knausgård og Åsne Seierstad sikret seg Litteraturkritikerpriser",
-      "link": "https://www.nrk.no/nyheter/karl-ove-knausgard-og-asne-seierstad-sikret-seg-litteraturkritikerpriser-1.17796032",
-      "category": "Litteratur",
-      "pubDate": "Thu, 05 Mar 2026 14:04:56 GMT"
-    },
-    {
-      "title": "Gjenopptar flytrafikken ut av Israel søndag",
-      "link": "https://www.nrk.no/nyheter/gjenopptar-flytrafikken-ut-av-israel-sondag-1.17796028",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 05 Mar 2026 13:58:58 GMT"
-    },
-    {
-      "title": "WHO: Har identifisert 13 angrep som rammet helsevesenet i Iran",
-      "link": "https://www.nrk.no/nyheter/who_-har-identifisert-13-angrep-som-rammet-helsevesenet-i-iran-1.17796027",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 05 Mar 2026 13:39:09 GMT"
     }
   ]
 }
