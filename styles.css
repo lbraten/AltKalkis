@@ -449,10 +449,44 @@ div.background1 {
     width: 100%;
 }
 
+.route-input-group {
+    position: relative;
+}
+
+.route-location-results {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    right: 0;
+    z-index: 26;
+    max-height: 240px;
+    overflow-y: auto;
+    border-radius: 10px;
+    border: 1px solid rgba(var(--color-border), 0.75);
+    background: rgba(var(--color-bg-elevated), 0.98);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.28);
+    padding: 6px;
+}
+
+.route-location-results[hidden] {
+    display: none;
+}
+
 .route-results {
     display: grid;
     gap: 0.75rem;
     margin-top: 0.5rem;
+}
+
+.route-map {
+    width: 100%;
+    height: 280px;
+    margin-top: 0.4rem;
+    border: 1px solid rgba(var(--color-border), 0.6);
+    border-radius: 12px;
+    overflow: hidden;
+    background: rgba(var(--color-bg-input), 0.6);
 }
 
 .route-card {
@@ -462,6 +496,12 @@ div.background1 {
     background: rgba(var(--color-bg-input), 0.6);
     display: grid;
     gap: 0.4rem;
+    cursor: pointer;
+}
+
+.route-card.route-card--selected {
+    border-color: rgba(var(--color-ring), 0.8);
+    box-shadow: 0 0 0 1px rgba(var(--color-ring), 0.25);
 }
 
 .route-card__meta {

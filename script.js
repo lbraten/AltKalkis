@@ -261,10 +261,23 @@ document.addEventListener("DOMContentLoaded", () => {
     const enturBtn = document.getElementById("enturSearchBtn");
     const enturFromInput = document.getElementById("enturFrom");
     const enturToInput = document.getElementById("enturTo");
+    const enturFromResults = document.getElementById("enturFromResults");
+    const enturToResults = document.getElementById("enturToResults");
     const enturDateInput = document.getElementById("enturDate");
     const enturTimeInput = document.getElementById("enturTime");
     const enturStatusEl = document.getElementById("enturStatus");
+    const enturMapEl = document.getElementById("enturMap");
     const enturResultsEl = document.getElementById("enturResults");
+    const isLocalHost = ["localhost", "127.0.0.1"].includes(window.location.hostname);
+    const ENTUR_REMOTE_FUNCTION_BASE = "https://altkalkis.lbraten.xyz";
+    const ENTUR_CLIENT_NAME = "alt-i-ett-kalkulator";
+    const ENTUR_GEOCODER_API = "https://api.entur.io/geocoder/v1/autocomplete";
+    const ENTUR_JOURNEY_API = "https://api.entur.io/journey-planner/v3/graphql";
+    let enturMap = null;
+    let enturMapLayer = null;
+    let enturCurrentTrips = [];
+    let enturSelectedFromPlace = null;
+    let enturSelectedToPlace = null;
 
     const setEnturDefaults = () => {
         if (!enturDateInput || !enturTimeInput) return;
@@ -287,18 +300,199 @@ document.addEventListener("DOMContentLoaded", () => {
         return hours > 0 ? `${hours} t ${rest} min` : `${rest} min`;
     };
 
+    const fetchEnturPlaceSuggestions = async (queryText, size = 8) => {
+        const query = (queryText || "").trim();
+        if (query.length < 2) return [];
+
+        const url = new URL(ENTUR_GEOCODER_API);
+        url.searchParams.set("text", query);
+        url.searchParams.set("size", String(size));
+        url.searchParams.set("lang", "no");
+
+        const res = await fetch(url.toString(), {
+            headers: {
+                Accept: "application/json",
+                "ET-Client-Name": ENTUR_CLIENT_NAME,
+            },
+        });
+
+        if (!res.ok) {
+            throw new Error(`Kunne ikke slå opp sted: ${query}`);
+        }
+
+        const payload = await res.json();
+        const features = Array.isArray(payload?.features) ? payload.features : [];
+
+        return features
+            .map((feature) => {
+                const props = feature?.properties || {};
+                const id = props.id || feature?.id;
+                const label = props.label || props.name || "Ukjent sted";
+                if (typeof id !== "string") return null;
+                return {
+                    id,
+                    label,
+                    name: props.name || label,
+                    locality: props.locality || "",
+                    county: props.county || "",
+                    country: props.country || "",
+                };
+            })
+            .filter((entry) => entry && entry.id.includes("StopPlace"));
+    };
+
+    const formatEnturSuggestionMeta = (entry) => [entry.locality, entry.county, entry.country].filter(Boolean).join(", ");
+
+    const setupEnturAutocomplete = ({
+        inputEl,
+        resultsEl,
+        setSelected,
+        getOtherOpenResults,
+    }) => {
+        if (!inputEl || !resultsEl) return;
+        const container = inputEl.closest(".route-input-group");
+        let resultsData = [];
+        let activeIndex = -1;
+        let searchTimer = null;
+
+        const close = () => {
+            resultsEl.hidden = true;
+            inputEl.setAttribute("aria-expanded", "false");
+            activeIndex = -1;
+        };
+
+        const setActiveResult = (nextIndex) => {
+            const nodes = Array.from(resultsEl.querySelectorAll(".weather-location-results__item"));
+            nodes.forEach((node, idx) => {
+                const isActive = idx === nextIndex;
+                node.classList.toggle("is-active", isActive);
+                node.setAttribute("aria-selected", isActive ? "true" : "false");
+            });
+            activeIndex = nextIndex;
+        };
+
+        const selectResult = (entry) => {
+            if (!entry?.id) return;
+            inputEl.value = entry.label;
+            setSelected(entry);
+            close();
+        };
+
+        const render = (results = []) => {
+            resultsEl.innerHTML = "";
+            resultsData = results;
+
+            if (!results.length) {
+                close();
+                return;
+            }
+
+            results.forEach((entry, index) => {
+                const button = document.createElement("button");
+                button.type = "button";
+                button.className = "weather-location-results__item";
+                button.setAttribute("role", "option");
+                button.setAttribute("aria-selected", "false");
+
+                const name = document.createElement("span");
+                name.className = "weather-location-results__name";
+                name.textContent = entry.label;
+
+                const meta = document.createElement("span");
+                meta.className = "weather-location-results__meta";
+                meta.textContent = formatEnturSuggestionMeta(entry);
+
+                button.append(name, meta);
+                button.addEventListener("click", () => selectResult(entry));
+                button.addEventListener("mouseenter", () => setActiveResult(index));
+                resultsEl.appendChild(button);
+            });
+
+            const otherResults = getOtherOpenResults?.();
+            if (otherResults) {
+                otherResults.hidden = true;
+                const otherInput = otherResults.id === "enturFromResults" ? enturFromInput : enturToInput;
+                otherInput?.setAttribute("aria-expanded", "false");
+            }
+
+            resultsEl.hidden = false;
+            inputEl.setAttribute("aria-expanded", "true");
+            setActiveResult(-1);
+        };
+
+        const fetchAndRender = async (queryText) => {
+            try {
+                const suggestions = await fetchEnturPlaceSuggestions(queryText, 8);
+                render(suggestions);
+            } catch (error) {
+                console.error(error);
+                close();
+            }
+        };
+
+        inputEl.addEventListener("input", () => {
+            setSelected(null);
+            if (searchTimer) clearTimeout(searchTimer);
+            searchTimer = setTimeout(() => {
+                fetchAndRender(inputEl.value);
+            }, 220);
+        });
+
+        inputEl.addEventListener("focus", () => {
+            if (resultsData.length) {
+                resultsEl.hidden = false;
+                inputEl.setAttribute("aria-expanded", "true");
+            }
+        });
+
+        inputEl.addEventListener("keydown", (event) => {
+            if (resultsEl.hidden || !resultsData.length) return;
+            if (event.key === "ArrowDown") {
+                event.preventDefault();
+                const next = Math.min(activeIndex + 1, resultsData.length - 1);
+                setActiveResult(next);
+                return;
+            }
+            if (event.key === "ArrowUp") {
+                event.preventDefault();
+                const next = Math.max(activeIndex - 1, 0);
+                setActiveResult(next);
+                return;
+            }
+            if (event.key === "Enter" && activeIndex >= 0) {
+                event.preventDefault();
+                selectResult(resultsData[activeIndex]);
+                return;
+            }
+            if (event.key === "Escape") {
+                close();
+            }
+        });
+
+        document.addEventListener("click", (event) => {
+            if (!container) return;
+            if (!container.contains(event.target)) close();
+        });
+    };
+
     const renderEnturResults = (trips = []) => {
         if (!enturResultsEl) return;
+        enturCurrentTrips = trips;
         enturResultsEl.innerHTML = "";
 
         if (!trips.length) {
             enturResultsEl.innerHTML = "<p>Ingen ruter funnet.</p>";
+            renderEnturTripOnMap(null);
             return;
         }
 
-        trips.forEach((trip) => {
+        trips.forEach((trip, index) => {
             const card = document.createElement("div");
             card.className = "route-card";
+            if (index === 0) card.classList.add("route-card--selected");
+            card.tabIndex = 0;
+            card.setAttribute("role", "button");
+            card.setAttribute("aria-label", `Vis rute ${index + 1} i kart`);
 
             const meta = document.createElement("div");
             meta.className = "route-card__meta";
@@ -323,9 +517,189 @@ document.addEventListener("DOMContentLoaded", () => {
                 legs.appendChild(legEl);
             });
 
+            card.addEventListener("click", () => selectEnturTrip(index));
+            card.addEventListener("keydown", (event) => {
+                if (event.key !== "Enter" && event.key !== " ") return;
+                event.preventDefault();
+                selectEnturTrip(index);
+            });
+
             card.append(meta, legs);
             enturResultsEl.appendChild(card);
         });
+
+        renderEnturTripOnMap(trips[0]);
+    };
+
+    const initEnturMap = () => {
+        if (!enturMapEl || !window.L || enturMap) return;
+        enturMap = window.L.map(enturMapEl, {
+            zoomControl: true,
+            scrollWheelZoom: false,
+        });
+        window.L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+            maxZoom: 18,
+            attribution: "&copy; OpenStreetMap",
+        }).addTo(enturMap);
+        enturMap.setView([59.9139, 10.7522], 6);
+    };
+
+    const selectEnturTrip = (index) => {
+        const cards = enturResultsEl ? enturResultsEl.querySelectorAll(".route-card") : [];
+        cards.forEach((card, cardIndex) => {
+            card.classList.toggle("route-card--selected", cardIndex === index);
+        });
+        renderEnturTripOnMap(enturCurrentTrips[index] || null);
+    };
+
+    const getTripCoordinates = (trip) => {
+        if (!trip?.legs?.length) return [];
+        const points = [];
+
+        trip.legs.forEach((leg) => {
+            if (typeof leg.fromLat === "number" && typeof leg.fromLon === "number") {
+                points.push([leg.fromLat, leg.fromLon]);
+            }
+        });
+
+        const lastLeg = trip.legs[trip.legs.length - 1];
+        if (typeof lastLeg?.toLat === "number" && typeof lastLeg?.toLon === "number") {
+            points.push([lastLeg.toLat, lastLeg.toLon]);
+        }
+
+        return points;
+    };
+
+    const renderEnturTripOnMap = (trip) => {
+        initEnturMap();
+        if (!enturMap) return;
+
+        if (enturMapLayer) {
+            enturMap.removeLayer(enturMapLayer);
+            enturMapLayer = null;
+        }
+
+        if (!trip) {
+            enturMap.setView([59.9139, 10.7522], 6);
+            return;
+        }
+
+        const coords = getTripCoordinates(trip);
+        if (coords.length < 2) {
+            enturMap.setView([59.9139, 10.7522], 6);
+            return;
+        }
+
+        const line = window.L.polyline(coords, {
+            color: "rgb(var(--color-ring))",
+            weight: 4,
+            opacity: 0.9,
+        });
+        const markers = coords.map((coord, index) => window.L.circleMarker(coord, {
+            radius: index === 0 || index === coords.length - 1 ? 6 : 4,
+            color: "rgba(var(--color-text-base), 0.9)",
+            weight: 2,
+            fillColor: "rgb(var(--color-button-accent))",
+            fillOpacity: 0.9,
+        }));
+
+        enturMapLayer = window.L.featureGroup([line, ...markers]).addTo(enturMap);
+        enturMap.fitBounds(enturMapLayer.getBounds(), { padding: [20, 20] });
+    };
+
+    const toIsoLocalDateTime = (date, time) => {
+        const parsed = new Date(`${date}T${time}:00`);
+        if (Number.isNaN(parsed.getTime())) return `${date}T${time}:00`;
+        const offsetMinutes = -parsed.getTimezoneOffset();
+        const sign = offsetMinutes >= 0 ? "+" : "-";
+        const absolute = Math.abs(offsetMinutes);
+        const hours = String(Math.floor(absolute / 60)).padStart(2, "0");
+        const minutes = String(absolute % 60).padStart(2, "0");
+        return `${date}T${time}:00${sign}${hours}:${minutes}`;
+    };
+
+    const resolveEnturPlace = async (query) => {
+        const suggestions = await fetchEnturPlaceSuggestions(query, 5);
+        const best = suggestions[0];
+        if (!best?.id) throw new Error(`Fant ikke stoppested for: ${query}`);
+        return { id: best.id, name: best.label || best.name || query };
+    };
+
+    const fetchEnturRoutesDirect = async ({ from, to, date, time, fromPlace, toPlace }) => {
+        const [resolvedFromPlace, resolvedToPlace] = await Promise.all([
+            fromPlace?.id ? Promise.resolve(fromPlace) : resolveEnturPlace(from),
+            toPlace?.id ? Promise.resolve(toPlace) : resolveEnturPlace(to),
+        ]);
+
+        const query = `
+            query Trip($from: Location!, $to: Location!, $dateTime: DateTime!, $num: Int!) {
+              trip(from: $from, to: $to, dateTime: $dateTime, numTripPatterns: $num) {
+                tripPatterns {
+                  duration
+                  startTime
+                  endTime
+                  legs {
+                    mode
+                                        fromPlace { name latitude longitude }
+                                        toPlace { name latitude longitude }
+                    line { publicCode }
+                  }
+                }
+              }
+            }
+        `;
+
+        const variables = {
+            from: { place: resolvedFromPlace.id },
+            to: { place: resolvedToPlace.id },
+            dateTime: toIsoLocalDateTime(date, time),
+            num: 5,
+        };
+
+        const res = await fetch(ENTUR_JOURNEY_API, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Accept: "application/json",
+                "ET-Client-Name": ENTUR_CLIENT_NAME,
+            },
+            body: JSON.stringify({ query, variables }),
+        });
+
+        const contentType = res.headers.get("content-type") || "";
+        if (!contentType.includes("application/json")) {
+            throw new Error("Uventet svar fra Entur API.");
+        }
+
+        const payload = await res.json();
+        if (!res.ok || payload?.errors?.length) {
+            throw new Error(payload?.errors?.[0]?.message || "Entur API-feil.");
+        }
+
+        const tripPatterns = payload?.data?.trip?.tripPatterns || [];
+        const trips = tripPatterns.map((pattern) => ({
+            duration: pattern?.duration,
+            departure: pattern?.startTime,
+            arrival: pattern?.endTime,
+            legs: (pattern?.legs || []).map((leg) => ({
+                mode: leg?.mode,
+                modeLabel: leg?.mode,
+                from: leg?.fromPlace?.name || "Ukjent",
+                to: leg?.toPlace?.name || "Ukjent",
+                line: leg?.line?.publicCode || "",
+                fromLat: leg?.fromPlace?.latitude,
+                fromLon: leg?.fromPlace?.longitude,
+                toLat: leg?.toPlace?.latitude,
+                toLon: leg?.toPlace?.longitude,
+            })),
+        }));
+
+        return {
+            message: trips.length
+                ? `Viser ${trips.length} forslag.`
+                : "Ingen ruter funnet.",
+            trips,
+        };
     };
 
     const fetchEnturRoutes = async () => {
@@ -346,25 +720,70 @@ document.addEventListener("DOMContentLoaded", () => {
 
         try {
             const params = new URLSearchParams({ from, to, date, time });
-            const res = await fetch(`/.netlify/functions/entur-routes?${params.toString()}`);
-            const contentType = res.headers.get("content-type") || "";
+            const candidateEndpoints = ["/.netlify/functions/entur-routes"];
+            if (isLocalHost) {
+                candidateEndpoints.push(`${ENTUR_REMOTE_FUNCTION_BASE}/.netlify/functions/entur-routes`);
+            }
+
             let data = null;
-            if (contentType.includes("application/json")) {
+            let lastError = null;
+
+            for (const endpoint of candidateEndpoints) {
+                const res = await fetch(`${endpoint}?${params.toString()}`, {
+                    headers: { Accept: "application/json" },
+                });
+                const contentType = res.headers.get("content-type") || "";
+
+                if (!contentType.includes("application/json")) {
+                    const text = await res.text();
+                    lastError = new Error(`Uventet svar fra Entur-tjenesten (${res.status}).`);
+                    const htmlGetError = text.includes("Cannot GET") || text.includes("<!DOCTYPE html>");
+                    if (isLocalHost && htmlGetError) continue;
+                    throw lastError;
+                }
+
                 data = await res.json();
-            } else {
-                const text = await res.text();
-                throw new Error(`Uventet svar: ${text.slice(0, 120)}`);
+                if (!res.ok) {
+                    lastError = new Error(data?.error || `HTTP ${res.status}`);
+                    continue;
+                }
+
+                lastError = null;
+                break;
             }
-            if (!res.ok) {
-                throw new Error(data?.error || `HTTP ${res.status}`);
+
+            if (lastError) {
+                data = await fetchEnturRoutesDirect({
+                    from,
+                    to,
+                    date,
+                    time,
+                    fromPlace: enturSelectedFromPlace,
+                    toPlace: enturSelectedToPlace,
+                });
             }
+
             enturStatusEl.textContent = data?.message || "";
             renderEnturResults(data?.trips || []);
         } catch (err) {
             console.error("Entur-feil:", err);
-            enturStatusEl.textContent = "Kunne ikke hente ruter.";
+            enturStatusEl.textContent = err?.message || "Kunne ikke hente ruter.";
         }
     };
+
+    setupEnturAutocomplete({
+        inputEl: enturFromInput,
+        resultsEl: enturFromResults,
+        setSelected: (value) => { enturSelectedFromPlace = value; },
+        getOtherOpenResults: () => enturToResults,
+    });
+
+    setupEnturAutocomplete({
+        inputEl: enturToInput,
+        resultsEl: enturToResults,
+        setSelected: (value) => { enturSelectedToPlace = value; },
+        getOtherOpenResults: () => enturFromResults,
+    });
 
     if (enturBtn) enturBtn.addEventListener("click", fetchEnturRoutes);
     [enturFromInput, enturToInput, enturDateInput, enturTimeInput].forEach((input) => {
