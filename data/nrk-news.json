@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-05T18:06:41.456Z",
+  "updatedAt": "2026-03-05T19:43:03.434Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel sier krigen går over i ny fase: – Vi har flere overraskelser i vente",
+      "link": "https://www.nrk.no/nyheter/israel-sier-krigen-gar-over-i-ny-fase_-_-vi-har-flere-overraskelser-i-vente-1.17796453",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 05 Mar 2026 19:38:08 GMT"
+    },
+    {
+      "title": "Arbeidsulykke på Herøya i Porsgrunn",
+      "link": "https://www.nrk.no/vestfoldogtelemark/arbeidsulykke-pa-heroya-i-porsgrunn-1.17796355",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 05 Mar 2026 19:34:28 GMT"
+    },
+    {
+      "title": "17 personer drept i luftangrep i Iran, ifølge statlig TV",
+      "link": "https://www.nrk.no/nyheter/17-personer-drept-i-luftangrep-i-iran_-ifolge-statlig-tv-1.17796440",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 05 Mar 2026 19:07:03 GMT"
+    },
+    {
+      "title": "Nato har hevet beredskapen for forsvar mot ballistiske missiler",
+      "link": "https://www.nrk.no/nyheter/nato-har-hevet-beredskapen-for-forsvar-mot-ballistiske-missiler-1.17796260",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 05 Mar 2026 18:57:58 GMT"
+    },
+    {
+      "title": "Trump sparker sikkerhetsminister Kristi Noem",
+      "link": "https://www.nrk.no/nyheter/trump-sparker-sikkerhetsminister-kristi-noem-1.17796326",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 05 Mar 2026 18:42:48 GMT"
+    },
     {
       "title": "Frankrike sender pansrede kjøretøy til Libanon",
       "link": "https://www.nrk.no/nyheter/frankrike-sender-pansrede-kjoretoy-til-libanon-1.17796352",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 05 Mar 2026 18:03:23 GMT"
-    },
-    {
-      "title": "Aftenposten: Forsvarsbygg-sjefen omplassert etter brudd på innkjøpsregler",
-      "link": "https://www.nrk.no/nyheter/aftenposten_-forsvarsbygg-sjefen-omplassert-etter-brudd-pa-innkjopsregler-1.17796342",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 05 Mar 2026 17:35:37 GMT"
-    },
-    {
-      "title": "Sjømannskirken i Dubai: Telefonen ringer nesten hele tiden.",
-      "link": "https://www.nrk.no/nyheter/sjomannskirken-i-dubai_-telefonen-ringer-nesten-hele-tiden.-1.17796323",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 05 Mar 2026 17:27:52 GMT"
-    },
-    {
-      "title": "Tatt på grensen med over 200 kilo fisk – bot på 50 000 kroner",
-      "link": "https://www.nrk.no/tromsogfinnmark/tatt-pa-grensen-med-over-200-kilo-fisk-_-bot-pa-50-000-kroner-1.17796327",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 05 Mar 2026 17:15:12 GMT"
-    },
-    {
-      "title": "Flyalarmen gikk i Dubai",
-      "link": "https://www.nrk.no/nyheter/flyalarmen-gikk-i-dubai-1.17796287",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 05 Mar 2026 17:11:57 GMT"
-    },
-    {
-      "title": "EU godkjente klimamål for 2040",
-      "link": "https://www.nrk.no/nyheter/eu-godkjente-klimamal-for-2040-1.17796301",
-      "category": "Klima og miljø",
-      "pubDate": "Thu, 05 Mar 2026 17:08:50 GMT"
     }
   ]
 }
