@@ -462,6 +462,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const NRK_CACHE_KEY = "nrkNewsCache";
     const NRK_CACHE_TTL = 1000 * 60 * 15; //15 min
+    const NRK_STALE_WARNING_MS = 1000 * 60 * 60 * 24; //24 timer
 
     const formatNrkUpdatedAt = (timestamp) => {
         if (!Number.isFinite(timestamp)) return "";
@@ -486,21 +487,27 @@ document.addEventListener("DOMContentLoaded", () => {
             if (!raw) return null;
             const cached = JSON.parse(raw);
             if (!cached || !Array.isArray(cached.items)) return null;
+            if (!Number.isFinite(cached.timestamp)) return null;
             return cached;
         } catch {
             return null;
         }
     };
 
-    const saveNrkCache = (items) => {
+    const saveNrkCache = (items, timestamp = Date.now(), source = "live") => {
         try {
             localStorage.setItem(
                 NRK_CACHE_KEY,
-                JSON.stringify({ timestamp: Date.now(), items })
+                JSON.stringify({ timestamp, source, items })
             );
         } catch {
             //ignore quota/storage errors
         }
+    };
+
+    const getNrkStaleHint = (timestamp) => {
+        if (!Number.isFinite(timestamp)) return "";
+        return Date.now() - timestamp > NRK_STALE_WARNING_MS ? " (kan være eldre)" : "";
     };
 
     const fetchWithTimeout = async (url, timeoutMs = 6500) => {
@@ -532,29 +539,93 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
+    const fetchNrkBackupJson = async () => {
+        const cacheBuster = Math.floor(Date.now() / (1000 * 60 * 5));
+        const url = `data/nrk-news.json?v=${cacheBuster}`;
+        const res = await fetch(url, { cache: "no-store" });
+        if (!res.ok) throw new Error(`Backup HTTP ${res.status}`);
+        const data = await res.json();
+
+        if (!data || !Array.isArray(data.items)) {
+            throw new Error("Backup JSON har ugyldig format");
+        }
+
+        const parsedItems = data.items
+            .map((item) => {
+                const title = stripHtml(item?.title || "");
+                const category = stripHtml(item?.category || "");
+                const link = String(item?.link || "").trim();
+                const pubDate = String(item?.pubDate || "").trim();
+
+                return {
+                    title,
+                    category,
+                    link,
+                    time: item?.time || formatNrkTime(pubDate),
+                };
+            })
+            .filter((item) => item.title && item.link)
+            .slice(0, 4);
+
+        if (!parsedItems.length) {
+            throw new Error("Backup JSON inneholder ingen nyheter");
+        }
+
+        const backupTimestamp = Number.isFinite(Date.parse(data.updatedAt))
+            ? Date.parse(data.updatedAt)
+            : Date.now();
+
+        return {
+            timestamp: backupTimestamp,
+            items: parsedItems,
+            source: "backup-json",
+        };
+    };
+
     const fetchNrkNews = async () => {
         if (!nrkStatusEl || !nrkListEl) return;
         const cached = loadNrkCache();
         const isFresh = cached && Date.now() - cached.timestamp < NRK_CACHE_TTL;
+        let activeItems = cached?.items || [];
+        let activeTimestamp = cached?.timestamp || null;
+        let activeSource = cached?.source || "local-cache";
 
         if (cached?.items?.length) {
             renderNrkNews(cached.items);
             const updatedText = formatNrkUpdatedAt(cached.timestamp);
             nrkStatusEl.textContent = isFresh
-                ? `Oppdaterer NRK Nyheter... ${updatedText}`.trim()
-                : `Oppdaterer (lagret versjon kan være eldre)... ${updatedText}`.trim();
+                ? `Oppdaterer NRK Nyheter... ${updatedText}${getNrkStaleHint(cached.timestamp)}`.trim()
+                : `Oppdaterer (lagret versjon kan være eldre)... ${updatedText}${getNrkStaleHint(cached.timestamp)}`.trim();
         } else {
             nrkStatusEl.textContent = "Laster NRK Nyheter...";
         }
 
-        const feedUrl = "https://www.nrk.no/nyheter/siste.rss";
+        try {
+            const backup = await fetchNrkBackupJson();
+            if (!activeTimestamp || backup.timestamp > activeTimestamp) {
+                activeItems = backup.items;
+                activeTimestamp = backup.timestamp;
+                activeSource = backup.source;
+                renderNrkNews(activeItems);
+                saveNrkCache(activeItems, activeTimestamp, activeSource);
+                nrkStatusEl.textContent = `${formatNrkUpdatedAt(activeTimestamp)} (backup)${getNrkStaleHint(activeTimestamp)}`;
+            }
+        } catch (backupError) {
+            console.warn("NRK backup JSON-feil:", backupError);
+        }
+
         const proxyUrls = [
             `https://r.jina.ai/http://www.nrk.no/nyheter/siste.rss`,
+            `https://api.allorigins.win/raw?url=${encodeURIComponent("https://www.nrk.no/nyheter/siste.rss")}`,
+            `https://cors.isomorphic-git.org/https://www.nrk.no/nyheter/siste.rss`,
         ];
 
         try {
             const xmlText = await fetchTextWithFallback(proxyUrls);
             const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+            if (doc.querySelector("parsererror")) {
+                throw new Error("RSS parse-feil");
+            }
             const items = Array.from(doc.querySelectorAll("item"));
 
             const parsed = items.slice(0, 4).map((item) => {
@@ -578,14 +649,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
             const updatedAt = Date.now();
             renderNrkNews(parsed);
-            saveNrkCache(parsed);
+            saveNrkCache(parsed, updatedAt, "live-rss");
             nrkStatusEl.textContent = formatNrkUpdatedAt(updatedAt);
         } catch (err) {
             console.error("NRK RSS-feil:", err);
-            if (cached?.items?.length) {
-                renderNrkNews(cached.items);
-                const updatedText = formatNrkUpdatedAt(cached.timestamp);
-                nrkStatusEl.textContent = `Viser lagrede nyheter. Kunne ikke oppdatere nå. ${updatedText}`.trim();
+            if (activeItems?.length && Number.isFinite(activeTimestamp)) {
+                renderNrkNews(activeItems);
+                const updatedText = formatNrkUpdatedAt(activeTimestamp);
+                const sourceText = activeSource === "backup-json" ? "backup" : "lagrede";
+                nrkStatusEl.textContent = `Viser ${sourceText} nyheter. Kunne ikke oppdatere live nå. ${updatedText}${getNrkStaleHint(activeTimestamp)}`.trim();
             } else {
                 nrkStatusEl.textContent = "Kunne ikke hente NRK Nyheter.";
             }
