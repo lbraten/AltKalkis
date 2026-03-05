@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-05T20:39:59.610Z",
+  "updatedAt": "2026-03-05T21:38:29.951Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nye rakettangrep mot Tel Aviv fra Iran",
+      "link": "https://www.nrk.no/nyheter/nye-rakettangrep-mot-tel-aviv-fra-iran-1.17796598",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 05 Mar 2026 21:29:09 GMT"
+    },
+    {
+      "title": "Israel angriper Hizbollah i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-angriper-hizbollah-i-libanon-1.17796421",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 05 Mar 2026 21:06:38 GMT"
+    },
     {
       "title": "TV 2: Regjeringen forbyr salg av lystgass til mindreårige",
       "link": "https://www.nrk.no/nyheter/tv-2_-regjeringen-forbyr-salg-av-lystgass-til-mindrearige-1.17796526",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-sier-krigen-gar-over-i-ny-fase_-_-vi-har-flere-overraskelser-i-vente-1.17796453",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 05 Mar 2026 19:38:08 GMT"
-    },
-    {
-      "title": "Arbeidsulykke på Herøya i Porsgrunn",
-      "link": "https://www.nrk.no/vestfoldogtelemark/arbeidsulykke-pa-heroya-i-porsgrunn-1.17796355",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 05 Mar 2026 19:34:28 GMT"
-    },
-    {
-      "title": "17 personer drept i luftangrep i Iran, ifølge statlig TV",
-      "link": "https://www.nrk.no/nyheter/17-personer-drept-i-luftangrep-i-iran_-ifolge-statlig-tv-1.17796440",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 05 Mar 2026 19:07:03 GMT"
     }
   ]
 }
