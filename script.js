@@ -144,6 +144,18 @@ document.addEventListener("DOMContentLoaded", () => {
     const time1Input = document.getElementById("time1");
     const time2Input = document.getElementById("time2");
     const timeDiffResultEl = document.getElementById("timeDiffResult");
+
+    //første input til nåværende tid
+    if (time1Input) {
+        const now = new Date();
+        const pad = n => n.toString().padStart(2, '0');
+        const currentTime = pad(now.getHours()) + ":" + pad(now.getMinutes());
+        time1Input.value = currentTime;
+    }
+    if (time2Input) {
+        time2Input.value = "";
+    }
+
     const updateTimeDiff = () => {
         if (!time1Input || !time2Input || !timeDiffResultEl) return;
         const t1 = time1Input.value;
@@ -210,32 +222,39 @@ document.addEventListener("DOMContentLoaded", () => {
 
     //valutakalkulator
     const amountInput = document.getElementById("amount");
+    const fromCurrencySelect = document.getElementById("fromCurrency");
     const currencySelect = document.getElementById("currency");
     const resEl = document.getElementById("result");
     const convertCurrency = async () => {
-        if (!amountInput || !currencySelect || !resEl) return;
+        if (!amountInput || !fromCurrencySelect || !currencySelect || !resEl) return;
         const amount = parseFloat(amountInput.value);
-        const currency = currencySelect.value;
+        const fromCurrency = fromCurrencySelect.value;
+        const toCurrency = currencySelect.value;
         if (!amountInput.value || isNaN(amount) || amount <= 0) {
             resEl.innerText = "Skriv inn et gyldig beløp!";
             return;
         }
+        if (fromCurrency === toCurrency) {
+            resEl.innerText = `${amount} ${fromCurrency} = ${amount.toFixed(2)} ${toCurrency}`;
+            return;
+        }
         try {
-            const res = await fetch(`https://api.frankfurter.app/latest?from=NOK&to=${currency}`);
+            const res = await fetch(`https://api.frankfurter.app/latest?from=${fromCurrency}&to=${toCurrency}`);
             const data = await res.json();
-            const rate = data.rates[currency];
+            const rate = data.rates[toCurrency];
             if (!rate) {
                 resEl.innerText = "Kunne ikke hente valutakurs";
                 return;
             }
             const converted = (amount * rate).toFixed(2);
-            resEl.innerText = `${amount} NOK = ${converted} ${currency}`;
+            resEl.innerText = `${amount} ${fromCurrency} = ${converted} ${toCurrency}`;
         } catch (error) {
             console.error("❌ API-feil:", error);
             resEl.innerText = "Kunne ikke hente valutakurs";
         }
     };
     if (amountInput) amountInput.addEventListener("input", convertCurrency);
+    if (fromCurrencySelect) fromCurrencySelect.addEventListener("change", convertCurrency);
     if (currencySelect) currencySelect.addEventListener("change", convertCurrency);
 
     //entur ruter
@@ -607,10 +626,10 @@ document.addEventListener("DOMContentLoaded", () => {
         };
         const rgbToCss = (rgb, alpha = 1) => `rgba(${rgb[0]}, ${rgb[1]}, ${rgb[2]}, ${alpha})`;
 
-        const uvGreen = parseRgbTriplet(successAccent, [88, 214, 141]);
-        const uvYellow = parseRgbTriplet(uvAccent, [246, 198, 82]);
-        const uvRed = parseRgbTriplet(aqiAccent, [255, 110, 130]);
-        const uvPurple = parseRgbTriplet(accent, [189, 150, 255]);
+        const uvGreen = parseRgbTriplet(successAccent, [48, 214, 111]);
+        const uvYellow = parseRgbTriplet(uvAccent, [255, 220, 60]);
+        const uvRed = parseRgbTriplet(aqiAccent, [255, 40, 40]);
+        const uvPurple = parseRgbTriplet(accent, [255, 100, 255]);
         const uvOrange = blendRgb(uvYellow, uvRed, 0.45);
 
         const uvBoundaryLow = 2.45;
@@ -975,7 +994,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 ctx.lineTo(coords[0].x, height - padY);
                 ctx.closePath();
                 const fillGradient = ctx.createLinearGradient(0, padY, 0, height - padY);
-                fillGradient.addColorStop(0, `rgba(${accent}, ${0.35 * gradientOpacity})`);
+                fillGradient.addColorStop(0, `rgba(${accent}, ${1 * gradientOpacity})`);
                 fillGradient.addColorStop(1, `rgba(${accent}, 0.0)`);
                 ctx.fillStyle = fillGradient;
                 ctx.fill();
@@ -1095,7 +1114,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const up = uvCoords[hoverIndex];
                     if (up && Number.isFinite(up.x) && Number.isFinite(up.y)) {
                         const uvColor = getUvRgb(safeUvPoints[hoverIndex]);
-                        ctx.fillStyle = rgbToCss(uvColor, 0.95);
+                        ctx.fillStyle = rgbToCss(uvColor, 1);
                         ctx.beginPath();
                         ctx.arc(up.x, up.y, 3.5, 0, Math.PI * 2);
                         ctx.fill();

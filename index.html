@@ -320,9 +320,29 @@
             <div class="bordershadow card--s" id="currencyCard">
                 <h2>Valutakalkulator</h2>
                 <div class="converter">
-                    <input type="number" id="amount" placeholder="Beløp i NOK" />
-                    <select id="currency" class="valutaboks">
+                    <input type="number" id="amount" placeholder="Beløp" />
+                    <select id="fromCurrency" class="valutaboks" aria-label="Fra valuta">
+                        <option value="NOK" selected>Norske kroner (NOK)</option>
                         <option value="EUR">Euro (EUR)</option>
+                        <option value="USD">US Dollar (USD)</option>
+                        <option value="GBP">Britiske Pund (GBP)</option>
+                        <option value="SEK">Svenske kroner (SEK)</option>
+                        <option value="DKK">Danske kroner (DKK)</option>
+                        <option value="ISK">Islandske kroner (ISK)</option>
+                        <option value="CHF">Sveitsiske franc (CHF)</option>
+                        <option value="PLN">Polske zloty (PLN)</option>
+                        <option value="CZK">Tsjekkiske koruna (CZK)</option>
+                        <option value="HUF">Ungarske forint (HUF)</option>
+                        <option value="JPY">Japanske yen (JPY)</option>
+                        <option value="CNY">Kinesiske yuan (CNY)</option>
+                        <option value="INR">Indiske rupier (INR)</option>
+                        <option value="AUD">Australske dollar (AUD)</option>
+                        <option value="NZD">New Zealand dollar (NZD)</option>
+                        <option value="CAD">Kanadiske dollar (CAD)</option>
+                    </select>
+                    <select id="currency" class="valutaboks" aria-label="Til valuta">
+                        <option value="NOK">Norske kroner (NOK)</option>
+                        <option value="EUR" selected>Euro (EUR)</option>
                         <option value="USD">US Dollar (USD)</option>
                         <option value="GBP">Britiske Pund (GBP)</option>
                         <option value="SEK">Svenske kroner (SEK)</option>
