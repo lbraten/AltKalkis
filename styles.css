@@ -1133,6 +1133,7 @@ h6 {
 
 .metric-toggle {
     --metric-color: var(--color-button-accent);
+    --metric-gradient: none;
     position: relative;
     display: inline-flex;
     align-items: center;
@@ -1161,6 +1162,14 @@ h6 {
 
 .metric-toggle--uv {
     --metric-color: var(--color-uv);
+    --metric-gradient: linear-gradient(
+        to top,
+        rgb(88, 214, 141) 0%,
+        rgb(88, 214, 141) 50%,
+        rgb(246, 198, 82) 64%,
+        rgb(255, 110, 130) 90%,
+        rgb(186, 145, 255) 100%
+    );
 }
 
 .metric-toggle--aqi {
@@ -1199,7 +1208,12 @@ h6 {
 
 .metric-toggle input:checked + .metric-toggle__box {
     background: rgb(var(--metric-color));
+    background-image: var(--metric-gradient);
     border-color: rgb(var(--metric-color));
+}
+
+.metric-toggle--uv input:checked + .metric-toggle__box {
+    border-color: rgba(var(--color-text-base), 0.15);
 }
 
 .metric-toggle input:checked + .metric-toggle__box::after {
@@ -1505,12 +1519,6 @@ h6 {
     gap: 1rem;
 }
 
-#klokke .clock-widget__grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1rem;
-}
-
 #klokke .clock-widget__panel {
     padding: 0.9rem 1rem;
     border-radius: 12px;
@@ -1534,14 +1542,26 @@ h6 {
     color: rgba(var(--color-text-base), 0.95);
 }
 
-#klokke .clock-widget__controls {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
-    gap: 0.75rem;
-    align-items: center;
+#klokke .clock-widget__status {
+    margin: 0;
 }
 
-#klokke .clock-widget__inputs,
+#klokke .clock-widget__controls {
+    display: grid;
+    gap: 0.9rem;
+}
+
+#klokke .clock-widget__row {
+    display: grid;
+    gap: 0.75rem;
+}
+
+#klokke .clock-widget__inline {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.6rem;
+}
+
 #klokke .clock-widget__buttons {
     display: flex;
     gap: 0.6rem;
@@ -1549,21 +1569,17 @@ h6 {
     align-items: center;
 }
 
-#klokke .clock-widget__inputs input[type="number"] {
-    width: 140px;
+#klokke .clock-widget__controls input[type="number"],
+#klokke .clock-widget__controls input[type="time"] {
+    width: 100%;
 }
 
-#klokke .clock-widget__hint {
-    margin-top: -0.25rem;
-    font-size: 0.88rem;
+#klokke .clock-widget__quick {
+    min-width: 72px;
 }
 
 @media (max-width: 700px) {
-    #klokke .clock-widget__grid {
-        grid-template-columns: 1fr;
-    }
-
-    #klokke .clock-widget__controls {
+    #klokke .clock-widget__inline {
         grid-template-columns: 1fr;
     }
 }
@@ -1675,6 +1691,22 @@ a:hover {
     background: rgba(var(--color-bg-input), 0.6);
     color: rgba(var(--color-text-base), 0.96);
     text-decoration: none;
+}
+
+.background1 .route-card,
+.background1 #klokke .clock-widget__panel,
+.background1 .holiday:not(.holiday--next),
+.background1 .nrk-news-item {
+    background:
+        linear-gradient(160deg,
+            rgba(var(--color-bg-elevated), 0.30) 0%,
+            rgba(var(--color-bg-input), 0.18) 100%);
+    border: 1px solid rgba(var(--color-border), 0.36);
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.1),
+        0 10px 24px rgba(3, 10, 18, 0.28);
+    backdrop-filter: blur(16px) saturate(120%);
+    -webkit-backdrop-filter: blur(16px) saturate(120%);
 }
 
 .nrk-news-item:hover {

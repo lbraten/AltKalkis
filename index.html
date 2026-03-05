@@ -84,7 +84,7 @@
                     </label>
                     <label class="sidebar__toggle">
                         <input type="checkbox" data-toggle-card="klokke" checked>
-                        <span>Klokke-widget</span>
+                        <span>Nedtelling</span>
                     </label>
                     <label class="sidebar__toggle">
                         <input type="checkbox" data-toggle-card="colorWidget" checked>
@@ -437,32 +437,45 @@
             <!-- Klokke-widget -->
             <div class="bordershadow card--m" id="klokke">
                 <div class="clock-widget">
-                    <h2>Enkel klokke-widget</h2>
+                    <h2>Nedtelling</h2>
 
-                    <div class="clock-widget__grid">
-                        <div class="clock-widget__panel">
-                            <div class="clock-widget__label">Timer</div>
-                            <div id="timeren" class="clock-widget__display">00:00:00</div>
-                        </div>
-                        <div class="clock-widget__panel">
-                            <div class="clock-widget__label">Nedtelling</div>
-                            <div id="nedtelling" class="clock-widget__display">00:10:00</div>
-                        </div>
+                    <div class="clock-widget__panel">
+                        <div class="clock-widget__label">Tid igjen</div>
+                        <div id="countdownDisplay" class="clock-widget__display">00:10:00</div>
+                        <p id="countdownStatus" class="clock-widget__status muted" aria-live="polite">Klar. Velg tid og trykk start.</p>
                     </div>
 
                     <div class="clock-widget__controls">
-                        <div class="clock-widget__inputs">
-                            <input id="minInput" type="number" min="0" step="1" placeholder="Minutter" />
-                            <input id="sekInput" type="number" min="0" max="59" step="1" placeholder="Sekunder" />
+                        <div class="clock-widget__row">
+                            <div class="clock-widget__label">Hurtigvalg</div>
+                            <div class="clock-widget__buttons">
+                                <button class="clock-widget__quick" type="button" data-quick-minutes="5">5 min</button>
+                                <button class="clock-widget__quick" type="button" data-quick-minutes="10">10 min</button>
+                                <button class="clock-widget__quick" type="button" data-quick-minutes="15">15 min</button>
+                            </div>
                         </div>
+
+                        <div class="clock-widget__row">
+                            <div class="clock-widget__label">Nedtelling i minutter</div>
+                            <div class="clock-widget__inline">
+                                <input id="countdownMinutes" type="number" min="1" step="1" placeholder="10" />
+                                <button id="startMinutesBtn" type="button">Start</button>
+                            </div>
+                        </div>
+
+                        <div class="clock-widget__row">
+                            <div class="clock-widget__label">Nedtelling til klokkeslett</div>
+                            <div class="clock-widget__inline">
+                                <input id="countdownTargetTime" type="time" />
+                                <button id="startTimeBtn" type="button">Start</button>
+                            </div>
+                        </div>
+
                         <div class="clock-widget__buttons">
-                            <button id="startBtn" type="button">Start nedtelling</button>
-                            <button id="stoppBtn" type="button">Stopp</button>
-                            <button id="resetBtn" type="button">Reset</button>
+                            <button id="pauseCountdownBtn" type="button">Stopp</button>
+                            <button id="resetCountdownBtn" type="button">Nullstill</button>
                         </div>
                     </div>
-
-                    <div class="clock-widget__hint muted">Hint: La feltene stå tomme for å starte en rask 10-minutters nedtelling.</div>
                 </div>
             </div>
 

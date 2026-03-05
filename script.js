@@ -2429,62 +2429,140 @@ document.addEventListener("DOMContentLoaded", () => {
         updateTrendChartForCoords(Number(lat), Number(lon));
     });
 
-    //klokke-widget
-    const timerDisplay = document.getElementById("timeren");
-    const countdownDisplay = document.getElementById("nedtelling");
-    const minInput = document.getElementById("minInput");
-    const sekInput = document.getElementById("sekInput");
-    const startBtn = document.getElementById("startBtn");
-    const stoppBtn = document.getElementById("stoppBtn");
-    const resetBtn = document.getElementById("resetBtn");
+    //nedtelling-widget
+    const countdownDisplay = document.getElementById("countdownDisplay");
+    const countdownStatus = document.getElementById("countdownStatus");
+    const countdownMinutesInput = document.getElementById("countdownMinutes");
+    const countdownTargetTimeInput = document.getElementById("countdownTargetTime");
+    const startMinutesBtn = document.getElementById("startMinutesBtn");
+    const startTimeBtn = document.getElementById("startTimeBtn");
+    const pauseCountdownBtn = document.getElementById("pauseCountdownBtn");
+    const resetCountdownBtn = document.getElementById("resetCountdownBtn");
+    const quickButtons = Array.from(document.querySelectorAll("#klokke [data-quick-minutes]"));
 
-    let timerSekunder = 0;
-    setInterval(() => {
-        timerSekunder++;
-        timerDisplay.textContent = formatTid(timerSekunder);
-    }, 1000);
+    if (countdownDisplay) {
+        let countdownSeconds = 600;
+        let countdownInterval = null;
+        let targetTimestamp = null;
 
-    let countdownSekunder = 600;
-    let nedtellingInterval = null;
+        const formatTid = (totalSekunder) => {
+            const safeSeconds = Math.max(0, Math.floor(totalSekunder));
+            const timer = String(Math.floor(safeSeconds / 3600)).padStart(2, "0");
+            const min = String(Math.floor((safeSeconds % 3600) / 60)).padStart(2, "0");
+            const sek = String(safeSeconds % 60).padStart(2, "0");
+            return `${timer}:${min}:${sek}`;
+        };
 
-    function startNedtelling() {
-        const min = parseInt(minInput.value) || 10;
-        const sek = parseInt(sekInput.value) || 0;
-        countdownSekunder = min * 60 + sek;
-        if (nedtellingInterval) clearInterval(nedtellingInterval);
-        oppdaterCountdown();
-        nedtellingInterval = setInterval(() => {
-            countdownSekunder--;
-            if (countdownSekunder <= 0) {
-                clearInterval(nedtellingInterval);
-                countdownSekunder = 0;
-                alert("Tid er ute! 🚨");
+        const setStatus = (message) => {
+            if (countdownStatus) countdownStatus.textContent = message;
+        };
+
+        const updateDisplay = () => {
+            countdownDisplay.textContent = formatTid(countdownSeconds);
+        };
+
+        const stopCountdown = () => {
+            if (countdownInterval) clearInterval(countdownInterval);
+            countdownInterval = null;
+        };
+
+        const finishCountdown = () => {
+            stopCountdown();
+            countdownSeconds = 0;
+            targetTimestamp = null;
+            updateDisplay();
+            setStatus("Ferdig! Tiden er ute.");
+        };
+
+        const tick = () => {
+            if (targetTimestamp) {
+                countdownSeconds = Math.ceil((targetTimestamp - Date.now()) / 1000);
+            } else {
+                countdownSeconds -= 1;
             }
-            oppdaterCountdown();
-        }, 1000);
+
+            if (countdownSeconds <= 0) {
+                finishCountdown();
+                return;
+            }
+
+            updateDisplay();
+        };
+
+        const startCountdown = (seconds, statusMessage, nextTargetTimestamp = null) => {
+            if (!Number.isFinite(seconds) || seconds <= 0) {
+                setStatus("Velg en gyldig tid over 0.");
+                return;
+            }
+            stopCountdown();
+            targetTimestamp = nextTargetTimestamp;
+            countdownSeconds = Math.floor(seconds);
+            updateDisplay();
+            setStatus(statusMessage);
+            countdownInterval = setInterval(tick, 1000);
+        };
+
+        const startFromMinutes = (minutesValue) => {
+            const minutes = Number.isFinite(minutesValue) ? minutesValue : parseFloat(countdownMinutesInput?.value || "");
+            const validMinutes = Number.isFinite(minutes) && minutes > 0 ? minutes : 10;
+            if (countdownMinutesInput) countdownMinutesInput.value = String(validMinutes);
+            startCountdown(validMinutes * 60, `Kjører nedtelling: ${validMinutes} min.`);
+        };
+
+        const startToClockTime = () => {
+            const timeValue = countdownTargetTimeInput?.value;
+            if (!timeValue) {
+                setStatus("Velg et klokkeslett først.");
+                return;
+            }
+
+            const [hours, minutes] = timeValue.split(":").map(Number);
+            if (!Number.isInteger(hours) || !Number.isInteger(minutes)) {
+                setStatus("Ugyldig klokkeslett.");
+                return;
+            }
+
+            const now = new Date();
+            const target = new Date(now);
+            target.setHours(hours, minutes, 0, 0);
+            if (target <= now) {
+                target.setDate(target.getDate() + 1);
+            }
+
+            const seconds = Math.ceil((target.getTime() - now.getTime()) / 1000);
+            startCountdown(seconds, `Kjører nedtelling til ${timeValue}.`, target.getTime());
+        };
+
+        if (startMinutesBtn) startMinutesBtn.addEventListener("click", () => startFromMinutes());
+        if (startTimeBtn) startTimeBtn.addEventListener("click", startToClockTime);
+
+        if (pauseCountdownBtn) {
+            pauseCountdownBtn.addEventListener("click", () => {
+                stopCountdown();
+                targetTimestamp = null;
+                setStatus("Stoppet.");
+            });
+        }
+
+        if (resetCountdownBtn) {
+            resetCountdownBtn.addEventListener("click", () => {
+                stopCountdown();
+                targetTimestamp = null;
+                countdownSeconds = 600;
+                updateDisplay();
+                setStatus("Nullstilt til 10:00.");
+            });
+        }
+
+        quickButtons.forEach((button) => {
+            button.addEventListener("click", () => {
+                const minutes = Number(button.dataset.quickMinutes);
+                startFromMinutes(minutes);
+            });
+        });
+
+        updateDisplay();
     }
-    function stoppNedtelling() {
-        clearInterval(nedtellingInterval);
-        nedtellingInterval = null;
-    }
-    function resetNedtelling() {
-        stoppNedtelling();
-        countdownSekunder = 600;
-        oppdaterCountdown();
-    }
-    function oppdaterCountdown() {
-        countdownDisplay.textContent = formatTid(countdownSekunder);
-    }
-    function formatTid(totalSekunder) {
-        const timer = String(Math.floor(totalSekunder / 3600)).padStart(2, "0");
-        const min = String(Math.floor((totalSekunder % 3600) / 60)).padStart(2, "0");
-        const sek = String(totalSekunder % 60).padStart(2, "0");
-        return `${timer}:${min}:${sek}`;
-    }
-    startBtn.addEventListener("click", startNedtelling);
-    stoppBtn.addEventListener("click", stoppNedtelling);
-    resetBtn.addEventListener("click", resetNedtelling);
-    oppdaterCountdown();
 
 
         //vær: prøv data fra data/weather.json, ellers fallback til met.no (med user-agent)
