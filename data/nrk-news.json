@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-05T19:43:03.434Z",
+  "updatedAt": "2026-03-05T20:39:59.610Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "TV 2: Regjeringen forbyr salg av lystgass til mindreårige",
+      "link": "https://www.nrk.no/nyheter/tv-2_-regjeringen-forbyr-salg-av-lystgass-til-mindrearige-1.17796526",
+      "category": "Ungdom og rusmidler",
+      "pubDate": "Thu, 05 Mar 2026 20:31:11 GMT"
+    },
+    {
+      "title": "USA stenger ambassaden i Kuwait",
+      "link": "https://www.nrk.no/nyheter/usa-stenger-ambassaden-i-kuwait-1.17796508",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 05 Mar 2026 19:59:58 GMT"
+    },
+    {
+      "title": "Dagbladet: Norsk utrykningsteam på plass i Dubai",
+      "link": "https://www.nrk.no/nyheter/dagbladet_-norsk-utrykningsteam-pa-plass-i-dubai-1.17796502",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 05 Mar 2026 19:47:11 GMT"
+    },
     {
       "title": "Israel sier krigen går over i ny fase: – Vi har flere overraskelser i vente",
       "link": "https://www.nrk.no/nyheter/israel-sier-krigen-gar-over-i-ny-fase_-_-vi-har-flere-overraskelser-i-vente-1.17796453",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/17-personer-drept-i-luftangrep-i-iran_-ifolge-statlig-tv-1.17796440",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 05 Mar 2026 19:07:03 GMT"
-    },
-    {
-      "title": "Nato har hevet beredskapen for forsvar mot ballistiske missiler",
-      "link": "https://www.nrk.no/nyheter/nato-har-hevet-beredskapen-for-forsvar-mot-ballistiske-missiler-1.17796260",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 05 Mar 2026 18:57:58 GMT"
-    },
-    {
-      "title": "Trump sparker sikkerhetsminister Kristi Noem",
-      "link": "https://www.nrk.no/nyheter/trump-sparker-sikkerhetsminister-kristi-noem-1.17796326",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 05 Mar 2026 18:42:48 GMT"
-    },
-    {
-      "title": "Frankrike sender pansrede kjøretøy til Libanon",
-      "link": "https://www.nrk.no/nyheter/frankrike-sender-pansrede-kjoretoy-til-libanon-1.17796352",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 05 Mar 2026 18:03:23 GMT"
     }
   ]
 }
