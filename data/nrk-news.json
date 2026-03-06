@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-03-06T02:21:09.635Z",
+  "updatedAt": "2026-03-06T04:20:17.324Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Israelske militære har kunngjort at de har igangsatt en storskala angrepsbølge",
-      "link": "https://www.nrk.no/nyheter/israelske-militaere-har-kunngjort-at-de-har-igangsatt-en-storskala-angrepsbolge-1.17796648",
-      "category": "NRK Nyheter",
+      "title": "Brann i båt i Ørland",
+      "link": "https://www.nrk.no/nyheter/brann-i-bat-i-orland-1.17796653",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 06 Mar 2026 03:42:44 GMT"
+    },
+    {
+      "title": "Kosovo må skrive ut nyvalg",
+      "link": "https://www.nrk.no/nyheter/kosovo-ma-skrive-ut-nyvalg-1.17796646",
+      "category": "Kosovo",
+      "pubDate": "Fri, 06 Mar 2026 03:32:56 GMT"
+    },
+    {
+      "title": "Iransk angrep rammet hotell og bolig i Bahrain",
+      "link": "https://www.nrk.no/nyheter/iransk-angrep-rammet-hotell-og-bolig-i-bahrain--1.17796649",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 03:13:24 GMT"
+    },
+    {
+      "title": "IDF sier de har igangsatt en massiv angrepsbølge i Teheran",
+      "link": "https://www.nrk.no/nyheter/idf-sier-de-har-igangsatt-en-massiv-angrepsbolge-i-teheran-1.17796648",
+      "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 06 Mar 2026 01:54:52 GMT"
     },
     {
@@ -15,28 +33,10 @@
       "pubDate": "Fri, 06 Mar 2026 01:53:53 GMT"
     },
     {
-      "title": "65 barn reddet i politiaksjon mot overgrep i Latin-Amerika",
-      "link": "https://www.nrk.no/nyheter/65-barn-reddet-i-politiaksjon-mot-overgrep-i-latin-amerika-1.17796642",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 06 Mar 2026 01:26:15 GMT"
-    },
-    {
       "title": "Tatt i 120 km/t i 60-sone",
       "link": "https://www.nrk.no/nyheter/tatt-i-120-km_t-i-60-sone-1.17796645",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Fri, 06 Mar 2026 00:51:37 GMT"
-    },
-    {
-      "title": "– Minst 180 barn drept i Iran",
-      "link": "https://www.nrk.no/nyheter/_-minst-180-barn-drept-i-iran-1.17796644",
-      "category": "Iran",
-      "pubDate": "Fri, 06 Mar 2026 00:40:56 GMT"
-    },
-    {
-      "title": "Italia sier angrepet mot Iran er i strid med folkeretten",
-      "link": "https://www.nrk.no/nyheter/italia-sier-angrepet-mot-iran-er-i-strid-med-folkeretten-1.17796641",
-      "category": "Italia",
-      "pubDate": "Fri, 06 Mar 2026 00:07:22 GMT"
     }
   ]
 }
