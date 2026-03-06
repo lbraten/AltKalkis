@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-06T19:41:00.566Z",
+  "updatedAt": "2026-03-06T20:35:19.830Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Svensk politi og kystvakt bordet skip i Østersjøen",
+      "link": "https://www.nrk.no/nyheter/svensk-politi-og-kystvakt-bordet-skip-i-ostersjoen-1.17798049",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 06 Mar 2026 20:35:13 GMT"
+    },
+    {
+      "title": "Aftenposten: VG-journalist bortvist fra Oslo tingrett",
+      "link": "https://www.nrk.no/nyheter/aftenposten_-vg-journalist-bortvist-fra-oslo-tingrett-1.17798036",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Fri, 06 Mar 2026 19:44:22 GMT"
+    },
     {
       "title": "UD oppfordrer norske borgere til å forlate Libanon",
       "link": "https://www.nrk.no/nyheter/ud-oppfordrer-norske-borgere-til-a-forlate-libanon-1.17797898",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flyktninghjelpen_-300.000-internt-fordrevne-i-libanon-1.17797815",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 06 Mar 2026 15:56:55 GMT"
-    },
-    {
-      "title": "Britisk politi: Mistenker russisk involvering i branner",
-      "link": "https://www.nrk.no/nyheter/britisk-politi_-mistenker-russisk-involvering-i-branner-1.17797775",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 06 Mar 2026 15:39:24 GMT"
-    },
-    {
-      "title": "Snøskred i Narvik: Én person skal være savnet",
-      "link": "https://www.nrk.no/nordland/snoskred-i-narvik_-en-person-skal-vaere-savnet-1.17797791",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 06 Mar 2026 15:34:54 GMT"
     }
   ]
 }
