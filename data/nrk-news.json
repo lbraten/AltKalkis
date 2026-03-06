@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-06T04:20:17.324Z",
+  "updatedAt": "2026-03-06T05:32:03.116Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Brann i båt i Ørland",
-      "link": "https://www.nrk.no/nyheter/brann-i-bat-i-orland-1.17796653",
+      "title": "Saudi Arabia: Sier de har skutt ned tre droner over Riyadh",
+      "link": "https://www.nrk.no/nyheter/saudi-arabia_-sier-de-har-skutt-ned-tre-droner-over-riyadh-1.17796721",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 06 Mar 2026 05:27:29 GMT"
+    },
+    {
+      "title": "Unicef: Minst 180 barn drept",
+      "link": "https://www.nrk.no/nyheter/unicef_-minst-180-barn-drept-1.17796718",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 05:22:21 GMT"
+    },
+    {
+      "title": "Rødt farevarsel for snøskred i helgen",
+      "link": "https://www.nrk.no/nordland/rodt-farevarsel-for-snoskred-i-helgen-1.17796710",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 06 Mar 2026 05:11:56 GMT"
+    },
+    {
+      "title": "Israel har gjennomført angrep flere steder i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-har-gjennomfort-angrep-flere-steder-i-libanon-1.17796676",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 04:24:33 GMT"
+    },
+    {
+      "title": "Hizbollah sier de har gjennomført flere angrep mot Israel",
+      "link": "https://www.nrk.no/nyheter/hizbollah-sier-de-har-gjennomfort-flere-angrep-mot-israel--1.17796655",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 04:20:40 GMT"
+    },
+    {
+      "title": "Hund berga eier fra båtbrann",
+      "link": "https://www.nrk.no/nyheter/hund-berga-eier-fra-batbrann--1.17796653",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Fri, 06 Mar 2026 03:42:44 GMT"
-    },
-    {
-      "title": "Kosovo må skrive ut nyvalg",
-      "link": "https://www.nrk.no/nyheter/kosovo-ma-skrive-ut-nyvalg-1.17796646",
-      "category": "Kosovo",
-      "pubDate": "Fri, 06 Mar 2026 03:32:56 GMT"
-    },
-    {
-      "title": "Iransk angrep rammet hotell og bolig i Bahrain",
-      "link": "https://www.nrk.no/nyheter/iransk-angrep-rammet-hotell-og-bolig-i-bahrain--1.17796649",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 03:13:24 GMT"
-    },
-    {
-      "title": "IDF sier de har igangsatt en massiv angrepsbølge i Teheran",
-      "link": "https://www.nrk.no/nyheter/idf-sier-de-har-igangsatt-en-massiv-angrepsbolge-i-teheran-1.17796648",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 01:54:52 GMT"
-    },
-    {
-      "title": "Hizbollah advarer Israel om evakuering av byer",
-      "link": "https://www.nrk.no/nyheter/hizbollah-advarer-israel-om-evakuering-av-byer-1.17796647",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 01:53:53 GMT"
-    },
-    {
-      "title": "Tatt i 120 km/t i 60-sone",
-      "link": "https://www.nrk.no/nyheter/tatt-i-120-km_t-i-60-sone-1.17796645",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Fri, 06 Mar 2026 00:51:37 GMT"
     }
   ]
 }
