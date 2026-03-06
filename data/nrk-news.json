@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-06T07:40:02.190Z",
+  "updatedAt": "2026-03-06T08:41:19.841Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "VG: Aker har evakuert 44 fra Midtøsten",
-      "link": "https://www.nrk.no/nyheter/vg_-aker-har-evakuert-44-fra-midtosten-1.17796811",
+      "title": "Mann på Sunnmøre dømd til fengsel for koronasvindel",
+      "link": "https://www.nrk.no/mr/mann-pa-sunnmore-domd-til-fengsel-for-koronasvindel-1.17796916",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 06 Mar 2026 08:25:42 GMT"
+    },
+    {
+      "title": "India bruker nødrett for å forhindre brennstoffmangel",
+      "link": "https://www.nrk.no/nyheter/india-bruker-nodrett-for-a-forhindre-brennstoffmangel-1.17796905",
+      "category": "India",
+      "pubDate": "Fri, 06 Mar 2026 08:18:20 GMT"
+    },
+    {
+      "title": "Fire pågrepet i Storbritannia: Mistenkes for spionasje for Iran",
+      "link": "https://www.nrk.no/nyheter/fire-pagrepet-i-storbritannia_-mistenkes-for-spionasje-for-iran-1.17796876",
+      "category": "Storbritannia",
+      "pubDate": "Fri, 06 Mar 2026 08:07:09 GMT"
+    },
+    {
+      "title": "52 franske skip fast i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/52-franske-skip-fast-i-persiabukta-1.17796869",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 07:52:40 GMT"
+    },
+    {
+      "title": "Kosovos president skriver ut nyvalg innen kort tid",
+      "link": "https://www.nrk.no/nyheter/kosovos-president-skriver-ut-nyvalg-innen-kort-tid-1.17796843",
+      "category": "Kosovo",
+      "pubDate": "Fri, 06 Mar 2026 07:47:45 GMT"
+    },
+    {
+      "title": "44 personer fra Aker Solutions er evakuert fra Dubai",
+      "link": "https://www.nrk.no/nyheter/44-personer-fra-aker-solutions-er-evakuert-fra-dubai-1.17796811",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 06 Mar 2026 07:31:10 GMT"
-    },
-    {
-      "title": "Flere stengte veier i Finnmark",
-      "link": "https://www.nrk.no/tromsogfinnmark/flere-stengte-veier-i-finnmark-1.17796814",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 06 Mar 2026 07:13:36 GMT"
-    },
-    {
-      "title": "Statlig byrå: Ambulansepersonell drept i Iran",
-      "link": "https://www.nrk.no/nyheter/statlig-byra_-ambulansepersonell-drept-i-iran-1.17796792",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 07:10:54 GMT"
-    },
-    {
-      "title": "Amerikansk institutt: Krigens første 100 timer kostet 3,7 milliarder dollar",
-      "link": "https://www.nrk.no/nyheter/amerikansk-institutt_-krigens-forste-100-timer-kostet-3_7-milliarder-dollar-1.17796784",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 06:57:08 GMT"
-    },
-    {
-      "title": "Ungarn: Vil stanse eksport viktig for Ukraina",
-      "link": "https://www.nrk.no/nyheter/ungarn_-vil-stanse-eksport-viktig-for-ukraina-1.17796777",
-      "category": "Ungarn",
-      "pubDate": "Fri, 06 Mar 2026 06:52:03 GMT"
-    },
-    {
-      "title": "Sør-Korea sier de har diskutert med USA å flytte luftvern til Iran-krigen",
-      "link": "https://www.nrk.no/nyheter/sor-korea-sier-de-har-diskutert-med-usa-a-flytte-luftvern-til-iran-krigen-1.17796757",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 06:33:12 GMT"
     }
   ]
 }
