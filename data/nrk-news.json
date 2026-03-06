@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-06T17:59:57.678Z",
+  "updatedAt": "2026-03-06T18:59:57.093Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "UD oppfordrer norske borgere til å forlate Libanon",
+      "link": "https://www.nrk.no/nyheter/ud-oppfordrer-norske-borgere-til-a-forlate-libanon-1.17797898",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 18:48:55 GMT"
+    },
     {
       "title": "UD setter opp fly fra Muscat i Oman",
       "link": "https://www.nrk.no/nyheter/ud-setter-opp-fly-fra-muscat-i-oman-1.17797883",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nordland/snoskred-i-narvik_-en-person-skal-vaere-savnet-1.17797791",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Fri, 06 Mar 2026 15:34:54 GMT"
-    },
-    {
-      "title": "Ledere fra EU og Midtøsten skal ha Iran-møte",
-      "link": "https://www.nrk.no/nyheter/ledere-fra-eu-og-midtosten-skal-ha-iran-mote-1.17797712",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 14:49:34 GMT"
     }
   ]
 }
