@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-06T15:04:50.687Z",
+  "updatedAt": "2026-03-06T16:01:17.002Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flyktninghjelpen: 300.000 internt fordrevne i Libanon",
+      "link": "https://www.nrk.no/nyheter/flyktninghjelpen_-300.000-internt-fordrevne-i-libanon-1.17797815",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 06 Mar 2026 15:56:55 GMT"
+    },
+    {
+      "title": "Britisk politi: Mistenker russisk involvering i branner",
+      "link": "https://www.nrk.no/nyheter/britisk-politi_-mistenker-russisk-involvering-i-branner-1.17797775",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 06 Mar 2026 15:39:24 GMT"
+    },
+    {
+      "title": "Snøskred i Narvik: – Usikkert på om personer er tatt",
+      "link": "https://www.nrk.no/nordland/snoskred-i-narvik_-_-usikkert-pa-om-personer-er-tatt-1.17797791",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 06 Mar 2026 15:34:54 GMT"
+    },
     {
       "title": "Ledere fra EU og Midtøsten skal ha Iran-møte",
       "link": "https://www.nrk.no/nyheter/ledere-fra-eu-og-midtosten-skal-ha-iran-mote-1.17797712",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/sport/naermer-seg-apningsseremoni-1.17797718",
       "category": "Paralympics live 2026",
       "pubDate": "Fri, 06 Mar 2026 14:41:32 GMT"
-    },
-    {
-      "title": "FN: 100.000 libanesere har til nå søkt tilflukt",
-      "link": "https://www.nrk.no/nyheter/fn_-100.000-libanesere-har-til-na-sokt-tilflukt--1.17797648",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 14:38:53 GMT"
-    },
-    {
-      "title": "Felleskjøpet gjenopptar salget av mineralgjødsel",
-      "link": "https://www.nrk.no/nyheter/felleskjopet-gjenopptar-salget-av-mineralgjodsel---1.17797645",
-      "category": "Landbruk",
-      "pubDate": "Fri, 06 Mar 2026 14:10:47 GMT"
-    },
-    {
-      "title": "Israel melder om ny angrepsbølge mot Iran",
-      "link": "https://www.nrk.no/nyheter/israel-melder-om-ny-angrepsbolge-mot-iran-1.17797643",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 14:08:01 GMT"
     }
   ]
 }
