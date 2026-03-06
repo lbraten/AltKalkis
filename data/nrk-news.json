@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-06T09:42:07.544Z",
+  "updatedAt": "2026-03-06T10:38:12.326Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Iran: – Minst 20 sivile drept i angrep mot Shiraz",
-      "link": "https://www.nrk.no/nyheter/iran_-_-minst-20-sivile-drept-i-angrep-mot-shiraz-1.17797099",
+      "title": "Ukraina og Russland har utvekslet ytterligere 300 krigsfanger hver",
+      "link": "https://www.nrk.no/nyheter/ukraina-og-russland-har-utvekslet-ytterligere-300-krigsfanger-hver-1.17797141",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 06 Mar 2026 10:11:12 GMT"
+    },
+    {
+      "title": "Ukraina ber innbyggere unngå å reise til Ungarn",
+      "link": "https://www.nrk.no/nyheter/ukraina-ber-innbyggere-unnga-a-reise-til-ungarn-1.17797136",
+      "category": "Ungarn",
+      "pubDate": "Fri, 06 Mar 2026 09:53:33 GMT"
+    },
+    {
+      "title": "Verdens helseorganisasjon: Kritisk lite medisiner på Gaza",
+      "link": "https://www.nrk.no/nyheter/verdens-helseorganisasjon_-kritisk-lite-medisiner-pa-gaza-1.17797131",
+      "category": "Krigen i Gaza",
+      "pubDate": "Fri, 06 Mar 2026 09:51:20 GMT"
+    },
+    {
+      "title": "UNHCR: Situasjonen i Midtøsten er en større humanitær nødssituasjon",
+      "link": "https://www.nrk.no/nyheter/unhcr_-situasjonen-i-midtosten-er-en-storre-humanitaer-nodssituasjon-1.17797117",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 09:40:11 GMT"
+      "pubDate": "Fri, 06 Mar 2026 09:50:20 GMT"
     },
     {
-      "title": "Qatar: Krigen kan stanse oljeeksporten i Persiabukta i løpet av uker",
-      "link": "https://www.nrk.no/nyheter/qatar_-krigen-kan-stanse-oljeeksporten-i-persiabukta-i-lopet-av-uker-1.17797048",
+      "title": "Aserbajdsjan henter hjem diplomater fra Iran",
+      "link": "https://www.nrk.no/nyheter/aserbajdsjan-henter-hjem-diplomater-fra-iran-1.17797114",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 09:23:47 GMT"
+      "pubDate": "Fri, 06 Mar 2026 09:45:04 GMT"
     },
     {
-      "title": "UD: Nytt utrykningsteam på plass i Oman",
-      "link": "https://www.nrk.no/nyheter/ud_-nytt-utrykningsteam-pa-plass-i-oman-1.17797043",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 09:20:41 GMT"
-    },
-    {
-      "title": "Nytt israelsk angrep mot Beirut i gang",
-      "link": "https://www.nrk.no/nyheter/nytt-israelsk-angrep-mot-beirut-i-gang-1.17797006",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 09:19:26 GMT"
-    },
-    {
-      "title": "USA offentliggjør flere Epstein-dokumenter: Inneholder anklager mot Trump",
-      "link": "https://www.nrk.no/nyheter/usa-offentliggjor-flere-epstein-dokumenter_-inneholder-anklager-mot-trump-1.17796992",
-      "category": "Jeffrey Epstein-saken",
-      "pubDate": "Fri, 06 Mar 2026 09:03:14 GMT"
-    },
-    {
-      "title": "Sverige: Regjeringen og Sverigedemokraterna enige om løsning etter omstridte tenåringsutvisninger",
-      "link": "https://www.nrk.no/nyheter/sverige_-regjeringen-og-sverigedemokraterna-enige-om-losning-etter-omstridte-tenaringsutvisninger-1.17796982",
-      "category": "Sverige",
-      "pubDate": "Fri, 06 Mar 2026 08:57:11 GMT"
+      "title": "Sju ukrainere pågrepet i Ungarn - Ukraina ber om løslatelse umiddelbart",
+      "link": "https://www.nrk.no/nyheter/sju-ukrainere-pagrepet-i-ungarn---ukraina-ber-om-loslatelse-umiddelbart-1.17797103",
+      "category": "Ungarn",
+      "pubDate": "Fri, 06 Mar 2026 09:44:46 GMT"
     }
   ]
 }
