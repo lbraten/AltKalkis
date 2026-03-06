@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-06T22:31:50.896Z",
+  "updatedAt": "2026-03-06T23:29:57.508Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i amerikanske selskap etter droneangrep i Irak",
+      "link": "https://www.nrk.no/nyheter/brann-i-amerikanske-selskap-etter-droneangrep-i-irak-1.17798155",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 23:13:44 GMT"
+    },
+    {
+      "title": "IDF starter en ny bølge med angrep mot Teheran i natt",
+      "link": "https://www.nrk.no/nyheter/idf-starter-en-ny-bolge-med-angrep-mot-teheran-i-natt-1.17798151",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 22:36:03 GMT"
+    },
     {
       "title": "Putin har snakket med Irans statsminister på telefon fredag",
       "link": "https://www.nrk.no/nyheter/putin-har-snakket-med-irans-statsminister-pa-telefon-fredag--1.17798146",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-vil-endre-fotballkostnadene-ved-hoyskolene-i-usa-1.17798132",
       "category": "USA",
       "pubDate": "Fri, 06 Mar 2026 22:00:01 GMT"
-    },
-    {
-      "title": "Droner ble skutt ned over Erbil",
-      "link": "https://www.nrk.no/nyheter/droner-ble-skutt-ned-over-erbil--1.17798119",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 21:50:48 GMT"
-    },
-    {
-      "title": "Irans FN-ambassadør: Over 1300 drept i krigen med Israel og USA",
-      "link": "https://www.nrk.no/nyheter/irans-fn-ambassador_-over-1300-drept-i-krigen-med-israel-og-usa-1.17798114",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 21:39:56 GMT"
     }
   ]
 }
