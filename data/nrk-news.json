@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-06T10:38:12.326Z",
+  "updatedAt": "2026-03-06T11:31:27.978Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "24 delstater går til sak for å blokkere Trumps nye tollsatser",
+      "link": "https://www.nrk.no/nyheter/24-delstater-gar-til-sak-for-a-blokkere-trumps-nye-tollsatser-1.17797311",
+      "category": "USA",
+      "pubDate": "Fri, 06 Mar 2026 11:26:44 GMT"
+    },
+    {
+      "title": "Indonesia innfører aldersgrense for sosiale medier",
+      "link": "https://www.nrk.no/nyheter/indonesia-innforer-aldersgrense-for-sosiale-medier-1.17797264",
+      "category": "Sosiale medier",
+      "pubDate": "Fri, 06 Mar 2026 11:24:27 GMT"
+    },
+    {
+      "title": "Politiet: Bedrageridømt nordmann pågrepet i Ukraina",
+      "link": "https://www.nrk.no/nyheter/politiet_-bedrageridomt-nordmann-pagrepet-i-ukraina--1.17797246",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 06 Mar 2026 11:05:47 GMT"
+    },
+    {
+      "title": "Danmark oppfordrer sine statsborgere til å forlate Libanon fortest mulig",
+      "link": "https://www.nrk.no/nyheter/danmark-oppfordrer-sine-statsborgere-til-a-forlate-libanon-fortest-mulig---1.17797245",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 10:59:55 GMT"
+    },
+    {
+      "title": "FN krever gransking av Israels angrep på Libanon",
+      "link": "https://www.nrk.no/nyheter/fn-krever-gransking-av-israels-angrep-pa-libanon-1.17797223",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 10:58:42 GMT"
+    },
     {
       "title": "Ukraina og Russland har utvekslet ytterligere 300 krigsfanger hver",
       "link": "https://www.nrk.no/nyheter/ukraina-og-russland-har-utvekslet-ytterligere-300-krigsfanger-hver-1.17797141",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 06 Mar 2026 10:11:12 GMT"
-    },
-    {
-      "title": "Ukraina ber innbyggere unngå å reise til Ungarn",
-      "link": "https://www.nrk.no/nyheter/ukraina-ber-innbyggere-unnga-a-reise-til-ungarn-1.17797136",
-      "category": "Ungarn",
-      "pubDate": "Fri, 06 Mar 2026 09:53:33 GMT"
-    },
-    {
-      "title": "Verdens helseorganisasjon: Kritisk lite medisiner på Gaza",
-      "link": "https://www.nrk.no/nyheter/verdens-helseorganisasjon_-kritisk-lite-medisiner-pa-gaza-1.17797131",
-      "category": "Krigen i Gaza",
-      "pubDate": "Fri, 06 Mar 2026 09:51:20 GMT"
-    },
-    {
-      "title": "UNHCR: Situasjonen i Midtøsten er en større humanitær nødssituasjon",
-      "link": "https://www.nrk.no/nyheter/unhcr_-situasjonen-i-midtosten-er-en-storre-humanitaer-nodssituasjon-1.17797117",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 09:50:20 GMT"
-    },
-    {
-      "title": "Aserbajdsjan henter hjem diplomater fra Iran",
-      "link": "https://www.nrk.no/nyheter/aserbajdsjan-henter-hjem-diplomater-fra-iran-1.17797114",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 09:45:04 GMT"
-    },
-    {
-      "title": "Sju ukrainere pågrepet i Ungarn - Ukraina ber om løslatelse umiddelbart",
-      "link": "https://www.nrk.no/nyheter/sju-ukrainere-pagrepet-i-ungarn---ukraina-ber-om-loslatelse-umiddelbart-1.17797103",
-      "category": "Ungarn",
-      "pubDate": "Fri, 06 Mar 2026 09:44:46 GMT"
     }
   ]
 }
