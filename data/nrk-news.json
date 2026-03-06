@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-06T16:01:17.002Z",
+  "updatedAt": "2026-03-06T17:06:28.862Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "UD setter opp fly fra Muscat i Oman",
+      "link": "https://www.nrk.no/nyheter/ud-setter-opp-fly-fra-muscat-i-oman-1.17797883",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 06 Mar 2026 17:01:10 GMT"
+    },
+    {
+      "title": "UD: Kartlegger sårbare grupper i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/ud_-kartlegger-sarbare-grupper-i-midtosten-1.17797847",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 16:41:53 GMT"
+    },
     {
       "title": "Flyktninghjelpen: 300.000 internt fordrevne i Libanon",
       "link": "https://www.nrk.no/nyheter/flyktninghjelpen_-300.000-internt-fordrevne-i-libanon-1.17797815",
@@ -15,8 +27,8 @@
       "pubDate": "Fri, 06 Mar 2026 15:39:24 GMT"
     },
     {
-      "title": "Snøskred i Narvik: – Usikkert på om personer er tatt",
-      "link": "https://www.nrk.no/nordland/snoskred-i-narvik_-_-usikkert-pa-om-personer-er-tatt-1.17797791",
+      "title": "Snøskred i Narvik: Én person skal være savnet",
+      "link": "https://www.nrk.no/nordland/snoskred-i-narvik_-en-person-skal-vaere-savnet-1.17797791",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Fri, 06 Mar 2026 15:34:54 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ledere-fra-eu-og-midtosten-skal-ha-iran-mote-1.17797712",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 06 Mar 2026 14:49:34 GMT"
-    },
-    {
-      "title": "KrF inn i Byrådet i Trondheim",
-      "link": "https://www.nrk.no/trondelag/krf-inn-i-byradet-i-trondheim-1.17797649",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 06 Mar 2026 14:42:03 GMT"
-    },
-    {
-      "title": "Nærmer seg åpningsseremoni",
-      "link": "https://www.nrk.no/sport/naermer-seg-apningsseremoni-1.17797718",
-      "category": "Paralympics live 2026",
-      "pubDate": "Fri, 06 Mar 2026 14:41:32 GMT"
     }
   ]
 }
