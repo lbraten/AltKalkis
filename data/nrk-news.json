@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-03-06T06:54:46.071Z",
+  "updatedAt": "2026-03-06T07:40:02.190Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "VG: Aker har evakuert 44 fra Midtøsten",
+      "link": "https://www.nrk.no/nyheter/vg_-aker-har-evakuert-44-fra-midtosten-1.17796811",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 07:31:10 GMT"
+    },
+    {
+      "title": "Flere stengte veier i Finnmark",
+      "link": "https://www.nrk.no/tromsogfinnmark/flere-stengte-veier-i-finnmark-1.17796814",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Fri, 06 Mar 2026 07:13:36 GMT"
+    },
+    {
+      "title": "Statlig byrå: Ambulansepersonell drept i Iran",
+      "link": "https://www.nrk.no/nyheter/statlig-byra_-ambulansepersonell-drept-i-iran-1.17796792",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 07:10:54 GMT"
+    },
+    {
+      "title": "Amerikansk institutt: Krigens første 100 timer kostet 3,7 milliarder dollar",
+      "link": "https://www.nrk.no/nyheter/amerikansk-institutt_-krigens-forste-100-timer-kostet-3_7-milliarder-dollar-1.17796784",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 06 Mar 2026 06:57:08 GMT"
+    },
+    {
       "title": "Ungarn: Vil stanse eksport viktig for Ukraina",
       "link": "https://www.nrk.no/nyheter/ungarn_-vil-stanse-eksport-viktig-for-ukraina-1.17796777",
-      "category": "NRK Nyheter",
+      "category": "Ungarn",
       "pubDate": "Fri, 06 Mar 2026 06:52:03 GMT"
     },
     {
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sor-korea-sier-de-har-diskutert-med-usa-a-flytte-luftvern-til-iran-krigen-1.17796757",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 06 Mar 2026 06:33:12 GMT"
-    },
-    {
-      "title": "Israel sier de har gjennomført 26 angrep mot Beirut i natt",
-      "link": "https://www.nrk.no/nyheter/israel-sier-de-har-gjennomfort-26-angrep-mot-beirut-i-natt-1.17796733",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 06:25:16 GMT"
-    },
-    {
-      "title": "USA tillater begrenset salg av russisk olje",
-      "link": "https://www.nrk.no/nyheter/usa-tillater-begrenset-salg-av-russisk-olje-1.17796727",
-      "category": "Oljeprisen",
-      "pubDate": "Fri, 06 Mar 2026 05:39:18 GMT"
-    },
-    {
-      "title": "Saudi-Arabia: Sier de har skutt ned tre droner over Riyadh",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia_-sier-de-har-skutt-ned-tre-droner-over-riyadh-1.17796721",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 05:27:29 GMT"
-    },
-    {
-      "title": "Unicef: Minst 180 barn drept",
-      "link": "https://www.nrk.no/nyheter/unicef_-minst-180-barn-drept-1.17796718",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 05:22:21 GMT"
     }
   ]
 }
