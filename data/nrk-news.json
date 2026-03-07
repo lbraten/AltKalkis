@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-07T23:25:59.447Z",
+  "updatedAt": "2026-03-07T23:47:03.293Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Røde Kors fremme ved værfaste 17-åringer i Bjørnafjorden",
+      "link": "https://www.nrk.no/nyheter/rode-kors-fremme-ved-vaerfaste-17-aringer-i-bjornafjorden--1.17799087",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 07 Mar 2026 23:37:50 GMT"
+    },
     {
       "title": "Trump gir Iran skylden for angrep på jenteskole",
       "link": "https://www.nrk.no/nyheter/trump-gir-iran-skylden-for-angrep-pa-jenteskole-1.17799085",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/julie-bergan-gratulerer-etter-at-_norsk_-sang-vant-melodifestivalen-i-sverige-1.17799077",
       "category": "MGP og Eurovision Song Contest 2026",
       "pubDate": "Sat, 07 Mar 2026 22:41:56 GMT"
-    },
-    {
-      "title": "Frontulykke i Ås: – Fremstår alvorlig",
-      "link": "https://www.nrk.no/nyheter/frontulykke-i-as_-_-fremstar-alvorlig-1.17799059",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 07 Mar 2026 22:31:41 GMT"
     }
   ]
 }
