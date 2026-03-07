@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-03-07T21:44:34.716Z",
+  "updatedAt": "2026-03-07T22:26:32.266Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Sterke anklager mot dansk luksusrestaurant i amerikansk storavis",
-      "link": "https://www.nrk.no/nyheter/sterke-anklager-mot-dansk-luksusrestaurant-i-amerikansk-storavis-1.17799050",
+      "title": "Drone har truffet FN-bygning i Irak",
+      "link": "https://www.nrk.no/nyheter/drone-har-truffet-fn-bygning-i-irak-1.17799058",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 21:59:01 GMT"
+    },
+    {
+      "title": "Kuwait og Emiratene kunngjør produksjonskutt",
+      "link": "https://www.nrk.no/nyheter/kuwait-og-emiratene-kunngjor-produksjonskutt-1.17799053",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 21:55:44 GMT"
+    },
+    {
+      "title": "Sterke anklager mot den danske luksusrestauranten Noma",
+      "link": "https://www.nrk.no/nyheter/sterke-anklager-mot-den-danske-luksusrestauranten-noma-1.17799050",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 07 Mar 2026 21:41:30 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kongen-har-landet-pa-gardermoen-1.17798968",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 07 Mar 2026 20:51:17 GMT"
-    },
-    {
-      "title": "Jørn Eggum slutter i Fellesforbundet",
-      "link": "https://www.nrk.no/nyheter/jorn-eggum-slutter-i-fellesforbundet-1.17798992",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 07 Mar 2026 20:01:27 GMT"
-    },
-    {
-      "title": "Trump til stede mens døde soldater kommer hjem",
-      "link": "https://www.nrk.no/nyheter/trump-til-stede-mens-dode-soldater-kommer-hjem-1.17798967",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 19:25:20 GMT"
     }
   ]
 }
