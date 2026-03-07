@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-07T04:11:18.820Z",
+  "updatedAt": "2026-03-07T05:22:03.971Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Meldinger om eksplosjoner i Gulf-regionen",
+      "link": "https://www.nrk.no/nyheter/meldinger-om-eksplosjoner-i-gulf-regionen-1.17798209",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 04:21:53 GMT"
+    },
     {
       "title": "Tusenvis av sjøfolk strandet på grunn av Iran-krigen",
       "link": "https://www.nrk.no/nyheter/tusenvis-av-sjofolk-strandet-pa-grunn-av-iran-krigen-1.17798202",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/venezuelas-inflasjon-endte-pa-475-prosent-i-fjor-1.17798188",
       "category": "Venezuela",
       "pubDate": "Sat, 07 Mar 2026 01:43:32 GMT"
-    },
-    {
-      "title": "Teherans Mehrabad flyplass i brann",
-      "link": "https://www.nrk.no/nyheter/teherans-mehrabad-flyplass-i-brann-1.17798186",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 01:14:19 GMT"
     }
   ]
 }
