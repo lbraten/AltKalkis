@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-03-07T19:44:11.879Z",
+  "updatedAt": "2026-03-07T20:29:00.490Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trump deltar i overføring av døde soldater",
-      "link": "https://www.nrk.no/nyheter/trump-deltar-i-overforing-av-dode-soldater-1.17798967",
+      "title": "VG: Jørn Eggum slutter i Fellesforbundet",
+      "link": "https://www.nrk.no/nyheter/vg_-jorn-eggum-slutter-i-fellesforbundet-1.17798992",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 07 Mar 2026 20:01:27 GMT"
+    },
+    {
+      "title": "Trump til stede mens døde soldater kommer hjem",
+      "link": "https://www.nrk.no/nyheter/trump-til-stede-mens-dode-soldater-kommer-hjem-1.17798967",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 07 Mar 2026 19:25:20 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/reuters_-iran-skal-velge-ny-leder-innen-ett-dogn_-ifolge-iransk-media-1.17798782",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 07 Mar 2026 16:05:57 GMT"
-    },
-    {
-      "title": "Trump: Cuba faller snart",
-      "link": "https://www.nrk.no/nyheter/trump_-cuba-faller-snart-1.17798691",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 07 Mar 2026 15:50:37 GMT"
     }
   ]
 }
