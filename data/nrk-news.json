@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-07T19:24:13.798Z",
+  "updatedAt": "2026-03-07T19:44:11.879Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump deltar i overføring av døde soldater",
+      "link": "https://www.nrk.no/nyheter/trump-deltar-i-overforing-av-dode-soldater-1.17798967",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 19:25:20 GMT"
+    },
     {
       "title": "Dubai: Person drept av fallende vrakrester, ifølge myndighetene",
       "link": "https://www.nrk.no/nyheter/dubai_-person-drept-av-fallende-vrakrester_-ifolge-myndighetene-1.17798891",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-cuba-faller-snart-1.17798691",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 07 Mar 2026 15:50:37 GMT"
-    },
-    {
-      "title": "Melding om røykutvikling fra fjøs i Namsos",
-      "link": "https://www.nrk.no/trondelag/melding-om-roykutvikling-fra-fjos-i-namsos-1.17798640",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 07 Mar 2026 15:44:46 GMT"
     }
   ]
 }
