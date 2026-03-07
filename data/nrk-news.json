@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-07T12:52:45.107Z",
+  "updatedAt": "2026-03-07T13:40:06.477Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Britisk barnedrapsmann drept i fengsel",
+      "link": "https://www.nrk.no/nyheter/britisk-barnedrapsmann-drept-i-fengsel-1.17798580",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 07 Mar 2026 13:25:12 GMT"
+    },
+    {
+      "title": "T-banen kjører igjen i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/t-banen-kjorer-igjen-i-oslo-1.17798579",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 07 Mar 2026 13:20:51 GMT"
+    },
     {
       "title": "TUI flyr hjem strandede nordmenn fra Maldivene",
       "link": "https://www.nrk.no/nyheter/tui-flyr-hjem-strandede-nordmenn-fra-maldivene-1.17798562",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon_-minst-41-drept-og-40-skadd-i-israelske-angrep--1.17798544",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 07 Mar 2026 12:29:49 GMT"
-    },
-    {
-      "title": "UD: Plass til flere nordmenn på fly fra Oman søndag",
-      "link": "https://www.nrk.no/nyheter/ud_-plass-til-flere-nordmenn-pa-fly-fra-oman-sondag-1.17798475",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 07 Mar 2026 12:15:23 GMT"
-    },
-    {
-      "title": "Røykutvikling på Tøyen T-banestasjon: Alle baner innstilt",
-      "link": "https://www.nrk.no/stor-oslo/roykutvikling-pa-toyen-t-banestasjon_-alle-baner-innstilt-1.17798454",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 07 Mar 2026 11:47:28 GMT"
     }
   ]
 }
