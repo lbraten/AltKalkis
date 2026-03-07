@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-06T23:53:07.611Z",
+  "updatedAt": "2026-03-07T02:07:26.659Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Brann i amerikanske selskap etter droneangrep i Irak",
-      "link": "https://www.nrk.no/nyheter/brann-i-amerikanske-selskap-etter-droneangrep-i-irak-1.17798155",
+      "title": "Mann pågrepet da ungdommer «lekte ring og stikk»",
+      "link": "https://www.nrk.no/nyheter/mann-pagrepet-da-ungdommer-_lekte-ring-og-stikk_-1.17798191",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 07 Mar 2026 01:52:09 GMT"
+    },
+    {
+      "title": "Venezuelas inflasjon endte på 475 prosent i fjor",
+      "link": "https://www.nrk.no/nyheter/venezuelas-inflasjon-endte-pa-475-prosent-i-fjor-1.17798188",
+      "category": "Venezuela",
+      "pubDate": "Sat, 07 Mar 2026 01:43:32 GMT"
+    },
+    {
+      "title": "Teherans Mehrabad flyplass i brann",
+      "link": "https://www.nrk.no/nyheter/teherans-mehrabad-flyplass-i-brann-1.17798186",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 23:13:44 GMT"
+      "pubDate": "Sat, 07 Mar 2026 01:14:19 GMT"
     },
     {
-      "title": "IDF starter en ny bølge med angrep mot Teheran i natt",
-      "link": "https://www.nrk.no/nyheter/idf-starter-en-ny-bolge-med-angrep-mot-teheran-i-natt-1.17798151",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 22:36:03 GMT"
+      "title": "Høyblokk truffet av russiske raketter i Ukraina",
+      "link": "https://www.nrk.no/nyheter/hoyblokk-truffet-av-russiske-raketter-i-ukraina--1.17798183",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 07 Mar 2026 00:17:01 GMT"
     },
     {
-      "title": "Putin har snakket med Irans statsminister på telefon fredag",
-      "link": "https://www.nrk.no/nyheter/putin-har-snakket-med-irans-statsminister-pa-telefon-fredag--1.17798146",
-      "category": "Russland",
-      "pubDate": "Fri, 06 Mar 2026 22:28:57 GMT"
+      "title": "En person er kritisk skadd etter voldshendelse i Elverum",
+      "link": "https://www.nrk.no/nyheter/en-person-er-kritisk-skadd-etter-voldshendelse-i-elverum-1.17798182",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 06 Mar 2026 23:58:50 GMT"
     },
     {
-      "title": "Iran advarer Europa mot å bli involvert i krigen",
-      "link": "https://www.nrk.no/nyheter/iran-advarer-europa-mot-a-bli-involvert-i-krigen-1.17798143",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 06 Mar 2026 22:16:05 GMT"
-    },
-    {
-      "title": "Sverige vil sende helsepersonell til Midtøsten",
-      "link": "https://www.nrk.no/nyheter/sverige-vil-sende-helsepersonell-til-midtosten-1.17798142",
-      "category": "Sverige",
-      "pubDate": "Fri, 06 Mar 2026 22:05:09 GMT"
-    },
-    {
-      "title": "Trump vil endre fotballkostnadene ved høyskolene i USA",
-      "link": "https://www.nrk.no/nyheter/trump-vil-endre-fotballkostnadene-ved-hoyskolene-i-usa-1.17798132",
+      "title": "WSJ: USA etterforsker cyberangrep mot FBI-nettverk",
+      "link": "https://www.nrk.no/nyheter/wsj_-usa-etterforsker-cyberangrep-mot-fbi-nettverk-1.17798179",
       "category": "USA",
-      "pubDate": "Fri, 06 Mar 2026 22:00:01 GMT"
+      "pubDate": "Fri, 06 Mar 2026 23:57:15 GMT"
     }
   ]
 }
