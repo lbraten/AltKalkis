@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-07T10:50:52.882Z",
+  "updatedAt": "2026-03-07T11:22:21.289Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump varsler nye, store angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/trump-varsler-nye_-store-angrep-mot-iran--1.17798225",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 11:18:13 GMT"
+    },
+    {
+      "title": "All opposisjon forbudt i Guinea",
+      "link": "https://www.nrk.no/nyheter/all-opposisjon-forbudt-i-guinea-1.17798421",
+      "category": "Guinea",
+      "pubDate": "Sat, 07 Mar 2026 11:14:49 GMT"
+    },
     {
       "title": "Store eksplosjoner hørt flere steder i Iran",
       "link": "https://www.nrk.no/nyheter/store-eksplosjoner-hort-flere-steder-i-iran-1.17798337",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/christian-borchs-illebefinnende-pa-tv-2-_-akutt-allergisk-reaksjon--1.17798293",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 07 Mar 2026 08:42:02 GMT"
-    },
-    {
-      "title": "Betydelig snøskredfare i Hallingdal",
-      "link": "https://www.nrk.no/buskerud/betydelig-snoskredfare-i-hallingdal-1.17798292",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 07 Mar 2026 08:39:47 GMT"
-    },
-    {
-      "title": "Irans president beklager til nabolandene",
-      "link": "https://www.nrk.no/nyheter/irans-president-beklager-til-nabolandene-1.17798286",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 08:07:06 GMT"
     }
   ]
 }
