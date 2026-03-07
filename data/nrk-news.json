@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-07T22:50:11.831Z",
+  "updatedAt": "2026-03-07T23:25:59.447Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump gir Iran skylden for angrep på jenteskole",
+      "link": "https://www.nrk.no/nyheter/trump-gir-iran-skylden-for-angrep-pa-jenteskole-1.17799085",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 23:06:56 GMT"
+    },
+    {
+      "title": "Saudi-Arabia har stoppet droner",
+      "link": "https://www.nrk.no/nyheter/saudi-arabia-har-stoppet-droner--1.17799082",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 23:03:54 GMT"
+    },
+    {
+      "title": "Libanesiske myndigheter: Åtte drept i israelske angrep",
+      "link": "https://www.nrk.no/nyheter/libanesiske-myndigheter_-atte-drept-i-israelske-angrep-1.17799081",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 22:58:04 GMT"
+    },
+    {
+      "title": "USA tilbakeviser påstander fra Iran om at amerikanere er tatt til fange",
+      "link": "https://www.nrk.no/nyheter/usa-tilbakeviser-pastander-fra-iran-om-at-amerikanere-er-tatt-til-fange-1.17799079",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 22:51:37 GMT"
+    },
     {
       "title": "Julie Bergan gratulerer etter at «norsk» sang vant Melodifestivalen i Sverige",
       "link": "https://www.nrk.no/nyheter/julie-bergan-gratulerer-etter-at-_norsk_-sang-vant-melodifestivalen-i-sverige-1.17799077",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/frontulykke-i-as_-_-fremstar-alvorlig-1.17799059",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 07 Mar 2026 22:31:41 GMT"
-    },
-    {
-      "title": "Drone har truffet FN-bygning i Irak",
-      "link": "https://www.nrk.no/nyheter/drone-har-truffet-fn-bygning-i-irak-1.17799058",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 21:59:01 GMT"
-    },
-    {
-      "title": "Kuwait og Emiratene kunngjør produksjonskutt",
-      "link": "https://www.nrk.no/nyheter/kuwait-og-emiratene-kunngjor-produksjonskutt-1.17799053",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 21:55:44 GMT"
-    },
-    {
-      "title": "Sterke anklager mot den danske luksusrestauranten Noma",
-      "link": "https://www.nrk.no/nyheter/sterke-anklager-mot-den-danske-luksusrestauranten-noma-1.17799050",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 07 Mar 2026 21:41:30 GMT"
-    },
-    {
-      "title": "Trump med surt hangarskip-stikk til Starmer",
-      "link": "https://www.nrk.no/nyheter/trump-med-surt-hangarskip-stikk-til-starmer-1.17799045",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 21:28:40 GMT"
     }
   ]
 }
