@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-07T20:51:45.978Z",
+  "updatedAt": "2026-03-07T21:24:17.322Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Felicia Eriksson vann Melodifestivalen i Sverige",
+      "link": "https://www.nrk.no/nyheter/felicia-eriksson-vann-melodifestivalen-i-sverige-1.17799039",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Sat, 07 Mar 2026 21:05:32 GMT"
+    },
+    {
+      "title": "Kongen har landet på Gardermoen",
+      "link": "https://www.nrk.no/nyheter/kongen-har-landet-pa-gardermoen-1.17798968",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 07 Mar 2026 20:51:17 GMT"
+    },
     {
       "title": "Jørn Eggum slutter i Fellesforbundet",
       "link": "https://www.nrk.no/nyheter/jorn-eggum-slutter-i-fellesforbundet-1.17798992",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/redningsaksjon-i-bjornafjorden_-17-aringer-sitter-vaerfast-1.17798864",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 07 Mar 2026 18:32:26 GMT"
-    },
-    {
-      "title": "Medier: Flere skadet i eksplosjon i Peru",
-      "link": "https://www.nrk.no/nyheter/medier_-flere-skadet-i-eksplosjon-i-peru-1.17798800",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 07 Mar 2026 17:51:59 GMT"
-    },
-    {
-      "title": "Reuters: Iran skal velge ny leder innen ett døgn, ifølge iransk media",
-      "link": "https://www.nrk.no/nyheter/reuters_-iran-skal-velge-ny-leder-innen-ett-dogn_-ifolge-iransk-media-1.17798782",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 16:05:57 GMT"
     }
   ]
 }
