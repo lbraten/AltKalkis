@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-07T22:26:32.266Z",
+  "updatedAt": "2026-03-07T22:50:11.831Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Julie Bergan gratulerer etter at «norsk» sang vant Melodifestivalen i Sverige",
+      "link": "https://www.nrk.no/nyheter/julie-bergan-gratulerer-etter-at-_norsk_-sang-vant-melodifestivalen-i-sverige-1.17799077",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Sat, 07 Mar 2026 22:41:56 GMT"
+    },
+    {
+      "title": "Frontulykke i Ås: – Fremstår alvorlig",
+      "link": "https://www.nrk.no/nyheter/frontulykke-i-as_-_-fremstar-alvorlig-1.17799059",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 07 Mar 2026 22:31:41 GMT"
+    },
     {
       "title": "Drone har truffet FN-bygning i Irak",
       "link": "https://www.nrk.no/nyheter/drone-har-truffet-fn-bygning-i-irak-1.17799058",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-med-surt-hangarskip-stikk-til-starmer-1.17799045",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 07 Mar 2026 21:28:40 GMT"
-    },
-    {
-      "title": "Felicia Eriksson vann Melodifestivalen i Sverige",
-      "link": "https://www.nrk.no/nyheter/felicia-eriksson-vann-melodifestivalen-i-sverige-1.17799039",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Sat, 07 Mar 2026 21:05:32 GMT"
-    },
-    {
-      "title": "Kongen har landet på Gardermoen",
-      "link": "https://www.nrk.no/nyheter/kongen-har-landet-pa-gardermoen-1.17798968",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 07 Mar 2026 20:51:17 GMT"
     }
   ]
 }
