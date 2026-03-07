@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-07T21:24:17.322Z",
+  "updatedAt": "2026-03-07T21:44:34.716Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sterke anklager mot dansk luksusrestaurant i amerikansk storavis",
+      "link": "https://www.nrk.no/nyheter/sterke-anklager-mot-dansk-luksusrestaurant-i-amerikansk-storavis-1.17799050",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 07 Mar 2026 21:41:30 GMT"
+    },
+    {
+      "title": "Trump med surt hangarskip-stikk til Starmer",
+      "link": "https://www.nrk.no/nyheter/trump-med-surt-hangarskip-stikk-til-starmer-1.17799045",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 21:28:40 GMT"
+    },
     {
       "title": "Felicia Eriksson vann Melodifestivalen i Sverige",
       "link": "https://www.nrk.no/nyheter/felicia-eriksson-vann-melodifestivalen-i-sverige-1.17799039",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-til-stede-mens-dode-soldater-kommer-hjem-1.17798967",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 07 Mar 2026 19:25:20 GMT"
-    },
-    {
-      "title": "Dubai: Person drept av fallende vrakrester, ifølge myndighetene",
-      "link": "https://www.nrk.no/nyheter/dubai_-person-drept-av-fallende-vrakrester_-ifolge-myndighetene-1.17798891",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 18:47:49 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Bjørnafjorden: 17-åringer sitter værfast",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-i-bjornafjorden_-17-aringer-sitter-vaerfast-1.17798864",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 07 Mar 2026 18:32:26 GMT"
     }
   ]
 }
