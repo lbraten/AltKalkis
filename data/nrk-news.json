@@ -1,12 +1,18 @@
 {
-  "updatedAt": "2026-03-07T07:31:29.798Z",
+  "updatedAt": "2026-03-07T08:34:56.654Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Emirates stanser flyvninger",
-      "link": "https://www.nrk.no/nyheter/emirates-stanser-flyvninger-1.17798222",
+      "title": "Irans president beklager til nabolandene",
+      "link": "https://www.nrk.no/nyheter/irans-president-beklager-til-nabolandene-1.17798286",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 07:25:25 GMT"
+      "pubDate": "Sat, 07 Mar 2026 08:07:06 GMT"
+    },
+    {
+      "title": "Minst 16 drept i nye israelske angrep mot Libanon",
+      "link": "https://www.nrk.no/nyheter/minst-16-drept-i-nye-israelske-angrep-mot-libanon-1.17798252",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 08:00:26 GMT"
     },
     {
       "title": "Meldinger om eksplosjoner rundt Persiabukta",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-i-20-arene-knivstukket--1.17798196",
       "category": "Krim og hendingar i Vestland",
       "pubDate": "Sat, 07 Mar 2026 02:56:53 GMT"
-    },
-    {
-      "title": "Mann pågrepet da ungdommer «lekte ring og stikk»",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-da-ungdommer-_lekte-ring-og-stikk_-1.17798191",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 07 Mar 2026 01:52:09 GMT"
     }
   ]
 }
