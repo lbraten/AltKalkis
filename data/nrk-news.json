@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-07T02:07:26.659Z",
+  "updatedAt": "2026-03-07T04:11:18.820Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tusenvis av sjøfolk strandet på grunn av Iran-krigen",
+      "link": "https://www.nrk.no/nyheter/tusenvis-av-sjofolk-strandet-pa-grunn-av-iran-krigen-1.17798202",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 04:10:55 GMT"
+    },
+    {
+      "title": "Hizbollah og Israel i konflikt ved grensen til Libanon",
+      "link": "https://www.nrk.no/nyheter/hizbollah-og-israel--i-konflikt-ved-grensen-til-libanon-1.17798192",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 04:03:49 GMT"
+    },
+    {
+      "title": "Mann i 20-årene knivstukket",
+      "link": "https://www.nrk.no/nyheter/mann-i-20-arene-knivstukket--1.17798196",
+      "category": "Krim og hendingar i Vestland",
+      "pubDate": "Sat, 07 Mar 2026 02:56:53 GMT"
+    },
     {
       "title": "Mann pågrepet da ungdommer «lekte ring og stikk»",
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-da-ungdommer-_lekte-ring-og-stikk_-1.17798191",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/teherans-mehrabad-flyplass-i-brann-1.17798186",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 07 Mar 2026 01:14:19 GMT"
-    },
-    {
-      "title": "Høyblokk truffet av russiske raketter i Ukraina",
-      "link": "https://www.nrk.no/nyheter/hoyblokk-truffet-av-russiske-raketter-i-ukraina--1.17798183",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 07 Mar 2026 00:17:01 GMT"
-    },
-    {
-      "title": "En person er kritisk skadd etter voldshendelse i Elverum",
-      "link": "https://www.nrk.no/nyheter/en-person-er-kritisk-skadd-etter-voldshendelse-i-elverum-1.17798182",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 06 Mar 2026 23:58:50 GMT"
-    },
-    {
-      "title": "WSJ: USA etterforsker cyberangrep mot FBI-nettverk",
-      "link": "https://www.nrk.no/nyheter/wsj_-usa-etterforsker-cyberangrep-mot-fbi-nettverk-1.17798179",
-      "category": "USA",
-      "pubDate": "Fri, 06 Mar 2026 23:57:15 GMT"
     }
   ]
 }
