@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-07T06:55:23.395Z",
+  "updatedAt": "2026-03-07T07:31:29.798Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Emirates stanser flyvninger",
+      "link": "https://www.nrk.no/nyheter/emirates-stanser-flyvninger-1.17798222",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 07:25:25 GMT"
+    },
     {
       "title": "Meldinger om eksplosjoner rundt Persiabukta",
       "link": "https://www.nrk.no/nyheter/meldinger-om-eksplosjoner-rundt-persiabukta--1.17798209",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-da-ungdommer-_lekte-ring-og-stikk_-1.17798191",
       "category": "Nyheter fra Agder",
       "pubDate": "Sat, 07 Mar 2026 01:52:09 GMT"
-    },
-    {
-      "title": "Venezuelas inflasjon endte på 475 prosent i fjor",
-      "link": "https://www.nrk.no/nyheter/venezuelas-inflasjon-endte-pa-475-prosent-i-fjor-1.17798188",
-      "category": "Venezuela",
-      "pubDate": "Sat, 07 Mar 2026 01:43:32 GMT"
     }
   ]
 }
