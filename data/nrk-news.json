@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-03-07T18:37:28.685Z",
+  "updatedAt": "2026-03-07T19:24:13.798Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Redningsaksjon i Os",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-i-os-1.17798864",
+      "title": "Dubai: Person drept av fallende vrakrester, ifølge myndighetene",
+      "link": "https://www.nrk.no/nyheter/dubai_-person-drept-av-fallende-vrakrester_-ifolge-myndighetene-1.17798891",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 18:47:49 GMT"
+    },
+    {
+      "title": "Redningsaksjon i Bjørnafjorden: 17-åringer sitter værfast",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-i-bjornafjorden_-17-aringer-sitter-vaerfast-1.17798864",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 07 Mar 2026 18:32:26 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/trondelag/melding-om-roykutvikling-fra-fjos-i-namsos-1.17798640",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sat, 07 Mar 2026 15:44:46 GMT"
-    },
-    {
-      "title": "Kamel foran slottet i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/kamel-foran-slottet-i-oslo-1.17798627",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 07 Mar 2026 14:50:29 GMT"
     }
   ]
 }
