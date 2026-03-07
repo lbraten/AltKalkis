@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-07T14:26:53.306Z",
+  "updatedAt": "2026-03-07T14:51:03.354Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kongeparet returnerer til Norge i dag",
+      "link": "https://www.nrk.no/nyheter/kongeparet-returnerer-til-norge-i-dag-1.17798641",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 07 Mar 2026 14:25:26 GMT"
+    },
     {
       "title": "Britisk barnedrapsmann drept i fengsel",
       "link": "https://www.nrk.no/nyheter/britisk-barnedrapsmann-drept-i-fengsel-1.17798580",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kenya_-minst-23-dode-pa-grunn-av-ekstrem-nedbor-1.17798555",
       "category": "Kenya",
       "pubDate": "Sat, 07 Mar 2026 12:35:01 GMT"
-    },
-    {
-      "title": "Libanon: Minst 41 drept og 40 skadd i israelske angrep",
-      "link": "https://www.nrk.no/nyheter/libanon_-minst-41-drept-og-40-skadd-i-israelske-angrep--1.17798544",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 12:29:49 GMT"
     }
   ]
 }
