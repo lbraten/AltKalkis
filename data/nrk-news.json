@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-07T09:31:42.762Z",
+  "updatedAt": "2026-03-07T10:27:02.434Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Store eksplosjoner hørt flere steder i Iran",
+      "link": "https://www.nrk.no/nyheter/store-eksplosjoner-hort-flere-steder-i-iran-1.17798337",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 10:17:56 GMT"
+    },
     {
       "title": "Dubais internasjonale flyplasser delvis åpnet igjen",
       "link": "https://www.nrk.no/nyheter/dubais-internasjonale-flyplasser-delvis-apnet-igjen-1.17798317",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/irans-president-beklager-til-nabolandene-1.17798286",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 07 Mar 2026 08:07:06 GMT"
-    },
-    {
-      "title": "Minst 16 drept i nye israelske angrep mot Libanon",
-      "link": "https://www.nrk.no/nyheter/minst-16-drept-i-nye-israelske-angrep-mot-libanon-1.17798252",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 08:00:26 GMT"
     }
   ]
 }
