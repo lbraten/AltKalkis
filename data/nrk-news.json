@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T05:29:23.808Z",
+  "updatedAt": "2026-03-08T06:05:48.077Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig ulykke i Bamble – tre av fire kritisk skadd",
+      "link": "https://www.nrk.no/nyheter/alvorlig-ulykke-i-bamble-_-tre-av-fire-kritisk-skadd-1.17799118",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 08 Mar 2026 05:36:27 GMT"
+    },
     {
       "title": "USA har gitt Russland beskjed om å ikke dele informasjon med Iran",
       "link": "https://www.nrk.no/nyheter/usa-har-gitt-russland-beskjed-om-a-ikke-dele-informasjon-med-iran-1.17799117",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/luftvernsirenene-gikk-i-nord-israel-1.17799110",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 04:55:38 GMT"
-    },
-    {
-      "title": "Libanon: Fire drept i israelske angrep mot Beirut",
-      "link": "https://www.nrk.no/nyheter/libanon_-fire-drept-i-israelske-angrep-mot-beirut-1.17799109",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 04:47:07 GMT"
     }
   ]
 }
