@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T17:25:39.831Z",
+  "updatedAt": "2026-03-08T17:49:03.828Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Libanon: Over 500.000 drevet på flukt",
+      "link": "https://www.nrk.no/nyheter/libanon_-over-500.000-drevet-pa-flukt-1.17799771",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 17:28:02 GMT"
+    },
     {
       "title": "Iran: Minst 104 ble drept i angrep på fregatt",
       "link": "https://www.nrk.no/nyheter/iran_-minst-104-ble-drept-i-angrep-pa-fregatt-1.17799766",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iraks-oljeproduksjon-kraftig-ned-1.17799663",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 15:41:56 GMT"
-    },
-    {
-      "title": "PST endrer ikke terrortrusselnivå",
-      "link": "https://www.nrk.no/nyheter/pst-endrer-ikke-terrortrusselniva-1.17799643",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Sun, 08 Mar 2026 15:20:32 GMT"
     }
   ]
 }
