@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-08T18:37:54.353Z",
+  "updatedAt": "2026-03-08T19:25:36.446Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dagbladet: Politiet har videoopptak av gjerningsmannen",
+      "link": "https://www.nrk.no/nyheter/dagbladet_-politiet-har-videoopptak-av-gjerningsmannen-1.17799813",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Sun, 08 Mar 2026 19:00:57 GMT"
+    },
+    {
+      "title": "Sveits avviste klimafond i folkeavstemning",
+      "link": "https://www.nrk.no/nyheter/sveits-avviste-klimafond-i-folkeavstemning-1.17799808",
+      "category": "Sveits",
+      "pubDate": "Sun, 08 Mar 2026 18:49:40 GMT"
+    },
+    {
+      "title": "Avicii-managers søksmål avvist",
+      "link": "https://www.nrk.no/nyheter/avicii-managers-soksmal-avvist-1.17799807",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 08 Mar 2026 18:41:31 GMT"
+    },
     {
       "title": "Macron i samtaler med Trump og Irans president",
       "link": "https://www.nrk.no/nyheter/macron-i-samtaler-med-trump-og-irans-president-1.17799803",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon_-over-500.000-drevet-pa-flukt-1.17799771",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 17:28:02 GMT"
-    },
-    {
-      "title": "Iran: Minst 104 ble drept i angrep på fregatt",
-      "link": "https://www.nrk.no/nyheter/iran_-minst-104-ble-drept-i-angrep-pa-fregatt-1.17799766",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 17:22:07 GMT"
-    },
-    {
-      "title": "Mot seier til De grønne i tysk delstatsvalg",
-      "link": "https://www.nrk.no/nyheter/mot-seier-til-de-gronne-i-tysk-delstatsvalg-1.17799708",
-      "category": "Tyskland",
-      "pubDate": "Sun, 08 Mar 2026 17:16:23 GMT"
-    },
-    {
-      "title": "Reuters: To drept i boligområde i Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/reuters_-to-drept-i-boligomrade-i-saudi-arabia-1.17799685",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 16:06:19 GMT"
     }
   ]
 }
