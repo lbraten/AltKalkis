@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-08T09:32:25.056Z",
+  "updatedAt": "2026-03-08T10:28:21.275Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Irans ekspertråd har kommet fram til en ny øverste leder",
+      "link": "https://www.nrk.no/nyheter/irans-ekspertrad-har-kommet-fram-til-en-ny-overste-leder-1.17799327",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 09:55:17 GMT"
+    },
+    {
+      "title": "Flom i Nord-Australia – «krokodiller overalt»",
+      "link": "https://www.nrk.no/nyheter/flom-i-nord-australia-_-_krokodiller-overalt_-1.17799324",
+      "category": "Australia",
+      "pubDate": "Sun, 08 Mar 2026 09:52:07 GMT"
+    },
+    {
+      "title": "Eksplosjonen ved USAs ambassade – pressekonferanse klokken 12",
+      "link": "https://www.nrk.no/nyheter/eksplosjonen-ved-usas-ambassade-_-pressekonferanse-klokken-12-1.17799318",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Sun, 08 Mar 2026 09:48:48 GMT"
+    },
+    {
+      "title": "Kun 65 prosent av barnehagene oppfyller bemanningskrav",
+      "link": "https://www.nrk.no/nyheter/kun-65-prosent-av-barnehagene-oppfyller-bemanningskrav-1.17799261",
+      "category": "Barnehager og SFO",
+      "pubDate": "Sun, 08 Mar 2026 09:44:54 GMT"
+    },
     {
       "title": "UD bekrefter: Vært i kontakt med USAs ambassade etter eksplosjon",
       "link": "https://www.nrk.no/nyheter/ud-bekrefter_-vaert-i-kontakt-med-usas-ambassade-etter-eksplosjon-1.17799253",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/-ud-fly-til-midtosten-er-i-rute-_-skal-ankomme-oslo-sondag-kveld-1.17799242",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 08:39:30 GMT"
-    },
-    {
-      "title": "Minst 33 drept i droneangrep i Sudan",
-      "link": "https://www.nrk.no/nyheter/minst-33-drept-i-droneangrep-i-sudan-1.17799178",
-      "category": "Sudan",
-      "pubDate": "Sun, 08 Mar 2026 08:33:27 GMT"
-    },
-    {
-      "title": "Stenger idrettshall etter ambassade-eksplosjon",
-      "link": "https://www.nrk.no/stor-oslo/stenger-idrettshall-etter-ambassade-eksplosjon-1.17799141",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 08 Mar 2026 08:09:03 GMT"
-    },
-    {
-      "title": "Færre kvinner får hjerte- og lungeredning på grunn av puppene",
-      "link": "https://www.nrk.no/nyheter/faerre-kvinner-far-hjerte--og-lungeredning-pa-grunn-av-puppene-1.17799133",
-      "category": "Helse og livsstil",
-      "pubDate": "Sun, 08 Mar 2026 07:33:56 GMT"
-    },
-    {
-      "title": "Justisministeren om eksplosjonen på USAs ambassade: – En uakseptabel hendelse",
-      "link": "https://www.nrk.no/nyheter/justisministeren-om-eksplosjonen-pa-usas-ambassade_-_-en-uakseptabel-hendelse-1.17799125",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 08 Mar 2026 06:37:21 GMT"
     }
   ]
 }
