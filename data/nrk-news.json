@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T12:54:26.984Z",
+  "updatedAt": "2026-03-08T13:41:36.351Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Regjeringen satser 90 millioner på kvinnehelse",
+      "link": "https://www.nrk.no/nyheter/regjeringen-satser-90-millioner-pa-kvinnehelse-1.17799517",
+      "category": "Kvinnehelse",
+      "pubDate": "Sun, 08 Mar 2026 13:35:40 GMT"
+    },
     {
       "title": "UD-fly har tatt av fra Oman – på vei mot Norge",
       "link": "https://www.nrk.no/nyheter/ud-fly-har-tatt-av-fra-oman-_-pa-vei-mot-norge-1.17799472",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flom-i-nord-australia-_-_krokodiller-overalt_-1.17799324",
       "category": "Australia",
       "pubDate": "Sun, 08 Mar 2026 09:52:07 GMT"
-    },
-    {
-      "title": "Eksplosjonen ved USAs ambassade – pressekonferanse klokken 12",
-      "link": "https://www.nrk.no/nyheter/eksplosjonen-ved-usas-ambassade-_-pressekonferanse-klokken-12-1.17799318",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Sun, 08 Mar 2026 09:48:48 GMT"
     }
   ]
 }
