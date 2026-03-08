@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-03-08T21:48:35.546Z",
+  "updatedAt": "2026-03-08T22:27:17.324Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Mojtaba Khamenei offisielt klar som ny leder i Iran",
-      "link": "https://www.nrk.no/nyheter/mojtaba-khamenei-offisielt-klar-som-ny-leder-i-iran--1.17799926",
+      "title": "Arve Tellefsen har holdt sin siste konsert",
+      "link": "https://www.nrk.no/nyheter/arve-tellefsen-har-holdt-sin-siste-konsert--1.17799927",
+      "category": "Musikk",
+      "pubDate": "Sun, 08 Mar 2026 22:12:27 GMT"
+    },
+    {
+      "title": "Mojtaba Khamenei offisielt utpekt som ny leder i Iran",
+      "link": "https://www.nrk.no/nyheter/mojtaba-khamenei-offisielt-utpekt-som-ny-leder-i-iran--1.17799926",
       "category": "Iran",
       "pubDate": "Sun, 08 Mar 2026 21:15:55 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dagbladet_-politiet-har-videoopptak-fra-usas-ambassade-1.17799813",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Sun, 08 Mar 2026 19:00:57 GMT"
-    },
-    {
-      "title": "Sveits avviste klimafond i folkeavstemning",
-      "link": "https://www.nrk.no/nyheter/sveits-avviste-klimafond-i-folkeavstemning-1.17799808",
-      "category": "Sveits",
-      "pubDate": "Sun, 08 Mar 2026 18:49:40 GMT"
     }
   ]
 }
