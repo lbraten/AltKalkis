@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T10:52:58.139Z",
+  "updatedAt": "2026-03-08T11:23:24.239Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet om eksplosjonen ved USAs ambassade",
+      "link": "https://www.nrk.no/nyheter/politiet-om-eksplosjonen-ved-usas-ambassade-1.17799332",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Sun, 08 Mar 2026 11:03:24 GMT"
+    },
     {
       "title": "Irans ekspertråd har kommet fram til en ny øverste leder",
       "link": "https://www.nrk.no/nyheter/irans-ekspertrad-har-kommet-fram-til-en-ny-overste-leder-1.17799327",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ud-bekrefter_-vaert-i-kontakt-med-usas-ambassade-etter-eksplosjon-1.17799253",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 08 Mar 2026 08:49:44 GMT"
-    },
-    {
-      "title": "UD-fly til Midtøsten er i rute – skal ankomme Oslo søndag kveld",
-      "link": "https://www.nrk.no/nyheter/-ud-fly-til-midtosten-er-i-rute-_-skal-ankomme-oslo-sondag-kveld-1.17799242",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 08:39:30 GMT"
     }
   ]
 }
