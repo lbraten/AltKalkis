@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T20:30:03.789Z",
+  "updatedAt": "2026-03-08T20:53:35.340Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
@@ -7,6 +7,12 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/stor-politiaksjon-i-skien-1.17799772",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 08 Mar 2026 20:14:38 GMT"
+    },
+    {
+      "title": "Rykker ut til brann i Ørsta",
+      "link": "https://www.nrk.no/mr/rykker-ut-til-brann-i-orsta-1.17799767",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 08 Mar 2026 20:13:41 GMT"
     },
     {
       "title": "Amerikansk soldat drept i operasjon mot Iran",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/avicii-managers-soksmal-avvist-1.17799807",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 08 Mar 2026 18:41:31 GMT"
-    },
-    {
-      "title": "Macron i samtaler med Trump og Irans president",
-      "link": "https://www.nrk.no/nyheter/macron-i-samtaler-med-trump-og-irans-president-1.17799803",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 18:36:04 GMT"
     }
   ]
 }
