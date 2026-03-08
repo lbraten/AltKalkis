@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-08T11:44:46.154Z",
+  "updatedAt": "2026-03-08T12:54:26.984Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "UD-fly har tatt av fra Oman – på vei mot Norge",
+      "link": "https://www.nrk.no/nyheter/ud-fly-har-tatt-av-fra-oman-_-pa-vei-mot-norge-1.17799472",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 12:33:42 GMT"
+    },
+    {
+      "title": "Nærmere 400 drept i Libanon den siste uka – deriblant 83 barn",
+      "link": "https://www.nrk.no/nyheter/-naermere-400-drept-i-libanon-den-siste-uka-_-deriblant-83-barn-1.17799403",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 12:14:57 GMT"
+    },
     {
       "title": "Politiet om eksplosjonen ved USAs ambassade",
       "link": "https://www.nrk.no/nyheter/politiet-om-eksplosjonen-ved-usas-ambassade-1.17799332",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eksplosjonen-ved-usas-ambassade-_-pressekonferanse-klokken-12-1.17799318",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Sun, 08 Mar 2026 09:48:48 GMT"
-    },
-    {
-      "title": "Kun 65 prosent av barnehagene oppfyller bemanningskrav",
-      "link": "https://www.nrk.no/nyheter/kun-65-prosent-av-barnehagene-oppfyller-bemanningskrav-1.17799261",
-      "category": "Barnehager og SFO",
-      "pubDate": "Sun, 08 Mar 2026 09:44:54 GMT"
-    },
-    {
-      "title": "UD bekrefter: Vært i kontakt med USAs ambassade etter eksplosjon",
-      "link": "https://www.nrk.no/nyheter/ud-bekrefter_-vaert-i-kontakt-med-usas-ambassade-etter-eksplosjon-1.17799253",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 08 Mar 2026 08:49:44 GMT"
     }
   ]
 }
