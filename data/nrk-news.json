@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T22:51:26.099Z",
+  "updatedAt": "2026-03-08T23:27:15.228Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "UD-fly fra Oman har landet trygt i Norge",
+      "link": "https://www.nrk.no/nyheter/ud-fly-fra-oman-har-landet-trygt-i-norge-1.17799948",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 08 Mar 2026 23:20:27 GMT"
+    },
     {
       "title": "Trusselsituasjon ved Tromsø lufthavn",
       "link": "https://www.nrk.no/nyheter/trusselsituasjon-ved-tromso-lufthavn-1.17799943",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/mr/rykker-ut-til-brann-i-orsta-1.17799767",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sun, 08 Mar 2026 20:13:41 GMT"
-    },
-    {
-      "title": "Amerikansk soldat drept i operasjon mot Iran",
-      "link": "https://www.nrk.no/nyheter/amerikansk-soldat-drept-i-operasjon-mot-iran-1.17799825",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 19:42:49 GMT"
     }
   ]
 }
