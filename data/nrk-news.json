@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-08T23:27:15.228Z",
+  "updatedAt": "2026-03-08T23:49:17.363Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bolig overtent på Vannøya i Troms",
+      "link": "https://www.nrk.no/nyheter/bolig-overtent-pa-vannoya-i-troms-1.17799951",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 08 Mar 2026 23:27:53 GMT"
+    },
+    {
+      "title": "Sentralbanestasjonen i Glasgow stengt som følge av brann",
+      "link": "https://www.nrk.no/nyheter/sentralbanestasjonen-i-glasgow-stengt-som-folge-av-brann-1.17799950",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 08 Mar 2026 23:26:30 GMT"
+    },
     {
       "title": "UD-fly fra Oman har landet trygt i Norge",
       "link": "https://www.nrk.no/nyheter/ud-fly-fra-oman-har-landet-trygt-i-norge-1.17799948",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mojtaba-khamenei-offisielt-utpekt-som-ny-leder-i-iran--1.17799926",
       "category": "Iran",
       "pubDate": "Sun, 08 Mar 2026 21:15:55 GMT"
-    },
-    {
-      "title": "Stor politiaksjon i Skien",
-      "link": "https://www.nrk.no/vestfoldogtelemark/stor-politiaksjon-i-skien-1.17799772",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 08 Mar 2026 20:14:38 GMT"
-    },
-    {
-      "title": "Rykker ut til brann i Ørsta",
-      "link": "https://www.nrk.no/mr/rykker-ut-til-brann-i-orsta-1.17799767",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 08 Mar 2026 20:13:41 GMT"
     }
   ]
 }
