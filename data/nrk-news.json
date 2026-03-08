@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-08T08:34:53.813Z",
+  "updatedAt": "2026-03-08T09:32:25.056Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "UD bekrefter: Vært i kontakt med USAs ambassade etter eksplosjon",
+      "link": "https://www.nrk.no/nyheter/ud-bekrefter_-vaert-i-kontakt-med-usas-ambassade-etter-eksplosjon-1.17799253",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 08 Mar 2026 08:49:44 GMT"
+    },
+    {
+      "title": "UD-fly til Midtøsten er i rute – skal ankomme Oslo søndag kveld",
+      "link": "https://www.nrk.no/nyheter/-ud-fly-til-midtosten-er-i-rute-_-skal-ankomme-oslo-sondag-kveld-1.17799242",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 08:39:30 GMT"
+    },
     {
       "title": "Minst 33 drept i droneangrep i Sudan",
       "link": "https://www.nrk.no/nyheter/minst-33-drept-i-droneangrep-i-sudan-1.17799178",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/justisministeren-om-eksplosjonen-pa-usas-ambassade_-_-en-uakseptabel-hendelse-1.17799125",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 08 Mar 2026 06:37:21 GMT"
-    },
-    {
-      "title": "Alvorlig ulykke i Bamble – én person kritisk skadd",
-      "link": "https://www.nrk.no/nyheter/alvorlig-ulykke-i-bamble-_-en-person-kritisk-skadd-1.17799118",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 08 Mar 2026 05:36:27 GMT"
-    },
-    {
-      "title": "USA har gitt Russland beskjed om å ikke dele informasjon med Iran",
-      "link": "https://www.nrk.no/nyheter/usa-har-gitt-russland-beskjed-om-a-ikke-dele-informasjon-med-iran-1.17799117",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 05:17:21 GMT"
     }
   ]
 }
