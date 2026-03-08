@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-08T16:32:17.961Z",
+  "updatedAt": "2026-03-08T17:25:39.831Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Minst 104 ble drept i angrep på fregatt",
+      "link": "https://www.nrk.no/nyheter/iran_-minst-104-ble-drept-i-angrep-pa-fregatt-1.17799766",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 17:22:07 GMT"
+    },
+    {
+      "title": "Mot seier til De grønne i tysk delstatsvalg",
+      "link": "https://www.nrk.no/nyheter/mot-seier-til-de-gronne-i-tysk-delstatsvalg-1.17799708",
+      "category": "Tyskland",
+      "pubDate": "Sun, 08 Mar 2026 17:16:23 GMT"
+    },
     {
       "title": "Reuters: To drept i boligområde i Saudi-Arabia",
       "link": "https://www.nrk.no/nyheter/reuters_-to-drept-i-boligomrade-i-saudi-arabia-1.17799685",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/pst-endrer-ikke-terrortrusselniva-1.17799643",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Sun, 08 Mar 2026 15:20:32 GMT"
-    },
-    {
-      "title": "Støre: Økte sikkerhetstiltak etter ambassade-eksplosjonen",
-      "link": "https://www.nrk.no/nyheter/store_-okte-sikkerhetstiltak-etter-ambassade-eksplosjonen-1.17799573",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 08 Mar 2026 15:10:59 GMT"
-    },
-    {
-      "title": "Medier: Israel angriper flyktningleier i Libanon",
-      "link": "https://www.nrk.no/nyheter/medier_-israel-angriper-flyktningleier-i-libanon-1.17799591",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 14:56:34 GMT"
     }
   ]
 }
