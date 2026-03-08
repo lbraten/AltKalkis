@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-08T14:27:30.817Z",
+  "updatedAt": "2026-03-08T14:52:19.087Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ras over vei i Kinn – redningsaksjon igangssatt",
+      "link": "https://www.nrk.no/vestland/ras-over-vei-i-kinn-_-redningsaksjon-igangssatt-1.17799549",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 08 Mar 2026 14:36:36 GMT"
+    },
+    {
+      "title": "Advarer om krokodiller etter flom i Australia",
+      "link": "https://www.nrk.no/nyheter/advarer-om-krokodiller-etter-flom-i-australia-1.17799574",
+      "category": "Australia",
+      "pubDate": "Sun, 08 Mar 2026 14:27:39 GMT"
+    },
     {
       "title": "Rykker til Asker etter melding om brann",
       "link": "https://www.nrk.no/stor-oslo/rykker-til-asker-etter-melding-om-brann-1.17799570",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/-naermere-400-drept-i-libanon-den-siste-uka-_-deriblant-83-barn-1.17799403",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 12:14:57 GMT"
-    },
-    {
-      "title": "Politiet om eksplosjonen ved USAs ambassade",
-      "link": "https://www.nrk.no/nyheter/politiet-om-eksplosjonen-ved-usas-ambassade-1.17799332",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Sun, 08 Mar 2026 11:03:24 GMT"
-    },
-    {
-      "title": "Irans ekspertråd har kommet fram til en ny øverste leder",
-      "link": "https://www.nrk.no/nyheter/irans-ekspertrad-har-kommet-fram-til-en-ny-overste-leder-1.17799327",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 09:55:17 GMT"
     }
   ]
 }
