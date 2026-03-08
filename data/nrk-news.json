@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-08T15:48:18.655Z",
+  "updatedAt": "2026-03-08T16:32:17.961Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Reuters: To drept i boligområde i Saudi-Arabia",
+      "link": "https://www.nrk.no/nyheter/reuters_-to-drept-i-boligomrade-i-saudi-arabia-1.17799685",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 16:06:19 GMT"
+    },
+    {
+      "title": "Trump: Irans neste leder varer ikke lenge uten min godkjenning",
+      "link": "https://www.nrk.no/nyheter/trump_-irans-neste-leder-varer-ikke-lenge-uten-min-godkjenning-1.17799657",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 08 Mar 2026 15:48:08 GMT"
+    },
     {
       "title": "Iraks oljeproduksjon kraftig ned",
       "link": "https://www.nrk.no/nyheter/iraks-oljeproduksjon-kraftig-ned-1.17799663",
@@ -17,7 +29,7 @@
     {
       "title": "Støre: Økte sikkerhetstiltak etter ambassade-eksplosjonen",
       "link": "https://www.nrk.no/nyheter/store_-okte-sikkerhetstiltak-etter-ambassade-eksplosjonen-1.17799573",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 08 Mar 2026 15:10:59 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/medier_-israel-angriper-flyktningleier-i-libanon-1.17799591",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 14:56:34 GMT"
-    },
-    {
-      "title": "Stort ras over vei i Kinn",
-      "link": "https://www.nrk.no/vestland/stort-ras-over-vei-i-kinn-1.17799549",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 08 Mar 2026 14:36:36 GMT"
-    },
-    {
-      "title": "Advarer om krokodiller etter flom i Australia",
-      "link": "https://www.nrk.no/nyheter/advarer-om-krokodiller-etter-flom-i-australia-1.17799574",
-      "category": "Australia",
-      "pubDate": "Sun, 08 Mar 2026 14:27:39 GMT"
     }
   ]
 }
