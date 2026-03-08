@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T19:45:26.898Z",
+  "updatedAt": "2026-03-08T20:30:03.789Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Stor politiaksjon i Skien",
+      "link": "https://www.nrk.no/vestfoldogtelemark/stor-politiaksjon-i-skien-1.17799772",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 08 Mar 2026 20:14:38 GMT"
+    },
     {
       "title": "Amerikansk soldat drept i operasjon mot Iran",
       "link": "https://www.nrk.no/nyheter/amerikansk-soldat-drept-i-operasjon-mot-iran-1.17799825",
@@ -9,8 +15,8 @@
       "pubDate": "Sun, 08 Mar 2026 19:42:49 GMT"
     },
     {
-      "title": "Dagbladet: Politiet har videoopptak av gjerningsmannen",
-      "link": "https://www.nrk.no/nyheter/dagbladet_-politiet-har-videoopptak-av-gjerningsmannen-1.17799813",
+      "title": "Dagbladet: Politiet har videoopptak fra USAs ambassade",
+      "link": "https://www.nrk.no/nyheter/dagbladet_-politiet-har-videoopptak-fra-usas-ambassade-1.17799813",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Sun, 08 Mar 2026 19:00:57 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/macron-i-samtaler-med-trump-og-irans-president-1.17799803",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 18:36:04 GMT"
-    },
-    {
-      "title": "Amerikansk UD takker norske myndigheter",
-      "link": "https://www.nrk.no/nyheter/amerikansk-ud-takker-norske-myndigheter-1.17799773",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Sun, 08 Mar 2026 18:21:09 GMT"
     }
   ]
 }
