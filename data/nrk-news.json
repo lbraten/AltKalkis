@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T20:53:35.340Z",
+  "updatedAt": "2026-03-08T21:27:01.029Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mojtaba Khamenei offisielt klar som ny leder i Iran",
+      "link": "https://www.nrk.no/nyheter/mojtaba-khamenei-offisielt-klar-som-ny-leder-i-iran--1.17799926",
+      "category": "Iran",
+      "pubDate": "Sun, 08 Mar 2026 21:15:55 GMT"
+    },
     {
       "title": "Stor politiaksjon i Skien",
       "link": "https://www.nrk.no/vestfoldogtelemark/stor-politiaksjon-i-skien-1.17799772",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sveits-avviste-klimafond-i-folkeavstemning-1.17799808",
       "category": "Sveits",
       "pubDate": "Sun, 08 Mar 2026 18:49:40 GMT"
-    },
-    {
-      "title": "Avicii-managers søksmål avvist",
-      "link": "https://www.nrk.no/nyheter/avicii-managers-soksmal-avvist-1.17799807",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 08 Mar 2026 18:41:31 GMT"
     }
   ]
 }
