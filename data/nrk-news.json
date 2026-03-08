@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-08T17:49:03.828Z",
+  "updatedAt": "2026-03-08T18:37:54.353Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Macron i samtaler med Trump og Irans president",
+      "link": "https://www.nrk.no/nyheter/macron-i-samtaler-med-trump-og-irans-president-1.17799803",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 18:36:04 GMT"
+    },
+    {
+      "title": "Amerikansk UD takker norske myndigheter",
+      "link": "https://www.nrk.no/nyheter/amerikansk-ud-takker-norske-myndigheter-1.17799773",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Sun, 08 Mar 2026 18:21:09 GMT"
+    },
     {
       "title": "Libanon: Over 500.000 drevet på flukt",
       "link": "https://www.nrk.no/nyheter/libanon_-over-500.000-drevet-pa-flukt-1.17799771",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/reuters_-to-drept-i-boligomrade-i-saudi-arabia-1.17799685",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 16:06:19 GMT"
-    },
-    {
-      "title": "Trump: Irans neste leder varer ikke lenge uten min godkjenning",
-      "link": "https://www.nrk.no/nyheter/trump_-irans-neste-leder-varer-ikke-lenge-uten-min-godkjenning-1.17799657",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 08 Mar 2026 15:48:08 GMT"
-    },
-    {
-      "title": "Iraks oljeproduksjon kraftig ned",
-      "link": "https://www.nrk.no/nyheter/iraks-oljeproduksjon-kraftig-ned-1.17799663",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 15:41:56 GMT"
     }
   ]
 }
