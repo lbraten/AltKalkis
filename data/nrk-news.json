@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-08T07:51:06.692Z",
+  "updatedAt": "2026-03-08T08:34:53.813Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 33 drept i droneangrep i Sudan",
+      "link": "https://www.nrk.no/nyheter/minst-33-drept-i-droneangrep-i-sudan-1.17799178",
+      "category": "Sudan",
+      "pubDate": "Sun, 08 Mar 2026 08:33:27 GMT"
+    },
+    {
+      "title": "Stenger idrettshall etter ambassade-eksplosjon",
+      "link": "https://www.nrk.no/stor-oslo/stenger-idrettshall-etter-ambassade-eksplosjon-1.17799141",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 08 Mar 2026 08:09:03 GMT"
+    },
     {
       "title": "Færre kvinner får hjerte- og lungeredning på grunn av puppene",
       "link": "https://www.nrk.no/nyheter/faerre-kvinner-far-hjerte--og-lungeredning-pa-grunn-av-puppene-1.17799133",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-har-gitt-russland-beskjed-om-a-ikke-dele-informasjon-med-iran-1.17799117",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 05:17:21 GMT"
-    },
-    {
-      "title": "17-åringer reddet ned fra fjelltopp i Bjørnafjorden",
-      "link": "https://www.nrk.no/nyheter/17-aringer-reddet-ned-fra-fjelltopp-i-bjornafjorden-1.17799115",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 08 Mar 2026 05:11:24 GMT"
-    },
-    {
-      "title": "Kina: Krigen i Iran skulle aldri startet",
-      "link": "https://www.nrk.no/nyheter/kina_-krigen-i-iran-skulle-aldri-startet-1.17799114",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 04:58:08 GMT"
     }
   ]
 }
