@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T13:41:36.351Z",
+  "updatedAt": "2026-03-08T14:27:30.817Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rykker til Asker etter melding om brann",
+      "link": "https://www.nrk.no/stor-oslo/rykker-til-asker-etter-melding-om-brann-1.17799570",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 08 Mar 2026 14:00:02 GMT"
+    },
     {
       "title": "Regjeringen satser 90 millioner på kvinnehelse",
       "link": "https://www.nrk.no/nyheter/regjeringen-satser-90-millioner-pa-kvinnehelse-1.17799517",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/irans-ekspertrad-har-kommet-fram-til-en-ny-overste-leder-1.17799327",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 09:55:17 GMT"
-    },
-    {
-      "title": "Flom i Nord-Australia – «krokodiller overalt»",
-      "link": "https://www.nrk.no/nyheter/flom-i-nord-australia-_-_krokodiller-overalt_-1.17799324",
-      "category": "Australia",
-      "pubDate": "Sun, 08 Mar 2026 09:52:07 GMT"
     }
   ]
 }
