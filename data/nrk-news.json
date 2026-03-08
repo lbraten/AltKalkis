@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T07:07:55.399Z",
+  "updatedAt": "2026-03-08T07:51:06.692Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Færre kvinner får hjerte- og lungeredning på grunn av puppene",
+      "link": "https://www.nrk.no/nyheter/faerre-kvinner-far-hjerte--og-lungeredning-pa-grunn-av-puppene-1.17799133",
+      "category": "Helse og livsstil",
+      "pubDate": "Sun, 08 Mar 2026 07:33:56 GMT"
+    },
     {
       "title": "Justisministeren om eksplosjonen på USAs ambassade: – En uakseptabel hendelse",
       "link": "https://www.nrk.no/nyheter/justisministeren-om-eksplosjonen-pa-usas-ambassade_-_-en-uakseptabel-hendelse-1.17799125",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kina_-krigen-i-iran-skulle-aldri-startet-1.17799114",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 04:58:08 GMT"
-    },
-    {
-      "title": "Iran: Kan kjempe en intens krig i minst et halvt år",
-      "link": "https://www.nrk.no/nyheter/iran_-kan-kjempe-en-intens-krig-i-minst-et-halvt-ar-1.17799113",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 04:57:15 GMT"
     }
   ]
 }
