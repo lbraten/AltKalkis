@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T22:27:17.324Z",
+  "updatedAt": "2026-03-08T22:51:26.099Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trusselsituasjon ved Tromsø lufthavn",
+      "link": "https://www.nrk.no/nyheter/trusselsituasjon-ved-tromso-lufthavn-1.17799943",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 08 Mar 2026 22:37:47 GMT"
+    },
     {
       "title": "Arve Tellefsen har holdt sin siste konsert",
       "link": "https://www.nrk.no/nyheter/arve-tellefsen-har-holdt-sin-siste-konsert--1.17799927",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/amerikansk-soldat-drept-i-operasjon-mot-iran-1.17799825",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 08 Mar 2026 19:42:49 GMT"
-    },
-    {
-      "title": "Dagbladet: Politiet har videoopptak fra USAs ambassade",
-      "link": "https://www.nrk.no/nyheter/dagbladet_-politiet-har-videoopptak-fra-usas-ambassade-1.17799813",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Sun, 08 Mar 2026 19:00:57 GMT"
     }
   ]
 }
