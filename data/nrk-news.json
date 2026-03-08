@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T15:26:53.123Z",
+  "updatedAt": "2026-03-08T15:48:18.655Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iraks oljeproduksjon kraftig ned",
+      "link": "https://www.nrk.no/nyheter/iraks-oljeproduksjon-kraftig-ned-1.17799663",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 15:41:56 GMT"
+    },
     {
       "title": "PST endrer ikke terrortrusselnivå",
       "link": "https://www.nrk.no/nyheter/pst-endrer-ikke-terrortrusselniva-1.17799643",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/advarer-om-krokodiller-etter-flom-i-australia-1.17799574",
       "category": "Australia",
       "pubDate": "Sun, 08 Mar 2026 14:27:39 GMT"
-    },
-    {
-      "title": "Rykker til Asker etter melding om brann",
-      "link": "https://www.nrk.no/stor-oslo/rykker-til-asker-etter-melding-om-brann-1.17799570",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 08 Mar 2026 14:00:02 GMT"
     }
   ]
 }
