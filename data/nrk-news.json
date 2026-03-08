@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-03-08T14:52:19.087Z",
+  "updatedAt": "2026-03-08T15:26:53.123Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ras over vei i Kinn – redningsaksjon igangssatt",
-      "link": "https://www.nrk.no/vestland/ras-over-vei-i-kinn-_-redningsaksjon-igangssatt-1.17799549",
+      "title": "PST endrer ikke terrortrusselnivå",
+      "link": "https://www.nrk.no/nyheter/pst-endrer-ikke-terrortrusselniva-1.17799643",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Sun, 08 Mar 2026 15:20:32 GMT"
+    },
+    {
+      "title": "Støre: Økte sikkerhetstiltak etter ambassade-eksplosjonen",
+      "link": "https://www.nrk.no/nyheter/store_-okte-sikkerhetstiltak-etter-ambassade-eksplosjonen-1.17799573",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 08 Mar 2026 15:10:59 GMT"
+    },
+    {
+      "title": "Medier: Israel angriper flyktningleier i Libanon",
+      "link": "https://www.nrk.no/nyheter/medier_-israel-angriper-flyktningleier-i-libanon-1.17799591",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 14:56:34 GMT"
+    },
+    {
+      "title": "Stort ras over vei i Kinn",
+      "link": "https://www.nrk.no/vestland/stort-ras-over-vei-i-kinn-1.17799549",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 08 Mar 2026 14:36:36 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/rykker-til-asker-etter-melding-om-brann-1.17799570",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 08 Mar 2026 14:00:02 GMT"
-    },
-    {
-      "title": "Regjeringen satser 90 millioner på kvinnehelse",
-      "link": "https://www.nrk.no/nyheter/regjeringen-satser-90-millioner-pa-kvinnehelse-1.17799517",
-      "category": "Kvinnehelse",
-      "pubDate": "Sun, 08 Mar 2026 13:35:40 GMT"
-    },
-    {
-      "title": "UD-fly har tatt av fra Oman – på vei mot Norge",
-      "link": "https://www.nrk.no/nyheter/ud-fly-har-tatt-av-fra-oman-_-pa-vei-mot-norge-1.17799472",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 12:33:42 GMT"
-    },
-    {
-      "title": "Nærmere 400 drept i Libanon den siste uka – deriblant 83 barn",
-      "link": "https://www.nrk.no/nyheter/-naermere-400-drept-i-libanon-den-siste-uka-_-deriblant-83-barn-1.17799403",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 12:14:57 GMT"
     }
   ]
 }
