@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-07T23:47:03.293Z",
+  "updatedAt": "2026-03-08T02:25:11.317Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Høyt smell ved den amerikanske ambassaden i Oslo",
+      "link": "https://www.nrk.no/nyheter/hoyt-smell-ved-den-amerikanske-ambassaden-i-oslo-1.17799090",
+      "category": "high",
+      "pubDate": "Sun, 08 Mar 2026 00:34:08 GMT"
+    },
+    {
+      "title": "Trump ønsker ikke at kurdere skal gå til offensiv mot Iran",
+      "link": "https://www.nrk.no/nyheter/trump-onsker-ikke-at-kurdere-skal-ga-til-offensiv-mot-iran-1.17799089",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Mar 2026 23:54:19 GMT"
+    },
+    {
+      "title": "Flere alvorlig skadet i frontulykke i Ås",
+      "link": "https://www.nrk.no/nyheter/flere-alvorlig-skadet-i-frontulykke-i-as-1.17799088",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 07 Mar 2026 23:47:07 GMT"
+    },
     {
       "title": "Røde Kors fremme ved værfaste 17-åringer i Bjørnafjorden",
       "link": "https://www.nrk.no/nyheter/rode-kors-fremme-ved-vaerfaste-17-aringer-i-bjornafjorden--1.17799087",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/saudi-arabia-har-stoppet-droner--1.17799082",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 07 Mar 2026 23:03:54 GMT"
-    },
-    {
-      "title": "Libanesiske myndigheter: Åtte drept i israelske angrep",
-      "link": "https://www.nrk.no/nyheter/libanesiske-myndigheter_-atte-drept-i-israelske-angrep-1.17799081",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 22:58:04 GMT"
-    },
-    {
-      "title": "USA tilbakeviser påstander fra Iran om at amerikanere er tatt til fange",
-      "link": "https://www.nrk.no/nyheter/usa-tilbakeviser-pastander-fra-iran-om-at-amerikanere-er-tatt-til-fange-1.17799079",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Mar 2026 22:51:37 GMT"
-    },
-    {
-      "title": "Julie Bergan gratulerer etter at «norsk» sang vant Melodifestivalen i Sverige",
-      "link": "https://www.nrk.no/nyheter/julie-bergan-gratulerer-etter-at-_norsk_-sang-vant-melodifestivalen-i-sverige-1.17799077",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Sat, 07 Mar 2026 22:41:56 GMT"
     }
   ]
 }
