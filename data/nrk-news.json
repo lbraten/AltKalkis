@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-08T19:25:36.446Z",
+  "updatedAt": "2026-03-08T19:45:26.898Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amerikansk soldat drept i operasjon mot Iran",
+      "link": "https://www.nrk.no/nyheter/amerikansk-soldat-drept-i-operasjon-mot-iran-1.17799825",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 08 Mar 2026 19:42:49 GMT"
+    },
     {
       "title": "Dagbladet: Politiet har videoopptak av gjerningsmannen",
       "link": "https://www.nrk.no/nyheter/dagbladet_-politiet-har-videoopptak-av-gjerningsmannen-1.17799813",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/amerikansk-ud-takker-norske-myndigheter-1.17799773",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Sun, 08 Mar 2026 18:21:09 GMT"
-    },
-    {
-      "title": "Libanon: Over 500.000 drevet på flukt",
-      "link": "https://www.nrk.no/nyheter/libanon_-over-500.000-drevet-pa-flukt-1.17799771",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 08 Mar 2026 17:28:02 GMT"
     }
   ]
 }
