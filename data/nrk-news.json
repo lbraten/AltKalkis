@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-09T09:08:57.993Z",
+  "updatedAt": "2026-03-09T10:12:34.682Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Ikke realistisk med våpenhvile så lenge angrepene fortsetter",
+      "link": "https://www.nrk.no/nyheter/iran_-ikke-realistisk-med-vapenhvile-sa-lenge-angrepene-fortsetter--1.17800267",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 09 Mar 2026 10:03:19 GMT"
+    },
+    {
+      "title": "Israel klager på svensk Eurovision-vinner",
+      "link": "https://www.nrk.no/nyheter/israel-klager-pa-svensk-eurovision-vinner-1.17800385",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Mon, 09 Mar 2026 09:53:20 GMT"
+    },
+    {
+      "title": "Stoltenberg: Venter en vekst i BNP",
+      "link": "https://www.nrk.no/nyheter/stoltenberg_-venter-en-vekst-i-bnp--1.17800398",
+      "category": "Støre-regjeringen",
+      "pubDate": "Mon, 09 Mar 2026 09:46:23 GMT"
+    },
+    {
+      "title": "Stoltenberg sier Iran-krigen kan påvirke norsk økonomi",
+      "link": "https://www.nrk.no/nyheter/stoltenberg-sier-iran-krigen-kan-pavirke-norsk-okonomi-1.17800375",
+      "category": "Støre-regjeringen",
+      "pubDate": "Mon, 09 Mar 2026 09:37:21 GMT"
+    },
+    {
+      "title": "EU vil alltid stå sammen med Ukraina",
+      "link": "https://www.nrk.no/nyheter/eu-vil-alltid-sta-sammen-med-ukraina-1.17800221",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Mon, 09 Mar 2026 09:31:55 GMT"
+    },
     {
       "title": "Israelsk luftangrep i Beirut",
       "link": "https://www.nrk.no/nyheter/israelsk-luftangrep-i-beirut--1.17800109",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 09 Mar 2026 08:34:10 GMT"
-    },
-    {
-      "title": "EUs koordineringsgruppe for olje- og gassforsyning skal møtes torsdag",
-      "link": "https://www.nrk.no/nyheter/eus-koordineringsgruppe-for-olje--og_gassforsyning-skal-motes-torsdag-1.17800144",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 09 Mar 2026 08:05:10 GMT"
-    },
-    {
-      "title": "Eksplosjon i synagoge i Liège",
-      "link": "https://www.nrk.no/nyheter/eksplosjon-i-synagoge-i-liege-1.17800139",
-      "category": "Belgia",
-      "pubDate": "Mon, 09 Mar 2026 07:37:36 GMT"
-    },
-    {
-      "title": "Ifølge Kina er Irans valg en intern sak",
-      "link": "https://www.nrk.no/nyheter/ifolge-kina-er-irans-valg-en-intern-sak-1.17800120",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 09 Mar 2026 07:35:02 GMT"
-    },
-    {
-      "title": "Fire døde etter søppelras i Indonesia",
-      "link": "https://www.nrk.no/nyheter/fire-dode-etter-soppelras-i-indonesia-1.17800094",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 09 Mar 2026 07:17:03 GMT"
-    },
-    {
-      "title": "Tyrkia sender F-16-kampfly til Kypros",
-      "link": "https://www.nrk.no/nyheter/tyrkia-sender-f-16-kampfly-til-kypros-1.17800049",
-      "category": "Tyrkia",
-      "pubDate": "Mon, 09 Mar 2026 07:09:06 GMT"
     }
   ]
 }
