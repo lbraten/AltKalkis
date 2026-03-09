@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-09T17:25:09.573Z",
+  "updatedAt": "2026-03-09T18:06:57.900Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump varsler første pressekonferanse under Iran-krigen",
+      "link": "https://www.nrk.no/nyheter/trump-varsler-forste-pressekonferanse-under-iran-krigen-1.17801407",
+      "category": "USA",
+      "pubDate": "Mon, 09 Mar 2026 17:54:37 GMT"
+    },
+    {
+      "title": "To personer tiltalt etter angrep i New York",
+      "link": "https://www.nrk.no/nyheter/to-personer-tiltalt-etter-angrep-i-new-york-1.17801208",
+      "category": "USA",
+      "pubDate": "Mon, 09 Mar 2026 17:39:50 GMT"
+    },
     {
       "title": "Oslo Børs litt opp – oljeprisen litt ned",
       "link": "https://www.nrk.no/nyheter/oslo-bors-litt-opp-_-oljeprisen-litt-ned-1.17801065",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/canadas-statsminister-besoker-norge-1.17801130",
       "category": "Støre-regjeringen",
       "pubDate": "Mon, 09 Mar 2026 14:39:39 GMT"
-    },
-    {
-      "title": "Trump ber Australia gi asyl til Irans fotballandslag",
-      "link": "https://www.nrk.no/nyheter/trump-ber-australia-gi-asyl-til-irans-fotballandslag-1.17801115",
-      "category": "Iran",
-      "pubDate": "Mon, 09 Mar 2026 14:38:55 GMT"
-    },
-    {
-      "title": "AFP: Frankrike forbereder «defensiv operasjon» for å åpne Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/afp_-frankrike-forbereder-_defensiv-operasjon_-for-a-apne-hormuzstredet-1.17800903",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 13:34:37 GMT"
     }
   ]
 }
