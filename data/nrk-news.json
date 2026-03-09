@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-09T13:21:05.066Z",
+  "updatedAt": "2026-03-09T14:30:32.785Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "AFP: Frankrike forbereder «defensiv operasjon» for å åpne Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/afp_-frankrike-forbereder-_defensiv-operasjon_-for-a-apne-hormuzstredet-1.17800903",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 09 Mar 2026 13:34:37 GMT"
+    },
     {
       "title": "LO: Arbeidsledigheten biter seg fast på 4,5 prosent",
       "link": "https://www.nrk.no/nyheter/lo_-arbeidsledigheten-biter-seg-fast-pa-4_5-prosent-1.17800434",
@@ -9,8 +15,8 @@
       "pubDate": "Mon, 09 Mar 2026 13:01:35 GMT"
     },
     {
-      "title": "Mann rømt frå arresten",
-      "link": "https://www.nrk.no/mr/mann-romt-fra-arresten-1.17800902",
+      "title": "Mann rømt frå arresten i Ålesund",
+      "link": "https://www.nrk.no/mr/mann-romt-fra-arresten-i-alesund-1.17800902",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Mon, 09 Mar 2026 13:01:26 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/to-siktet-etter-skyting-i-skien-1.17800710",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 09 Mar 2026 12:13:01 GMT"
-    },
-    {
-      "title": "Iransk rakett skutt ned av Nato i tyrkisk luftrom, ifølge Tyrkia",
-      "link": "https://www.nrk.no/nyheter/iransk-rakett-skutt-ned-av-nato-i-tyrkisk-luftrom_-ifolge-tyrkia-1.17800703",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 12:05:28 GMT"
     }
   ]
 }
