@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-09T05:59:28.364Z",
+  "updatedAt": "2026-03-09T07:14:09.514Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tyrkia sender F-16-kamfly til Kypros",
+      "link": "https://www.nrk.no/nyheter/tyrkia-sender-f-16-kamfly-til-kypros-1.17800049",
+      "category": "Tyrkia",
+      "pubDate": "Mon, 09 Mar 2026 07:09:06 GMT"
+    },
+    {
+      "title": "42 personer har mistet livet i flommen i Kenya",
+      "link": "https://www.nrk.no/nyheter/42-personer-har-mistet-livet-i-flommen-i-kenya-1.17800071",
+      "category": "Kenya",
+      "pubDate": "Mon, 09 Mar 2026 06:53:58 GMT"
+    },
+    {
+      "title": "Flere vil bli politi – stor økning i antall søkere",
+      "link": "https://www.nrk.no/nordland/flere-vil-bli-politi-_-stor-okning-i-antall-sokere-1.17800015",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Mon, 09 Mar 2026 06:16:13 GMT"
+    },
     {
       "title": "Oljeprisen kraftig opp",
       "link": "https://www.nrk.no/nyheter/oljeprisen-kraftig-opp--1.17799961",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/32-personer-saret-i-iransk-droneangrep-i-persiabukta--1.17799959",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 09 Mar 2026 02:32:29 GMT"
-    },
-    {
-      "title": "Kraftig fall på børsen i Hong Kong",
-      "link": "https://www.nrk.no/nyheter/kraftig-fall-pa-borsen-i-hong-kong-1.17799958",
-      "category": "Uro på børsene",
-      "pubDate": "Mon, 09 Mar 2026 02:17:37 GMT"
-    },
-    {
-      "title": "IDF har angrepet Hizbollah-mål i Beirut",
-      "link": "https://www.nrk.no/nyheter/idf-har-angrepet-hizbollah-mal-i-beirut--1.17799956",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 02:13:54 GMT"
-    },
-    {
-      "title": "Kvinne pågrepet etter skyteepisode ved Rihannas bolig",
-      "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-skyteepisode-ved-rihannas-bolig-1.17799955",
-      "category": "Musikk",
-      "pubDate": "Mon, 09 Mar 2026 01:36:45 GMT"
     }
   ]
 }
