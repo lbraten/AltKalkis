@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-09T08:03:08.333Z",
+  "updatedAt": "2026-03-09T09:08:57.993Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israelsk luftangrep i Beirut",
+      "link": "https://www.nrk.no/nyheter/israelsk-luftangrep-i-beirut--1.17800109",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 09 Mar 2026 08:34:10 GMT"
+    },
+    {
+      "title": "EUs koordineringsgruppe for olje- og gassforsyning skal møtes torsdag",
+      "link": "https://www.nrk.no/nyheter/eus-koordineringsgruppe-for-olje--og_gassforsyning-skal-motes-torsdag-1.17800144",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 09 Mar 2026 08:05:10 GMT"
+    },
     {
       "title": "Eksplosjon i synagoge i Liège",
       "link": "https://www.nrk.no/nyheter/eksplosjon-i-synagoge-i-liege-1.17800139",
@@ -21,22 +33,10 @@
       "pubDate": "Mon, 09 Mar 2026 07:17:03 GMT"
     },
     {
-      "title": "Tyrkia sender F-16-kamfly til Kypros",
-      "link": "https://www.nrk.no/nyheter/tyrkia-sender-f-16-kamfly-til-kypros-1.17800049",
+      "title": "Tyrkia sender F-16-kampfly til Kypros",
+      "link": "https://www.nrk.no/nyheter/tyrkia-sender-f-16-kampfly-til-kypros-1.17800049",
       "category": "Tyrkia",
       "pubDate": "Mon, 09 Mar 2026 07:09:06 GMT"
-    },
-    {
-      "title": "42 personer har mistet livet i flommen i Kenya",
-      "link": "https://www.nrk.no/nyheter/42-personer-har-mistet-livet-i-flommen-i-kenya-1.17800071",
-      "category": "Kenya",
-      "pubDate": "Mon, 09 Mar 2026 06:53:58 GMT"
-    },
-    {
-      "title": "Flere vil bli politi – stor økning i antall søkere",
-      "link": "https://www.nrk.no/nordland/flere-vil-bli-politi-_-stor-okning-i-antall-sokere-1.17800015",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Mon, 09 Mar 2026 06:16:13 GMT"
     }
   ]
 }
