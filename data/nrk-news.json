@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-09T07:14:09.514Z",
+  "updatedAt": "2026-03-09T08:03:08.333Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eksplosjon i synagoge i Liège",
+      "link": "https://www.nrk.no/nyheter/eksplosjon-i-synagoge-i-liege-1.17800139",
+      "category": "Belgia",
+      "pubDate": "Mon, 09 Mar 2026 07:37:36 GMT"
+    },
+    {
+      "title": "Ifølge Kina er Irans valg en intern sak",
+      "link": "https://www.nrk.no/nyheter/ifolge-kina-er-irans-valg-en-intern-sak-1.17800120",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 09 Mar 2026 07:35:02 GMT"
+    },
+    {
+      "title": "Fire døde etter søppelras i Indonesia",
+      "link": "https://www.nrk.no/nyheter/fire-dode-etter-soppelras-i-indonesia-1.17800094",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 09 Mar 2026 07:17:03 GMT"
+    },
     {
       "title": "Tyrkia sender F-16-kamfly til Kypros",
       "link": "https://www.nrk.no/nyheter/tyrkia-sender-f-16-kamfly-til-kypros-1.17800049",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nordland/flere-vil-bli-politi-_-stor-okning-i-antall-sokere-1.17800015",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Mon, 09 Mar 2026 06:16:13 GMT"
-    },
-    {
-      "title": "Oljeprisen kraftig opp",
-      "link": "https://www.nrk.no/nyheter/oljeprisen-kraftig-opp--1.17799961",
-      "category": "Oljeprisen",
-      "pubDate": "Mon, 09 Mar 2026 04:29:06 GMT"
-    },
-    {
-      "title": "Europas våpenimport størst i verden",
-      "link": "https://www.nrk.no/nyheter/europas-vapenimport-storst-i-verden-1.17799963",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 09 Mar 2026 03:19:18 GMT"
-    },
-    {
-      "title": "32 personer såret i iransk droneangrep i Persiabukta",
-      "link": "https://www.nrk.no/nyheter/32-personer-saret-i-iransk-droneangrep-i-persiabukta--1.17799959",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 02:32:29 GMT"
     }
   ]
 }
