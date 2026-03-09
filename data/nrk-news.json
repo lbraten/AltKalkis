@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-09T11:56:56.199Z",
+  "updatedAt": "2026-03-09T13:21:05.066Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "IDF: angrep mot flere byer i Iran",
-      "link": "https://www.nrk.no/nyheter/idf_-angrep-mot-flere-byer-i-iran-1.17800675",
+      "title": "LO: Arbeidsledigheten biter seg fast på 4,5 prosent",
+      "link": "https://www.nrk.no/nyheter/lo_-arbeidsledigheten-biter-seg-fast-pa-4_5-prosent-1.17800434",
+      "category": "LO - Landsorganisasjonen",
+      "pubDate": "Mon, 09 Mar 2026 13:01:35 GMT"
+    },
+    {
+      "title": "Mann rømt frå arresten",
+      "link": "https://www.nrk.no/mr/mann-romt-fra-arresten-1.17800902",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Mon, 09 Mar 2026 13:01:26 GMT"
+    },
+    {
+      "title": "Unicef: 200.000 barn drevet på flukt i Libanon",
+      "link": "https://www.nrk.no/nyheter/unicef_-200.000-barn-drevet-pa-flukt-i-libanon-1.17800856",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 11:44:21 GMT"
+      "pubDate": "Mon, 09 Mar 2026 13:01:20 GMT"
     },
     {
-      "title": "Aftenposten: Marius Borg Høiby har begjært seg løslatt fra fengsel",
-      "link": "https://www.nrk.no/nyheter/aftenposten_-marius-borg-hoiby-har-begjaert-seg-loslatt-fra-fengsel-1.17800694",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Mon, 09 Mar 2026 11:33:57 GMT"
-    },
-    {
-      "title": "USA ber ikke-essensielt personale om å forlate konsulatet ved Adana i Sør‑Tyrkia",
-      "link": "https://www.nrk.no/nyheter/usa-ber-ikke-essensielt-personale_om-a-forlate-konsulatet-ved-adana-i-sor_tyrkia-1.17800487",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 11:27:02 GMT"
-    },
-    {
-      "title": "Iran: – Utnevnelsen av Irans øverste leder har ført til fortvilelse i Israel og USA",
-      "link": "https://www.nrk.no/nyheter/iran_-_-utnevnelsen-av-irans-overste-leder-har-fort-til-fortvilelse-i-israel-og-usa-1.17800458",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 11:13:01 GMT"
-    },
-    {
-      "title": "Ambassade-eksplosjonen: Politiet leter etter én mistenkt",
-      "link": "https://www.nrk.no/stor-oslo/ambassade-eksplosjonen_-politiet-leter-etter-en-mistenkt-1.17800511",
+      "title": "To personer er siktet etter pågripelse ved synagoge i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/to-personer-er-siktet-etter-pagripelse-ved-synagoge-i-oslo-1.17800734",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 09 Mar 2026 10:45:51 GMT"
+      "pubDate": "Mon, 09 Mar 2026 12:27:06 GMT"
     },
     {
-      "title": "Universal Music Norden gjør endringer",
-      "link": "https://www.nrk.no/nyheter/universal-music-norden-gjor-endringer-1.17800476",
-      "category": "Musikk",
-      "pubDate": "Mon, 09 Mar 2026 10:22:48 GMT"
+      "title": "To siktet etter skyting i Skien",
+      "link": "https://www.nrk.no/vestfoldogtelemark/to-siktet-etter-skyting-i-skien-1.17800710",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 09 Mar 2026 12:13:01 GMT"
+    },
+    {
+      "title": "Iransk rakett skutt ned av Nato i tyrkisk luftrom, ifølge Tyrkia",
+      "link": "https://www.nrk.no/nyheter/iransk-rakett-skutt-ned-av-nato-i-tyrkisk-luftrom_-ifolge-tyrkia-1.17800703",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 09 Mar 2026 12:05:28 GMT"
     }
   ]
 }
