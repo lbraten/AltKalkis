@@ -1,12 +1,18 @@
 {
-  "updatedAt": "2026-03-09T16:00:59.275Z",
+  "updatedAt": "2026-03-09T17:25:09.573Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Liten økning på Oslo Børs",
-      "link": "https://www.nrk.no/nyheter/liten-okning-pa-oslo-bors-1.17801065",
+      "title": "Oslo Børs litt opp – oljeprisen litt ned",
+      "link": "https://www.nrk.no/nyheter/oslo-bors-litt-opp-_-oljeprisen-litt-ned-1.17801065",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 09 Mar 2026 15:44:47 GMT"
+    },
+    {
+      "title": "Gårdsbrannen i Levanger: Mann funnet omkommet",
+      "link": "https://www.nrk.no/trondelag/gardsbrannen-i-levanger_-mann-funnet-omkommet-1.17801004",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 09 Mar 2026 15:28:57 GMT"
     },
     {
       "title": "Iran-topp: Hormuzstredet forblir utrygt mens krigen pågår",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/afp_-frankrike-forbereder-_defensiv-operasjon_-for-a-apne-hormuzstredet-1.17800903",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 09 Mar 2026 13:34:37 GMT"
-    },
-    {
-      "title": "LO: Arbeidsledigheten biter seg fast på 4,5 prosent",
-      "link": "https://www.nrk.no/nyheter/lo_-arbeidsledigheten-biter-seg-fast-pa-4_5-prosent-1.17800434",
-      "category": "LO - Landsorganisasjonen",
-      "pubDate": "Mon, 09 Mar 2026 13:01:35 GMT"
     }
   ]
 }
