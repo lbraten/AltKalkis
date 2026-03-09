@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-09T18:06:57.900Z",
+  "updatedAt": "2026-03-09T19:22:26.652Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Danmark: Stjålet baby funnet i god behold",
+      "link": "https://www.nrk.no/nyheter/danmark_-stjalet-baby-funnet-i-god-behold-1.17801484",
+      "category": "Danmark",
+      "pubDate": "Mon, 09 Mar 2026 18:52:28 GMT"
+    },
+    {
+      "title": "Mann pågrepet etter kroppskrenkelse mot kvinne i Bergen",
+      "link": "https://www.nrk.no/vestland/mann-pagrepet-etter-kroppskrenkelse-mot-kvinne-i-bergen-1.17801358",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 09 Mar 2026 18:27:00 GMT"
+    },
     {
       "title": "Trump varsler første pressekonferanse under Iran-krigen",
       "link": "https://www.nrk.no/nyheter/trump-varsler-forste-pressekonferanse-under-iran-krigen-1.17801407",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/trondelag/gardsbrannen-i-levanger_-mann-funnet-omkommet-1.17801004",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Mon, 09 Mar 2026 15:28:57 GMT"
-    },
-    {
-      "title": "Iran-topp: Hormuzstredet forblir utrygt mens krigen pågår",
-      "link": "https://www.nrk.no/nyheter/iran-topp_-hormuzstredet-forblir-utrygt-mens-krigen-pagar-1.17800991",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 15:07:13 GMT"
-    },
-    {
-      "title": "Canadas statsminister besøker Norge",
-      "link": "https://www.nrk.no/nyheter/canadas-statsminister-besoker-norge-1.17801130",
-      "category": "Støre-regjeringen",
-      "pubDate": "Mon, 09 Mar 2026 14:39:39 GMT"
     }
   ]
 }
