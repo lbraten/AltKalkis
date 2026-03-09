@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-09T19:22:26.652Z",
+  "updatedAt": "2026-03-09T19:57:52.951Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump til CBS: Tror krigen er så godt som fullført",
+      "link": "https://www.nrk.no/nyheter/trump-til-cbs_-tror-krigen-er-sa-godt-som-fullfort-1.17801267",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 09 Mar 2026 19:32:11 GMT"
+    },
+    {
+      "title": "Bil har kjørt inn i dagligvarebutikk i Kragerø",
+      "link": "https://www.nrk.no/vestfoldogtelemark/bil-har-kjort-inn-i-dagligvarebutikk-i-kragero-1.17801439",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 09 Mar 2026 19:13:58 GMT"
+    },
     {
       "title": "Danmark: Stjålet baby funnet i god behold",
       "link": "https://www.nrk.no/nyheter/danmark_-stjalet-baby-funnet-i-god-behold-1.17801484",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-personer-tiltalt-etter-angrep-i-new-york-1.17801208",
       "category": "USA",
       "pubDate": "Mon, 09 Mar 2026 17:39:50 GMT"
-    },
-    {
-      "title": "Oslo Børs litt opp – oljeprisen litt ned",
-      "link": "https://www.nrk.no/nyheter/oslo-bors-litt-opp-_-oljeprisen-litt-ned-1.17801065",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 09 Mar 2026 15:44:47 GMT"
-    },
-    {
-      "title": "Gårdsbrannen i Levanger: Mann funnet omkommet",
-      "link": "https://www.nrk.no/trondelag/gardsbrannen-i-levanger_-mann-funnet-omkommet-1.17801004",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Mon, 09 Mar 2026 15:28:57 GMT"
     }
   ]
 }
