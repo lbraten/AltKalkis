@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-09T10:12:34.682Z",
+  "updatedAt": "2026-03-09T11:09:40.119Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ambassade-eksplosjonen: Politiet leter etter én mistenkt",
+      "link": "https://www.nrk.no/stor-oslo/ambassade-eksplosjonen_-politiet-leter-etter-en-mistenkt-1.17800511",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 09 Mar 2026 10:45:51 GMT"
+    },
+    {
+      "title": "Universal Music Norden gjør endringer",
+      "link": "https://www.nrk.no/nyheter/universal-music-norden-gjor-endringer-1.17800476",
+      "category": "Musikk",
+      "pubDate": "Mon, 09 Mar 2026 10:22:48 GMT"
+    },
     {
       "title": "Iran: Ikke realistisk med våpenhvile så lenge angrepene fortsetter",
       "link": "https://www.nrk.no/nyheter/iran_-ikke-realistisk-med-vapenhvile-sa-lenge-angrepene-fortsetter--1.17800267",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/stoltenberg-sier-iran-krigen-kan-pavirke-norsk-okonomi-1.17800375",
       "category": "Støre-regjeringen",
       "pubDate": "Mon, 09 Mar 2026 09:37:21 GMT"
-    },
-    {
-      "title": "EU vil alltid stå sammen med Ukraina",
-      "link": "https://www.nrk.no/nyheter/eu-vil-alltid-sta-sammen-med-ukraina-1.17800221",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Mon, 09 Mar 2026 09:31:55 GMT"
-    },
-    {
-      "title": "Israelsk luftangrep i Beirut",
-      "link": "https://www.nrk.no/nyheter/israelsk-luftangrep-i-beirut--1.17800109",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 08:34:10 GMT"
     }
   ]
 }
