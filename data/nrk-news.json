@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-09T11:09:40.119Z",
+  "updatedAt": "2026-03-09T11:56:56.199Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IDF: angrep mot flere byer i Iran",
+      "link": "https://www.nrk.no/nyheter/idf_-angrep-mot-flere-byer-i-iran-1.17800675",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 09 Mar 2026 11:44:21 GMT"
+    },
+    {
+      "title": "Aftenposten: Marius Borg Høiby har begjært seg løslatt fra fengsel",
+      "link": "https://www.nrk.no/nyheter/aftenposten_-marius-borg-hoiby-har-begjaert-seg-loslatt-fra-fengsel-1.17800694",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Mon, 09 Mar 2026 11:33:57 GMT"
+    },
+    {
+      "title": "USA ber ikke-essensielt personale om å forlate konsulatet ved Adana i Sør‑Tyrkia",
+      "link": "https://www.nrk.no/nyheter/usa-ber-ikke-essensielt-personale_om-a-forlate-konsulatet-ved-adana-i-sor_tyrkia-1.17800487",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 09 Mar 2026 11:27:02 GMT"
+    },
+    {
+      "title": "Iran: – Utnevnelsen av Irans øverste leder har ført til fortvilelse i Israel og USA",
+      "link": "https://www.nrk.no/nyheter/iran_-_-utnevnelsen-av-irans-overste-leder-har-fort-til-fortvilelse-i-israel-og-usa-1.17800458",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 09 Mar 2026 11:13:01 GMT"
+    },
     {
       "title": "Ambassade-eksplosjonen: Politiet leter etter én mistenkt",
       "link": "https://www.nrk.no/stor-oslo/ambassade-eksplosjonen_-politiet-leter-etter-en-mistenkt-1.17800511",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/universal-music-norden-gjor-endringer-1.17800476",
       "category": "Musikk",
       "pubDate": "Mon, 09 Mar 2026 10:22:48 GMT"
-    },
-    {
-      "title": "Iran: Ikke realistisk med våpenhvile så lenge angrepene fortsetter",
-      "link": "https://www.nrk.no/nyheter/iran_-ikke-realistisk-med-vapenhvile-sa-lenge-angrepene-fortsetter--1.17800267",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 10:03:19 GMT"
-    },
-    {
-      "title": "Israel klager på svensk Eurovision-vinner",
-      "link": "https://www.nrk.no/nyheter/israel-klager-pa-svensk-eurovision-vinner-1.17800385",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Mon, 09 Mar 2026 09:53:20 GMT"
-    },
-    {
-      "title": "Stoltenberg: Venter en vekst i BNP",
-      "link": "https://www.nrk.no/nyheter/stoltenberg_-venter-en-vekst-i-bnp--1.17800398",
-      "category": "Støre-regjeringen",
-      "pubDate": "Mon, 09 Mar 2026 09:46:23 GMT"
-    },
-    {
-      "title": "Stoltenberg sier Iran-krigen kan påvirke norsk økonomi",
-      "link": "https://www.nrk.no/nyheter/stoltenberg-sier-iran-krigen-kan-pavirke-norsk-okonomi-1.17800375",
-      "category": "Støre-regjeringen",
-      "pubDate": "Mon, 09 Mar 2026 09:37:21 GMT"
     }
   ]
 }
