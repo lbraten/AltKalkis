@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-09T02:26:28.043Z",
+  "updatedAt": "2026-03-09T04:30:46.746Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisen kraftig opp",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-kraftig-opp--1.17799961",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 09 Mar 2026 04:29:06 GMT"
+    },
+    {
+      "title": "Europas våpenimport størst i verden",
+      "link": "https://www.nrk.no/nyheter/europas-vapenimport-storst-i-verden-1.17799963",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 09 Mar 2026 03:19:18 GMT"
+    },
+    {
+      "title": "32 personer såret i iransk droneangrep i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/32-personer-saret-i-iransk-droneangrep-i-persiabukta--1.17799959",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 09 Mar 2026 02:32:29 GMT"
+    },
     {
       "title": "Kraftig fall på børsen i Hong Kong",
       "link": "https://www.nrk.no/nyheter/kraftig-fall-pa-borsen-i-hong-kong-1.17799958",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-skyteepisode-ved-rihannas-bolig-1.17799955",
       "category": "Musikk",
       "pubDate": "Mon, 09 Mar 2026 01:36:45 GMT"
-    },
-    {
-      "title": "Hizbollah melder om kamper mot israelske styrker i Libanon",
-      "link": "https://www.nrk.no/nyheter/hizbollah-melder-om-kamper-mot-israelske-styrker-i-libanon-1.17799954",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 01:26:46 GMT"
-    },
-    {
-      "title": "Eksplosjoner hørt i Doha",
-      "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-doha-1.17799953",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 01:22:04 GMT"
-    },
-    {
-      "title": "Bloomberg: Oljeprisen skyter i været",
-      "link": "https://www.nrk.no/nyheter/bloomberg_-oljeprisen-skyter-i-vaeret--1.17799952",
-      "category": "Oljeprisen",
-      "pubDate": "Sun, 08 Mar 2026 23:54:41 GMT"
     }
   ]
 }
