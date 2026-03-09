@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-09T19:57:52.951Z",
+  "updatedAt": "2026-03-09T20:45:15.346Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fem iranske fotballkvinner får opphold i Australia",
+      "link": "https://www.nrk.no/nyheter/fem-iranske-fotballkvinner-far-opphold-i-australia-1.17801133",
+      "category": "Iran",
+      "pubDate": "Mon, 09 Mar 2026 20:14:47 GMT"
+    },
     {
       "title": "Trump til CBS: Tror krigen er så godt som fullført",
       "link": "https://www.nrk.no/nyheter/trump-til-cbs_-tror-krigen-er-sa-godt-som-fullfort-1.17801267",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-varsler-forste-pressekonferanse-under-iran-krigen-1.17801407",
       "category": "USA",
       "pubDate": "Mon, 09 Mar 2026 17:54:37 GMT"
-    },
-    {
-      "title": "To personer tiltalt etter angrep i New York",
-      "link": "https://www.nrk.no/nyheter/to-personer-tiltalt-etter-angrep-i-new-york-1.17801208",
-      "category": "USA",
-      "pubDate": "Mon, 09 Mar 2026 17:39:50 GMT"
     }
   ]
 }
