@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-10T22:31:18.414Z",
+  "updatedAt": "2026-03-10T23:30:57.554Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel sier de gjennomfører angrep mot Iran og Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-sier-de-gjennomforer-angrep-mot-iran-og-libanon-1.17803646",
+      "category": "Iran",
+      "pubDate": "Tue, 10 Mar 2026 23:17:43 GMT"
+    },
+    {
+      "title": "To iranske fotballkvinner får asyl i Australia",
+      "link": "https://www.nrk.no/nyheter/to-iranske-fotballkvinner-far-asyl-i-australia-1.17803609",
+      "category": "Iran",
+      "pubDate": "Tue, 10 Mar 2026 23:00:25 GMT"
+    },
     {
       "title": "G7-leiarane skal snakke saman onsdag",
       "link": "https://www.nrk.no/nyheter/g7-leiarane-skal-snakke-saman-onsdag-1.17803570",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-atvarar-iran-om-minelegging-av-hormuzsundet-1.17803501",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 10 Mar 2026 19:48:57 GMT"
-    },
-    {
-      "title": "Canada styrker tryggleiken ved amerikanske og israelske diplomatiske bygningar",
-      "link": "https://www.nrk.no/nyheter/canada-styrker-tryggleiken-ved-amerikanske-og-israelske-diplomatiske-bygningar-1.17803435",
-      "category": "Canada",
-      "pubDate": "Tue, 10 Mar 2026 19:33:42 GMT"
-    },
-    {
-      "title": "Det kvite hus: Oljetankar har ikkje blitt eskortert gjennom Hormuzsundet",
-      "link": "https://www.nrk.no/nyheter/det-kvite-hus_-oljetankar-har-ikkje-blitt-eskortert-gjennom-hormuzsundet-1.17803380",
-      "category": "USA",
-      "pubDate": "Tue, 10 Mar 2026 18:31:58 GMT"
     }
   ]
 }
