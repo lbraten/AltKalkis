@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-10T17:54:01.725Z",
+  "updatedAt": "2026-03-10T18:53:57.908Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Det kvite hus: Oljetankar har ikkje blitt eskortert gjennom Hormuzsundet",
+      "link": "https://www.nrk.no/nyheter/det-kvite-hus_-oljetankar-har-ikkje-blitt-eskortert-gjennom-hormuzsundet-1.17803380",
+      "category": "USA",
+      "pubDate": "Tue, 10 Mar 2026 18:31:58 GMT"
+    },
+    {
+      "title": "Pentagon: Om lag 140 skadde amerikanske soldatar",
+      "link": "https://www.nrk.no/nyheter/pentagon_-om-lag-140-skadde-amerikanske-soldatar-1.17802755",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 18:22:32 GMT"
+    },
+    {
+      "title": "Rød-Larsens arkiv: UD erkjenner at de kunne gjort mer",
+      "link": "https://www.nrk.no/nyheter/rod-larsens-arkiv_-ud-erkjenner-at-de-kunne-gjort-mer-1.17803402",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Tue, 10 Mar 2026 18:16:31 GMT"
+    },
     {
       "title": "Nato-ambassadørar skal møte med partnarar statane i Persiabukta",
       "link": "https://www.nrk.no/nyheter/nato-ambassadorar-skal-mote-med-partnarar-statane-i-persiabukta-1.17803350",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fire-iranske-diplomatar-drepne-i-israelsk-angrep-1.17803301",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 10 Mar 2026 17:13:38 GMT"
-    },
-    {
-      "title": "Båtbrann i Kvinnherad sløkt – blir slept til land",
-      "link": "https://www.nrk.no/vestland/batbrann-i-kvinnherad-slokt-_-blir-slept-til-land-1.17803224",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 10 Mar 2026 16:53:01 GMT"
-    },
-    {
-      "title": "Iran angrip Israel og amerikanske mål",
-      "link": "https://www.nrk.no/nyheter/iran-angrip-israel-og-amerikanske-mal-1.17803280",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 16:45:40 GMT"
-    },
-    {
-      "title": "Ukrainsk missilangrep mot Russland",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-missilangrep-mot-russland-1.17803267",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 10 Mar 2026 16:20:47 GMT"
     }
   ]
 }
