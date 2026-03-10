@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-10T19:39:39.488Z",
+  "updatedAt": "2026-03-10T20:37:27.301Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fleire omkomne etter bussbrann i Sveits",
+      "link": "https://www.nrk.no/nyheter/fleire-omkomne-etter-bussbrann-i-sveits-1.17803539",
+      "category": "Sveits",
+      "pubDate": "Tue, 10 Mar 2026 20:30:51 GMT"
+    },
+    {
+      "title": "FN-ambassadør: Over 1300 drepne sivile i Iran",
+      "link": "https://www.nrk.no/nyheter/fn-ambassador_-over-1300-drepne-sivile-i-iran-1.17803522",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 20:02:01 GMT"
+    },
+    {
+      "title": "Trump åtvarar Iran om minelegging av Hormuzsundet",
+      "link": "https://www.nrk.no/nyheter/trump-atvarar-iran-om-minelegging-av-hormuzsundet-1.17803501",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 19:48:57 GMT"
+    },
     {
       "title": "Canada styrker tryggleiken ved amerikanske og israelske diplomatiske bygningar",
       "link": "https://www.nrk.no/nyheter/canada-styrker-tryggleiken-ved-amerikanske-og-israelske-diplomatiske-bygningar-1.17803435",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/pentagon_-om-lag-140-skadde-amerikanske-soldatar-1.17802755",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 10 Mar 2026 18:22:32 GMT"
-    },
-    {
-      "title": "Rød-Larsens arkiv: UD erkjenner at de kunne gjort mer",
-      "link": "https://www.nrk.no/nyheter/rod-larsens-arkiv_-ud-erkjenner-at-de-kunne-gjort-mer-1.17803402",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Tue, 10 Mar 2026 18:16:31 GMT"
-    },
-    {
-      "title": "Nato-ambassadørar skal møte med partnarar statane i Persiabukta",
-      "link": "https://www.nrk.no/nyheter/nato-ambassadorar-skal-mote-med-partnarar-statane-i-persiabukta-1.17803350",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 17:42:20 GMT"
-    },
-    {
-      "title": "Forvirring om oljetankar i Hormuzsundet",
-      "link": "https://www.nrk.no/nyheter/forvirring-om-oljetankar-i-hormuzsundet-1.17803344",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 17:20:39 GMT"
     }
   ]
 }
