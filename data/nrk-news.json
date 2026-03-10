@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-10T02:11:53.749Z",
+  "updatedAt": "2026-03-10T04:20:59.035Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Driftsbygning brant ned i Andøy – mange storfe brant inne",
+      "link": "https://www.nrk.no/nyheter/driftsbygning-brant-ned-i-andoy-_-mange-storfe-brant-inne-1.17801666",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 10 Mar 2026 03:52:49 GMT"
+    },
+    {
+      "title": "J.D. Vance tok imot båren til drept amerikansk soldat",
+      "link": "https://www.nrk.no/nyheter/j.d.-vance-tok-imot-baren-til-drept-amerikansk-soldat-1.17801673",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 03:29:47 GMT"
+    },
+    {
+      "title": "EUs klimaovervåking: Årets februarmåned den femte varmeste noensinne",
+      "link": "https://www.nrk.no/nyheter/eus-klimaovervaking_-arets-februarmaned-den-femte-varmeste-noensinne-1.17801672",
+      "category": "Klima og miljø",
+      "pubDate": "Tue, 10 Mar 2026 03:04:46 GMT"
+    },
+    {
+      "title": "Flyselskaper øker prisene etter kraftig hopp i drivstoffkostnader",
+      "link": "https://www.nrk.no/nyheter/flyselskaper-oker-prisene-etter-kraftig-hopp-i-drivstoffkostnader-1.17801671",
+      "category": "Flybransjen",
+      "pubDate": "Tue, 10 Mar 2026 02:48:59 GMT"
+    },
+    {
+      "title": "Kroatia har gjeninnført obligatorisk verneplikt",
+      "link": "https://www.nrk.no/nyheter/kroatia-har-gjeninnfort-obligatorisk-verneplikt-1.17801670",
+      "category": "Kroatia",
+      "pubDate": "Tue, 10 Mar 2026 02:40:50 GMT"
+    },
     {
       "title": "Sør-Korea: Kan ikke hindre USA i å sende egne våpen fra Sør-Korea til Midtøsten",
       "link": "https://www.nrk.no/nyheter/sor-korea_-kan-ikke-hindre-usa-i-a-sende-egne-vapen-fra-sor-korea-til-midtosten-1.17801662",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 10 Mar 2026 01:43:14 GMT"
-    },
-    {
-      "title": "Australia sender overvåkingsfly og missiler til Midtøsten",
-      "link": "https://www.nrk.no/nyheter/australia-sender-overvakingsfly-og-missiler-til-midtosten-1.17801664",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 01:04:37 GMT"
-    },
-    {
-      "title": "Revolusjonsgarden: – Vi bestemmer når krigen er over",
-      "link": "https://www.nrk.no/nyheter/revolusjonsgarden_-_-vi-bestemmer-nar-krigen-er-over-1.17801663",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 00:28:06 GMT"
-    },
-    {
-      "title": "Trump vurderer å lette Russland-sanksjoner for å dempe oljeprisen",
-      "link": "https://www.nrk.no/nyheter/trump-vurderer-a-lette-russland-sanksjoner-for-a-dempe-oljeprisen-1.17801661",
-      "category": "Russland og USA",
-      "pubDate": "Mon, 09 Mar 2026 23:46:26 GMT"
-    },
-    {
-      "title": "Brann i bil i Kvitsøytunnelen som er under bygging",
-      "link": "https://www.nrk.no/nyheter/brann-i-bil-i-kvitsoytunnelen-som-er-under-bygging-1.17801660",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 09 Mar 2026 23:25:01 GMT"
-    },
-    {
-      "title": "USA krever at Afghanistan løslater amerikanske fanger",
-      "link": "https://www.nrk.no/nyheter/usa-krever-at-afghanistan-loslater-amerikanske-fanger-1.17801659",
-      "category": "Afghanistan",
-      "pubDate": "Mon, 09 Mar 2026 23:20:02 GMT"
     }
   ]
 }
