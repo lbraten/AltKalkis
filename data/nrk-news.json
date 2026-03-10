@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-10T14:13:08.393Z",
+  "updatedAt": "2026-03-10T15:31:51.207Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann sikta for forsøk på overgrep av baby",
+      "link": "https://www.nrk.no/nyheter/mann-sikta-for-forsok-pa-overgrep-av-baby-1.17803137",
+      "category": "Danmark",
+      "pubDate": "Tue, 10 Mar 2026 14:53:36 GMT"
+    },
+    {
+      "title": "Blir varetektsfengslet i fire uker",
+      "link": "https://www.nrk.no/mr/blir-varetektsfengslet-i-fire-uker-1.17803035",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Tue, 10 Mar 2026 14:48:57 GMT"
+    },
+    {
+      "title": "EBU kommenterer Mello-vinnaren sine utsegner",
+      "link": "https://www.nrk.no/nyheter/ebu-kommenterer-mello-vinnaren-sine-utsegner-1.17803115",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Tue, 10 Mar 2026 14:35:08 GMT"
+    },
+    {
+      "title": "Kurdisk offiser blir assisterande forsvarsminister i Syria",
+      "link": "https://www.nrk.no/nyheter/kurdisk-offiser-blir-assisterande-forsvarsminister-i-syria-1.17803083",
+      "category": "Syria",
+      "pubDate": "Tue, 10 Mar 2026 14:23:10 GMT"
+    },
+    {
+      "title": "Vinteren var 1,5 grader under normalen",
+      "link": "https://www.nrk.no/nyheter/vinteren-var-1_5-grader-under-normalen-1.17803075",
+      "category": "Klima og miljø",
+      "pubDate": "Tue, 10 Mar 2026 14:15:02 GMT"
+    },
     {
       "title": "Strengare grensekontroll mellom Libanon og Syria",
       "link": "https://www.nrk.no/nyheter/strengare-grensekontroll-mellom-libanon-og-syria-1.17803009",
       "category": "Syria",
       "pubDate": "Tue, 10 Mar 2026 14:09:11 GMT"
-    },
-    {
-      "title": "Telia: Problem med å ringe er løst",
-      "link": "https://www.nrk.no/nyheter/telia_-problem-med-a-ringe-er-lost-1.17802999",
-      "category": "Telia",
-      "pubDate": "Tue, 10 Mar 2026 13:47:50 GMT"
-    },
-    {
-      "title": "Israelske angrep mot Beirut",
-      "link": "https://www.nrk.no/nyheter/israelske-angrep-mot-beirut-1.17802927",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 13:45:40 GMT"
-    },
-    {
-      "title": "Oljeraffineri i Abu Dhabi stenger etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/oljeraffineri-i-abu-dhabi-stenger-etter-droneangrep-1.17802744",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 13:23:45 GMT"
-    },
-    {
-      "title": "Varslingssak mot fiskeridirektøren",
-      "link": "https://www.nrk.no/nordland/varslingssak-mot-fiskeridirektoren-1.17802890",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Tue, 10 Mar 2026 13:22:15 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Arna",
-      "link": "https://www.nrk.no/vestland/trafikkulykke-i-arna-1.17802905",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 10 Mar 2026 13:19:32 GMT"
     }
   ]
 }
