@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-10T20:37:27.301Z",
+  "updatedAt": "2026-03-10T21:31:28.743Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "G7-leiarane skal snakke saman onsdag",
+      "link": "https://www.nrk.no/nyheter/g7-leiarane-skal-snakke-saman-onsdag-1.17803570",
+      "category": "G7-landene",
+      "pubDate": "Tue, 10 Mar 2026 20:54:45 GMT"
+    },
     {
       "title": "Fleire omkomne etter bussbrann i Sveits",
       "link": "https://www.nrk.no/nyheter/fleire-omkomne-etter-bussbrann-i-sveits-1.17803539",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/det-kvite-hus_-oljetankar-har-ikkje-blitt-eskortert-gjennom-hormuzsundet-1.17803380",
       "category": "USA",
       "pubDate": "Tue, 10 Mar 2026 18:31:58 GMT"
-    },
-    {
-      "title": "Pentagon: Om lag 140 skadde amerikanske soldatar",
-      "link": "https://www.nrk.no/nyheter/pentagon_-om-lag-140-skadde-amerikanske-soldatar-1.17802755",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 18:22:32 GMT"
     }
   ]
 }
