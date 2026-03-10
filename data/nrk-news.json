@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-09T23:30:43.971Z",
+  "updatedAt": "2026-03-10T02:11:53.749Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sør-Korea: Kan ikke hindre USA i å sende egne våpen fra Sør-Korea til Midtøsten",
+      "link": "https://www.nrk.no/nyheter/sor-korea_-kan-ikke-hindre-usa-i-a-sende-egne-vapen-fra-sor-korea-til-midtosten-1.17801662",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 01:43:14 GMT"
+    },
+    {
+      "title": "Australia sender overvåkingsfly og missiler til Midtøsten",
+      "link": "https://www.nrk.no/nyheter/australia-sender-overvakingsfly-og-missiler-til-midtosten-1.17801664",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 01:04:37 GMT"
+    },
+    {
+      "title": "Revolusjonsgarden: – Vi bestemmer når krigen er over",
+      "link": "https://www.nrk.no/nyheter/revolusjonsgarden_-_-vi-bestemmer-nar-krigen-er-over-1.17801663",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 00:28:06 GMT"
+    },
+    {
+      "title": "Trump vurderer å lette Russland-sanksjoner for å dempe oljeprisen",
+      "link": "https://www.nrk.no/nyheter/trump-vurderer-a-lette-russland-sanksjoner-for-a-dempe-oljeprisen-1.17801661",
+      "category": "Russland og USA",
+      "pubDate": "Mon, 09 Mar 2026 23:46:26 GMT"
+    },
     {
       "title": "Brann i bil i Kvitsøytunnelen som er under bygging",
       "link": "https://www.nrk.no/nyheter/brann-i-bil-i-kvitsoytunnelen-som-er-under-bygging-1.17801660",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-krever-at-afghanistan-loslater-amerikanske-fanger-1.17801659",
       "category": "Afghanistan",
       "pubDate": "Mon, 09 Mar 2026 23:20:02 GMT"
-    },
-    {
-      "title": "Jordskjelv utenfor Italia i Tyrrenhavet",
-      "link": "https://www.nrk.no/nyheter/jordskjelv-utenfor-italia-i-tyrrenhavet--1.17801658",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 09 Mar 2026 23:15:38 GMT"
-    },
-    {
-      "title": "Politiet har pågrepet mann som rømte fra arrest i Ålesund",
-      "link": "https://www.nrk.no/nyheter/politiet-har-pagrepet-mann-som-romte-fra-arrest-i-alesund-1.17801657",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 09 Mar 2026 22:47:28 GMT"
-    },
-    {
-      "title": "Trump ble presset på angrep mot jenteskole i Iran",
-      "link": "https://www.nrk.no/nyheter/trump-ble-presset-pa-angrep-mot-jenteskole-i-iran-1.17801653",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 09 Mar 2026 22:40:23 GMT"
-    },
-    {
-      "title": "En drept i iransk angrep mot Bahrains hovedstad",
-      "link": "https://www.nrk.no/nyheter/en-drept-i-iransk-angrep-mot-bahrains-hovedstad-1.17801652",
-      "category": "Bahrain",
-      "pubDate": "Mon, 09 Mar 2026 22:31:16 GMT"
     }
   ]
 }
