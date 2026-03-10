@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-10T10:42:24.108Z",
+  "updatedAt": "2026-03-10T11:35:02.537Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IDF: Startet en ny bølge av angrep mot Teheran",
+      "link": "https://www.nrk.no/nyheter/idf_-startet-en-ny-bolge-av-angrep-mot-teheran-1.17802431",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 11:03:30 GMT"
+    },
+    {
+      "title": "UD utvider reiseadvarselen for Nigeria",
+      "link": "https://www.nrk.no/nyheter/ud-utvider-reiseadvarselen-for-nigeria-1.17802396",
+      "category": "Nigeria",
+      "pubDate": "Tue, 10 Mar 2026 11:00:35 GMT"
+    },
+    {
+      "title": "FN: Russland begår forbrytelser mot menneskeheten ved tvangsflytting av Ukrainske barn",
+      "link": "https://www.nrk.no/nyheter/fn_-russland-begar-forbrytelser-mot-menneskeheten-ved-tvangsflytting-av-ukrainske-barn--1.17802241",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 10 Mar 2026 10:47:18 GMT"
+    },
+    {
+      "title": "Politiet om pågripelse ved synagogen: Fremstår tilfeldig",
+      "link": "https://www.nrk.no/stor-oslo/politiet-om-pagripelse-ved-synagogen_-fremstar-tilfeldig-1.17802308",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 10 Mar 2026 10:42:12 GMT"
+    },
     {
       "title": "Melding om alvorlig voldshendelse i Stavanger – politiet er bevæpnet",
       "link": "https://www.nrk.no/rogaland/melding-om-alvorlig-voldshendelse-i-stavanger-_-politiet-er-bevaepnet-1.17802366",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/innlandet/telia-har-problemer-1.17802032",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Tue, 10 Mar 2026 10:03:21 GMT"
-    },
-    {
-      "title": "Angrep nær Tyrus i Sør‑Libanon",
-      "link": "https://www.nrk.no/nyheter/angrep-naer-tyrus-i-sor_libanon-1.17802221",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 10:01:51 GMT"
-    },
-    {
-      "title": "FN: 100.000 mennesker fordrevet i Libanon etter krigen i Midtøsten på en dag",
-      "link": "https://www.nrk.no/nyheter/fn_-100.000-mennesker-fordrevet-i-libanon-etter-krigen-i-midtosten-pa-en-dag-1.17802066",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 09:55:17 GMT"
-    },
-    {
-      "title": "Væpnet politiaksjon i Skien – en person pågrepet",
-      "link": "https://www.nrk.no/vestfoldogtelemark/vaepnet-politiaksjon-i-skien-_-en-person-pagrepet-1.17801981",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 10 Mar 2026 09:32:08 GMT"
-    },
-    {
-      "title": "Norwegian innfører drivstofftillegg på grunn av økte drivstoffkostnader",
-      "link": "https://www.nrk.no/nyheter/norwegian-innforer-drivstofftillegg-pa-grunn-av-okte-drivstoffkostnader-1.17801930",
-      "category": "Flyselskapet Norwegian",
-      "pubDate": "Tue, 10 Mar 2026 09:00:10 GMT"
     }
   ]
 }
