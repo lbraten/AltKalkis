@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-10T18:53:57.908Z",
+  "updatedAt": "2026-03-10T19:39:39.488Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Canada styrker tryggleiken ved amerikanske og israelske diplomatiske bygningar",
+      "link": "https://www.nrk.no/nyheter/canada-styrker-tryggleiken-ved-amerikanske-og-israelske-diplomatiske-bygningar-1.17803435",
+      "category": "Canada",
+      "pubDate": "Tue, 10 Mar 2026 19:33:42 GMT"
+    },
     {
       "title": "Det kvite hus: Oljetankar har ikkje blitt eskortert gjennom Hormuzsundet",
       "link": "https://www.nrk.no/nyheter/det-kvite-hus_-oljetankar-har-ikkje-blitt-eskortert-gjennom-hormuzsundet-1.17803380",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/forvirring-om-oljetankar-i-hormuzsundet-1.17803344",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 10 Mar 2026 17:20:39 GMT"
-    },
-    {
-      "title": "Fire iranske diplomatar drepne i israelsk angrep",
-      "link": "https://www.nrk.no/nyheter/fire-iranske-diplomatar-drepne-i-israelsk-angrep-1.17803301",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 17:13:38 GMT"
     }
   ]
 }
