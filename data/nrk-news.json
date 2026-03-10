@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-10T08:48:27.952Z",
+  "updatedAt": "2026-03-10T09:49:22.669Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Væpnet politiaksjon i Skien – en person pågrepet",
+      "link": "https://www.nrk.no/vestfoldogtelemark/vaepnet-politiaksjon-i-skien-_-en-person-pagrepet-1.17801981",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 10 Mar 2026 09:32:08 GMT"
+    },
+    {
+      "title": "Norwegian innfører drivstofftillegg på grunn av økte drivstoffkostnader",
+      "link": "https://www.nrk.no/nyheter/norwegian-innforer-drivstofftillegg-pa-grunn-av-okte-drivstoffkostnader-1.17801930",
+      "category": "Flyselskapet Norwegian",
+      "pubDate": "Tue, 10 Mar 2026 09:00:10 GMT"
+    },
     {
       "title": "James Stove Lorentzen (H) går av som byråd i Oslo",
       "link": "https://www.nrk.no/stor-oslo/james-stove-lorentzen-_h_-gar-av-som-byrad-i-oslo--1.17801721",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/idf_-advarer-innbyggerne-i-tyrus-og-sidon-om-et-angrep-pa-hizbollah_infrastruktur-1.17801873",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 10 Mar 2026 07:55:49 GMT"
-    },
-    {
-      "title": "Thor Haakon Bakke gir seg som politiker",
-      "link": "https://www.nrk.no/vestland/thor-haakon-bakke-gir-seg-som-politiker-1.17801890",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 10 Mar 2026 07:47:47 GMT"
-    },
-    {
-      "title": "Over 10. 000 kinesiske borgere har returnert fra land i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/-over-10.-000-kinesiske-borgere-har-returnert-fra-land-i-midtosten-1.17801862",
-      "category": "Kina",
-      "pubDate": "Tue, 10 Mar 2026 07:28:38 GMT"
     }
   ]
 }
