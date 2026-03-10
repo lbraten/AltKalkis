@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-10T16:57:48.147Z",
+  "updatedAt": "2026-03-10T17:54:01.725Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nato-ambassadørar skal møte med partnarar statane i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/nato-ambassadorar-skal-mote-med-partnarar-statane-i-persiabukta-1.17803350",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 17:42:20 GMT"
+    },
+    {
+      "title": "Forvirring om oljetankar i Hormuzsundet",
+      "link": "https://www.nrk.no/nyheter/forvirring-om-oljetankar-i-hormuzsundet-1.17803344",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 17:20:39 GMT"
+    },
+    {
+      "title": "Fire iranske diplomatar drepne i israelsk angrep",
+      "link": "https://www.nrk.no/nyheter/fire-iranske-diplomatar-drepne-i-israelsk-angrep-1.17803301",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 17:13:38 GMT"
+    },
+    {
+      "title": "Båtbrann i Kvinnherad sløkt – blir slept til land",
+      "link": "https://www.nrk.no/vestland/batbrann-i-kvinnherad-slokt-_-blir-slept-til-land-1.17803224",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 10 Mar 2026 16:53:01 GMT"
+    },
     {
       "title": "Iran angrip Israel og amerikanske mål",
       "link": "https://www.nrk.no/nyheter/iran-angrip-israel-og-amerikanske-mal-1.17803280",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukrainsk-missilangrep-mot-russland-1.17803267",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 10 Mar 2026 16:20:47 GMT"
-    },
-    {
-      "title": "No byrjar pollensesongen",
-      "link": "https://www.nrk.no/nyheter/no-byrjar-pollensesongen-1.17803227",
-      "category": "Pollenallergi",
-      "pubDate": "Tue, 10 Mar 2026 16:13:39 GMT"
-    },
-    {
-      "title": "Zelenskyj: Tyrkia klare som vert for forhandlingane mellom Ukraina og Russland",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-tyrkia-klare-som-vert-for-forhandlingane-mellom-ukraina-og-russland-1.17803167",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 10 Mar 2026 15:41:40 GMT"
-    },
-    {
-      "title": "Mann sikta for forsøk på overgrep av baby",
-      "link": "https://www.nrk.no/nyheter/mann-sikta-for-forsok-pa-overgrep-av-baby-1.17803137",
-      "category": "Danmark",
-      "pubDate": "Tue, 10 Mar 2026 14:53:36 GMT"
-    },
-    {
-      "title": "Blir varetektsfengslet i fire uker",
-      "link": "https://www.nrk.no/mr/blir-varetektsfengslet-i-fire-uker-1.17803035",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 10 Mar 2026 14:48:57 GMT"
     }
   ]
 }
