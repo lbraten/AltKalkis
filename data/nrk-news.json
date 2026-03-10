@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-10T15:31:51.207Z",
+  "updatedAt": "2026-03-10T16:57:48.147Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran angrip Israel og amerikanske mål",
+      "link": "https://www.nrk.no/nyheter/iran-angrip-israel-og-amerikanske-mal-1.17803280",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 16:45:40 GMT"
+    },
+    {
+      "title": "Ukrainsk missilangrep mot Russland",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-missilangrep-mot-russland-1.17803267",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 10 Mar 2026 16:20:47 GMT"
+    },
+    {
+      "title": "No byrjar pollensesongen",
+      "link": "https://www.nrk.no/nyheter/no-byrjar-pollensesongen-1.17803227",
+      "category": "Pollenallergi",
+      "pubDate": "Tue, 10 Mar 2026 16:13:39 GMT"
+    },
+    {
+      "title": "Zelenskyj: Tyrkia klare som vert for forhandlingane mellom Ukraina og Russland",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-tyrkia-klare-som-vert-for-forhandlingane-mellom-ukraina-og-russland-1.17803167",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 10 Mar 2026 15:41:40 GMT"
+    },
     {
       "title": "Mann sikta for forsøk på overgrep av baby",
       "link": "https://www.nrk.no/nyheter/mann-sikta-for-forsok-pa-overgrep-av-baby-1.17803137",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/mr/blir-varetektsfengslet-i-fire-uker-1.17803035",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Tue, 10 Mar 2026 14:48:57 GMT"
-    },
-    {
-      "title": "EBU kommenterer Mello-vinnaren sine utsegner",
-      "link": "https://www.nrk.no/nyheter/ebu-kommenterer-mello-vinnaren-sine-utsegner-1.17803115",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Tue, 10 Mar 2026 14:35:08 GMT"
-    },
-    {
-      "title": "Kurdisk offiser blir assisterande forsvarsminister i Syria",
-      "link": "https://www.nrk.no/nyheter/kurdisk-offiser-blir-assisterande-forsvarsminister-i-syria-1.17803083",
-      "category": "Syria",
-      "pubDate": "Tue, 10 Mar 2026 14:23:10 GMT"
-    },
-    {
-      "title": "Vinteren var 1,5 grader under normalen",
-      "link": "https://www.nrk.no/nyheter/vinteren-var-1_5-grader-under-normalen-1.17803075",
-      "category": "Klima og miljø",
-      "pubDate": "Tue, 10 Mar 2026 14:15:02 GMT"
-    },
-    {
-      "title": "Strengare grensekontroll mellom Libanon og Syria",
-      "link": "https://www.nrk.no/nyheter/strengare-grensekontroll-mellom-libanon-og-syria-1.17803009",
-      "category": "Syria",
-      "pubDate": "Tue, 10 Mar 2026 14:09:11 GMT"
     }
   ]
 }
