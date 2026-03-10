@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-10T04:20:59.035Z",
+  "updatedAt": "2026-03-10T05:32:28.126Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Driftsbygning brant ned i Andøy – mange storfe brant inne",
-      "link": "https://www.nrk.no/nyheter/driftsbygning-brant-ned-i-andoy-_-mange-storfe-brant-inne-1.17801666",
+      "title": "Irans utenriksminister: Forberedt på å fortsette angrepene",
+      "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-forberedt-pa-a-fortsette-angrepene--1.17801725",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 05:26:34 GMT"
+    },
+    {
+      "title": "Israelske angrep mot Libanon natt til tirsdag",
+      "link": "https://www.nrk.no/nyheter/israelske-angrep-mot-libanon-natt-til-tirsdag-1.17801710",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 10 Mar 2026 04:59:55 GMT"
+    },
+    {
+      "title": "Kinesisk eksport har økt kraftig i år",
+      "link": "https://www.nrk.no/nyheter/kinesisk-eksport-har-okt-kraftig-i-ar-1.17801708",
       "category": "NRK Nyheter",
-      "pubDate": "Tue, 10 Mar 2026 03:52:49 GMT"
+      "pubDate": "Tue, 10 Mar 2026 04:49:27 GMT"
     },
     {
-      "title": "J.D. Vance tok imot båren til drept amerikansk soldat",
-      "link": "https://www.nrk.no/nyheter/j.d.-vance-tok-imot-baren-til-drept-amerikansk-soldat-1.17801673",
+      "title": "Tilsynssjef varsler mer hemmelighold i oljebransjen",
+      "link": "https://www.nrk.no/nyheter/tilsynssjef-varsler-mer-hemmelighold-i-oljebransjen-1.17801707",
+      "category": "Oljebransjen",
+      "pubDate": "Tue, 10 Mar 2026 04:43:30 GMT"
+    },
+    {
+      "title": "Utfordrende for LO i lønnsoppgjøret",
+      "link": "https://www.nrk.no/nyheter/utfordrende-for-lo-i-lonnsoppgjoret--1.17801703",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 10 Mar 2026 04:38:40 GMT"
+    },
+    {
+      "title": "Emiratenes konsulat angrepet i Irak",
+      "link": "https://www.nrk.no/nyheter/emiratenes-konsulat-angrepet-i-irak-1.17801697",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 03:29:47 GMT"
-    },
-    {
-      "title": "EUs klimaovervåking: Årets februarmåned den femte varmeste noensinne",
-      "link": "https://www.nrk.no/nyheter/eus-klimaovervaking_-arets-februarmaned-den-femte-varmeste-noensinne-1.17801672",
-      "category": "Klima og miljø",
-      "pubDate": "Tue, 10 Mar 2026 03:04:46 GMT"
-    },
-    {
-      "title": "Flyselskaper øker prisene etter kraftig hopp i drivstoffkostnader",
-      "link": "https://www.nrk.no/nyheter/flyselskaper-oker-prisene-etter-kraftig-hopp-i-drivstoffkostnader-1.17801671",
-      "category": "Flybransjen",
-      "pubDate": "Tue, 10 Mar 2026 02:48:59 GMT"
-    },
-    {
-      "title": "Kroatia har gjeninnført obligatorisk verneplikt",
-      "link": "https://www.nrk.no/nyheter/kroatia-har-gjeninnfort-obligatorisk-verneplikt-1.17801670",
-      "category": "Kroatia",
-      "pubDate": "Tue, 10 Mar 2026 02:40:50 GMT"
-    },
-    {
-      "title": "Sør-Korea: Kan ikke hindre USA i å sende egne våpen fra Sør-Korea til Midtøsten",
-      "link": "https://www.nrk.no/nyheter/sor-korea_-kan-ikke-hindre-usa-i-a-sende-egne-vapen-fra-sor-korea-til-midtosten-1.17801662",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 01:43:14 GMT"
+      "pubDate": "Tue, 10 Mar 2026 04:36:46 GMT"
     }
   ]
 }
