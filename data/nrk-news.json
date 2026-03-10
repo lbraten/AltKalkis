@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-10T06:54:47.193Z",
+  "updatedAt": "2026-03-10T07:42:31.051Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 10. 000 kinesiske borgere har returnert fra land i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/-over-10.-000-kinesiske-borgere-har-returnert-fra-land-i-midtosten-1.17801862",
+      "category": "Kina",
+      "pubDate": "Tue, 10 Mar 2026 07:28:38 GMT"
+    },
+    {
+      "title": "Ritzau: SAS innfører midlertidig drivstofftillegg som følge av stigende oljepris",
+      "link": "https://www.nrk.no/nyheter/ritzau_-sas-innforer-midlertidig-drivstofftillegg-som-folge-av-stigende-oljepris-1.17801861",
+      "category": "Flyselskapet SAS",
+      "pubDate": "Tue, 10 Mar 2026 07:22:42 GMT"
+    },
+    {
+      "title": "Patriot-system utplasseres i Tyrkia",
+      "link": "https://www.nrk.no/nyheter/patriot-system-utplasseres-i-tyrkia-1.17801835",
+      "category": "Tyrkia",
+      "pubDate": "Tue, 10 Mar 2026 07:22:37 GMT"
+    },
+    {
+      "title": "Prisene steg med 2,7 prosent i februar",
+      "link": "https://www.nrk.no/nyheter/prisene-steg-med-2_7-prosent-i-februar--1.17801745",
+      "category": "Økonomi",
+      "pubDate": "Tue, 10 Mar 2026 07:00:48 GMT"
+    },
     {
       "title": "Irans utenriksminister: Forberedt på å fortsette angrepene",
       "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-forberedt-pa-a-fortsette-angrepene--1.17801725",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israelske-angrep-mot-libanon-natt-til-tirsdag-1.17801710",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 10 Mar 2026 04:59:55 GMT"
-    },
-    {
-      "title": "Kinesisk eksport har økt kraftig i år",
-      "link": "https://www.nrk.no/nyheter/kinesisk-eksport-har-okt-kraftig-i-ar-1.17801708",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 10 Mar 2026 04:49:27 GMT"
-    },
-    {
-      "title": "Tilsynssjef varsler mer hemmelighold i oljebransjen",
-      "link": "https://www.nrk.no/nyheter/tilsynssjef-varsler-mer-hemmelighold-i-oljebransjen-1.17801707",
-      "category": "Oljebransjen",
-      "pubDate": "Tue, 10 Mar 2026 04:43:30 GMT"
-    },
-    {
-      "title": "Utfordrende for LO i lønnsoppgjøret",
-      "link": "https://www.nrk.no/nyheter/utfordrende-for-lo-i-lonnsoppgjoret--1.17801703",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 10 Mar 2026 04:38:40 GMT"
-    },
-    {
-      "title": "Emiratenes konsulat angrepet i Irak",
-      "link": "https://www.nrk.no/nyheter/emiratenes-konsulat-angrepet-i-irak-1.17801697",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 04:36:46 GMT"
     }
   ]
 }
