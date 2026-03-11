@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-11T02:11:03.682Z",
+  "updatedAt": "2026-03-11T04:21:11.135Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Britisk containerskip skadet av mistenkt prosjektil",
+      "link": "https://www.nrk.no/nyheter/britisk-containerskip-skadet-av-mistenkt-prosjektil-1.17803657",
+      "category": "Storbritannia",
+      "pubDate": "Wed, 11 Mar 2026 03:54:21 GMT"
+    },
+    {
+      "title": "Politiet: fant trillebår med tyvegods",
+      "link": "https://www.nrk.no/nyheter/politiet_-fant-trillebar-med-tyvegods-1.17803656",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 03:32:37 GMT"
+    },
+    {
+      "title": "To personer skadet etter voldshendelse i Oslo",
+      "link": "https://www.nrk.no/nyheter/to-personer-skadet-etter-voldshendelse-i-oslo--1.17803652",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 03:21:18 GMT"
+    },
+    {
+      "title": "Storbritannia: Planlegger å offentliggjøre filer knyttet til Mandelsons ansettelse",
+      "link": "https://www.nrk.no/nyheter/storbritannia_-planlegger-a-offentliggjore-filer-knyttet-til-mandelsons-ansettelse-1.17803651",
+      "category": "Storbritannia",
+      "pubDate": "Wed, 11 Mar 2026 02:17:46 GMT"
+    },
     {
       "title": "Iran angriper flere mål i Midtøsten",
       "link": "https://www.nrk.no/nyheter/iran-angriper-flere-mal-i-midtosten-1.17803650",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brann-i-flere-campingbiler-pa-karmoy-1.17803648",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 11 Mar 2026 00:15:22 GMT"
-    },
-    {
-      "title": "Israel sier de gjennomfører angrep mot Iran og Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-sier-de-gjennomforer-angrep-mot-iran-og-libanon-1.17803646",
-      "category": "Iran",
-      "pubDate": "Tue, 10 Mar 2026 23:17:43 GMT"
-    },
-    {
-      "title": "To iranske fotballkvinner får asyl i Australia",
-      "link": "https://www.nrk.no/nyheter/to-iranske-fotballkvinner-far-asyl-i-australia-1.17803609",
-      "category": "Iran",
-      "pubDate": "Tue, 10 Mar 2026 23:00:25 GMT"
-    },
-    {
-      "title": "G7-leiarane skal snakke saman onsdag",
-      "link": "https://www.nrk.no/nyheter/g7-leiarane-skal-snakke-saman-onsdag-1.17803570",
-      "category": "G7-landene",
-      "pubDate": "Tue, 10 Mar 2026 20:54:45 GMT"
-    },
-    {
-      "title": "Seks omkomne etter bussbrann i Sveits",
-      "link": "https://www.nrk.no/nyheter/seks-omkomne-etter-bussbrann-i-sveits-1.17803539",
-      "category": "Sveits",
-      "pubDate": "Tue, 10 Mar 2026 20:30:51 GMT"
     }
   ]
 }
