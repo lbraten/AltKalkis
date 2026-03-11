@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-11T09:46:09.239Z",
+  "updatedAt": "2026-03-11T10:42:27.473Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "KLM kansellerer alle flyvninger til Dubai fram til 28. mars",
+      "link": "https://www.nrk.no/nyheter/klm-kansellerer-alle-flyvninger-til-dubai-fram-til-28.-mars-1.17804244",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 10:33:36 GMT"
+    },
+    {
+      "title": "Pave Leo uttrykker sorg over sivile som har mistet livet i krigen i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/pave-leo-uttrykker-sorg-over-sivile-som-har-mistet-livet-i-krigen-i-midtosten-1.17804024",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 10:11:59 GMT"
+    },
     {
       "title": "Oljeprisen steig med over 5 prosent",
       "link": "https://www.nrk.no/nyheter/oljeprisen-steig-med-over-5-prosent-1.17804134",
@@ -15,28 +27,16 @@
       "pubDate": "Wed, 11 Mar 2026 09:31:01 GMT"
     },
     {
+      "title": "Gult farevarsel for deler av Vestlandet, Trøndelag og Innlandet",
+      "link": "https://www.nrk.no/vestland/gult-farevarsel-for-deler-av-vestlandet_-trondelag-og-innlandet-1.17803942",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 11 Mar 2026 09:09:47 GMT"
+    },
+    {
       "title": "PST advarer: Innsamlinger kan misbrukes til terrorfinansiering",
       "link": "https://www.nrk.no/nyheter/pst-advarer_-innsamlinger-kan-misbrukes-til-terrorfinansiering-1.17803958",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 11 Mar 2026 08:55:33 GMT"
-    },
-    {
-      "title": "Bahrain omdirigerer fly til andre flyplasser",
-      "link": "https://www.nrk.no/nyheter/bahrain-omdirigerer-fly-til-andre-flyplasser-1.17803921",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 08:26:02 GMT"
-    },
-    {
-      "title": "BT: Tenåring siktet etter knivstikking på Danmarks plass",
-      "link": "https://www.nrk.no/vestland/bt_-tenaring-siktet-etter-knivstikking-pa-danmarks-plass-1.17803941",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 08:19:54 GMT"
-    },
-    {
-      "title": "Vil holde Hamar-drapssiktet fengslet til rettssaken starter",
-      "link": "https://www.nrk.no/innlandet/vil-holde-hamar-drapssiktet-fengslet-til-rettssaken-starter-1.17803928",
-      "category": "Kvinne i 50-åra drept i Hamar",
-      "pubDate": "Wed, 11 Mar 2026 08:17:04 GMT"
     }
   ]
 }
