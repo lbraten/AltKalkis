@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-03-11T19:58:02.991Z",
+  "updatedAt": "2026-03-11T20:42:17.880Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Terrorsiktede erkjenner å ha plassert bomben",
+      "link": "https://www.nrk.no/nyheter/terrorsiktede-erkjenner-a-ha-plassert-bomben-1.17805386",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Wed, 11 Mar 2026 20:08:07 GMT"
+    },
     {
       "title": "Israel angriper Beirut",
       "link": "https://www.nrk.no/nyheter/israel-angriper-beirut-1.17805366",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 11 Mar 2026 19:52:01 GMT"
+    },
+    {
+      "title": "Flere farevarsler i Vest-Norge: – Viktig å holde seg oppdatert",
+      "link": "https://www.nrk.no/rogaland/flere-farevarsler-i-vest-norge_-_-viktig-a-holde-seg-oppdatert-1.17805344",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 11 Mar 2026 19:38:18 GMT"
     },
     {
       "title": "FN krever at Iran stanser angrep mot Gulfstatene",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/elkem-skal-kutte-300-arsverk---1.17805322",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Wed, 11 Mar 2026 19:03:59 GMT"
-    },
-    {
-      "title": "SVT: Angrepet kan knyttes til Foxtrot-nettverket",
-      "link": "https://www.nrk.no/nyheter/svt_-angrepet-kan-knyttes-til-foxtrot-nettverket-1.17805209",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Wed, 11 Mar 2026 18:30:39 GMT"
-    },
-    {
-      "title": "Justisministeren: – Bringer et ekstra alvor over saken",
-      "link": "https://www.nrk.no/nyheter/justisministeren_-_-bringer-et-ekstra-alvor-over-saken-1.17805198",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Wed, 11 Mar 2026 17:15:53 GMT"
     }
   ]
 }
