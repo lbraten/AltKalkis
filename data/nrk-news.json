@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-11T05:33:39.419Z",
+  "updatedAt": "2026-03-11T06:57:45.776Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Ordfører: To drept i droneangrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/ordforer_-to-drept-i-droneangrep-i-ukraina-1.17803764",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 06:29:49 GMT"
+    },
+    {
+      "title": "Trafikkulykke med tre biler involvert – de fastklemte sjåførene er nå frigjort",
+      "link": "https://www.nrk.no/nordland/trafikkulykke-med-tre-biler-involvert-_-de-fastklemte-sjaforene-er-na-frigjort--1.17803739",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 11 Mar 2026 06:26:16 GMT"
+    },
+    {
+      "title": "Konteinerskip står i brann i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/konteinerskip-star-i-brann-i-hormuzstredet-1.17803753",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 06:03:23 GMT"
+    },
+    {
+      "title": "Kvinnen som skjøt mot huset til Rihanna er siktet for drapsforsøk",
+      "link": "https://www.nrk.no/nyheter/kvinnen-som-skjot-mot-huset-til-rihanna-er-siktet-for-drapsforsok-1.17803746",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 05:50:22 GMT"
+    },
+    {
+      "title": "Flere eksplosjoner hørt i Qatar",
+      "link": "https://www.nrk.no/nyheter/flere-eksplosjoner-hort-i-qatar-1.17803727",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 05:43:16 GMT"
+    },
+    {
       "title": "Skatteetaten advarer mot svindel",
       "link": "https://www.nrk.no/nyheter/skatteetaten-advarer-mot-svindel-1.17803723",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Nordland",
       "pubDate": "Wed, 11 Mar 2026 05:19:19 GMT"
-    },
-    {
-      "title": "Irans politisjef advarer demonstranter",
-      "link": "https://www.nrk.no/nyheter/irans-politisjef-advarer-demonstranter-1.17803658",
-      "category": "Iran",
-      "pubDate": "Wed, 11 Mar 2026 04:38:37 GMT"
-    },
-    {
-      "title": "Britisk containerskip skadet av mistenkt prosjektil",
-      "link": "https://www.nrk.no/nyheter/britisk-containerskip-skadet-av-mistenkt-prosjektil-1.17803657",
-      "category": "Storbritannia",
-      "pubDate": "Wed, 11 Mar 2026 03:54:21 GMT"
-    },
-    {
-      "title": "Politiet: fant trillebår med tyvegods",
-      "link": "https://www.nrk.no/nyheter/politiet_-fant-trillebar-med-tyvegods-1.17803656",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 03:32:37 GMT"
-    },
-    {
-      "title": "To personer skadet etter voldshendelse i Oslo",
-      "link": "https://www.nrk.no/nyheter/to-personer-skadet-etter-voldshendelse-i-oslo--1.17803652",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 03:21:18 GMT"
-    },
-    {
-      "title": "Storbritannia: Planlegger å offentliggjøre filer knyttet til Mandelsons ansettelse",
-      "link": "https://www.nrk.no/nyheter/storbritannia_-planlegger-a-offentliggjore-filer-knyttet-til-mandelsons-ansettelse-1.17803651",
-      "category": "Storbritannia",
-      "pubDate": "Wed, 11 Mar 2026 02:17:46 GMT"
     }
   ]
 }
