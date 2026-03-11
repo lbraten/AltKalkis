@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-11T18:11:10.268Z",
+  "updatedAt": "2026-03-11T19:25:03.219Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "SVT: Angrepet kan knyttes til Foxtrot-nettverket",
+      "link": "https://www.nrk.no/nyheter/svt_-angrepet-kan-knyttes-til-foxtrot-nettverket-1.17805209",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Wed, 11 Mar 2026 18:30:39 GMT"
+    },
     {
       "title": "Justisministeren: – Bringer et ekstra alvor over saken",
       "link": "https://www.nrk.no/nyheter/justisministeren_-_-bringer-et-ekstra-alvor-over-saken-1.17805198",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ambassade-eksplosjonen_-pagrepet-tre-brodre-bosatt-i-oslo-_-siktet-for-terrorbombing--1.17804999",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 11 Mar 2026 16:31:33 GMT"
-    },
-    {
-      "title": "Politiet kaller inn til pressebrifing om ambassade-eksplosjonen",
-      "link": "https://www.nrk.no/stor-oslo/politiet-kaller-inn-til-pressebrifing-om-ambassade-eksplosjonen-1.17804899",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 11 Mar 2026 15:53:15 GMT"
     }
   ]
 }
