@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-11T21:36:18.799Z",
+  "updatedAt": "2026-03-11T22:29:25.043Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Reuters: To tankskip skal være angrepet i Irakisk farvann",
+      "link": "https://www.nrk.no/nyheter/reuters_-to-tankskip-skal-vaere-angrepet-i-irakisk-farvann-1.17805462",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 22:03:32 GMT"
+    },
+    {
+      "title": "Ecuador styrker sitt samarbeid med USA i kampen mot kriminalitet",
+      "link": "https://www.nrk.no/nyheter/ecuador-styrker-sitt-samarbeid-med-usa-i-kampen-mot-kriminalitet-1.17805459",
+      "category": "Ecuador",
+      "pubDate": "Wed, 11 Mar 2026 21:50:31 GMT"
+    },
+    {
+      "title": "Trump: USA må fullføre jobben i Iran",
+      "link": "https://www.nrk.no/nyheter/trump_-usa-ma-fullfore-jobben-i-iran-1.17805447",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 21:44:18 GMT"
+    },
+    {
+      "title": "Skal ha slått drosjesjåfør og stukke av med drosje",
+      "link": "https://www.nrk.no/mr/skal-ha-slatt-drosjesjafor-og-stukke-av-med-drosje-1.17805424",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Wed, 11 Mar 2026 21:42:27 GMT"
+    },
     {
       "title": "Trump kunngjør internasjonalt oljesamarbeid for å redusere prisene",
       "link": "https://www.nrk.no/nyheter/trump-kunngjor-internasjonalt-oljesamarbeid-for-a-redusere-prisene-1.17805443",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/g7-vurderer-sikkerhetseskorte-for-skip-i-persiabukta--1.17805412",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 11 Mar 2026 21:20:29 GMT"
-    },
-    {
-      "title": "Terrorsiktede erkjenner å ha plassert bomben",
-      "link": "https://www.nrk.no/nyheter/terrorsiktede-erkjenner-a-ha-plassert-bomben-1.17805386",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Wed, 11 Mar 2026 20:08:07 GMT"
-    },
-    {
-      "title": "Israel angriper Beirut",
-      "link": "https://www.nrk.no/nyheter/israel-angriper-beirut-1.17805366",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 19:52:01 GMT"
-    },
-    {
-      "title": "Flere farevarsler i Vest-Norge: – Viktig å holde seg oppdatert",
-      "link": "https://www.nrk.no/rogaland/flere-farevarsler-i-vest-norge_-_-viktig-a-holde-seg-oppdatert-1.17805344",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 11 Mar 2026 19:38:18 GMT"
-    },
-    {
-      "title": "FN krever at Iran stanser angrep mot Gulfstatene",
-      "link": "https://www.nrk.no/nyheter/fn-krever-at-iran-stanser-angrep-mot-gulfstatene--1.17805342",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 19:35:59 GMT"
     }
   ]
 }
