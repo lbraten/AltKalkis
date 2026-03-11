@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-11T06:57:45.776Z",
+  "updatedAt": "2026-03-11T07:48:52.736Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Seks av ti nye personbiler i Norden er elektriske",
+      "link": "https://www.nrk.no/nyheter/seks-av-ti-nye-personbiler-i-norden-er-elektriske-1.17803799",
+      "category": "Elbil",
+      "pubDate": "Wed, 11 Mar 2026 07:08:31 GMT"
+    },
     {
       "title": "Ordfører: To drept i droneangrep i Ukraina",
       "link": "https://www.nrk.no/nyheter/ordforer_-to-drept-i-droneangrep-i-ukraina-1.17803764",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-eksplosjoner-hort-i-qatar-1.17803727",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 11 Mar 2026 05:43:16 GMT"
-    },
-    {
-      "title": "Skatteetaten advarer mot svindel",
-      "link": "https://www.nrk.no/nyheter/skatteetaten-advarer-mot-svindel-1.17803723",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Wed, 11 Mar 2026 05:19:19 GMT"
     }
   ]
 }
