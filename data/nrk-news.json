@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-11T07:48:52.736Z",
+  "updatedAt": "2026-03-11T08:46:30.831Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bahrain omdirigerer fly til andre flyplasser",
+      "link": "https://www.nrk.no/nyheter/bahrain-omdirigerer-fly-til-andre-flyplasser-1.17803921",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 08:26:02 GMT"
+    },
+    {
+      "title": "30 personer er døde etter flom i Etiopia",
+      "link": "https://www.nrk.no/nyheter/30-personer-er-dode-etter-flom-i-etiopia-1.17803897",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 08:11:50 GMT"
+    },
+    {
+      "title": "Enda et skip truffet av prosjektil",
+      "link": "https://www.nrk.no/nyheter/enda-et-skip-truffet-av-prosjektil-1.17803852",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 07:52:15 GMT"
+    },
+    {
+      "title": "Dronar fall nær flyplassen i Dubai – fire skadde",
+      "link": "https://www.nrk.no/nyheter/dronar-fall-naer-flyplassen-i-dubai-_-fire-skadde-1.17803721",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 07:49:00 GMT"
+    },
     {
       "title": "Seks av ti nye personbiler i Norden er elektriske",
       "link": "https://www.nrk.no/nyheter/seks-av-ti-nye-personbiler-i-norden-er-elektriske-1.17803799",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ordforer_-to-drept-i-droneangrep-i-ukraina-1.17803764",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 11 Mar 2026 06:29:49 GMT"
-    },
-    {
-      "title": "Trafikkulykke med tre biler involvert – de fastklemte sjåførene er nå frigjort",
-      "link": "https://www.nrk.no/nordland/trafikkulykke-med-tre-biler-involvert-_-de-fastklemte-sjaforene-er-na-frigjort--1.17803739",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Wed, 11 Mar 2026 06:26:16 GMT"
-    },
-    {
-      "title": "Konteinerskip står i brann i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/konteinerskip-star-i-brann-i-hormuzstredet-1.17803753",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 06:03:23 GMT"
-    },
-    {
-      "title": "Kvinnen som skjøt mot huset til Rihanna er siktet for drapsforsøk",
-      "link": "https://www.nrk.no/nyheter/kvinnen-som-skjot-mot-huset-til-rihanna-er-siktet-for-drapsforsok-1.17803746",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 05:50:22 GMT"
-    },
-    {
-      "title": "Flere eksplosjoner hørt i Qatar",
-      "link": "https://www.nrk.no/nyheter/flere-eksplosjoner-hort-i-qatar-1.17803727",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 05:43:16 GMT"
     }
   ]
 }
