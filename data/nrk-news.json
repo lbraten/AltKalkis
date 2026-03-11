@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-11T04:21:11.135Z",
+  "updatedAt": "2026-03-11T05:33:39.419Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skatteetaten advarer mot svindel",
+      "link": "https://www.nrk.no/nyheter/skatteetaten-advarer-mot-svindel-1.17803723",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 05:19:19 GMT"
+    },
+    {
+      "title": "Irans politisjef advarer demonstranter",
+      "link": "https://www.nrk.no/nyheter/irans-politisjef-advarer-demonstranter-1.17803658",
+      "category": "Iran",
+      "pubDate": "Wed, 11 Mar 2026 04:38:37 GMT"
+    },
     {
       "title": "Britisk containerskip skadet av mistenkt prosjektil",
       "link": "https://www.nrk.no/nyheter/britisk-containerskip-skadet-av-mistenkt-prosjektil-1.17803657",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/storbritannia_-planlegger-a-offentliggjore-filer-knyttet-til-mandelsons-ansettelse-1.17803651",
       "category": "Storbritannia",
       "pubDate": "Wed, 11 Mar 2026 02:17:46 GMT"
-    },
-    {
-      "title": "Iran angriper flere mål i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/iran-angriper-flere-mal-i-midtosten-1.17803650",
-      "category": "Iran",
-      "pubDate": "Wed, 11 Mar 2026 01:27:28 GMT"
-    },
-    {
-      "title": "Brann i flere campingbiler på Karmøy",
-      "link": "https://www.nrk.no/nyheter/brann-i-flere-campingbiler-pa-karmoy-1.17803648",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 00:15:22 GMT"
     }
   ]
 }
