@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-11T19:25:03.219Z",
+  "updatedAt": "2026-03-11T19:58:02.991Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel angriper Beirut",
+      "link": "https://www.nrk.no/nyheter/israel-angriper-beirut-1.17805366",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 19:52:01 GMT"
+    },
+    {
+      "title": "FN krever at Iran stanser angrep mot Gulfstatene",
+      "link": "https://www.nrk.no/nyheter/fn-krever-at-iran-stanser-angrep-mot-gulfstatene--1.17805342",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 19:35:59 GMT"
+    },
+    {
+      "title": "Nye SUS: 100 takplater har løsnet på pasientbad",
+      "link": "https://www.nrk.no/rogaland/nye-sus_-100-takplater-har-losnet-pa-pasientbad-1.17805123",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 11 Mar 2026 19:22:47 GMT"
+    },
+    {
+      "title": "Elkem skal kutte 300 årsverk",
+      "link": "https://www.nrk.no/vestland/elkem-skal-kutte-300-arsverk---1.17805322",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 11 Mar 2026 19:03:59 GMT"
+    },
     {
       "title": "SVT: Angrepet kan knyttes til Foxtrot-nettverket",
       "link": "https://www.nrk.no/nyheter/svt_-angrepet-kan-knyttes-til-foxtrot-nettverket-1.17805209",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/justisministeren_-_-bringer-et-ekstra-alvor-over-saken-1.17805198",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Wed, 11 Mar 2026 17:15:53 GMT"
-    },
-    {
-      "title": "Listhaug etter terrorsiktelser: – Skremmende",
-      "link": "https://www.nrk.no/nyheter/listhaug-etter-terrorsiktelser_-_-skremmende-1.17805173",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Wed, 11 Mar 2026 17:07:16 GMT"
-    },
-    {
-      "title": "Hypotese om eksplosjonen: – Bestilling fra en statlig aktør",
-      "link": "https://www.nrk.no/nyheter/hypotese-om-eksplosjonen_-_-bestilling-fra-en-statlig-aktor-1.17805165",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Wed, 11 Mar 2026 16:43:18 GMT"
-    },
-    {
-      "title": "Problema med Skatteetaten sine nettsider er retta",
-      "link": "https://www.nrk.no/nyheter/problema-med-skatteetaten-sine-nettsider-er-retta-1.17804888",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 16:35:36 GMT"
-    },
-    {
-      "title": "Ambassade-eksplosjonen: Pågrepet tre brødre bosatt i Oslo – siktet for terrorbombing",
-      "link": "https://www.nrk.no/nyheter/ambassade-eksplosjonen_-pagrepet-tre-brodre-bosatt-i-oslo-_-siktet-for-terrorbombing--1.17804999",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 11 Mar 2026 16:31:33 GMT"
     }
   ]
 }
