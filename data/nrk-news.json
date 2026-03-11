@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-11T13:06:06.220Z",
+  "updatedAt": "2026-03-11T14:27:16.406Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "IEA bekrefter: Rekordstort oljeslipp",
+      "link": "https://www.nrk.no/nyheter/iea-bekrefter_-rekordstort-oljeslipp-1.17804871",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 14:06:54 GMT"
+    },
+    {
+      "title": "Reuters: Oljelager i Oman truffet av droner",
+      "link": "https://www.nrk.no/nyheter/reuters_-oljelager-i-oman-truffet-av-droner-1.17804662",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 14:03:11 GMT"
+    },
+    {
+      "title": "Privatskole kan bli tvunget til å betale tilbake 27 millioner",
+      "link": "https://www.nrk.no/vestfoldogtelemark/privatskole-kan-bli-tvunget-til-a-betale-tilbake-27-millioner-1.17804656",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 11 Mar 2026 13:38:37 GMT"
+    },
+    {
+      "title": "DNB-ansatte tiltalt for grov korrupsjon",
+      "link": "https://www.nrk.no/stor-oslo/dnb-ansatte-tiltalt-for-grov-korrupsjon-1.17804485",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 11 Mar 2026 13:38:29 GMT"
+    },
+    {
+      "title": "Stortinget vil fjerne foreldelsesfrist for voldtekt",
+      "link": "https://www.nrk.no/vestfoldogtelemark/stortinget-vil-fjerne-foreldelsesfrist-for-voldtekt-1.17804666",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 11 Mar 2026 13:31:24 GMT"
+    },
+    {
       "title": "DNB-sjefen økte lønna",
       "link": "https://www.nrk.no/nyheter/dnb-sjefen-okte-lonna-1.17804709",
-      "category": "NRK Nyheter",
+      "category": "Økonomi",
       "pubDate": "Wed, 11 Mar 2026 13:03:03 GMT"
-    },
-    {
-      "title": "E24: Økokrim har pågrepet to personer for innsidehandel og korrupsjon",
-      "link": "https://www.nrk.no/nyheter/e24_-okokrim-har-pagrepet-to-personer-for-innsidehandel-og-korrupsjon-1.17804515",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 12:05:13 GMT"
-    },
-    {
-      "title": "Putin diskuterer konflikten i Midtøsten med presidenten i De forente arabiske emirater",
-      "link": "https://www.nrk.no/nyheter/putin-diskuterer-konflikten-i-midtosten-med-presidenten-i-de-forente-arabiske-emirater-1.17804371",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 11:51:27 GMT"
-    },
-    {
-      "title": "Arkivsaken: NSM i kontakt med UD og politiet om dokumentene i Rød-Larsens kjellerbod",
-      "link": "https://www.nrk.no/nyheter/arkivsaken_-nsm-i-kontakt-med-ud-og-politiet-om-dokumentene-i-rod-larsens-kjellerbod-1.17804460",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Wed, 11 Mar 2026 11:32:09 GMT"
-    },
-    {
-      "title": "Alle norske Tui-gjester hjemme fra Midtøsten",
-      "link": "https://www.nrk.no/nyheter/alle-norske-tui-gjester-hjemme-fra-midtosten-1.17804312",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 10:56:38 GMT"
-    },
-    {
-      "title": "KLM kansellerer alle flyvninger til Dubai fram til 28. mars",
-      "link": "https://www.nrk.no/nyheter/klm-kansellerer-alle-flyvninger-til-dubai-fram-til-28.-mars-1.17804244",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 10:33:36 GMT"
     }
   ]
 }
