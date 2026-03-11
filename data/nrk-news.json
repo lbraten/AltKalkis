@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-11T22:53:14.495Z",
+  "updatedAt": "2026-03-11T23:28:54.702Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA frigir millioner av oljefat",
+      "link": "https://www.nrk.no/nyheter/usa-frigir-millioner-av-oljefat-1.17805497",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 23:14:26 GMT"
+    },
+    {
+      "title": "The Barents Observer: Barentssekretariatet erklært uønsket i Russland",
+      "link": "https://www.nrk.no/nyheter/the-barents-observer_-barentssekretariatet-erklaert-uonsket-i-russland-1.17805465",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 23:10:50 GMT"
+    },
     {
       "title": "Reuters: To tankskip skal være angrepet i Irakisk farvann",
       "link": "https://www.nrk.no/nyheter/reuters_-to-tankskip-skal-vaere-angrepet-i-irakisk-farvann-1.17805462",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/mr/skal-ha-slatt-drosjesjafor-og-stukke-av-med-drosje-1.17805424",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Wed, 11 Mar 2026 21:42:27 GMT"
-    },
-    {
-      "title": "Trump kunngjør internasjonalt oljesamarbeid for å redusere prisene",
-      "link": "https://www.nrk.no/nyheter/trump-kunngjor-internasjonalt-oljesamarbeid-for-a-redusere-prisene-1.17805443",
-      "category": "Oljeprisen",
-      "pubDate": "Wed, 11 Mar 2026 21:26:32 GMT"
-    },
-    {
-      "title": "G7 vurderer sikkerhetseskorte for skip i Persiabukta",
-      "link": "https://www.nrk.no/nyheter/g7-vurderer-sikkerhetseskorte-for-skip-i-persiabukta--1.17805412",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 21:20:29 GMT"
     }
   ]
 }
