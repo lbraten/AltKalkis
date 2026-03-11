@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-11T11:35:24.703Z",
+  "updatedAt": "2026-03-11T13:06:06.220Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "DNB-sjefen økte lønna",
+      "link": "https://www.nrk.no/nyheter/dnb-sjefen-okte-lonna-1.17804709",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 13:03:03 GMT"
+    },
+    {
+      "title": "E24: Økokrim har pågrepet to personer for innsidehandel og korrupsjon",
+      "link": "https://www.nrk.no/nyheter/e24_-okokrim-har-pagrepet-to-personer-for-innsidehandel-og-korrupsjon-1.17804515",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 12:05:13 GMT"
+    },
+    {
+      "title": "Putin diskuterer konflikten i Midtøsten med presidenten i De forente arabiske emirater",
+      "link": "https://www.nrk.no/nyheter/putin-diskuterer-konflikten-i-midtosten-med-presidenten-i-de-forente-arabiske-emirater-1.17804371",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 11:51:27 GMT"
+    },
     {
       "title": "Arkivsaken: NSM i kontakt med UD og politiet om dokumentene i Rød-Larsens kjellerbod",
       "link": "https://www.nrk.no/nyheter/arkivsaken_-nsm-i-kontakt-med-ud-og-politiet-om-dokumentene-i-rod-larsens-kjellerbod-1.17804460",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/klm-kansellerer-alle-flyvninger-til-dubai-fram-til-28.-mars-1.17804244",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 11 Mar 2026 10:33:36 GMT"
-    },
-    {
-      "title": "Pave Leo uttrykker sorg over sivile som har mistet livet i krigen i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/pave-leo-uttrykker-sorg-over-sivile-som-har-mistet-livet-i-krigen-i-midtosten-1.17804024",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 10:11:59 GMT"
-    },
-    {
-      "title": "Oljeprisen steig med over 5 prosent",
-      "link": "https://www.nrk.no/nyheter/oljeprisen-steig-med-over-5-prosent-1.17804134",
-      "category": "Olje og gass",
-      "pubDate": "Wed, 11 Mar 2026 09:44:00 GMT"
-    },
-    {
-      "title": "Israelske luftangrep mot sørlege Beirut",
-      "link": "https://www.nrk.no/nyheter/israelske-luftangrep-mot-sorlege-beirut-1.17803893",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 09:31:01 GMT"
     }
   ]
 }
