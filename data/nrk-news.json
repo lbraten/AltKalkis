@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-10T23:30:57.554Z",
+  "updatedAt": "2026-03-11T02:11:03.682Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran angriper flere mål i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/iran-angriper-flere-mal-i-midtosten-1.17803650",
+      "category": "Iran",
+      "pubDate": "Wed, 11 Mar 2026 01:27:28 GMT"
+    },
+    {
+      "title": "Brann i flere campingbiler på Karmøy",
+      "link": "https://www.nrk.no/nyheter/brann-i-flere-campingbiler-pa-karmoy-1.17803648",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 00:15:22 GMT"
+    },
     {
       "title": "Israel sier de gjennomfører angrep mot Iran og Libanon",
       "link": "https://www.nrk.no/nyheter/israel-sier-de-gjennomforer-angrep-mot-iran-og-libanon-1.17803646",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/seks-omkomne-etter-bussbrann-i-sveits-1.17803539",
       "category": "Sveits",
       "pubDate": "Tue, 10 Mar 2026 20:30:51 GMT"
-    },
-    {
-      "title": "FN-ambassadør: Over 1300 drepne sivile i Iran",
-      "link": "https://www.nrk.no/nyheter/fn-ambassador_-over-1300-drepne-sivile-i-iran-1.17803522",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 20:02:01 GMT"
-    },
-    {
-      "title": "Trump åtvarar Iran om minelegging av Hormuzsundet",
-      "link": "https://www.nrk.no/nyheter/trump-atvarar-iran-om-minelegging-av-hormuzsundet-1.17803501",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 10 Mar 2026 19:48:57 GMT"
     }
   ]
 }
