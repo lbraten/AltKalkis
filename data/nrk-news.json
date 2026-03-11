@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-03-11T14:27:16.406Z",
+  "updatedAt": "2026-03-11T15:24:45.037Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Skatteetaten har problemer – viser andre personers informasjon",
+      "link": "https://www.nrk.no/nyheter/skatteetaten-har-problemer-_-viser-andre-personers-informasjon-1.17804986",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 14:45:13 GMT"
+    },
+    {
+      "title": "Nye dokumenter: Starmer advart om Mandelsons Epstein-bakgrunn",
+      "link": "https://www.nrk.no/nyheter/nye-dokumenter_-starmer-advart-om-mandelsons-epstein-bakgrunn-1.17804884",
+      "category": "Jeffrey Epstein-saken",
+      "pubDate": "Wed, 11 Mar 2026 14:39:42 GMT"
+    },
+    {
       "title": "IEA bekrefter: Rekordstort oljeslipp",
       "link": "https://www.nrk.no/nyheter/iea-bekrefter_-rekordstort-oljeslipp-1.17804871",
-      "category": "NRK Nyheter",
+      "category": "high",
       "pubDate": "Wed, 11 Mar 2026 14:06:54 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/dnb-ansatte-tiltalt-for-grov-korrupsjon-1.17804485",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 11 Mar 2026 13:38:29 GMT"
-    },
-    {
-      "title": "Stortinget vil fjerne foreldelsesfrist for voldtekt",
-      "link": "https://www.nrk.no/vestfoldogtelemark/stortinget-vil-fjerne-foreldelsesfrist-for-voldtekt-1.17804666",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 11 Mar 2026 13:31:24 GMT"
-    },
-    {
-      "title": "DNB-sjefen økte lønna",
-      "link": "https://www.nrk.no/nyheter/dnb-sjefen-okte-lonna-1.17804709",
-      "category": "Økonomi",
-      "pubDate": "Wed, 11 Mar 2026 13:03:03 GMT"
     }
   ]
 }
