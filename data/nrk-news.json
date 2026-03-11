@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-11T15:24:45.037Z",
+  "updatedAt": "2026-03-11T16:11:59.591Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet kaller inn til pressebrifing om ambassade-eksplosjonen",
+      "link": "https://www.nrk.no/stor-oslo/politiet-kaller-inn-til-pressebrifing-om-ambassade-eksplosjonen-1.17804899",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 11 Mar 2026 15:53:15 GMT"
+    },
+    {
+      "title": "Iran til verden: – Vær forberedt på en oljepris på 200 dollar fatet",
+      "link": "https://www.nrk.no/nyheter/iran-til-verden_-_-vaer-forberedt-pa-en-oljepris-pa-200-dollar-fatet-1.17805074",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 15:43:54 GMT"
+    },
     {
       "title": "Skatteetaten har problemer – viser andre personers informasjon",
       "link": "https://www.nrk.no/nyheter/skatteetaten-har-problemer-_-viser-andre-personers-informasjon-1.17804986",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/reuters_-oljelager-i-oman-truffet-av-droner-1.17804662",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 11 Mar 2026 14:03:11 GMT"
-    },
-    {
-      "title": "Privatskole kan bli tvunget til å betale tilbake 27 millioner",
-      "link": "https://www.nrk.no/vestfoldogtelemark/privatskole-kan-bli-tvunget-til-a-betale-tilbake-27-millioner-1.17804656",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 11 Mar 2026 13:38:37 GMT"
-    },
-    {
-      "title": "DNB-ansatte tiltalt for grov korrupsjon",
-      "link": "https://www.nrk.no/stor-oslo/dnb-ansatte-tiltalt-for-grov-korrupsjon-1.17804485",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 11 Mar 2026 13:38:29 GMT"
     }
   ]
 }
