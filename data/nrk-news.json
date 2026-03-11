@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-11T20:42:17.880Z",
+  "updatedAt": "2026-03-11T21:36:18.799Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump kunngjør internasjonalt oljesamarbeid for å redusere prisene",
+      "link": "https://www.nrk.no/nyheter/trump-kunngjor-internasjonalt-oljesamarbeid-for-a-redusere-prisene-1.17805443",
+      "category": "Oljeprisen",
+      "pubDate": "Wed, 11 Mar 2026 21:26:32 GMT"
+    },
+    {
+      "title": "G7 vurderer sikkerhetseskorte for skip i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/g7-vurderer-sikkerhetseskorte-for-skip-i-persiabukta--1.17805412",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 21:20:29 GMT"
+    },
     {
       "title": "Terrorsiktede erkjenner å ha plassert bomben",
       "link": "https://www.nrk.no/nyheter/terrorsiktede-erkjenner-a-ha-plassert-bomben-1.17805386",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fn-krever-at-iran-stanser-angrep-mot-gulfstatene--1.17805342",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 11 Mar 2026 19:35:59 GMT"
-    },
-    {
-      "title": "Nye SUS: 100 takplater har løsnet på pasientbad",
-      "link": "https://www.nrk.no/rogaland/nye-sus_-100-takplater-har-losnet-pa-pasientbad-1.17805123",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 11 Mar 2026 19:22:47 GMT"
-    },
-    {
-      "title": "Elkem skal kutte 300 årsverk",
-      "link": "https://www.nrk.no/vestland/elkem-skal-kutte-300-arsverk---1.17805322",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 11 Mar 2026 19:03:59 GMT"
     }
   ]
 }
