@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-11T23:28:54.702Z",
+  "updatedAt": "2026-03-11T23:53:15.755Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iransk drone skal ha truffet bygning i Dubai",
+      "link": "https://www.nrk.no/nyheter/iransk-drone-skal-ha-truffet-bygning-i-dubai--1.17805496",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 23:49:17 GMT"
+    },
     {
       "title": "USA frigir millioner av oljefat",
       "link": "https://www.nrk.no/nyheter/usa-frigir-millioner-av-oljefat-1.17805497",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-usa-ma-fullfore-jobben-i-iran-1.17805447",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 11 Mar 2026 21:44:18 GMT"
-    },
-    {
-      "title": "Skal ha slått drosjesjåfør og stukke av med drosje",
-      "link": "https://www.nrk.no/mr/skal-ha-slatt-drosjesjafor-og-stukke-av-med-drosje-1.17805424",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 11 Mar 2026 21:42:27 GMT"
     }
   ]
 }
