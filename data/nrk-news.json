@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-11T16:11:59.591Z",
+  "updatedAt": "2026-03-11T17:27:22.386Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Justisministeren: – Bringer et ekstra alvor over saken",
+      "link": "https://www.nrk.no/nyheter/justisministeren_-_-bringer-et-ekstra-alvor-over-saken-1.17805198",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Wed, 11 Mar 2026 17:15:53 GMT"
+    },
+    {
+      "title": "Listhaug etter terrorsiktelser: – Skremmende",
+      "link": "https://www.nrk.no/nyheter/listhaug-etter-terrorsiktelser_-_-skremmende-1.17805173",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Wed, 11 Mar 2026 17:07:16 GMT"
+    },
+    {
+      "title": "Hypotese om eksplosjonen: – Bestilling fra en statlig aktør",
+      "link": "https://www.nrk.no/nyheter/hypotese-om-eksplosjonen_-_-bestilling-fra-en-statlig-aktor-1.17805165",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Wed, 11 Mar 2026 16:43:18 GMT"
+    },
+    {
+      "title": "Problema med Skatteetaten sine nettsider er retta",
+      "link": "https://www.nrk.no/nyheter/problema-med-skatteetaten-sine-nettsider-er-retta-1.17804888",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 16:35:36 GMT"
+    },
+    {
+      "title": "Ambassade-eksplosjonen: Pågrepet tre brødre bosatt i Oslo – siktet for terrorbombing",
+      "link": "https://www.nrk.no/nyheter/ambassade-eksplosjonen_-pagrepet-tre-brodre-bosatt-i-oslo-_-siktet-for-terrorbombing--1.17804999",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 11 Mar 2026 16:31:33 GMT"
+    },
     {
       "title": "Politiet kaller inn til pressebrifing om ambassade-eksplosjonen",
       "link": "https://www.nrk.no/stor-oslo/politiet-kaller-inn-til-pressebrifing-om-ambassade-eksplosjonen-1.17804899",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 11 Mar 2026 15:53:15 GMT"
-    },
-    {
-      "title": "Iran til verden: – Vær forberedt på en oljepris på 200 dollar fatet",
-      "link": "https://www.nrk.no/nyheter/iran-til-verden_-_-vaer-forberedt-pa-en-oljepris-pa-200-dollar-fatet-1.17805074",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 15:43:54 GMT"
-    },
-    {
-      "title": "Skatteetaten har problemer – viser andre personers informasjon",
-      "link": "https://www.nrk.no/nyheter/skatteetaten-har-problemer-_-viser-andre-personers-informasjon-1.17804986",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 14:45:13 GMT"
-    },
-    {
-      "title": "Nye dokumenter: Starmer advart om Mandelsons Epstein-bakgrunn",
-      "link": "https://www.nrk.no/nyheter/nye-dokumenter_-starmer-advart-om-mandelsons-epstein-bakgrunn-1.17804884",
-      "category": "Jeffrey Epstein-saken",
-      "pubDate": "Wed, 11 Mar 2026 14:39:42 GMT"
-    },
-    {
-      "title": "IEA bekrefter: Rekordstort oljeslipp",
-      "link": "https://www.nrk.no/nyheter/iea-bekrefter_-rekordstort-oljeslipp-1.17804871",
-      "category": "high",
-      "pubDate": "Wed, 11 Mar 2026 14:06:54 GMT"
-    },
-    {
-      "title": "Reuters: Oljelager i Oman truffet av droner",
-      "link": "https://www.nrk.no/nyheter/reuters_-oljelager-i-oman-truffet-av-droner-1.17804662",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 14:03:11 GMT"
     }
   ]
 }
