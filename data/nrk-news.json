@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-11T08:46:30.831Z",
+  "updatedAt": "2026-03-11T09:46:09.239Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisen steig med over 5 prosent",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-steig-med-over-5-prosent-1.17804134",
+      "category": "Olje og gass",
+      "pubDate": "Wed, 11 Mar 2026 09:44:00 GMT"
+    },
+    {
+      "title": "Israelske luftangrep mot sørlege Beirut",
+      "link": "https://www.nrk.no/nyheter/israelske-luftangrep-mot-sorlege-beirut-1.17803893",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 11 Mar 2026 09:31:01 GMT"
+    },
+    {
+      "title": "PST advarer: Innsamlinger kan misbrukes til terrorfinansiering",
+      "link": "https://www.nrk.no/nyheter/pst-advarer_-innsamlinger-kan-misbrukes-til-terrorfinansiering-1.17803958",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 11 Mar 2026 08:55:33 GMT"
+    },
     {
       "title": "Bahrain omdirigerer fly til andre flyplasser",
       "link": "https://www.nrk.no/nyheter/bahrain-omdirigerer-fly-til-andre-flyplasser-1.17803921",
@@ -9,34 +27,16 @@
       "pubDate": "Wed, 11 Mar 2026 08:26:02 GMT"
     },
     {
-      "title": "30 personer er døde etter flom i Etiopia",
-      "link": "https://www.nrk.no/nyheter/30-personer-er-dode-etter-flom-i-etiopia-1.17803897",
+      "title": "BT: Tenåring siktet etter knivstikking på Danmarks plass",
+      "link": "https://www.nrk.no/vestland/bt_-tenaring-siktet-etter-knivstikking-pa-danmarks-plass-1.17803941",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 08:11:50 GMT"
+      "pubDate": "Wed, 11 Mar 2026 08:19:54 GMT"
     },
     {
-      "title": "Enda et skip truffet av prosjektil",
-      "link": "https://www.nrk.no/nyheter/enda-et-skip-truffet-av-prosjektil-1.17803852",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 07:52:15 GMT"
-    },
-    {
-      "title": "Dronar fall nær flyplassen i Dubai – fire skadde",
-      "link": "https://www.nrk.no/nyheter/dronar-fall-naer-flyplassen-i-dubai-_-fire-skadde-1.17803721",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 11 Mar 2026 07:49:00 GMT"
-    },
-    {
-      "title": "Seks av ti nye personbiler i Norden er elektriske",
-      "link": "https://www.nrk.no/nyheter/seks-av-ti-nye-personbiler-i-norden-er-elektriske-1.17803799",
-      "category": "Elbil",
-      "pubDate": "Wed, 11 Mar 2026 07:08:31 GMT"
-    },
-    {
-      "title": "Ordfører: To drept i droneangrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/ordforer_-to-drept-i-droneangrep-i-ukraina-1.17803764",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 11 Mar 2026 06:29:49 GMT"
+      "title": "Vil holde Hamar-drapssiktet fengslet til rettssaken starter",
+      "link": "https://www.nrk.no/innlandet/vil-holde-hamar-drapssiktet-fengslet-til-rettssaken-starter-1.17803928",
+      "category": "Kvinne i 50-åra drept i Hamar",
+      "pubDate": "Wed, 11 Mar 2026 08:17:04 GMT"
     }
   ]
 }
