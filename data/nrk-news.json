@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-12T19:24:06.935Z",
+  "updatedAt": "2026-03-12T19:58:44.701Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran truer med å angripe regionens olje- og gassindustri",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-regionens-olje--og-gassindustri-1.17806982",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 12 Mar 2026 19:52:04 GMT"
+    },
     {
       "title": "Synagogen i Trondheim: Politiet har pågrepet en person",
       "link": "https://www.nrk.no/nyheter/synagogen-i-trondheim_-politiet-har-pagrepet-en-person-1.17806960",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran_-mange-skip-kan-fremdeles-passere-hormuzstredet-1.17806866",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 12 Mar 2026 16:45:11 GMT"
-    },
-    {
-      "title": "USA truer Norge med ny straffetoll",
-      "link": "https://www.nrk.no/nyheter/usa-truer-norge-med-ny-straffetoll-1.17806799",
-      "category": "USA",
-      "pubDate": "Thu, 12 Mar 2026 16:34:13 GMT"
     }
   ]
 }
