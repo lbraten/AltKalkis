@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-12T22:29:25.895Z",
+  "updatedAt": "2026-03-12T22:56:09.873Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Studenter overmannet og drepte skytter på universitet i Virginia",
+      "link": "https://www.nrk.no/nyheter/studenter-overmannet-og-drepte-skytter-pa-universitet-i-virginia-1.17807211",
+      "category": "USA",
+      "pubDate": "Thu, 12 Mar 2026 22:36:36 GMT"
+    },
+    {
+      "title": "Hus overtent i Østfold – det skal ikke være noen inne i huset",
+      "link": "https://www.nrk.no/nyheter/hus-overtent-i-ostfold-_-det-skal-ikke-vaere-noen-inne-i-huset-1.17807208",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 12 Mar 2026 22:30:18 GMT"
+    },
     {
       "title": "Mulige togforsinkelser på Østlandet",
       "link": "https://www.nrk.no/nyheter/mulige-togforsinkelser-pa-ostlandet-1.17807197",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/guvernor_-franske-soldater-saret-i-droneangrep-mot-fransk-base-i-nord-irak-1.17807175",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 12 Mar 2026 21:28:03 GMT"
-    },
-    {
-      "title": "Ukraina og Romania enige om å produsere droner",
-      "link": "https://www.nrk.no/nyheter/ukraina-og-romania-enige-om-a-produsere-droner-1.17807143",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 12 Mar 2026 21:08:49 GMT"
-    },
-    {
-      "title": "Merz og Støre på plass på Andøya",
-      "link": "https://www.nrk.no/nordland/merz-og-store-pa-plass-pa-andoya-1.17807117",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Thu, 12 Mar 2026 20:30:16 GMT"
     }
   ]
 }
