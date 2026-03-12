@@ -1,17 +1,35 @@
 {
-  "updatedAt": "2026-03-12T17:00:14.499Z",
+  "updatedAt": "2026-03-12T18:09:11.191Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "USA: Skyting ved synagoge i Michigan",
+      "link": "https://www.nrk.no/nyheter/usa_-skyting-ved-synagoge-i-michigan-1.17806957",
+      "category": "USA",
+      "pubDate": "Thu, 12 Mar 2026 17:40:40 GMT"
+    },
+    {
+      "title": "Væpnet politiaksjon ved synagogen i Trondheim",
+      "link": "https://www.nrk.no/nyheter/vaepnet-politiaksjon-ved-synagogen-i-trondheim-1.17806879",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 12 Mar 2026 17:25:35 GMT"
+    },
+    {
+      "title": "Norwegian tapte sak mot staten om klimakvoter i lagmannsretten – vil anke",
+      "link": "https://www.nrk.no/nyheter/norwegian-tapte-sak-mot-staten-om-klimakvoter-i-lagmannsretten-_-vil-anke-1.17806804",
+      "category": "Flyselskapet Norwegian",
+      "pubDate": "Thu, 12 Mar 2026 17:23:54 GMT"
+    },
+    {
       "title": "Iran: Mange skip kan fremdeles passere Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/iran_-mange-skip-kan-fremdeles-passere-hormuzstredet-1.17806866",
-      "category": "NRK Nyheter",
+      "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 12 Mar 2026 16:45:11 GMT"
     },
     {
       "title": "USA truer Norge med ny straffetoll",
       "link": "https://www.nrk.no/nyheter/usa-truer-norge-med-ny-straffetoll-1.17806799",
-      "category": "NRK Nyheter",
+      "category": "USA",
       "pubDate": "Thu, 12 Mar 2026 16:34:13 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/wall-street-apnet-med-fall-mens-oljeprisen-stiger-1.17806734",
       "category": "Uro på børsene",
       "pubDate": "Thu, 12 Mar 2026 15:48:03 GMT"
-    },
-    {
-      "title": "Israel har startet nye angrep mot Beirut",
-      "link": "https://www.nrk.no/nyheter/israel-har-startet-nye-angrep-mot-beirut-1.17806753",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 12 Mar 2026 15:46:08 GMT"
-    },
-    {
-      "title": "TV 2: Styret i Det Norske Jentekor går inn for å avslutte kronprinsessens beskytterskap",
-      "link": "https://www.nrk.no/nyheter/tv-2_-styret-i-det-norske-jentekor-gar-inn-for-a-avslutte-kronprinsessens-beskytterskap-1.17806535",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 12 Mar 2026 15:00:26 GMT"
-    },
-    {
-      "title": "Sjøfartsdirektoratet forbyr norskflaggede skip å seile gjennom Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/sjofartsdirektoratet-forbyr-norskflaggede-skip-a-seile-gjennom-hormuzstredet---1.17806605",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 12 Mar 2026 14:50:29 GMT"
     }
   ]
 }
