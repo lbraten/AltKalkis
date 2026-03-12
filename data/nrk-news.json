@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-12T08:49:15.729Z",
+  "updatedAt": "2026-03-12T09:47:08.771Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IEA: Største oljeavbrot i historia",
+      "link": "https://www.nrk.no/nyheter/iea_-storste-oljeavbrot-i-historia-1.17805836",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 12 Mar 2026 09:19:15 GMT"
+    },
+    {
+      "title": "Uværet: Kolonnekjøring på Hardangervidda og Vikafjellet",
+      "link": "https://www.nrk.no/vestland/uvaeret_-kolonnekjoring-pa-hardangervidda-og-vikafjellet--1.17805801",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 12 Mar 2026 09:00:47 GMT"
+    },
+    {
+      "title": "Elleve dømt til livstid etter terrorangrep i Russland",
+      "link": "https://www.nrk.no/nyheter/elleve-domt-til-livstid-etter-terrorangrep-i-russland-1.17805813",
+      "category": "Russland",
+      "pubDate": "Thu, 12 Mar 2026 08:51:35 GMT"
+    },
     {
       "title": "Karpe, Abba og Queen kan bli pensum i skulen",
       "link": "https://www.nrk.no/nyheter/karpe_-abba-og-queen-kan-bli-pensum-i-skulen-1.17805810",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/kvinne-funnet-dod-i-ytrebygda-i-gar-_-politiet-har-ikke-startet-etterforskning-1.17805797",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Thu, 12 Mar 2026 08:25:43 GMT"
-    },
-    {
-      "title": "Natos generalsekretær Mark Rutte til Cold Response i neste uke",
-      "link": "https://www.nrk.no/tromsogfinnmark/natos-generalsekretaer-mark-rutte-til-cold-response-i-neste-uke-1.17805793",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 12 Mar 2026 08:20:04 GMT"
-    },
-    {
-      "title": "Kontrollkomité-leiar kritiserer svar frå Støre i Epstein-saka",
-      "link": "https://www.nrk.no/nyheter/kontrollkomite-leiar-kritiserer-svar-fra-store-i-epstein-saka-1.17805752",
-      "category": "Støre-regjeringen",
-      "pubDate": "Thu, 12 Mar 2026 08:15:53 GMT"
-    },
-    {
-      "title": "Ambassade-eksplosjon: Vurderer framstilling for fengsling fredag",
-      "link": "https://www.nrk.no/stor-oslo/ambassade-eksplosjon_-vurderer-framstilling-for-fengsling-fredag-1.17805750",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Thu, 12 Mar 2026 07:58:24 GMT"
     }
   ]
 }
