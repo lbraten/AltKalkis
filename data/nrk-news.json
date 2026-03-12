@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-12T14:27:09.408Z",
+  "updatedAt": "2026-03-12T15:31:53.272Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "TV 2: Styret i Det Norske Jentekor går inn for å avslutte kronprinsessens beskytterskap",
+      "link": "https://www.nrk.no/nyheter/tv-2_-styret-i-det-norske-jentekor-gar-inn-for-a-avslutte-kronprinsessens-beskytterskap-1.17806535",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 12 Mar 2026 15:00:26 GMT"
+    },
+    {
+      "title": "Sjøfartsdirektoratet forbyr norskflaggede skip å seile gjennom Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/sjofartsdirektoratet-forbyr-norskflaggede-skip-a-seile-gjennom-hormuzstredet---1.17806605",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 12 Mar 2026 14:50:29 GMT"
+    },
     {
       "title": "Fem menn dømt for narkotika- og hvitvaskingskriminalitet",
       "link": "https://www.nrk.no/stor-oslo/fem-menn-domt-for-narkotika--og-hvitvaskingskriminalitet-1.17806334",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-a-stoppe-iran-er-viktigere-enn-oljeprisen-1.17806452",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 12 Mar 2026 13:25:55 GMT"
-    },
-    {
-      "title": "Island slutter seg til Sør-Afrikas sak mot Israel",
-      "link": "https://www.nrk.no/nyheter/island-slutter-seg-til-sor-afrikas-sak-mot-israel-1.17806385",
-      "category": "Island",
-      "pubDate": "Thu, 12 Mar 2026 12:34:21 GMT"
-    },
-    {
-      "title": "Lufthansa utset Dubai-flygingar",
-      "link": "https://www.nrk.no/nyheter/lufthansa-utset-dubai-flygingar-1.17806301",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 12 Mar 2026 12:24:06 GMT"
     }
   ]
 }
