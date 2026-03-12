@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-12T05:35:27.652Z",
+  "updatedAt": "2026-03-12T06:59:22.803Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dronevrak slo ut straumliner i Kuwait",
+      "link": "https://www.nrk.no/nyheter/dronevrak-slo-ut-straumliner-i-kuwait-1.17805626",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 12 Mar 2026 06:58:17 GMT"
+    },
+    {
+      "title": "Over 3.000 sit i fengsel i Noreg",
+      "link": "https://www.nrk.no/nyheter/over-3.000-sit-i-fengsel-i-noreg-1.17805603",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 12 Mar 2026 06:06:41 GMT"
+    },
+    {
+      "title": "Russisk utsending: Diskuterte energikrise med USA",
+      "link": "https://www.nrk.no/nyheter/russisk-utsending_-diskuterte-energikrise-med-usa-1.17805588",
+      "category": "Russland",
+      "pubDate": "Thu, 12 Mar 2026 05:38:37 GMT"
+    },
     {
       "title": "Den amerikanske ambassaden i Muscat opphever rådet om å holde seg innendørs",
       "link": "https://www.nrk.no/nyheter/den-amerikanske-ambassaden-i-muscat-opphever-radet-om-a-holde-seg-innendors-1.17805578",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/oljeprisen-over-100-tallet-igjen-1.17805529",
       "category": "Oljeprisen",
       "pubDate": "Thu, 12 Mar 2026 03:22:09 GMT"
-    },
-    {
-      "title": "En person utsatt for vold i Oslo - gjerningsmann på frifot",
-      "link": "https://www.nrk.no/nyheter/en-person-utsatt-for-vold-i-oslo---gjerningsmann-pa-frifot-1.17805522",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 12 Mar 2026 03:06:14 GMT"
-    },
-    {
-      "title": "Minst syv drept i israelsk angrep i Beirut ifølge libanesiske myndigheter",
-      "link": "https://www.nrk.no/nyheter/minst-syv-drept-i-israelsk-angrep-i-beirut-ifolge-libanesiske-myndigheter-1.17805520",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 12 Mar 2026 01:44:12 GMT"
-    },
-    {
-      "title": "Minst 13 personer skadet i russisk angrep i Zaporizjzja",
-      "link": "https://www.nrk.no/nyheter/minst-13-personer-skadet-i-russisk-angrep-i-zaporizjzja--1.17805518",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 12 Mar 2026 01:29:06 GMT"
     }
   ]
 }
