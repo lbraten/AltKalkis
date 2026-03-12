@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-03-12T21:35:51.758Z",
+  "updatedAt": "2026-03-12T22:29:25.895Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Guvernør: franske soldater såret i droneangrep mot fransk base i Nord-Irak",
+      "title": "Mulige togforsinkelser på Østlandet",
+      "link": "https://www.nrk.no/nyheter/mulige-togforsinkelser-pa-ostlandet-1.17807197",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Thu, 12 Mar 2026 22:22:06 GMT"
+    },
+    {
+      "title": "Amerikansk tankfly har styrtet i Vest-Irak, opplyser USAs Midtøsten-kommando",
+      "link": "https://www.nrk.no/nyheter/amerikansk-tankfly-har-styrtet-i-vest-irak_-opplyser-usas-midtosten-kommando-1.17807189",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 12 Mar 2026 21:48:18 GMT"
+    },
+    {
+      "title": "Bergensbanen stengt ut kvelden, utan alternativ",
+      "link": "https://www.nrk.no/vestland/bergensbanen-stengt-ut-kvelden_-utan-alternativ-1.17807135",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 12 Mar 2026 21:38:40 GMT"
+    },
+    {
+      "title": "Guvernør: Franske soldater såret i droneangrep mot fransk base i Nord-Irak",
       "link": "https://www.nrk.no/nyheter/guvernor_-franske-soldater-saret-i-droneangrep-mot-fransk-base-i-nord-irak-1.17807175",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 12 Mar 2026 21:28:03 GMT"
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nordland/merz-og-store-pa-plass-pa-andoya-1.17807117",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Thu, 12 Mar 2026 20:30:16 GMT"
-    },
-    {
-      "title": "Mange meldinger om trær over veiene",
-      "link": "https://www.nrk.no/stor-oslo/mange-meldinger-om-traer-over-veiene-1.17807141",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Thu, 12 Mar 2026 20:29:37 GMT"
-    },
-    {
-      "title": "Politiet: Taket på Lambertseter kirke i Oslo er i ferd med å blåse av",
-      "link": "https://www.nrk.no/nyheter/-politiet_-taket-pa-lambertseter-kirke-i-oslo-er-i-ferd-med-a-blase-av-1.17807123",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Thu, 12 Mar 2026 20:21:47 GMT"
-    },
-    {
-      "title": "Kommunen advarer: Vinden kan gi nedfall i parker",
-      "link": "https://www.nrk.no/stor-oslo/kommunen-advarer_-vinden-kan-gi-nedfall-i-parker-1.17807116",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Thu, 12 Mar 2026 20:21:22 GMT"
     }
   ]
 }
