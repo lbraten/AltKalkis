@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-12T22:56:09.873Z",
+  "updatedAt": "2026-03-12T23:33:50.546Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "NY Times: Iran minelegger Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/ny-times_-iran-minelegger-hormuzstredet-1.17807212",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 12 Mar 2026 22:59:38 GMT"
+    },
     {
       "title": "Studenter overmannet og drepte skytter på universitet i Virginia",
       "link": "https://www.nrk.no/nyheter/studenter-overmannet-og-drepte-skytter-pa-universitet-i-virginia-1.17807211",
@@ -15,8 +21,8 @@
       "pubDate": "Thu, 12 Mar 2026 22:30:18 GMT"
     },
     {
-      "title": "Mulige togforsinkelser på Østlandet",
-      "link": "https://www.nrk.no/nyheter/mulige-togforsinkelser-pa-ostlandet-1.17807197",
+      "title": "Bergensbanen står og mulige togforsinkelser på Østlandet",
+      "link": "https://www.nrk.no/nyheter/bergensbanen-star-og-mulige-togforsinkelser-pa-ostlandet-1.17807197",
       "category": "Vær og trafikk i Norge",
       "pubDate": "Thu, 12 Mar 2026 22:22:06 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/bergensbanen-stengt-ut-kvelden_-utan-alternativ-1.17807135",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Thu, 12 Mar 2026 21:38:40 GMT"
-    },
-    {
-      "title": "Guvernør: Franske soldater såret i droneangrep mot fransk base i Nord-Irak",
-      "link": "https://www.nrk.no/nyheter/guvernor_-franske-soldater-saret-i-droneangrep-mot-fransk-base-i-nord-irak-1.17807175",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 12 Mar 2026 21:28:03 GMT"
     }
   ]
 }
