@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-13T09:41:41.256Z",
+  "updatedAt": "2026-03-13T10:40:01.744Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN-sjefen besøker Libanon",
+      "link": "https://www.nrk.no/nyheter/fn-sjefen-besoker-libanon-1.17807525",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 13 Mar 2026 10:31:15 GMT"
+    },
+    {
+      "title": "Norge og Tyskland styrker romsamarbeidet",
+      "link": "https://www.nrk.no/nordland/norge-og-tyskland-styrker-romsamarbeidet-1.17807680",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 13 Mar 2026 10:01:54 GMT"
+    },
+    {
+      "title": "Politiet bekrefter: Mor til siktede brødre også siktet for terrorbombing ved USAs ambassade",
+      "link": "https://www.nrk.no/nyheter/politiet-bekrefter_-mor-til-siktede-brodre-ogsa-siktet-for-terrorbombing-ved-usas-ambassade-1.17807617",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Fri, 13 Mar 2026 09:48:14 GMT"
+    },
+    {
+      "title": "Tiltalt for å ha forårsaket tragisk bilulykke",
+      "link": "https://www.nrk.no/rogaland/tiltalt-for-a-ha-forarsaket-tragisk-bilulykke-1.17807623",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 13 Mar 2026 09:38:07 GMT"
+    },
     {
       "title": "Fire bekreftet døde etter at amerikansk tankfly styrtet i Irak",
       "link": "https://www.nrk.no/nyheter/fire-bekreftet-dode-etter-at-amerikansk-tankfly-styrtet-i-irak-1.17807579",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tre-brodre-fremstilles-for-varetektsfengsling-etter-ambassade-eksplosjon-1.17807615",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Fri, 13 Mar 2026 09:27:49 GMT"
-    },
-    {
-      "title": "Bil står under vann i Indre Østfold",
-      "link": "https://www.nrk.no/ostfold/bil-star-under-vann-i-indre-ostfold--1.17807435",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Fri, 13 Mar 2026 09:07:04 GMT"
-    },
-    {
-      "title": "Storbritannia held på Russland-sanksjonar – USA opnar for unntak",
-      "link": "https://www.nrk.no/nyheter/storbritannia-held-pa-russland-sanksjonar-_-usa-opnar-for-unntak-1.17807427",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 13 Mar 2026 08:58:52 GMT"
-    },
-    {
-      "title": "SSB: Over 55.000 innvandra til Noreg i fjor",
-      "link": "https://www.nrk.no/nyheter/ssb_-over-55.000-innvandra-til-noreg-i-fjor-1.17807398",
-      "category": "Statistisk sentralbyrå",
-      "pubDate": "Fri, 13 Mar 2026 07:46:47 GMT"
-    },
-    {
-      "title": "Israel seier dei har starta nye angrep i Teheran",
-      "link": "https://www.nrk.no/nyheter/israel-seier-dei-har-starta-nye-angrep-i-teheran-1.17807380",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 13 Mar 2026 07:22:14 GMT"
     }
   ]
 }
