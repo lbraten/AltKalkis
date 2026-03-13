@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-13T08:43:04.496Z",
+  "updatedAt": "2026-03-13T09:41:41.256Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fire bekreftet døde etter at amerikansk tankfly styrtet i Irak",
+      "link": "https://www.nrk.no/nyheter/fire-bekreftet-dode-etter-at-amerikansk-tankfly-styrtet-i-irak-1.17807579",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 09:34:46 GMT"
+    },
+    {
+      "title": "Tre brødre fremstilles for varetektsfengsling etter ambassade-eksplosjon",
+      "link": "https://www.nrk.no/nyheter/tre-brodre-fremstilles-for-varetektsfengsling-etter-ambassade-eksplosjon-1.17807615",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Fri, 13 Mar 2026 09:27:49 GMT"
+    },
+    {
+      "title": "Bil står under vann i Indre Østfold",
+      "link": "https://www.nrk.no/ostfold/bil-star-under-vann-i-indre-ostfold--1.17807435",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Fri, 13 Mar 2026 09:07:04 GMT"
+    },
+    {
+      "title": "Storbritannia held på Russland-sanksjonar – USA opnar for unntak",
+      "link": "https://www.nrk.no/nyheter/storbritannia-held-pa-russland-sanksjonar-_-usa-opnar-for-unntak-1.17807427",
+      "category": "Storbritannia",
+      "pubDate": "Fri, 13 Mar 2026 08:58:52 GMT"
+    },
     {
       "title": "SSB: Over 55.000 innvandra til Noreg i fjor",
       "link": "https://www.nrk.no/nyheter/ssb_-over-55.000-innvandra-til-noreg-i-fjor-1.17807398",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-seier-dei-har-starta-nye-angrep-i-teheran-1.17807380",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 13 Mar 2026 07:22:14 GMT"
-    },
-    {
-      "title": "Iran åtvarar mot nye protestar",
-      "link": "https://www.nrk.no/nyheter/iran-atvarar-mot-nye-protestar-1.17807367",
-      "category": "Iran",
-      "pubDate": "Fri, 13 Mar 2026 06:59:34 GMT"
-    },
-    {
-      "title": "Trusselbildet i verden gir økt belastning for Oslo-politiet",
-      "link": "https://www.nrk.no/stor-oslo/trusselbildet-i-verden-gir-okt-belastning-for-oslo-politiet-1.17807355",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 13 Mar 2026 06:59:10 GMT"
-    },
-    {
-      "title": "Israel seier dei har angripe bru i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-seier-dei-har-angripe-bru-i-libanon-1.17807353",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 06:47:59 GMT"
-    },
-    {
-      "title": "Seks år etter razzia blir det rettssak",
-      "link": "https://www.nrk.no/tromsogfinnmark/seks-ar-etter-razzia-blir-det-rettssak-1.17807336",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 13 Mar 2026 06:38:37 GMT"
     }
   ]
 }
