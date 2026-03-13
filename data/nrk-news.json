@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-13T19:55:45.827Z",
+  "updatedAt": "2026-03-13T20:40:05.960Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kvinne i Bergen tiltalt for seksuell omgang med gutt (15)",
+      "link": "https://www.nrk.no/vestland/kvinne-i-bergen-tiltalt-for-seksuell-omgang-med-gutt-_15_-1.17808713",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 13 Mar 2026 19:55:38 GMT"
+    },
     {
       "title": "Norge øker støtten til ofre for krigen i Midtøsten",
       "link": "https://www.nrk.no/nyheter/norge-oker-stotten-til-ofre-for-krigen-i-midtosten-1.17808695",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/erdogan_-tyrkia-lar-seg-ikke-trekke-inn-i-krigen-1.17808609",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 13 Mar 2026 18:15:40 GMT"
-    },
-    {
-      "title": "Fire personer varetektsfengslet i fire uker etter terrorbombe",
-      "link": "https://www.nrk.no/stor-oslo/fire-personer-varetektsfengslet-i-fire-uker-etter-terrorbombe-1.17808628",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Fri, 13 Mar 2026 17:38:38 GMT"
     }
   ]
 }
