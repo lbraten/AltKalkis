@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-12T23:33:50.546Z",
+  "updatedAt": "2026-03-13T02:22:31.672Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "NY Times: Iran minelegger Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/ny-times_-iran-minelegger-hormuzstredet-1.17807212",
+      "title": "USA: 6000 mål rammet i Iran",
+      "link": "https://www.nrk.no/nyheter/usa_-6000-mal-rammet-i-iran-1.17807240",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 13 Mar 2026 02:15:07 GMT"
+    },
+    {
+      "title": "USA og Iran har forskjellige forklaringer på styrtet fly",
+      "link": "https://www.nrk.no/nyheter/usa-og-iran-har-forskjellige-forklaringer-pa-styrtet-fly-1.17807232",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 12 Mar 2026 22:59:38 GMT"
+      "pubDate": "Fri, 13 Mar 2026 02:11:47 GMT"
     },
     {
-      "title": "Studenter overmannet og drepte skytter på universitet i Virginia",
-      "link": "https://www.nrk.no/nyheter/studenter-overmannet-og-drepte-skytter-pa-universitet-i-virginia-1.17807211",
-      "category": "USA",
-      "pubDate": "Thu, 12 Mar 2026 22:36:36 GMT"
+      "title": "Cuba vil løslate 51 fanger",
+      "link": "https://www.nrk.no/nyheter/cuba-vil-loslate-51-fanger-1.17807231",
+      "category": "Cuba",
+      "pubDate": "Fri, 13 Mar 2026 01:21:26 GMT"
     },
     {
-      "title": "Hus overtent i Østfold – det skal ikke være noen inne i huset",
-      "link": "https://www.nrk.no/nyheter/hus-overtent-i-ostfold-_-det-skal-ikke-vaere-noen-inne-i-huset-1.17807208",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 12 Mar 2026 22:30:18 GMT"
+      "title": "Fransk soldat drept i angrep i Irak",
+      "link": "https://www.nrk.no/nyheter/fransk-soldat-drept-i-angrep-i-irak-1.17807230",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 01:02:57 GMT"
     },
     {
-      "title": "Bergensbanen står og mulige togforsinkelser på Østlandet",
-      "link": "https://www.nrk.no/nyheter/bergensbanen-star-og-mulige-togforsinkelser-pa-ostlandet-1.17807197",
+      "title": "Iran-støttet gruppe sier de skjøt ned amerikansk militærfly",
+      "link": "https://www.nrk.no/nyheter/iran-stottet-gruppe-sier-de-skjot-ned-amerikansk-militaerfly-1.17807229",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 01:01:08 GMT"
+    },
+    {
+      "title": "Bergensbanen åpnet etter ras",
+      "link": "https://www.nrk.no/nyheter/bergensbanen-apnet-etter-ras-1.17807228",
       "category": "Vær og trafikk i Norge",
-      "pubDate": "Thu, 12 Mar 2026 22:22:06 GMT"
-    },
-    {
-      "title": "Amerikansk tankfly har styrtet i Vest-Irak, opplyser USAs Midtøsten-kommando",
-      "link": "https://www.nrk.no/nyheter/amerikansk-tankfly-har-styrtet-i-vest-irak_-opplyser-usas-midtosten-kommando-1.17807189",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 12 Mar 2026 21:48:18 GMT"
-    },
-    {
-      "title": "Bergensbanen stengt ut kvelden, utan alternativ",
-      "link": "https://www.nrk.no/vestland/bergensbanen-stengt-ut-kvelden_-utan-alternativ-1.17807135",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 12 Mar 2026 21:38:40 GMT"
+      "pubDate": "Fri, 13 Mar 2026 00:45:47 GMT"
     }
   ]
 }
