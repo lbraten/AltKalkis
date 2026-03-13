@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-13T19:08:04.386Z",
+  "updatedAt": "2026-03-13T19:55:45.827Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge øker støtten til ofre for krigen i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/norge-oker-stotten-til-ofre-for-krigen-i-midtosten-1.17808695",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 19:17:15 GMT"
+    },
+    {
+      "title": "Ambassadebomben: Den eldste broren anker fengsling",
+      "link": "https://www.nrk.no/nyheter/ambassadebomben_-den-eldste-broren-anker-fengsling-1.17808719",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Fri, 13 Mar 2026 19:15:13 GMT"
+    },
     {
       "title": "84 drepte iranske sjøfolk sendt hjem til Iran fra Sri Lanka",
       "link": "https://www.nrk.no/nyheter/84-drepte-iranske-sjofolk-sendt-hjem-til-iran-fra-sri-lanka-1.17808691",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/fire-personer-varetektsfengslet-i-fire-uker-etter-terrorbombe-1.17808628",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Fri, 13 Mar 2026 17:38:38 GMT"
-    },
-    {
-      "title": "Bonde tiltalt etter at mange dyr døde",
-      "link": "https://www.nrk.no/tromsogfinnmark/bonde-tiltalt-etter-at-mange-dyr-dode-1.17808551",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 13 Mar 2026 17:25:35 GMT"
-    },
-    {
-      "title": "Togtrafikken mellom Stokke og Sandefjord er stengt etter et ras",
-      "link": "https://www.nrk.no/vestfoldogtelemark/togtrafikken-mellom-stokke-og-sandefjord-er-stengt-etter-et-ras-1.17808523",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 13 Mar 2026 17:08:50 GMT"
     }
   ]
 }
