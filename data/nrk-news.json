@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-13T20:40:05.960Z",
+  "updatedAt": "2026-03-13T21:36:12.832Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Statlige medier: Nye angrep mot Israel",
+      "link": "https://www.nrk.no/nyheter/statlige-medier_-nye-angrep-mot-israel-1.17808772",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 21:25:57 GMT"
+    },
+    {
+      "title": "Stans i flyvninger i Washington",
+      "link": "https://www.nrk.no/nyheter/stans-i-flyvninger-i-washington-1.17808765",
+      "category": "USA",
+      "pubDate": "Fri, 13 Mar 2026 21:10:38 GMT"
+    },
+    {
+      "title": "Telia vet hvem som stod bak datainnbrudd",
+      "link": "https://www.nrk.no/nyheter/telia-vet-hvem-som-stod-bak-datainnbrudd-1.17808763",
+      "category": "Telia",
+      "pubDate": "Fri, 13 Mar 2026 20:55:57 GMT"
+    },
     {
       "title": "Kvinne i Bergen tiltalt for seksuell omgang med gutt (15)",
       "link": "https://www.nrk.no/vestland/kvinne-i-bergen-tiltalt-for-seksuell-omgang-med-gutt-_15_-1.17808713",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ambassadebomben_-den-eldste-broren-anker-fengsling-1.17808719",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Fri, 13 Mar 2026 19:15:13 GMT"
-    },
-    {
-      "title": "84 drepte iranske sjøfolk sendt hjem til Iran fra Sri Lanka",
-      "link": "https://www.nrk.no/nyheter/84-drepte-iranske-sjofolk-sendt-hjem-til-iran-fra-sri-lanka-1.17808691",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 18:42:57 GMT"
-    },
-    {
-      "title": "USA utlover inntil 10 millioner dollar i belønning for informasjon om Irans toppledere",
-      "link": "https://www.nrk.no/nyheter/usa-utlover-inntil-10-millioner-dollar-i-belonning-for-informasjon-om-irans-toppledere-1.17808672",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 18:32:32 GMT"
-    },
-    {
-      "title": "Erdogan: Tyrkia lar seg ikke trekke inn i krigen",
-      "link": "https://www.nrk.no/nyheter/erdogan_-tyrkia-lar-seg-ikke-trekke-inn-i-krigen-1.17808609",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 18:15:40 GMT"
     }
   ]
 }
