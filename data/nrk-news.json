@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-13T02:22:31.672Z",
+  "updatedAt": "2026-03-13T04:24:01.470Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Angriper mot synagoge i USA identifisert som libaneser",
+      "link": "https://www.nrk.no/nyheter/angriper-mot-synagoge-i-usa-identifisert-som-libaneser-1.17807246",
+      "category": "USA",
+      "pubDate": "Fri, 13 Mar 2026 03:38:39 GMT"
+    },
+    {
+      "title": "Oljeprisen står på stedet hvil etter at Trump letter på Russland-sanksjoner",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-star-pa-stedet-hvil-etter-at-trump-letter-pa-russland-sanksjoner-1.17807245",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 03:14:29 GMT"
+    },
+    {
+      "title": "Iranske medier melder om flere eksplosjoner i Teheran",
+      "link": "https://www.nrk.no/nyheter/iranske-medier-melder-om-flere-eksplosjoner-i-teheran-1.17807244",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 03:13:42 GMT"
+    },
+    {
+      "title": "Australia tapper beredskapslagre for bensin og diesel",
+      "link": "https://www.nrk.no/nyheter/australia-tapper-beredskapslagre-for-bensin-og-diesel-1.17807241",
+      "category": "Oljeprisen",
+      "pubDate": "Fri, 13 Mar 2026 03:11:52 GMT"
+    },
+    {
+      "title": "Én av fem australske tenåringer bruker fortsatt sosiale medier etter forbud",
+      "link": "https://www.nrk.no/nyheter/en-av-fem-australske-tenaringer-bruker-fortsatt-sosiale-medier-etter-forbud-1.17807242",
+      "category": "Sosiale medier",
+      "pubDate": "Fri, 13 Mar 2026 02:34:07 GMT"
+    },
     {
       "title": "USA: 6000 mål rammet i Iran",
       "link": "https://www.nrk.no/nyheter/usa_-6000-mal-rammet-i-iran-1.17807240",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 13 Mar 2026 02:15:07 GMT"
-    },
-    {
-      "title": "USA og Iran har forskjellige forklaringer på styrtet fly",
-      "link": "https://www.nrk.no/nyheter/usa-og-iran-har-forskjellige-forklaringer-pa-styrtet-fly-1.17807232",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 02:11:47 GMT"
-    },
-    {
-      "title": "Cuba vil løslate 51 fanger",
-      "link": "https://www.nrk.no/nyheter/cuba-vil-loslate-51-fanger-1.17807231",
-      "category": "Cuba",
-      "pubDate": "Fri, 13 Mar 2026 01:21:26 GMT"
-    },
-    {
-      "title": "Fransk soldat drept i angrep i Irak",
-      "link": "https://www.nrk.no/nyheter/fransk-soldat-drept-i-angrep-i-irak-1.17807230",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 01:02:57 GMT"
-    },
-    {
-      "title": "Iran-støttet gruppe sier de skjøt ned amerikansk militærfly",
-      "link": "https://www.nrk.no/nyheter/iran-stottet-gruppe-sier-de-skjot-ned-amerikansk-militaerfly-1.17807229",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 01:01:08 GMT"
-    },
-    {
-      "title": "Bergensbanen åpnet etter ras",
-      "link": "https://www.nrk.no/nyheter/bergensbanen-apnet-etter-ras-1.17807228",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Fri, 13 Mar 2026 00:45:47 GMT"
     }
   ]
 }
