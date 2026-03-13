@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-13T06:58:04.563Z",
+  "updatedAt": "2026-03-13T07:50:49.999Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "SSB: Over 55.000 innvandra til Noreg i fjor",
+      "link": "https://www.nrk.no/nyheter/ssb_-over-55.000-innvandra-til-noreg-i-fjor-1.17807398",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 13 Mar 2026 07:46:47 GMT"
+    },
+    {
+      "title": "Israel seier dei har starta nye angrep i Teheran",
+      "link": "https://www.nrk.no/nyheter/israel-seier-dei-har-starta-nye-angrep-i-teheran-1.17807380",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 13 Mar 2026 07:22:14 GMT"
+    },
+    {
+      "title": "Irans åtvarar mot nye protestar",
+      "link": "https://www.nrk.no/nyheter/irans-atvarar-mot-nye-protestar-1.17807367",
+      "category": "Iran",
+      "pubDate": "Fri, 13 Mar 2026 06:59:34 GMT"
+    },
+    {
+      "title": "Trusselbildet i verden gir økt belastning for Oslo-politiet",
+      "link": "https://www.nrk.no/stor-oslo/trusselbildet-i-verden-gir-okt-belastning-for-oslo-politiet-1.17807355",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 13 Mar 2026 06:59:10 GMT"
+    },
     {
       "title": "Israel seier dei har angripe bru i Libanon",
       "link": "https://www.nrk.no/nyheter/israel-seier-dei-har-angripe-bru-i-libanon-1.17807353",
@@ -9,34 +33,10 @@
       "pubDate": "Fri, 13 Mar 2026 06:47:59 GMT"
     },
     {
-      "title": "To personar drepne av dronerestar i Oman",
-      "link": "https://www.nrk.no/nyheter/to-personar-drepne-av-dronerestar-i-oman-1.17807349",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 13 Mar 2026 06:28:04 GMT"
-    },
-    {
-      "title": "Brann ved oljelager i Russland sløkt",
-      "link": "https://www.nrk.no/nyheter/brann-ved-oljelager-i-russland-slokt-1.17807318",
-      "category": "Russland",
-      "pubDate": "Fri, 13 Mar 2026 06:25:16 GMT"
-    },
-    {
-      "title": "Drone trefte bustad i Beirut",
-      "link": "https://www.nrk.no/nyheter/drone-trefte-bustad-i-beirut-1.17807310",
-      "category": "Libanon",
-      "pubDate": "Fri, 13 Mar 2026 05:43:54 GMT"
-    },
-    {
-      "title": "EUs utanrikssjef: USA vil splitte Europa",
-      "link": "https://www.nrk.no/nyheter/eus-utanrikssjef_-usa-vil-splitte-europa-1.17807305",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Fri, 13 Mar 2026 05:31:14 GMT"
-    },
-    {
-      "title": "Afghanske myndigheter: Pakistan angriper Kabul og grenseprovinser",
-      "link": "https://www.nrk.no/nyheter/afghanske-myndigheter_-pakistan-angriper-kabul-og-grenseprovinser-1.17807261",
-      "category": "Pakistan og Afghanistan",
-      "pubDate": "Fri, 13 Mar 2026 04:24:03 GMT"
+      "title": "Seks år etter razzia blir det rettssak",
+      "link": "https://www.nrk.no/tromsogfinnmark/seks-ar-etter-razzia-blir-det-rettssak-1.17807336",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Fri, 13 Mar 2026 06:38:37 GMT"
     }
   ]
 }
