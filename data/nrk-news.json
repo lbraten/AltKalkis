@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-13T15:09:38.285Z",
+  "updatedAt": "2026-03-13T16:02:48.613Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kritiserer USA for å lette på russiske oljesanksjoner",
+      "link": "https://www.nrk.no/nyheter/kritiserer-usa-for-a-lette-pa-russiske-oljesanksjoner-1.17808479",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 13 Mar 2026 15:53:54 GMT"
+    },
+    {
+      "title": "Ber om fire ukers varetektsfengsling",
+      "link": "https://www.nrk.no/stor-oslo/ber-om-fire-ukers-varetektsfengsling-1.17808459",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 13 Mar 2026 15:28:52 GMT"
+    },
+    {
+      "title": "Tyrkisk skip har fått passere gjennom Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/tyrkisk-skip-har-fatt-passere-gjennom-hormuzstredet-1.17808318",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 15:12:28 GMT"
+    },
     {
       "title": "Et av regjeringspartiene på Grønland trekker seg",
       "link": "https://www.nrk.no/nyheter/et-av-regjeringspartiene-pa-gronland-trekker-seg-1.17808297",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/forsvareren-til-siktet-mor-etter-ambassadebomben_-_-hun-er-forvirret--1.17808079",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Fri, 13 Mar 2026 13:42:58 GMT"
-    },
-    {
-      "title": "PST om «arkivsaken»: Vurderer fortløpende etterforsking av brudd på sikkerhetsloven",
-      "link": "https://www.nrk.no/nyheter/pst-om-_arkivsaken__-vurderer-fortlopende-etterforsking-av-brudd-pa-sikkerhetsloven-1.17808221",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Fri, 13 Mar 2026 13:37:44 GMT"
-    },
-    {
-      "title": "To snøkrabberederier saksøker staten",
-      "link": "https://www.nrk.no/nyheter/to-snokrabberederier-saksoker-staten-1.17808166",
-      "category": "Fiskeri og havbruk",
-      "pubDate": "Fri, 13 Mar 2026 13:34:11 GMT"
-    },
-    {
-      "title": "Terrorsiktet 17-åring varetektsfengsles i to nye uker",
-      "link": "https://www.nrk.no/rogaland/terrorsiktet-17-aring-varetektsfengsles-i-to-nye-uker-1.17808183",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Fri, 13 Mar 2026 13:14:25 GMT"
     }
   ]
 }
