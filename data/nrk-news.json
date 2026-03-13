@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-13T21:36:12.832Z",
+  "updatedAt": "2026-03-13T22:30:40.595Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amerikanske medier: Nye amerikanske styrker på vei til Midtøsten",
+      "link": "https://www.nrk.no/nyheter/amerikanske-medier_-nye-amerikanske-styrker-pa-vei-til-midtosten-1.17808782",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 21:57:04 GMT"
+    },
+    {
+      "title": "FN-base i Sør-Libanon skal være truffet av angrep",
+      "link": "https://www.nrk.no/nyheter/fn-base-i-sor-libanon-skal-vaere-truffet-av-angrep-1.17808778",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 21:37:35 GMT"
+    },
     {
       "title": "Statlige medier: Nye angrep mot Israel",
       "link": "https://www.nrk.no/nyheter/statlige-medier_-nye-angrep-mot-israel-1.17808772",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/kvinne-i-bergen-tiltalt-for-seksuell-omgang-med-gutt-_15_-1.17808713",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Fri, 13 Mar 2026 19:55:38 GMT"
-    },
-    {
-      "title": "Norge øker støtten til ofre for krigen i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/norge-oker-stotten-til-ofre-for-krigen-i-midtosten-1.17808695",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 19:17:15 GMT"
-    },
-    {
-      "title": "Ambassadebomben: Den eldste broren anker fengsling",
-      "link": "https://www.nrk.no/nyheter/ambassadebomben_-den-eldste-broren-anker-fengsling-1.17808719",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Fri, 13 Mar 2026 19:15:13 GMT"
     }
   ]
 }
