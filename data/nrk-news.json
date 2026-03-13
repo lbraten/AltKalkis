@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-03-13T05:33:25.166Z",
+  "updatedAt": "2026-03-13T06:58:04.563Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Israel seier dei har angripe bru i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-seier-dei-har-angripe-bru-i-libanon-1.17807353",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 06:47:59 GMT"
+    },
+    {
+      "title": "To personar drepne av dronerestar i Oman",
+      "link": "https://www.nrk.no/nyheter/to-personar-drepne-av-dronerestar-i-oman-1.17807349",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 13 Mar 2026 06:28:04 GMT"
+    },
+    {
+      "title": "Brann ved oljelager i Russland sløkt",
+      "link": "https://www.nrk.no/nyheter/brann-ved-oljelager-i-russland-slokt-1.17807318",
+      "category": "Russland",
+      "pubDate": "Fri, 13 Mar 2026 06:25:16 GMT"
+    },
+    {
+      "title": "Drone trefte bustad i Beirut",
+      "link": "https://www.nrk.no/nyheter/drone-trefte-bustad-i-beirut-1.17807310",
+      "category": "Libanon",
+      "pubDate": "Fri, 13 Mar 2026 05:43:54 GMT"
+    },
+    {
       "title": "EUs utanrikssjef: USA vil splitte Europa",
       "link": "https://www.nrk.no/nyheter/eus-utanrikssjef_-usa-vil-splitte-europa-1.17807305",
-      "category": "Europeisk økonomi",
+      "category": "Den europeiske union (EU)",
       "pubDate": "Fri, 13 Mar 2026 05:31:14 GMT"
     },
     {
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/afghanske-myndigheter_-pakistan-angriper-kabul-og-grenseprovinser-1.17807261",
       "category": "Pakistan og Afghanistan",
       "pubDate": "Fri, 13 Mar 2026 04:24:03 GMT"
-    },
-    {
-      "title": "Angriper mot synagoge i USA identifisert som libaneser",
-      "link": "https://www.nrk.no/nyheter/angriper-mot-synagoge-i-usa-identifisert-som-libaneser-1.17807246",
-      "category": "USA",
-      "pubDate": "Fri, 13 Mar 2026 03:38:39 GMT"
-    },
-    {
-      "title": "Oljeprisen står på stedet hvil etter at Trump letter på Russland-sanksjoner",
-      "link": "https://www.nrk.no/nyheter/oljeprisen-star-pa-stedet-hvil-etter-at-trump-letter-pa-russland-sanksjoner-1.17807245",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 03:14:29 GMT"
-    },
-    {
-      "title": "Iranske medier melder om flere eksplosjoner i Teheran",
-      "link": "https://www.nrk.no/nyheter/iranske-medier-melder-om-flere-eksplosjoner-i-teheran-1.17807244",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 03:13:42 GMT"
-    },
-    {
-      "title": "Australia tapper beredskapslagre for bensin og diesel",
-      "link": "https://www.nrk.no/nyheter/australia-tapper-beredskapslagre-for-bensin-og-diesel-1.17807241",
-      "category": "Oljeprisen",
-      "pubDate": "Fri, 13 Mar 2026 03:11:52 GMT"
     }
   ]
 }
