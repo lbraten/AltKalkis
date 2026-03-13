@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-03-13T18:00:32.344Z",
+  "updatedAt": "2026-03-13T19:08:04.386Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Fire personer varetektsfengslet i fire uker etter terrorbombing",
-      "link": "https://www.nrk.no/stor-oslo/fire-personer-varetektsfengslet-i-fire-uker-etter-terrorbombing-1.17808628",
+      "title": "84 drepte iranske sjøfolk sendt hjem til Iran fra Sri Lanka",
+      "link": "https://www.nrk.no/nyheter/84-drepte-iranske-sjofolk-sendt-hjem-til-iran-fra-sri-lanka-1.17808691",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 18:42:57 GMT"
+    },
+    {
+      "title": "USA utlover inntil 10 millioner dollar i belønning for informasjon om Irans toppledere",
+      "link": "https://www.nrk.no/nyheter/usa-utlover-inntil-10-millioner-dollar-i-belonning-for-informasjon-om-irans-toppledere-1.17808672",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 18:32:32 GMT"
+    },
+    {
+      "title": "Erdogan: Tyrkia lar seg ikke trekke inn i krigen",
+      "link": "https://www.nrk.no/nyheter/erdogan_-tyrkia-lar-seg-ikke-trekke-inn-i-krigen-1.17808609",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 18:15:40 GMT"
+    },
+    {
+      "title": "Fire personer varetektsfengslet i fire uker etter terrorbombe",
+      "link": "https://www.nrk.no/stor-oslo/fire-personer-varetektsfengslet-i-fire-uker-etter-terrorbombe-1.17808628",
       "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Fri, 13 Mar 2026 17:38:38 GMT"
     },
@@ -15,28 +33,10 @@
       "pubDate": "Fri, 13 Mar 2026 17:25:35 GMT"
     },
     {
-      "title": "Togstrekningen mellom Stokke og Sandefjord er stengt etter et ras",
-      "link": "https://www.nrk.no/vestfoldogtelemark/togstrekningen-mellom-stokke-og-sandefjord-er-stengt-etter-et-ras-1.17808523",
+      "title": "Togtrafikken mellom Stokke og Sandefjord er stengt etter et ras",
+      "link": "https://www.nrk.no/vestfoldogtelemark/togtrafikken-mellom-stokke-og-sandefjord-er-stengt-etter-et-ras-1.17808523",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Fri, 13 Mar 2026 17:08:50 GMT"
-    },
-    {
-      "title": "Helge Fossum ny generalsekretær i Fremskrittspartiet",
-      "link": "https://www.nrk.no/nyheter/helge-fossum-ny-generalsekretaer-i-fremskrittspartiet-1.17808567",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Fri, 13 Mar 2026 16:59:57 GMT"
-    },
-    {
-      "title": "Østfoldbanen stengt mellom Sarpsborg og Halden",
-      "link": "https://www.nrk.no/ostfold/ostfoldbanen-stengt-mellom-sarpsborg-og-halden-1.17808594",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Fri, 13 Mar 2026 16:57:51 GMT"
-    },
-    {
-      "title": "Avviser anke av dom",
-      "link": "https://www.nrk.no/trondelag/avviser-anke-av-dom-1.17808346",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 13 Mar 2026 16:41:08 GMT"
     }
   ]
 }
