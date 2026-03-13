@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-13T16:02:48.613Z",
+  "updatedAt": "2026-03-13T17:06:33.512Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Helge Fossum ny generalsekretær i Fremskrittspartiet",
+      "link": "https://www.nrk.no/nyheter/helge-fossum-ny-generalsekretaer-i-fremskrittspartiet-1.17808567",
+      "category": "Fremskrittspartiet",
+      "pubDate": "Fri, 13 Mar 2026 16:59:57 GMT"
+    },
+    {
+      "title": "Avviser anke av dom",
+      "link": "https://www.nrk.no/trondelag/avviser-anke-av-dom-1.17808346",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 13 Mar 2026 16:41:08 GMT"
+    },
+    {
+      "title": "Libanon: Over 770 drept i israelske angrep",
+      "link": "https://www.nrk.no/nyheter/libanon_-over-770-drept-i-israelske-angrep--1.17808562",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 16:25:31 GMT"
+    },
+    {
+      "title": "FN-sjefen ber om 3,1 milliarder kroner i humanitær hjelp til Libanon",
+      "link": "https://www.nrk.no/nyheter/fn-sjefen-ber-om-3_1-milliarder-kroner-i-humanitaer-hjelp-til-libanon-1.17808543",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 13 Mar 2026 16:09:50 GMT"
+    },
+    {
+      "title": "UD advarer mot å reise til 63 land",
+      "link": "https://www.nrk.no/nyheter/ud-advarer-mot-a-reise-til-63-land-1.17808528",
+      "category": "Utenriksdepartementets reiseråd",
+      "pubDate": "Fri, 13 Mar 2026 16:06:30 GMT"
+    },
     {
       "title": "Kritiserer USA for å lette på russiske oljesanksjoner",
       "link": "https://www.nrk.no/nyheter/kritiserer-usa-for-a-lette-pa-russiske-oljesanksjoner-1.17808479",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 13 Mar 2026 15:53:54 GMT"
-    },
-    {
-      "title": "Ber om fire ukers varetektsfengsling",
-      "link": "https://www.nrk.no/stor-oslo/ber-om-fire-ukers-varetektsfengsling-1.17808459",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 13 Mar 2026 15:28:52 GMT"
-    },
-    {
-      "title": "Tyrkisk skip har fått passere gjennom Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/tyrkisk-skip-har-fatt-passere-gjennom-hormuzstredet-1.17808318",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 15:12:28 GMT"
-    },
-    {
-      "title": "Et av regjeringspartiene på Grønland trekker seg",
-      "link": "https://www.nrk.no/nyheter/et-av-regjeringspartiene-pa-gronland-trekker-seg-1.17808297",
-      "category": "Grønland",
-      "pubDate": "Fri, 13 Mar 2026 14:03:14 GMT"
-    },
-    {
-      "title": "UAEs utenriksminister: Nabolandene sjokkerte over iranske angrep",
-      "link": "https://www.nrk.no/nyheter/uaes-utenriksminister_-nabolandene-sjokkerte-over-iranske-angrep-1.17808233",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 13:56:14 GMT"
-    },
-    {
-      "title": "Forsvareren til siktet mor etter ambassadebomben: – Hun er forvirret",
-      "link": "https://www.nrk.no/stor-oslo/forsvareren-til-siktet-mor-etter-ambassadebomben_-_-hun-er-forvirret--1.17808079",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Fri, 13 Mar 2026 13:42:58 GMT"
     }
   ]
 }
