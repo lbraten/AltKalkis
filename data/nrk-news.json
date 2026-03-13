@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-13T04:24:01.470Z",
+  "updatedAt": "2026-03-13T05:33:25.166Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EUs utanrikssjef: USA vil splitte Europa",
+      "link": "https://www.nrk.no/nyheter/eus-utanrikssjef_-usa-vil-splitte-europa-1.17807305",
+      "category": "Europeisk økonomi",
+      "pubDate": "Fri, 13 Mar 2026 05:31:14 GMT"
+    },
+    {
+      "title": "Afghanske myndigheter: Pakistan angriper Kabul og grenseprovinser",
+      "link": "https://www.nrk.no/nyheter/afghanske-myndigheter_-pakistan-angriper-kabul-og-grenseprovinser-1.17807261",
+      "category": "Pakistan og Afghanistan",
+      "pubDate": "Fri, 13 Mar 2026 04:24:03 GMT"
+    },
     {
       "title": "Angriper mot synagoge i USA identifisert som libaneser",
       "link": "https://www.nrk.no/nyheter/angriper-mot-synagoge-i-usa-identifisert-som-libaneser-1.17807246",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/australia-tapper-beredskapslagre-for-bensin-og-diesel-1.17807241",
       "category": "Oljeprisen",
       "pubDate": "Fri, 13 Mar 2026 03:11:52 GMT"
-    },
-    {
-      "title": "Én av fem australske tenåringer bruker fortsatt sosiale medier etter forbud",
-      "link": "https://www.nrk.no/nyheter/en-av-fem-australske-tenaringer-bruker-fortsatt-sosiale-medier-etter-forbud-1.17807242",
-      "category": "Sosiale medier",
-      "pubDate": "Fri, 13 Mar 2026 02:34:07 GMT"
-    },
-    {
-      "title": "USA: 6000 mål rammet i Iran",
-      "link": "https://www.nrk.no/nyheter/usa_-6000-mal-rammet-i-iran-1.17807240",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 13 Mar 2026 02:15:07 GMT"
     }
   ]
 }
