@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-13T17:06:33.512Z",
+  "updatedAt": "2026-03-13T18:00:32.344Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fire personer varetektsfengslet i fire uker etter terrorbombing",
+      "link": "https://www.nrk.no/stor-oslo/fire-personer-varetektsfengslet-i-fire-uker-etter-terrorbombing-1.17808628",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Fri, 13 Mar 2026 17:38:38 GMT"
+    },
+    {
+      "title": "Bonde tiltalt etter at mange dyr døde",
+      "link": "https://www.nrk.no/tromsogfinnmark/bonde-tiltalt-etter-at-mange-dyr-dode-1.17808551",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Fri, 13 Mar 2026 17:25:35 GMT"
+    },
+    {
+      "title": "Togstrekningen mellom Stokke og Sandefjord er stengt etter et ras",
+      "link": "https://www.nrk.no/vestfoldogtelemark/togstrekningen-mellom-stokke-og-sandefjord-er-stengt-etter-et-ras-1.17808523",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 13 Mar 2026 17:08:50 GMT"
+    },
     {
       "title": "Helge Fossum ny generalsekretær i Fremskrittspartiet",
       "link": "https://www.nrk.no/nyheter/helge-fossum-ny-generalsekretaer-i-fremskrittspartiet-1.17808567",
@@ -9,34 +27,16 @@
       "pubDate": "Fri, 13 Mar 2026 16:59:57 GMT"
     },
     {
+      "title": "Østfoldbanen stengt mellom Sarpsborg og Halden",
+      "link": "https://www.nrk.no/ostfold/ostfoldbanen-stengt-mellom-sarpsborg-og-halden-1.17808594",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Fri, 13 Mar 2026 16:57:51 GMT"
+    },
+    {
       "title": "Avviser anke av dom",
       "link": "https://www.nrk.no/trondelag/avviser-anke-av-dom-1.17808346",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Fri, 13 Mar 2026 16:41:08 GMT"
-    },
-    {
-      "title": "Libanon: Over 770 drept i israelske angrep",
-      "link": "https://www.nrk.no/nyheter/libanon_-over-770-drept-i-israelske-angrep--1.17808562",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 16:25:31 GMT"
-    },
-    {
-      "title": "FN-sjefen ber om 3,1 milliarder kroner i humanitær hjelp til Libanon",
-      "link": "https://www.nrk.no/nyheter/fn-sjefen-ber-om-3_1-milliarder-kroner-i-humanitaer-hjelp-til-libanon-1.17808543",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 16:09:50 GMT"
-    },
-    {
-      "title": "UD advarer mot å reise til 63 land",
-      "link": "https://www.nrk.no/nyheter/ud-advarer-mot-a-reise-til-63-land-1.17808528",
-      "category": "Utenriksdepartementets reiseråd",
-      "pubDate": "Fri, 13 Mar 2026 16:06:30 GMT"
-    },
-    {
-      "title": "Kritiserer USA for å lette på russiske oljesanksjoner",
-      "link": "https://www.nrk.no/nyheter/kritiserer-usa-for-a-lette-pa-russiske-oljesanksjoner-1.17808479",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 13 Mar 2026 15:53:54 GMT"
     }
   ]
 }
