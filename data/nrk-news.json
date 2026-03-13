@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-13T10:40:01.744Z",
+  "updatedAt": "2026-03-13T11:33:36.569Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Cuba seier dei har hatt samtalar med USA om blokaden",
+      "link": "https://www.nrk.no/nyheter/cuba-seier-dei-har-hatt-samtalar-med-usa-om-blokaden-1.17807902",
+      "category": "Cuba",
+      "pubDate": "Fri, 13 Mar 2026 11:26:41 GMT"
+    },
+    {
+      "title": "Melding om brann i Horten",
+      "link": "https://www.nrk.no/vestfoldogtelemark/melding-om-brann-i-horten-1.17807865",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 13 Mar 2026 11:19:01 GMT"
+    },
+    {
+      "title": "Nato skjøt ned rakett fra Iran mot Tyrkia",
+      "link": "https://www.nrk.no/nyheter/nato-skjot-ned-rakett-fra-iran-mot-tyrkia-1.17807289",
+      "category": "Iran",
+      "pubDate": "Fri, 13 Mar 2026 11:12:58 GMT"
+    },
+    {
+      "title": "Støre om å lette på russiske sanksjoner: – Ikke riktig",
+      "link": "https://www.nrk.no/nordland/store-om-a-lette-pa-russiske-sanksjoner_-_-ikke-riktig-1.17807621",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 13 Mar 2026 11:00:29 GMT"
+    },
+    {
+      "title": "To norske festivalar på liste over Europas beste festivalar",
+      "link": "https://www.nrk.no/nyheter/to-norske-festivalar-pa-liste-over-europas-beste-festivalar-1.17807786",
+      "category": "Musikk",
+      "pubDate": "Fri, 13 Mar 2026 10:44:00 GMT"
+    },
     {
       "title": "FN-sjefen besøker Libanon",
       "link": "https://www.nrk.no/nyheter/fn-sjefen-besoker-libanon-1.17807525",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 13 Mar 2026 10:31:15 GMT"
-    },
-    {
-      "title": "Norge og Tyskland styrker romsamarbeidet",
-      "link": "https://www.nrk.no/nordland/norge-og-tyskland-styrker-romsamarbeidet-1.17807680",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 13 Mar 2026 10:01:54 GMT"
-    },
-    {
-      "title": "Politiet bekrefter: Mor til siktede brødre også siktet for terrorbombing ved USAs ambassade",
-      "link": "https://www.nrk.no/nyheter/politiet-bekrefter_-mor-til-siktede-brodre-ogsa-siktet-for-terrorbombing-ved-usas-ambassade-1.17807617",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Fri, 13 Mar 2026 09:48:14 GMT"
-    },
-    {
-      "title": "Tiltalt for å ha forårsaket tragisk bilulykke",
-      "link": "https://www.nrk.no/rogaland/tiltalt-for-a-ha-forarsaket-tragisk-bilulykke-1.17807623",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 13 Mar 2026 09:38:07 GMT"
-    },
-    {
-      "title": "Fire bekreftet døde etter at amerikansk tankfly styrtet i Irak",
-      "link": "https://www.nrk.no/nyheter/fire-bekreftet-dode-etter-at-amerikansk-tankfly-styrtet-i-irak-1.17807579",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 09:34:46 GMT"
-    },
-    {
-      "title": "Tre brødre fremstilles for varetektsfengsling etter ambassade-eksplosjon",
-      "link": "https://www.nrk.no/nyheter/tre-brodre-fremstilles-for-varetektsfengsling-etter-ambassade-eksplosjon-1.17807615",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Fri, 13 Mar 2026 09:27:49 GMT"
     }
   ]
 }
