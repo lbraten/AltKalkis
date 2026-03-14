@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-14T14:31:20.435Z",
+  "updatedAt": "2026-03-14T15:30:22.589Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge og Canada inngår avtale om romsamarbeid",
+      "link": "https://www.nrk.no/nyheter/norge-og-canada-inngar-avtale-om-romsamarbeid-1.17809295",
+      "category": "Støre-regjeringen",
+      "pubDate": "Sat, 14 Mar 2026 15:12:25 GMT"
+    },
+    {
+      "title": "Rød Ungdom spøket med ambassadebombingen på Tiktok",
+      "link": "https://www.nrk.no/nyheter/rod-ungdom-spoket-med-ambassadebombingen-pa-tiktok-1.17809253",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 14 Mar 2026 14:45:58 GMT"
+    },
     {
       "title": "Den tyske filosofen Jürgen Habermas er død",
       "link": "https://www.nrk.no/nyheter/den-tyske-filosofen-jurgen-habermas-er-dod-1.17809250",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dei-sameinte-arabiske-emirata_-konsulat-i-irak-ramma-av-droneangrep-1.17809102",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 14 Mar 2026 12:55:47 GMT"
-    },
-    {
-      "title": "Syklist til sykehus etter kollisjon med bil - mistenker ruskjøring",
-      "link": "https://www.nrk.no/rogaland/syklist-til-sykehus-etter-kollisjon-med-bil---mistenker-ruskjoring-1.17809016",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 14 Mar 2026 11:56:31 GMT"
-    },
-    {
-      "title": "USA: Angrep over 90 militære mål i Iran",
-      "link": "https://www.nrk.no/nyheter/usa_-angrep-over-90-militaere-mal-i-iran-1.17809099",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 11:37:54 GMT"
     }
   ]
 }
