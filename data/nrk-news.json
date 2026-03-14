@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-03-14T16:35:04.855Z",
+  "updatedAt": "2026-03-14T17:28:45.105Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Melding om snøskred ved Høgevarde",
-      "link": "https://www.nrk.no/nyheter/melding-om-snoskred-ved-hogevarde-1.17809370",
-      "category": "NRK Nyheter",
+      "title": "Lufthansa flyr som vanlig igjen etter to dager med streik",
+      "link": "https://www.nrk.no/nyheter/lufthansa-flyr-som-vanlig-igjen-etter-to-dager-med-streik-1.17809398",
+      "category": "Flybransjen",
+      "pubDate": "Sat, 14 Mar 2026 17:16:35 GMT"
+    },
+    {
+      "title": "Melding om snøskred ved Høgevarde: – Tyder på at skredet er gammelt",
+      "link": "https://www.nrk.no/nyheter/melding-om-snoskred-ved-hogevarde_-_-tyder-pa-at-skredet-er-gammelt-1.17809370",
+      "category": "Nyhetssenter Buskerud",
       "pubDate": "Sat, 14 Mar 2026 16:31:29 GMT"
+    },
+    {
+      "title": "Krever svar om helseministerens tillit til sykehusledelsen",
+      "link": "https://www.nrk.no/sorlandet/krever-svar-om-helseministerens-tillit-til-sykehusledelsen--1.17809364",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 14 Mar 2026 16:25:31 GMT"
     },
     {
       "title": "Helsedepartementet i Libanon: Over 100 barn drept siden krigen startet",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/politiet-avdramatiserer-brann-melding-1.17809267",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 14 Mar 2026 15:41:46 GMT"
-    },
-    {
-      "title": "Norge og Canada inngår avtale om romsamarbeid",
-      "link": "https://www.nrk.no/nyheter/norge-og-canada-inngar-avtale-om-romsamarbeid-1.17809295",
-      "category": "Støre-regjeringen",
-      "pubDate": "Sat, 14 Mar 2026 15:12:25 GMT"
-    },
-    {
-      "title": "Rød Ungdom spøket med ambassadebombingen på Tiktok",
-      "link": "https://www.nrk.no/nyheter/rod-ungdom-spoket-med-ambassadebombingen-pa-tiktok-1.17809253",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 14 Mar 2026 14:45:58 GMT"
     }
   ]
 }
