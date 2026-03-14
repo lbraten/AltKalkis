@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-03-14T18:41:47.457Z",
+  "updatedAt": "2026-03-14T19:29:27.768Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "En skadet i slagsmål ved Oslo City",
-      "link": "https://www.nrk.no/stor-oslo/en-skadet-i-slagsmal-ved-oslo-city-1.17809470",
+      "title": "Politi-topp blir Sp-topp",
+      "link": "https://www.nrk.no/stor-oslo/politi-topp-blir-sp-topp-1.17809474",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 14 Mar 2026 19:00:36 GMT"
+    },
+    {
+      "title": "Trump ber flere land sende krigsskip til Hormuzstredet – Norge sier nei",
+      "link": "https://www.nrk.no/nyheter/trump-ber-flere-land-sende-krigsskip-til-hormuzstredet-_-norge-sier-nei-1.17809471",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 14 Mar 2026 18:53:09 GMT"
+    },
+    {
+      "title": "To grupperinger barket sammen",
+      "link": "https://www.nrk.no/stor-oslo/to-grupperinger-barket-sammen-1.17809470",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 14 Mar 2026 18:27:45 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iranske-medier_-15-drept-i-angrep-mot-fabrikk-1.17809452",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 14 Mar 2026 17:47:09 GMT"
-    },
-    {
-      "title": "Lufthansa flyr som vanlig igjen etter to dager med streik",
-      "link": "https://www.nrk.no/nyheter/lufthansa-flyr-som-vanlig-igjen-etter-to-dager-med-streik-1.17809398",
-      "category": "Flybransjen",
-      "pubDate": "Sat, 14 Mar 2026 17:16:35 GMT"
-    },
-    {
-      "title": "Melding om snøskred ved Høgevarde: – Tyder på at skredet er gammelt",
-      "link": "https://www.nrk.no/nyheter/melding-om-snoskred-ved-hogevarde_-_-tyder-pa-at-skredet-er-gammelt-1.17809370",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 14 Mar 2026 16:31:29 GMT"
     }
   ]
 }
