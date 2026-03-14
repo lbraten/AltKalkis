@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-14T19:50:43.063Z",
+  "updatedAt": "2026-03-14T20:31:48.159Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Hizbollah: Direkte kamphandlinger med Israel i Libanon",
+      "link": "https://www.nrk.no/nyheter/hizbollah_-direkte-kamphandlinger-med-israel-i-libanon-1.17809374",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 14 Mar 2026 20:28:05 GMT"
+    },
+    {
+      "title": "Brann i enebolig i Hyllestad – skal være overtent",
+      "link": "https://www.nrk.no/vestland/brann-i-enebolig-i-hyllestad-_-skal-vaere-overtent-1.17809473",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 14 Mar 2026 19:53:47 GMT"
+    },
     {
       "title": "Politi-topp blir Sp-topp",
       "link": "https://www.nrk.no/stor-oslo/politi-topp-blir-sp-topp-1.17809474",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/mann-truet-person-med-kniv-pa-vossevangen--1.17809289",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 14 Mar 2026 18:21:57 GMT"
-    },
-    {
-      "title": "Avslutter søk etter snøskred ved Gaustablikk",
-      "link": "https://www.nrk.no/nyheter/avslutter-sok-etter-snoskred-ved-gaustablikk-1.17809462",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 14 Mar 2026 18:07:37 GMT"
-    },
-    {
-      "title": "Iranske medier: 15 drept i angrep mot fabrikk",
-      "link": "https://www.nrk.no/nyheter/iranske-medier_-15-drept-i-angrep-mot-fabrikk-1.17809452",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 17:47:09 GMT"
     }
   ]
 }
