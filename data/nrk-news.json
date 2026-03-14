@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-14T08:38:58.330Z",
+  "updatedAt": "2026-03-14T09:36:26.509Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dei sameinte arabiske emirata: Dronevrak starta brann",
+      "link": "https://www.nrk.no/nyheter/dei-sameinte-arabiske-emirata_-dronevrak-starta-brann-1.17808952",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 14 Mar 2026 09:28:01 GMT"
+    },
     {
       "title": "Ukraina: Fire drepne og ti skadde",
       "link": "https://www.nrk.no/nyheter/ukraina_-fire-drepne-og-ti-skadde-1.17808907",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nord-korea-skal-ha-avfyrt-missiler-1.17808840",
       "category": "Forholdet mellom Sør- og Nord-Korea",
       "pubDate": "Sat, 14 Mar 2026 04:43:14 GMT"
-    },
-    {
-      "title": "Angrep mot USAs ambassade i Irak",
-      "link": "https://www.nrk.no/nyheter/angrep-mot-usas-ambassade-i-irak-1.17808836",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 04:25:44 GMT"
     }
   ]
 }
