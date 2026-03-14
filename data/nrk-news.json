@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-03-14T22:55:31.915Z",
+  "updatedAt": "2026-03-14T23:31:17.300Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
       "title": "Mann antatt omkommet i brann i Ytre Sogn",
       "link": "https://www.nrk.no/nyheter/mann-antatt-omkommet-i-brann-i-ytre-sogn-1.17809583",
-      "category": "NRK Nyheter",
+      "category": "high",
       "pubDate": "Sat, 14 Mar 2026 22:53:08 GMT"
     },
     {
@@ -15,8 +15,8 @@
       "pubDate": "Sat, 14 Mar 2026 22:39:54 GMT"
     },
     {
-      "title": "Melding om ambulansefly med problemer i Sør-Varanger",
-      "link": "https://www.nrk.no/nyheter/melding-om-ambulansefly-med-problemer-i-sor-varanger-1.17809545",
+      "title": "Ambulansefly fikk problemer – men landet trygt",
+      "link": "https://www.nrk.no/nyheter/ambulansefly-fikk-problemer-_-men-landet-trygt-1.17809545",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sat, 14 Mar 2026 22:35:42 GMT"
     },
