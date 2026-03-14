@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-14T17:28:45.105Z",
+  "updatedAt": "2026-03-14T17:54:13.195Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iranske medier: 15 drept i angrep mot fabrikk",
+      "link": "https://www.nrk.no/nyheter/iranske-medier_-15-drept-i-angrep-mot-fabrikk-1.17809452",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 14 Mar 2026 17:47:09 GMT"
+    },
     {
       "title": "Lufthansa flyr som vanlig igjen etter to dager med streik",
       "link": "https://www.nrk.no/nyheter/lufthansa-flyr-som-vanlig-igjen-etter-to-dager-med-streik-1.17809398",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/snoskred-i-telemark-_-opplysninger-om-skispor-inn-i-skredet-1.17809313",
       "category": "high",
       "pubDate": "Sat, 14 Mar 2026 15:43:44 GMT"
-    },
-    {
-      "title": "Politiet avdramatiserer brann-melding",
-      "link": "https://www.nrk.no/stor-oslo/politiet-avdramatiserer-brann-melding-1.17809267",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 14 Mar 2026 15:41:46 GMT"
     }
   ]
 }
