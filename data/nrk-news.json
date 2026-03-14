@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-13T23:31:24.896Z",
+  "updatedAt": "2026-03-14T02:12:44.123Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA vil frigjøre oljereserver til uka",
+      "link": "https://www.nrk.no/nyheter/usa-vil-frigjore-oljereserver-til-uka-1.17808809",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 14 Mar 2026 00:33:53 GMT"
+    },
+    {
+      "title": "En drept og flere såret i russiske angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/en-drept-og-flere-saret-i-russiske-angrep-mot-ukraina-1.17808808",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 14 Mar 2026 00:14:29 GMT"
+    },
     {
       "title": "Fem amerikanske tankfly skal være skadet på flybase i Saudi-Arabia",
       "link": "https://www.nrk.no/nyheter/fem-amerikanske-tankfly-skal-vaere-skadet-pa-flybase-i-saudi-arabia-1.17808807",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-doha-1.17808786",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 13 Mar 2026 22:42:21 GMT"
-    },
-    {
-      "title": "Amerikanske medier: Nye amerikanske styrker på vei til Midtøsten",
-      "link": "https://www.nrk.no/nyheter/amerikanske-medier_-nye-amerikanske-styrker-pa-vei-til-midtosten-1.17808782",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 21:57:04 GMT"
-    },
-    {
-      "title": "FN-base i Sør-Libanon skal være truffet av angrep",
-      "link": "https://www.nrk.no/nyheter/fn-base-i-sor-libanon-skal-vaere-truffet-av-angrep-1.17808778",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 21:37:35 GMT"
     }
   ]
 }
