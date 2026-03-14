@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-03-14T11:26:49.817Z",
+  "updatedAt": "2026-03-14T11:49:06.451Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Steinras på gang- og sykkelvei i Porsgrunn",
-      "link": "https://www.nrk.no/nyheter/steinras-pa-gang--og-sykkelvei-i-porsgrunn-1.17809005",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 14 Mar 2026 10:28:59 GMT"
+      "title": "USA: Angrep over 90 militære mål i Iran",
+      "link": "https://www.nrk.no/nyheter/usa_-angrep-over-90-militaere-mal-i-iran-1.17809099",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 14 Mar 2026 11:37:54 GMT"
+    },
+    {
+      "title": "Ukraina: Har angripe oljeraffineri og hamn i Russland",
+      "link": "https://www.nrk.no/nyheter/ukraina_-har-angripe-oljeraffineri-og-hamn-i-russland-1.17809092",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 14 Mar 2026 11:35:03 GMT"
+    },
+    {
+      "title": "Frps landsstyremøtet: Vil kutte avgifter og styrke forsvar",
+      "link": "https://www.nrk.no/nyheter/frps-landsstyremotet_-vil-kutte-avgifter-og-styrke-forsvar-1.17809065",
+      "category": "Fremskrittspartiet",
+      "pubDate": "Sat, 14 Mar 2026 11:27:28 GMT"
     },
     {
       "title": "Kongen på plass i Holmenkollen",
@@ -21,22 +33,10 @@
       "pubDate": "Sat, 14 Mar 2026 10:07:58 GMT"
     },
     {
-      "title": "Iran: Har latt indiske skip passere Hormuzsundet",
-      "link": "https://www.nrk.no/nyheter/iran_-har-latt-indiske-skip-passere-hormuzsundet-1.17808985",
+      "title": "India bekreftar at indiske skip fekk passere Hormuzsundet",
+      "link": "https://www.nrk.no/nyheter/india-bekreftar-at-indiske-skip-fekk-passere-hormuzsundet-1.17808985",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 14 Mar 2026 10:06:28 GMT"
-    },
-    {
-      "title": "Iran truar amerikanske mål i Emirata",
-      "link": "https://www.nrk.no/nyheter/iran-truar-amerikanske-mal-i-emirata-1.17808971",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 09:47:56 GMT"
-    },
-    {
-      "title": "Dei sameinte arabiske emirata: Dronevrak starta brann ved eit oljeanlegg",
-      "link": "https://www.nrk.no/nyheter/dei-sameinte-arabiske-emirata_-dronevrak-starta-brann-ved-eit-oljeanlegg-1.17808952",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 09:28:01 GMT"
     }
   ]
 }
