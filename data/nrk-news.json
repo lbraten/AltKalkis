@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-03-14T05:31:35.723Z",
+  "updatedAt": "2026-03-14T06:52:24.997Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Nord-Korea skal ha avfyrt prosjektil",
-      "link": "https://www.nrk.no/nyheter/nord-korea-skal-ha-avfyrt-prosjektil-1.17808840",
+      "title": "Eksplosjon ved jødisk skole i Nederland",
+      "link": "https://www.nrk.no/nyheter/eksplosjon-ved-jodisk-skole-i-nederland-1.17808844",
+      "category": "Nederland",
+      "pubDate": "Sat, 14 Mar 2026 06:16:20 GMT"
+    },
+    {
+      "title": "Boy George skal på scenen for San Marino i Eurovision",
+      "link": "https://www.nrk.no/nyheter/boy-george-skal-pa-scenen-for-san-marino-i-eurovision-1.17808841",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Sat, 14 Mar 2026 05:51:06 GMT"
+    },
+    {
+      "title": "Nord-Korea skal ha avfyrt missiler",
+      "link": "https://www.nrk.no/nyheter/nord-korea-skal-ha-avfyrt-missiler-1.17808840",
       "category": "Forholdet mellom Sør- og Nord-Korea",
       "pubDate": "Sat, 14 Mar 2026 04:43:14 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/palestinsk-skuespiller-nektet-innreise-til-usa-1.17808816",
       "category": "USA",
       "pubDate": "Sat, 14 Mar 2026 02:39:46 GMT"
-    },
-    {
-      "title": "USA vil frigjøre oljereserver til uka",
-      "link": "https://www.nrk.no/nyheter/usa-vil-frigjore-oljereserver-til-uka-1.17808809",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 00:33:53 GMT"
-    },
-    {
-      "title": "En drept og flere såret i russiske angrep mot Ukraina",
-      "link": "https://www.nrk.no/nyheter/en-drept-og-flere-saret-i-russiske-angrep-mot-ukraina-1.17808808",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 14 Mar 2026 00:14:29 GMT"
     }
   ]
 }
