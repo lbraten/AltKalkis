@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-14T21:52:10.450Z",
+  "updatedAt": "2026-03-14T22:29:25.104Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bekreftet: Formel 1-løpene i Bahrain og Saudi-Arabia avlyst",
+      "link": "https://www.nrk.no/sport/bekreftet_-formel-1-lopene-i-bahrain-og-saudi-arabia-avlyst-1.17809555",
+      "category": "Sportsnyheter",
+      "pubDate": "Sat, 14 Mar 2026 22:11:15 GMT"
+    },
     {
       "title": "Trafikkulykke på Rakkestadveien",
       "link": "https://www.nrk.no/ostfold/trafikkulykke-pa-rakkestadveien-1.17809536",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hizbollah_-direkte-kamphandlinger-med-israel-i-libanon-1.17809374",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 14 Mar 2026 20:28:05 GMT"
-    },
-    {
-      "title": "Mindreårige angivelig ranet i Stavanger",
-      "link": "https://www.nrk.no/rogaland/mindrearige-angivelig-ranet-i-stavanger--1.17809530",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 14 Mar 2026 20:24:21 GMT"
     }
   ]
 }
