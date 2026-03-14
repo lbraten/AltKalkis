@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-14T20:31:48.159Z",
+  "updatedAt": "2026-03-14T21:29:43.192Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trafikkulykke på Rakkestadveien",
+      "link": "https://www.nrk.no/ostfold/trafikkulykke-pa-rakkestadveien-1.17809536",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 14 Mar 2026 20:45:26 GMT"
+    },
+    {
+      "title": "Strand: Person sendt til sykehus etter trafikkulykke",
+      "link": "https://www.nrk.no/rogaland/strand_-person-sendt-til-sykehus-etter-trafikkulykke--1.17809531",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 14 Mar 2026 20:42:59 GMT"
+    },
+    {
+      "title": "Fant blodig person etter voldshendelse i Bergen",
+      "link": "https://www.nrk.no/vestland/fant-blodig-person-etter-voldshendelse-i-bergen--1.17809511",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 14 Mar 2026 20:35:01 GMT"
+    },
+    {
+      "title": "Sparkesyklist døde – lastebilsjåfør tiltalt",
+      "link": "https://www.nrk.no/stor-oslo/sparkesyklist-dode-_-lastebilsjafor-tiltalt--1.17809498",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 14 Mar 2026 20:33:32 GMT"
+    },
     {
       "title": "Hizbollah: Direkte kamphandlinger med Israel i Libanon",
       "link": "https://www.nrk.no/nyheter/hizbollah_-direkte-kamphandlinger-med-israel-i-libanon-1.17809374",
@@ -9,34 +33,10 @@
       "pubDate": "Sat, 14 Mar 2026 20:28:05 GMT"
     },
     {
-      "title": "Brann i enebolig i Hyllestad – skal være overtent",
-      "link": "https://www.nrk.no/vestland/brann-i-enebolig-i-hyllestad-_-skal-vaere-overtent-1.17809473",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 14 Mar 2026 19:53:47 GMT"
-    },
-    {
-      "title": "Politi-topp blir Sp-topp",
-      "link": "https://www.nrk.no/stor-oslo/politi-topp-blir-sp-topp-1.17809474",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 14 Mar 2026 19:00:36 GMT"
-    },
-    {
-      "title": "Trump ber flere land sende krigsskip til Hormuzstredet – Norge sier nei",
-      "link": "https://www.nrk.no/nyheter/trump-ber-flere-land-sende-krigsskip-til-hormuzstredet-_-norge-sier-nei-1.17809471",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 18:53:09 GMT"
-    },
-    {
-      "title": "To grupperinger barket sammen",
-      "link": "https://www.nrk.no/stor-oslo/to-grupperinger-barket-sammen-1.17809470",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 14 Mar 2026 18:27:45 GMT"
-    },
-    {
-      "title": "Mann truet person med kniv på Vossevangen",
-      "link": "https://www.nrk.no/vestland/mann-truet-person-med-kniv-pa-vossevangen--1.17809289",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 14 Mar 2026 18:21:57 GMT"
+      "title": "Mindreårige angivelig ranet i Stavanger",
+      "link": "https://www.nrk.no/rogaland/mindrearige-angivelig-ranet-i-stavanger--1.17809530",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 14 Mar 2026 20:24:21 GMT"
     }
   ]
 }
