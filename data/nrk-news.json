@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-14T15:30:22.589Z",
+  "updatedAt": "2026-03-14T16:35:04.855Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Melding om snøskred ved Høgevarde",
+      "link": "https://www.nrk.no/nyheter/melding-om-snoskred-ved-hogevarde-1.17809370",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 14 Mar 2026 16:31:29 GMT"
+    },
+    {
+      "title": "Helsedepartementet i Libanon: Over 100 barn drept siden krigen startet",
+      "link": "https://www.nrk.no/nyheter/helsedepartementet-i-libanon_-over-100-barn-drept-siden-krigen-startet-1.17809351",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 14 Mar 2026 16:05:11 GMT"
+    },
+    {
+      "title": "Snøskred i Telemark – opplysninger om skispor inn i skredet",
+      "link": "https://www.nrk.no/nyheter/snoskred-i-telemark-_-opplysninger-om-skispor-inn-i-skredet-1.17809313",
+      "category": "high",
+      "pubDate": "Sat, 14 Mar 2026 15:43:44 GMT"
+    },
+    {
+      "title": "Politiet avdramatiserer brann-melding",
+      "link": "https://www.nrk.no/stor-oslo/politiet-avdramatiserer-brann-melding-1.17809267",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 14 Mar 2026 15:41:46 GMT"
+    },
     {
       "title": "Norge og Canada inngår avtale om romsamarbeid",
       "link": "https://www.nrk.no/nyheter/norge-og-canada-inngar-avtale-om-romsamarbeid-1.17809295",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rod-ungdom-spoket-med-ambassadebombingen-pa-tiktok-1.17809253",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 14 Mar 2026 14:45:58 GMT"
-    },
-    {
-      "title": "Den tyske filosofen Jürgen Habermas er død",
-      "link": "https://www.nrk.no/nyheter/den-tyske-filosofen-jurgen-habermas-er-dod-1.17809250",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 14 Mar 2026 14:06:54 GMT"
-    },
-    {
-      "title": "Mor og mellomste bror anker varetektsfengsling",
-      "link": "https://www.nrk.no/nyheter/mor-og-mellomste-bror-anker-varetektsfengsling-1.17809237",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Sat, 14 Mar 2026 14:04:10 GMT"
-    },
-    {
-      "title": "Ambassade-eksplosjonen: Mora ankar varetektsfengslinga",
-      "link": "https://www.nrk.no/nyheter/ambassade-eksplosjonen_-mora-ankar-varetektsfengslinga-1.17809178",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Sat, 14 Mar 2026 13:47:09 GMT"
-    },
-    {
-      "title": "Dei sameinte arabiske emirata: Konsulat i Irak ramma av droneangrep",
-      "link": "https://www.nrk.no/nyheter/dei-sameinte-arabiske-emirata_-konsulat-i-irak-ramma-av-droneangrep-1.17809102",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 12:55:47 GMT"
     }
   ]
 }
