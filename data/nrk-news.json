@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-14T17:54:13.195Z",
+  "updatedAt": "2026-03-14T18:41:47.457Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En skadet i slagsmål ved Oslo City",
+      "link": "https://www.nrk.no/stor-oslo/en-skadet-i-slagsmal-ved-oslo-city-1.17809470",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 14 Mar 2026 18:27:45 GMT"
+    },
+    {
+      "title": "Mann truet person med kniv på Vossevangen",
+      "link": "https://www.nrk.no/vestland/mann-truet-person-med-kniv-pa-vossevangen--1.17809289",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 14 Mar 2026 18:21:57 GMT"
+    },
+    {
+      "title": "Avslutter søk etter snøskred ved Gaustablikk",
+      "link": "https://www.nrk.no/nyheter/avslutter-sok-etter-snoskred-ved-gaustablikk-1.17809462",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 14 Mar 2026 18:07:37 GMT"
+    },
     {
       "title": "Iranske medier: 15 drept i angrep mot fabrikk",
       "link": "https://www.nrk.no/nyheter/iranske-medier_-15-drept-i-angrep-mot-fabrikk-1.17809452",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/melding-om-snoskred-ved-hogevarde_-_-tyder-pa-at-skredet-er-gammelt-1.17809370",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sat, 14 Mar 2026 16:31:29 GMT"
-    },
-    {
-      "title": "Krever svar om helseministerens tillit til sykehusledelsen",
-      "link": "https://www.nrk.no/sorlandet/krever-svar-om-helseministerens-tillit-til-sykehusledelsen--1.17809364",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 14 Mar 2026 16:25:31 GMT"
-    },
-    {
-      "title": "Helsedepartementet i Libanon: Over 100 barn drept siden krigen startet",
-      "link": "https://www.nrk.no/nyheter/helsedepartementet-i-libanon_-over-100-barn-drept-siden-krigen-startet-1.17809351",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 16:05:11 GMT"
-    },
-    {
-      "title": "Snøskred i Telemark – opplysninger om skispor inn i skredet",
-      "link": "https://www.nrk.no/nyheter/snoskred-i-telemark-_-opplysninger-om-skispor-inn-i-skredet-1.17809313",
-      "category": "high",
-      "pubDate": "Sat, 14 Mar 2026 15:43:44 GMT"
     }
   ]
 }
