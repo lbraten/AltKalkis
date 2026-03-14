@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-14T11:49:06.451Z",
+  "updatedAt": "2026-03-14T12:57:16.661Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dei sameinte arabiske emirata: Konsulat i Irak ramma av droneangrep",
+      "link": "https://www.nrk.no/nyheter/dei-sameinte-arabiske-emirata_-konsulat-i-irak-ramma-av-droneangrep-1.17809102",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 14 Mar 2026 12:55:47 GMT"
+    },
+    {
+      "title": "Syklist til sykehus etter kollisjon med bil på Klepp",
+      "link": "https://www.nrk.no/rogaland/syklist-til-sykehus-etter-kollisjon-med-bil-pa-klepp--1.17809016",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 14 Mar 2026 11:56:31 GMT"
+    },
     {
       "title": "USA: Angrep over 90 militære mål i Iran",
       "link": "https://www.nrk.no/nyheter/usa_-angrep-over-90-militaere-mal-i-iran-1.17809099",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kongen-pa-plass-i-holmenkollen-1.17809000",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 14 Mar 2026 10:11:25 GMT"
-    },
-    {
-      "title": "Frankrike oppmodar Israel og Libanon til diplomati",
-      "link": "https://www.nrk.no/nyheter/frankrike-oppmodar-israel-og-libanon-til-diplomati-1.17808999",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 10:07:58 GMT"
-    },
-    {
-      "title": "India bekreftar at indiske skip fekk passere Hormuzsundet",
-      "link": "https://www.nrk.no/nyheter/india-bekreftar-at-indiske-skip-fekk-passere-hormuzsundet-1.17808985",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 14 Mar 2026 10:06:28 GMT"
     }
   ]
 }
