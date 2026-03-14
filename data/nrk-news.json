@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-03-14T12:57:16.661Z",
+  "updatedAt": "2026-03-14T13:50:22.983Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "NTB: Mora ankar varetektsfengslinga",
+      "link": "https://www.nrk.no/nyheter/ntb_-mora-ankar-varetektsfengslinga-1.17809178",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 14 Mar 2026 13:47:09 GMT"
+    },
+    {
       "title": "Dei sameinte arabiske emirata: Konsulat i Irak ramma av droneangrep",
       "link": "https://www.nrk.no/nyheter/dei-sameinte-arabiske-emirata_-konsulat-i-irak-ramma-av-droneangrep-1.17809102",
-      "category": "NRK Nyheter",
+      "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 14 Mar 2026 12:55:47 GMT"
     },
     {
-      "title": "Syklist til sykehus etter kollisjon med bil på Klepp",
-      "link": "https://www.nrk.no/rogaland/syklist-til-sykehus-etter-kollisjon-med-bil-pa-klepp--1.17809016",
+      "title": "Syklist til sykehus etter kollisjon med bil - mistenker ruskjøring",
+      "link": "https://www.nrk.no/rogaland/syklist-til-sykehus-etter-kollisjon-med-bil---mistenker-ruskjoring-1.17809016",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sat, 14 Mar 2026 11:56:31 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/frps-landsstyremotet_-vil-kutte-avgifter-og-styrke-forsvar-1.17809065",
       "category": "Fremskrittspartiet",
       "pubDate": "Sat, 14 Mar 2026 11:27:28 GMT"
-    },
-    {
-      "title": "Kongen på plass i Holmenkollen",
-      "link": "https://www.nrk.no/nyheter/kongen-pa-plass-i-holmenkollen-1.17809000",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 14 Mar 2026 10:11:25 GMT"
     }
   ]
 }
