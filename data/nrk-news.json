@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-14T07:36:23.365Z",
+  "updatedAt": "2026-03-14T08:38:58.330Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina: Fire drepne og ti skadde",
+      "link": "https://www.nrk.no/nyheter/ukraina_-fire-drepne-og-ti-skadde-1.17808907",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 14 Mar 2026 08:05:11 GMT"
+    },
+    {
+      "title": "Utanriksminister Eide: – Midtausten står i brann",
+      "link": "https://www.nrk.no/nyheter/utanriksminister-eide_-_-midtausten-star-i-brann-1.17808846",
+      "category": "Støre-regjeringen",
+      "pubDate": "Sat, 14 Mar 2026 07:49:01 GMT"
+    },
     {
       "title": "Eksplosjon ved jødisk skole i Nederland",
       "link": "https://www.nrk.no/nyheter/eksplosjon-ved-jodisk-skole-i-nederland-1.17808844",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/angrep-mot-usas-ambassade-i-irak-1.17808836",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 14 Mar 2026 04:25:44 GMT"
-    },
-    {
-      "title": "To drept i Kyiv-området",
-      "link": "https://www.nrk.no/nyheter/to-drept-i-kyiv-omradet-1.17808813",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 14 Mar 2026 03:50:19 GMT"
-    },
-    {
-      "title": "Palestinsk skuespiller nektet innreise til USA",
-      "link": "https://www.nrk.no/nyheter/palestinsk-skuespiller-nektet-innreise-til-usa-1.17808816",
-      "category": "USA",
-      "pubDate": "Sat, 14 Mar 2026 02:39:46 GMT"
     }
   ]
 }
