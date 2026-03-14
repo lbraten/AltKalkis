@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-14T02:12:44.123Z",
+  "updatedAt": "2026-03-14T04:21:48.345Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To drept i Kyiv-området",
+      "link": "https://www.nrk.no/nyheter/to-drept-i-kyiv-omradet-1.17808813",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 14 Mar 2026 03:50:19 GMT"
+    },
+    {
+      "title": "Palestinsk skuespiller nektet innreise til USA",
+      "link": "https://www.nrk.no/nyheter/palestinsk-skuespiller-nektet-innreise-til-usa-1.17808816",
+      "category": "USA",
+      "pubDate": "Sat, 14 Mar 2026 02:39:46 GMT"
+    },
     {
       "title": "USA vil frigjøre oljereserver til uka",
       "link": "https://www.nrk.no/nyheter/usa-vil-frigjore-oljereserver-til-uka-1.17808809",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-helsearbeidere-i-libanon-drept-i-angrep-1.17808804",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 13 Mar 2026 23:14:42 GMT"
-    },
-    {
-      "title": "Trump: USA har angrepet Kharg-øya i Iran",
-      "link": "https://www.nrk.no/nyheter/trump_-usa-har-angrepet-kharg-oya-i-iran-1.17808799",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 22:58:51 GMT"
-    },
-    {
-      "title": "Eksplosjoner hørt i Doha",
-      "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-doha-1.17808786",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 13 Mar 2026 22:42:21 GMT"
     }
   ]
 }
