@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-03-14T13:50:22.983Z",
+  "updatedAt": "2026-03-14T14:31:20.435Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "NTB: Mora ankar varetektsfengslinga",
-      "link": "https://www.nrk.no/nyheter/ntb_-mora-ankar-varetektsfengslinga-1.17809178",
+      "title": "Den tyske filosofen Jürgen Habermas er død",
+      "link": "https://www.nrk.no/nyheter/den-tyske-filosofen-jurgen-habermas-er-dod-1.17809250",
       "category": "NRK Nyheter",
+      "pubDate": "Sat, 14 Mar 2026 14:06:54 GMT"
+    },
+    {
+      "title": "Mor og mellomste bror anker varetektsfengsling",
+      "link": "https://www.nrk.no/nyheter/mor-og-mellomste-bror-anker-varetektsfengsling-1.17809237",
+      "category": "Eksplosjon ved USAs ambassade",
+      "pubDate": "Sat, 14 Mar 2026 14:04:10 GMT"
+    },
+    {
+      "title": "Ambassade-eksplosjonen: Mora ankar varetektsfengslinga",
+      "link": "https://www.nrk.no/nyheter/ambassade-eksplosjonen_-mora-ankar-varetektsfengslinga-1.17809178",
+      "category": "Eksplosjon ved USAs ambassade",
       "pubDate": "Sat, 14 Mar 2026 13:47:09 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa_-angrep-over-90-militaere-mal-i-iran-1.17809099",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 14 Mar 2026 11:37:54 GMT"
-    },
-    {
-      "title": "Ukraina: Har angripe oljeraffineri og hamn i Russland",
-      "link": "https://www.nrk.no/nyheter/ukraina_-har-angripe-oljeraffineri-og-hamn-i-russland-1.17809092",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 14 Mar 2026 11:35:03 GMT"
-    },
-    {
-      "title": "Frps landsstyremøtet: Vil kutte avgifter og styrke forsvar",
-      "link": "https://www.nrk.no/nyheter/frps-landsstyremotet_-vil-kutte-avgifter-og-styrke-forsvar-1.17809065",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Sat, 14 Mar 2026 11:27:28 GMT"
     }
   ]
 }
