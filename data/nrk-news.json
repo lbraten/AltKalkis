@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-14T22:29:25.104Z",
+  "updatedAt": "2026-03-14T22:55:31.915Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann antatt omkommet i brann i Ytre Sogn",
+      "link": "https://www.nrk.no/nyheter/mann-antatt-omkommet-i-brann-i-ytre-sogn-1.17809583",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 14 Mar 2026 22:53:08 GMT"
+    },
+    {
+      "title": "Trafikkulykke på Stord – bil på taket",
+      "link": "https://www.nrk.no/nyheter/trafikkulykke-pa-stord-_-bil-pa-taket-1.17809579",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 14 Mar 2026 22:39:54 GMT"
+    },
+    {
+      "title": "Melding om ambulansefly med problemer i Sør-Varanger",
+      "link": "https://www.nrk.no/nyheter/melding-om-ambulansefly-med-problemer-i-sor-varanger-1.17809545",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 14 Mar 2026 22:35:42 GMT"
+    },
     {
       "title": "Bekreftet: Formel 1-løpene i Bahrain og Saudi-Arabia avlyst",
       "link": "https://www.nrk.no/sport/bekreftet_-formel-1-lopene-i-bahrain-og-saudi-arabia-avlyst-1.17809555",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/rogaland/strand_-person-sendt-til-sykehus-etter-trafikkulykke--1.17809531",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sat, 14 Mar 2026 20:42:59 GMT"
-    },
-    {
-      "title": "Fant blodig person etter voldshendelse i Bergen",
-      "link": "https://www.nrk.no/vestland/fant-blodig-person-etter-voldshendelse-i-bergen--1.17809511",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 14 Mar 2026 20:35:01 GMT"
-    },
-    {
-      "title": "Sparkesyklist døde – lastebilsjåfør tiltalt",
-      "link": "https://www.nrk.no/stor-oslo/sparkesyklist-dode-_-lastebilsjafor-tiltalt--1.17809498",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 14 Mar 2026 20:33:32 GMT"
-    },
-    {
-      "title": "Hizbollah: Direkte kamphandlinger med Israel i Libanon",
-      "link": "https://www.nrk.no/nyheter/hizbollah_-direkte-kamphandlinger-med-israel-i-libanon-1.17809374",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 14 Mar 2026 20:28:05 GMT"
     }
   ]
 }
