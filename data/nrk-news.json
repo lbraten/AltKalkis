@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-15T15:31:32.466Z",
+  "updatedAt": "2026-03-15T16:35:58.215Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IEA sier over 400 millioner fat beredskapsolje blir tilgjengelig snart",
+      "link": "https://www.nrk.no/nyheter/iea-sier-over-400-millioner-fat-beredskapsolje-blir-tilgjengelig-snart-1.17810073",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 15:47:13 GMT"
+    },
     {
       "title": "Titalls pågrepet i Iran mistenkt for samarbeid med Israel",
       "link": "https://www.nrk.no/nyheter/titalls-pagrepet-i-iran-mistenkt-for-samarbeid-med-israel-1.17810017",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/nordfjordeid_-tre-personer-satt-fast-i-fjellet-1.17810005",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 15 Mar 2026 13:55:14 GMT"
-    },
-    {
-      "title": "Canadas statsminister: Russland er den største tryggleikstrusselen i Arktis",
-      "link": "https://www.nrk.no/nyheter/canadas-statsminister_-russland-er-den-storste-tryggleikstrusselen-i-arktis-1.17809844",
-      "category": "Canada",
-      "pubDate": "Sun, 15 Mar 2026 11:05:45 GMT"
     }
   ]
 }
