@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-15T20:33:15.723Z",
+  "updatedAt": "2026-03-15T21:30:47.064Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Buss og bil har kollidert i Oslo",
+      "link": "https://www.nrk.no/nyheter/buss-og-bil-har-kollidert-i-oslo-1.17810310",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 15 Mar 2026 21:27:24 GMT"
+    },
+    {
+      "title": "Iran advarer innbyggere i Doha og Dubai",
+      "link": "https://www.nrk.no/nyheter/iran-advarer-innbyggere-i-doha-og-dubai-1.17810311",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 21:06:49 GMT"
+    },
+    {
+      "title": "To mistenkt for terrorplaner i Frankrike",
+      "link": "https://www.nrk.no/nyheter/to-mistenkt-for-terrorplaner-i-frankrike-1.17810308",
+      "category": "Frankrike",
+      "pubDate": "Sun, 15 Mar 2026 21:03:56 GMT"
+    },
+    {
+      "title": "Renate Reinsve på rød løper",
+      "link": "https://www.nrk.no/nyheter/renate-reinsve-pa-rod-loper-1.17810307",
+      "category": "Oscar-utdelingen",
+      "pubDate": "Sun, 15 Mar 2026 21:03:01 GMT"
+    },
+    {
+      "title": "WSJ: Trump vil kunngjøre koalisjon for Hormuz-beskyttelse",
+      "link": "https://www.nrk.no/nyheter/wsj_-trump-vil-kunngjore-koalisjon-for-hormuz-beskyttelse-1.17810299",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 21:00:36 GMT"
+    },
     {
       "title": "Dansk partileder innrømmer kokain-bruk",
       "link": "https://www.nrk.no/nyheter/dansk-partileder-innrommer-kokain-bruk-1.17810281",
       "category": "Danmark",
       "pubDate": "Sun, 15 Mar 2026 20:25:30 GMT"
-    },
-    {
-      "title": "Trump og Starmer diskuterte åpning av Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/trump-og-starmer-diskuterte-apning-av-hormuzstredet-1.17810198",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 19:55:59 GMT"
-    },
-    {
-      "title": "Voldshendelse i Bergen sentrum",
-      "link": "https://www.nrk.no/vestland/voldshendelse-i-bergen-sentrum--1.17810258",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 15 Mar 2026 19:38:01 GMT"
-    },
-    {
-      "title": "Uvær på flere fjelloverganger i Sør-Norge",
-      "link": "https://www.nrk.no/vestland/uvaer-pa-flere-fjelloverganger-i-sor-norge--1.17810213",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 15 Mar 2026 19:26:06 GMT"
-    },
-    {
-      "title": "Dobling i kinesiske turister på Svalbard",
-      "link": "https://www.nrk.no/tromsogfinnmark/dobling-i-kinesiske-turister-pa-svalbard-1.17810212",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 15 Mar 2026 17:56:59 GMT"
-    },
-    {
-      "title": "Skadet person fraktet med helikopter fra tankskip utenfor Fedje",
-      "link": "https://www.nrk.no/vestland/skadet-person-fraktet-med-helikopter-fra-tankskip-utenfor-fedje--1.17810129",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 15 Mar 2026 17:56:31 GMT"
     }
   ]
 }
