@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-15T17:30:22.430Z",
+  "updatedAt": "2026-03-15T18:41:57.651Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dobling i kinesiske turister på Svalbard",
+      "link": "https://www.nrk.no/tromsogfinnmark/dobling-i-kinesiske-turister-pa-svalbard-1.17810212",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 15 Mar 2026 17:56:59 GMT"
+    },
+    {
+      "title": "Skadet person fraktet med helikopter fra tankskip utenfor Fedje",
+      "link": "https://www.nrk.no/vestland/skadet-person-fraktet-med-helikopter-fra-tankskip-utenfor-fedje--1.17810129",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 15 Mar 2026 17:56:31 GMT"
+    },
+    {
+      "title": "Irans utenriksminister: Ikke interessert i samtaler med USA",
+      "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-ikke-interessert-i-samtaler-med-usa-1.17810185",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 17:42:33 GMT"
+    },
     {
       "title": "FNs fredsbevarende styrker: Beskutt flere ganger",
       "link": "https://www.nrk.no/nyheter/fns-fredsbevarende-styrker_-beskutt-flere-ganger-1.17810111",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/titalls-pagrepet-i-iran-mistenkt-for-samarbeid-med-israel-1.17810017",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 15 Mar 2026 14:57:54 GMT"
-    },
-    {
-      "title": "Åtte drept i angrep mot politibil i Gaza",
-      "link": "https://www.nrk.no/nyheter/atte-drept-i-angrep-mot-politibil-i-gaza-1.17810042",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sun, 15 Mar 2026 14:46:58 GMT"
-    },
-    {
-      "title": "Kjørte i en ladestasjon og videre i et tre",
-      "link": "https://www.nrk.no/vestfoldogtelemark/kjorte-i-en-ladestasjon-og-videre-i-et-tre-1.17810043",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 15 Mar 2026 14:44:44 GMT"
-    },
-    {
-      "title": "Krevjande køyreforhold i høgda i Sør-Noreg det neste døgnet",
-      "link": "https://www.nrk.no/vestland/krevjande-koyreforhold-i-hogda-i-sor-noreg-det-neste-dognet-1.17809701",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 15 Mar 2026 14:00:38 GMT"
     }
   ]
 }
