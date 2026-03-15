@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-15T16:35:58.215Z",
+  "updatedAt": "2026-03-15T17:30:22.430Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FNs fredsbevarende styrker: Beskutt flere ganger",
+      "link": "https://www.nrk.no/nyheter/fns-fredsbevarende-styrker_-beskutt-flere-ganger-1.17810111",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 17:12:52 GMT"
+    },
     {
       "title": "IEA sier over 400 millioner fat beredskapsolje blir tilgjengelig snart",
       "link": "https://www.nrk.no/nyheter/iea-sier-over-400-millioner-fat-beredskapsolje-blir-tilgjengelig-snart-1.17810073",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/krevjande-koyreforhold-i-hogda-i-sor-noreg-det-neste-dognet-1.17809701",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 15 Mar 2026 14:00:38 GMT"
-    },
-    {
-      "title": "Nordfjordeid: Tre personer satt fast i fjellet",
-      "link": "https://www.nrk.no/vestland/nordfjordeid_-tre-personer-satt-fast-i-fjellet-1.17810005",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 15 Mar 2026 13:55:14 GMT"
     }
   ]
 }
