@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-15T21:30:47.064Z",
+  "updatedAt": "2026-03-15T22:31:11.529Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel skal ha angrepet sør i Beirut",
+      "link": "https://www.nrk.no/nyheter/israel-skal-ha-angrepet-sor-i-beirut-1.17810339",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 22:08:58 GMT"
+    },
+    {
+      "title": "Brann i enebolig i Tromsdalen",
+      "link": "https://www.nrk.no/nyheter/brann-i-enebolig-i-tromsdalen-1.17810338",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 15 Mar 2026 22:05:54 GMT"
+    },
+    {
+      "title": "Joachim Trier er klar for Oscar",
+      "link": "https://www.nrk.no/nyheter/joachim-trier-er-klar-for-oscar-1.17810332",
+      "category": "Oscar-utdelingen",
+      "pubDate": "Sun, 15 Mar 2026 22:00:15 GMT"
+    },
+    {
+      "title": "Thea Sofie Loch Næss på plass på Oscar-utdelingen",
+      "link": "https://www.nrk.no/nyheter/thea-sofie-loch-naess-pa-plass-pa-oscar-utdelingen-1.17810329",
+      "category": "Oscar-utdelingen",
+      "pubDate": "Sun, 15 Mar 2026 21:43:22 GMT"
+    },
     {
       "title": "Buss og bil har kollidert i Oslo",
       "link": "https://www.nrk.no/nyheter/buss-og-bil-har-kollidert-i-oslo-1.17810310",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-advarer-innbyggere-i-doha-og-dubai-1.17810311",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 15 Mar 2026 21:06:49 GMT"
-    },
-    {
-      "title": "To mistenkt for terrorplaner i Frankrike",
-      "link": "https://www.nrk.no/nyheter/to-mistenkt-for-terrorplaner-i-frankrike-1.17810308",
-      "category": "Frankrike",
-      "pubDate": "Sun, 15 Mar 2026 21:03:56 GMT"
-    },
-    {
-      "title": "Renate Reinsve på rød løper",
-      "link": "https://www.nrk.no/nyheter/renate-reinsve-pa-rod-loper-1.17810307",
-      "category": "Oscar-utdelingen",
-      "pubDate": "Sun, 15 Mar 2026 21:03:01 GMT"
-    },
-    {
-      "title": "WSJ: Trump vil kunngjøre koalisjon for Hormuz-beskyttelse",
-      "link": "https://www.nrk.no/nyheter/wsj_-trump-vil-kunngjore-koalisjon-for-hormuz-beskyttelse-1.17810299",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 21:00:36 GMT"
-    },
-    {
-      "title": "Dansk partileder innrømmer kokain-bruk",
-      "link": "https://www.nrk.no/nyheter/dansk-partileder-innrommer-kokain-bruk-1.17810281",
-      "category": "Danmark",
-      "pubDate": "Sun, 15 Mar 2026 20:25:30 GMT"
     }
   ]
 }
