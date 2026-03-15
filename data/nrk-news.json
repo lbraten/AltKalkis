@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-15T06:33:24.770Z",
+  "updatedAt": "2026-03-15T07:46:36.385Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sør-Korea vil vurdere Trump-oppmoding om krigsskip til Hormuzsundet",
+      "link": "https://www.nrk.no/nyheter/sor-korea-vil-vurdere-trump-oppmoding-om-krigsskip-til-hormuzsundet-1.17809668",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 07:29:19 GMT"
+    },
+    {
+      "title": "Noreg og Canada skal fornye handelsavtale",
+      "link": "https://www.nrk.no/nyheter/noreg-og-canada-skal-fornye-handelsavtale-1.17809637",
+      "category": "Handelsavtaler og toll",
+      "pubDate": "Sun, 15 Mar 2026 07:17:03 GMT"
+    },
+    {
+      "title": "Drammen: Person med stikkskadar floge til sjukehus - ein arrestert",
+      "link": "https://www.nrk.no/nyheter/drammen_-person-med-stikkskadar-floge-til-sjukehus---ein-arrestert-1.17809634",
+      "category": "high",
+      "pubDate": "Sun, 15 Mar 2026 06:53:56 GMT"
+    },
     {
       "title": "To barn skal være drept på Vestbredden",
       "link": "https://www.nrk.no/nyheter/to-barn-skal-vaere-drept-pa-vestbredden-1.17809630",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ytterligere-tre-iranere-snur-i-asylsaken-_-forlater-australia-1.17809627",
       "category": "Australia",
       "pubDate": "Sun, 15 Mar 2026 05:18:22 GMT"
-    },
-    {
-      "title": "Zelenskyj hevder Russland forsyner Iran med droner",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-hevder-russland-forsyner-iran-med-droner-1.17809626",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 15 Mar 2026 04:50:24 GMT"
-    },
-    {
-      "title": "Mann kritisk skadd i Rakkestad",
-      "link": "https://www.nrk.no/nyheter/mann-kritisk-skadd-i-rakkestad-1.17809625",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 15 Mar 2026 04:06:42 GMT"
-    },
-    {
-      "title": "Kunstskole gir bort Epstein-penger",
-      "link": "https://www.nrk.no/nyheter/kunstskole-gir-bort-epstein-penger-1.17809624",
-      "category": "Jeffrey Epstein-saken",
-      "pubDate": "Sun, 15 Mar 2026 03:30:09 GMT"
     }
   ]
 }
