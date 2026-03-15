@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-15T22:31:11.529Z",
+  "updatedAt": "2026-03-15T23:31:47.858Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Israel skal ha angrepet sør i Beirut",
-      "link": "https://www.nrk.no/nyheter/israel-skal-ha-angrepet-sor-i-beirut-1.17810339",
+      "title": "Amy Madigan vant for beste kvinnelige birolle",
+      "link": "https://www.nrk.no/nyheter/amy-madigan-vant-for-beste-kvinnelige-birolle-1.17810374",
+      "category": "Oscar-utdelingen",
+      "pubDate": "Sun, 15 Mar 2026 23:21:38 GMT"
+    },
+    {
+      "title": "Leteaksjon i Midt-Telemark",
+      "link": "https://www.nrk.no/nyheter/leteaksjon-i-midt-telemark-1.17810368",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 15 Mar 2026 23:17:21 GMT"
+    },
+    {
+      "title": "Macron advarer Iran",
+      "link": "https://www.nrk.no/nyheter/macron-advarer-iran-1.17810367",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 22:08:58 GMT"
+      "pubDate": "Sun, 15 Mar 2026 23:05:53 GMT"
     },
     {
-      "title": "Brann i enebolig i Tromsdalen",
-      "link": "https://www.nrk.no/nyheter/brann-i-enebolig-i-tromsdalen-1.17810338",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 15 Mar 2026 22:05:54 GMT"
-    },
-    {
-      "title": "Joachim Trier er klar for Oscar",
-      "link": "https://www.nrk.no/nyheter/joachim-trier-er-klar-for-oscar-1.17810332",
-      "category": "Oscar-utdelingen",
-      "pubDate": "Sun, 15 Mar 2026 22:00:15 GMT"
-    },
-    {
-      "title": "Thea Sofie Loch Næss på plass på Oscar-utdelingen",
-      "link": "https://www.nrk.no/nyheter/thea-sofie-loch-naess-pa-plass-pa-oscar-utdelingen-1.17810329",
-      "category": "Oscar-utdelingen",
-      "pubDate": "Sun, 15 Mar 2026 21:43:22 GMT"
-    },
-    {
-      "title": "Buss og bil har kollidert i Oslo",
-      "link": "https://www.nrk.no/nyheter/buss-og-bil-har-kollidert-i-oslo-1.17810310",
+      "title": "Bilbrann i Oslo – kan være fare for spredning",
+      "link": "https://www.nrk.no/nyheter/bilbrann-i-oslo-_-kan-vaere-fare-for-spredning-1.17810366",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 15 Mar 2026 21:27:24 GMT"
+      "pubDate": "Sun, 15 Mar 2026 23:02:32 GMT"
     },
     {
-      "title": "Iran advarer innbyggere i Doha og Dubai",
-      "link": "https://www.nrk.no/nyheter/iran-advarer-innbyggere-i-doha-og-dubai-1.17810311",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 21:06:49 GMT"
+      "title": "Meldt om steinras på Osterøy",
+      "link": "https://www.nrk.no/nyheter/meldt-om-steinras-pa-osteroy-1.17810365",
+      "category": "Trafikk og vêr i Vestland",
+      "pubDate": "Sun, 15 Mar 2026 23:01:07 GMT"
+    },
+    {
+      "title": "Oljeprisene stiger",
+      "link": "https://www.nrk.no/nyheter/oljeprisene-stiger-1.17810364",
+      "category": "Oljeprisen",
+      "pubDate": "Sun, 15 Mar 2026 22:59:00 GMT"
     }
   ]
 }
