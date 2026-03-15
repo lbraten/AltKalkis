@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-15T19:29:44.625Z",
+  "updatedAt": "2026-03-15T19:52:16.305Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Uvær på flere fjelloverganger i Sør-Norge",
+      "link": "https://www.nrk.no/vestland/uvaer-pa-flere-fjelloverganger-i-sor-norge--1.17810213",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 15 Mar 2026 19:26:06 GMT"
+    },
     {
       "title": "Dobling i kinesiske turister på Svalbard",
       "link": "https://www.nrk.no/tromsogfinnmark/dobling-i-kinesiske-turister-pa-svalbard-1.17810212",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iea-sier-over-400-millioner-fat-beredskapsolje-blir-tilgjengelig-snart-1.17810073",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 15 Mar 2026 15:47:13 GMT"
-    },
-    {
-      "title": "Titalls pågrepet i Iran mistenkt for samarbeid med Israel",
-      "link": "https://www.nrk.no/nyheter/titalls-pagrepet-i-iran-mistenkt-for-samarbeid-med-israel-1.17810017",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 14:57:54 GMT"
     }
   ]
 }
