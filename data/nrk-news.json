@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-15T07:46:36.385Z",
+  "updatedAt": "2026-03-15T08:40:16.123Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina tilbyr dronehjelp til Midtausten",
+      "link": "https://www.nrk.no/nyheter/ukraina-tilbyr-dronehjelp-til-midtausten-1.17809732",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 15 Mar 2026 08:40:02 GMT"
+    },
+    {
+      "title": "Støre: Tettare samarbeid i Norden og med Canada tryggar Noreg",
+      "link": "https://www.nrk.no/nyheter/store_-tettare-samarbeid-i-norden-og-med-canada-tryggar-noreg-1.17809680",
+      "category": "Canada",
+      "pubDate": "Sun, 15 Mar 2026 08:22:41 GMT"
+    },
     {
       "title": "Sør-Korea vil vurdere Trump-oppmoding om krigsskip til Hormuzsundet",
       "link": "https://www.nrk.no/nyheter/sor-korea-vil-vurdere-trump-oppmoding-om-krigsskip-til-hormuzsundet-1.17809668",
@@ -15,8 +27,8 @@
       "pubDate": "Sun, 15 Mar 2026 07:17:03 GMT"
     },
     {
-      "title": "Drammen: Person med stikkskadar floge til sjukehus - ein arrestert",
-      "link": "https://www.nrk.no/nyheter/drammen_-person-med-stikkskadar-floge-til-sjukehus---ein-arrestert-1.17809634",
+      "title": "Drammen: Person med stikkskadar flogen til sjukehus - éin arrestert",
+      "link": "https://www.nrk.no/nyheter/drammen_-person-med-stikkskadar-flogen-til-sjukehus---ein-arrestert-1.17809634",
       "category": "high",
       "pubDate": "Sun, 15 Mar 2026 06:53:56 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-barn-skal-vaere-drept-pa-vestbredden-1.17809630",
       "category": "Vestbredden",
       "pubDate": "Sun, 15 Mar 2026 05:47:57 GMT"
-    },
-    {
-      "title": "Revolusjonsgarden sier de skal ta livet av Netanyahu",
-      "link": "https://www.nrk.no/nyheter/revolusjonsgarden-sier-de-skal-ta-livet-av-netanyahu-1.17809629",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 05:33:53 GMT"
-    },
-    {
-      "title": "Ytterligere tre iranere snur i asylsaken – forlater Australia",
-      "link": "https://www.nrk.no/nyheter/ytterligere-tre-iranere-snur-i-asylsaken-_-forlater-australia-1.17809627",
-      "category": "Australia",
-      "pubDate": "Sun, 15 Mar 2026 05:18:22 GMT"
     }
   ]
 }
