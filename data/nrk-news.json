@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-15T13:52:44.841Z",
+  "updatedAt": "2026-03-15T14:32:57.729Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Krevjande køyreforhold i høgda i Sør-Noreg det neste døgnet",
+      "link": "https://www.nrk.no/vestland/krevjande-koyreforhold-i-hogda-i-sor-noreg-det-neste-dognet-1.17809701",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 15 Mar 2026 14:00:38 GMT"
+    },
+    {
+      "title": "Nordfjordeid: Tre personer sitter fast i fjellet",
+      "link": "https://www.nrk.no/vestland/nordfjordeid_-tre-personer-sitter-fast-i-fjellet-1.17810005",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 15 Mar 2026 13:55:14 GMT"
+    },
     {
       "title": "Canadas statsminister: Russland er den største tryggleikstrusselen i Arktis",
       "link": "https://www.nrk.no/nyheter/canadas-statsminister_-russland-er-den-storste-tryggleikstrusselen-i-arktis-1.17809844",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj-med-stikk-til-ungarns-orban-1.17809736",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 15 Mar 2026 10:20:08 GMT"
-    },
-    {
-      "title": "Iran avviser å ha angripe sivile mål i Midtausten",
-      "link": "https://www.nrk.no/nyheter/iran-avviser-a-ha-angripe-sivile-mal-i-midtausten-1.17809721",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 09:26:05 GMT"
-    },
-    {
-      "title": "Ukraina tilbyr dronehjelp til Midtausten mot pengar og teknologi",
-      "link": "https://www.nrk.no/nyheter/ukraina-tilbyr-dronehjelp-til-midtausten-mot-pengar-og-teknologi-1.17809732",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 08:40:02 GMT"
     }
   ]
 }
