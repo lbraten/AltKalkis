@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-15T10:33:31.422Z",
+  "updatedAt": "2026-03-15T11:28:37.416Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Canadas statsminister: Russland er den største tryggleikstrusselen i Arktis",
+      "link": "https://www.nrk.no/nyheter/canadas-statsminister_-russland-er-den-storste-tryggleikstrusselen-i-arktis-1.17809844",
+      "category": "Canada",
+      "pubDate": "Sun, 15 Mar 2026 11:05:45 GMT"
+    },
+    {
+      "title": "Støre: Ingen planar om atomvåpen i Noreg",
+      "link": "https://www.nrk.no/nyheter/store_-ingen-planar-om-atomvapen-i-noreg-1.17809841",
+      "category": "Atomvåpen",
+      "pubDate": "Sun, 15 Mar 2026 11:00:31 GMT"
+    },
+    {
+      "title": "Støre: Krigen i Midtausten kan få store følger for verdsøkonomien",
+      "link": "https://www.nrk.no/nyheter/store_-krigen-i-midtausten-kan-fa-store-folger-for-verdsokonomien-1.17809814",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 10:48:50 GMT"
+    },
     {
       "title": "Zelenskyj med stikk til Ungarns Orbán",
       "link": "https://www.nrk.no/nyheter/zelenskyj-med-stikk-til-ungarns-orban-1.17809736",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina-tilbyr-dronehjelp-til-midtausten-mot-pengar-og-teknologi-1.17809732",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 15 Mar 2026 08:40:02 GMT"
-    },
-    {
-      "title": "Slått med hammer – kontroll på gjerningsperson",
-      "link": "https://www.nrk.no/vestfoldogtelemark/slatt-med-hammer-_-kontroll-pa-gjerningsperson-1.17809659",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 15 Mar 2026 08:39:07 GMT"
-    },
-    {
-      "title": "Støre: Tettare samarbeid i Norden og med Canada tryggar Noreg",
-      "link": "https://www.nrk.no/nyheter/store_-tettare-samarbeid-i-norden-og-med-canada-tryggar-noreg-1.17809680",
-      "category": "Canada",
-      "pubDate": "Sun, 15 Mar 2026 08:22:41 GMT"
-    },
-    {
-      "title": "Sør-Korea vil vurdere Trump-oppmoding om krigsskip til Hormuzsundet",
-      "link": "https://www.nrk.no/nyheter/sor-korea-vil-vurdere-trump-oppmoding-om-krigsskip-til-hormuzsundet-1.17809668",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 07:29:19 GMT"
     }
   ]
 }
