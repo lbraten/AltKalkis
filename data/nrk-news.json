@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-15T14:32:57.729Z",
+  "updatedAt": "2026-03-15T15:31:32.466Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Titalls pågrepet i Iran mistenkt for samarbeid med Israel",
+      "link": "https://www.nrk.no/nyheter/titalls-pagrepet-i-iran-mistenkt-for-samarbeid-med-israel-1.17810017",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 14:57:54 GMT"
+    },
+    {
+      "title": "Åtte drept i angrep mot politibil i Gaza",
+      "link": "https://www.nrk.no/nyheter/atte-drept-i-angrep-mot-politibil-i-gaza-1.17810042",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sun, 15 Mar 2026 14:46:58 GMT"
+    },
+    {
+      "title": "Kjørte i en ladestasjon og videre i et tre",
+      "link": "https://www.nrk.no/vestfoldogtelemark/kjorte-i-en-ladestasjon-og-videre-i-et-tre-1.17810043",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 15 Mar 2026 14:44:44 GMT"
+    },
     {
       "title": "Krevjande køyreforhold i høgda i Sør-Noreg det neste døgnet",
       "link": "https://www.nrk.no/vestland/krevjande-koyreforhold-i-hogda-i-sor-noreg-det-neste-dognet-1.17809701",
@@ -9,8 +27,8 @@
       "pubDate": "Sun, 15 Mar 2026 14:00:38 GMT"
     },
     {
-      "title": "Nordfjordeid: Tre personer sitter fast i fjellet",
-      "link": "https://www.nrk.no/vestland/nordfjordeid_-tre-personer-sitter-fast-i-fjellet-1.17810005",
+      "title": "Nordfjordeid: Tre personer satt fast i fjellet",
+      "link": "https://www.nrk.no/vestland/nordfjordeid_-tre-personer-satt-fast-i-fjellet-1.17810005",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 15 Mar 2026 13:55:14 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/canadas-statsminister_-russland-er-den-storste-tryggleikstrusselen-i-arktis-1.17809844",
       "category": "Canada",
       "pubDate": "Sun, 15 Mar 2026 11:05:45 GMT"
-    },
-    {
-      "title": "Støre: Ingen planar om atomvåpen i Noreg",
-      "link": "https://www.nrk.no/nyheter/store_-ingen-planar-om-atomvapen-i-noreg-1.17809841",
-      "category": "Atomvåpen",
-      "pubDate": "Sun, 15 Mar 2026 11:00:31 GMT"
-    },
-    {
-      "title": "Støre: Krigen i Midtausten kan få store følger for verdsøkonomien",
-      "link": "https://www.nrk.no/nyheter/store_-krigen-i-midtausten-kan-fa-store-folger-for-verdsokonomien-1.17809814",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 10:48:50 GMT"
-    },
-    {
-      "title": "Zelenskyj med stikk til Ungarns Orbán",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-med-stikk-til-ungarns-orban-1.17809736",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 15 Mar 2026 10:20:08 GMT"
     }
   ]
 }
