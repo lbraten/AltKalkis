@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-15T09:37:36.111Z",
+  "updatedAt": "2026-03-15T10:33:31.422Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyj med stikk til Ungarns Orbán",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-med-stikk-til-ungarns-orban-1.17809736",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 15 Mar 2026 10:20:08 GMT"
+    },
     {
       "title": "Iran avviser å ha angripe sivile mål i Midtausten",
       "link": "https://www.nrk.no/nyheter/iran-avviser-a-ha-angripe-sivile-mal-i-midtausten-1.17809721",
@@ -9,14 +15,14 @@
       "pubDate": "Sun, 15 Mar 2026 09:26:05 GMT"
     },
     {
-      "title": "Ukraina tilbyr dronehjelp til Midtausten mot ressursar og teknologi",
-      "link": "https://www.nrk.no/nyheter/ukraina-tilbyr-dronehjelp-til-midtausten-mot-ressursar-og-teknologi-1.17809732",
-      "category": "Krigen i Ukraina",
+      "title": "Ukraina tilbyr dronehjelp til Midtausten mot pengar og teknologi",
+      "link": "https://www.nrk.no/nyheter/ukraina-tilbyr-dronehjelp-til-midtausten-mot-pengar-og-teknologi-1.17809732",
+      "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 15 Mar 2026 08:40:02 GMT"
     },
     {
-      "title": "Slått med hammer – leter etter gjerningsperson",
-      "link": "https://www.nrk.no/vestfoldogtelemark/slatt-med-hammer-_-leter-etter-gjerningsperson-1.17809659",
+      "title": "Slått med hammer – kontroll på gjerningsperson",
+      "link": "https://www.nrk.no/vestfoldogtelemark/slatt-med-hammer-_-kontroll-pa-gjerningsperson-1.17809659",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 15 Mar 2026 08:39:07 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sor-korea-vil-vurdere-trump-oppmoding-om-krigsskip-til-hormuzsundet-1.17809668",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 15 Mar 2026 07:29:19 GMT"
-    },
-    {
-      "title": "Noreg og Canada skal fornye handelsavtale",
-      "link": "https://www.nrk.no/nyheter/noreg-og-canada-skal-fornye-handelsavtale-1.17809637",
-      "category": "Handelsavtaler og toll",
-      "pubDate": "Sun, 15 Mar 2026 07:17:03 GMT"
     }
   ]
 }
