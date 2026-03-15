@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-15T19:52:16.305Z",
+  "updatedAt": "2026-03-15T20:33:15.723Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dansk partileder innrømmer kokain-bruk",
+      "link": "https://www.nrk.no/nyheter/dansk-partileder-innrommer-kokain-bruk-1.17810281",
+      "category": "Danmark",
+      "pubDate": "Sun, 15 Mar 2026 20:25:30 GMT"
+    },
+    {
+      "title": "Trump og Starmer diskuterte åpning av Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/trump-og-starmer-diskuterte-apning-av-hormuzstredet-1.17810198",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 19:55:59 GMT"
+    },
+    {
+      "title": "Voldshendelse i Bergen sentrum",
+      "link": "https://www.nrk.no/vestland/voldshendelse-i-bergen-sentrum--1.17810258",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 15 Mar 2026 19:38:01 GMT"
+    },
     {
       "title": "Uvær på flere fjelloverganger i Sør-Norge",
       "link": "https://www.nrk.no/vestland/uvaer-pa-flere-fjelloverganger-i-sor-norge--1.17810213",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/skadet-person-fraktet-med-helikopter-fra-tankskip-utenfor-fedje--1.17810129",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 15 Mar 2026 17:56:31 GMT"
-    },
-    {
-      "title": "Irans utenriksminister: Ikke interessert i samtaler med USA",
-      "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-ikke-interessert-i-samtaler-med-usa-1.17810185",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 17:42:33 GMT"
-    },
-    {
-      "title": "FNs fredsbevarende styrker: Beskutt flere ganger",
-      "link": "https://www.nrk.no/nyheter/fns-fredsbevarende-styrker_-beskutt-flere-ganger-1.17810111",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 17:12:52 GMT"
-    },
-    {
-      "title": "IEA sier over 400 millioner fat beredskapsolje blir tilgjengelig snart",
-      "link": "https://www.nrk.no/nyheter/iea-sier-over-400-millioner-fat-beredskapsolje-blir-tilgjengelig-snart-1.17810073",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 15:47:13 GMT"
     }
   ]
 }
