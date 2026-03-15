@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-15T05:07:50.796Z",
+  "updatedAt": "2026-03-15T06:33:24.770Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To barn skal være drept på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/to-barn-skal-vaere-drept-pa-vestbredden-1.17809630",
+      "category": "Vestbredden",
+      "pubDate": "Sun, 15 Mar 2026 05:47:57 GMT"
+    },
+    {
+      "title": "Revolusjonsgarden sier de skal ta livet av Netanyahu",
+      "link": "https://www.nrk.no/nyheter/revolusjonsgarden-sier-de-skal-ta-livet-av-netanyahu-1.17809629",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 15 Mar 2026 05:33:53 GMT"
+    },
+    {
+      "title": "Ytterligere tre iranere snur i asylsaken – forlater Australia",
+      "link": "https://www.nrk.no/nyheter/ytterligere-tre-iranere-snur-i-asylsaken-_-forlater-australia-1.17809627",
+      "category": "Australia",
+      "pubDate": "Sun, 15 Mar 2026 05:18:22 GMT"
+    },
     {
       "title": "Zelenskyj hevder Russland forsyner Iran med droner",
       "link": "https://www.nrk.no/nyheter/zelenskyj-hevder-russland-forsyner-iran-med-droner-1.17809626",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kunstskole-gir-bort-epstein-penger-1.17809624",
       "category": "Jeffrey Epstein-saken",
       "pubDate": "Sun, 15 Mar 2026 03:30:09 GMT"
-    },
-    {
-      "title": "En til sykehus etter vold i Ålesund",
-      "link": "https://www.nrk.no/nyheter/en-til-sykehus-etter-vold-i-alesund-1.17809623",
-      "category": "Politisaker i Møre og Romsdal",
-      "pubDate": "Sun, 15 Mar 2026 02:27:21 GMT"
-    },
-    {
-      "title": "USA ber amerikanere om å forlate Oman",
-      "link": "https://www.nrk.no/nyheter/usa-ber-amerikanere-om-a-forlate-oman-1.17809618",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Mar 2026 02:17:10 GMT"
-    },
-    {
-      "title": "To til sykehus etter vold i Lillestrøm",
-      "link": "https://www.nrk.no/nyheter/to-til-sykehus-etter-vold-i-lillestrom-1.17809611",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 15 Mar 2026 01:42:05 GMT"
     }
   ]
 }
