@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-16T08:09:14.134Z",
+  "updatedAt": "2026-03-16T09:40:23.807Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Arbeidsulykke i Larvik - livreddende førstehjelp pågår",
+      "link": "https://www.nrk.no/vestfoldogtelemark/arbeidsulykke-i-larvik---livreddende-forstehjelp-pagar-1.17810807",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 16 Mar 2026 09:23:23 GMT"
+    },
+    {
+      "title": "Lagmannsretten skal behandle Bhatti-anke",
+      "link": "https://www.nrk.no/nyheter/lagmannsretten-skal-behandle-bhatti-anke-1.17810661",
+      "category": "Arfan Bhatti",
+      "pubDate": "Mon, 16 Mar 2026 08:58:45 GMT"
+    },
+    {
+      "title": "Sperret inne og mishandla mann – ble likevel frifunnet",
+      "link": "https://www.nrk.no/trondelag/sperret-inne-og-mishandla-mann-_-ble-likevel-frifunnet-1.17810701",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 16 Mar 2026 08:27:48 GMT"
+    },
     {
       "title": "Brann i oljeområde etter droneangrep",
       "link": "https://www.nrk.no/nyheter/brann-i-oljeomrade-etter-droneangrep-1.17810639",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-vurderer-tiltak-for-a-halde-hormuzsundet-ope-1.17810600",
       "category": "Den europeiske union (EU)",
       "pubDate": "Mon, 16 Mar 2026 07:19:47 GMT"
-    },
-    {
-      "title": "Støre inviterer Oscar-vinnarane heim til seg på feiring",
-      "link": "https://www.nrk.no/nyheter/store-inviterer-oscar-vinnarane-heim-til-seg-pa-feiring-1.17810579",
-      "category": "Oscar-utdelingen",
-      "pubDate": "Mon, 16 Mar 2026 06:39:12 GMT"
-    },
-    {
-      "title": "Israel seier dei har gått inn i område sør i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-seier-dei-har-gatt-inn-i-omrade-sor-i-libanon-1.17810553",
-      "category": "Libanon og Israel",
-      "pubDate": "Mon, 16 Mar 2026 06:20:17 GMT"
-    },
-    {
-      "title": "Full stans i togtrafikken på Oslo S",
-      "link": "https://www.nrk.no/stor-oslo/full-stans-i-togtrafikken-pa-oslo-s-1.17810551",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 16 Mar 2026 06:02:03 GMT"
     }
   ]
 }
