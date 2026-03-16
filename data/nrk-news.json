@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-03-16T10:55:22.633Z",
+  "updatedAt": "2026-03-16T11:50:47.866Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Vil kaste ut kriminelle før de har gjort noe galt",
-      "link": "https://www.nrk.no/nyheter/vil-kaste-ut-kriminelle-for-de-har-gjort-noe-galt-1.17811083",
+      "title": "Nasjonalarkivet har hentet dokumenter i kjellerboden til Rød-Larsen",
+      "link": "https://www.nrk.no/nyheter/nasjonalarkivet-har-hentet-dokumenter-i-kjellerboden-til-rod-larsen-1.17811263",
+      "category": "high",
+      "pubDate": "Mon, 16 Mar 2026 11:50:33 GMT"
+    },
+    {
+      "title": "Kenya: Russland vil slutte å rekruttere kenyanarar til krigen i Ukraina",
+      "link": "https://www.nrk.no/nyheter/kenya_-russland-vil-slutte-a-rekruttere-kenyanarar-til-krigen-i-ukraina-1.17811178",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 16 Mar 2026 11:48:02 GMT"
+    },
+    {
+      "title": "Støre lover Fellesforbundet plass i Ap-toppen",
+      "link": "https://www.nrk.no/nyheter/store-lover-fellesforbundet-plass-i-ap-toppen-1.17811136",
+      "category": "high",
+      "pubDate": "Mon, 16 Mar 2026 11:18:42 GMT"
+    },
+    {
+      "title": "EU gir 458 millionar euro i naudhjelp til Midtausten",
+      "link": "https://www.nrk.no/nyheter/eu-gir-458-millionar-euro-i-naudhjelp-til-midtausten-1.17811105",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Mon, 16 Mar 2026 11:11:57 GMT"
+    },
+    {
+      "title": "Vil kaste ut utlendinger før de har gjort noe galt",
+      "link": "https://www.nrk.no/nyheter/vil-kaste-ut-utlendinger-for-de-har-gjort-noe-galt-1.17811083",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 16 Mar 2026 10:48:41 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/regjeringen-varsler-nye-ventetidsmal-pa-norske-sykehus-1.17811107",
       "category": "Norsk politikk",
       "pubDate": "Mon, 16 Mar 2026 10:43:10 GMT"
-    },
-    {
-      "title": "Støre om VM-skjenking: Ekte svar",
-      "link": "https://www.nrk.no/nyheter/store-om-vm-skjenking_-ekte-svar--1.17811073",
-      "category": "Arbeiderpartiet",
-      "pubDate": "Mon, 16 Mar 2026 10:36:48 GMT"
-    },
-    {
-      "title": "Qatar: Evakuerte delar hovudstaten i helga",
-      "link": "https://www.nrk.no/nyheter/qatar_-evakuerte-delar-hovudstaten-i-helga-1.17810862",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 16 Mar 2026 10:36:10 GMT"
-    },
-    {
-      "title": "Forsvar: Støre vil ha bredt forlik",
-      "link": "https://www.nrk.no/nyheter/forsvar_-store-vil-ha-bredt-forlik-1.17811074",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 16 Mar 2026 10:26:06 GMT"
-    },
-    {
-      "title": "Støre om Iran: Stopp kamphandlingene!",
-      "link": "https://www.nrk.no/nyheter/store-om-iran_-stopp-kamphandlingene_-1.17811004",
-      "category": "Iran",
-      "pubDate": "Mon, 16 Mar 2026 10:22:11 GMT"
     }
   ]
 }
