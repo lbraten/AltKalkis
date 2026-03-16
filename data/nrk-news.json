@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-16T22:57:40.414Z",
+  "updatedAt": "2026-03-16T23:38:06.683Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Afghanistan: Over 400 drept i angrep mot Kabul",
+      "link": "https://www.nrk.no/nyheter/afghanistan_-over-400-drept-i-angrep-mot-kabul-1.17812034",
+      "category": "Pakistan og Afghanistan",
+      "pubDate": "Mon, 16 Mar 2026 23:28:57 GMT"
+    },
+    {
+      "title": "Melding om droneangrep mot De forente arabiske emirater",
+      "link": "https://www.nrk.no/nyheter/melding-om-droneangrep-mot-de-forente-arabiske-emirater-1.17812019",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 16 Mar 2026 23:18:41 GMT"
+    },
     {
       "title": "Kvinne skal ha blitt kastet av på E6",
       "link": "https://www.nrk.no/stor-oslo/kvinne-skal-ha-blitt-kastet-av-pa-e6-1.17812005",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-sier-han-tror-han-vil-fa-_aeren-av-a-ta_-cuba-1.17811986",
       "category": "USA",
       "pubDate": "Mon, 16 Mar 2026 21:05:23 GMT"
-    },
-    {
-      "title": "Redningsaksjon nord for Haugesund: Seilbåt holder på å grunnstøte",
-      "link": "https://www.nrk.no/rogaland/redningsaksjon-nord-for-haugesund_-seilbat-holder-pa-a-grunnstote-1.17811994",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 16 Mar 2026 20:39:55 GMT"
-    },
-    {
-      "title": "Bred oppgang på Wall Street",
-      "link": "https://www.nrk.no/nyheter/bred-oppgang-pa-wall-street-1.17811985",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 16 Mar 2026 20:31:12 GMT"
     }
   ]
 }
