@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-16T13:18:40.235Z",
+  "updatedAt": "2026-03-16T14:44:59.720Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge ber om utvidet tidsfrist for omstridt EU-direktiv",
+      "link": "https://www.nrk.no/nyheter/norge-ber-om-utvidet-tidsfrist-for-omstridt-eu-direktiv-1.17811394",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Mon, 16 Mar 2026 14:36:15 GMT"
+    },
     {
       "title": "Tiltalt for seksuell omgang med fostersønn",
       "link": "https://www.nrk.no/sorlandet/tiltalt-for-seksuell-omgang-med-fostersonn-1.17811299",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-gir-458-millionar-euro-i-naudhjelp-til-midtausten-1.17811105",
       "category": "Den europeiske union (EU)",
       "pubDate": "Mon, 16 Mar 2026 11:11:57 GMT"
-    },
-    {
-      "title": "Vil kaste ut utlendinger før de har gjort noe galt",
-      "link": "https://www.nrk.no/nyheter/vil-kaste-ut-utlendinger-for-de-har-gjort-noe-galt-1.17811083",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 16 Mar 2026 10:48:41 GMT"
     }
   ]
 }
