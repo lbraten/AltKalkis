@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-03-16T06:52:39.767Z",
+  "updatedAt": "2026-03-16T08:09:14.134Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Brann i oljeområde etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/brann-i-oljeomrade-etter-droneangrep-1.17810639",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 16 Mar 2026 07:45:32 GMT"
+    },
+    {
+      "title": "Togene ved Oslo S går igjen",
+      "link": "https://www.nrk.no/buskerud/togene-ved-oslo-s-gar-igjen-1.17810623",
+      "category": "Trafikk i Buskerud",
+      "pubDate": "Mon, 16 Mar 2026 07:26:59 GMT"
+    },
+    {
+      "title": "EU vurderer tiltak for å halde Hormuzsundet ope",
+      "link": "https://www.nrk.no/nyheter/eu-vurderer-tiltak-for-a-halde-hormuzsundet-ope-1.17810600",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Mon, 16 Mar 2026 07:19:47 GMT"
+    },
+    {
       "title": "Støre inviterer Oscar-vinnarane heim til seg på feiring",
       "link": "https://www.nrk.no/nyheter/store-inviterer-oscar-vinnarane-heim-til-seg-pa-feiring-1.17810579",
-      "category": "NRK Nyheter",
+      "category": "Oscar-utdelingen",
       "pubDate": "Mon, 16 Mar 2026 06:39:12 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/full-stans-i-togtrafikken-pa-oslo-s-1.17810551",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Mon, 16 Mar 2026 06:02:03 GMT"
-    },
-    {
-      "title": "Støre gratulerer etter Oscar-sigeren: – Dette er historisk",
-      "link": "https://www.nrk.no/nyheter/store-gratulerer-etter-oscar-sigeren_-_-dette-er-historisk-1.17810542",
-      "category": "Oscar-utdelingen",
-      "pubDate": "Mon, 16 Mar 2026 05:59:05 GMT"
-    },
-    {
-      "title": "Trump sier at Cuba kan bli neste etter Iran",
-      "link": "https://www.nrk.no/nyheter/trump-sier-at-cuba-kan-bli-neste-etter-iran-1.17810511",
-      "category": "USA",
-      "pubDate": "Mon, 16 Mar 2026 05:09:22 GMT"
-    },
-    {
-      "title": "Rettssak om ulovlig bjørnejakt",
-      "link": "https://www.nrk.no/sorlandet/rettssak-om-ulovlig-bjornejakt-1.17810517",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 16 Mar 2026 04:41:20 GMT"
     }
   ]
 }
