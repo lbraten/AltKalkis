@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-16T17:35:41.467Z",
+  "updatedAt": "2026-03-16T19:05:31.648Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Hele Cuba er uten strøm",
+      "link": "https://www.nrk.no/nyheter/hele-cuba-er-uten-strom-1.17811884",
+      "category": "Cuba",
+      "pubDate": "Mon, 16 Mar 2026 18:11:15 GMT"
+    },
+    {
+      "title": "Bart Eide om situasjonen i Libanon: Jeg er svært bekymret",
+      "link": "https://www.nrk.no/nyheter/bart-eide-om-situasjonen-i-libanon_-jeg-er-svaert-bekymret-1.17811868",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 16 Mar 2026 17:45:24 GMT"
+    },
     {
       "title": "Afghanske myndigheter anklager Pakistan for å ha angrepet Kabul",
       "link": "https://www.nrk.no/nyheter/afghanske-myndigheter-anklager-pakistan-for-a-ha-angrepet-kabul-1.17811857",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/revolusjonsgarden-truer-med-a-angripe-amerikanske-bedrifter-i-midtosten-1.17811810",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 16 Mar 2026 16:50:24 GMT"
-    },
-    {
-      "title": "All flytrafikk til og fra Berlin innstilt onsdag på grunn av streik",
-      "link": "https://www.nrk.no/nyheter/all-flytrafikk-til-og-fra-berlin-innstilt-onsdag-pa-grunn-av-streik-1.17811766",
-      "category": "Tyskland",
-      "pubDate": "Mon, 16 Mar 2026 16:42:29 GMT"
-    },
-    {
-      "title": "Trumps stabsjef er blitt diagnostisert med brystkreft",
-      "link": "https://www.nrk.no/nyheter/trumps-stabsjef-er-blitt-diagnostisert-med-brystkreft-1.17811650",
-      "category": "USA",
-      "pubDate": "Mon, 16 Mar 2026 16:02:02 GMT"
     }
   ]
 }
