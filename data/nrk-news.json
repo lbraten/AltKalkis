@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-16T14:44:59.720Z",
+  "updatedAt": "2026-03-16T16:07:25.719Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trumps stabsjef er blitt diagnostisert med brystkreft",
+      "link": "https://www.nrk.no/nyheter/trumps-stabsjef-er-blitt-diagnostisert-med-brystkreft-1.17811650",
+      "category": "USA",
+      "pubDate": "Mon, 16 Mar 2026 16:02:02 GMT"
+    },
+    {
+      "title": "Spedbarn falt ut fra tredje etasje i bygning",
+      "link": "https://www.nrk.no/sorlandet/spedbarn-falt-ut-fra-tredje-etasje-i-bygning-1.17811762",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 16 Mar 2026 15:58:45 GMT"
+    },
     {
       "title": "Norge ber om utvidet tidsfrist for omstridt EU-direktiv",
       "link": "https://www.nrk.no/nyheter/norge-ber-om-utvidet-tidsfrist-for-omstridt-eu-direktiv-1.17811394",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kenya_-russland-vil-slutte-a-rekruttere-kenyanarar-til-krigen-i-ukraina-1.17811178",
       "category": "Krigen i Ukraina",
       "pubDate": "Mon, 16 Mar 2026 11:48:02 GMT"
-    },
-    {
-      "title": "Støre lover Fellesforbundet plass i Ap-toppen",
-      "link": "https://www.nrk.no/nyheter/store-lover-fellesforbundet-plass-i-ap-toppen-1.17811136",
-      "category": "high",
-      "pubDate": "Mon, 16 Mar 2026 11:18:42 GMT"
-    },
-    {
-      "title": "EU gir 458 millionar euro i naudhjelp til Midtausten",
-      "link": "https://www.nrk.no/nyheter/eu-gir-458-millionar-euro-i-naudhjelp-til-midtausten-1.17811105",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Mon, 16 Mar 2026 11:11:57 GMT"
     }
   ]
 }
