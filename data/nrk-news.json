@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-16T05:18:07.843Z",
+  "updatedAt": "2026-03-16T06:52:39.767Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Støre inviterer Oscar-vinnarane heim til seg på feiring",
+      "link": "https://www.nrk.no/nyheter/store-inviterer-oscar-vinnarane-heim-til-seg-pa-feiring-1.17810579",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 16 Mar 2026 06:39:12 GMT"
+    },
+    {
+      "title": "Israel seier dei har gått inn i område sør i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-seier-dei-har-gatt-inn-i-omrade-sor-i-libanon-1.17810553",
+      "category": "Libanon og Israel",
+      "pubDate": "Mon, 16 Mar 2026 06:20:17 GMT"
+    },
+    {
+      "title": "Full stans i togtrafikken på Oslo S",
+      "link": "https://www.nrk.no/stor-oslo/full-stans-i-togtrafikken-pa-oslo-s-1.17810551",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 16 Mar 2026 06:02:03 GMT"
+    },
+    {
+      "title": "Støre gratulerer etter Oscar-sigeren: – Dette er historisk",
+      "link": "https://www.nrk.no/nyheter/store-gratulerer-etter-oscar-sigeren_-_-dette-er-historisk-1.17810542",
+      "category": "Oscar-utdelingen",
+      "pubDate": "Mon, 16 Mar 2026 05:59:05 GMT"
+    },
     {
       "title": "Trump sier at Cuba kan bli neste etter Iran",
       "link": "https://www.nrk.no/nyheter/trump-sier-at-cuba-kan-bli-neste-etter-iran-1.17810511",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/rettssak-om-ulovlig-bjornejakt-1.17810517",
       "category": "Nyheter fra Agder",
       "pubDate": "Mon, 16 Mar 2026 04:41:20 GMT"
-    },
-    {
-      "title": "Trump sier at USA er i kontakt med Iran",
-      "link": "https://www.nrk.no/nyheter/trump-sier-at-usa-er-i-kontakt-med-iran-1.17810510",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 16 Mar 2026 04:27:53 GMT"
-    },
-    {
-      "title": "Australia og Japan vil ikke sende marinefartøy til Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/australia-og-japan-vil-ikke-sende-marinefartoy-til-hormuzstredet-1.17810479",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 16 Mar 2026 04:26:42 GMT"
-    },
-    {
-      "title": "Minst ti pasienter døde i sykehusbrann i India",
-      "link": "https://www.nrk.no/nyheter/minst-ti-pasienter-dode-i-sykehusbrann-i-india-1.17810460",
-      "category": "India",
-      "pubDate": "Mon, 16 Mar 2026 03:46:54 GMT"
-    },
-    {
-      "title": "Kulturministeren: Den største anerkjennelsen en internasjonal film kan få",
-      "link": "https://www.nrk.no/nyheter/kulturministeren_-den-storste-anerkjennelsen-en-internasjonal-film-kan-fa-1.17810452",
-      "category": "Oscar-utdelingen",
-      "pubDate": "Mon, 16 Mar 2026 03:00:18 GMT"
     }
   ]
 }
