@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-16T16:07:25.719Z",
+  "updatedAt": "2026-03-16T17:35:41.467Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Afghanske myndigheter anklager Pakistan for å ha angrepet Kabul",
+      "link": "https://www.nrk.no/nyheter/afghanske-myndigheter-anklager-pakistan-for-a-ha-angrepet-kabul-1.17811857",
+      "category": "Pakistan og Afghanistan",
+      "pubDate": "Mon, 16 Mar 2026 17:31:09 GMT"
+    },
+    {
+      "title": "Trump øker presset på allierte om beskyttelse av skipstrafikken i Hormuz",
+      "link": "https://www.nrk.no/nyheter/trump-oker-presset-pa-allierte-om-beskyttelse-av-skipstrafikken-i-hormuz-1.17811850",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 16 Mar 2026 17:16:37 GMT"
+    },
+    {
+      "title": "Libanon: Over 1 million drevet på flukt på to uker",
+      "link": "https://www.nrk.no/nyheter/libanon_-over-1-million-drevet-pa-flukt-pa-to-uker-1.17811828",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 16 Mar 2026 17:14:22 GMT"
+    },
+    {
+      "title": "Revolusjonsgarden truer med å angripe amerikanske bedrifter i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/revolusjonsgarden-truer-med-a-angripe-amerikanske-bedrifter-i-midtosten-1.17811810",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 16 Mar 2026 16:50:24 GMT"
+    },
+    {
+      "title": "All flytrafikk til og fra Berlin innstilt onsdag på grunn av streik",
+      "link": "https://www.nrk.no/nyheter/all-flytrafikk-til-og-fra-berlin-innstilt-onsdag-pa-grunn-av-streik-1.17811766",
+      "category": "Tyskland",
+      "pubDate": "Mon, 16 Mar 2026 16:42:29 GMT"
+    },
     {
       "title": "Trumps stabsjef er blitt diagnostisert med brystkreft",
       "link": "https://www.nrk.no/nyheter/trumps-stabsjef-er-blitt-diagnostisert-med-brystkreft-1.17811650",
       "category": "USA",
       "pubDate": "Mon, 16 Mar 2026 16:02:02 GMT"
-    },
-    {
-      "title": "Spedbarn falt ut fra tredje etasje i bygning",
-      "link": "https://www.nrk.no/sorlandet/spedbarn-falt-ut-fra-tredje-etasje-i-bygning-1.17811762",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 16 Mar 2026 15:58:45 GMT"
-    },
-    {
-      "title": "Norge ber om utvidet tidsfrist for omstridt EU-direktiv",
-      "link": "https://www.nrk.no/nyheter/norge-ber-om-utvidet-tidsfrist-for-omstridt-eu-direktiv-1.17811394",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Mon, 16 Mar 2026 14:36:15 GMT"
-    },
-    {
-      "title": "Tiltalt for seksuell omgang med fostersønn",
-      "link": "https://www.nrk.no/sorlandet/tiltalt-for-seksuell-omgang-med-fostersonn-1.17811299",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 16 Mar 2026 12:23:41 GMT"
-    },
-    {
-      "title": "Nasjonalarkivet og UD har hentet dokumenter i kjellerboden til Rød-Larsen",
-      "link": "https://www.nrk.no/nyheter/nasjonalarkivet-og-ud-har-hentet-dokumenter-i-kjellerboden-til-rod-larsen-1.17811263",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Mon, 16 Mar 2026 11:50:33 GMT"
-    },
-    {
-      "title": "Kenya: Russland vil slutte å rekruttere kenyanarar til krigen i Ukraina",
-      "link": "https://www.nrk.no/nyheter/kenya_-russland-vil-slutte-a-rekruttere-kenyanarar-til-krigen-i-ukraina-1.17811178",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 16 Mar 2026 11:48:02 GMT"
     }
   ]
 }
