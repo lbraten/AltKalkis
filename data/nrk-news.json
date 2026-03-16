@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-16T19:05:31.648Z",
+  "updatedAt": "2026-03-16T20:00:46.280Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Militærfly sendte ut nødmelding: Har landet trygt",
+      "link": "https://www.nrk.no/nyheter/militaerfly-sendte-ut-nodmelding_-har-landet-trygt-1.17811958",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 16 Mar 2026 19:47:12 GMT"
+    },
+    {
+      "title": "Brann i olje- og gassfelt i Abu Dhabi forårsaket av droneangrep, ifølge myndighetene",
+      "link": "https://www.nrk.no/nyheter/brann-i-olje--og-gassfelt-i-abu-dhabi-forarsaket-av-droneangrep_-ifolge-myndighetene-1.17811899",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 16 Mar 2026 19:21:54 GMT"
+    },
     {
       "title": "Hele Cuba er uten strøm",
       "link": "https://www.nrk.no/nyheter/hele-cuba-er-uten-strom-1.17811884",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-oker-presset-pa-allierte-om-beskyttelse-av-skipstrafikken-i-hormuz-1.17811850",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 16 Mar 2026 17:16:37 GMT"
-    },
-    {
-      "title": "Libanon: Over 1 million drevet på flukt på to uker",
-      "link": "https://www.nrk.no/nyheter/libanon_-over-1-million-drevet-pa-flukt-pa-to-uker-1.17811828",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 16 Mar 2026 17:14:22 GMT"
-    },
-    {
-      "title": "Revolusjonsgarden truer med å angripe amerikanske bedrifter i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/revolusjonsgarden-truer-med-a-angripe-amerikanske-bedrifter-i-midtosten-1.17811810",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 16 Mar 2026 16:50:24 GMT"
     }
   ]
 }
