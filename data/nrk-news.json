@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-03-16T11:50:47.866Z",
+  "updatedAt": "2026-03-16T13:18:40.235Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Nasjonalarkivet har hentet dokumenter i kjellerboden til Rød-Larsen",
-      "link": "https://www.nrk.no/nyheter/nasjonalarkivet-har-hentet-dokumenter-i-kjellerboden-til-rod-larsen-1.17811263",
-      "category": "high",
+      "title": "Tiltalt for seksuell omgang med fostersønn",
+      "link": "https://www.nrk.no/sorlandet/tiltalt-for-seksuell-omgang-med-fostersonn-1.17811299",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 16 Mar 2026 12:23:41 GMT"
+    },
+    {
+      "title": "Nasjonalarkivet og UD har hentet dokumenter i kjellerboden til Rød-Larsen",
+      "link": "https://www.nrk.no/nyheter/nasjonalarkivet-og-ud-har-hentet-dokumenter-i-kjellerboden-til-rod-larsen-1.17811263",
+      "category": "Epsteins norske forbindelser",
       "pubDate": "Mon, 16 Mar 2026 11:50:33 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vil-kaste-ut-utlendinger-for-de-har-gjort-noe-galt-1.17811083",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 16 Mar 2026 10:48:41 GMT"
-    },
-    {
-      "title": "Regjeringen varsler nye ventetidsmål på norske sykehus",
-      "link": "https://www.nrk.no/nyheter/regjeringen-varsler-nye-ventetidsmal-pa-norske-sykehus-1.17811107",
-      "category": "Norsk politikk",
-      "pubDate": "Mon, 16 Mar 2026 10:43:10 GMT"
     }
   ]
 }
