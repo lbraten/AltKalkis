@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-17T19:17:06.638Z",
+  "updatedAt": "2026-03-17T20:03:25.951Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel stanser Unicef‑sendinger fra Egypt",
+      "link": "https://www.nrk.no/nyheter/israel-stanser-unicef_sendinger-fra-egypt-1.17813716",
+      "category": "Krigen i Gaza",
+      "pubDate": "Tue, 17 Mar 2026 19:20:52 GMT"
+    },
     {
       "title": "Lyngbrann på Storfosna",
       "link": "https://www.nrk.no/trondelag/lyngbrann-pa-storfosna-1.17813651",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/mr/startar-a-evakuere-sorsida-av-sukkertoppen-i-alesund-1.17813672",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Tue, 17 Mar 2026 18:11:05 GMT"
-    },
-    {
-      "title": "Skroter ny postlov – posten skal fortsatt leveres annenhver dag",
-      "link": "https://www.nrk.no/nyheter/skroter-ny-postlov-_-posten-skal-fortsatt-leveres-annenhver-dag-1.17813605",
-      "category": "Posttjenester",
-      "pubDate": "Tue, 17 Mar 2026 17:59:53 GMT"
     }
   ]
 }
