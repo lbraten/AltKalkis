@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-17T20:03:25.951Z",
+  "updatedAt": "2026-03-17T21:05:37.950Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brannvesenet har begynt å spyle hus i Ålesund",
+      "link": "https://www.nrk.no/mr/brannvesenet-har-begynt-a-spyle-hus-i-alesund-1.17813838",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Tue, 17 Mar 2026 20:44:25 GMT"
+    },
+    {
+      "title": "Evakuerer enda flere i Ålesund",
+      "link": "https://www.nrk.no/mr/evakuerer-enda-flere-i-alesund-1.17813836",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Tue, 17 Mar 2026 20:21:53 GMT"
+    },
     {
       "title": "Israel stanser Unicef‑sendinger fra Egypt",
       "link": "https://www.nrk.no/nyheter/israel-stanser-unicef_sendinger-fra-egypt-1.17813716",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/mr/alesund_-278-personar-evakuerte-som-folge-av-brann-1.17812525",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Tue, 17 Mar 2026 18:50:19 GMT"
-    },
-    {
-      "title": "SAS-direktøren: Minst 1000 avganger innstilles i april",
-      "link": "https://www.nrk.no/nyheter/sas-direktoren_-minst-1000-avganger-innstilles-i-april-1.17813663",
-      "category": "Flyselskapet SAS",
-      "pubDate": "Tue, 17 Mar 2026 18:35:20 GMT"
-    },
-    {
-      "title": "Startar å evakuere sørsida av Sukkertoppen i Ålesund",
-      "link": "https://www.nrk.no/mr/startar-a-evakuere-sorsida-av-sukkertoppen-i-alesund-1.17813672",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 17 Mar 2026 18:11:05 GMT"
     }
   ]
 }
