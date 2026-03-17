@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-17T09:28:53.095Z",
+  "updatedAt": "2026-03-17T10:28:32.698Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN: Israelske luftangrep i Libanon kan bryte folkeretten",
+      "link": "https://www.nrk.no/nyheter/fn_-israelske-luftangrep-i-libanon-kan-bryte-folkeretten-1.17812671",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 17 Mar 2026 10:15:51 GMT"
+    },
+    {
+      "title": "Fant trolig dynamitt i Drammen – område avsperret",
+      "link": "https://www.nrk.no/buskerud/fant-trolig-dynamitt-i-drammen-_-omrade-avsperret--1.17812586",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 17 Mar 2026 09:57:08 GMT"
+    },
+    {
+      "title": "Støre åtvarar mot å mistenkeleggjere UD etter Epstein-saka",
+      "link": "https://www.nrk.no/nyheter/store-atvarar-mot-a-mistenkeleggjere-ud-etter-epstein-saka-1.17812486",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Tue, 17 Mar 2026 09:53:36 GMT"
+    },
+    {
+      "title": "Høyesterett skal behandle anke fra Færder kommune",
+      "link": "https://www.nrk.no/vestfoldogtelemark/hoyesterett-skal-behandle-anke-fra-faerder-kommune-1.17812154",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 17 Mar 2026 09:52:50 GMT"
+    },
     {
       "title": "Nettavisen får ny leiarduo",
       "link": "https://www.nrk.no/nyheter/nettavisen-far-ny-leiarduo-1.17812447",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestland/tidlegare-psykiater-nekta-for-a-ha-misbrukt-stillinga-si-til-a-skaffa-seg-sex-med-ung-kvinne-1.17812401",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Tue, 17 Mar 2026 09:11:21 GMT"
-    },
-    {
-      "title": "Israel hevdar å ha tatt livet av tre iranske toppleiarar",
-      "link": "https://www.nrk.no/nyheter/israel-hevdar-a-ha-tatt-livet-av-tre-iranske-toppleiarar-1.17812411",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 17 Mar 2026 09:06:34 GMT"
-    },
-    {
-      "title": "17-åring erkjenner straffskyld for medvirkning til drap",
-      "link": "https://www.nrk.no/rogaland/17-aring-erkjenner-straffskyld-for-medvirkning-til-drap-1.17812399",
-      "category": "Drapsforbund i Stavanger",
-      "pubDate": "Tue, 17 Mar 2026 09:02:08 GMT"
-    },
-    {
-      "title": "Noreg og Storbritannia går saman om nye båtar til Forsvaret",
-      "link": "https://www.nrk.no/nyheter/noreg-og-storbritannia-gar-saman-om-nye-batar-til-forsvaret-1.17812304",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 17 Mar 2026 08:57:10 GMT"
-    },
-    {
-      "title": "Rapport: Skular manglar tiltak mot vald og truslar",
-      "link": "https://www.nrk.no/nyheter/rapport_-skular-manglar-tiltak-mot-vald-og-truslar-1.17812199",
-      "category": "Skole",
-      "pubDate": "Tue, 17 Mar 2026 08:41:35 GMT"
     }
   ]
 }
