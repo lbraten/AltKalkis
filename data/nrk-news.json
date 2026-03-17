@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-17T22:02:25.044Z",
+  "updatedAt": "2026-03-17T23:01:08.511Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skottland sier nei til aktiv dødshjelp",
+      "link": "https://www.nrk.no/nyheter/skottland-sier-nei-til-aktiv-dodshjelp-1.17813936",
+      "category": "Aktiv dødshjelp",
+      "pubDate": "Tue, 17 Mar 2026 22:55:05 GMT"
+    },
+    {
+      "title": "Vurderer om dei må evakuere fleire",
+      "link": "https://www.nrk.no/mr/vurderer-om-dei-ma-evakuere-fleire-1.17813912",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Tue, 17 Mar 2026 22:44:15 GMT"
+    },
+    {
+      "title": "Mann pågrepet etter biljakt i Østfold",
+      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-biljakt-i-ostfold-1.17813918",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Tue, 17 Mar 2026 22:38:53 GMT"
+    },
     {
       "title": "Fem døde i brann ved oljeraffineri i Mexico",
       "link": "https://www.nrk.no/nyheter/fem-dode-i-brann-ved-oljeraffineri-i-mexico-1.17813917",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-bekrefter-at-landets-overste-sikkerhetssjef-er-drept-1.17813867",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 17 Mar 2026 21:06:16 GMT"
-    },
-    {
-      "title": "Brannvesenet har begynt å spyle hus i Ålesund",
-      "link": "https://www.nrk.no/mr/brannvesenet-har-begynt-a-spyle-hus-i-alesund-1.17813838",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 17 Mar 2026 20:44:25 GMT"
-    },
-    {
-      "title": "Evakuerer enda flere i Ålesund",
-      "link": "https://www.nrk.no/mr/evakuerer-enda-flere-i-alesund-1.17813836",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 17 Mar 2026 20:21:53 GMT"
-    },
-    {
-      "title": "Israel stanser Unicef‑sendinger fra Egypt",
-      "link": "https://www.nrk.no/nyheter/israel-stanser-unicef_sendinger-fra-egypt-1.17813716",
-      "category": "Krigen i Gaza",
-      "pubDate": "Tue, 17 Mar 2026 19:20:52 GMT"
     }
   ]
 }
