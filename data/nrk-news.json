@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-17T21:05:37.950Z",
+  "updatedAt": "2026-03-17T22:02:25.044Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fem døde i brann ved oljeraffineri i Mexico",
+      "link": "https://www.nrk.no/nyheter/fem-dode-i-brann-ved-oljeraffineri-i-mexico-1.17813917",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 17 Mar 2026 22:01:01 GMT"
+    },
+    {
+      "title": "Israel ber innbyggerne i byen Tyr om å evakuere",
+      "link": "https://www.nrk.no/nyheter/israel-ber-innbyggerne-i-byen-tyr-om-a-evakuere-1.17813868",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 17 Mar 2026 21:28:38 GMT"
+    },
+    {
+      "title": "Iran bekrefter at landets øverste sikkerhetssjef er drept",
+      "link": "https://www.nrk.no/nyheter/iran-bekrefter-at-landets-overste-sikkerhetssjef-er-drept-1.17813867",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 17 Mar 2026 21:06:16 GMT"
+    },
     {
       "title": "Brannvesenet har begynt å spyle hus i Ålesund",
       "link": "https://www.nrk.no/mr/brannvesenet-har-begynt-a-spyle-hus-i-alesund-1.17813838",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-stanser-unicef_sendinger-fra-egypt-1.17813716",
       "category": "Krigen i Gaza",
       "pubDate": "Tue, 17 Mar 2026 19:20:52 GMT"
-    },
-    {
-      "title": "Lyngbrann på Storfosna",
-      "link": "https://www.nrk.no/trondelag/lyngbrann-pa-storfosna-1.17813651",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Tue, 17 Mar 2026 19:09:03 GMT"
-    },
-    {
-      "title": "Ålesund: Avsluttar sløkkearbeid med helikopter",
-      "link": "https://www.nrk.no/mr/alesund_-avsluttar-slokkearbeid-med-helikopter-1.17813738",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 17 Mar 2026 18:59:39 GMT"
-    },
-    {
-      "title": "Ålesund: 278 personar evakuerte som følge av brann",
-      "link": "https://www.nrk.no/mr/alesund_-278-personar-evakuerte-som-folge-av-brann-1.17812525",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 17 Mar 2026 18:50:19 GMT"
     }
   ]
 }
