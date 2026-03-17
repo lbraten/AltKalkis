@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-17T13:57:18.618Z",
+  "updatedAt": "2026-03-17T15:06:21.763Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IT problemer hos politiet: Utfordringer med å utstede pass og ID-kort",
+      "link": "https://www.nrk.no/nyheter/it-problemer-hos-politiet_-utfordringer-med-a-utstede-pass-og-id-kort-1.17813337",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 17 Mar 2026 14:58:39 GMT"
+    },
+    {
+      "title": "Stortinget vedtok Epstein-kommisjon",
+      "link": "https://www.nrk.no/nyheter/stortinget-vedtok-epstein-kommisjon-1.17813385",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Tue, 17 Mar 2026 14:23:21 GMT"
+    },
+    {
+      "title": "Kronprinsessen uteblir fra statsbesøk – er blitt dårligere",
+      "link": "https://www.nrk.no/nyheter/kronprinsessen-uteblir-fra-statsbesok-_-er-blitt-darligere-1.17813366",
+      "category": "Kongefamilien",
+      "pubDate": "Tue, 17 Mar 2026 14:09:59 GMT"
+    },
     {
       "title": "USAs nasjonale kontraterrorsjef sier opp på grunn av Iran-krigen",
       "link": "https://www.nrk.no/nyheter/usas-nasjonale-kontraterrorsjef-sier-opp-pa-grunn-av-iran-krigen-1.17813293",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/innlandet/veronica-lystrup-domt-til-fengsel-i-16-ar-1.17813224",
       "category": "Drapet i Løten",
       "pubDate": "Tue, 17 Mar 2026 13:19:54 GMT"
-    },
-    {
-      "title": "Lufthansa forlenger flystans til Tel Aviv",
-      "link": "https://www.nrk.no/nyheter/lufthansa-forlenger-flystans-til-tel-aviv-1.17813135",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 17 Mar 2026 13:16:00 GMT"
-    },
-    {
-      "title": "– Barnet selv har åpnet vinduet og falt ut",
-      "link": "https://www.nrk.no/sorlandet/_-barnet-selv-har-apnet-vinduet-og-falt-ut-1.17813119",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Tue, 17 Mar 2026 12:52:40 GMT"
-    },
-    {
-      "title": "Afghanistan: FN har bedt om ei uavhengig gransking etter angrep på rusklinikk",
-      "link": "https://www.nrk.no/nyheter/afghanistan_-fn-har-bedt-om-ei-uavhengig-gransking-etter-angrep-pa-rusklinikk-1.17812977",
-      "category": "Pakistan og Afghanistan",
-      "pubDate": "Tue, 17 Mar 2026 12:23:10 GMT"
     }
   ]
 }
