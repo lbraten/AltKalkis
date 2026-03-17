@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-17T11:25:58.405Z",
+  "updatedAt": "2026-03-17T12:03:30.734Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Boligbrann i Færder – naboer evakuert",
+      "link": "https://www.nrk.no/vestfoldogtelemark/boligbrann-i-faerder-_-naboer-evakuert-1.17812870",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 17 Mar 2026 11:34:54 GMT"
+    },
+    {
+      "title": "Traktorulykke i Volda – person er vaken",
+      "link": "https://www.nrk.no/mr/traktorulykke-i-volda-_-person-er-vaken-1.17812901",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Tue, 17 Mar 2026 11:34:35 GMT"
+    },
+    {
+      "title": "Tatt med 1,3 kilo kokain",
+      "link": "https://www.nrk.no/sorlandet/tatt-med-1_3-kilo-kokain-1.17812887",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Tue, 17 Mar 2026 11:31:56 GMT"
+    },
+    {
+      "title": "Ni av ti stod på statsborgarprøva i fjor",
+      "link": "https://www.nrk.no/nyheter/ni-av-ti-stod-pa-statsborgarprova-i-fjor-1.17812868",
+      "category": "Innvandring til Norge",
+      "pubDate": "Tue, 17 Mar 2026 11:28:29 GMT"
+    },
     {
       "title": "FN: 45 millionar fleire kan bli ramma av akutt svolt",
       "link": "https://www.nrk.no/nyheter/fn_-45-millionar-fleire-kan-bli-ramma-av-akutt-svolt-1.17812819",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/100.000-pa-flukt-fra-kampar-i-sor-sudan-1.17812583",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 17 Mar 2026 10:47:03 GMT"
-    },
-    {
-      "title": "FN uroa for om israelske luftangrep i Libanon bryt folkeretten",
-      "link": "https://www.nrk.no/nyheter/fn-uroa-for-om-israelske-luftangrep-i-libanon-bryt-folkeretten-1.17812671",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 17 Mar 2026 10:15:51 GMT"
-    },
-    {
-      "title": "Fant trolig dynamitt i Drammen – område avsperret",
-      "link": "https://www.nrk.no/buskerud/fant-trolig-dynamitt-i-drammen-_-omrade-avsperret--1.17812586",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 17 Mar 2026 09:57:08 GMT"
-    },
-    {
-      "title": "Støre åtvarar mot å mistenkeleggjere UD etter Epstein-saka",
-      "link": "https://www.nrk.no/nyheter/store-atvarar-mot-a-mistenkeleggjere-ud-etter-epstein-saka-1.17812486",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Tue, 17 Mar 2026 09:53:36 GMT"
-    },
-    {
-      "title": "Høyesterett skal behandle anke fra Færder kommune",
-      "link": "https://www.nrk.no/vestfoldogtelemark/hoyesterett-skal-behandle-anke-fra-faerder-kommune-1.17812154",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 17 Mar 2026 09:52:50 GMT"
     }
   ]
 }
