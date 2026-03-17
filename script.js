@@ -820,9 +820,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const quote = q?.text || q?.quote || q?.content;
         const author = q?.author || "Ukjent";
+        const cleanQuote = typeof quote === "string"
+            ? quote.trim().replace(/^[\"“”]+|[\"“”]+$/g, "")
+            : "";
 
-        if (quote && author) {
-        el.innerText = `"${quote}" - ${author}`;
+        if (cleanQuote && author) {
+        el.innerText = `"${cleanQuote}" - ${author}`;
         } else {
         el.innerText = "Ingen sitat tilgjengelig.";
         }
