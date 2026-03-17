@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-16T23:38:06.683Z",
+  "updatedAt": "2026-03-17T02:24:24.463Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sikkerhetskilder: Minst to Iran-tilknyttede personer drept i angrep i Bagdad",
+      "link": "https://www.nrk.no/nyheter/sikkerhetskilder_-minst-to-iran-tilknyttede-personer-drept-i-angrep-i-bagdad-1.17812037",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 17 Mar 2026 01:58:29 GMT"
+    },
+    {
+      "title": "Nytt droneangrep mot USAs ambassade i Bagdad",
+      "link": "https://www.nrk.no/nyheter/nytt-droneangrep-mot-usas-ambassade-i-bagdad-1.17812035",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 17 Mar 2026 00:41:13 GMT"
+    },
     {
       "title": "Afghanistan: Over 400 drept i angrep mot Kabul",
       "link": "https://www.nrk.no/nyheter/afghanistan_-over-400-drept-i-angrep-mot-kabul-1.17812034",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/afghanistan_-minst-200-drept-i-angrep-mot-kabul-1.17812014",
       "category": "Pakistan og Afghanistan",
       "pubDate": "Mon, 16 Mar 2026 21:45:45 GMT"
-    },
-    {
-      "title": "SiO øker leien etter kutt i strømstøtte",
-      "link": "https://www.nrk.no/stor-oslo/sio-oker-leien-etter-kutt-i-stromstotte-1.17811974",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 16 Mar 2026 21:20:27 GMT"
-    },
-    {
-      "title": "Trump sier han tror han vil få «æren av å ta» Cuba",
-      "link": "https://www.nrk.no/nyheter/trump-sier-han-tror-han-vil-fa-_aeren-av-a-ta_-cuba-1.17811986",
-      "category": "USA",
-      "pubDate": "Mon, 16 Mar 2026 21:05:23 GMT"
     }
   ]
 }
