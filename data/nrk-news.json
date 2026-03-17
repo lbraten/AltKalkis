@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-17T07:08:29.758Z",
+  "updatedAt": "2026-03-17T08:07:21.323Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Rettssaka mot Marius Borg Høiby blir tysdag utsett grunna sjukdom",
-      "link": "https://www.nrk.no/nyheter/rettssaka-mot-marius-borg-hoiby-blir-tysdag-utsett-grunna-sjukdom-1.17812184",
-      "category": "high",
+      "title": "Åpner Valdresflye til påske",
+      "link": "https://www.nrk.no/innlandet/apner-valdresflye-til-paske-1.17812238",
+      "category": "Trafikk i Innlandet",
+      "pubDate": "Tue, 17 Mar 2026 07:47:10 GMT"
+    },
+    {
+      "title": "Regjeringa vil kunne flytte elevar ut av klassen utan samtykke",
+      "link": "https://www.nrk.no/nyheter/regjeringa-vil-kunne-flytte-elevar-ut-av-klassen-utan-samtykke-1.17812234",
+      "category": "Støre-regjeringen",
+      "pubDate": "Tue, 17 Mar 2026 07:43:49 GMT"
+    },
+    {
+      "title": "Irak i samtalar med Iran om oljetransport gjennom Hormuzsundet",
+      "link": "https://www.nrk.no/nyheter/irak-i-samtalar-med-iran-om-oljetransport-gjennom-hormuzsundet-1.17812208",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 17 Mar 2026 07:37:37 GMT"
+    },
+    {
+      "title": "Rettssaka mot Marius Borg Høiby blir utsett tysdag grunna sjukdom",
+      "link": "https://www.nrk.no/nyheter/rettssaka-mot-marius-borg-hoiby-blir-utsett-tysdag-grunna-sjukdom-1.17812184",
+      "category": "Straffesaken mot Marius Borg Høiby",
       "pubDate": "Tue, 17 Mar 2026 07:06:52 GMT"
+    },
+    {
+      "title": "Airbnb-rekord i nord – omsatte for 1,4 milliarder",
+      "link": "https://www.nrk.no/nordland/airbnb-rekord-i-nord-_-omsatte-for-1_4-milliarder-1.17812130",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 17 Mar 2026 07:05:22 GMT"
     },
     {
       "title": "SSB tvilar på nye rentekutt i år",
       "link": "https://www.nrk.no/nyheter/ssb-tvilar-pa-nye-rentekutt-i-ar-1.17812198",
       "category": "Renter og sparing",
       "pubDate": "Tue, 17 Mar 2026 07:02:20 GMT"
-    },
-    {
-      "title": "Ukraina: Russisk angrep skadde straum og hamner",
-      "link": "https://www.nrk.no/nyheter/ukraina_-russisk-angrep-skadde-straum-og-hamner-1.17812183",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 17 Mar 2026 06:56:09 GMT"
-    },
-    {
-      "title": "Romania leitar etter dronedelar nær Ukraina-grensa",
-      "link": "https://www.nrk.no/nyheter/romania-leitar-etter-dronedelar-naer-ukraina-grensa-1.17812168",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 17 Mar 2026 06:47:02 GMT"
-    },
-    {
-      "title": "Iran seier dei har arrestert ti «utanlandske spionar»",
-      "link": "https://www.nrk.no/nyheter/iran-seier-dei-har-arrestert-ti-_utanlandske-spionar_-1.17812124",
-      "category": "Iran",
-      "pubDate": "Tue, 17 Mar 2026 06:42:16 GMT"
-    },
-    {
-      "title": "Minst 23 drepne i sjølvmordsangrep i Nigeria",
-      "link": "https://www.nrk.no/nyheter/minst-23-drepne-i-sjolvmordsangrep-i-nigeria-1.17812119",
-      "category": "Nigeria",
-      "pubDate": "Tue, 17 Mar 2026 05:58:30 GMT"
     }
   ]
 }
