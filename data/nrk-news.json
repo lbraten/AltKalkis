@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-17T16:39:23.357Z",
+  "updatedAt": "2026-03-17T18:00:10.782Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rubio sier Cuba trenger «nye folk i ledelsen» – Trump varsler at USA snart vil gjøre «noe»",
+      "link": "https://www.nrk.no/nyheter/rubio-sier-cuba-trenger-_nye-folk-i-ledelsen_-_-trump-varsler-at-usa-snart-vil-gjore-_noe_-1.17813529",
+      "category": "USA",
+      "pubDate": "Tue, 17 Mar 2026 16:41:25 GMT"
+    },
     {
       "title": "Trump om Nato: Som en enveiskjørt gate",
       "link": "https://www.nrk.no/nyheter/trump-om-nato_-som-en-enveiskjort-gate-1.17813503",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/stortinget-vedtok-epstein-kommisjon-1.17813385",
       "category": "Epsteins norske forbindelser",
       "pubDate": "Tue, 17 Mar 2026 14:23:21 GMT"
-    },
-    {
-      "title": "Kronprinsessen uteblir fra statsbesøk – er blitt dårligere",
-      "link": "https://www.nrk.no/nyheter/kronprinsessen-uteblir-fra-statsbesok-_-er-blitt-darligere-1.17813366",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 17 Mar 2026 14:09:59 GMT"
     }
   ]
 }
