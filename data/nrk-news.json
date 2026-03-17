@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-03-17T10:28:32.698Z",
+  "updatedAt": "2026-03-17T11:25:58.405Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "FN: Israelske luftangrep i Libanon kan bryte folkeretten",
-      "link": "https://www.nrk.no/nyheter/fn_-israelske-luftangrep-i-libanon-kan-bryte-folkeretten-1.17812671",
+      "title": "FN: 45 millionar fleire kan bli ramma av akutt svolt",
+      "link": "https://www.nrk.no/nyheter/fn_-45-millionar-fleire-kan-bli-ramma-av-akutt-svolt-1.17812819",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 17 Mar 2026 11:18:37 GMT"
+    },
+    {
+      "title": "100.000 på flukt frå kampar i Sør-Sudan",
+      "link": "https://www.nrk.no/nyheter/100.000-pa-flukt-fra-kampar-i-sor-sudan-1.17812583",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 17 Mar 2026 10:47:03 GMT"
+    },
+    {
+      "title": "FN uroa for om israelske luftangrep i Libanon bryt folkeretten",
+      "link": "https://www.nrk.no/nyheter/fn-uroa-for-om-israelske-luftangrep-i-libanon-bryt-folkeretten-1.17812671",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 17 Mar 2026 10:15:51 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/hoyesterett-skal-behandle-anke-fra-faerder-kommune-1.17812154",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Tue, 17 Mar 2026 09:52:50 GMT"
-    },
-    {
-      "title": "Nettavisen får ny leiarduo",
-      "link": "https://www.nrk.no/nyheter/nettavisen-far-ny-leiarduo-1.17812447",
-      "category": "Medier",
-      "pubDate": "Tue, 17 Mar 2026 09:16:17 GMT"
-    },
-    {
-      "title": "Tidlegare psykiater nekta for å ha misbrukt stillinga si til å skaffa seg sex med ung kvinne",
-      "link": "https://www.nrk.no/vestland/tidlegare-psykiater-nekta-for-a-ha-misbrukt-stillinga-si-til-a-skaffa-seg-sex-med-ung-kvinne-1.17812401",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 17 Mar 2026 09:11:21 GMT"
     }
   ]
 }
