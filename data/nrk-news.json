@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-03-18T15:16:47.166Z",
+  "updatedAt": "2026-03-18T16:37:17.146Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "VG: Gradert sak behandlet i ekstraordinært møte på slottet",
-      "link": "https://www.nrk.no/nyheter/vg_-gradert-sak-behandlet-i-ekstraordinaert-mote-pa-slottet-1.17815191",
+      "title": "USAs etterretningssjef: Iran gjenoppbygde ikke atomanrikingen etter angrepet i fjor",
+      "link": "https://www.nrk.no/nyheter/usas-etterretningssjef_-iran-gjenoppbygde-ikke-atomanrikingen-etter-angrepet-i-fjor-1.17815243",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 15:31:21 GMT"
+    },
+    {
+      "title": "Gradert sak behandlet i ekstraordinært møte på slottet",
+      "link": "https://www.nrk.no/nyheter/gradert-sak-behandlet-i-ekstraordinaert-mote-pa-slottet-1.17815191",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 18 Mar 2026 15:10:30 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/mr/brann-i-hustadvika-_-fare-for-bustader-1.17815114",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Wed, 18 Mar 2026 14:14:21 GMT"
-    },
-    {
-      "title": "Politiet ber om tips etter brann i Ålesund",
-      "link": "https://www.nrk.no/mr/politiet-ber-om-tips-etter-brann-i-alesund-1.17815089",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 18 Mar 2026 14:03:59 GMT"
     }
   ]
 }
