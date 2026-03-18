@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-18T18:00:57.421Z",
+  "updatedAt": "2026-03-18T19:29:23.173Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Qatar: «Omfattende skader» på enormt gassanlegg etter iransk angrep",
+      "link": "https://www.nrk.no/nyheter/qatar_-_omfattende-skader_-pa-enormt-gassanlegg-etter-iransk-angrep-1.17815415",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 18:41:12 GMT"
+    },
+    {
+      "title": "Ålesund: Håper evakuerte kan flytte hjem i kveld",
+      "link": "https://www.nrk.no/mr/alesund_-haper-evakuerte-kan-flytte-hjem-i-kveld-1.17815383",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Wed, 18 Mar 2026 18:14:05 GMT"
+    },
+    {
+      "title": "Ingvild Wetrhus Thorsvik er valgt til ny nestleder i venstre",
+      "link": "https://www.nrk.no/nyheter/ingvild-wetrhus-thorsvik-er-valgt-til-ny-nestleder-i-venstre--1.17815344",
+      "category": "Venstre",
+      "pubDate": "Wed, 18 Mar 2026 18:03:55 GMT"
+    },
+    {
+      "title": "USAs sentralbank holder renta uendret",
+      "link": "https://www.nrk.no/nyheter/usas-sentralbank-holder-renta-uendret-1.17815264",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 18 Mar 2026 18:00:54 GMT"
+    },
     {
       "title": "Melby: Vil ikke støtte Listhaug som statsminister",
       "link": "https://www.nrk.no/nyheter/melby_-vil-ikke-stotte-listhaug-som-statsminister-1.17815395",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/mr/alesund_-brannvesenet-skal-ha-god-oversikt-1.17815281",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Wed, 18 Mar 2026 17:26:05 GMT"
-    },
-    {
-      "title": "Klatret opp i tre etter pantetyveri",
-      "link": "https://www.nrk.no/innlandet/klatret-opp-i-tre-etter-pantetyveri-1.17815346",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Wed, 18 Mar 2026 16:44:22 GMT"
-    },
-    {
-      "title": "Flere eksplosjoner hørt i Riyadh",
-      "link": "https://www.nrk.no/nyheter/flere-eksplosjoner-hort-i-riyadh-1.17815338",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 16:37:54 GMT"
-    },
-    {
-      "title": "USAs etterretningssjef: Iran gjenoppbygde ikke atomanrikingen etter angrepet i fjor",
-      "link": "https://www.nrk.no/nyheter/usas-etterretningssjef_-iran-gjenoppbygde-ikke-atomanrikingen-etter-angrepet-i-fjor-1.17815243",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 15:31:21 GMT"
-    },
-    {
-      "title": "Gradert sak behandlet i ekstraordinært møte på slottet",
-      "link": "https://www.nrk.no/nyheter/gradert-sak-behandlet-i-ekstraordinaert-mote-pa-slottet-1.17815191",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 18 Mar 2026 15:10:30 GMT"
     }
   ]
 }
