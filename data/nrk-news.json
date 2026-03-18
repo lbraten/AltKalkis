@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-18T04:58:26.469Z",
+  "updatedAt": "2026-03-18T06:07:54.628Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Stor snøskredfare flere steder",
+      "link": "https://www.nrk.no/nordland/stor-snoskredfare-flere-steder-1.17814024",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 18 Mar 2026 05:31:36 GMT"
+    },
+    {
+      "title": "Enighet om strømstøtte for studentboliger",
+      "link": "https://www.nrk.no/stor-oslo/enighet-om-stromstotte-for-studentboliger-1.17813991",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 18 Mar 2026 05:00:38 GMT"
+    },
     {
       "title": "Iran har henrettet mann anklaget for spionasje",
       "link": "https://www.nrk.no/nyheter/iran-har-henrettet-mann-anklaget-for-spionasje-1.17813973",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/cubas-president-varsler-_uknuselig-motstand_-1.17813965",
       "category": "Cuba",
       "pubDate": "Wed, 18 Mar 2026 03:10:31 GMT"
-    },
-    {
-      "title": "Minst seks drept i israelsk angrep i Beirut, ifølge Libanon",
-      "link": "https://www.nrk.no/nyheter/minst-seks-drept-i-israelsk-angrep-i-beirut_-ifolge-libanon-1.17813963",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 03:06:01 GMT"
-    },
-    {
-      "title": "Iran truer med hevn etter drap på toppleder",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-hevn-etter-drap-pa-toppleder-1.17813957",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 01:59:34 GMT"
     }
   ]
 }
