@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-18T16:37:17.146Z",
+  "updatedAt": "2026-03-18T18:00:57.421Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Melby: Vil ikke støtte Listhaug som statsminister",
+      "link": "https://www.nrk.no/nyheter/melby_-vil-ikke-stotte-listhaug-som-statsminister-1.17815395",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 18 Mar 2026 17:45:00 GMT"
+    },
+    {
+      "title": "Ålesund: Brannvesenet skal ha god oversikt",
+      "link": "https://www.nrk.no/mr/alesund_-brannvesenet-skal-ha-god-oversikt-1.17815281",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Wed, 18 Mar 2026 17:26:05 GMT"
+    },
+    {
+      "title": "Klatret opp i tre etter pantetyveri",
+      "link": "https://www.nrk.no/innlandet/klatret-opp-i-tre-etter-pantetyveri-1.17815346",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Wed, 18 Mar 2026 16:44:22 GMT"
+    },
+    {
+      "title": "Flere eksplosjoner hørt i Riyadh",
+      "link": "https://www.nrk.no/nyheter/flere-eksplosjoner-hort-i-riyadh-1.17815338",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 16:37:54 GMT"
+    },
     {
       "title": "USAs etterretningssjef: Iran gjenoppbygde ikke atomanrikingen etter angrepet i fjor",
       "link": "https://www.nrk.no/nyheter/usas-etterretningssjef_-iran-gjenoppbygde-ikke-atomanrikingen-etter-angrepet-i-fjor-1.17815243",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/gradert-sak-behandlet-i-ekstraordinaert-mote-pa-slottet-1.17815191",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 18 Mar 2026 15:10:30 GMT"
-    },
-    {
-      "title": "Pakistan pauser militære operasjoner mot Afghanistan midlertidig",
-      "link": "https://www.nrk.no/nyheter/pakistan-pauser-militaere-operasjoner-mot-afghanistan-midlertidig-1.17815173",
-      "category": "Pakistan og Afghanistan",
-      "pubDate": "Wed, 18 Mar 2026 14:37:35 GMT"
-    },
-    {
-      "title": "Sveitsiske medier: Én person død etter gondolulykke",
-      "link": "https://www.nrk.no/nyheter/sveitsiske-medier_-en-person-dod-etter-gondolulykke-1.17815155",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 18 Mar 2026 14:22:42 GMT"
-    },
-    {
-      "title": "Iran bekrefter: Etterretningsministeren er drept",
-      "link": "https://www.nrk.no/nyheter/iran-bekrefter_-etterretningsministeren-er-drept-1.17815013",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 18 Mar 2026 14:18:02 GMT"
-    },
-    {
-      "title": "Brann i Hustadvika – fare for bustader",
-      "link": "https://www.nrk.no/mr/brann-i-hustadvika-_-fare-for-bustader-1.17815114",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 18 Mar 2026 14:14:21 GMT"
     }
   ]
 }
