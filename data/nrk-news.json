@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-18T09:58:00.723Z",
+  "updatedAt": "2026-03-18T11:00:10.777Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Aktors krav om straff for Høiby: Syv år og syv måneder i fengsel",
+      "link": "https://www.nrk.no/nyheter/aktors-krav-om-straff-for-hoiby_-syv-ar-og-syv-maneder-i-fengsel-1.17814329",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Wed, 18 Mar 2026 10:45:50 GMT"
+    },
+    {
+      "title": "Stein Lier-Hansen-rettssaken: Må frifinnes for korrupsjon og erstatning",
+      "link": "https://www.nrk.no/nyheter/stein-lier-hansen-rettssaken_-ma-frifinnes-for-korrupsjon-og-erstatning-1.17814580",
+      "category": "Stein Lier-Hansen og Norsk Industri",
+      "pubDate": "Wed, 18 Mar 2026 10:34:52 GMT"
+    },
+    {
+      "title": "Norwegian setter opp 120 ekstra flyvninger",
+      "link": "https://www.nrk.no/vestland/norwegian-setter-opp-120-ekstra-flyvninger-1.17814555",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 18 Mar 2026 10:23:27 GMT"
+    },
+    {
+      "title": "Hevder Irans etterretningssjef er drept",
+      "link": "https://www.nrk.no/nyheter/hevder-irans-etterretningssjef-er-drept-1.17814224",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 10:18:30 GMT"
+    },
+    {
+      "title": "Dommar krev at Voice of America blir gjenopna",
+      "link": "https://www.nrk.no/nyheter/dommar-krev-at-voice-of-america-blir-gjenopna-1.17814415",
+      "category": "USA",
+      "pubDate": "Wed, 18 Mar 2026 09:59:23 GMT"
+    },
     {
       "title": "Partitoppene skal møtes om Epstein-saken",
       "link": "https://www.nrk.no/nyheter/partitoppene-skal-motes-om-epstein-saken-1.17814435",
       "category": "Epsteins norske forbindelser",
       "pubDate": "Wed, 18 Mar 2026 09:47:22 GMT"
-    },
-    {
-      "title": "Brannen i Ålesund: – Vi er ikkje ute av fare enda",
-      "link": "https://www.nrk.no/mr/brannen-i-alesund_-_-vi-er-ikkje-ute-av-fare-enda-1.17814428",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 18 Mar 2026 09:43:40 GMT"
-    },
-    {
-      "title": "Rett24: VG-journalist som nekta å forklare seg i retten får bot",
-      "link": "https://www.nrk.no/nyheter/rett24_-vg-journalist-som-nekta-a-forklare-seg-i-retten-far-bot-1.17814404",
-      "category": "Stein Lier-Hansen og Norsk Industri",
-      "pubDate": "Wed, 18 Mar 2026 09:31:02 GMT"
-    },
-    {
-      "title": "IMO: 3200 skip er fanga i Persiabukta.",
-      "link": "https://www.nrk.no/nyheter/imo_-3200-skip-er-fanga-i-persiabukta.-1.17814387",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 09:26:09 GMT"
-    },
-    {
-      "title": "Nav får kritikk frå Sivilombodet",
-      "link": "https://www.nrk.no/nyheter/nav-far-kritikk-fra-sivilombodet-1.17814365",
-      "category": "Nav",
-      "pubDate": "Wed, 18 Mar 2026 09:13:50 GMT"
-    },
-    {
-      "title": "EOS-utvalget kritiserer Forsvarets tidsbruk for klarering",
-      "link": "https://www.nrk.no/nyheter/eos-utvalget-kritiserer-forsvarets-tidsbruk-for-klarering-1.17814211",
-      "category": "Det norske Forsvaret",
-      "pubDate": "Wed, 18 Mar 2026 08:17:31 GMT"
     }
   ]
 }
