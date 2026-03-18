@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-03-18T21:58:55.588Z",
+  "updatedAt": "2026-03-18T22:41:04.415Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Fire kvinner drept av splinter på Vestbredden",
-      "link": "https://www.nrk.no/nyheter/fire-kvinner-drept-av-splinter-pa-vestbredden-1.17815585",
+      "title": "E6 stengt i Gudbrandsdalen",
+      "link": "https://www.nrk.no/nyheter/e6-stengt-i-gudbrandsdalen-1.17815598",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Wed, 18 Mar 2026 22:18:10 GMT"
+    },
+    {
+      "title": "Fire kvinner drept i rakettangrep mot frisørsalong",
+      "link": "https://www.nrk.no/nyheter/fire-kvinner-drept-i-rakettangrep-mot-frisorsalong-1.17815585",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 18 Mar 2026 21:43:22 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/qatar_-_omfattende-skader_-pa-enormt-gassanlegg-etter-iransk-angrep-1.17815415",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 18 Mar 2026 18:41:12 GMT"
-    },
-    {
-      "title": "Ålesund: Håper evakuerte kan flytte hjem i kveld",
-      "link": "https://www.nrk.no/mr/alesund_-haper-evakuerte-kan-flytte-hjem-i-kveld-1.17815383",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 18 Mar 2026 18:14:05 GMT"
     }
   ]
 }
