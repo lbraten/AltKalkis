@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-18T21:03:43.586Z",
+  "updatedAt": "2026-03-18T21:58:55.588Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fire kvinner drept av splinter på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/fire-kvinner-drept-av-splinter-pa-vestbredden-1.17815585",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 21:43:22 GMT"
+    },
+    {
+      "title": "Israel angriper Nord-Iran",
+      "link": "https://www.nrk.no/nyheter/israel-angriper-nord-iran-1.17815583",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 21:31:34 GMT"
+    },
     {
       "title": "Ålesund: Evakuerte får ikke flytte hjem",
       "link": "https://www.nrk.no/mr/alesund_-evakuerte-far-ikke-flytte-hjem-1.17815444",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/mr/alesund_-haper-evakuerte-kan-flytte-hjem-i-kveld-1.17815383",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Wed, 18 Mar 2026 18:14:05 GMT"
-    },
-    {
-      "title": "Ingvild Wetrhus Thorsvik er valgt til ny nestleder i venstre",
-      "link": "https://www.nrk.no/nyheter/ingvild-wetrhus-thorsvik-er-valgt-til-ny-nestleder-i-venstre--1.17815344",
-      "category": "Venstre",
-      "pubDate": "Wed, 18 Mar 2026 18:03:55 GMT"
-    },
-    {
-      "title": "USAs sentralbank holder renta uendret",
-      "link": "https://www.nrk.no/nyheter/usas-sentralbank-holder-renta-uendret-1.17815264",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 18 Mar 2026 18:00:54 GMT"
     }
   ]
 }
