@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-18T12:05:00.396Z",
+  "updatedAt": "2026-03-18T13:58:59.733Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "TV 2: Peter Frølich valgt som leder i utenrikskomiteen",
+      "link": "https://www.nrk.no/nyheter/tv-2_-peter-frolich-valgt-som-leder-i-utenrikskomiteen-1.17814999",
+      "category": "Norsk politikk",
+      "pubDate": "Wed, 18 Mar 2026 13:16:34 GMT"
+    },
+    {
+      "title": "Oljeprisen stiger kraftig etter angrep mot iransk gassanlegg",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-stiger-kraftig-etter-angrep-mot-iransk-gassanlegg-1.17814895",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 13:09:07 GMT"
+    },
+    {
+      "title": "ESA ber Norge oppfylle mål for avfallsinnsamling og gjenvinning",
+      "link": "https://www.nrk.no/nyheter/esa-ber-norge-oppfylle-mal-for-avfallsinnsamling-og-gjenvinning-1.17814913",
+      "category": "Klima og miljø",
+      "pubDate": "Wed, 18 Mar 2026 12:51:16 GMT"
+    },
+    {
+      "title": "Svenske henrettet i Iran i dag",
+      "link": "https://www.nrk.no/nyheter/svenske-henrettet-i-iran-i-dag-1.17814693",
+      "category": "Iran",
+      "pubDate": "Wed, 18 Mar 2026 12:04:17 GMT"
+    },
     {
       "title": "KrF vil åpne kontrollsak mot forsvarsministeren etter maske-avtale",
       "link": "https://www.nrk.no/nyheter/krf-vil-apne-kontrollsak-mot-forsvarsministeren-etter-maske-avtale-1.17814651",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ikke-utreiseplikt-til-libanon-1.17814545",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 18 Mar 2026 11:03:57 GMT"
-    },
-    {
-      "title": "Aktors krav om straff for Høiby: Syv år og syv måneder i fengsel",
-      "link": "https://www.nrk.no/nyheter/aktors-krav-om-straff-for-hoiby_-syv-ar-og-syv-maneder-i-fengsel-1.17814329",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Wed, 18 Mar 2026 10:45:50 GMT"
-    },
-    {
-      "title": "Stein Lier-Hansen-rettssaken: Må frifinnes for korrupsjon og erstatning",
-      "link": "https://www.nrk.no/nyheter/stein-lier-hansen-rettssaken_-ma-frifinnes-for-korrupsjon-og-erstatning-1.17814580",
-      "category": "Stein Lier-Hansen og Norsk Industri",
-      "pubDate": "Wed, 18 Mar 2026 10:34:52 GMT"
-    },
-    {
-      "title": "Norwegian setter opp 120 ekstra flyvninger",
-      "link": "https://www.nrk.no/vestland/norwegian-setter-opp-120-ekstra-flyvninger-1.17814555",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 18 Mar 2026 10:23:27 GMT"
-    },
-    {
-      "title": "Hevder Irans etterretningssjef er drept",
-      "link": "https://www.nrk.no/nyheter/hevder-irans-etterretningssjef-er-drept-1.17814224",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 10:18:30 GMT"
     }
   ]
 }
