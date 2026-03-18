@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-18T07:35:42.509Z",
+  "updatedAt": "2026-03-18T08:54:18.580Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EOS-utvalget kritiserer Forsvarets tidsbruk for klarering",
+      "link": "https://www.nrk.no/nyheter/eos-utvalget-kritiserer-forsvarets-tidsbruk-for-klarering-1.17814211",
+      "category": "Det norske Forsvaret",
+      "pubDate": "Wed, 18 Mar 2026 08:17:31 GMT"
+    },
+    {
+      "title": "Rapport: Dagligvarebransjen omsatte for 280 milliarder kroner i fjor – 5,4 prosent opp",
+      "link": "https://www.nrk.no/nyheter/rapport_-dagligvarebransjen-omsatte-for-280-milliarder-kroner-i-fjor-_-5_4-prosent-opp-1.17814092",
+      "category": "Dagligvarebransjen",
+      "pubDate": "Wed, 18 Mar 2026 08:11:04 GMT"
+    },
     {
       "title": "Ny pris for Stad skipstunnel: 8,6 milliardar kroner",
       "link": "https://www.nrk.no/vestland/ny-pris-for-stad-skipstunnel_-8_6-milliardar-kroner-1.17814145",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/prosjektil-traff-omrade-ved-atomkraftverk-i-iran-1.17814066",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 18 Mar 2026 06:27:26 GMT"
-    },
-    {
-      "title": "Skoler og barnehager stengt i Ålesund",
-      "link": "https://www.nrk.no/nyheter/skoler-og-barnehager-stengt-i-alesund-1.17814063",
-      "category": "Brann på Sukkertoppen i Ålesund",
-      "pubDate": "Wed, 18 Mar 2026 06:12:03 GMT"
-    },
-    {
-      "title": "Justis- og beredskapsministeren: – Formidabel innsats",
-      "link": "https://www.nrk.no/nyheter/justis--og-beredskapsministeren_-_-formidabel-innsats-1.17814016",
-      "category": "Brann på Sukkertoppen i Ålesund",
-      "pubDate": "Wed, 18 Mar 2026 06:10:25 GMT"
     }
   ]
 }
