@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-18T11:00:10.777Z",
+  "updatedAt": "2026-03-18T12:05:00.396Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "KrF vil åpne kontrollsak mot forsvarsministeren etter maske-avtale",
+      "link": "https://www.nrk.no/nyheter/krf-vil-apne-kontrollsak-mot-forsvarsministeren-etter-maske-avtale-1.17814651",
+      "category": "Det norske Forsvaret",
+      "pubDate": "Wed, 18 Mar 2026 11:20:32 GMT"
+    },
+    {
+      "title": "Ikke utreiseplikt til Libanon",
+      "link": "https://www.nrk.no/nyheter/ikke-utreiseplikt-til-libanon-1.17814545",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 18 Mar 2026 11:03:57 GMT"
+    },
     {
       "title": "Aktors krav om straff for Høiby: Syv år og syv måneder i fengsel",
       "link": "https://www.nrk.no/nyheter/aktors-krav-om-straff-for-hoiby_-syv-ar-og-syv-maneder-i-fengsel-1.17814329",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hevder-irans-etterretningssjef-er-drept-1.17814224",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 18 Mar 2026 10:18:30 GMT"
-    },
-    {
-      "title": "Dommar krev at Voice of America blir gjenopna",
-      "link": "https://www.nrk.no/nyheter/dommar-krev-at-voice-of-america-blir-gjenopna-1.17814415",
-      "category": "USA",
-      "pubDate": "Wed, 18 Mar 2026 09:59:23 GMT"
-    },
-    {
-      "title": "Partitoppene skal møtes om Epstein-saken",
-      "link": "https://www.nrk.no/nyheter/partitoppene-skal-motes-om-epstein-saken-1.17814435",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Wed, 18 Mar 2026 09:47:22 GMT"
     }
   ]
 }
