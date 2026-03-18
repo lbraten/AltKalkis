@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-18T22:41:04.415Z",
+  "updatedAt": "2026-03-18T23:32:46.018Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge rykker oppover igjen på FNs lykkemåling",
+      "link": "https://www.nrk.no/nyheter/norge-rykker-oppover-igjen-pa-fns-lykkemaling-1.17815632",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 18 Mar 2026 23:28:04 GMT"
+    },
     {
       "title": "E6 stengt i Gudbrandsdalen",
       "link": "https://www.nrk.no/nyheter/e6-stengt-i-gudbrandsdalen-1.17815598",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/fem-pagrepet-etter-brannbombe-i-eidsvoll-1.17815514",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 18 Mar 2026 20:11:00 GMT"
-    },
-    {
-      "title": "Qatar: «Omfattende skader» på enormt gassanlegg etter iransk angrep",
-      "link": "https://www.nrk.no/nyheter/qatar_-_omfattende-skader_-pa-enormt-gassanlegg-etter-iransk-angrep-1.17815415",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 18:41:12 GMT"
     }
   ]
 }
