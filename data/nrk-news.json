@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-18T08:54:18.580Z",
+  "updatedAt": "2026-03-18T09:58:00.723Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Partitoppene skal møtes om Epstein-saken",
+      "link": "https://www.nrk.no/nyheter/partitoppene-skal-motes-om-epstein-saken-1.17814435",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Wed, 18 Mar 2026 09:47:22 GMT"
+    },
+    {
+      "title": "Brannen i Ålesund: – Vi er ikkje ute av fare enda",
+      "link": "https://www.nrk.no/mr/brannen-i-alesund_-_-vi-er-ikkje-ute-av-fare-enda-1.17814428",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Wed, 18 Mar 2026 09:43:40 GMT"
+    },
+    {
+      "title": "Rett24: VG-journalist som nekta å forklare seg i retten får bot",
+      "link": "https://www.nrk.no/nyheter/rett24_-vg-journalist-som-nekta-a-forklare-seg-i-retten-far-bot-1.17814404",
+      "category": "Stein Lier-Hansen og Norsk Industri",
+      "pubDate": "Wed, 18 Mar 2026 09:31:02 GMT"
+    },
+    {
+      "title": "IMO: 3200 skip er fanga i Persiabukta.",
+      "link": "https://www.nrk.no/nyheter/imo_-3200-skip-er-fanga-i-persiabukta.-1.17814387",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 09:26:09 GMT"
+    },
+    {
+      "title": "Nav får kritikk frå Sivilombodet",
+      "link": "https://www.nrk.no/nyheter/nav-far-kritikk-fra-sivilombodet-1.17814365",
+      "category": "Nav",
+      "pubDate": "Wed, 18 Mar 2026 09:13:50 GMT"
+    },
     {
       "title": "EOS-utvalget kritiserer Forsvarets tidsbruk for klarering",
       "link": "https://www.nrk.no/nyheter/eos-utvalget-kritiserer-forsvarets-tidsbruk-for-klarering-1.17814211",
       "category": "Det norske Forsvaret",
       "pubDate": "Wed, 18 Mar 2026 08:17:31 GMT"
-    },
-    {
-      "title": "Rapport: Dagligvarebransjen omsatte for 280 milliarder kroner i fjor – 5,4 prosent opp",
-      "link": "https://www.nrk.no/nyheter/rapport_-dagligvarebransjen-omsatte-for-280-milliarder-kroner-i-fjor-_-5_4-prosent-opp-1.17814092",
-      "category": "Dagligvarebransjen",
-      "pubDate": "Wed, 18 Mar 2026 08:11:04 GMT"
-    },
-    {
-      "title": "Ny pris for Stad skipstunnel: 8,6 milliardar kroner",
-      "link": "https://www.nrk.no/vestland/ny-pris-for-stad-skipstunnel_-8_6-milliardar-kroner-1.17814145",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 18 Mar 2026 07:33:00 GMT"
-    },
-    {
-      "title": "Oljefunn nordvest for Hammerfest",
-      "link": "https://www.nrk.no/tromsogfinnmark/oljefunn-nordvest-for-hammerfest-1.17814097",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 18 Mar 2026 06:48:15 GMT"
-    },
-    {
-      "title": "Norge i Europa-toppen for flere rusmidler",
-      "link": "https://www.nrk.no/nyheter/norge-i-europa-toppen-for-flere-rusmidler-1.17814079",
-      "category": "Ungdom og rusmidler",
-      "pubDate": "Wed, 18 Mar 2026 06:35:56 GMT"
-    },
-    {
-      "title": "Prosjektil traff område ved atomkraftverk i Iran",
-      "link": "https://www.nrk.no/nyheter/prosjektil-traff-omrade-ved-atomkraftverk-i-iran-1.17814066",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 06:27:26 GMT"
     }
   ]
 }
