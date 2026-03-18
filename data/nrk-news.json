@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-18T02:34:17.026Z",
+  "updatedAt": "2026-03-18T04:58:26.469Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran har henrettet mann anklaget for spionasje",
+      "link": "https://www.nrk.no/nyheter/iran-har-henrettet-mann-anklaget-for-spionasje-1.17813973",
+      "category": "Iran",
+      "pubDate": "Wed, 18 Mar 2026 04:26:09 GMT"
+    },
+    {
+      "title": "Ingen nye evakueringer i Ålesund i natt",
+      "link": "https://www.nrk.no/nyheter/ingen-nye-evakueringer-i-alesund-i-natt-1.17813972",
+      "category": "Brann på Sukkertoppen i Ålesund",
+      "pubDate": "Wed, 18 Mar 2026 04:10:12 GMT"
+    },
+    {
+      "title": "Eksplosjoner i Doha – Qatar har stanset rakettangrep",
+      "link": "https://www.nrk.no/nyheter/eksplosjoner-i-doha-_-qatar-har-stanset-rakettangrep-1.17813966",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 03:27:09 GMT"
+    },
+    {
+      "title": "Cubas president varsler «uknuselig motstand»",
+      "link": "https://www.nrk.no/nyheter/cubas-president-varsler-_uknuselig-motstand_-1.17813965",
+      "category": "Cuba",
+      "pubDate": "Wed, 18 Mar 2026 03:10:31 GMT"
+    },
+    {
+      "title": "Minst seks drept i israelsk angrep i Beirut, ifølge Libanon",
+      "link": "https://www.nrk.no/nyheter/minst-seks-drept-i-israelsk-angrep-i-beirut_-ifolge-libanon-1.17813963",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 18 Mar 2026 03:06:01 GMT"
+    },
     {
       "title": "Iran truer med hevn etter drap på toppleder",
       "link": "https://www.nrk.no/nyheter/iran-truer-med-hevn-etter-drap-pa-toppleder-1.17813957",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 18 Mar 2026 01:59:34 GMT"
-    },
-    {
-      "title": "Minst seks drept i angrep mot Beirut",
-      "link": "https://www.nrk.no/nyheter/minst-seks-drept-i-angrep-mot-beirut-1.17813956",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 01:28:23 GMT"
-    },
-    {
-      "title": "Brann på australsk militærbase etter iransk angrep",
-      "link": "https://www.nrk.no/nyheter/brann-pa-australsk-militaerbase-etter-iransk-angrep-1.17813954",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 01:11:34 GMT"
-    },
-    {
-      "title": "Saudi-Arabia stanset rakett nær militærbase",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia-stanset-rakett-naer-militaerbase-1.17813953",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 01:09:57 GMT"
-    },
-    {
-      "title": "Én drept i droneangrep i Russland",
-      "link": "https://www.nrk.no/nyheter/en-drept-i-droneangrep-i-russland-1.17813947",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 18 Mar 2026 01:04:21 GMT"
-    },
-    {
-      "title": "IAEA: Prosjektil skal ha truffet atomkraftverk i Iran – ingen skader rapportert",
-      "link": "https://www.nrk.no/nyheter/iaea_-prosjektil-skal-ha-truffet-atomkraftverk-i-iran-_-ingen-skader-rapportert-1.17813951",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 18 Mar 2026 00:35:54 GMT"
     }
   ]
 }
