@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-19T21:03:06.362Z",
+  "updatedAt": "2026-03-19T21:55:30.321Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Professor og språknestor Finn-Erik Vinje (90) er død",
+      "link": "https://www.nrk.no/nyheter/professor-og-spraknestor-finn-erik-vinje-_90_-er-dod-1.17817331",
+      "category": "Språk",
+      "pubDate": "Thu, 19 Mar 2026 21:16:41 GMT"
+    },
+    {
+      "title": "Westerlin: Har slettet Instagram og TikTok",
+      "link": "https://www.nrk.no/nyheter/westerlin_-har-slettet-instagram-og-tiktok-1.17817315",
+      "category": "Sosiale medier",
+      "pubDate": "Thu, 19 Mar 2026 21:06:10 GMT"
+    },
     {
       "title": "Fire drept i israelsk angrep i Gaza",
       "link": "https://www.nrk.no/nyheter/fire-drept-i-israelsk-angrep-i-gaza-1.17817249",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/-netanyahu-sier-iran-ikke-lenger-kan-anrike-uran-1.17817157",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 19 Mar 2026 19:07:06 GMT"
-    },
-    {
-      "title": "Mange migranter har omkommet i Middelhavet hittil i år",
-      "link": "https://www.nrk.no/nyheter/mange-migranter-har-omkommet-i-middelhavet-hittil-i-ar-1.17817109",
-      "category": "Båtflyktninger i Middelhavet",
-      "pubDate": "Thu, 19 Mar 2026 17:58:44 GMT"
-    },
-    {
-      "title": "Qatar: Gasskapasiteten redusert i årevis etter iranske angrep",
-      "link": "https://www.nrk.no/nyheter/qatar_-gasskapasiteten-redusert-i-arevis-etter-iranske-angrep-1.17817106",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 19 Mar 2026 17:05:05 GMT"
     }
   ]
 }
