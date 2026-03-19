@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-19T07:31:06.771Z",
+  "updatedAt": "2026-03-19T08:46:53.941Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Riksbanken i Sverige endrer ikke renta",
+      "link": "https://www.nrk.no/nyheter/riksbanken-i-sverige-endrer-ikke-renta-1.17815902",
+      "category": "Sverige",
+      "pubDate": "Thu, 19 Mar 2026 08:33:16 GMT"
+    },
+    {
+      "title": "Hovedindeksen på Oslo Børs passerte 2000 poeng for første gang",
+      "link": "https://www.nrk.no/nyheter/hovedindeksen-pa-oslo-bors-passerte-2000-poeng-for-forste-gang-1.17815855",
+      "category": "Oslo Børs",
+      "pubDate": "Thu, 19 Mar 2026 08:19:39 GMT"
+    },
+    {
+      "title": "Opprydningsarbeidet startet etter skred på E6 i Innlandet",
+      "link": "https://www.nrk.no/innlandet/opprydningsarbeidet-startet-etter-skred-pa-e6-i-innlandet-1.17815770",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Thu, 19 Mar 2026 08:02:04 GMT"
+    },
+    {
+      "title": "To oljeraffineri i brann i Kuwait etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/to-oljeraffineri-i-brann-i-kuwait-etter-droneangrep-1.17815830",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 19 Mar 2026 07:53:12 GMT"
+    },
+    {
+      "title": "Europeiske gasspriser opp over 30 prosent etter angrepene på gassanlegg i Qatar og Iran",
+      "link": "https://www.nrk.no/nyheter/europeiske-gasspriser-opp-over-30-prosent-etter-angrepene-pa-gassanlegg-i-qatar-og-iran-1.17815799",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 19 Mar 2026 07:34:48 GMT"
+    },
     {
       "title": "Egypt: Opnar grenseovergangen ved Rafah",
       "link": "https://www.nrk.no/nyheter/egypt_-opnar-grenseovergangen-ved-rafah-1.17815779",
       "category": "Krigen i Gaza",
       "pubDate": "Thu, 19 Mar 2026 07:16:28 GMT"
-    },
-    {
-      "title": "Dei evakuerte får reise heim",
-      "link": "https://www.nrk.no/mr/dei-evakuerte-far-reise-heim-1.17815769",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Thu, 19 Mar 2026 07:16:18 GMT"
-    },
-    {
-      "title": "Nær 50.000 har søkt om sletting av studiegjeld",
-      "link": "https://www.nrk.no/nordland/naer-50.000-har-sokt-om-sletting-av-studiegjeld-1.17815723",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Thu, 19 Mar 2026 06:56:17 GMT"
-    },
-    {
-      "title": "Thailands statsminister gjenvalgt",
-      "link": "https://www.nrk.no/nyheter/thailands-statsminister-gjenvalgt-1.17815762",
-      "category": "Thailand",
-      "pubDate": "Thu, 19 Mar 2026 06:54:08 GMT"
-    },
-    {
-      "title": "Maria Stavang gir seg i «Humoretaten»",
-      "link": "https://www.nrk.no/nyheter/maria-stavang-gir-seg-i-_humoretaten_-1.17815748",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 19 Mar 2026 06:43:02 GMT"
-    },
-    {
-      "title": "Senterpartiet vil auke kriselagera for drivstoff",
-      "link": "https://www.nrk.no/nyheter/senterpartiet-vil-auke-kriselagera-for-drivstoff-1.17815743",
-      "category": "Senterpartiet",
-      "pubDate": "Thu, 19 Mar 2026 06:26:21 GMT"
     }
   ]
 }
