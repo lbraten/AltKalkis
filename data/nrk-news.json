@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-19T20:00:26.847Z",
+  "updatedAt": "2026-03-19T21:03:06.362Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fire drept i israelsk angrep i Gaza",
+      "link": "https://www.nrk.no/nyheter/fire-drept-i-israelsk-angrep-i-gaza-1.17817249",
+      "category": "Krigen i Gaza",
+      "pubDate": "Thu, 19 Mar 2026 20:14:48 GMT"
+    },
     {
       "title": "Zelenskyj: Forhandlere på vei til USA for nye Russland-samtaler",
       "link": "https://www.nrk.no/nyheter/zelenskyj_-forhandlere-pa-vei-til-usa-for-nye-russland-samtaler-1.17817226",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/qatar_-gasskapasiteten-redusert-i-arevis-etter-iranske-angrep-1.17817106",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 19 Mar 2026 17:05:05 GMT"
-    },
-    {
-      "title": "Trump: Sier han ba Netanyahu om å ikke angripe Irans energiforsyning",
-      "link": "https://www.nrk.no/nyheter/trump_-sier-han-ba-netanyahu-om-a-ikke-angripe-irans-energiforsyning-1.17817079",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 19 Mar 2026 17:03:01 GMT"
     }
   ]
 }
