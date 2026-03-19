@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-19T17:53:35.749Z",
+  "updatedAt": "2026-03-19T19:01:58.201Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mange migranter har omkommet i Middelhavet hittil i år",
+      "link": "https://www.nrk.no/nyheter/mange-migranter-har-omkommet-i-middelhavet-hittil-i-ar-1.17817109",
+      "category": "Båtflyktninger i Middelhavet",
+      "pubDate": "Thu, 19 Mar 2026 17:58:44 GMT"
+    },
     {
       "title": "Qatar: Gasskapasiteten redusert i årevis etter iranske angrep",
       "link": "https://www.nrk.no/nyheter/qatar_-gasskapasiteten-redusert-i-arevis-etter-iranske-angrep-1.17817106",
@@ -21,8 +27,8 @@
       "pubDate": "Thu, 19 Mar 2026 16:23:51 GMT"
     },
     {
-      "title": "Seks stormakter villige til å bidra i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/seks-stormakter-villige-til-a-bidra-i-hormuzstredet-1.17817032",
+      "title": "Seks land villige til å bidra i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/seks-land-villige-til-a-bidra-i-hormuzstredet-1.17817032",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 19 Mar 2026 16:04:45 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israelske-medier_-israelsk-raffineri-angrepet-av-iran-1.17816994",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 19 Mar 2026 15:51:40 GMT"
-    },
-    {
-      "title": "Israel sier de har angrepet Irans marine i Kaspihavet",
-      "link": "https://www.nrk.no/nyheter/israel-sier-de-har-angrepet-irans-marine-i-kaspihavet-1.17816954",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 19 Mar 2026 15:29:30 GMT"
     }
   ]
 }
