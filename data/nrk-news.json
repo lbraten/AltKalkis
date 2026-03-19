@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-19T21:55:30.321Z",
+  "updatedAt": "2026-03-19T22:32:47.644Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EU frykter ny flyktningkrise etter krig i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/eu-frykter-ny-flyktningkrise-etter-krig-i-midtosten-1.17817332",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 19 Mar 2026 22:07:07 GMT"
+    },
     {
       "title": "Professor og språknestor Finn-Erik Vinje (90) er død",
       "link": "https://www.nrk.no/nyheter/professor-og-spraknestor-finn-erik-vinje-_90_-er-dod-1.17817331",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fhi-advarer-om-svindel-e-post-1.17817213",
       "category": "Svindel på nett",
       "pubDate": "Thu, 19 Mar 2026 19:18:47 GMT"
-    },
-    {
-      "title": "Netanyahu sier Iran ikke lenger kan anrike uran",
-      "link": "https://www.nrk.no/nyheter/-netanyahu-sier-iran-ikke-lenger-kan-anrike-uran-1.17817157",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 19 Mar 2026 19:07:06 GMT"
     }
   ]
 }
