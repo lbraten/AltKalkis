@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-19T16:31:56.123Z",
+  "updatedAt": "2026-03-19T17:53:35.749Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Qatar: Gasskapasiteten redusert i årevis etter iranske angrep",
+      "link": "https://www.nrk.no/nyheter/qatar_-gasskapasiteten-redusert-i-arevis-etter-iranske-angrep-1.17817106",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 19 Mar 2026 17:05:05 GMT"
+    },
+    {
+      "title": "Trump: Sier han ba Netanyahu om å ikke angripe Irans energiforsyning",
+      "link": "https://www.nrk.no/nyheter/trump_-sier-han-ba-netanyahu-om-a-ikke-angripe-irans-energiforsyning-1.17817079",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 19 Mar 2026 17:03:01 GMT"
+    },
     {
       "title": "Equinor med nest beste børsdag noensinne",
       "link": "https://www.nrk.no/nyheter/equinor-med-nest-beste-borsdag-noensinne-1.17817055",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-sier-de-har-angrepet-irans-marine-i-kaspihavet-1.17816954",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 19 Mar 2026 15:29:30 GMT"
-    },
-    {
-      "title": "NRK har intervjuet Mette-Marit",
-      "link": "https://www.nrk.no/nyheter/nrk-har-intervjuet-mette-marit-1.17816923",
-      "category": "Kongefamilien",
-      "pubDate": "Thu, 19 Mar 2026 15:06:56 GMT"
-    },
-    {
-      "title": "Ambassadebomben: Mor og to brødre løslates",
-      "link": "https://www.nrk.no/stor-oslo/ambassadebomben_-mor-og-to-brodre-loslates-1.17816795",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 19 Mar 2026 14:45:11 GMT"
     }
   ]
 }
