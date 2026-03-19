@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-19T10:42:59.967Z",
+  "updatedAt": "2026-03-19T11:37:31.359Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sykehuset Innlandet må betale overtidstillegg til deltidsansatt",
+      "link": "https://www.nrk.no/innlandet/sykehuset-innlandet-ma-betale-overtidstillegg-til-deltidsansatt-1.17816320",
+      "category": "Sykehuset Innlandet",
+      "pubDate": "Thu, 19 Mar 2026 11:14:26 GMT"
+    },
+    {
+      "title": "Kari Bremnes har fått kreft",
+      "link": "https://www.nrk.no/nordland/kari-bremnes-har-fatt-kreft-1.17816262",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Thu, 19 Mar 2026 11:10:15 GMT"
+    },
+    {
+      "title": "Tysk matematikar får Abelprisen",
+      "link": "https://www.nrk.no/nyheter/tysk-matematikar-far-abelprisen-1.17816305",
+      "category": "Abelprisen",
+      "pubDate": "Thu, 19 Mar 2026 11:06:27 GMT"
+    },
+    {
+      "title": "BT: Tiltalt for barneekteskap etter varsel frå barnevernet",
+      "link": "https://www.nrk.no/vestland/bt_-tiltalt-for-barneekteskap-etter-varsel-fra-barnevernet-1.17816301",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 19 Mar 2026 11:06:25 GMT"
+    },
+    {
+      "title": "Trekker milliardstøtte frå havvindprosjekt",
+      "link": "https://www.nrk.no/nyheter/trekker-milliardstotte-fra-havvindprosjekt-1.17816117",
+      "category": "Vindkraft",
+      "pubDate": "Thu, 19 Mar 2026 10:53:26 GMT"
+    },
     {
       "title": "Flytter fengslingsmøte: – Skal ha uttalt at han ville sprenge tingretten",
       "link": "https://www.nrk.no/buskerud/flytter-fengslingsmote_-_-skal-ha-uttalt-at-han-ville-sprenge-tingretten-1.17815994",
       "category": "Politi og hendelser i Buskerud",
       "pubDate": "Thu, 19 Mar 2026 09:41:33 GMT"
-    },
-    {
-      "title": "E6 stengt i begge retninger i Levanger",
-      "link": "https://www.nrk.no/trondelag/e6-stengt-i-begge-retninger-i-levanger-1.17815857",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Thu, 19 Mar 2026 09:36:12 GMT"
-    },
-    {
-      "title": "Kraftig økning i oljeprisen etter meldinger om nye angrep på oljeanlegg",
-      "link": "https://www.nrk.no/nyheter/kraftig-okning-i-oljeprisen-etter-meldinger-om-nye-angrep-pa-oljeanlegg-1.17816108",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 19 Mar 2026 09:34:49 GMT"
-    },
-    {
-      "title": "Minst 15 døde etter uvær i Karachi",
-      "link": "https://www.nrk.no/nyheter/minst-15-dode-etter-uvaer-i-karachi-1.17816059",
-      "category": "Pakistan",
-      "pubDate": "Thu, 19 Mar 2026 09:30:49 GMT"
-    },
-    {
-      "title": "Stortinget T-banestasjon åpnet igjen",
-      "link": "https://www.nrk.no/stor-oslo/stortinget-t-banestasjon-apnet-igjen--1.17815649",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 19 Mar 2026 09:22:24 GMT"
-    },
-    {
-      "title": "Alge på vei vestover – ber fiskeoppdrettere varsle",
-      "link": "https://www.nrk.no/sorlandet/alge-pa-vei-vestover-_-ber-fiskeoppdrettere-varsle-1.17816027",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 19 Mar 2026 09:21:03 GMT"
     }
   ]
 }
