@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-19T11:37:31.359Z",
+  "updatedAt": "2026-03-19T13:10:28.587Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA: Aksjonerte mot militsgrupper i Irak",
+      "link": "https://www.nrk.no/nyheter/usa_-aksjonerte-mot-militsgrupper-i-irak-1.17816489",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 19 Mar 2026 12:31:49 GMT"
+    },
+    {
+      "title": "Held renta uendra i Storbritannia",
+      "link": "https://www.nrk.no/nyheter/held-renta-uendra-i-storbritannia-1.17816446",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 19 Mar 2026 12:08:26 GMT"
+    },
+    {
+      "title": "Iran truar med angrep på energianlegg",
+      "link": "https://www.nrk.no/nyheter/iran-truar-med-angrep-pa-energianlegg-1.17816334",
+      "category": "Olje og gass",
+      "pubDate": "Thu, 19 Mar 2026 11:52:37 GMT"
+    },
+    {
+      "title": "Venabygdsfjellet åpnet",
+      "link": "https://www.nrk.no/innlandet/venabygdsfjellet-apnet-1.17816362",
+      "category": "Trafikk i Innlandet",
+      "pubDate": "Thu, 19 Mar 2026 11:25:08 GMT"
+    },
+    {
+      "title": "E6 i Gudbrandsdalen ventes å åpne klokken 12.30",
+      "link": "https://www.nrk.no/innlandet/e6-i-gudbrandsdalen-ventes-a-apne-klokken-12.30-1.17816354",
+      "category": "Trafikk i Innlandet",
+      "pubDate": "Thu, 19 Mar 2026 11:18:19 GMT"
+    },
     {
       "title": "Sykehuset Innlandet må betale overtidstillegg til deltidsansatt",
       "link": "https://www.nrk.no/innlandet/sykehuset-innlandet-ma-betale-overtidstillegg-til-deltidsansatt-1.17816320",
       "category": "Sykehuset Innlandet",
       "pubDate": "Thu, 19 Mar 2026 11:14:26 GMT"
-    },
-    {
-      "title": "Kari Bremnes har fått kreft",
-      "link": "https://www.nrk.no/nordland/kari-bremnes-har-fatt-kreft-1.17816262",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Thu, 19 Mar 2026 11:10:15 GMT"
-    },
-    {
-      "title": "Tysk matematikar får Abelprisen",
-      "link": "https://www.nrk.no/nyheter/tysk-matematikar-far-abelprisen-1.17816305",
-      "category": "Abelprisen",
-      "pubDate": "Thu, 19 Mar 2026 11:06:27 GMT"
-    },
-    {
-      "title": "BT: Tiltalt for barneekteskap etter varsel frå barnevernet",
-      "link": "https://www.nrk.no/vestland/bt_-tiltalt-for-barneekteskap-etter-varsel-fra-barnevernet-1.17816301",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 19 Mar 2026 11:06:25 GMT"
-    },
-    {
-      "title": "Trekker milliardstøtte frå havvindprosjekt",
-      "link": "https://www.nrk.no/nyheter/trekker-milliardstotte-fra-havvindprosjekt-1.17816117",
-      "category": "Vindkraft",
-      "pubDate": "Thu, 19 Mar 2026 10:53:26 GMT"
-    },
-    {
-      "title": "Flytter fengslingsmøte: – Skal ha uttalt at han ville sprenge tingretten",
-      "link": "https://www.nrk.no/buskerud/flytter-fengslingsmote_-_-skal-ha-uttalt-at-han-ville-sprenge-tingretten-1.17815994",
-      "category": "Politi og hendelser i Buskerud",
-      "pubDate": "Thu, 19 Mar 2026 09:41:33 GMT"
     }
   ]
 }
