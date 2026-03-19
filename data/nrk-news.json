@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-19T22:32:47.644Z",
+  "updatedAt": "2026-03-19T23:32:35.867Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "De forente arabiske emirater sier de har stanset «terrornettverk»",
+      "link": "https://www.nrk.no/nyheter/de-forente-arabiske-emirater-sier-de-har-stanset-_terrornettverk_-1.17817357",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 19 Mar 2026 22:36:10 GMT"
+    },
     {
       "title": "EU frykter ny flyktningkrise etter krig i Midtøsten",
       "link": "https://www.nrk.no/nyheter/eu-frykter-ny-flyktningkrise-etter-krig-i-midtosten-1.17817332",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj_-forhandlere-pa-vei-til-usa-for-nye-russland-samtaler-1.17817226",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 19 Mar 2026 19:40:16 GMT"
-    },
-    {
-      "title": "FHI advarer om svindel-e-post",
-      "link": "https://www.nrk.no/nyheter/fhi-advarer-om-svindel-e-post-1.17817213",
-      "category": "Svindel på nett",
-      "pubDate": "Thu, 19 Mar 2026 19:18:47 GMT"
     }
   ]
 }
