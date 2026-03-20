@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-20T13:05:01.692Z",
+  "updatedAt": "2026-03-20T14:12:18.367Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Chuck Norris er død, 86 år gammel",
+      "link": "https://www.nrk.no/nyheter/chuck-norris-er-dod_-86-ar-gammel-1.17818455",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 20 Mar 2026 13:59:36 GMT"
+    },
+    {
+      "title": "Forsvaret bekrefter: Norge deltar i Nato-evakuering fra Irak",
+      "link": "https://www.nrk.no/nyheter/forsvaret-bekrefter_-norge-deltar-i-nato-evakuering-fra-irak-1.17818422",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 13:44:43 GMT"
+    },
+    {
+      "title": "Nato trekker ut styrker fra Irak",
+      "link": "https://www.nrk.no/nyheter/nato-trekker-ut-styrker-fra-irak-1.17818377",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 13:32:44 GMT"
+    },
+    {
+      "title": "En halv milliard til forskning på bærekraftig bruk",
+      "link": "https://www.nrk.no/nyheter/en-halv-milliard-til-forskning-pa-baerekraftig-bruk-1.17818387",
+      "category": "Klima og miljø",
+      "pubDate": "Fri, 20 Mar 2026 13:29:28 GMT"
+    },
+    {
+      "title": "Iran truer med å angripe fiender på turiststeder og i parker verden over",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-fiender-pa-turiststeder-og-i-parker-verden-over-1.17818322",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 13:13:36 GMT"
+    },
     {
       "title": "Over 100 pågrepet i Emiratene",
       "link": "https://www.nrk.no/nyheter/over-100-pagrepet-i-emiratene-1.17818294",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 20 Mar 2026 12:54:10 GMT"
-    },
-    {
-      "title": "Sveits stoppar våpeneksporten til USA",
-      "link": "https://www.nrk.no/nyheter/sveits-stoppar-vapeneksporten-til-usa-1.17818005",
-      "category": "Sveits",
-      "pubDate": "Fri, 20 Mar 2026 12:24:31 GMT"
-    },
-    {
-      "title": "PST om «utrygg-hendinga» til kronprinsessa: – Kommenterer ikkje enkeltepisodar",
-      "link": "https://www.nrk.no/nyheter/pst-om-_utrygg-hendinga_-til-kronprinsessa_-_-kommenterer-ikkje-enkeltepisodar-1.17818099",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Fri, 20 Mar 2026 12:11:49 GMT"
-    },
-    {
-      "title": "Søreide: – Kronprinsessen har utøvd dårlig dømmekraft",
-      "link": "https://www.nrk.no/nyheter/soreide_-_-kronprinsessen-har-utovd-darlig-dommekraft-1.17817443",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Fri, 20 Mar 2026 11:20:21 GMT"
-    },
-    {
-      "title": "Støre om Mette-Marit: Ho tek ansvar",
-      "link": "https://www.nrk.no/nyheter/store-om-mette-marit_-ho-tek-ansvar-1.17817992",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Fri, 20 Mar 2026 10:54:20 GMT"
-    },
-    {
-      "title": "Regjeringa foreslår cruiseavgift",
-      "link": "https://www.nrk.no/mr/regjeringa-foreslar-cruiseavgift-1.17817919",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 20 Mar 2026 10:42:23 GMT"
     }
   ]
 }
