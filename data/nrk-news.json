@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-20T02:23:13.723Z",
+  "updatedAt": "2026-03-20T04:25:43.978Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisen faller etter uttalelser fra Netanyahu",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-faller-etter-uttalelser-fra-netanyahu-1.17817391",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 03:42:08 GMT"
+    },
     {
       "title": "Emiratene og Kuwait melder om nye rakettangrep",
       "link": "https://www.nrk.no/nyheter/emiratene-og-kuwait-melder-om-nye-rakettangrep-1.17817390",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/merz-ber-eu-kommisjonen-finne-andre-lanemuligheter-til-ukraina-1.17817384",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 20 Mar 2026 00:23:00 GMT"
-    },
-    {
-      "title": "De forente arabiske emirater sier de har stanset «terrornettverk»",
-      "link": "https://www.nrk.no/nyheter/de-forente-arabiske-emirater-sier-de-har-stanset-_terrornettverk_-1.17817357",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 19 Mar 2026 22:36:10 GMT"
     }
   ]
 }
