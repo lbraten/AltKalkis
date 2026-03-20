@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-20T15:12:25.717Z",
+  "updatedAt": "2026-03-20T16:06:13.808Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA sender flere styrker til Midtøsten",
+      "link": "https://www.nrk.no/nyheter/usa-sender-flere-styrker-til-midtosten-1.17818640",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 15:47:29 GMT"
+    },
+    {
+      "title": "Tommy Olsen løslates",
+      "link": "https://www.nrk.no/tromsogfinnmark/tommy-olsen-loslates-1.17818577",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Fri, 20 Mar 2026 15:46:33 GMT"
+    },
+    {
+      "title": "New York Times: Colombias president etterforskes i USA",
+      "link": "https://www.nrk.no/nyheter/new-york-times_-colombias-president-etterforskes-i-usa-1.17818637",
+      "category": "Colombia",
+      "pubDate": "Fri, 20 Mar 2026 15:29:29 GMT"
+    },
+    {
+      "title": "Endrer ikke beslutning om beskytterskap",
+      "link": "https://www.nrk.no/nyheter/endrer-ikke-beslutning-om-beskytterskap-1.17818621",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Fri, 20 Mar 2026 15:28:03 GMT"
+    },
     {
       "title": "Forsvarsministeren: Alle norske soldater ute av Irak",
       "link": "https://www.nrk.no/nyheter/forsvarsministeren_-alle-norske-soldater-ute-av-irak-1.17818584",
@@ -9,34 +33,10 @@
       "pubDate": "Fri, 20 Mar 2026 15:10:50 GMT"
     },
     {
-      "title": "Iran angriper Jerusalem",
-      "link": "https://www.nrk.no/nyheter/iran-angriper-jerusalem-1.17818558",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 14:45:03 GMT"
-    },
-    {
-      "title": "Israelsk soldat pågrepet for spionasje",
-      "link": "https://www.nrk.no/nyheter/israelsk-soldat-pagrepet-for-spionasje-1.17818537",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 14:33:49 GMT"
-    },
-    {
-      "title": "Spania bevilger milliarder til å dempe effektene av krigen",
-      "link": "https://www.nrk.no/nyheter/spania-bevilger-milliarder-til-a-dempe-effektene-av-krigen-1.17818486",
-      "category": "Spania",
-      "pubDate": "Fri, 20 Mar 2026 14:24:51 GMT"
-    },
-    {
-      "title": "Advarer om Taxi-svindel på Oslo lufthavn: – Veldig høy pris",
-      "link": "https://www.nrk.no/stor-oslo/advarer-om-taxi-svindel-pa-oslo-lufthavn_-_-veldig-hoy-pris--1.17818019",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 20 Mar 2026 14:11:25 GMT"
-    },
-    {
-      "title": "Chuck Norris er død, 86 år gammel",
-      "link": "https://www.nrk.no/nyheter/chuck-norris-er-dod_-86-ar-gammel-1.17818455",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 20 Mar 2026 13:59:36 GMT"
+      "title": "Brannen i Ålesund: Kan bli aktuelt med mobilsporing",
+      "link": "https://www.nrk.no/mr/brannen-i-alesund_-kan-bli-aktuelt-med-mobilsporing-1.17818580",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 20 Mar 2026 15:03:12 GMT"
     }
   ]
 }
