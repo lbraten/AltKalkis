@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-20T08:45:09.894Z",
+  "updatedAt": "2026-03-20T09:44:44.880Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amandusfestivalen avventer beslutning om kronprinsessens beskytterskap",
+      "link": "https://www.nrk.no/innlandet/amandusfestivalen-avventer-beslutning-om-kronprinsessens-beskytterskap-1.17817785",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 20 Mar 2026 09:42:26 GMT"
+    },
+    {
+      "title": "Storbritannia kutter kraftig i klimabistand",
+      "link": "https://www.nrk.no/nyheter/storbritannia-kutter-kraftig-i-klimabistand-1.17817764",
+      "category": "Storbritannia",
+      "pubDate": "Fri, 20 Mar 2026 08:59:27 GMT"
+    },
+    {
+      "title": "FHI: Færre får hjerneslag",
+      "link": "https://www.nrk.no/nyheter/fhi_-faerre-far-hjerneslag-1.17817724",
+      "category": "Helse og livsstil",
+      "pubDate": "Fri, 20 Mar 2026 08:45:00 GMT"
+    },
     {
       "title": "14 savnet og over 50 skadet i fabrikkbrann i Sør-Korea",
       "link": "https://www.nrk.no/nyheter/14-savnet-og-over-50-skadet-i-fabrikkbrann-i-sor-korea-1.17817723",
@@ -15,28 +33,10 @@
       "pubDate": "Fri, 20 Mar 2026 08:33:08 GMT"
     },
     {
-      "title": "Iran: Talsmann for Revolusjonsgarden drepen i angrep",
-      "link": "https://www.nrk.no/nyheter/iran_-talsmann-for-revolusjonsgarden-drepen-i-angrep-1.17817569",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 08:14:00 GMT"
-    },
-    {
-      "title": "Revolusjonsgarden i Iran avviser Netanyahu-påstand: – Rakettproduksjonen fortsetter",
-      "link": "https://www.nrk.no/nyheter/revolusjonsgarden-i-iran-avviser-netanyahu-pastand_-_-rakettproduksjonen-fortsetter-1.17817568",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 07:15:25 GMT"
-    },
-    {
-      "title": "Israel har angripe fleire mål i Syria",
-      "link": "https://www.nrk.no/nyheter/israel-har-angripe-fleire-mal-i-syria-1.17817535",
-      "category": "Israel og Syria",
-      "pubDate": "Fri, 20 Mar 2026 07:14:40 GMT"
-    },
-    {
-      "title": "Kronprins Haakon: Visste Mette-Marit kjente Epstein",
-      "link": "https://www.nrk.no/nyheter/kronprins-haakon_-visste-mette-marit-kjente-epstein-1.17817521",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Fri, 20 Mar 2026 06:46:56 GMT"
+      "title": "Brann på avfallsplass",
+      "link": "https://www.nrk.no/mr/brann-pa-avfallsplass-1.17817484",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 20 Mar 2026 08:32:03 GMT"
     }
   ]
 }
