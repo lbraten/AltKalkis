@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-20T05:35:15.731Z",
+  "updatedAt": "2026-03-20T06:59:23.029Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kronprins Haakon: Visste Mette-Marit kjente Epstein",
+      "link": "https://www.nrk.no/nyheter/kronprins-haakon_-visste-mette-marit-kjente-epstein-1.17817521",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Fri, 20 Mar 2026 06:46:56 GMT"
+    },
+    {
+      "title": "Ein av fire stortingspolitikarar dukkar opp på det mørke nettet",
+      "link": "https://www.nrk.no/nyheter/ein-av-fire-stortingspolitikarar-dukkar-opp-pa-det-morke-nettet-1.17817499",
+      "category": "Datasikkerhet",
+      "pubDate": "Fri, 20 Mar 2026 06:25:39 GMT"
+    },
+    {
+      "title": "Mette-Marit meiner ho blei lurt av Epstein",
+      "link": "https://www.nrk.no/nyheter/mette-marit-meiner-ho-blei-lurt-av-epstein-1.17817491",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Fri, 20 Mar 2026 06:05:49 GMT"
+    },
+    {
+      "title": "Gullmynt med Donald Trump er godkjent til USAs jubileum",
+      "link": "https://www.nrk.no/nyheter/gullmynt-med-donald-trump-er-godkjent-til-usas-jubileum-1.17817449",
+      "category": "USA",
+      "pubDate": "Fri, 20 Mar 2026 05:54:08 GMT"
+    },
+    {
+      "title": "Hafslund vil bygge Norges største kraftanlegg på Aurland",
+      "link": "https://www.nrk.no/vestland/hafslund-vil-bygge-norges-storste-kraftanlegg-pa-aurland_-1.17817420",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 20 Mar 2026 05:30:05 GMT"
+    },
     {
       "title": "Kuwait: Brann på raffineri etter droneangrep",
       "link": "https://www.nrk.no/nyheter/kuwait_-brann-pa-raffineri-etter-droneangrep-1.17817392",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 20 Mar 2026 04:52:20 GMT"
-    },
-    {
-      "title": "Grønt lys for Trump-minnemynt i gull",
-      "link": "https://www.nrk.no/nyheter/gront-lys-for-trump-minnemynt-i-gull-1.17817393",
-      "category": "Donald Trump",
-      "pubDate": "Fri, 20 Mar 2026 04:49:00 GMT"
-    },
-    {
-      "title": "Oljeprisen faller etter uttalelser fra Netanyahu",
-      "link": "https://www.nrk.no/nyheter/oljeprisen-faller-etter-uttalelser-fra-netanyahu-1.17817391",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 03:42:08 GMT"
-    },
-    {
-      "title": "Emiratene og Kuwait melder om nye rakettangrep",
-      "link": "https://www.nrk.no/nyheter/emiratene-og-kuwait-melder-om-nye-rakettangrep-1.17817390",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 02:20:11 GMT"
-    },
-    {
-      "title": "Israel med nytt angrep mot Teheran",
-      "link": "https://www.nrk.no/nyheter/israel-med-nytt-angrep-mot-teheran-1.17817388",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 01:21:41 GMT"
-    },
-    {
-      "title": "USA godkjenner våpensalg til Emiratene",
-      "link": "https://www.nrk.no/nyheter/usa-godkjenner-vapensalg-til-emiratene-1.17817387",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 00:28:04 GMT"
     }
   ]
 }
