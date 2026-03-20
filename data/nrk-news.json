@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-20T06:59:23.029Z",
+  "updatedAt": "2026-03-20T07:51:06.789Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Revolusjonsgarden i Iran avviser Netanyahu-påstand: – Rakettproduksjonen fortsetter",
+      "link": "https://www.nrk.no/nyheter/revolusjonsgarden-i-iran-avviser-netanyahu-pastand_-_-rakettproduksjonen-fortsetter-1.17817568",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 07:15:25 GMT"
+    },
+    {
+      "title": "Israel har angripe fleire mål i Syria",
+      "link": "https://www.nrk.no/nyheter/israel-har-angripe-fleire-mal-i-syria-1.17817535",
+      "category": "Israel og Syria",
+      "pubDate": "Fri, 20 Mar 2026 07:14:40 GMT"
+    },
     {
       "title": "Kronprins Haakon: Visste Mette-Marit kjente Epstein",
       "link": "https://www.nrk.no/nyheter/kronprins-haakon_-visste-mette-marit-kjente-epstein-1.17817521",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/gullmynt-med-donald-trump-er-godkjent-til-usas-jubileum-1.17817449",
       "category": "USA",
       "pubDate": "Fri, 20 Mar 2026 05:54:08 GMT"
-    },
-    {
-      "title": "Hafslund vil bygge Norges største kraftanlegg på Aurland",
-      "link": "https://www.nrk.no/vestland/hafslund-vil-bygge-norges-storste-kraftanlegg-pa-aurland_-1.17817420",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 20 Mar 2026 05:30:05 GMT"
-    },
-    {
-      "title": "Kuwait: Brann på raffineri etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/kuwait_-brann-pa-raffineri-etter-droneangrep-1.17817392",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 04:52:20 GMT"
     }
   ]
 }
