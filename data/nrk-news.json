@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-20T22:31:43.049Z",
+  "updatedAt": "2026-03-20T23:31:37.296Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA åpner for salg av iransk olje i 30 dager",
+      "link": "https://www.nrk.no/nyheter/usa-apner-for-salg-av-iransk-olje-i-30-dager-1.17818974",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 23:14:50 GMT"
+    },
+    {
+      "title": "Ti døde i fabrikkbrann i Sør-Korea",
+      "link": "https://www.nrk.no/nyheter/ti-dode-i-fabrikkbrann-i-sor-korea-1.17818968",
+      "category": "Sør-Korea",
+      "pubDate": "Fri, 20 Mar 2026 22:37:48 GMT"
+    },
     {
       "title": "Ung gutt omkom i trafikkulykke i Lyngdal",
       "link": "https://www.nrk.no/nyheter/ung-gutt-omkom-i-trafikkulykke-i-lyngdal-1.17818967",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/fotgjenger-pakjort-i-alvorlig-trafikkulykke--1.17818847",
       "category": "Nyheter fra Agder",
       "pubDate": "Fri, 20 Mar 2026 18:55:28 GMT"
-    },
-    {
-      "title": "Melding om skudd i Sarpsborg – var fyrverkeri",
-      "link": "https://www.nrk.no/ostfold/melding-om-skudd-i-sarpsborg-_-var-fyrverkeri-1.17818690",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Fri, 20 Mar 2026 18:35:46 GMT"
-    },
-    {
-      "title": "Storbritannia lar USA bruke britiske baser til å beskytte skip i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/storbritannia-lar-usa-bruke-britiske-baser-til-a-beskytte-skip-i-hormuzstredet-1.17818732",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 18:08:23 GMT"
     }
   ]
 }
