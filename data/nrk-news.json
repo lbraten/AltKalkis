@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-20T21:33:05.620Z",
+  "updatedAt": "2026-03-20T22:31:43.049Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ung gutt omkom i trafikkulykke i Lyngdal",
+      "link": "https://www.nrk.no/nyheter/ung-gutt-omkom-i-trafikkulykke-i-lyngdal-1.17818967",
+      "category": "high",
+      "pubDate": "Fri, 20 Mar 2026 22:13:42 GMT"
+    },
     {
       "title": "Norge og flere land fordømmer blokade av Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/norge-og-flere-land-fordommer-blokade-av-hormuzstredet--1.17818954",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/storbritannia-lar-usa-bruke-britiske-baser-til-a-beskytte-skip-i-hormuzstredet-1.17818732",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 20 Mar 2026 18:08:23 GMT"
-    },
-    {
-      "title": "Opphevar opphalds- og ferdselsforbod på Sukkertoppen",
-      "link": "https://www.nrk.no/mr/opphevar-opphalds--og-ferdselsforbod-pa-sukkertoppen-1.17818779",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 20 Mar 2026 17:46:38 GMT"
     }
   ]
 }
