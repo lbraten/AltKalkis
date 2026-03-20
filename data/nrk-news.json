@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-19T23:32:35.867Z",
+  "updatedAt": "2026-03-20T02:23:13.723Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Emiratene og Kuwait melder om nye rakettangrep",
+      "link": "https://www.nrk.no/nyheter/emiratene-og-kuwait-melder-om-nye-rakettangrep-1.17817390",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 02:20:11 GMT"
+    },
+    {
+      "title": "Israel angriper mål i Irans hovedstad",
+      "link": "https://www.nrk.no/nyheter/israel-angriper-mal-i-irans-hovedstad-1.17817388",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 01:21:41 GMT"
+    },
+    {
+      "title": "USA godkjenner våpensalg til Emiratene",
+      "link": "https://www.nrk.no/nyheter/usa-godkjenner-vapensalg-til-emiratene-1.17817387",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 00:28:04 GMT"
+    },
+    {
+      "title": "AC/DC-gitarist Stevie Young innlagt på sykehus",
+      "link": "https://www.nrk.no/nyheter/ac_dc-gitarist-stevie-young-innlagt-pa-sykehus-1.17817385",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 20 Mar 2026 00:24:15 GMT"
+    },
+    {
+      "title": "Merz ber EU-kommisjonen finne andre lånemuligheter til Ukraina",
+      "link": "https://www.nrk.no/nyheter/merz-ber-eu-kommisjonen-finne-andre-lanemuligheter-til-ukraina-1.17817384",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 20 Mar 2026 00:23:00 GMT"
+    },
     {
       "title": "De forente arabiske emirater sier de har stanset «terrornettverk»",
       "link": "https://www.nrk.no/nyheter/de-forente-arabiske-emirater-sier-de-har-stanset-_terrornettverk_-1.17817357",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 19 Mar 2026 22:36:10 GMT"
-    },
-    {
-      "title": "EU frykter ny flyktningkrise etter krig i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/eu-frykter-ny-flyktningkrise-etter-krig-i-midtosten-1.17817332",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 19 Mar 2026 22:07:07 GMT"
-    },
-    {
-      "title": "Professor og språknestor Finn-Erik Vinje (90) er død",
-      "link": "https://www.nrk.no/nyheter/professor-og-spraknestor-finn-erik-vinje-_90_-er-dod-1.17817331",
-      "category": "Språk",
-      "pubDate": "Thu, 19 Mar 2026 21:16:41 GMT"
-    },
-    {
-      "title": "Westerlin: Har slettet Instagram og TikTok",
-      "link": "https://www.nrk.no/nyheter/westerlin_-har-slettet-instagram-og-tiktok-1.17817315",
-      "category": "Sosiale medier",
-      "pubDate": "Thu, 19 Mar 2026 21:06:10 GMT"
-    },
-    {
-      "title": "Fire drept i israelsk angrep i Gaza",
-      "link": "https://www.nrk.no/nyheter/fire-drept-i-israelsk-angrep-i-gaza-1.17817249",
-      "category": "Krigen i Gaza",
-      "pubDate": "Thu, 19 Mar 2026 20:14:48 GMT"
-    },
-    {
-      "title": "Zelenskyj: Forhandlere på vei til USA for nye Russland-samtaler",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-forhandlere-pa-vei-til-usa-for-nye-russland-samtaler-1.17817226",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 19 Mar 2026 19:40:16 GMT"
     }
   ]
 }
