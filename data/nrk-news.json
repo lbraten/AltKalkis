@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-20T18:01:20.231Z",
+  "updatedAt": "2026-03-20T19:12:21.410Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig trafikkulykke i Lyngdal",
+      "link": "https://www.nrk.no/sorlandet/alvorlig-trafikkulykke-i-lyngdal--1.17818847",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 20 Mar 2026 18:55:28 GMT"
+    },
+    {
+      "title": "Melding om skudd i Sarpsborg – var fyrverkeri",
+      "link": "https://www.nrk.no/ostfold/melding-om-skudd-i-sarpsborg-_-var-fyrverkeri-1.17818690",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Fri, 20 Mar 2026 18:35:46 GMT"
+    },
+    {
+      "title": "Storbritannia lar USA bruke britiske baser til å beskytte skip i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/storbritannia-lar-usa-bruke-britiske-baser-til-a-beskytte-skip-i-hormuzstredet-1.17818732",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 18:08:23 GMT"
+    },
     {
       "title": "Opphevar opphalds- og ferdselsforbod på Sukkertoppen",
       "link": "https://www.nrk.no/mr/opphevar-opphalds--og-ferdselsforbod-pa-sukkertoppen-1.17818779",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/mange-fikk-frostskader-etter-holmenkollmarsjen-1.17818494",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 20 Mar 2026 17:03:54 GMT"
-    },
-    {
-      "title": "Circle K-ladere fungerer igjen",
-      "link": "https://www.nrk.no/nyheter/circle-k-ladere-fungerer-igjen-1.17818710",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 20 Mar 2026 16:49:52 GMT"
-    },
-    {
-      "title": "Snø skaper problemer på Tenerife",
-      "link": "https://www.nrk.no/nyheter/sno-skaper-problemer-pa-tenerife-1.17818693",
-      "category": "Kanariøyene",
-      "pubDate": "Fri, 20 Mar 2026 16:36:54 GMT"
-    },
-    {
-      "title": "Alle ladestasjonene til Circle K ute av drift i hele landet",
-      "link": "https://www.nrk.no/nyheter/alle-ladestasjonene-til-circle-k-ute-av-drift-i-hele-landet-1.17818662",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 20 Mar 2026 16:16:10 GMT"
     }
   ]
 }
