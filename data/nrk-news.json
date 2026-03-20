@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-20T19:56:16.296Z",
+  "updatedAt": "2026-03-20T20:39:14.707Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump vil ikke ha noen våpenhvile med Iran",
+      "link": "https://www.nrk.no/nyheter/trump-vil-ikke-ha-noen-vapenhvile-med-iran-1.17818814",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 19:58:07 GMT"
+    },
     {
       "title": "Alvorlig trafikkulykke i Lyngdal",
       "link": "https://www.nrk.no/sorlandet/alvorlig-trafikkulykke-i-lyngdal--1.17818847",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/person-skal-ha-blitt-slatt-og-truet-med-kniv-i-eigersund-1.17818760",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 20 Mar 2026 17:12:15 GMT"
-    },
-    {
-      "title": "Mange fikk frostskader etter Holmenkollmarsjen",
-      "link": "https://www.nrk.no/stor-oslo/mange-fikk-frostskader-etter-holmenkollmarsjen-1.17818494",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 20 Mar 2026 17:03:54 GMT"
     }
   ]
 }
