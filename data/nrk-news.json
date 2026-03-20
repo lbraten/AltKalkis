@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-20T20:39:14.707Z",
+  "updatedAt": "2026-03-20T21:33:05.620Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge og flere land fordømmer blokade av Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/norge-og-flere-land-fordommer-blokade-av-hormuzstredet--1.17818954",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 21:25:58 GMT"
+    },
     {
       "title": "Trump vil ikke ha noen våpenhvile med Iran",
       "link": "https://www.nrk.no/nyheter/trump-vil-ikke-ha-noen-vapenhvile-med-iran-1.17818814",
@@ -9,8 +15,8 @@
       "pubDate": "Fri, 20 Mar 2026 19:58:07 GMT"
     },
     {
-      "title": "Alvorlig trafikkulykke i Lyngdal",
-      "link": "https://www.nrk.no/sorlandet/alvorlig-trafikkulykke-i-lyngdal--1.17818847",
+      "title": "Fotgjenger påkjørt i alvorlig trafikkulykke",
+      "link": "https://www.nrk.no/sorlandet/fotgjenger-pakjort-i-alvorlig-trafikkulykke--1.17818847",
       "category": "Nyheter fra Agder",
       "pubDate": "Fri, 20 Mar 2026 18:55:28 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/mr/opphevar-opphalds--og-ferdselsforbod-pa-sukkertoppen-1.17818779",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Fri, 20 Mar 2026 17:46:38 GMT"
-    },
-    {
-      "title": "Person skal ha blitt slått og truet med kniv i Eigersund",
-      "link": "https://www.nrk.no/rogaland/person-skal-ha-blitt-slatt-og-truet-med-kniv-i-eigersund-1.17818760",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 20 Mar 2026 17:12:15 GMT"
     }
   ]
 }
