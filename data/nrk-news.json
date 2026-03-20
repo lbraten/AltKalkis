@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-20T17:09:36.630Z",
+  "updatedAt": "2026-03-20T18:01:20.231Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Opphevar opphalds- og ferdselsforbod på Sukkertoppen",
+      "link": "https://www.nrk.no/mr/opphevar-opphalds--og-ferdselsforbod-pa-sukkertoppen-1.17818779",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 20 Mar 2026 17:46:38 GMT"
+    },
+    {
+      "title": "Person skal ha blitt slått og truet med kniv i Eigersund",
+      "link": "https://www.nrk.no/rogaland/person-skal-ha-blitt-slatt-og-truet-med-kniv-i-eigersund-1.17818760",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 20 Mar 2026 17:12:15 GMT"
+    },
+    {
+      "title": "Mange fikk frostskader etter Holmenkollmarsjen",
+      "link": "https://www.nrk.no/stor-oslo/mange-fikk-frostskader-etter-holmenkollmarsjen-1.17818494",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 20 Mar 2026 17:03:54 GMT"
+    },
     {
       "title": "Circle K-ladere fungerer igjen",
       "link": "https://www.nrk.no/nyheter/circle-k-ladere-fungerer-igjen-1.17818710",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/alle-ladestasjonene-til-circle-k-ute-av-drift-i-hele-landet-1.17818662",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Fri, 20 Mar 2026 16:16:10 GMT"
-    },
-    {
-      "title": "USA sender flere styrker til Midtøsten",
-      "link": "https://www.nrk.no/nyheter/usa-sender-flere-styrker-til-midtosten-1.17818640",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 15:47:29 GMT"
-    },
-    {
-      "title": "Tommy Olsen løslates",
-      "link": "https://www.nrk.no/tromsogfinnmark/tommy-olsen-loslates-1.17818577",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 20 Mar 2026 15:46:33 GMT"
-    },
-    {
-      "title": "New York Times: Colombias president etterforskes i USA",
-      "link": "https://www.nrk.no/nyheter/new-york-times_-colombias-president-etterforskes-i-usa-1.17818637",
-      "category": "Colombia",
-      "pubDate": "Fri, 20 Mar 2026 15:29:29 GMT"
     }
   ]
 }
