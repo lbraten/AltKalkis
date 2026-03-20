@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-20T04:25:43.978Z",
+  "updatedAt": "2026-03-20T05:35:15.731Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kuwait: Brann på raffineri etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/kuwait_-brann-pa-raffineri-etter-droneangrep-1.17817392",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 04:52:20 GMT"
+    },
+    {
+      "title": "Grønt lys for Trump-minnemynt i gull",
+      "link": "https://www.nrk.no/nyheter/gront-lys-for-trump-minnemynt-i-gull-1.17817393",
+      "category": "Donald Trump",
+      "pubDate": "Fri, 20 Mar 2026 04:49:00 GMT"
+    },
     {
       "title": "Oljeprisen faller etter uttalelser fra Netanyahu",
       "link": "https://www.nrk.no/nyheter/oljeprisen-faller-etter-uttalelser-fra-netanyahu-1.17817391",
@@ -15,8 +27,8 @@
       "pubDate": "Fri, 20 Mar 2026 02:20:11 GMT"
     },
     {
-      "title": "Israel angriper mål i Irans hovedstad",
-      "link": "https://www.nrk.no/nyheter/israel-angriper-mal-i-irans-hovedstad-1.17817388",
+      "title": "Israel med nytt angrep mot Teheran",
+      "link": "https://www.nrk.no/nyheter/israel-med-nytt-angrep-mot-teheran-1.17817388",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 20 Mar 2026 01:21:41 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-godkjenner-vapensalg-til-emiratene-1.17817387",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 20 Mar 2026 00:28:04 GMT"
-    },
-    {
-      "title": "AC/DC-gitarist Stevie Young innlagt på sykehus",
-      "link": "https://www.nrk.no/nyheter/ac_dc-gitarist-stevie-young-innlagt-pa-sykehus-1.17817385",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 20 Mar 2026 00:24:15 GMT"
-    },
-    {
-      "title": "Merz ber EU-kommisjonen finne andre lånemuligheter til Ukraina",
-      "link": "https://www.nrk.no/nyheter/merz-ber-eu-kommisjonen-finne-andre-lanemuligheter-til-ukraina-1.17817384",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 20 Mar 2026 00:23:00 GMT"
     }
   ]
 }
