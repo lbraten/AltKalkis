@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-20T16:06:13.808Z",
+  "updatedAt": "2026-03-20T17:09:36.630Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Circle K-ladere fungerer igjen",
+      "link": "https://www.nrk.no/nyheter/circle-k-ladere-fungerer-igjen-1.17818710",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 20 Mar 2026 16:49:52 GMT"
+    },
+    {
+      "title": "Snø skaper problemer på Tenerife",
+      "link": "https://www.nrk.no/nyheter/sno-skaper-problemer-pa-tenerife-1.17818693",
+      "category": "Kanariøyene",
+      "pubDate": "Fri, 20 Mar 2026 16:36:54 GMT"
+    },
+    {
+      "title": "Alle ladestasjonene til Circle K ute av drift i hele landet",
+      "link": "https://www.nrk.no/nyheter/alle-ladestasjonene-til-circle-k-ute-av-drift-i-hele-landet-1.17818662",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 20 Mar 2026 16:16:10 GMT"
+    },
     {
       "title": "USA sender flere styrker til Midtøsten",
       "link": "https://www.nrk.no/nyheter/usa-sender-flere-styrker-til-midtosten-1.17818640",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/new-york-times_-colombias-president-etterforskes-i-usa-1.17818637",
       "category": "Colombia",
       "pubDate": "Fri, 20 Mar 2026 15:29:29 GMT"
-    },
-    {
-      "title": "Endrer ikke beslutning om beskytterskap",
-      "link": "https://www.nrk.no/nyheter/endrer-ikke-beslutning-om-beskytterskap-1.17818621",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Fri, 20 Mar 2026 15:28:03 GMT"
-    },
-    {
-      "title": "Forsvarsministeren: Alle norske soldater ute av Irak",
-      "link": "https://www.nrk.no/nyheter/forsvarsministeren_-alle-norske-soldater-ute-av-irak-1.17818584",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 15:10:50 GMT"
-    },
-    {
-      "title": "Brannen i Ålesund: Kan bli aktuelt med mobilsporing",
-      "link": "https://www.nrk.no/mr/brannen-i-alesund_-kan-bli-aktuelt-med-mobilsporing-1.17818580",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 20 Mar 2026 15:03:12 GMT"
     }
   ]
 }
