@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-20T07:51:06.789Z",
+  "updatedAt": "2026-03-20T08:45:09.894Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "14 savnet og over 50 skadet i fabrikkbrann i Sør-Korea",
+      "link": "https://www.nrk.no/nyheter/14-savnet-og-over-50-skadet-i-fabrikkbrann-i-sor-korea-1.17817723",
+      "category": "Sør-Korea",
+      "pubDate": "Fri, 20 Mar 2026 08:33:41 GMT"
+    },
+    {
+      "title": "Røde Kors: Glad for utfyllande forklaring frå kronprinsessa",
+      "link": "https://www.nrk.no/nyheter/rode-kors_-glad-for-utfyllande-forklaring-fra-kronprinsessa-1.17817691",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Fri, 20 Mar 2026 08:33:08 GMT"
+    },
+    {
+      "title": "Iran: Talsmann for Revolusjonsgarden drepen i angrep",
+      "link": "https://www.nrk.no/nyheter/iran_-talsmann-for-revolusjonsgarden-drepen-i-angrep-1.17817569",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 08:14:00 GMT"
+    },
     {
       "title": "Revolusjonsgarden i Iran avviser Netanyahu-påstand: – Rakettproduksjonen fortsetter",
       "link": "https://www.nrk.no/nyheter/revolusjonsgarden-i-iran-avviser-netanyahu-pastand_-_-rakettproduksjonen-fortsetter-1.17817568",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kronprins-haakon_-visste-mette-marit-kjente-epstein-1.17817521",
       "category": "Epsteins norske forbindelser",
       "pubDate": "Fri, 20 Mar 2026 06:46:56 GMT"
-    },
-    {
-      "title": "Ein av fire stortingspolitikarar dukkar opp på det mørke nettet",
-      "link": "https://www.nrk.no/nyheter/ein-av-fire-stortingspolitikarar-dukkar-opp-pa-det-morke-nettet-1.17817499",
-      "category": "Datasikkerhet",
-      "pubDate": "Fri, 20 Mar 2026 06:25:39 GMT"
-    },
-    {
-      "title": "Mette-Marit meiner ho blei lurt av Epstein",
-      "link": "https://www.nrk.no/nyheter/mette-marit-meiner-ho-blei-lurt-av-epstein-1.17817491",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Fri, 20 Mar 2026 06:05:49 GMT"
-    },
-    {
-      "title": "Gullmynt med Donald Trump er godkjent til USAs jubileum",
-      "link": "https://www.nrk.no/nyheter/gullmynt-med-donald-trump-er-godkjent-til-usas-jubileum-1.17817449",
-      "category": "USA",
-      "pubDate": "Fri, 20 Mar 2026 05:54:08 GMT"
     }
   ]
 }
