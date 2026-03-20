@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-20T11:33:44.427Z",
+  "updatedAt": "2026-03-20T13:05:01.692Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 100 pågrepet i Emiratene",
+      "link": "https://www.nrk.no/nyheter/over-100-pagrepet-i-emiratene-1.17818294",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 20 Mar 2026 12:54:10 GMT"
+    },
+    {
+      "title": "Sveits stoppar våpeneksporten til USA",
+      "link": "https://www.nrk.no/nyheter/sveits-stoppar-vapeneksporten-til-usa-1.17818005",
+      "category": "Sveits",
+      "pubDate": "Fri, 20 Mar 2026 12:24:31 GMT"
+    },
+    {
+      "title": "PST om «utrygg-hendinga» til kronprinsessa: – Kommenterer ikkje enkeltepisodar",
+      "link": "https://www.nrk.no/nyheter/pst-om-_utrygg-hendinga_-til-kronprinsessa_-_-kommenterer-ikkje-enkeltepisodar-1.17818099",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Fri, 20 Mar 2026 12:11:49 GMT"
+    },
     {
       "title": "Søreide: – Kronprinsessen har utøvd dårlig dømmekraft",
       "link": "https://www.nrk.no/nyheter/soreide_-_-kronprinsessen-har-utovd-darlig-dommekraft-1.17817443",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/mr/regjeringa-foreslar-cruiseavgift-1.17817919",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Fri, 20 Mar 2026 10:42:23 GMT"
-    },
-    {
-      "title": "Blå Kors: Naturlig for oss å fortsette samarbeidet med kronprinsessen",
-      "link": "https://www.nrk.no/nyheter/bla-kors_-naturlig-for-oss-a-fortsette-samarbeidet-med-kronprinsessen-1.17817943",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Fri, 20 Mar 2026 10:22:22 GMT"
-    },
-    {
-      "title": "Sørkoreansk scenekunstnar får Ibsenprisen",
-      "link": "https://www.nrk.no/nyheter/sorkoreansk-scenekunstnar-far-ibsenprisen-1.17817893",
-      "category": "Teater og scene",
-      "pubDate": "Fri, 20 Mar 2026 10:19:21 GMT"
-    },
-    {
-      "title": "Kilder til NRK: Her er omstillingskommisjonen",
-      "link": "https://www.nrk.no/nyheter/kilder-til-nrk_-her-er-omstillingskommisjonen-1.17817881",
-      "category": "Statsbudsjettet 2026",
-      "pubDate": "Fri, 20 Mar 2026 09:58:50 GMT"
     }
   ]
 }
