@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T21:50:24.608Z",
+  "updatedAt": "2026-03-21T22:28:28.857Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Pågrepet på lufthavn mistenkt for tyverier flere steder i Norge",
+      "link": "https://www.nrk.no/nyheter/pagrepet-pa-lufthavn-mistenkt-for-tyverier-flere-steder-i-norge-1.17819652",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 21 Mar 2026 22:00:16 GMT"
+    },
     {
       "title": "WHO: Minst 64 personer drept i Sudan",
       "link": "https://www.nrk.no/nyheter/who_-minst-64-personer-drept-i-sudan-1.17819651",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/en-pagrepet-etter-mistenkelig-dodsfall-i-baerum-1.17819605",
       "category": "high",
       "pubDate": "Sat, 21 Mar 2026 20:14:35 GMT"
-    },
-    {
-      "title": "Norsk 25-åring omkom i arbeidsulykke i Sverige",
-      "link": "https://www.nrk.no/innlandet/norsk-25-aring-omkom-i-arbeidsulykke-i-sverige-1.17819459",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 21 Mar 2026 19:51:07 GMT"
     }
   ]
 }
