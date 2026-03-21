@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-21T23:28:22.461Z",
+  "updatedAt": "2026-03-21T23:51:34.943Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump truer med å bombe kraftverk i Iran",
+      "link": "https://www.nrk.no/nyheter/trump-truer-med-a-bombe-kraftverk-i-iran-1.17819668",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 23:47:46 GMT"
+    },
+    {
+      "title": "Britisk atomubåt på plass nær Iran",
+      "link": "https://www.nrk.no/nyheter/britisk-atomubat-pa-plass-naer-iran-1.17819667",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 23:38:09 GMT"
+    },
     {
       "title": "To hentet ut fra hus etter røykutvikling i Asker",
       "link": "https://www.nrk.no/nyheter/to-hentet-ut-fra-hus-etter-roykutvikling-i-asker-1.17819666",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/pagrepet-pa-lufthavn-mistenkt-for-tyverier-flere-steder-i-norge-1.17819652",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 21 Mar 2026 22:00:16 GMT"
-    },
-    {
-      "title": "WHO: Minst 64 personer drept i Sudan",
-      "link": "https://www.nrk.no/nyheter/who_-minst-64-personer-drept-i-sudan-1.17819651",
-      "category": "Sudan",
-      "pubDate": "Sat, 21 Mar 2026 21:50:14 GMT"
-    },
-    {
-      "title": "Netanyahu lover å fortsette angrepene",
-      "link": "https://www.nrk.no/nyheter/netanyahu-lover-a-fortsette-angrepene-1.17819636",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 21:49:24 GMT"
     }
   ]
 }
