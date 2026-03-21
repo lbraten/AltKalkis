@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-21T17:28:00.156Z",
+  "updatedAt": "2026-03-21T17:52:40.216Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To menn siktet – ikke pågrepet",
+      "link": "https://www.nrk.no/nyheter/to-menn-siktet-_-ikke-pagrepet-1.17819479",
+      "category": "To personer funnet døde på Karmøy",
+      "pubDate": "Sat, 21 Mar 2026 17:45:54 GMT"
+    },
+    {
+      "title": "Tidligere FBI-sjef Robert Mueller (81) er død",
+      "link": "https://www.nrk.no/nyheter/tidligere-fbi-sjef-robert-mueller-_81_-er-dod-1.17819412",
+      "category": "USA",
+      "pubDate": "Sat, 21 Mar 2026 17:31:41 GMT"
+    },
+    {
+      "title": "Utenlandsk turfølge brøt droneforbudet ved Ramsund",
+      "link": "https://www.nrk.no/tromsogfinnmark/utenlandsk-turfolge-brot-droneforbudet-ved-ramsund-1.17819463",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 21 Mar 2026 17:15:52 GMT"
+    },
     {
       "title": "Ny måling: Stor tillit til kronprins Haakon",
       "link": "https://www.nrk.no/nyheter/ny-maling_-stor-tillit-til-kronprins-haakon-1.17819445",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/rogaland/melding-om-apne-flammer-pa-karmoy-_-var-royk-fra-balpanne-1.17819360",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 21 Mar 2026 15:54:51 GMT"
-    },
-    {
-      "title": "USA hevder de har angrepet 8000 mål i Iran",
-      "link": "https://www.nrk.no/nyheter/usa-hevder-de-har-angrepet-8000-mal-i-iran-1.17819389",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 15:45:00 GMT"
-    },
-    {
-      "title": "Beredskapstroppen til Karmøy",
-      "link": "https://www.nrk.no/nyheter/beredskapstroppen-til-karmoy-1.17819387",
-      "category": "To personer funnet døde på Karmøy",
-      "pubDate": "Sat, 21 Mar 2026 15:37:19 GMT"
-    },
-    {
-      "title": "Mistenker drap",
-      "link": "https://www.nrk.no/nyheter/mistenker-drap-1.17819285",
-      "category": "To personer funnet døde på Karmøy",
-      "pubDate": "Sat, 21 Mar 2026 15:33:20 GMT"
     }
   ]
 }
