@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-21T17:52:40.216Z",
+  "updatedAt": "2026-03-21T18:39:28.490Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel: Iransk missil har truffet by med atomkraftverk",
+      "link": "https://www.nrk.no/nyheter/israel_-iransk-missil-har-truffet-by-med-atomkraftverk-1.17819496",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 18:32:49 GMT"
+    },
+    {
+      "title": "To menn er pågrepet",
+      "link": "https://www.nrk.no/nyheter/to-menn_er-pagrepet-1.17819487",
+      "category": "To personer funnet døde på Karmøy",
+      "pubDate": "Sat, 21 Mar 2026 18:00:25 GMT"
+    },
     {
       "title": "To menn siktet – ikke pågrepet",
       "link": "https://www.nrk.no/nyheter/to-menn-siktet-_-ikke-pagrepet-1.17819479",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ny-maling_-stor-tillit-til-kronprins-haakon-1.17819445",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 21 Mar 2026 16:46:50 GMT"
-    },
-    {
-      "title": "Tror det er samme gjerningsperson bak to drap",
-      "link": "https://www.nrk.no/nyheter/tror-det-er-samme-gjerningsperson-bak-to-drap-1.17819400",
-      "category": "To personer funnet døde på Karmøy",
-      "pubDate": "Sat, 21 Mar 2026 15:57:11 GMT"
-    },
-    {
-      "title": "Melding om åpne flammer på Karmøy – var røyk fra bålpanne",
-      "link": "https://www.nrk.no/rogaland/melding-om-apne-flammer-pa-karmoy-_-var-royk-fra-balpanne-1.17819360",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 21 Mar 2026 15:54:51 GMT"
     }
   ]
 }
