@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-21T21:28:11.685Z",
+  "updatedAt": "2026-03-21T21:50:24.608Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "WHO: Minst 64 personer drept i Sudan",
+      "link": "https://www.nrk.no/nyheter/who_-minst-64-personer-drept-i-sudan-1.17819651",
+      "category": "Sudan",
+      "pubDate": "Sat, 21 Mar 2026 21:50:14 GMT"
+    },
+    {
+      "title": "Netanyahu lover å fortsette angrepene",
+      "link": "https://www.nrk.no/nyheter/netanyahu-lover-a-fortsette-angrepene-1.17819636",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 21:49:24 GMT"
+    },
     {
       "title": "Mann i 60-årene siktet for drap i Bærum",
       "link": "https://www.nrk.no/nyheter/mann-i-60-arene-siktet-for-drap-i-baerum-1.17819619",
@@ -9,8 +21,8 @@
       "pubDate": "Sat, 21 Mar 2026 20:54:48 GMT"
     },
     {
-      "title": "Minst 60 såret i angrep sør i Israel",
-      "link": "https://www.nrk.no/nyheter/minst-60-saret-i-angrep-sor-i-israel-1.17819606",
+      "title": "Over 90 såret i flere angrep sør i Israel",
+      "link": "https://www.nrk.no/nyheter/over-90-saret-i-flere-angrep-sor-i-israel-1.17819606",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 21 Mar 2026 20:51:27 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/innlandet/norsk-25-aring-omkom-i-arbeidsulykke-i-sverige-1.17819459",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sat, 21 Mar 2026 19:51:07 GMT"
-    },
-    {
-      "title": "Ikke registrert unormale strålingsnivåer etter angrep",
-      "link": "https://www.nrk.no/nyheter/ikke-registrert-unormale-stralingsnivaer-etter-angrep-1.17819528",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 19:49:15 GMT"
-    },
-    {
-      "title": "Iransk missil har truffet by med atomkraftverk",
-      "link": "https://www.nrk.no/nyheter/iransk-missil-har-truffet-by-med-atomkraftverk-1.17819496",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 18:32:49 GMT"
     }
   ]
 }
