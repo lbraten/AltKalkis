@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-21T20:30:12.762Z",
+  "updatedAt": "2026-03-21T21:28:11.685Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann i 60-årene siktet for drap i Bærum",
+      "link": "https://www.nrk.no/nyheter/mann-i-60-arene-siktet-for-drap-i-baerum-1.17819619",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 21 Mar 2026 20:54:48 GMT"
+    },
+    {
+      "title": "Minst 60 såret i angrep sør i Israel",
+      "link": "https://www.nrk.no/nyheter/minst-60-saret-i-angrep-sor-i-israel-1.17819606",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 20:51:27 GMT"
+    },
     {
       "title": "En pågrepet etter mistenkelig dødsfall i Bærum",
       "link": "https://www.nrk.no/stor-oslo/en-pagrepet-etter-mistenkelig-dodsfall-i-baerum-1.17819605",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iransk-missil-har-truffet-by-med-atomkraftverk-1.17819496",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 21 Mar 2026 18:32:49 GMT"
-    },
-    {
-      "title": "To menn er pågrepet",
-      "link": "https://www.nrk.no/nyheter/to-menn_er-pagrepet-1.17819487",
-      "category": "To personer funnet døde på Karmøy",
-      "pubDate": "Sat, 21 Mar 2026 18:00:25 GMT"
-    },
-    {
-      "title": "To menn siktet – ikke pågrepet",
-      "link": "https://www.nrk.no/nyheter/to-menn-siktet-_-ikke-pagrepet-1.17819479",
-      "category": "To personer funnet døde på Karmøy",
-      "pubDate": "Sat, 21 Mar 2026 17:45:54 GMT"
     }
   ]
 }
