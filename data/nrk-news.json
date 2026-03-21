@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T16:33:33.393Z",
+  "updatedAt": "2026-03-21T17:28:00.156Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ny måling: Stor tillit til kronprins Haakon",
+      "link": "https://www.nrk.no/nyheter/ny-maling_-stor-tillit-til-kronprins-haakon-1.17819445",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 21 Mar 2026 16:46:50 GMT"
+    },
     {
       "title": "Tror det er samme gjerningsperson bak to drap",
       "link": "https://www.nrk.no/nyheter/tror-det-er-samme-gjerningsperson-bak-to-drap-1.17819400",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mistenker-drap-1.17819285",
       "category": "To personer funnet døde på Karmøy",
       "pubDate": "Sat, 21 Mar 2026 15:33:20 GMT"
-    },
-    {
-      "title": "Norge jobber for å løse krisen i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/norge-jobber-for-a-lose-krisen-i_hormuzstredet-1.17819273",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 13:53:48 GMT"
     }
   ]
 }
