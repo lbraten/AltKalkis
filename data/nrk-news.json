@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T07:52:55.820Z",
+  "updatedAt": "2026-03-21T08:36:55.865Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "VG: Sjåfør siktet etter dødsulykke i Lyngdal",
+      "link": "https://www.nrk.no/nyheter/vg_-sjafor-siktet-etter-dodsulykke-i-lyngdal-1.17819019",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 21 Mar 2026 08:11:56 GMT"
+    },
     {
       "title": "Åtte turister hentet ut av skredterreng",
       "link": "https://www.nrk.no/tromsogfinnmark/atte-turister-hentet-ut-av-skredterreng-1.17819004",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/saudi-arabia-fordommer-israelske-angrep-i-syria-1.17818988",
       "category": "Israel og Syria",
       "pubDate": "Sat, 21 Mar 2026 02:54:05 GMT"
-    },
-    {
-      "title": "Drone- og rakettangrep mot Kuwait",
-      "link": "https://www.nrk.no/nyheter/drone--og-rakettangrep-mot-kuwait-1.17818987",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 02:40:22 GMT"
     }
   ]
 }
