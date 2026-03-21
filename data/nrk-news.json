@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-21T22:53:40.536Z",
+  "updatedAt": "2026-03-21T23:28:22.461Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To hentet ut fra hus etter røykutvikling i Asker",
+      "link": "https://www.nrk.no/nyheter/to-hentet-ut-fra-hus-etter-roykutvikling-i-asker-1.17819666",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 21 Mar 2026 23:26:17 GMT"
+    },
+    {
+      "title": "Cuba mørklagt igjen",
+      "link": "https://www.nrk.no/nyheter/cuba-morklagt-igjen-1.17819664",
+      "category": "Cuba",
+      "pubDate": "Sat, 21 Mar 2026 23:25:33 GMT"
+    },
+    {
+      "title": "Fotballbråk i Trondheim",
+      "link": "https://www.nrk.no/nyheter/fotballbrak-i-trondheim-1.17819653",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 21 Mar 2026 23:10:27 GMT"
+    },
     {
       "title": "Pågrepet på lufthavn mistenkt for tyverier flere steder i Norge",
       "link": "https://www.nrk.no/nyheter/pagrepet-pa-lufthavn-mistenkt-for-tyverier-flere-steder-i-norge-1.17819652",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/netanyahu-lover-a-fortsette-angrepene-1.17819636",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 21 Mar 2026 21:49:24 GMT"
-    },
-    {
-      "title": "Mann i 60-årene siktet for drap i Bærum",
-      "link": "https://www.nrk.no/nyheter/mann-i-60-arene-siktet-for-drap-i-baerum-1.17819619",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 21 Mar 2026 20:54:48 GMT"
-    },
-    {
-      "title": "Over 90 såret i flere angrep sør i Israel",
-      "link": "https://www.nrk.no/nyheter/over-90-saret-i-flere-angrep-sor-i-israel-1.17819606",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 20:51:27 GMT"
-    },
-    {
-      "title": "En pågrepet etter mistenkelig dødsfall i Bærum",
-      "link": "https://www.nrk.no/stor-oslo/en-pagrepet-etter-mistenkelig-dodsfall-i-baerum-1.17819605",
-      "category": "high",
-      "pubDate": "Sat, 21 Mar 2026 20:14:35 GMT"
     }
   ]
 }
