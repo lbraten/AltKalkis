@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-20T23:31:37.296Z",
+  "updatedAt": "2026-03-21T02:10:25.812Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "USA åpner for salg av iransk olje i 30 dager",
-      "link": "https://www.nrk.no/nyheter/usa-apner-for-salg-av-iransk-olje-i-30-dager-1.17818974",
+      "title": "Elon Musk funnet skyldig i å ha villedet aksjonærer",
+      "link": "https://www.nrk.no/nyheter/elon-musk-funnet-skyldig-i-a-ha-villedet-aksjonaerer-1.17818984",
+      "category": "Elon Musk",
+      "pubDate": "Sat, 21 Mar 2026 02:09:14 GMT"
+    },
+    {
+      "title": "Iran vurderer å åpne Hormuzstredet for Japan",
+      "link": "https://www.nrk.no/nyheter/iran-vurderer-a-apne-hormuzstredet-for-japan-1.17818983",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 23:14:50 GMT"
+      "pubDate": "Sat, 21 Mar 2026 01:35:48 GMT"
     },
     {
-      "title": "Ti døde i fabrikkbrann i Sør-Korea",
-      "link": "https://www.nrk.no/nyheter/ti-dode-i-fabrikkbrann-i-sor-korea-1.17818968",
-      "category": "Sør-Korea",
-      "pubDate": "Fri, 20 Mar 2026 22:37:48 GMT"
+      "title": "Cuba sier nei til dieselimport til USAs ambassade",
+      "link": "https://www.nrk.no/nyheter/cuba-sier-nei-til-dieselimport-til-usas-ambassade-1.17818982",
+      "category": "Cuba",
+      "pubDate": "Sat, 21 Mar 2026 00:59:32 GMT"
     },
     {
-      "title": "Ung gutt omkom i trafikkulykke i Lyngdal",
-      "link": "https://www.nrk.no/nyheter/ung-gutt-omkom-i-trafikkulykke-i-lyngdal-1.17818967",
-      "category": "high",
-      "pubDate": "Fri, 20 Mar 2026 22:13:42 GMT"
-    },
-    {
-      "title": "Norge og flere land fordømmer blokade av Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/norge-og-flere-land-fordommer-blokade-av-hormuzstredet--1.17818954",
+      "title": "Iran har sendt raketter mot amerikansk-britisk militærbase i Indiahavet",
+      "link": "https://www.nrk.no/nyheter/iran-har-sendt-raketter-mot-amerikansk-britisk-militaerbase-i-indiahavet-1.17818980",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 21:25:58 GMT"
+      "pubDate": "Sat, 21 Mar 2026 00:33:52 GMT"
     },
     {
-      "title": "Trump vil ikke ha noen våpenhvile med Iran",
-      "link": "https://www.nrk.no/nyheter/trump-vil-ikke-ha-noen-vapenhvile-med-iran-1.17818814",
+      "title": "Israel angriper Beirut i natt",
+      "link": "https://www.nrk.no/nyheter/israel-angriper-beirut-i-natt-1.17818978",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 20 Mar 2026 19:58:07 GMT"
+      "pubDate": "Sat, 21 Mar 2026 00:29:16 GMT"
     },
     {
-      "title": "Fotgjenger påkjørt i alvorlig trafikkulykke",
-      "link": "https://www.nrk.no/sorlandet/fotgjenger-pakjort-i-alvorlig-trafikkulykke--1.17818847",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Fri, 20 Mar 2026 18:55:28 GMT"
+      "title": "Helikopter måtte hente skiturister i Nordreisa",
+      "link": "https://www.nrk.no/nyheter/helikopter-matte-hente-skiturister-i-nordreisa-1.17818979",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 21 Mar 2026 00:19:08 GMT"
     }
   ]
 }
