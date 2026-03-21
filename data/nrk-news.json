@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T07:08:58.366Z",
+  "updatedAt": "2026-03-21T07:52:55.820Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Åtte turister hentet ut av skredterreng",
+      "link": "https://www.nrk.no/tromsogfinnmark/atte-turister-hentet-ut-av-skredterreng-1.17819004",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 21 Mar 2026 07:20:10 GMT"
+    },
     {
       "title": "FT: EU-kommisjonen ber medlemslandene senke mål for gasslagrene",
       "link": "https://www.nrk.no/nyheter/ft_-eu-kommisjonen-ber-medlemslandene-senke-mal-for-gasslagrene-1.17818991",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/drone--og-rakettangrep-mot-kuwait-1.17818987",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 21 Mar 2026 02:40:22 GMT"
-    },
-    {
-      "title": "Over 20 droner skutt ned i Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/over-20-droner-skutt-ned-i-saudi-arabia-1.17818986",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 02:39:11 GMT"
     }
   ]
 }
