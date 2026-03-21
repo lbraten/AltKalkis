@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-21T02:10:25.812Z",
+  "updatedAt": "2026-03-21T04:16:57.228Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran truer Emiratene med angrep over øystrid",
+      "link": "https://www.nrk.no/nyheter/iran-truer-emiratene-med-angrep-over-oystrid-1.17818989",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 03:16:41 GMT"
+    },
+    {
+      "title": "Saudi-Arabia fordømmer israelske angrep i Syria",
+      "link": "https://www.nrk.no/nyheter/saudi-arabia-fordommer-israelske-angrep-i-syria-1.17818988",
+      "category": "Israel og Syria",
+      "pubDate": "Sat, 21 Mar 2026 02:54:05 GMT"
+    },
+    {
+      "title": "Drone- og rakettangrep mot Kuwait",
+      "link": "https://www.nrk.no/nyheter/drone--og-rakettangrep-mot-kuwait-1.17818987",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 02:40:22 GMT"
+    },
+    {
+      "title": "Over 20 droner skutt ned i Saudi-Arabia",
+      "link": "https://www.nrk.no/nyheter/over-20-droner-skutt-ned-i-saudi-arabia-1.17818986",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 02:39:11 GMT"
+    },
     {
       "title": "Elon Musk funnet skyldig i å ha villedet aksjonærer",
       "link": "https://www.nrk.no/nyheter/elon-musk-funnet-skyldig-i-a-ha-villedet-aksjonaerer-1.17818984",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-vurderer-a-apne-hormuzstredet-for-japan-1.17818983",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 21 Mar 2026 01:35:48 GMT"
-    },
-    {
-      "title": "Cuba sier nei til dieselimport til USAs ambassade",
-      "link": "https://www.nrk.no/nyheter/cuba-sier-nei-til-dieselimport-til-usas-ambassade-1.17818982",
-      "category": "Cuba",
-      "pubDate": "Sat, 21 Mar 2026 00:59:32 GMT"
-    },
-    {
-      "title": "Iran har sendt raketter mot amerikansk-britisk militærbase i Indiahavet",
-      "link": "https://www.nrk.no/nyheter/iran-har-sendt-raketter-mot-amerikansk-britisk-militaerbase-i-indiahavet-1.17818980",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 00:33:52 GMT"
-    },
-    {
-      "title": "Israel angriper Beirut i natt",
-      "link": "https://www.nrk.no/nyheter/israel-angriper-beirut-i-natt-1.17818978",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 00:29:16 GMT"
-    },
-    {
-      "title": "Helikopter måtte hente skiturister i Nordreisa",
-      "link": "https://www.nrk.no/nyheter/helikopter-matte-hente-skiturister-i-nordreisa-1.17818979",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 21 Mar 2026 00:19:08 GMT"
     }
   ]
 }
