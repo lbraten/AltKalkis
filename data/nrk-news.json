@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T10:55:20.293Z",
+  "updatedAt": "2026-03-21T11:26:22.727Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Forsvarer etter dødsulykke: – Vanskelig situasjon",
+      "link": "https://www.nrk.no/nyheter/forsvarer-etter-dodsulykke_-_-vanskelig-situasjon-1.17819130",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 21 Mar 2026 11:19:46 GMT"
+    },
     {
       "title": "Sysselmesteren: Isbjørn skutt på Svalbard",
       "link": "https://www.nrk.no/tromsogfinnmark/sysselmesteren_-isbjorn-skutt-pa-svalbard-1.17819127",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-israel-og-usa-har-angrepet-atomanlegg-1.17819060",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 21 Mar 2026 09:12:46 GMT"
-    },
-    {
-      "title": "Sjåfør siktet etter dødsulykke i Lyngdal",
-      "link": "https://www.nrk.no/nyheter/sjafor-siktet-etter-dodsulykke-i-lyngdal-1.17819019",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 21 Mar 2026 08:11:56 GMT"
     }
   ]
 }
