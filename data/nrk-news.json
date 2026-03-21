@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T14:29:49.822Z",
+  "updatedAt": "2026-03-21T14:55:19.718Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
@@ -9,10 +9,16 @@
       "pubDate": "Sat, 21 Mar 2026 13:53:48 GMT"
     },
     {
-      "title": "Politiet varsler pressebrif klokken 16",
-      "link": "https://www.nrk.no/nyheter/politiet-varsler-pressebrif-klokken-16-1.17819260",
+      "title": "Politiet varsler pressebrif klokken 16.30",
+      "link": "https://www.nrk.no/nyheter/politiet-varsler-pressebrif-klokken-16.30-1.17819260",
       "category": "To personer funnet døde på Karmøy",
       "pubDate": "Sat, 21 Mar 2026 13:41:18 GMT"
+    },
+    {
+      "title": "Gardermobanen åpnet for togtrafikk etter brann i godstog",
+      "link": "https://www.nrk.no/stor-oslo/gardermobanen-apnet-for-togtrafikk-etter-brann-i-godstog-1.17819089",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 21 Mar 2026 13:13:30 GMT"
     },
     {
       "title": "Etterforskes som drap: To personer funnet døde på Karmøy",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/forsvarer-etter-dodsulykke_-_-vanskelig-situasjon-1.17819130",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 21 Mar 2026 11:19:46 GMT"
-    },
-    {
-      "title": "Sysselmesteren: Isbjørn skutt på Svalbard",
-      "link": "https://www.nrk.no/tromsogfinnmark/sysselmesteren_-isbjorn-skutt-pa-svalbard-1.17819127",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 21 Mar 2026 10:47:59 GMT"
     }
   ]
 }
