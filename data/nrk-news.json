@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T11:47:28.937Z",
+  "updatedAt": "2026-03-21T12:54:58.293Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet etterforsker to alvorlige voldshendelser på Karmøy",
+      "link": "https://www.nrk.no/rogaland/politiet-etterforsker-to-alvorlige-voldshendelser-pa-karmoy-1.17819223",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 21 Mar 2026 12:53:01 GMT"
+    },
     {
       "title": "PST: Ingen indikasjoner på planlagte angrep mot pride",
       "link": "https://www.nrk.no/nyheter/pst_-ingen-indikasjoner-pa-planlagte-angrep-mot-pride-1.17819160",
@@ -21,22 +27,16 @@
       "pubDate": "Sat, 21 Mar 2026 10:47:59 GMT"
     },
     {
+      "title": "Kraftig røykutvikling etter brann i Fredrikstad",
+      "link": "https://www.nrk.no/ostfold/kraftig-roykutvikling-etter-brann-i-fredrikstad-1.17819118",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 21 Mar 2026 10:36:26 GMT"
+    },
+    {
       "title": "SV-lederen ut mot Rødt: Uklokt og dramatisk",
       "link": "https://www.nrk.no/nyheter/sv-lederen-ut-mot-rodt_-uklokt-og-dramatisk--1.17819096",
       "category": "Havvind",
       "pubDate": "Sat, 21 Mar 2026 10:19:27 GMT"
-    },
-    {
-      "title": "Irakisk offiser drept i droneangrep mot etterretningstjenesten",
-      "link": "https://www.nrk.no/nyheter/irakisk-offiser-drept-i-droneangrep-mot-etterretningstjenesten-1.17819062",
-      "category": "Irak",
-      "pubDate": "Sat, 21 Mar 2026 09:40:45 GMT"
-    },
-    {
-      "title": "To personer pågrepet etter alvorlig voldshendelse",
-      "link": "https://www.nrk.no/trondelag/to-personer-pagrepet-etter-alvorlig-voldshendelse-1.17819041",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 21 Mar 2026 09:28:46 GMT"
     }
   ]
 }
