@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-21T19:47:08.536Z",
+  "updatedAt": "2026-03-21T20:30:12.762Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En pågrepet etter mistenkelig dødsfall i Bærum",
+      "link": "https://www.nrk.no/stor-oslo/en-pagrepet-etter-mistenkelig-dodsfall-i-baerum-1.17819605",
+      "category": "high",
+      "pubDate": "Sat, 21 Mar 2026 20:14:35 GMT"
+    },
+    {
+      "title": "Norsk 25-åring omkom i arbeidsulykke i Sverige",
+      "link": "https://www.nrk.no/innlandet/norsk-25-aring-omkom-i-arbeidsulykke-i-sverige-1.17819459",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 21 Mar 2026 19:51:07 GMT"
+    },
+    {
+      "title": "Ikke registrert unormale strålingsnivåer etter angrep",
+      "link": "https://www.nrk.no/nyheter/ikke-registrert-unormale-stralingsnivaer-etter-angrep-1.17819528",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 19:49:15 GMT"
+    },
     {
       "title": "Iransk missil har truffet by med atomkraftverk",
       "link": "https://www.nrk.no/nyheter/iransk-missil-har-truffet-by-med-atomkraftverk-1.17819496",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-menn-siktet-_-ikke-pagrepet-1.17819479",
       "category": "To personer funnet døde på Karmøy",
       "pubDate": "Sat, 21 Mar 2026 17:45:54 GMT"
-    },
-    {
-      "title": "Tidligere FBI-sjef Robert Mueller (81) er død",
-      "link": "https://www.nrk.no/nyheter/tidligere-fbi-sjef-robert-mueller-_81_-er-dod-1.17819412",
-      "category": "USA",
-      "pubDate": "Sat, 21 Mar 2026 17:31:41 GMT"
-    },
-    {
-      "title": "Utenlandsk turfølge brøt droneforbudet ved Ramsund",
-      "link": "https://www.nrk.no/tromsogfinnmark/utenlandsk-turfolge-brot-droneforbudet-ved-ramsund-1.17819463",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 21 Mar 2026 17:15:52 GMT"
-    },
-    {
-      "title": "Ny måling: Stor tillit til kronprins Haakon",
-      "link": "https://www.nrk.no/nyheter/ny-maling_-stor-tillit-til-kronprins-haakon-1.17819445",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 21 Mar 2026 16:46:50 GMT"
     }
   ]
 }
