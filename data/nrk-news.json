@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T04:16:57.228Z",
+  "updatedAt": "2026-03-21T05:27:36.883Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tusenvis må flykte fra flom på Hawaii",
+      "link": "https://www.nrk.no/nyheter/tusenvis-ma-flykte-fra-flom-pa-hawaii-1.17818985",
+      "category": "Hawaii",
+      "pubDate": "Sat, 21 Mar 2026 04:20:40 GMT"
+    },
     {
       "title": "Iran truer Emiratene med angrep over øystrid",
       "link": "https://www.nrk.no/nyheter/iran-truer-emiratene-med-angrep-over-oystrid-1.17818989",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/elon-musk-funnet-skyldig-i-a-ha-villedet-aksjonaerer-1.17818984",
       "category": "Elon Musk",
       "pubDate": "Sat, 21 Mar 2026 02:09:14 GMT"
-    },
-    {
-      "title": "Iran vurderer å åpne Hormuzstredet for Japan",
-      "link": "https://www.nrk.no/nyheter/iran-vurderer-a-apne-hormuzstredet-for-japan-1.17818983",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 01:35:48 GMT"
     }
   ]
 }
