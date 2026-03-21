@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T10:30:02.190Z",
+  "updatedAt": "2026-03-21T10:55:20.293Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sysselmesteren: Isbjørn skutt på Svalbard",
+      "link": "https://www.nrk.no/tromsogfinnmark/sysselmesteren_-isbjorn-skutt-pa-svalbard-1.17819127",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 21 Mar 2026 10:47:59 GMT"
+    },
     {
       "title": "SV-lederen ut mot Rødt: Uklokt og dramatisk",
       "link": "https://www.nrk.no/nyheter/sv-lederen-ut-mot-rodt_-uklokt-og-dramatisk--1.17819096",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sjafor-siktet-etter-dodsulykke-i-lyngdal-1.17819019",
       "category": "Nyheter fra Agder",
       "pubDate": "Sat, 21 Mar 2026 08:11:56 GMT"
-    },
-    {
-      "title": "Åtte turister hentet ut av skredterreng",
-      "link": "https://www.nrk.no/tromsogfinnmark/atte-turister-hentet-ut-av-skredterreng-1.17819004",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 21 Mar 2026 07:20:10 GMT"
     }
   ]
 }
