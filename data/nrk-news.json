@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T08:36:55.865Z",
+  "updatedAt": "2026-03-21T09:35:03.158Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iransk nyhetsbyrå: Israel og USA har angrepet atomanlegg",
+      "link": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-israel-og-usa-har-angrepet-atomanlegg-1.17819060",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 09:12:46 GMT"
+    },
     {
       "title": "VG: Sjåfør siktet etter dødsulykke i Lyngdal",
       "link": "https://www.nrk.no/nyheter/vg_-sjafor-siktet-etter-dodsulykke-i-lyngdal-1.17819019",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-truer-emiratene-med-angrep-over-oystrid-1.17818989",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 21 Mar 2026 03:16:41 GMT"
-    },
-    {
-      "title": "Saudi-Arabia fordømmer israelske angrep i Syria",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia-fordommer-israelske-angrep-i-syria-1.17818988",
-      "category": "Israel og Syria",
-      "pubDate": "Sat, 21 Mar 2026 02:54:05 GMT"
     }
   ]
 }
