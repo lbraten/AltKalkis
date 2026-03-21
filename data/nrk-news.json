@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T13:44:21.673Z",
+  "updatedAt": "2026-03-21T14:29:49.822Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge jobber for å løse krisen i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/norge-jobber-for-a-lose-krisen-i_hormuzstredet-1.17819273",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 13:53:48 GMT"
+    },
     {
       "title": "Politiet varsler pressebrif klokken 16",
       "link": "https://www.nrk.no/nyheter/politiet-varsler-pressebrif-klokken-16-1.17819260",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/sysselmesteren_-isbjorn-skutt-pa-svalbard-1.17819127",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sat, 21 Mar 2026 10:47:59 GMT"
-    },
-    {
-      "title": "Kraftig røykutvikling etter brann i Fredrikstad",
-      "link": "https://www.nrk.no/ostfold/kraftig-roykutvikling-etter-brann-i-fredrikstad-1.17819118",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 21 Mar 2026 10:36:26 GMT"
     }
   ]
 }
