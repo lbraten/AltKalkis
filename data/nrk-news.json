@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-21T05:27:36.883Z",
+  "updatedAt": "2026-03-21T06:03:28.450Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FT: EU-kommisjonen ber medlemslandene senke mål for gasslagrene",
+      "link": "https://www.nrk.no/nyheter/ft_-eu-kommisjonen-ber-medlemslandene-senke-mal-for-gasslagrene-1.17818991",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 21 Mar 2026 05:47:24 GMT"
+    },
     {
       "title": "Tusenvis må flykte fra flom på Hawaii",
       "link": "https://www.nrk.no/nyheter/tusenvis-ma-flykte-fra-flom-pa-hawaii-1.17818985",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/over-20-droner-skutt-ned-i-saudi-arabia-1.17818986",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 21 Mar 2026 02:39:11 GMT"
-    },
-    {
-      "title": "Elon Musk funnet skyldig i å ha villedet aksjonærer",
-      "link": "https://www.nrk.no/nyheter/elon-musk-funnet-skyldig-i-a-ha-villedet-aksjonaerer-1.17818984",
-      "category": "Elon Musk",
-      "pubDate": "Sat, 21 Mar 2026 02:09:14 GMT"
     }
   ]
 }
