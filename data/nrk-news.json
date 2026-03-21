@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-21T09:35:03.158Z",
+  "updatedAt": "2026-03-21T10:30:02.190Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "SV-lederen ut mot Rødt: Uklokt og dramatisk",
+      "link": "https://www.nrk.no/nyheter/sv-lederen-ut-mot-rodt_-uklokt-og-dramatisk--1.17819096",
+      "category": "Havvind",
+      "pubDate": "Sat, 21 Mar 2026 10:19:27 GMT"
+    },
+    {
+      "title": "Irakisk offiser drept i droneangrep mot etterretningstjenesten",
+      "link": "https://www.nrk.no/nyheter/irakisk-offiser-drept-i-droneangrep-mot-etterretningstjenesten-1.17819062",
+      "category": "Irak",
+      "pubDate": "Sat, 21 Mar 2026 09:40:45 GMT"
+    },
+    {
+      "title": "To personer pågrepet etter alvorlig voldshendelse",
+      "link": "https://www.nrk.no/trondelag/to-personer-pagrepet-etter-alvorlig-voldshendelse-1.17819041",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 21 Mar 2026 09:28:46 GMT"
+    },
     {
       "title": "Iransk nyhetsbyrå: Israel og USA har angrepet atomanlegg",
       "link": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-israel-og-usa-har-angrepet-atomanlegg-1.17819060",
@@ -9,8 +27,8 @@
       "pubDate": "Sat, 21 Mar 2026 09:12:46 GMT"
     },
     {
-      "title": "VG: Sjåfør siktet etter dødsulykke i Lyngdal",
-      "link": "https://www.nrk.no/nyheter/vg_-sjafor-siktet-etter-dodsulykke-i-lyngdal-1.17819019",
+      "title": "Sjåfør siktet etter dødsulykke i Lyngdal",
+      "link": "https://www.nrk.no/nyheter/sjafor-siktet-etter-dodsulykke-i-lyngdal-1.17819019",
       "category": "Nyheter fra Agder",
       "pubDate": "Sat, 21 Mar 2026 08:11:56 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/atte-turister-hentet-ut-av-skredterreng-1.17819004",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sat, 21 Mar 2026 07:20:10 GMT"
-    },
-    {
-      "title": "FT: EU-kommisjonen ber medlemslandene senke mål for gasslagrene",
-      "link": "https://www.nrk.no/nyheter/ft_-eu-kommisjonen-ber-medlemslandene-senke-mal-for-gasslagrene-1.17818991",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 05:47:24 GMT"
-    },
-    {
-      "title": "Tusenvis må flykte fra flom på Hawaii",
-      "link": "https://www.nrk.no/nyheter/tusenvis-ma-flykte-fra-flom-pa-hawaii-1.17818985",
-      "category": "Hawaii",
-      "pubDate": "Sat, 21 Mar 2026 04:20:40 GMT"
-    },
-    {
-      "title": "Iran truer Emiratene med angrep over øystrid",
-      "link": "https://www.nrk.no/nyheter/iran-truer-emiratene-med-angrep-over-oystrid-1.17818989",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 03:16:41 GMT"
     }
   ]
 }
