@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-22T15:51:43.203Z",
+  "updatedAt": "2026-03-22T16:34:33.486Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Libanon fordømmer israelsk brosprenging",
+      "link": "https://www.nrk.no/nyheter/libanon-fordommer-israelsk-brosprenging-1.17820109",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 22 Mar 2026 16:27:04 GMT"
+    },
+    {
+      "title": "En av de siktede erkjenner ikke straffskyld",
+      "link": "https://www.nrk.no/nyheter/en-av-de-siktede-erkjenner-ikke-straffskyld-1.17820029",
+      "category": "To personer funnet døde på Karmøy",
+      "pubDate": "Sun, 22 Mar 2026 16:10:37 GMT"
+    },
     {
       "title": "Erkjenner ikke straffskyld etter dødsulykke",
       "link": "https://www.nrk.no/sorlandet/erkjenner-ikke-straffskyld-etter-dodsulykke-1.17820054",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj-frykter-at-krigen-mot-iran-blir-langvarig-1.17819997",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 22 Mar 2026 14:08:47 GMT"
-    },
-    {
-      "title": "Reddet ut fra Leirfossen",
-      "link": "https://www.nrk.no/trondelag/reddet-ut-fra-leirfossen-1.17819993",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 22 Mar 2026 14:02:40 GMT"
-    },
-    {
-      "title": "Italienarane stemmer over endringar i rettssystemet",
-      "link": "https://www.nrk.no/nyheter/italienarane-stemmer-over-endringar-i-rettssystemet-1.17819937",
-      "category": "Italia",
-      "pubDate": "Sun, 22 Mar 2026 13:17:55 GMT"
     }
   ]
 }
