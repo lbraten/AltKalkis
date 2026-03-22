@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-22T19:28:16.495Z",
+  "updatedAt": "2026-03-22T19:48:44.407Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israelsk TV-kanal: Trump reiser til Jerusalem i april",
+      "link": "https://www.nrk.no/nyheter/israelsk-tv-kanal_-trump-reiser-til-jerusalem-i-april-1.17820268",
+      "category": "Donald Trump",
+      "pubDate": "Sun, 22 Mar 2026 19:47:03 GMT"
+    },
     {
       "title": "Zelenskyj: Russisk offensiv etter finere vær",
       "link": "https://www.nrk.no/nyheter/zelenskyj_-russisk-offensiv-etter-finere-vaer-1.17820153",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tre-drept-i-israelsk-angrep-pa-politibil-i-gaza-1.17820134",
       "category": "Krigen i Gaza",
       "pubDate": "Sun, 22 Mar 2026 17:01:45 GMT"
-    },
-    {
-      "title": "Storbritannia: Hastemøte mandag om Iran-krigen",
-      "link": "https://www.nrk.no/nyheter/storbritannia_-hastemote-mandag-om-iran-krigen-1.17820126",
-      "category": "Storbritannia",
-      "pubDate": "Sun, 22 Mar 2026 16:44:48 GMT"
     }
   ]
 }
