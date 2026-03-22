@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-22T06:56:43.993Z",
+  "updatedAt": "2026-03-22T07:41:07.077Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Byrjar avhøyr av sikta etter drap på Karmøy",
+      "link": "https://www.nrk.no/nyheter/byrjar-avhoyr-av-sikta-etter-drap-pa-karmoy-1.17819716",
+      "category": "To personer funnet døde på Karmøy",
+      "pubDate": "Sun, 22 Mar 2026 07:38:04 GMT"
+    },
+    {
+      "title": "Funn av mistenkeleg gjenstand i Bergen – bombegruppe kalla inn for bistand",
+      "link": "https://www.nrk.no/vestland/funn-av-mistenkeleg-gjenstand-i-bergen-_-bombegruppe-kalla-inn-for-bistand-1.17819718",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 22 Mar 2026 07:18:40 GMT"
+    },
+    {
+      "title": "Lokalval i Frankrike",
+      "link": "https://www.nrk.no/nyheter/lokalval-i-frankrike-1.17819708",
+      "category": "Frankrike",
+      "pubDate": "Sun, 22 Mar 2026 07:15:18 GMT"
+    },
+    {
+      "title": "Val i Slovenia",
+      "link": "https://www.nrk.no/nyheter/val-i-slovenia-1.17819694",
+      "category": "Slovenia",
+      "pubDate": "Sun, 22 Mar 2026 07:11:46 GMT"
+    },
     {
       "title": "Nytt angrep mot Israel",
       "link": "https://www.nrk.no/nyheter/nytt-angrep-mot-israel-1.17819692",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-sier-at-drone-har-angrepet-militaerbase-naer-bagdad-1.17819686",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 22 Mar 2026 05:50:04 GMT"
-    },
-    {
-      "title": "Japan kan vurdere minesveiping i Hormuz hvis våpenhvile oppnås",
-      "link": "https://www.nrk.no/nyheter/japan-kan-vurdere-minesveiping-i-hormuz-hvis-vapenhvile-oppnas-1.17819677",
-      "category": "Japan",
-      "pubDate": "Sun, 22 Mar 2026 03:59:33 GMT"
-    },
-    {
-      "title": "Emiratene skyter ned droner fra Iran",
-      "link": "https://www.nrk.no/nyheter/emiratene-skyter-ned-droner-fra-iran-1.17819680",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 22 Mar 2026 03:22:58 GMT"
-    },
-    {
-      "title": "Emiratene forsvarer seg mot angrep fra Iran",
-      "link": "https://www.nrk.no/nyheter/emiratene-forsvarer-seg-mot-angrep-fra-iran-1.17819679",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 22 Mar 2026 03:18:22 GMT"
-    },
-    {
-      "title": "Ukraina-samtaler i Florida fortsetter søndag",
-      "link": "https://www.nrk.no/nyheter/ukraina-samtaler-i-florida-fortsetter-sondag-1.17819678",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 22 Mar 2026 03:09:05 GMT"
     }
   ]
 }
