@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-22T13:49:07.275Z",
+  "updatedAt": "2026-03-22T14:30:58.198Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran truer med å stenge Hormuzstredet helt",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-stenge-hormuzstredet-helt-1.17820005",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 22 Mar 2026 14:24:16 GMT"
+    },
+    {
+      "title": "Zelenskyj frykter at krigen mot Iran blir langvarig",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-frykter-at-krigen-mot-iran-blir-langvarig-1.17819997",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 22 Mar 2026 14:08:47 GMT"
+    },
+    {
+      "title": "Reddet ut fra Leirfossen",
+      "link": "https://www.nrk.no/trondelag/reddet-ut-fra-leirfossen-1.17819993",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 22 Mar 2026 14:02:40 GMT"
+    },
     {
       "title": "Italienarane stemmer over endringar i rettssystemet",
       "link": "https://www.nrk.no/nyheter/italienarane-stemmer-over-endringar-i-rettssystemet-1.17819937",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/idf-har-byrja-_bolge-av-angrep_-mot-hizbollah-1.17819918",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 22 Mar 2026 12:52:11 GMT"
-    },
-    {
-      "title": "Steinras i Holmestrand",
-      "link": "https://www.nrk.no/vestfoldogtelemark/steinras-i-holmestrand-1.17819910",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 22 Mar 2026 12:51:33 GMT"
-    },
-    {
-      "title": "Drøbak: Brann i enebolig",
-      "link": "https://www.nrk.no/stor-oslo/drobak_-brann-i-enebolig-1.17819928",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 22 Mar 2026 12:39:26 GMT"
-    },
-    {
-      "title": "Bil kjørt inn i et hus i Hole",
-      "link": "https://www.nrk.no/buskerud/bil-kjort-inn-i-et-hus-i-hole-1.17819925",
-      "category": "Politi og hendelser i Buskerud",
-      "pubDate": "Sun, 22 Mar 2026 12:34:51 GMT"
     }
   ]
 }
