@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-22T05:55:29.257Z",
+  "updatedAt": "2026-03-22T06:56:43.993Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nytt angrep mot Israel",
+      "link": "https://www.nrk.no/nyheter/nytt-angrep-mot-israel-1.17819692",
+      "category": "Israel",
+      "pubDate": "Sun, 22 Mar 2026 06:42:09 GMT"
+    },
     {
       "title": "Iran sier at drone har angrepet militærbase nær Bagdad",
       "link": "https://www.nrk.no/nyheter/iran-sier-at-drone-har-angrepet-militaerbase-naer-bagdad-1.17819686",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina-samtaler-i-florida-fortsetter-sondag-1.17819678",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 22 Mar 2026 03:09:05 GMT"
-    },
-    {
-      "title": "Tre raketter sendt mot Saudi-Arabias hovedstad",
-      "link": "https://www.nrk.no/nyheter/tre-raketter-sendt-mot-saudi-arabias-hovedstad-1.17819676",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 22 Mar 2026 02:22:50 GMT"
     }
   ]
 }
