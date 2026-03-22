@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-22T08:38:09.954Z",
+  "updatedAt": "2026-03-22T09:35:35.608Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ung mann død etter skyting i Sverige",
+      "link": "https://www.nrk.no/nyheter/ung-mann-dod-etter-skyting-i-sverige-1.17819807",
+      "category": "Sverige",
+      "pubDate": "Sun, 22 Mar 2026 09:32:23 GMT"
+    },
+    {
+      "title": "Russiske angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/russiske-angrep-mot-ukraina-1.17819769",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 22 Mar 2026 09:25:02 GMT"
+    },
+    {
+      "title": "Bombegruppa er på plass i Bergen",
+      "link": "https://www.nrk.no/vestland/bombegruppa-er-pa-plass-i-bergen-1.17819788",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 22 Mar 2026 09:08:22 GMT"
+    },
+    {
+      "title": "Stor brannøving ved Bergen Havn",
+      "link": "https://www.nrk.no/vestland/stor-brannoving-ved-bergen-havn-1.17819732",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 22 Mar 2026 09:00:08 GMT"
+    },
     {
       "title": "IMO: Iran klar til å samarbeide om tryggleiken i Persiabukta",
       "link": "https://www.nrk.no/nyheter/imo_-iran-klar-til-a-samarbeide-om-tryggleiken-i-persiabukta-1.17819763",
@@ -9,34 +33,10 @@
       "pubDate": "Sun, 22 Mar 2026 08:21:41 GMT"
     },
     {
-      "title": "Helikopterulukke i Qatar",
-      "link": "https://www.nrk.no/nyheter/helikopterulukke-i-qatar-1.17819691",
+      "title": "Helikopterulukke utanfor Qatar",
+      "link": "https://www.nrk.no/nyheter/helikopterulukke-utanfor-qatar-1.17819691",
       "category": "Qatar",
       "pubDate": "Sun, 22 Mar 2026 08:09:49 GMT"
-    },
-    {
-      "title": "Livlaus person i sjøen i Sandnes",
-      "link": "https://www.nrk.no/nyheter/livlaus-person-i-sjoen-i-sandnes-1.17819733",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 22 Mar 2026 07:44:38 GMT"
-    },
-    {
-      "title": "Byrjar avhøyr av sikta etter dobbeltdrap",
-      "link": "https://www.nrk.no/nyheter/byrjar-avhoyr-av-sikta-etter-dobbeltdrap-1.17819716",
-      "category": "To personer funnet døde på Karmøy",
-      "pubDate": "Sun, 22 Mar 2026 07:38:04 GMT"
-    },
-    {
-      "title": "Funn av mistenkeleg gjenstand i Bergen – bombegruppe kalla inn for bistand",
-      "link": "https://www.nrk.no/vestland/funn-av-mistenkeleg-gjenstand-i-bergen-_-bombegruppe-kalla-inn-for-bistand-1.17819718",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 22 Mar 2026 07:18:40 GMT"
-    },
-    {
-      "title": "Lokalval i Frankrike",
-      "link": "https://www.nrk.no/nyheter/lokalval-i-frankrike-1.17819708",
-      "category": "Frankrike",
-      "pubDate": "Sun, 22 Mar 2026 07:15:18 GMT"
     }
   ]
 }
