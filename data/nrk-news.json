@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-22T19:48:44.407Z",
+  "updatedAt": "2026-03-22T20:31:36.101Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Spellemann: Hedersprisen til Finn Kalvik",
+      "link": "https://www.nrk.no/nyheter/spellemann_-hedersprisen-til-finn-kalvik-1.17820288",
+      "category": "Spellemannprisen",
+      "pubDate": "Sun, 22 Mar 2026 20:16:46 GMT"
+    },
+    {
+      "title": "Nasjonal samling ligger dårlig an i valget",
+      "link": "https://www.nrk.no/nyheter/nasjonal-samling-ligger-darlig-an-i-valget--1.17820286",
+      "category": "Frankrike",
+      "pubDate": "Sun, 22 Mar 2026 19:49:29 GMT"
+    },
     {
       "title": "Israelsk TV-kanal: Trump reiser til Jerusalem i april",
       "link": "https://www.nrk.no/nyheter/israelsk-tv-kanal_-trump-reiser-til-jerusalem-i-april-1.17820268",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/voldshendelse-i-tromsdalen_-flere-skadde-1.17820131",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sun, 22 Mar 2026 17:43:05 GMT"
-    },
-    {
-      "title": "Drapssak i Bærum: – Sier han handlet i selvforsvar",
-      "link": "https://www.nrk.no/stor-oslo/drapssak-i-baerum_-_-sier-han-handlet-i-selvforsvar-1.17820123",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 22 Mar 2026 17:12:09 GMT"
-    },
-    {
-      "title": "Tre drept i israelsk angrep på politibil i Gaza",
-      "link": "https://www.nrk.no/nyheter/tre-drept-i-israelsk-angrep-pa-politibil-i-gaza-1.17820134",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sun, 22 Mar 2026 17:01:45 GMT"
     }
   ]
 }
