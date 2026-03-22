@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-22T21:29:07.181Z",
+  "updatedAt": "2026-03-22T21:52:20.089Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Slovenia statsminister erklærer valgseier",
+      "link": "https://www.nrk.no/nyheter/slovenia-statsminister-erklaerer-valgseier-1.17820367",
+      "category": "Slovenia",
+      "pubDate": "Sun, 22 Mar 2026 21:51:44 GMT"
+    },
+    {
+      "title": "Liberalerna åpner for regjeringssamarbeid med Sverigedemokraterna",
+      "link": "https://www.nrk.no/nyheter/liberalerna-apner-for-regjeringssamarbeid-med-sverigedemokraterna-1.17820364",
+      "category": "Sverige",
+      "pubDate": "Sun, 22 Mar 2026 21:30:03 GMT"
+    },
     {
       "title": "Tobias Sten er «Årets Spellemann»",
       "link": "https://www.nrk.no/nyheter/tobias-sten-er-_arets-spellemann_-1.17820310",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/spellemanns-hederspris-til-finn-kalvik-1.17820288",
       "category": "Spellemannprisen",
       "pubDate": "Sun, 22 Mar 2026 20:16:46 GMT"
-    },
-    {
-      "title": "Nasjonal samling ligger dårlig an i valget",
-      "link": "https://www.nrk.no/nyheter/nasjonal-samling-ligger-darlig-an-i-valget--1.17820286",
-      "category": "Frankrike",
-      "pubDate": "Sun, 22 Mar 2026 19:49:29 GMT"
-    },
-    {
-      "title": "Israelsk TV-kanal: Trump reiser til Jerusalem i april",
-      "link": "https://www.nrk.no/nyheter/israelsk-tv-kanal_-trump-reiser-til-jerusalem-i-april-1.17820268",
-      "category": "Donald Trump",
-      "pubDate": "Sun, 22 Mar 2026 19:47:03 GMT"
     }
   ]
 }
