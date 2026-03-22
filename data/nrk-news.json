@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-22T14:30:58.198Z",
+  "updatedAt": "2026-03-22T15:28:55.812Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Drapssiktet stiller ikke til avhør",
+      "link": "https://www.nrk.no/nyheter/drapssiktet-stiller-ikke-til-avhor-1.17820024",
+      "category": "To personer funnet døde på Karmøy",
+      "pubDate": "Sun, 22 Mar 2026 14:34:52 GMT"
+    },
     {
       "title": "Iran truer med å stenge Hormuzstredet helt",
       "link": "https://www.nrk.no/nyheter/iran-truer-med-a-stenge-hormuzstredet-helt-1.17820005",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/fugleinfluensa-i-tvedestrand--kaller-inn-til-hastemote-1.17819898",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 22 Mar 2026 12:56:58 GMT"
-    },
-    {
-      "title": "IDF har byrja «bølge av angrep» mot Hizbollah",
-      "link": "https://www.nrk.no/nyheter/idf-har-byrja-_bolge-av-angrep_-mot-hizbollah-1.17819918",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 22 Mar 2026 12:52:11 GMT"
     }
   ]
 }
