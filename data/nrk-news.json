@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-22T17:27:48.161Z",
+  "updatedAt": "2026-03-22T17:52:55.996Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Voldshendelse i Tromdalen: Flere skadde",
+      "link": "https://www.nrk.no/tromsogfinnmark/voldshendelse-i-tromdalen_-flere-skadde-1.17820131",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 22 Mar 2026 17:43:05 GMT"
+    },
     {
       "title": "Drapssak i Bærum: – Sier han handlet i selvforsvar",
       "link": "https://www.nrk.no/stor-oslo/drapssak-i-baerum_-_-sier-han-handlet-i-selvforsvar-1.17820123",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/trondelag/mann-skadet-i-ulykke-under-skytestevne--1.17820008",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 22 Mar 2026 16:25:55 GMT"
-    },
-    {
-      "title": "En av de siktede erkjenner ikke straffskyld",
-      "link": "https://www.nrk.no/nyheter/en-av-de-siktede-erkjenner-ikke-straffskyld-1.17820029",
-      "category": "To personer funnet døde på Karmøy",
-      "pubDate": "Sun, 22 Mar 2026 16:10:37 GMT"
     }
   ]
 }
