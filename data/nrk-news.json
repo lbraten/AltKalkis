@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-22T10:30:41.807Z",
+  "updatedAt": "2026-03-22T11:26:10.641Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran varslar «uoppretteleg øydelegging» i regionen dersom infrastrukturen blir angripe",
+      "link": "https://www.nrk.no/nyheter/iran-varslar-_uoppretteleg-oydelegging_-i-regionen-dersom-infrastrukturen-blir-angripe-1.17819874",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 22 Mar 2026 11:04:27 GMT"
+    },
+    {
+      "title": "Peter Frølich sluttar som leiar i Fritt Ukraina",
+      "link": "https://www.nrk.no/nyheter/peter-frolich-sluttar-som-leiar-i-fritt-ukraina-1.17819829",
+      "category": "Partiet Høyre",
+      "pubDate": "Sun, 22 Mar 2026 10:54:51 GMT"
+    },
     {
       "title": "SV-lederen om Mette-Marit: Helsa er viktigst",
       "link": "https://www.nrk.no/nyheter/sv-lederen-om-mette-marit_-helsa-er-viktigst-1.17819831",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-trugar-med-a-oydelegge-infrastruktur-og-bustadomrade-i-libanon-1.17819812",
       "category": "Libanon og Israel",
       "pubDate": "Sun, 22 Mar 2026 09:44:28 GMT"
-    },
-    {
-      "title": "Ung mann død etter skyting i Sverige",
-      "link": "https://www.nrk.no/nyheter/ung-mann-dod-etter-skyting-i-sverige-1.17819807",
-      "category": "Sverige",
-      "pubDate": "Sun, 22 Mar 2026 09:32:23 GMT"
-    },
-    {
-      "title": "Russiske angrep mot Ukraina",
-      "link": "https://www.nrk.no/nyheter/russiske-angrep-mot-ukraina-1.17819769",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 22 Mar 2026 09:25:02 GMT"
     }
   ]
 }
