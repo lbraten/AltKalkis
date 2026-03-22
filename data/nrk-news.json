@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-22T11:26:10.641Z",
+  "updatedAt": "2026-03-22T11:47:45.466Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skal avhøre siktet sjåfør på nytt i dag",
+      "link": "https://www.nrk.no/sorlandet/skal-avhore-siktet-sjafor-pa-nytt-i-dag--1.17819817",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 22 Mar 2026 11:31:56 GMT"
+    },
     {
       "title": "Iran varslar «uoppretteleg øydelegging» i regionen dersom infrastrukturen blir angripe",
       "link": "https://www.nrk.no/nyheter/iran-varslar-_uoppretteleg-oydelegging_-i-regionen-dersom-infrastrukturen-blir-angripe-1.17819874",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/dodsfall-pa-deichman---mistenker-ikke-noe-kriminelt-1.17819824",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 22 Mar 2026 09:49:31 GMT"
-    },
-    {
-      "title": "Israel trugar med å øydelegge infrastruktur og bustadområde i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-trugar-med-a-oydelegge-infrastruktur-og-bustadomrade-i-libanon-1.17819812",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 22 Mar 2026 09:44:28 GMT"
     }
   ]
 }
