@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-22T15:28:55.812Z",
+  "updatedAt": "2026-03-22T15:51:43.203Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Erkjenner ikke straffskyld etter dødsulykke",
+      "link": "https://www.nrk.no/sorlandet/erkjenner-ikke-straffskyld-etter-dodsulykke-1.17820054",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 22 Mar 2026 15:27:19 GMT"
+    },
     {
       "title": "Drapssiktet stiller ikke til avhør",
       "link": "https://www.nrk.no/nyheter/drapssiktet-stiller-ikke-til-avhor-1.17820024",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/italienarane-stemmer-over-endringar-i-rettssystemet-1.17819937",
       "category": "Italia",
       "pubDate": "Sun, 22 Mar 2026 13:17:55 GMT"
-    },
-    {
-      "title": "Fugleinfluensa i Tvedestrand- kaller inn til hastemøte",
-      "link": "https://www.nrk.no/sorlandet/fugleinfluensa-i-tvedestrand--kaller-inn-til-hastemote-1.17819898",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 22 Mar 2026 12:56:58 GMT"
     }
   ]
 }
