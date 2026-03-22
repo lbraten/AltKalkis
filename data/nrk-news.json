@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-21T23:51:34.943Z",
+  "updatedAt": "2026-03-22T02:30:46.840Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trump truer med å bombe kraftverk i Iran",
-      "link": "https://www.nrk.no/nyheter/trump-truer-med-a-bombe-kraftverk-i-iran-1.17819668",
+      "title": "Tre raketter sendt mot Saudi-Arabias hovedstad",
+      "link": "https://www.nrk.no/nyheter/tre-raketter-sendt-mot-saudi-arabias-hovedstad-1.17819676",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 23:47:46 GMT"
+      "pubDate": "Sun, 22 Mar 2026 02:22:50 GMT"
     },
     {
-      "title": "Britisk atomubåt på plass nær Iran",
-      "link": "https://www.nrk.no/nyheter/britisk-atomubat-pa-plass-naer-iran-1.17819667",
+      "title": "Japaner er løslatt i Iran",
+      "link": "https://www.nrk.no/nyheter/japaner-er-loslatt-i-iran-1.17819674",
+      "category": "Japan",
+      "pubDate": "Sun, 22 Mar 2026 02:11:00 GMT"
+    },
+    {
+      "title": "Besetning savnet etter helikopterhendelse i Qatar",
+      "link": "https://www.nrk.no/nyheter/besetning-savnet-etter-helikopterhendelse-i-qatar-1.17819673",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 21 Mar 2026 23:38:09 GMT"
+      "pubDate": "Sun, 22 Mar 2026 01:03:30 GMT"
     },
     {
-      "title": "To hentet ut fra hus etter røykutvikling i Asker",
-      "link": "https://www.nrk.no/nyheter/to-hentet-ut-fra-hus-etter-roykutvikling-i-asker-1.17819666",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 21 Mar 2026 23:26:17 GMT"
+      "title": "Israel med nye angrep mot Teheran",
+      "link": "https://www.nrk.no/nyheter/israel-med-nye-angrep-mot-teheran-1.17819672",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 22 Mar 2026 00:53:42 GMT"
     },
     {
-      "title": "Cuba mørklagt igjen",
-      "link": "https://www.nrk.no/nyheter/cuba-morklagt-igjen-1.17819664",
-      "category": "Cuba",
-      "pubDate": "Sat, 21 Mar 2026 23:25:33 GMT"
+      "title": "Iran: Over 1500 er drept siden krigen startet",
+      "link": "https://www.nrk.no/nyheter/iran_-over-1500-er-drept-siden-krigen-startet-1.17819671",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 22 Mar 2026 00:40:39 GMT"
     },
     {
-      "title": "Fotballbråk i Trondheim",
-      "link": "https://www.nrk.no/nyheter/fotballbrak-i-trondheim-1.17819653",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 21 Mar 2026 23:10:27 GMT"
-    },
-    {
-      "title": "Pågrepet på lufthavn mistenkt for tyverier flere steder i Norge",
-      "link": "https://www.nrk.no/nyheter/pagrepet-pa-lufthavn-mistenkt-for-tyverier-flere-steder-i-norge-1.17819652",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 21 Mar 2026 22:00:16 GMT"
+      "title": "Elsparkesyklist til sykehus etter ulykke i Vestfold",
+      "link": "https://www.nrk.no/nyheter/elsparkesyklist-til-sykehus-etter-ulykke-i-vestfold-1.17819669",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 22 Mar 2026 00:15:29 GMT"
     }
   ]
 }
