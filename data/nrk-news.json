@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-03-22T07:41:07.077Z",
+  "updatedAt": "2026-03-22T08:38:09.954Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Byrjar avhøyr av sikta etter drap på Karmøy",
-      "link": "https://www.nrk.no/nyheter/byrjar-avhoyr-av-sikta-etter-drap-pa-karmoy-1.17819716",
+      "title": "IMO: Iran klar til å samarbeide om tryggleiken i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/imo_-iran-klar-til-a-samarbeide-om-tryggleiken-i-persiabukta-1.17819763",
+      "category": "Iran",
+      "pubDate": "Sun, 22 Mar 2026 08:21:41 GMT"
+    },
+    {
+      "title": "Helikopterulukke i Qatar",
+      "link": "https://www.nrk.no/nyheter/helikopterulukke-i-qatar-1.17819691",
+      "category": "Qatar",
+      "pubDate": "Sun, 22 Mar 2026 08:09:49 GMT"
+    },
+    {
+      "title": "Livlaus person i sjøen i Sandnes",
+      "link": "https://www.nrk.no/nyheter/livlaus-person-i-sjoen-i-sandnes-1.17819733",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 22 Mar 2026 07:44:38 GMT"
+    },
+    {
+      "title": "Byrjar avhøyr av sikta etter dobbeltdrap",
+      "link": "https://www.nrk.no/nyheter/byrjar-avhoyr-av-sikta-etter-dobbeltdrap-1.17819716",
       "category": "To personer funnet døde på Karmøy",
       "pubDate": "Sun, 22 Mar 2026 07:38:04 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/lokalval-i-frankrike-1.17819708",
       "category": "Frankrike",
       "pubDate": "Sun, 22 Mar 2026 07:15:18 GMT"
-    },
-    {
-      "title": "Val i Slovenia",
-      "link": "https://www.nrk.no/nyheter/val-i-slovenia-1.17819694",
-      "category": "Slovenia",
-      "pubDate": "Sun, 22 Mar 2026 07:11:46 GMT"
-    },
-    {
-      "title": "Nytt angrep mot Israel",
-      "link": "https://www.nrk.no/nyheter/nytt-angrep-mot-israel-1.17819692",
-      "category": "Israel",
-      "pubDate": "Sun, 22 Mar 2026 06:42:09 GMT"
-    },
-    {
-      "title": "Iran sier at drone har angrepet militærbase nær Bagdad",
-      "link": "https://www.nrk.no/nyheter/iran-sier-at-drone-har-angrepet-militaerbase-naer-bagdad-1.17819686",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 22 Mar 2026 05:50:04 GMT"
     }
   ]
 }
