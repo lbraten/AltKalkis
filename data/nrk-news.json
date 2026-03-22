@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-03-22T20:31:36.101Z",
+  "updatedAt": "2026-03-22T21:29:07.181Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Spellemann: Hedersprisen til Finn Kalvik",
-      "link": "https://www.nrk.no/nyheter/spellemann_-hedersprisen-til-finn-kalvik-1.17820288",
+      "title": "Tobias Sten er «Årets Spellemann»",
+      "link": "https://www.nrk.no/nyheter/tobias-sten-er-_arets-spellemann_-1.17820310",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 22 Mar 2026 21:00:38 GMT"
+    },
+    {
+      "title": "Har målt vind i orkanstyrke: Bru kan bli stengt i Tromsø",
+      "link": "https://www.nrk.no/tromsogfinnmark/har-malt-vind-i-orkanstyrke_-bru-kan-bli-stengt-i-tromso-1.17820306",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 22 Mar 2026 20:52:33 GMT"
+    },
+    {
+      "title": "Mann fraktet til sykehus med stikkskader etter voldshendelse i Stavanger",
+      "link": "https://www.nrk.no/rogaland/mann-fraktet-til-sykehus-med-stikkskader-etter-voldshendelse-i-stavanger-1.17820181",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 22 Mar 2026 20:49:00 GMT"
+    },
+    {
+      "title": "Spellemanns hederspris til Finn Kalvik",
+      "link": "https://www.nrk.no/nyheter/spellemanns-hederspris-til-finn-kalvik-1.17820288",
       "category": "Spellemannprisen",
       "pubDate": "Sun, 22 Mar 2026 20:16:46 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israelsk-tv-kanal_-trump-reiser-til-jerusalem-i-april-1.17820268",
       "category": "Donald Trump",
       "pubDate": "Sun, 22 Mar 2026 19:47:03 GMT"
-    },
-    {
-      "title": "Zelenskyj: Russisk offensiv etter finere vær",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-russisk-offensiv-etter-finere-vaer-1.17820153",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 22 Mar 2026 19:15:59 GMT"
-    },
-    {
-      "title": "Søker etter stjålet bil – bileier påkjørt",
-      "link": "https://www.nrk.no/ostfold/soker-etter-stjalet-bil-_-bileier-pakjort-1.17820108",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 22 Mar 2026 18:21:08 GMT"
-    },
-    {
-      "title": "Voldshendelse i Tromsdalen: Flere skadde",
-      "link": "https://www.nrk.no/tromsogfinnmark/voldshendelse-i-tromsdalen_-flere-skadde-1.17820131",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 22 Mar 2026 17:43:05 GMT"
     }
   ]
 }
