@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-22T16:34:33.486Z",
+  "updatedAt": "2026-03-22T17:27:48.161Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Drapssak i Bærum: – Sier han handlet i selvforsvar",
+      "link": "https://www.nrk.no/stor-oslo/drapssak-i-baerum_-_-sier-han-handlet-i-selvforsvar-1.17820123",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 22 Mar 2026 17:12:09 GMT"
+    },
+    {
+      "title": "Tre drept i israelsk angrep på politibil i Gaza",
+      "link": "https://www.nrk.no/nyheter/tre-drept-i-israelsk-angrep-pa-politibil-i-gaza-1.17820134",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sun, 22 Mar 2026 17:01:45 GMT"
+    },
+    {
+      "title": "Storbritannia: Hastemøte mandag om Iran-krigen",
+      "link": "https://www.nrk.no/nyheter/storbritannia_-hastemote-mandag-om-iran-krigen-1.17820126",
+      "category": "Storbritannia",
+      "pubDate": "Sun, 22 Mar 2026 16:44:48 GMT"
+    },
     {
       "title": "Libanon fordømmer israelsk brosprenging",
       "link": "https://www.nrk.no/nyheter/libanon-fordommer-israelsk-brosprenging-1.17820109",
@@ -9,34 +27,16 @@
       "pubDate": "Sun, 22 Mar 2026 16:27:04 GMT"
     },
     {
+      "title": "Mann skadet i ulykke under skytestevne",
+      "link": "https://www.nrk.no/trondelag/mann-skadet-i-ulykke-under-skytestevne--1.17820008",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 22 Mar 2026 16:25:55 GMT"
+    },
+    {
       "title": "En av de siktede erkjenner ikke straffskyld",
       "link": "https://www.nrk.no/nyheter/en-av-de-siktede-erkjenner-ikke-straffskyld-1.17820029",
       "category": "To personer funnet døde på Karmøy",
       "pubDate": "Sun, 22 Mar 2026 16:10:37 GMT"
-    },
-    {
-      "title": "Erkjenner ikke straffskyld etter dødsulykke",
-      "link": "https://www.nrk.no/sorlandet/erkjenner-ikke-straffskyld-etter-dodsulykke-1.17820054",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 22 Mar 2026 15:27:19 GMT"
-    },
-    {
-      "title": "Drapssiktet stiller ikke til avhør",
-      "link": "https://www.nrk.no/nyheter/drapssiktet-stiller-ikke-til-avhor-1.17820024",
-      "category": "To personer funnet døde på Karmøy",
-      "pubDate": "Sun, 22 Mar 2026 14:34:52 GMT"
-    },
-    {
-      "title": "Iran truer med å stenge Hormuzstredet helt",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-stenge-hormuzstredet-helt-1.17820005",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 22 Mar 2026 14:24:16 GMT"
-    },
-    {
-      "title": "Zelenskyj frykter at krigen mot Iran blir langvarig",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-frykter-at-krigen-mot-iran-blir-langvarig-1.17819997",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 22 Mar 2026 14:08:47 GMT"
     }
   ]
 }
