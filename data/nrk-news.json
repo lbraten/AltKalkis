@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-03-22T17:52:55.996Z",
+  "updatedAt": "2026-03-22T18:40:35.020Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Voldshendelse i Tromdalen: Flere skadde",
-      "link": "https://www.nrk.no/tromsogfinnmark/voldshendelse-i-tromdalen_-flere-skadde-1.17820131",
+      "title": "Søker etter stjålet bil – bileier påkjørt",
+      "link": "https://www.nrk.no/ostfold/soker-etter-stjalet-bil-_-bileier-pakjort-1.17820108",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 22 Mar 2026 18:21:08 GMT"
+    },
+    {
+      "title": "Voldshendelse i Tromsdalen: Flere skadde",
+      "link": "https://www.nrk.no/tromsogfinnmark/voldshendelse-i-tromsdalen_-flere-skadde-1.17820131",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sun, 22 Mar 2026 17:43:05 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon-fordommer-israelsk-brosprenging-1.17820109",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 22 Mar 2026 16:27:04 GMT"
-    },
-    {
-      "title": "Mann skadet i ulykke under skytestevne",
-      "link": "https://www.nrk.no/trondelag/mann-skadet-i-ulykke-under-skytestevne--1.17820008",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 22 Mar 2026 16:25:55 GMT"
     }
   ]
 }
