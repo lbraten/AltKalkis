@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-22T22:29:02.381Z",
+  "updatedAt": "2026-03-22T22:55:28.681Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisen fortsetter å stige",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-fortsetter-a-stige-1.17820375",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 22 Mar 2026 22:30:20 GMT"
+    },
     {
       "title": "Slovenia statsminister erklærer valgseier",
       "link": "https://www.nrk.no/nyheter/slovenia-statsminister-erklaerer-valgseier-1.17820367",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/mann-fraktet-til-sykehus-med-stikkskader-etter-voldshendelse-i-stavanger-1.17820181",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sun, 22 Mar 2026 20:49:00 GMT"
-    },
-    {
-      "title": "Spellemanns hederspris til Finn Kalvik",
-      "link": "https://www.nrk.no/nyheter/spellemanns-hederspris-til-finn-kalvik-1.17820288",
-      "category": "Spellemannprisen",
-      "pubDate": "Sun, 22 Mar 2026 20:16:46 GMT"
     }
   ]
 }
