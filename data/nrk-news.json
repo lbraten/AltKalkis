@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-03-22T12:57:05.774Z",
+  "updatedAt": "2026-03-22T13:49:07.275Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "IDF har byrja «bølge av angrep»",
-      "link": "https://www.nrk.no/nyheter/idf-har-byrja-_bolge-av-angrep_-1.17819918",
+      "title": "Italienarane stemmer over endringar i rettssystemet",
+      "link": "https://www.nrk.no/nyheter/italienarane-stemmer-over-endringar-i-rettssystemet-1.17819937",
+      "category": "Italia",
+      "pubDate": "Sun, 22 Mar 2026 13:17:55 GMT"
+    },
+    {
+      "title": "Fugleinfluensa i Tvedestrand- kaller inn til hastemøte",
+      "link": "https://www.nrk.no/sorlandet/fugleinfluensa-i-tvedestrand--kaller-inn-til-hastemote-1.17819898",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 22 Mar 2026 12:56:58 GMT"
+    },
+    {
+      "title": "IDF har byrja «bølge av angrep» mot Hizbollah",
+      "link": "https://www.nrk.no/nyheter/idf-har-byrja-_bolge-av-angrep_-mot-hizbollah-1.17819918",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 22 Mar 2026 12:52:11 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/buskerud/bil-kjort-inn-i-et-hus-i-hole-1.17819925",
       "category": "Politi og hendelser i Buskerud",
       "pubDate": "Sun, 22 Mar 2026 12:34:51 GMT"
-    },
-    {
-      "title": "ICE blir utplassert ved amerikanske flyplassar",
-      "link": "https://www.nrk.no/nyheter/ice-blir-utplassert-ved-amerikanske-flyplassar-1.17819885",
-      "category": "USA",
-      "pubDate": "Sun, 22 Mar 2026 12:16:51 GMT"
-    },
-    {
-      "title": "Mann pågrepet etter vold mot kvinne",
-      "link": "https://www.nrk.no/vestfoldogtelemark/mann-pagrepet-etter-vold-mot-kvinne--1.17819706",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 22 Mar 2026 11:54:29 GMT"
     }
   ]
 }
