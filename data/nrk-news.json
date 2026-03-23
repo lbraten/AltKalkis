@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-23T21:03:25.377Z",
+  "updatedAt": "2026-03-23T21:57:18.055Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann skutt ved fotballbane i Sverige",
+      "link": "https://www.nrk.no/nyheter/mann-skutt-ved-fotballbane-i-sverige--1.17821887",
+      "category": "Voldsbølge i Sverige",
+      "pubDate": "Mon, 23 Mar 2026 21:46:39 GMT"
+    },
+    {
+      "title": "Raketter avfyrt fra Irak mot militærbase nordøst i Syria",
+      "link": "https://www.nrk.no/nyheter/raketter-avfyrt-fra-irak-mot-militaerbase-nordost-i-syria-1.17821885",
+      "category": "Syria",
+      "pubDate": "Mon, 23 Mar 2026 21:39:33 GMT"
+    },
     {
       "title": "Åtte døde i flystyrt i Colombia",
       "link": "https://www.nrk.no/nyheter/atte-dode-i-flystyrt-i-colombia-1.17821835",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-bekreftet-dod-etter-flystyrt-i-colombia-1.17821709",
       "category": "Militærfly styrtet i Colombia",
       "pubDate": "Mon, 23 Mar 2026 18:50:11 GMT"
-    },
-    {
-      "title": "Voldshendelse på Bislett: Beslag av pistol",
-      "link": "https://www.nrk.no/stor-oslo/voldshendelse-pa-bislett_-beslag-av-pistol-1.17821713",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 23 Mar 2026 17:53:12 GMT"
-    },
-    {
-      "title": "Colombia: 125 om bord i flyet som styrtet",
-      "link": "https://www.nrk.no/nyheter/colombia_-125-om-bord-i-flyet-som-styrtet--1.17821678",
-      "category": "Colombia",
-      "pubDate": "Mon, 23 Mar 2026 17:44:44 GMT"
     }
   ]
 }
