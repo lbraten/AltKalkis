@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-23T06:47:27.525Z",
+  "updatedAt": "2026-03-23T08:02:37.030Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Henlegger sak om salg av sex til mindreårig",
+      "link": "https://www.nrk.no/stor-oslo/henlegger-sak-om-salg-av-sex-til-mindrearig--1.17820594",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 23 Mar 2026 07:19:36 GMT"
+    },
+    {
+      "title": "Buss kjørte inn i barnevogn i Bærum",
+      "link": "https://www.nrk.no/stor-oslo/buss-kjorte-inn-i-barnevogn-i-baerum-1.17820527",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 23 Mar 2026 06:48:02 GMT"
+    },
     {
       "title": "Tusenvis av små kilder kveler Oslofjorden",
       "link": "https://www.nrk.no/stor-oslo/tusenvis-av-sma-kilder-kveler-oslofjorden-1.17820448",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fly-krasjet-med-kjoretoy-pa-new-york-flyplass-1.17820431",
       "category": "USA",
       "pubDate": "Mon, 23 Mar 2026 04:44:27 GMT"
-    },
-    {
-      "title": "Iran truer med å mørklegge Israel og amerikanske baser",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-morklegge-israel-og-amerikanske-baser-1.17820407",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 23 Mar 2026 04:44:17 GMT"
-    },
-    {
-      "title": "Fire ambulanser satt i brann i London",
-      "link": "https://www.nrk.no/nyheter/fire-ambulanser-satt-i-brann-i-london-1.17820415",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 23 Mar 2026 04:37:56 GMT"
     }
   ]
 }
