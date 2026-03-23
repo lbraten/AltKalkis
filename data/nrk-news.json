@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-23T19:27:53.556Z",
+  "updatedAt": "2026-03-23T20:04:09.123Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bahrain vil at FNs sikkerhetsråd skal gi grønt lys for maktbruk i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/bahrain-vil-at-fns-sikkerhetsrad-skal-gi-gront-lys-for-maktbruk-i-hormuzstredet-1.17821772",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 23 Mar 2026 19:51:18 GMT"
+    },
     {
       "title": "Én bekreftet død etter flystyrt i Colombia",
       "link": "https://www.nrk.no/nyheter/en-bekreftet-dod-etter-flystyrt-i-colombia-1.17821709",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/medier_-funn-av-overlevende-etter-styrt-i-colombia-1.17821594",
       "category": "Colombia",
       "pubDate": "Mon, 23 Mar 2026 17:09:17 GMT"
-    },
-    {
-      "title": "Dødsfallet i Bærum: Drapssiktet mann fengsles",
-      "link": "https://www.nrk.no/stor-oslo/dodsfallet-i-baerum_-drapssiktet-mann-fengsles-1.17821662",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 23 Mar 2026 17:06:02 GMT"
     }
   ]
 }
