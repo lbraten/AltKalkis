@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-23T02:31:22.416Z",
+  "updatedAt": "2026-03-23T05:05:21.599Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Kraftige israelske angrep mot Iran natt til mandag",
-      "link": "https://www.nrk.no/nyheter/kraftige-israelske-angrep-mot-iran-natt-til-mandag-1.17820400",
+      "title": "Fly krasjet med kjøretøy på New York-flyplass",
+      "link": "https://www.nrk.no/nyheter/fly-krasjet-med-kjoretoy-pa-new-york-flyplass-1.17820431",
+      "category": "USA",
+      "pubDate": "Mon, 23 Mar 2026 04:44:27 GMT"
+    },
+    {
+      "title": "Iran truer med å mørklegge Israel og amerikanske baser",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-morklegge-israel-og-amerikanske-baser-1.17820407",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 23 Mar 2026 02:24:19 GMT"
+      "pubDate": "Mon, 23 Mar 2026 04:44:17 GMT"
     },
     {
-      "title": "IEA-sjefen: Krigen i Midtøsten truer verdensøkonomien",
-      "link": "https://www.nrk.no/nyheter/iea-sjefen_-krigen-i-midtosten-truer-verdensokonomien-1.17820398",
+      "title": "Fire ambulanser satt i brann i London",
+      "link": "https://www.nrk.no/nyheter/fire-ambulanser-satt-i-brann-i-london-1.17820415",
+      "category": "Storbritannia",
+      "pubDate": "Mon, 23 Mar 2026 04:37:56 GMT"
+    },
+    {
+      "title": "Rapport: Varmerekord de siste elleve årene",
+      "link": "https://www.nrk.no/nyheter/rapport_-varmerekord-de-siste-elleve-arene-1.17820411",
+      "category": "Klima og miljø",
+      "pubDate": "Mon, 23 Mar 2026 04:10:49 GMT"
+    },
+    {
+      "title": "Brann i russisk havn nær Finland etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/brann-i-russisk-havn-naer-finland-etter-droneangrep-1.17820399",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 23 Mar 2026 04:04:24 GMT"
+    },
+    {
+      "title": "Missilangrep mot Saudi-Arabias hovedstad",
+      "link": "https://www.nrk.no/nyheter/missilangrep-mot-saudi-arabias-hovedstad-1.17820406",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 23 Mar 2026 02:14:04 GMT"
-    },
-    {
-      "title": "Nato-sjefen sikker på at Hormuzstredet blir åpnet",
-      "link": "https://www.nrk.no/nyheter/nato-sjefen-sikker-pa-at-hormuzstredet-blir-apnet-1.17820397",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 23 Mar 2026 01:51:34 GMT"
-    },
-    {
-      "title": "Minst en person skal være drept i angrep mot radiostasjon i Iran",
-      "link": "https://www.nrk.no/nyheter/minst-en-person-skal-vaere-drept-i-angrep-mot-radiostasjon-i-iran-1.17820395",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 23 Mar 2026 01:34:13 GMT"
-    },
-    {
-      "title": "Fortsatt venstrestyre i Frankrikes to største byer",
-      "link": "https://www.nrk.no/nyheter/fortsatt-venstrestyre-i-frankrikes-to-storste-byer-1.17820393",
-      "category": "Frankrike",
-      "pubDate": "Mon, 23 Mar 2026 00:47:20 GMT"
-    },
-    {
-      "title": "81 døde i styrtregn og flom i Kenya",
-      "link": "https://www.nrk.no/nyheter/81-dode-i-styrtregn-og-flom-i-kenya-1.17820383",
-      "category": "Kenya",
-      "pubDate": "Mon, 23 Mar 2026 00:03:21 GMT"
+      "pubDate": "Mon, 23 Mar 2026 03:19:06 GMT"
     }
   ]
 }
