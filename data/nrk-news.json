@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-23T22:41:24.639Z",
+  "updatedAt": "2026-03-23T23:35:28.402Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kraftig smell hørt over Jerusalem",
+      "link": "https://www.nrk.no/nyheter/kraftig-smell-hort-over-jerusalem--1.17821899",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 23 Mar 2026 23:33:15 GMT"
+    },
+    {
+      "title": "Nådeløs reaksjon: Kim Jong-un advarer Sør-Korea mot krenkelser",
+      "link": "https://www.nrk.no/nyheter/nadelos-reaksjon_-kim-jong-un-advarer-sor-korea-mot-krenkelser-1.17821896",
+      "category": "Forholdet mellom Sør- og Nord-Korea",
+      "pubDate": "Mon, 23 Mar 2026 22:48:01 GMT"
+    },
     {
       "title": "Første del av nytt regjeringskvartal uten bomberom",
       "link": "https://www.nrk.no/nyheter/forste-del-av-nytt-regjeringskvartal-uten-bomberom-1.17821895",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/raketter-avfyrt-fra-irak-mot-militaerbase-nordost-i-syria-1.17821885",
       "category": "Syria",
       "pubDate": "Mon, 23 Mar 2026 21:39:33 GMT"
-    },
-    {
-      "title": "Åtte døde i flystyrt i Colombia",
-      "link": "https://www.nrk.no/nyheter/atte-dode-i-flystyrt-i-colombia-1.17821835",
-      "category": "Militærfly styrtet i Colombia",
-      "pubDate": "Mon, 23 Mar 2026 20:50:07 GMT"
-    },
-    {
-      "title": "Bill Cosby dømt til å betale 187 millioner i oppreising",
-      "link": "https://www.nrk.no/nyheter/bill-cosby-domt-til-a-betale-187-millioner-i-oppreising-1.17821822",
-      "category": "Bill Cosby",
-      "pubDate": "Mon, 23 Mar 2026 20:08:21 GMT"
     }
   ]
 }
