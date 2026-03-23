@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-23T05:05:21.599Z",
+  "updatedAt": "2026-03-23T06:47:27.525Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tusenvis av små kilder kveler Oslofjorden",
+      "link": "https://www.nrk.no/stor-oslo/tusenvis-av-sma-kilder-kveler-oslofjorden-1.17820448",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 23 Mar 2026 05:56:20 GMT"
+    },
+    {
+      "title": "Sunnmøre: Mann tiltalt for å ha å forgripe seg på fleire barn",
+      "link": "https://www.nrk.no/mr/sunnmore_-mann-tiltalt-for-a-ha-a-forgripe-seg-pa-fleire-barn-1.17820496",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Mon, 23 Mar 2026 05:52:56 GMT"
+    },
+    {
+      "title": "Trafikkulykke på Senja: – Fremstår som alvorlig",
+      "link": "https://www.nrk.no/tromsogfinnmark/trafikkulykke-pa-senja_-_-fremstar-som-alvorlig-1.17820462",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Mon, 23 Mar 2026 05:23:08 GMT"
+    },
     {
       "title": "Fly krasjet med kjøretøy på New York-flyplass",
       "link": "https://www.nrk.no/nyheter/fly-krasjet-med-kjoretoy-pa-new-york-flyplass-1.17820431",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fire-ambulanser-satt-i-brann-i-london-1.17820415",
       "category": "Storbritannia",
       "pubDate": "Mon, 23 Mar 2026 04:37:56 GMT"
-    },
-    {
-      "title": "Rapport: Varmerekord de siste elleve årene",
-      "link": "https://www.nrk.no/nyheter/rapport_-varmerekord-de-siste-elleve-arene-1.17820411",
-      "category": "Klima og miljø",
-      "pubDate": "Mon, 23 Mar 2026 04:10:49 GMT"
-    },
-    {
-      "title": "Brann i russisk havn nær Finland etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/brann-i-russisk-havn-naer-finland-etter-droneangrep-1.17820399",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 23 Mar 2026 04:04:24 GMT"
-    },
-    {
-      "title": "Missilangrep mot Saudi-Arabias hovedstad",
-      "link": "https://www.nrk.no/nyheter/missilangrep-mot-saudi-arabias-hovedstad-1.17820406",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 23 Mar 2026 03:19:06 GMT"
     }
   ]
 }
