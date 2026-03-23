@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-23T20:04:09.123Z",
+  "updatedAt": "2026-03-23T21:03:25.377Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Åtte døde i flystyrt i Colombia",
+      "link": "https://www.nrk.no/nyheter/atte-dode-i-flystyrt-i-colombia-1.17821835",
+      "category": "Militærfly styrtet i Colombia",
+      "pubDate": "Mon, 23 Mar 2026 20:50:07 GMT"
+    },
+    {
+      "title": "Bill Cosby dømt til å betale 187 millioner i oppreising",
+      "link": "https://www.nrk.no/nyheter/bill-cosby-domt-til-a-betale-187-millioner-i-oppreising-1.17821822",
+      "category": "Bill Cosby",
+      "pubDate": "Mon, 23 Mar 2026 20:08:21 GMT"
+    },
     {
       "title": "Bahrain vil at FNs sikkerhetsråd skal gi grønt lys for maktbruk i Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/bahrain-vil-at-fns-sikkerhetsrad-skal-gi-gront-lys-for-maktbruk-i-hormuzstredet-1.17821772",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/colombia_-125-om-bord-i-flyet-som-styrtet--1.17821678",
       "category": "Colombia",
       "pubDate": "Mon, 23 Mar 2026 17:44:44 GMT"
-    },
-    {
-      "title": "Iran anklager Trump for falske nyheter",
-      "link": "https://www.nrk.no/nyheter/iran-anklager-trump-for-falske-nyheter-1.17821676",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 23 Mar 2026 17:11:38 GMT"
-    },
-    {
-      "title": "Medier: Funn av overlevende etter styrt i Colombia",
-      "link": "https://www.nrk.no/nyheter/medier_-funn-av-overlevende-etter-styrt-i-colombia-1.17821594",
-      "category": "Colombia",
-      "pubDate": "Mon, 23 Mar 2026 17:09:17 GMT"
     }
   ]
 }
