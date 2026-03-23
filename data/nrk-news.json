@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-23T21:57:18.055Z",
+  "updatedAt": "2026-03-23T22:41:24.639Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Første del av nytt regjeringskvartal uten bomberom",
+      "link": "https://www.nrk.no/nyheter/forste-del-av-nytt-regjeringskvartal-uten-bomberom-1.17821895",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 23 Mar 2026 22:37:24 GMT"
+    },
+    {
+      "title": "Nord-Korea vil ikke gi slipp på sitt atomvåpenstatus",
+      "link": "https://www.nrk.no/nyheter/nord-korea-vil-ikke-gi-slipp-pa-sitt-atomvapenstatus-1.17821890",
+      "category": "Nord-Korea",
+      "pubDate": "Mon, 23 Mar 2026 22:15:12 GMT"
+    },
     {
       "title": "Mann skutt ved fotballbane i Sverige",
       "link": "https://www.nrk.no/nyheter/mann-skutt-ved-fotballbane-i-sverige--1.17821887",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bill-cosby-domt-til-a-betale-187-millioner-i-oppreising-1.17821822",
       "category": "Bill Cosby",
       "pubDate": "Mon, 23 Mar 2026 20:08:21 GMT"
-    },
-    {
-      "title": "Bahrain vil at FNs sikkerhetsråd skal gi grønt lys for maktbruk i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/bahrain-vil-at-fns-sikkerhetsrad-skal-gi-gront-lys-for-maktbruk-i-hormuzstredet-1.17821772",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 23 Mar 2026 19:51:18 GMT"
-    },
-    {
-      "title": "Én bekreftet død etter flystyrt i Colombia",
-      "link": "https://www.nrk.no/nyheter/en-bekreftet-dod-etter-flystyrt-i-colombia-1.17821709",
-      "category": "Militærfly styrtet i Colombia",
-      "pubDate": "Mon, 23 Mar 2026 18:50:11 GMT"
     }
   ]
 }
