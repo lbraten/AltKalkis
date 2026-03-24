@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-24T07:35:46.289Z",
+  "updatedAt": "2026-03-24T08:56:18.469Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Høiby blir sittende i varetekt – lagmannsretten forkaster anken",
+      "link": "https://www.nrk.no/nyheter/hoiby-blir-sittende-i-varetekt-_-lagmannsretten-forkaster-anken-1.17822271",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Tue, 24 Mar 2026 08:36:31 GMT"
+    },
+    {
+      "title": "Store oljekjøp rett før Trumps Iran‑melding",
+      "link": "https://www.nrk.no/nyheter/store-oljekjop-rett-for-trumps-iran_melding-1.17822237",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 24 Mar 2026 08:35:31 GMT"
+    },
+    {
+      "title": "DR: Nesten alle danske partier avlyser partilederdebatt på Christiansborg",
+      "link": "https://www.nrk.no/nyheter/dr_-nesten-alle-danske-partier-avlyser-partilederdebatt-pa-christiansborg--1.17822167",
+      "category": "Danmark",
+      "pubDate": "Tue, 24 Mar 2026 08:21:56 GMT"
+    },
     {
       "title": "Valglokalene i Danmark har åpnet",
       "link": "https://www.nrk.no/nyheter/valglokalene-i-danmark-har-apnet-1.17822097",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store-varsler-dronesatsing-for-forsvaret-1.17822059",
       "category": "Det norske Forsvaret",
       "pubDate": "Tue, 24 Mar 2026 07:00:52 GMT"
-    },
-    {
-      "title": "Droneangrep mot et tog i Ukraina: En drept",
-      "link": "https://www.nrk.no/nyheter/droneangrep-mot-et-tog-i-ukraina_-en-drept-1.17822045",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 24 Mar 2026 06:36:14 GMT"
-    },
-    {
-      "title": "Ikea tilbakekaller stearinlys på grunn av brannfare",
-      "link": "https://www.nrk.no/nyheter/ikea-tilbakekaller-stearinlys-pa-grunn-av-brannfare-1.17821979",
-      "category": "Ikea",
-      "pubDate": "Tue, 24 Mar 2026 06:29:07 GMT"
-    },
-    {
-      "title": "Industribygg evakueres etter brann",
-      "link": "https://www.nrk.no/nordland/industribygg-evakueres-etter-brann-1.17821971",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Tue, 24 Mar 2026 05:05:14 GMT"
     }
   ]
 }
