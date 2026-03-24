@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-24T19:16:29.848Z",
+  "updatedAt": "2026-03-24T20:02:27.922Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "69 personer døde i flystyrt i Colombia",
+      "link": "https://www.nrk.no/nyheter/69-personer-dode-i-flystyrt-i-colombia-1.17823482",
+      "category": "Colombia",
+      "pubDate": "Tue, 24 Mar 2026 19:28:33 GMT"
+    },
     {
       "title": "Ligger an til krisevalg for Mette Frederiksen",
       "link": "https://www.nrk.no/nyheter/ligger-an-til-krisevalg-for-mette-frederiksen--1.17823447",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/wall-street-journal_-3000-amerikanske-soldater-til-midtosten-1.17823324",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 24 Mar 2026 17:10:44 GMT"
-    },
-    {
-      "title": "Tre drept og flere såret i russiske angrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/tre-drept-og-flere-saret-i-russiske-angrep-i-ukraina-1.17823315",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 24 Mar 2026 17:03:43 GMT"
     }
   ]
 }
