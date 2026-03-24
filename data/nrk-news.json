@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-24T08:56:18.469Z",
+  "updatedAt": "2026-03-24T10:00:15.275Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Død person er funnet i Levanger",
+      "link": "https://www.nrk.no/trondelag/dod-person-er-funnet-i-levanger-1.17821933",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Tue, 24 Mar 2026 09:40:50 GMT"
+    },
+    {
+      "title": "Kongsvingerbanen stengt i påsken",
+      "link": "https://www.nrk.no/innlandet/kongsvingerbanen-stengt-i-pasken-1.17821993",
+      "category": "Samferdsel i Innlandet",
+      "pubDate": "Tue, 24 Mar 2026 09:32:50 GMT"
+    },
+    {
+      "title": "Havarikommisjonen: Soldat fikk alvorlige brannskader av vannkoker i militært kjøretøy",
+      "link": "https://www.nrk.no/nyheter/havarikommisjonen_-soldat-fikk-alvorlige-brannskader-av-vannkoker-i-militaert-kjoretoy-1.17822274",
+      "category": "Det norske Forsvaret",
+      "pubDate": "Tue, 24 Mar 2026 09:11:30 GMT"
+    },
+    {
+      "title": "Åpen for at det kan være flere trakasseringssaker",
+      "link": "https://www.nrk.no/tromsogfinnmark/apen-for-at-det-kan-vaere-flere-trakasseringssaker--1.17822318",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 24 Mar 2026 09:08:13 GMT"
+    },
     {
       "title": "Høiby blir sittende i varetekt – lagmannsretten forkaster anken",
       "link": "https://www.nrk.no/nyheter/hoiby-blir-sittende-i-varetekt-_-lagmannsretten-forkaster-anken-1.17822271",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store-oljekjop-rett-for-trumps-iran_melding-1.17822237",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 24 Mar 2026 08:35:31 GMT"
-    },
-    {
-      "title": "DR: Nesten alle danske partier avlyser partilederdebatt på Christiansborg",
-      "link": "https://www.nrk.no/nyheter/dr_-nesten-alle-danske-partier-avlyser-partilederdebatt-pa-christiansborg--1.17822167",
-      "category": "Danmark",
-      "pubDate": "Tue, 24 Mar 2026 08:21:56 GMT"
-    },
-    {
-      "title": "Valglokalene i Danmark har åpnet",
-      "link": "https://www.nrk.no/nyheter/valglokalene-i-danmark-har-apnet-1.17822097",
-      "category": "Danmark",
-      "pubDate": "Tue, 24 Mar 2026 07:10:50 GMT"
-    },
-    {
-      "title": "Rekordmange søkere til yrkesfag på videregående",
-      "link": "https://www.nrk.no/nyheter/rekordmange-sokere-til-yrkesfag-pa-videregaende-1.17822081",
-      "category": "Yrkesfag",
-      "pubDate": "Tue, 24 Mar 2026 07:08:16 GMT"
-    },
-    {
-      "title": "Støre varsler dronesatsing for Forsvaret",
-      "link": "https://www.nrk.no/nyheter/store-varsler-dronesatsing-for-forsvaret-1.17822059",
-      "category": "Det norske Forsvaret",
-      "pubDate": "Tue, 24 Mar 2026 07:00:52 GMT"
     }
   ]
 }
