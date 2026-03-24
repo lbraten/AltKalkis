@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-24T06:01:21.053Z",
+  "updatedAt": "2026-03-24T07:35:46.289Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Valglokalene i Danmark har åpnet",
+      "link": "https://www.nrk.no/nyheter/valglokalene-i-danmark-har-apnet-1.17822097",
+      "category": "Danmark",
+      "pubDate": "Tue, 24 Mar 2026 07:10:50 GMT"
+    },
+    {
+      "title": "Rekordmange søkere til yrkesfag på videregående",
+      "link": "https://www.nrk.no/nyheter/rekordmange-sokere-til-yrkesfag-pa-videregaende-1.17822081",
+      "category": "Yrkesfag",
+      "pubDate": "Tue, 24 Mar 2026 07:08:16 GMT"
+    },
+    {
+      "title": "Støre varsler dronesatsing for Forsvaret",
+      "link": "https://www.nrk.no/nyheter/store-varsler-dronesatsing-for-forsvaret-1.17822059",
+      "category": "Det norske Forsvaret",
+      "pubDate": "Tue, 24 Mar 2026 07:00:52 GMT"
+    },
+    {
+      "title": "Droneangrep mot et tog i Ukraina: En drept",
+      "link": "https://www.nrk.no/nyheter/droneangrep-mot-et-tog-i-ukraina_-en-drept-1.17822045",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 24 Mar 2026 06:36:14 GMT"
+    },
+    {
+      "title": "Ikea tilbakekaller stearinlys på grunn av brannfare",
+      "link": "https://www.nrk.no/nyheter/ikea-tilbakekaller-stearinlys-pa-grunn-av-brannfare-1.17821979",
+      "category": "Ikea",
+      "pubDate": "Tue, 24 Mar 2026 06:29:07 GMT"
+    },
     {
       "title": "Industribygg evakueres etter brann",
       "link": "https://www.nrk.no/nordland/industribygg-evakueres-etter-brann-1.17821971",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Tue, 24 Mar 2026 05:05:14 GMT"
-    },
-    {
-      "title": "Over 9000 mål rammet i Iran siden krigsutbruddet",
-      "link": "https://www.nrk.no/nyheter/over-9000-mal-rammet-i-iran-siden-krigsutbruddet-1.17821955",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 24 Mar 2026 04:43:38 GMT"
-    },
-    {
-      "title": "Minst 15 drept i angrep mot by i Sudan",
-      "link": "https://www.nrk.no/nyheter/minst-15-drept-i-angrep-mot-by-i-sudan-1.17821954",
-      "category": "Sudan",
-      "pubDate": "Tue, 24 Mar 2026 04:39:48 GMT"
-    },
-    {
-      "title": "Israel angrep syv områder i Beirut",
-      "link": "https://www.nrk.no/nyheter/israel-angrep-syv-omrader-i-beirut--1.17821945",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 24 Mar 2026 04:39:01 GMT"
-    },
-    {
-      "title": "Senatet godkjenner USAs sikkerhetsminister",
-      "link": "https://www.nrk.no/nyheter/senatet-godkjenner-usas-sikkerhetsminister-1.17821927",
-      "category": "USA",
-      "pubDate": "Tue, 24 Mar 2026 04:22:40 GMT"
-    },
-    {
-      "title": "Skap blåste av varebil på E39 i Bergen – Vikafjellet stengt på grunn uvær",
-      "link": "https://www.nrk.no/nyheter/skap-blaste-av-varebil-pa-e39-i-bergen-_-vikafjellet-stengt-pa-grunn-uvaer-1.17821924",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 24 Mar 2026 03:47:15 GMT"
     }
   ]
 }
