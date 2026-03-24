@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-24T02:23:43.418Z",
+  "updatedAt": "2026-03-24T04:30:40.981Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Senatet godkjenner USAs sikkerhetsminister",
+      "link": "https://www.nrk.no/nyheter/senatet-godkjenner-usas-sikkerhetsminister-1.17821927",
+      "category": "USA",
+      "pubDate": "Tue, 24 Mar 2026 04:22:40 GMT"
+    },
+    {
+      "title": "Skap blåste av varebil på E39 i Bergen – Vikafjellet stengt på grunn uvær",
+      "link": "https://www.nrk.no/nyheter/skap-blaste-av-varebil-pa-e39-i-bergen-_-vikafjellet-stengt-pa-grunn-uvaer-1.17821924",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 24 Mar 2026 03:47:15 GMT"
+    },
+    {
+      "title": "Fly skled av rullebanen på Island",
+      "link": "https://www.nrk.no/nyheter/fly-skled-av-rullebanen-pa-island--1.17821923",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 03:26:14 GMT"
+    },
+    {
+      "title": "Tre drept og flere skadet i russisk angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/tre-drept-og-flere-skadet-i-russisk-angrep-i-ukraina-1.17821922",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 24 Mar 2026 02:51:17 GMT"
+    },
+    {
+      "title": "Aksjemarkedene i Asia stiger",
+      "link": "https://www.nrk.no/nyheter/aksjemarkedene-i-asia-stiger--1.17821921",
+      "category": "Oljeprisen",
+      "pubDate": "Tue, 24 Mar 2026 02:41:14 GMT"
+    },
     {
       "title": "66 personer mistet livet i flystyrten i Colombia ifølge militæret",
       "link": "https://www.nrk.no/nyheter/66-personer-mistet-livet-i-flystyrten-i-colombia-ifolge-militaeret--1.17821920",
       "category": "Militærfly styrtet i Colombia",
       "pubDate": "Tue, 24 Mar 2026 02:15:25 GMT"
-    },
-    {
-      "title": "Ammoniakklekkasje stanset i Fredrikstad",
-      "link": "https://www.nrk.no/nyheter/ammoniakklekkasje-stanset-i-fredrikstad--1.17821919",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 24 Mar 2026 01:55:18 GMT"
-    },
-    {
-      "title": "Oljeprisen klatrer over 100 dollar igjen",
-      "link": "https://www.nrk.no/nyheter/oljeprisen-klatrer-over-100-dollar-igjen-1.17821918",
-      "category": "Oljeprisen",
-      "pubDate": "Tue, 24 Mar 2026 01:49:15 GMT"
-    },
-    {
-      "title": "Sør-Korea tar grep på grunn av bekymring rundt og olje- og gassforsyningen",
-      "link": "https://www.nrk.no/nyheter/sor-korea-tar-grep-pa-grunn-av-bekymring-rundt-og-olje--og-gassforsyningen-1.17821902",
-      "category": "Sør-Korea",
-      "pubDate": "Tue, 24 Mar 2026 01:30:43 GMT"
-    },
-    {
-      "title": "EU og Australia enige om handelsavtale",
-      "link": "https://www.nrk.no/nyheter/eu-og-australia-enige-om-handelsavtale-1.17821916",
-      "category": "Australia",
-      "pubDate": "Tue, 24 Mar 2026 00:32:23 GMT"
-    },
-    {
-      "title": "Minst 34 døde i flystyrten i Colombia",
-      "link": "https://www.nrk.no/nyheter/minst-34-dode-i-flystyrten-i-colombia--1.17821900",
-      "category": "Militærfly styrtet i Colombia",
-      "pubDate": "Mon, 23 Mar 2026 23:46:14 GMT"
     }
   ]
 }
