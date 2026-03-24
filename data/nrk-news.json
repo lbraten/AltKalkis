@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-24T13:56:26.833Z",
+  "updatedAt": "2026-03-24T15:05:14.239Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person skadet ved skole i Oslo etter voldshendelse med kniv",
+      "link": "https://www.nrk.no/stor-oslo/person-skadet-ved-skole-i-oslo-etter-voldshendelse-med-kniv-1.17823207",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 14:55:34 GMT"
+    },
+    {
+      "title": "Styret i Finnmarkssykehuset rystet etter varslersakene",
+      "link": "https://www.nrk.no/nyheter/styret-i-finnmarkssykehuset-rystet-etter-varslersakene-1.17823130",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 14:55:32 GMT"
+    },
+    {
+      "title": "Kvinne funnet død etter leteaksjon",
+      "link": "https://www.nrk.no/nordland/kvinne-funnet-dod-etter-leteaksjon-1.17823106",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 24 Mar 2026 14:53:16 GMT"
+    },
+    {
+      "title": "Mann truet ansatte på Nav i Bodø",
+      "link": "https://www.nrk.no/nyheter/mann-truet-ansatte-pa-nav-i-bodo-1.17823045",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 14:14:45 GMT"
+    },
     {
       "title": "Ny støtte til flyktninger i Ukraina",
       "link": "https://www.nrk.no/nyheter/ny-stotte-til-flyktninger-i-ukraina-1.17823013",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-har-utnevnt-ny-sikkerhetssjef-1.17822904",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 24 Mar 2026 13:32:52 GMT"
-    },
-    {
-      "title": "Epstein-skandalen: Disse må møte i kontrollhøring",
-      "link": "https://www.nrk.no/nyheter/epstein-skandalen_-disse-ma-mote-i-kontrollhoring-1.17822942",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Tue, 24 Mar 2026 13:09:50 GMT"
-    },
-    {
-      "title": "To gutter i Sverige tiltalt for drapsforsøk på kritiker av Irans regime",
-      "link": "https://www.nrk.no/nyheter/to-gutter-i-sverige-tiltalt-for-drapsforsok-pa-kritiker-av-irans-regime-1.17822900",
-      "category": "Sverige",
-      "pubDate": "Tue, 24 Mar 2026 12:51:50 GMT"
-    },
-    {
-      "title": "Hizbollah: Israelsk okkupasjon en eksistensiell trussel mot Libanon som stat",
-      "link": "https://www.nrk.no/nyheter/hizbollah_-israelsk-okkupasjon-en-eksistensiell-trussel-mot-libanon-som-stat-1.17822877",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 24 Mar 2026 12:50:41 GMT"
-    },
-    {
-      "title": "USA planlegg for fleire marine- og spesialstyrkar på Grønland",
-      "link": "https://www.nrk.no/nyheter/usa-planlegg-for-fleire-marine--og-spesialstyrkar-pa-gronland-1.17822826",
-      "category": "Grønland",
-      "pubDate": "Tue, 24 Mar 2026 12:25:21 GMT"
     }
   ]
 }
