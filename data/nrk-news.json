@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-24T04:30:40.981Z",
+  "updatedAt": "2026-03-24T06:01:21.053Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Industribygg evakueres etter brann",
+      "link": "https://www.nrk.no/nordland/industribygg-evakueres-etter-brann-1.17821971",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 24 Mar 2026 05:05:14 GMT"
+    },
+    {
+      "title": "Over 9000 mål rammet i Iran siden krigsutbruddet",
+      "link": "https://www.nrk.no/nyheter/over-9000-mal-rammet-i-iran-siden-krigsutbruddet-1.17821955",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 24 Mar 2026 04:43:38 GMT"
+    },
+    {
+      "title": "Minst 15 drept i angrep mot by i Sudan",
+      "link": "https://www.nrk.no/nyheter/minst-15-drept-i-angrep-mot-by-i-sudan-1.17821954",
+      "category": "Sudan",
+      "pubDate": "Tue, 24 Mar 2026 04:39:48 GMT"
+    },
+    {
+      "title": "Israel angrep syv områder i Beirut",
+      "link": "https://www.nrk.no/nyheter/israel-angrep-syv-omrader-i-beirut--1.17821945",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 24 Mar 2026 04:39:01 GMT"
+    },
     {
       "title": "Senatet godkjenner USAs sikkerhetsminister",
       "link": "https://www.nrk.no/nyheter/senatet-godkjenner-usas-sikkerhetsminister-1.17821927",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skap-blaste-av-varebil-pa-e39-i-bergen-_-vikafjellet-stengt-pa-grunn-uvaer-1.17821924",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Tue, 24 Mar 2026 03:47:15 GMT"
-    },
-    {
-      "title": "Fly skled av rullebanen på Island",
-      "link": "https://www.nrk.no/nyheter/fly-skled-av-rullebanen-pa-island--1.17821923",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 24 Mar 2026 03:26:14 GMT"
-    },
-    {
-      "title": "Tre drept og flere skadet i russisk angrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/tre-drept-og-flere-skadet-i-russisk-angrep-i-ukraina-1.17821922",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 24 Mar 2026 02:51:17 GMT"
-    },
-    {
-      "title": "Aksjemarkedene i Asia stiger",
-      "link": "https://www.nrk.no/nyheter/aksjemarkedene-i-asia-stiger--1.17821921",
-      "category": "Oljeprisen",
-      "pubDate": "Tue, 24 Mar 2026 02:41:14 GMT"
-    },
-    {
-      "title": "66 personer mistet livet i flystyrten i Colombia ifølge militæret",
-      "link": "https://www.nrk.no/nyheter/66-personer-mistet-livet-i-flystyrten-i-colombia-ifolge-militaeret--1.17821920",
-      "category": "Militærfly styrtet i Colombia",
-      "pubDate": "Tue, 24 Mar 2026 02:15:25 GMT"
     }
   ]
 }
