@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-03-24T15:05:14.239Z",
+  "updatedAt": "2026-03-24T16:36:56.116Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "1000 ansatte mister jobben i Fortnite-selskapet Epic Games",
+      "link": "https://www.nrk.no/nyheter/1000-ansatte-mister-jobben-i-fortnite-selskapet-epic-games-1.17823273",
+      "category": "Gaming",
+      "pubDate": "Tue, 24 Mar 2026 16:13:46 GMT"
+    },
+    {
+      "title": "Mann i 20-årene pågrepet etter vold ved Oslo-skole",
+      "link": "https://www.nrk.no/nyheter/mann-i-20-arene-pagrepet-etter-vold-ved-oslo-skole-1.17823251",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 24 Mar 2026 16:10:18 GMT"
+    },
+    {
+      "title": "To personer pågrepet i Spania og Tyskland – skal ha spionert for Russland",
+      "link": "https://www.nrk.no/nyheter/to-personer-pagrepet-i-spania-og-tyskland-_-skal-ha-spionert-for-russland-1.17823208",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 15:40:10 GMT"
+    },
+    {
       "title": "Person skadet ved skole i Oslo etter voldshendelse med kniv",
       "link": "https://www.nrk.no/stor-oslo/person-skadet-ved-skole-i-oslo-etter-voldshendelse-med-kniv-1.17823207",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 24 Mar 2026 14:55:34 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nordland/kvinne-funnet-dod-etter-leteaksjon-1.17823106",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Tue, 24 Mar 2026 14:53:16 GMT"
-    },
-    {
-      "title": "Mann truet ansatte på Nav i Bodø",
-      "link": "https://www.nrk.no/nyheter/mann-truet-ansatte-pa-nav-i-bodo-1.17823045",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 24 Mar 2026 14:14:45 GMT"
-    },
-    {
-      "title": "Ny støtte til flyktninger i Ukraina",
-      "link": "https://www.nrk.no/nyheter/ny-stotte-til-flyktninger-i-ukraina-1.17823013",
-      "category": "Støre-regjeringen",
-      "pubDate": "Tue, 24 Mar 2026 13:42:58 GMT"
-    },
-    {
-      "title": "Iran har utnevnt ny sikkerhetssjef",
-      "link": "https://www.nrk.no/nyheter/iran-har-utnevnt-ny-sikkerhetssjef-1.17822904",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 24 Mar 2026 13:32:52 GMT"
     }
   ]
 }
