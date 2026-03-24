@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-24T16:36:56.116Z",
+  "updatedAt": "2026-03-24T17:57:58.168Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Wall Street Journal: 3000 amerikanske soldater til Midtøsten",
+      "link": "https://www.nrk.no/nyheter/wall-street-journal_-3000-amerikanske-soldater-til-midtosten-1.17823324",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 24 Mar 2026 17:10:44 GMT"
+    },
+    {
+      "title": "Tre drept og flere såret i russiske angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/tre-drept-og-flere-saret-i-russiske-angrep-i-ukraina-1.17823315",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 24 Mar 2026 17:03:43 GMT"
+    },
+    {
+      "title": "Måling: Senterpartiet under sperregrensen",
+      "link": "https://www.nrk.no/nyheter/maling_-senterpartiet-under-sperregrensen-1.17823297",
+      "category": "Norsk politikk",
+      "pubDate": "Tue, 24 Mar 2026 17:00:28 GMT"
+    },
+    {
+      "title": "Bombegruppen på vei til Balsfjord",
+      "link": "https://www.nrk.no/tromsogfinnmark/bombegruppen-pa-vei-til-balsfjord--1.17823228",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 24 Mar 2026 16:47:13 GMT"
+    },
+    {
+      "title": "Skip i Norskehavet har sendt nødmelding",
+      "link": "https://www.nrk.no/nyheter/skip-i-norskehavet-har-sendt-nodmelding-1.17823276",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 16:42:06 GMT"
+    },
     {
       "title": "1000 ansatte mister jobben i Fortnite-selskapet Epic Games",
       "link": "https://www.nrk.no/nyheter/1000-ansatte-mister-jobben-i-fortnite-selskapet-epic-games-1.17823273",
       "category": "Gaming",
       "pubDate": "Tue, 24 Mar 2026 16:13:46 GMT"
-    },
-    {
-      "title": "Mann i 20-årene pågrepet etter vold ved Oslo-skole",
-      "link": "https://www.nrk.no/nyheter/mann-i-20-arene-pagrepet-etter-vold-ved-oslo-skole-1.17823251",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 24 Mar 2026 16:10:18 GMT"
-    },
-    {
-      "title": "To personer pågrepet i Spania og Tyskland – skal ha spionert for Russland",
-      "link": "https://www.nrk.no/nyheter/to-personer-pagrepet-i-spania-og-tyskland-_-skal-ha-spionert-for-russland-1.17823208",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 24 Mar 2026 15:40:10 GMT"
-    },
-    {
-      "title": "Person skadet ved skole i Oslo etter voldshendelse med kniv",
-      "link": "https://www.nrk.no/stor-oslo/person-skadet-ved-skole-i-oslo-etter-voldshendelse-med-kniv-1.17823207",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 24 Mar 2026 14:55:34 GMT"
-    },
-    {
-      "title": "Styret i Finnmarkssykehuset rystet etter varslersakene",
-      "link": "https://www.nrk.no/nyheter/styret-i-finnmarkssykehuset-rystet-etter-varslersakene-1.17823130",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 24 Mar 2026 14:55:32 GMT"
-    },
-    {
-      "title": "Kvinne funnet død etter leteaksjon",
-      "link": "https://www.nrk.no/nordland/kvinne-funnet-dod-etter-leteaksjon-1.17823106",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Tue, 24 Mar 2026 14:53:16 GMT"
     }
   ]
 }
