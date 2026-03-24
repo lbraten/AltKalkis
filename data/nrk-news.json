@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-24T22:59:02.877Z",
+  "updatedAt": "2026-03-24T23:40:39.672Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Valg i Danmark: Flest mandater til venstresiden",
+      "link": "https://www.nrk.no/nyheter/valg-i-danmark_-flest-mandater-til-venstresiden--1.17823585",
+      "category": "Danmark",
+      "pubDate": "Tue, 24 Mar 2026 23:12:47 GMT"
+    },
+    {
+      "title": "IDF: Angrep mot infrastruktur i Teheran",
+      "link": "https://www.nrk.no/nyheter/idf_-angrep-mot-infrastruktur-i-teheran-1.17823592",
+      "category": "Israel",
+      "pubDate": "Tue, 24 Mar 2026 23:05:02 GMT"
+    },
     {
       "title": "Iran sier at «ikke-fiendtlige fartøy» får passere Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/iran-sier-at-_ikke-fiendtlige-fartoy_-far-passere-hormuzstredet-1.17823581",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/idf-melder-at-iran-har-avfyrt-missiler-mot-israel-1.17823568",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 24 Mar 2026 21:50:37 GMT"
-    },
-    {
-      "title": "Milliard bot til Meta – mener barns helse blir skadet",
-      "link": "https://www.nrk.no/nyheter/milliard-bot-til-meta-_-mener-barns-helse-blir-skadet-1.17823567",
-      "category": "USA",
-      "pubDate": "Tue, 24 Mar 2026 21:30:42 GMT"
-    },
-    {
-      "title": "Kolonnekjøring over flere fjelloverganger i Sør-Norge",
-      "link": "https://www.nrk.no/nyheter/kolonnekjoring-over-flere-fjelloverganger-i-sor-norge--1.17823565",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Tue, 24 Mar 2026 21:29:39 GMT"
     }
   ]
 }
