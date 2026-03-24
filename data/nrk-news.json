@@ -1,17 +1,23 @@
 {
-  "updatedAt": "2026-03-24T22:01:12.211Z",
+  "updatedAt": "2026-03-24T22:59:02.877Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Iran sier at «ikke-fiendtlige fartøy» får passere Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran-sier-at-_ikke-fiendtlige-fartoy_-far-passere-hormuzstredet-1.17823581",
+      "category": "Iran",
+      "pubDate": "Tue, 24 Mar 2026 22:28:54 GMT"
+    },
+    {
       "title": "Låtskriver og sanger Chip Taylor er død",
       "link": "https://www.nrk.no/nyheter/latskriver-og-sanger-chip-taylor-er-dod-1.17823575",
-      "category": "NRK Nyheter",
+      "category": "Musikk",
       "pubDate": "Tue, 24 Mar 2026 21:58:25 GMT"
     },
     {
-      "title": "Lastebil har veltet på E6 ved Jessheim",
-      "link": "https://www.nrk.no/nyheter/lastebil-har-veltet-pa-e6-ved-jessheim-1.17823574",
-      "category": "NRK Nyheter",
+      "title": "Henger til lastebil har veltet på E6 ved Jessheim",
+      "link": "https://www.nrk.no/nyheter/henger-til-lastebil-har-veltet-pa-e6-ved-jessheim-1.17823574",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 24 Mar 2026 21:53:35 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kolonnekjoring-over-flere-fjelloverganger-i-sor-norge--1.17823565",
       "category": "Vær og trafikk i Norge",
       "pubDate": "Tue, 24 Mar 2026 21:29:39 GMT"
-    },
-    {
-      "title": "The New York Times: USA har sendt Iran plan",
-      "link": "https://www.nrk.no/nyheter/the-new-york-times_-usa-har-sendt-iran-plan-1.17823550",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 24 Mar 2026 21:02:33 GMT"
     }
   ]
 }
