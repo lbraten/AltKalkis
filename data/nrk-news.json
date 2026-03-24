@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-24T21:05:12.285Z",
+  "updatedAt": "2026-03-24T22:01:12.211Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Låtskriver og sanger Chip Taylor er død",
+      "link": "https://www.nrk.no/nyheter/latskriver-og-sanger-chip-taylor-er-dod-1.17823575",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 21:58:25 GMT"
+    },
+    {
+      "title": "Lastebil har veltet på E6 ved Jessheim",
+      "link": "https://www.nrk.no/nyheter/lastebil-har-veltet-pa-e6-ved-jessheim-1.17823574",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 21:53:35 GMT"
+    },
+    {
+      "title": "IDF melder at Iran har avfyrt missiler mot Israel",
+      "link": "https://www.nrk.no/nyheter/idf-melder-at-iran-har-avfyrt-missiler-mot-israel-1.17823568",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 24 Mar 2026 21:50:37 GMT"
+    },
+    {
+      "title": "Milliard bot til Meta – mener barns helse blir skadet",
+      "link": "https://www.nrk.no/nyheter/milliard-bot-til-meta-_-mener-barns-helse-blir-skadet-1.17823567",
+      "category": "USA",
+      "pubDate": "Tue, 24 Mar 2026 21:30:42 GMT"
+    },
+    {
+      "title": "Kolonnekjøring over flere fjelloverganger i Sør-Norge",
+      "link": "https://www.nrk.no/nyheter/kolonnekjoring-over-flere-fjelloverganger-i-sor-norge--1.17823565",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Tue, 24 Mar 2026 21:29:39 GMT"
+    },
     {
       "title": "The New York Times: USA har sendt Iran plan",
       "link": "https://www.nrk.no/nyheter/the-new-york-times_-usa-har-sendt-iran-plan-1.17823550",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 24 Mar 2026 21:02:33 GMT"
-    },
-    {
-      "title": "Fortsatt ingen blokk med flertall i Danmark, ifølge prognose",
-      "link": "https://www.nrk.no/nyheter/fortsatt-ingen-blokk-med-flertall-i-danmark_-ifolge-prognose-1.17823509",
-      "category": "Danmark",
-      "pubDate": "Tue, 24 Mar 2026 20:52:40 GMT"
-    },
-    {
-      "title": "Mann i 20-årene siktet for drapsforsøk etter knivstikking ved skole i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/mann-i-20-arene-siktet-for-drapsforsok-etter-knivstikking-ved-skole-i-oslo-1.17823368",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 24 Mar 2026 20:44:15 GMT"
-    },
-    {
-      "title": "69 personer døde i flystyrt i Colombia",
-      "link": "https://www.nrk.no/nyheter/69-personer-dode-i-flystyrt-i-colombia-1.17823482",
-      "category": "Colombia",
-      "pubDate": "Tue, 24 Mar 2026 19:28:33 GMT"
-    },
-    {
-      "title": "Ligger an til krisevalg for Mette Frederiksen",
-      "link": "https://www.nrk.no/nyheter/ligger-an-til-krisevalg-for-mette-frederiksen--1.17823447",
-      "category": "Danmark",
-      "pubDate": "Tue, 24 Mar 2026 19:03:23 GMT"
-    },
-    {
-      "title": "Trump hevder fortsatt at han forhandler med Iran",
-      "link": "https://www.nrk.no/nyheter/trump-hevder-fortsatt-at-han-forhandler-med-iran-1.17823396",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 24 Mar 2026 18:35:10 GMT"
     }
   ]
 }
