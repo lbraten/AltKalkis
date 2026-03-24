@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-24T11:24:03.066Z",
+  "updatedAt": "2026-03-24T12:03:54.251Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Høgsterett avviser anke frå Stordalen",
+      "link": "https://www.nrk.no/nyheter/hogsterett-avviser-anke-fra-stordalen-1.17822699",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 11:49:30 GMT"
+    },
+    {
+      "title": "Høgre foreslår strakstiltak for å kutte drivstoffprisane",
+      "link": "https://www.nrk.no/nyheter/hogre-foreslar-strakstiltak-for-a-kutte-drivstoffprisane-1.17822695",
+      "category": "Partiet Høyre",
+      "pubDate": "Tue, 24 Mar 2026 11:45:52 GMT"
+    },
+    {
+      "title": "Avinor varslar ein travel påske",
+      "link": "https://www.nrk.no/nyheter/avinor-varslar-ein-travel-paske-1.17822680",
+      "category": "Avinor",
+      "pubDate": "Tue, 24 Mar 2026 11:44:19 GMT"
+    },
+    {
+      "title": "Filippinane erklærer energikrise",
+      "link": "https://www.nrk.no/nyheter/filippinane-erklaerer-energikrise--1.17822667",
+      "category": "Filippinene",
+      "pubDate": "Tue, 24 Mar 2026 11:39:34 GMT"
+    },
+    {
+      "title": "Konsulentbruken i Oslo kommune har økt",
+      "link": "https://www.nrk.no/stor-oslo/konsulentbruken-i-oslo-kommune-har-okt-1.17822626",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 24 Mar 2026 11:22:36 GMT"
+    },
     {
       "title": "Sudan: Over 500 sivile drept av droneangrep i år",
       "link": "https://www.nrk.no/nyheter/sudan_-over-500-sivile-drept-av-droneangrep-i-ar--1.17822572",
       "category": "Sudan",
       "pubDate": "Tue, 24 Mar 2026 11:04:46 GMT"
-    },
-    {
-      "title": "Israel varsler okkupasjon i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-varsler-okkupasjon-i-sor-libanon-1.17822355",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 24 Mar 2026 10:07:09 GMT"
-    },
-    {
-      "title": "Død person er funnet i Levanger",
-      "link": "https://www.nrk.no/trondelag/dod-person-er-funnet-i-levanger-1.17821933",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Tue, 24 Mar 2026 09:40:50 GMT"
-    },
-    {
-      "title": "Kongsvingerbanen stengt i påsken",
-      "link": "https://www.nrk.no/innlandet/kongsvingerbanen-stengt-i-pasken-1.17821993",
-      "category": "Samferdsel i Innlandet",
-      "pubDate": "Tue, 24 Mar 2026 09:32:50 GMT"
-    },
-    {
-      "title": "Havarikommisjonen: Soldat fikk alvorlige brannskader av vannkoker i militært kjøretøy",
-      "link": "https://www.nrk.no/nyheter/havarikommisjonen_-soldat-fikk-alvorlige-brannskader-av-vannkoker-i-militaert-kjoretoy-1.17822274",
-      "category": "Det norske Forsvaret",
-      "pubDate": "Tue, 24 Mar 2026 09:11:30 GMT"
-    },
-    {
-      "title": "Åpen for at det kan være flere trakasseringssaker",
-      "link": "https://www.nrk.no/tromsogfinnmark/apen-for-at-det-kan-vaere-flere-trakasseringssaker--1.17822318",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 24 Mar 2026 09:08:13 GMT"
     }
   ]
 }
