@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-24T17:57:58.168Z",
+  "updatedAt": "2026-03-24T19:16:29.848Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ligger an til krisevalg for Mette Frederiksen",
+      "link": "https://www.nrk.no/nyheter/ligger-an-til-krisevalg-for-mette-frederiksen--1.17823447",
+      "category": "Danmark",
+      "pubDate": "Tue, 24 Mar 2026 19:03:23 GMT"
+    },
+    {
+      "title": "Trump hevder fortsatt at han forhandler med Iran",
+      "link": "https://www.nrk.no/nyheter/trump-hevder-fortsatt-at-han-forhandler-med-iran-1.17823396",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 24 Mar 2026 18:35:10 GMT"
+    },
+    {
+      "title": "Tre personer pågrepet etter våpenbeslag",
+      "link": "https://www.nrk.no/trondelag/tre-personer-pagrepet-etter-vapenbeslag-1.17823385",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Tue, 24 Mar 2026 18:13:45 GMT"
+    },
+    {
+      "title": "Brann i hus i Ålesund",
+      "link": "https://www.nrk.no/nyheter/brann-i-hus-i-alesund-1.17823342",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Mar 2026 18:04:12 GMT"
+    },
     {
       "title": "Wall Street Journal: 3000 amerikanske soldater til Midtøsten",
       "link": "https://www.nrk.no/nyheter/wall-street-journal_-3000-amerikanske-soldater-til-midtosten-1.17823324",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tre-drept-og-flere-saret-i-russiske-angrep-i-ukraina-1.17823315",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 24 Mar 2026 17:03:43 GMT"
-    },
-    {
-      "title": "Måling: Senterpartiet under sperregrensen",
-      "link": "https://www.nrk.no/nyheter/maling_-senterpartiet-under-sperregrensen-1.17823297",
-      "category": "Norsk politikk",
-      "pubDate": "Tue, 24 Mar 2026 17:00:28 GMT"
-    },
-    {
-      "title": "Bombegruppen på vei til Balsfjord",
-      "link": "https://www.nrk.no/tromsogfinnmark/bombegruppen-pa-vei-til-balsfjord--1.17823228",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 24 Mar 2026 16:47:13 GMT"
-    },
-    {
-      "title": "Skip i Norskehavet har sendt nødmelding",
-      "link": "https://www.nrk.no/nyheter/skip-i-norskehavet-har-sendt-nodmelding-1.17823276",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 24 Mar 2026 16:42:06 GMT"
-    },
-    {
-      "title": "1000 ansatte mister jobben i Fortnite-selskapet Epic Games",
-      "link": "https://www.nrk.no/nyheter/1000-ansatte-mister-jobben-i-fortnite-selskapet-epic-games-1.17823273",
-      "category": "Gaming",
-      "pubDate": "Tue, 24 Mar 2026 16:13:46 GMT"
     }
   ]
 }
