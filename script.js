@@ -118,6 +118,117 @@ document.addEventListener("DOMContentLoaded", () => {
     if (proteinPer100Input) proteinPer100Input.addEventListener("input", updateProteinValue);
     updateProteinValue();
 
+    //ki tekst-renser
+    const textCleanerInput = document.getElementById("textCleanerInput");
+    const textCleanerPasteInfo = document.getElementById("textCleanerPasteInfo");
+    const textCleanerRunBtn = document.getElementById("textCleanerRunBtn");
+    const textCleanerCopyBtn = document.getElementById("textCleanerCopyBtn");
+    const textCleanerClearBtn = document.getElementById("textCleanerClearBtn");
+    const textCleanerStatus = document.getElementById("textCleanerStatus");
+    const textCleanerOutput = document.getElementById("textCleanerOutput");
+    let rawCleanerText = "";
+
+    const setCleanerSummary = (text, sourceLabel = "limt inn") => {
+        const count = text.length;
+        if (textCleanerInput) {
+            textCleanerInput.value = count ? `${count} tegn ${sourceLabel}.` : "";
+        }
+        if (textCleanerPasteInfo) {
+            textCleanerPasteInfo.innerText = count ? `${count} tegn registrert.` : "Ingen tekst limt inn ennå.";
+        }
+    };
+
+    const htmlFallbackToText = (html) => {
+        if (!html) return "";
+        const withBreaks = html
+            .replace(/<br\s*\/?>/gi, "\n")
+            .replace(/<li\b[^>]*>/gi, "- ")
+            .replace(/<\/(p|div|h[1-6]|li|tr|section|article|blockquote)>/gi, "\n")
+            .replace(/<[^>]+>/g, "");
+        const decodeEl = document.createElement("textarea");
+        decodeEl.innerHTML = withBreaks;
+        return decodeEl.value;
+    };
+
+    const normalizeCleanText = (text) => {
+        if (!text) return "";
+
+        return text
+            .replace(/\r\n?/g, "\n")
+            .replace(/[\u00A0\u2007\u202F]/g, " ")
+            .replace(/[“”„‟«»‹›〝〞＂]/g, '"')
+            .replace(/[–—―−‐‑‒﹘﹣]/g, "-")
+            .replace(/^[ \t]*[•◦●▪▫‣◉○◆▶►]\s+/gm, "- ")
+            .replace(/[ \t]+$/gm, "")
+            .replace(/\n{3,}/g, "\n\n")
+            .trim();
+    };
+
+    const copyCleanerOutput = async () => {
+        if (!textCleanerOutput || !textCleanerStatus) return;
+        const value = textCleanerOutput.value;
+        if (!value) {
+            textCleanerStatus.innerText = "Ingen renset tekst å kopiere.";
+            return;
+        }
+        try {
+            if (navigator.clipboard?.writeText) {
+                await navigator.clipboard.writeText(value);
+            } else {
+                textCleanerOutput.focus();
+                textCleanerOutput.select();
+                document.execCommand("copy");
+            }
+            textCleanerStatus.innerText = "Renset tekst kopiert.";
+        } catch {
+            textCleanerStatus.innerText = "Klarte ikke kopiere tekst.";
+        }
+    };
+
+    if (textCleanerInput) {
+        textCleanerInput.addEventListener("paste", (event) => {
+            event.preventDefault();
+            const pastedPlain = event.clipboardData?.getData("text/plain") || "";
+            const pastedHtml = event.clipboardData?.getData("text/html") || "";
+            rawCleanerText = pastedPlain || htmlFallbackToText(pastedHtml);
+            setCleanerSummary(rawCleanerText, "limt inn");
+            if (textCleanerStatus) textCleanerStatus.innerText = "Tekst limt inn. Trykk 'Rens tekst'.";
+        });
+
+        textCleanerInput.addEventListener("input", () => {
+            rawCleanerText = textCleanerInput.value;
+            setCleanerSummary(rawCleanerText, "skrevet inn");
+        });
+    }
+
+    if (textCleanerRunBtn) {
+        textCleanerRunBtn.addEventListener("click", () => {
+            if (!textCleanerOutput || !textCleanerStatus) return;
+            if (!rawCleanerText.trim()) {
+                textCleanerStatus.innerText = "Lim inn eller skriv tekst først.";
+                textCleanerOutput.value = "";
+                return;
+            }
+            const cleaned = normalizeCleanText(rawCleanerText);
+            textCleanerOutput.value = cleaned;
+            textCleanerStatus.innerText = cleaned ? "Tekst renset." : "Ingen tekst igjen etter rensing.";
+        });
+    }
+
+    if (textCleanerCopyBtn) {
+        textCleanerCopyBtn.addEventListener("click", copyCleanerOutput);
+    }
+
+    if (textCleanerClearBtn) {
+        textCleanerClearBtn.addEventListener("click", () => {
+            rawCleanerText = "";
+            if (textCleanerInput) textCleanerInput.value = "";
+            if (textCleanerOutput) textCleanerOutput.value = "";
+            if (textCleanerStatus) textCleanerStatus.innerText = "";
+            if (textCleanerPasteInfo) textCleanerPasteInfo.innerText = "Ingen tekst limt inn ennå.";
+        });
+    }
+
     //timeslønn
     const monthlySalaryInput = document.getElementById("monthlySalary");
     const hoursPerWeekInput = document.getElementById("hoursPerWeek");

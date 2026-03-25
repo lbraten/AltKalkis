@@ -938,6 +938,45 @@ h6 {
     color: rgba(var(--color-text-muted), 0.95);
 }
 
+.text-cleaner-grid {
+    display: grid;
+    gap: 0.55rem;
+}
+
+.text-cleaner-input,
+.text-cleaner-output {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.7rem 0.8rem;
+    border: 1px solid rgba(var(--color-border), 0.45);
+    border-radius: 8px;
+    background: rgb(var(--color-bg-input));
+    color: rgb(var(--color-text-base));
+    font: inherit;
+    resize: vertical;
+}
+
+.text-cleaner-input {
+    min-height: 56px;
+}
+
+.text-cleaner-output {
+    min-height: 130px;
+    line-height: 1.4;
+}
+
+.text-cleaner-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+}
+
+.text-cleaner-actions button {
+    margin: 0;
+    padding: 0.45rem 0.7rem;
+    font-size: 0.86rem;
+}
+
 .weather-controls {
     gap: 8px;
 }

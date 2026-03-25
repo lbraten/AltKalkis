@@ -44,6 +44,10 @@
                         <span>Protein per krone</span>
                     </label>
                     <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="textCleanerCard" checked>
+                        <span>KI tekst renser</span>
+                    </label>
+                    <label class="sidebar__toggle">
                         <input type="checkbox" data-toggle-card="salaryCard" checked>
                         <span>Timeslønn / månedslønn</span>
                     </label>
@@ -227,6 +231,22 @@
                     <p id="proteinResultTotal">Total protein: -</p>
                     <p id="proteinResultPricePerGram">Kr per gram protein: -</p>
                     <p id="proteinResultGramPerKrone">Gram protein per krone: -</p>
+                </div>
+            </div>
+
+            <!-- KI tekst-renser -->
+            <div class="bordershadow card--s" id="textCleanerCard">
+                <h2>KI tekst renser</h2>
+                <div class="text-cleaner-grid">
+                    <textarea id="textCleanerInput" class="text-cleaner-input" rows="2" placeholder="Lim inn tekst her (Ctrl+V)"></textarea>
+                    <p id="textCleanerPasteInfo" class="protein-helper">Ingen tekst limt inn ennå.</p>
+                    <div class="text-cleaner-actions">
+                        <button id="textCleanerRunBtn" type="button">Rens tekst</button>
+                        <button id="textCleanerCopyBtn" type="button">Kopier ren tekst</button>
+                        <button id="textCleanerClearBtn" type="button">Nullstill</button>
+                    </div>
+                    <p id="textCleanerStatus" class="chart-meta-status" aria-live="polite"></p>
+                    <textarea id="textCleanerOutput" class="text-cleaner-output" rows="6" placeholder="Renset tekst vises her" readonly></textarea>
                 </div>
             </div>
 
