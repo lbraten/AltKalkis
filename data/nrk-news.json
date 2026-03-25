@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-25T22:39:33.188Z",
+  "updatedAt": "2026-03-25T23:38:13.614Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "E18 er stengt i begge retninger ved Arendal",
+      "link": "https://www.nrk.no/nyheter/e18-er-stengt-i-begge-retninger-ved-arendal-1.17825436",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Wed, 25 Mar 2026 23:36:08 GMT"
+    },
+    {
+      "title": "To drept i droneangrep mot Belgorod",
+      "link": "https://www.nrk.no/nyheter/to-drept-i-droneangrep-mot-belgorod-1.17825430",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 25 Mar 2026 23:31:23 GMT"
+    },
+    {
+      "title": "Storbritannia trapper opp innsatsen mot Russlands skyggeflåte",
+      "link": "https://www.nrk.no/nyheter/storbritannia-trapper-opp-innsatsen-mot-russlands-skyggeflate-1.17825392",
+      "category": "Storbritannia",
+      "pubDate": "Wed, 25 Mar 2026 22:51:29 GMT"
+    },
     {
       "title": "Kilder til NRK: Ap-forslag for å løse drivstoffkrisen",
       "link": "https://www.nrk.no/nyheter/kilder-til-nrk_-ap-forslag-for-a-lose-drivstoffkrisen-1.17825393",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/trondelag/kvinne-utsatt-for-vold--1.17825366",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Wed, 25 Mar 2026 20:56:26 GMT"
-    },
-    {
-      "title": "Nordmann alvorlig skadet etter snøskredet i Kiruna",
-      "link": "https://www.nrk.no/nordland/nordmann-alvorlig-skadet-etter-snoskredet-i-kiruna-1.17825310",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Wed, 25 Mar 2026 20:41:40 GMT"
-    },
-    {
-      "title": "Avbrøt oppskyting på Andøya",
-      "link": "https://www.nrk.no/nyheter/avbrot-oppskyting-pa-andoya-1.17825349",
-      "category": "high",
-      "pubDate": "Wed, 25 Mar 2026 20:24:21 GMT"
-    },
-    {
-      "title": "15-åring død etter skyting i Malmö",
-      "link": "https://www.nrk.no/nyheter/15-aring-dod-etter-skyting-i-malmo-1.17825348",
-      "category": "Sverige",
-      "pubDate": "Wed, 25 Mar 2026 20:01:58 GMT"
     }
   ]
 }
