@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-25T11:44:09.373Z",
+  "updatedAt": "2026-03-25T13:16:30.285Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Riksmålsforbundets medieprisvinnere 2026",
-      "link": "https://www.nrk.no/nyheter/riksmalsforbundets-medieprisvinnere-2026-1.17824488",
+      "title": "Stoltenberg: Åpen for å vurdere tiltak",
+      "link": "https://www.nrk.no/nyheter/stoltenberg_-apen-for-a-vurdere-tiltak-1.17824626",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 25 Mar 2026 11:43:17 GMT"
+      "pubDate": "Wed, 25 Mar 2026 13:08:02 GMT"
     },
     {
-      "title": "E24: Norge slipper unna EUs pantekrav",
-      "link": "https://www.nrk.no/nyheter/e24_-norge-slipper-unna-eus-pantekrav-1.17824456",
+      "title": "To menn utlevert til Sverige i drapssak: Dømt for bombeangrep i Norge",
+      "link": "https://www.nrk.no/nyheter/to-menn-utlevert-til-sverige-i-drapssak_-domt-for-bombeangrep-i-norge-1.17824741",
+      "category": "Eksplosjon i Drøbak",
+      "pubDate": "Wed, 25 Mar 2026 13:07:06 GMT"
+    },
+    {
+      "title": "Mann siktet for drapsforsøk ved Oslo-skole fremstilles for fengsling",
+      "link": "https://www.nrk.no/stor-oslo/mann-siktet-for-drapsforsok-ved-oslo-skole-fremstilles-for-fengsling-1.17824618",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 25 Mar 2026 12:57:07 GMT"
+    },
+    {
+      "title": "Fem personer skal være funnet etter skred",
+      "link": "https://www.nrk.no/nyheter/fem-personer-skal-vaere-funnet-etter-skred-1.17824706",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 25 Mar 2026 11:36:48 GMT"
+      "pubDate": "Wed, 25 Mar 2026 12:52:11 GMT"
     },
     {
-      "title": "Dronen som krenket Latvias luftrom var ukrainsk",
-      "link": "https://www.nrk.no/nyheter/dronen-som-krenket-latvias-luftrom-var-ukrainsk-1.17824420",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 25 Mar 2026 11:20:45 GMT"
+      "title": "Den iranske legestudenten tok vakter ved Lærdal bu- og omsorgsheim",
+      "link": "https://www.nrk.no/vestland/den-iranske-legestudenten-tok-vakter-ved-laerdal-bu--og-omsorgsheim-1.17824529",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 25 Mar 2026 12:25:39 GMT"
     },
     {
-      "title": "Rødt: Vil være brudd på budsjettavtalen",
-      "link": "https://www.nrk.no/nyheter/rodt_-vil-vaere-brudd-pa-budsjettavtalen-1.17824442",
-      "category": "high",
-      "pubDate": "Wed, 25 Mar 2026 11:18:42 GMT"
-    },
-    {
-      "title": "Bergstø ut mot Sp - ber om rødgrønn samling",
-      "link": "https://www.nrk.no/nyheter/bergsto-ut-mot-sp---ber-om-rodgronn-samling-1.17824237",
-      "category": "Bensinpriser",
-      "pubDate": "Wed, 25 Mar 2026 11:15:22 GMT"
-    },
-    {
-      "title": "Tina Bru tar over ledelsen av Fritt Ukraina",
-      "link": "https://www.nrk.no/rogaland/tina-bru-tar-over-ledelsen-av-fritt-ukraina-1.17823869",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 25 Mar 2026 11:08:54 GMT"
+      "title": "Sp sikrer flertall for hastebehandling av drivstoff-kutt",
+      "link": "https://www.nrk.no/nyheter/sp-sikrer-flertall-for-hastebehandling-av-drivstoff-kutt-1.17824448",
+      "category": "Støre-regjeringen",
+      "pubDate": "Wed, 25 Mar 2026 12:25:33 GMT"
     }
   ]
 }
