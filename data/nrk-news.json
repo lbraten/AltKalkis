@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-25T18:58:51.720Z",
+  "updatedAt": "2026-03-25T19:51:15.514Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Ingen forhandlinger med USA",
+      "link": "https://www.nrk.no/nyheter/iran_-ingen-forhandlinger-med-usa-1.17825298",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 25 Mar 2026 19:46:07 GMT"
+    },
     {
       "title": "Kystvaktskip på vei til havaristen",
       "link": "https://www.nrk.no/nordland/kystvaktskip-pa-vei-til-havaristen-1.17824996",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tordis-orjasaeter-er-dod-1.17825155",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 25 Mar 2026 17:11:10 GMT"
-    },
-    {
-      "title": "Sp: Ikke planlagt flere møter i kveld",
-      "link": "https://www.nrk.no/nyheter/sp_-ikke-planlagt-flere-moter-i-kveld-1.17825132",
-      "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Wed, 25 Mar 2026 16:40:29 GMT"
     }
   ]
 }
