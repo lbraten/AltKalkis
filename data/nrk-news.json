@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-03-25T17:35:24.954Z",
+  "updatedAt": "2026-03-25T18:58:51.720Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Meta og YouTube funnet skyldig i avhengighet-sak",
-      "link": "https://www.nrk.no/nyheter/meta-og-youtube-funnet-skyldig-i-avhengighet-sak-1.17825187",
-      "category": "NRK Nyheter",
+      "title": "Kystvaktskip på vei til havaristen",
+      "link": "https://www.nrk.no/nordland/kystvaktskip-pa-vei-til-havaristen-1.17824996",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 25 Mar 2026 18:47:18 GMT"
+    },
+    {
+      "title": "Aftenposten: Nobelkomiteen åpner opp om gavelister og bindinger",
+      "link": "https://www.nrk.no/nyheter/aftenposten_-nobelkomiteen-apner-opp-om-gavelister-og-bindinger-1.17825295",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Wed, 25 Mar 2026 18:46:38 GMT"
+    },
+    {
+      "title": "Gutt i 15-årsalderen skutt i Malmö",
+      "link": "https://www.nrk.no/nyheter/gutt-i-15-arsalderen-skutt-i-malmo-1.17825215",
+      "category": "Sverige",
+      "pubDate": "Wed, 25 Mar 2026 18:43:36 GMT"
+    },
+    {
+      "title": "Meta og Google funnet skyldig i avhengighet-sak",
+      "link": "https://www.nrk.no/nyheter/meta-og-google-funnet-skyldig-i-avhengighet-sak-1.17825187",
+      "category": "Sosiale medier",
       "pubDate": "Wed, 25 Mar 2026 17:31:32 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sp_-ikke-planlagt-flere-moter-i-kveld-1.17825132",
       "category": "Tiltak mot høye drivstoffpriser",
       "pubDate": "Wed, 25 Mar 2026 16:40:29 GMT"
-    },
-    {
-      "title": "Mette Frederiksen får i oppdrag å danna regjering i Danmark",
-      "link": "https://www.nrk.no/nyheter/mette-frederiksen-far-i-oppdrag-a-danna-regjering-i-danmark-1.17825126",
-      "category": "Danmark",
-      "pubDate": "Wed, 25 Mar 2026 16:21:55 GMT"
-    },
-    {
-      "title": "Person skutt på buss i Sverige – gjerningsperson på frifot",
-      "link": "https://www.nrk.no/nyheter/person-skutt-pa-buss-i-sverige-_-gjerningsperson-pa-frifot-1.17825125",
-      "category": "Sverige",
-      "pubDate": "Wed, 25 Mar 2026 16:17:49 GMT"
-    },
-    {
-      "title": "Tre personer skadd etter snøskred ved Riksgränsen",
-      "link": "https://www.nrk.no/nyheter/tre-personer-skadd-etter-snoskred-ved-riksgransen-1.17825024",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 25 Mar 2026 15:26:33 GMT"
     }
   ]
 }
