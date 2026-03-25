@@ -150,18 +150,55 @@ document.addEventListener("DOMContentLoaded", () => {
         return decodeEl.value;
     };
 
+    const recoverPlainListBlocks = (text) => {
+        const lines = text.split("\n");
+        const recovered = [...lines];
+        const isListLine = (line) => /^\s*(?:[-*+]|\d+[.)])\s+/.test(line);
+
+        for (let i = 0; i < lines.length; i += 1) {
+            const line = lines[i].trim();
+            if (!line.endsWith(":")) continue;
+
+            let start = i + 1;
+            while (start < lines.length && !lines[start].trim()) start += 1;
+            if (start >= lines.length) continue;
+
+            let end = start;
+            while (end < lines.length) {
+                const current = lines[end].trim();
+                if (!current) break;
+                if (isListLine(current)) break;
+                if (/^[#>]/.test(current)) break;
+                end += 1;
+            }
+
+            const blockLength = end - start;
+            if (blockLength >= 2) {
+                for (let j = start; j < end; j += 1) {
+                    recovered[j] = `- ${lines[j].trim()}`;
+                }
+                i = end - 1;
+            }
+        }
+
+        return recovered.join("\n");
+    };
+
     const normalizeCleanText = (text) => {
         if (!text) return "";
 
-        return text
+        const normalized = text
             .replace(/\r\n?/g, "\n")
             .replace(/[\u00A0\u2007\u202F]/g, " ")
             .replace(/[“”„‟«»‹›〝〞＂]/g, '"')
+            .replace(/[‘’‚‛❛❜＇]/g, "'")
             .replace(/[–—―−‐‑‒﹘﹣]/g, "-")
             .replace(/^[ \t]*[•◦●▪▫‣◉○◆▶►]\s+/gm, "- ")
+            .replace(/^[ \t]*[*+]\s+/gm, "- ")
             .replace(/[ \t]+$/gm, "")
-            .replace(/\n{3,}/g, "\n\n")
-            .trim();
+            .replace(/\n{3,}/g, "\n\n");
+
+        return recoverPlainListBlocks(normalized).trim();
     };
 
     const copyCleanerOutput = async () => {
