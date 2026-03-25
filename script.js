@@ -130,11 +130,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const setCleanerSummary = (text, sourceLabel = "limt inn") => {
         const count = text.length;
-        if (textCleanerInput) {
-            textCleanerInput.value = count ? `${count} tegn ${sourceLabel}.` : "";
-        }
         if (textCleanerPasteInfo) {
-            textCleanerPasteInfo.innerText = count ? `${count} tegn registrert.` : "Ingen tekst limt inn ennå.";
+            textCleanerPasteInfo.innerText = count ? `${count} tegn ${sourceLabel}.` : "Ingen tekst limt inn ennå.";
         }
     };
 
@@ -257,7 +254,14 @@ document.addEventListener("DOMContentLoaded", () => {
             const pastedPlain = event.clipboardData?.getData("text/plain") || "";
             const pastedHtml = event.clipboardData?.getData("text/html") || "";
             rawCleanerText = pastedPlain || htmlFallbackToText(pastedHtml);
+            textCleanerInput.value = rawCleanerText;
             setCleanerSummary(rawCleanerText, "limt inn");
+            runTextCleaning();
+        });
+        // Oppdater rawCleanerText og rens når brukeren skriver manuelt
+        textCleanerInput.addEventListener("input", (event) => {
+            rawCleanerText = textCleanerInput.value;
+            setCleanerSummary(rawCleanerText, "skrevet");
             runTextCleaning();
         });
     }
