@@ -40,6 +40,10 @@
                         <span>Prosentkalkulator</span>
                     </label>
                     <label class="sidebar__toggle">
+                        <input type="checkbox" data-toggle-card="proteinCard" checked>
+                        <span>Protein per krone</span>
+                    </label>
+                    <label class="sidebar__toggle">
                         <input type="checkbox" data-toggle-card="salaryCard" checked>
                         <span>Timeslønn / månedslønn</span>
                     </label>
@@ -202,6 +206,28 @@
                     <div class="percentResult">
                         <p id="percentResult">Resultat:</p>
                     </div>
+            </div>
+
+            <!-- Protein-kalkulator -->
+            <div class="bordershadow card--s" id="proteinCard">
+                <h2>Protein per krone</h2>
+                <div class="protein-grid">
+                    <input id="proteinPrice" type="number" min="0" step="0.01" placeholder="Pris (kr)" />
+                    <input id="proteinWeight" type="number" min="0" step="0.01" placeholder="Mengde" />
+                    <select id="proteinUnit" class="lysereboks" aria-label="Velg enhet for mengde">
+                        <option value="g" selected>Gram (g)</option>
+                        <option value="hg">Hekto (hg)</option>
+                        <option value="kg">Kilo (kg)</option>
+                        <option value="l">Liter (l)</option>
+                    </select>
+                    <input id="proteinPer100" type="number" min="0" step="0.1" placeholder="Protein per 100g" />
+                </div>
+                <p class="protein-helper">Eksempel: 25 kr, 2 hg, 20 g per 100 g. Liter regnes som ca. 1000 g (vann-lignende produkter).</p>
+                <div class="result-box" aria-live="polite">
+                    <p id="proteinResultTotal">Total protein: -</p>
+                    <p id="proteinResultPricePerGram">Kr per gram protein: -</p>
+                    <p id="proteinResultGramPerKrone">Gram protein per krone: -</p>
+                </div>
             </div>
 
             <!-- Timeslønn kalkulator -->

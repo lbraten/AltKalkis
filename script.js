@@ -52,6 +52,72 @@ document.addEventListener("DOMContentLoaded", () => {
     if (percentPercentInput) percentPercentInput.addEventListener("input", updatePercent);
     updatePercent();
 
+    //protein-kalkulator
+    const proteinPriceInput = document.getElementById("proteinPrice");
+    const proteinWeightInput = document.getElementById("proteinWeight");
+    const proteinUnitInput = document.getElementById("proteinUnit");
+    const proteinPer100Input = document.getElementById("proteinPer100");
+    const proteinResultTotalEl = document.getElementById("proteinResultTotal");
+    const proteinResultPricePerGramEl = document.getElementById("proteinResultPricePerGram");
+    const proteinResultGramPerKroneEl = document.getElementById("proteinResultGramPerKrone");
+
+    const updateProteinValue = () => {
+        if (!proteinPriceInput || !proteinWeightInput || !proteinUnitInput || !proteinPer100Input) return;
+        if (!proteinResultTotalEl || !proteinResultPricePerGramEl || !proteinResultGramPerKroneEl) return;
+
+        const priceStr = proteinPriceInput.value;
+        const weightStr = proteinWeightInput.value;
+        const unit = proteinUnitInput.value;
+        const proteinPer100Str = proteinPer100Input.value;
+
+        if (!priceStr && !weightStr && !proteinPer100Str) {
+            proteinResultTotalEl.innerText = "Total protein: -";
+            proteinResultPricePerGramEl.innerText = "Kr per gram protein: -";
+            proteinResultGramPerKroneEl.innerText = "Gram protein per krone: -";
+            return;
+        }
+
+        const price = parseFloat(priceStr);
+        const weight = parseFloat(weightStr);
+        const proteinPer100 = parseFloat(proteinPer100Str);
+        const unitToGramFactor = {
+            g: 1,
+            hg: 100,
+            kg: 1000,
+            l: 1000,
+        };
+        const gramFactor = unitToGramFactor[unit] || 1;
+
+        if (
+            Number.isNaN(price)
+            || Number.isNaN(weight)
+            || Number.isNaN(proteinPer100)
+            || price <= 0
+            || weight <= 0
+            || proteinPer100 <= 0
+        ) {
+            proteinResultTotalEl.innerText = "Total protein: Skriv inn gyldige tall over 0.";
+            proteinResultPricePerGramEl.innerText = "Kr per gram protein: -";
+            proteinResultGramPerKroneEl.innerText = "Gram protein per krone: -";
+            return;
+        }
+
+        const weightInGrams = weight * gramFactor;
+        const totalProtein = (weightInGrams * proteinPer100) / 100;
+        const krPerGramProtein = price / totalProtein;
+        const gramsProteinPerKrone = totalProtein / price;
+
+        proteinResultTotalEl.innerText = `Total protein: ${totalProtein.toFixed(1)} g`;
+        proteinResultPricePerGramEl.innerText = `Kr per gram protein: ${krPerGramProtein.toFixed(2)} kr`;
+        proteinResultGramPerKroneEl.innerText = `Gram protein per krone: ${gramsProteinPerKrone.toFixed(2)} g`;
+    };
+
+    if (proteinPriceInput) proteinPriceInput.addEventListener("input", updateProteinValue);
+    if (proteinWeightInput) proteinWeightInput.addEventListener("input", updateProteinValue);
+    if (proteinUnitInput) proteinUnitInput.addEventListener("change", updateProteinValue);
+    if (proteinPer100Input) proteinPer100Input.addEventListener("input", updateProteinValue);
+    updateProteinValue();
+
     //timeslønn
     const monthlySalaryInput = document.getElementById("monthlySalary");
     const hoursPerWeekInput = document.getElementById("hoursPerWeek");

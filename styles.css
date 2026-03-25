@@ -922,6 +922,22 @@ h6 {
     margin-bottom: 1rem;
 }
 
+.protein-grid {
+    display: grid;
+    gap: 10px;
+}
+
+.protein-grid input[type="number"] {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.protein-helper {
+    margin: 0.25rem 0 0.5rem;
+    font-size: 0.86rem;
+    color: rgba(var(--color-text-muted), 0.95);
+}
+
 .weather-controls {
     gap: 8px;
 }
