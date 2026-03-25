@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-25T16:12:16.628Z",
+  "updatedAt": "2026-03-25T17:35:24.954Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Meta og YouTube funnet skyldig i avhengighet-sak",
+      "link": "https://www.nrk.no/nyheter/meta-og-youtube-funnet-skyldig-i-avhengighet-sak-1.17825187",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 25 Mar 2026 17:31:32 GMT"
+    },
+    {
+      "title": "Tordis Ørjasæter er død",
+      "link": "https://www.nrk.no/nyheter/tordis-orjasaeter-er-dod-1.17825155",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 25 Mar 2026 17:11:10 GMT"
+    },
+    {
+      "title": "Sp: Ikke planlagt flere møter i kveld",
+      "link": "https://www.nrk.no/nyheter/sp_-ikke-planlagt-flere-moter-i-kveld-1.17825132",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Wed, 25 Mar 2026 16:40:29 GMT"
+    },
+    {
+      "title": "Mette Frederiksen får i oppdrag å danna regjering i Danmark",
+      "link": "https://www.nrk.no/nyheter/mette-frederiksen-far-i-oppdrag-a-danna-regjering-i-danmark-1.17825126",
+      "category": "Danmark",
+      "pubDate": "Wed, 25 Mar 2026 16:21:55 GMT"
+    },
+    {
+      "title": "Person skutt på buss i Sverige – gjerningsperson på frifot",
+      "link": "https://www.nrk.no/nyheter/person-skutt-pa-buss-i-sverige-_-gjerningsperson-pa-frifot-1.17825125",
+      "category": "Sverige",
+      "pubDate": "Wed, 25 Mar 2026 16:17:49 GMT"
+    },
     {
       "title": "Tre personer skadd etter snøskred ved Riksgränsen",
       "link": "https://www.nrk.no/nyheter/tre-personer-skadd-etter-snoskred-ved-riksgransen-1.17825024",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 25 Mar 2026 15:26:33 GMT"
-    },
-    {
-      "title": "Tidligere Google-leder bekreftet som BBC-sjef",
-      "link": "https://www.nrk.no/nyheter/tidligere-google-leder-bekreftet-som-bbc-sjef-1.17824976",
-      "category": "BBC",
-      "pubDate": "Wed, 25 Mar 2026 15:19:06 GMT"
-    },
-    {
-      "title": "Rødt åpner for avgiftskutt - vil ha rødgrønn løsning",
-      "link": "https://www.nrk.no/nyheter/rodt-apner-for-avgiftskutt---vil-ha-rodgronn-losning-1.17824803",
-      "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Wed, 25 Mar 2026 15:13:02 GMT"
-    },
-    {
-      "title": "Karmøy-drapene: Politiet etterlyser overvåkingsbilder",
-      "link": "https://www.nrk.no/rogaland/karmoy-drapene_-politiet-etterlyser-overvakingsbilder-1.17824902",
-      "category": "To personer funnet døde på Karmøy",
-      "pubDate": "Wed, 25 Mar 2026 15:04:04 GMT"
-    },
-    {
-      "title": "VG slipper bot etter tabbe i Høiby-saken, melder TV 2",
-      "link": "https://www.nrk.no/nyheter/vg-slipper-bot-etter-tabbe-i-hoiby-saken_-melder-tv-2-1.17824945",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Wed, 25 Mar 2026 14:33:57 GMT"
-    },
-    {
-      "title": "Iran avviser amerikansk våpenhvileforslag",
-      "link": "https://www.nrk.no/nyheter/iran-avviser-amerikansk-vapenhvileforslag-1.17824835",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 25 Mar 2026 14:18:39 GMT"
     }
   ]
 }
