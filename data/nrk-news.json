@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-24T23:40:39.672Z",
+  "updatedAt": "2026-03-25T02:28:38.814Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "18,4 millioner så BTS' comeback-konsert på Netflix",
+      "link": "https://www.nrk.no/nyheter/18_4-millioner-sa-bts_-comeback-konsert-pa-netflix--1.17823603",
+      "category": "Musikk",
+      "pubDate": "Wed, 25 Mar 2026 01:49:19 GMT"
+    },
+    {
+      "title": "Oljeprisen markant ned i kjølvannet av fredsplan for Iran",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-markant-ned-i-kjolvannet-av-fredsplan-for-iran-1.17823594",
+      "category": "Oljeprisen",
+      "pubDate": "Wed, 25 Mar 2026 01:22:45 GMT"
+    },
+    {
+      "title": "Drone traff drivstofftank ved Kuwait lufthavn",
+      "link": "https://www.nrk.no/nyheter/drone-traff-drivstofftank-ved-kuwait-lufthavn-1.17823593",
+      "category": "Kuwait",
+      "pubDate": "Tue, 24 Mar 2026 23:58:32 GMT"
+    },
     {
       "title": "Valg i Danmark: Flest mandater til venstresiden",
       "link": "https://www.nrk.no/nyheter/valg-i-danmark_-flest-mandater-til-venstresiden--1.17823585",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-sier-at-_ikke-fiendtlige-fartoy_-far-passere-hormuzstredet-1.17823581",
       "category": "Iran",
       "pubDate": "Tue, 24 Mar 2026 22:28:54 GMT"
-    },
-    {
-      "title": "Låtskriver og sanger Chip Taylor er død",
-      "link": "https://www.nrk.no/nyheter/latskriver-og-sanger-chip-taylor-er-dod-1.17823575",
-      "category": "Musikk",
-      "pubDate": "Tue, 24 Mar 2026 21:58:25 GMT"
-    },
-    {
-      "title": "Henger til lastebil har veltet på E6 ved Jessheim",
-      "link": "https://www.nrk.no/nyheter/henger-til-lastebil-har-veltet-pa-e6-ved-jessheim-1.17823574",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 24 Mar 2026 21:53:35 GMT"
-    },
-    {
-      "title": "IDF melder at Iran har avfyrt missiler mot Israel",
-      "link": "https://www.nrk.no/nyheter/idf-melder-at-iran-har-avfyrt-missiler-mot-israel-1.17823568",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 24 Mar 2026 21:50:37 GMT"
     }
   ]
 }
