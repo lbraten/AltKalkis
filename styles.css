@@ -7,7 +7,7 @@
     --color: 186, 145, 255;
     --color-humidity: 56, 214, 231;
     --color-button-accent: 186, 145, 255;
-    --color-button-accent-hover: 203, 171, 255;
+    --color-button-accent-hover: 198, 158, 255;
     --color-button-muted: 22, 30, 48;
     --color-bg-elevated: 18, 24, 40;
     --color-bg-input: 14, 20, 36;
@@ -973,6 +973,21 @@ h6 {
     display: flex;
     flex-wrap: wrap;
     gap: 0.45rem;
+}
+
+.text-cleaner-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.86rem;
+    color: rgba(var(--color-text-base), 0.94);
+    cursor: pointer;
+}
+
+.text-cleaner-toggle input {
+    width: 16px;
+    height: 16px;
+    accent-color: rgb(var(--color-button-accent));
 }
 
 .text-cleaner-actions button {

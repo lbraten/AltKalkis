@@ -121,6 +121,7 @@ document.addEventListener("DOMContentLoaded", () => {
     //ki tekst-renser
     const textCleanerInput = document.getElementById("textCleanerInput");
     const textCleanerPasteInfo = document.getElementById("textCleanerPasteInfo");
+    const textCleanerStrictToggle = document.getElementById("textCleanerStrictToggle");
     const textCleanerCopyBtn = document.getElementById("textCleanerCopyBtn");
     const textCleanerClearBtn = document.getElementById("textCleanerClearBtn");
     const textCleanerStatus = document.getElementById("textCleanerStatus");
@@ -202,6 +203,17 @@ document.addEventListener("DOMContentLoaded", () => {
         return recoverPlainListBlocks(normalized).trim();
     };
 
+    const applyStrictMode = (text) => {
+        if (!text) return "";
+
+        return text
+            .replace(/[\p{M}]/gu, "")
+            .replace(/[^A-Za-z0-9ÆØÅæøå \n\t.,;:!?\'"()\[\]{}\/\\@#%&*+=<>_-]/g, "")
+            .replace(/[ \t]{2,}/g, " ")
+            .replace(/\n{3,}/g, "\n\n")
+            .trim();
+    };
+
     const copyCleanerOutput = async () => {
         if (!textCleanerOutput || !textCleanerStatus) return;
         const value = textCleanerOutput.value;
@@ -230,9 +242,13 @@ document.addEventListener("DOMContentLoaded", () => {
             textCleanerOutput.value = "";
             return;
         }
-        const cleaned = normalizeCleanText(rawCleanerText);
+        const strictMode = Boolean(textCleanerStrictToggle?.checked);
+        const baseCleaned = normalizeCleanText(rawCleanerText);
+        const cleaned = strictMode ? applyStrictMode(baseCleaned) : baseCleaned;
         textCleanerOutput.value = cleaned;
-        textCleanerStatus.innerText = cleaned ? "Tekst renset automatisk." : "Ingen tekst igjen etter rensing.";
+        textCleanerStatus.innerText = cleaned
+            ? `Tekst renset automatisk${strictMode ? " (streng modus)" : ""}.`
+            : "Ingen tekst igjen etter rensing.";
     };
 
     if (textCleanerInput) {
@@ -248,6 +264,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (textCleanerCopyBtn) {
         textCleanerCopyBtn.addEventListener("click", copyCleanerOutput);
+    }
+
+    if (textCleanerStrictToggle) {
+        textCleanerStrictToggle.addEventListener("change", runTextCleaning);
     }
 
     if (textCleanerClearBtn) {
