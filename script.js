@@ -121,7 +121,6 @@ document.addEventListener("DOMContentLoaded", () => {
     //ki tekst-renser
     const textCleanerInput = document.getElementById("textCleanerInput");
     const textCleanerPasteInfo = document.getElementById("textCleanerPasteInfo");
-    const textCleanerRunBtn = document.getElementById("textCleanerRunBtn");
     const textCleanerCopyBtn = document.getElementById("textCleanerCopyBtn");
     const textCleanerClearBtn = document.getElementById("textCleanerClearBtn");
     const textCleanerStatus = document.getElementById("textCleanerStatus");
@@ -189,7 +188,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const normalized = text
             .replace(/\r\n?/g, "\n")
+            .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g, "")
             .replace(/[\u00A0\u2007\u202F]/g, " ")
+            .replace(/[\u00AD\u034F\u061C\u180E\u200B-\u200F\u2060-\u2064\uFEFF]/g, "")
             .replace(/[“”„‟«»‹›〝〞＂]/g, '"')
             .replace(/[‘’‚‛❛❜＇]/g, "'")
             .replace(/[–—―−‐‑‒﹘﹣]/g, "-")
@@ -222,6 +223,18 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
+    const runTextCleaning = () => {
+        if (!textCleanerOutput || !textCleanerStatus) return;
+        if (!rawCleanerText.trim()) {
+            textCleanerStatus.innerText = "Lim inn tekst først.";
+            textCleanerOutput.value = "";
+            return;
+        }
+        const cleaned = normalizeCleanText(rawCleanerText);
+        textCleanerOutput.value = cleaned;
+        textCleanerStatus.innerText = cleaned ? "Tekst renset automatisk." : "Ingen tekst igjen etter rensing.";
+    };
+
     if (textCleanerInput) {
         textCleanerInput.addEventListener("paste", (event) => {
             event.preventDefault();
@@ -229,26 +242,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const pastedHtml = event.clipboardData?.getData("text/html") || "";
             rawCleanerText = pastedPlain || htmlFallbackToText(pastedHtml);
             setCleanerSummary(rawCleanerText, "limt inn");
-            if (textCleanerStatus) textCleanerStatus.innerText = "Tekst limt inn. Trykk 'Rens tekst'.";
-        });
-
-        textCleanerInput.addEventListener("input", () => {
-            rawCleanerText = textCleanerInput.value;
-            setCleanerSummary(rawCleanerText, "skrevet inn");
-        });
-    }
-
-    if (textCleanerRunBtn) {
-        textCleanerRunBtn.addEventListener("click", () => {
-            if (!textCleanerOutput || !textCleanerStatus) return;
-            if (!rawCleanerText.trim()) {
-                textCleanerStatus.innerText = "Lim inn eller skriv tekst først.";
-                textCleanerOutput.value = "";
-                return;
-            }
-            const cleaned = normalizeCleanText(rawCleanerText);
-            textCleanerOutput.value = cleaned;
-            textCleanerStatus.innerText = cleaned ? "Tekst renset." : "Ingen tekst igjen etter rensing.";
+            runTextCleaning();
         });
     }
 

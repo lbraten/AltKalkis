@@ -719,7 +719,11 @@ button {
     padding: 0.6rem 1.2rem;
     border-radius: 8px;
     cursor: pointer;
-    transition: border 0.2s, box-shadow 0.2s, background 0.2s;
+    transition: none;
+}
+
+button:hover {
+    background: rgb(var(--color-button-accent-hover));
 }
 
 
@@ -886,7 +890,7 @@ h6 {
     border: none;
     background: rgb(var(--color-button-muted));
     cursor: pointer;
-    transition: background 0.2s;
+    transition: none;
     color: rgb(var(--color-text-base));
 }
 
@@ -975,6 +979,19 @@ h6 {
     margin: 0;
     padding: 0.45rem 0.7rem;
     font-size: 0.86rem;
+}
+
+.text-cleaner-actions .text-cleaner-clear {
+    background: transparent;
+    border: 1px solid #d83a22;
+    color: rgba(var(--color-text-base), 0.96);
+}
+
+.text-cleaner-actions .text-cleaner-clear:hover {
+    background: #d83a22;
+    border-color: #d83a22;
+    color: rgb(var(--color-fill));
+    box-shadow: 0 0 0 1px rgba(216, 58, 34, 0.3);
 }
 
 .weather-controls {
@@ -1448,7 +1465,7 @@ h6 {
     padding: 0.45rem 0.9rem;
     border-radius: 8px;
     cursor: pointer;
-    transition: color 0.2s ease;
+    transition: none;
 }
 
 .range-selector__btn:hover {
