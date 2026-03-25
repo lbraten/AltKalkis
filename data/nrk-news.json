@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-25T19:51:15.514Z",
+  "updatedAt": "2026-03-25T20:41:35.329Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Avbrøt oppskyting på Andøya",
+      "link": "https://www.nrk.no/nyheter/avbrot-oppskyting-pa-andoya-1.17825349",
+      "category": "high",
+      "pubDate": "Wed, 25 Mar 2026 20:24:21 GMT"
+    },
+    {
+      "title": "15-åring død etter skyting i Malmö",
+      "link": "https://www.nrk.no/nyheter/15-aring-dod-etter-skyting-i-malmo-1.17825348",
+      "category": "Sverige",
+      "pubDate": "Wed, 25 Mar 2026 20:01:58 GMT"
+    },
+    {
+      "title": "Bot til Meta og Google",
+      "link": "https://www.nrk.no/nyheter/bot-til-meta-og-google--1.17825340",
+      "category": "Sosiale medier",
+      "pubDate": "Wed, 25 Mar 2026 19:56:47 GMT"
+    },
     {
       "title": "Iran: Ingen forhandlinger med USA",
       "link": "https://www.nrk.no/nyheter/iran_-ingen-forhandlinger-med-usa-1.17825298",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/aftenposten_-nobelkomiteen-apner-opp-om-gavelister-og-bindinger-1.17825295",
       "category": "Epsteins norske forbindelser",
       "pubDate": "Wed, 25 Mar 2026 18:46:38 GMT"
-    },
-    {
-      "title": "Gutt i 15-årsalderen skutt i Malmö",
-      "link": "https://www.nrk.no/nyheter/gutt-i-15-arsalderen-skutt-i-malmo-1.17825215",
-      "category": "Sverige",
-      "pubDate": "Wed, 25 Mar 2026 18:43:36 GMT"
-    },
-    {
-      "title": "Meta og Google funnet skyldig i avhengighet-sak",
-      "link": "https://www.nrk.no/nyheter/meta-og-google-funnet-skyldig-i-avhengighet-sak-1.17825187",
-      "category": "Sosiale medier",
-      "pubDate": "Wed, 25 Mar 2026 17:31:32 GMT"
-    },
-    {
-      "title": "Tordis Ørjasæter er død",
-      "link": "https://www.nrk.no/nyheter/tordis-orjasaeter-er-dod-1.17825155",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 25 Mar 2026 17:11:10 GMT"
     }
   ]
 }
