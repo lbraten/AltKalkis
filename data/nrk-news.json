@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-25T13:16:30.285Z",
+  "updatedAt": "2026-03-25T14:42:22.618Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Stoltenberg: Åpen for å vurdere tiltak",
-      "link": "https://www.nrk.no/nyheter/stoltenberg_-apen-for-a-vurdere-tiltak-1.17824626",
+      "title": "VG slipper bot etter tabbe i Høiby-saken, melder TV 2",
+      "link": "https://www.nrk.no/nyheter/vg-slipper-bot-etter-tabbe-i-hoiby-saken_-melder-tv-2-1.17824945",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Wed, 25 Mar 2026 14:33:57 GMT"
+    },
+    {
+      "title": "Iran avviser amerikansk våpenhvileforslag",
+      "link": "https://www.nrk.no/nyheter/iran-avviser-amerikansk-vapenhvileforslag-1.17824835",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 25 Mar 2026 14:18:39 GMT"
+    },
+    {
+      "title": "Krever 6 måneders fengsel for Isak Dreyer",
+      "link": "https://www.nrk.no/nyheter/krever-6-maneders-fengsel-for-isak-dreyer-1.17824825",
       "category": "NRK Nyheter",
+      "pubDate": "Wed, 25 Mar 2026 13:29:20 GMT"
+    },
+    {
+      "title": "En person skadd etter snøskred ved Riksgränsen",
+      "link": "https://www.nrk.no/nyheter/en-person-skadd-etter-snoskred-ved-riksgransen-1.17824727",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 25 Mar 2026 13:24:32 GMT"
+    },
+    {
+      "title": "Ap kaller inn til hastemøte - bensinkrig på Stortinget",
+      "link": "https://www.nrk.no/nyheter/ap-kaller-inn-til-hastemote---bensinkrig-pa-stortinget-1.17824775",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Wed, 25 Mar 2026 13:17:06 GMT"
+    },
+    {
+      "title": "Stoltenberg utelukker ikke tiltak",
+      "link": "https://www.nrk.no/nyheter/stoltenberg-utelukker-ikke-tiltak-1.17824626",
+      "category": "Tiltak mot høye drivstoffpriser",
       "pubDate": "Wed, 25 Mar 2026 13:08:02 GMT"
-    },
-    {
-      "title": "To menn utlevert til Sverige i drapssak: Dømt for bombeangrep i Norge",
-      "link": "https://www.nrk.no/nyheter/to-menn-utlevert-til-sverige-i-drapssak_-domt-for-bombeangrep-i-norge-1.17824741",
-      "category": "Eksplosjon i Drøbak",
-      "pubDate": "Wed, 25 Mar 2026 13:07:06 GMT"
-    },
-    {
-      "title": "Mann siktet for drapsforsøk ved Oslo-skole fremstilles for fengsling",
-      "link": "https://www.nrk.no/stor-oslo/mann-siktet-for-drapsforsok-ved-oslo-skole-fremstilles-for-fengsling-1.17824618",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 25 Mar 2026 12:57:07 GMT"
-    },
-    {
-      "title": "Fem personer skal være funnet etter skred",
-      "link": "https://www.nrk.no/nyheter/fem-personer-skal-vaere-funnet-etter-skred-1.17824706",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 25 Mar 2026 12:52:11 GMT"
-    },
-    {
-      "title": "Den iranske legestudenten tok vakter ved Lærdal bu- og omsorgsheim",
-      "link": "https://www.nrk.no/vestland/den-iranske-legestudenten-tok-vakter-ved-laerdal-bu--og-omsorgsheim-1.17824529",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 25 Mar 2026 12:25:39 GMT"
-    },
-    {
-      "title": "Sp sikrer flertall for hastebehandling av drivstoff-kutt",
-      "link": "https://www.nrk.no/nyheter/sp-sikrer-flertall-for-hastebehandling-av-drivstoff-kutt-1.17824448",
-      "category": "Støre-regjeringen",
-      "pubDate": "Wed, 25 Mar 2026 12:25:33 GMT"
     }
   ]
 }
