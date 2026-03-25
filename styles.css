@@ -1,3 +1,11 @@
+/* Sidebar kategori-overskrifter */
+.sidebar__category {
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgb(var(--color-text-muted));
+    margin: 1.1em 0 0.2em 0.2em;
+    letter-spacing: 0.02em;
+}
 :root {
     --color-text-base: 241, 243, 248;
     --color-text-muted: 167, 174, 191;
@@ -141,8 +149,16 @@ body::before {
     padding: 0;
     border-radius: 8px;
     background: rgba(var(--color-bg-elevated), 0.8);
-
     color: rgb(var(--color-text-base));
+}
+
+/* Fjern hover/focus-effekt på menyknappen */
+.topbar__menu:hover,
+.topbar__menu:focus {
+    background: rgba(var(--color-bg-elevated), 0.8);
+    color: rgb(var(--color-text-base));
+    box-shadow: none;
+    outline: none;
 }
 
 .topbar__menu-bars {

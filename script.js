@@ -10,6 +10,12 @@ document.addEventListener("DOMContentLoaded", () => {
         backdrop.classList.toggle("is-open", open);
         menuBtn.classList.toggle("is-open", open);
         menuBtn.setAttribute("aria-expanded", open ? "true" : "false");
+        // Disable scrolling on body when sidebar is open
+        if (open) {
+            document.body.style.overflow = "hidden";
+        } else {
+            document.body.style.overflow = "";
+        }
     };
 
     if (menuBtn) {
