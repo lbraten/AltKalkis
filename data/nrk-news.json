@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-25T14:42:22.618Z",
+  "updatedAt": "2026-03-25T16:12:16.628Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tre personer skadd etter snøskred ved Riksgränsen",
+      "link": "https://www.nrk.no/nyheter/tre-personer-skadd-etter-snoskred-ved-riksgransen-1.17825024",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 25 Mar 2026 15:26:33 GMT"
+    },
+    {
+      "title": "Tidligere Google-leder bekreftet som BBC-sjef",
+      "link": "https://www.nrk.no/nyheter/tidligere-google-leder-bekreftet-som-bbc-sjef-1.17824976",
+      "category": "BBC",
+      "pubDate": "Wed, 25 Mar 2026 15:19:06 GMT"
+    },
+    {
+      "title": "Rødt åpner for avgiftskutt - vil ha rødgrønn løsning",
+      "link": "https://www.nrk.no/nyheter/rodt-apner-for-avgiftskutt---vil-ha-rodgronn-losning-1.17824803",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Wed, 25 Mar 2026 15:13:02 GMT"
+    },
+    {
+      "title": "Karmøy-drapene: Politiet etterlyser overvåkingsbilder",
+      "link": "https://www.nrk.no/rogaland/karmoy-drapene_-politiet-etterlyser-overvakingsbilder-1.17824902",
+      "category": "To personer funnet døde på Karmøy",
+      "pubDate": "Wed, 25 Mar 2026 15:04:04 GMT"
+    },
     {
       "title": "VG slipper bot etter tabbe i Høiby-saken, melder TV 2",
       "link": "https://www.nrk.no/nyheter/vg-slipper-bot-etter-tabbe-i-hoiby-saken_-melder-tv-2-1.17824945",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-avviser-amerikansk-vapenhvileforslag-1.17824835",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 25 Mar 2026 14:18:39 GMT"
-    },
-    {
-      "title": "Krever 6 måneders fengsel for Isak Dreyer",
-      "link": "https://www.nrk.no/nyheter/krever-6-maneders-fengsel-for-isak-dreyer-1.17824825",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 25 Mar 2026 13:29:20 GMT"
-    },
-    {
-      "title": "En person skadd etter snøskred ved Riksgränsen",
-      "link": "https://www.nrk.no/nyheter/en-person-skadd-etter-snoskred-ved-riksgransen-1.17824727",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 25 Mar 2026 13:24:32 GMT"
-    },
-    {
-      "title": "Ap kaller inn til hastemøte - bensinkrig på Stortinget",
-      "link": "https://www.nrk.no/nyheter/ap-kaller-inn-til-hastemote---bensinkrig-pa-stortinget-1.17824775",
-      "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Wed, 25 Mar 2026 13:17:06 GMT"
-    },
-    {
-      "title": "Stoltenberg utelukker ikke tiltak",
-      "link": "https://www.nrk.no/nyheter/stoltenberg-utelukker-ikke-tiltak-1.17824626",
-      "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Wed, 25 Mar 2026 13:08:02 GMT"
     }
   ]
 }
