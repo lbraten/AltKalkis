@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-25T20:41:35.329Z",
+  "updatedAt": "2026-03-25T21:41:48.115Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kilder til NRK: Ap-forslag for å løse bensinkrisen",
+      "link": "https://www.nrk.no/nyheter/kilder-til-nrk_-ap-forslag-for-a-lose-bensinkrisen-1.17825393",
+      "category": "high",
+      "pubDate": "Wed, 25 Mar 2026 21:38:13 GMT"
+    },
+    {
+      "title": "Planlegger ny rakettoppskyting på Andøya fredag",
+      "link": "https://www.nrk.no/nyheter/planlegger-ny-rakettoppskyting-pa-andoya-fredag-1.17825380",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 25 Mar 2026 21:21:48 GMT"
+    },
+    {
+      "title": "Kvinne utsatt for vold",
+      "link": "https://www.nrk.no/trondelag/kvinne-utsatt-for-vold--1.17825366",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Wed, 25 Mar 2026 20:56:26 GMT"
+    },
+    {
+      "title": "Nordmann alvorlig skadet etter snøskredet i Kiruna",
+      "link": "https://www.nrk.no/nordland/nordmann-alvorlig-skadet-etter-snoskredet-i-kiruna-1.17825310",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 25 Mar 2026 20:41:40 GMT"
+    },
     {
       "title": "Avbrøt oppskyting på Andøya",
       "link": "https://www.nrk.no/nyheter/avbrot-oppskyting-pa-andoya-1.17825349",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/15-aring-dod-etter-skyting-i-malmo-1.17825348",
       "category": "Sverige",
       "pubDate": "Wed, 25 Mar 2026 20:01:58 GMT"
-    },
-    {
-      "title": "Bot til Meta og Google",
-      "link": "https://www.nrk.no/nyheter/bot-til-meta-og-google--1.17825340",
-      "category": "Sosiale medier",
-      "pubDate": "Wed, 25 Mar 2026 19:56:47 GMT"
-    },
-    {
-      "title": "Iran: Ingen forhandlinger med USA",
-      "link": "https://www.nrk.no/nyheter/iran_-ingen-forhandlinger-med-usa-1.17825298",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 25 Mar 2026 19:46:07 GMT"
-    },
-    {
-      "title": "Kystvaktskip på vei til havaristen",
-      "link": "https://www.nrk.no/nordland/kystvaktskip-pa-vei-til-havaristen-1.17824996",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Wed, 25 Mar 2026 18:47:18 GMT"
-    },
-    {
-      "title": "Aftenposten: Nobelkomiteen åpner opp om gavelister og bindinger",
-      "link": "https://www.nrk.no/nyheter/aftenposten_-nobelkomiteen-apner-opp-om-gavelister-og-bindinger-1.17825295",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Wed, 25 Mar 2026 18:46:38 GMT"
     }
   ]
 }
