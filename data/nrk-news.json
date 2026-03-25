@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-25T09:56:38.389Z",
+  "updatedAt": "2026-03-25T10:55:42.428Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bil har kilt seg fast under semitrailer på Strømmen",
+      "link": "https://www.nrk.no/stor-oslo/bil-har-kilt-seg-fast-under-semitrailer-pa-strommen-1.17824318",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 25 Mar 2026 10:23:57 GMT"
+    },
+    {
+      "title": "Den nasjonale tegnspråkdagen",
+      "link": "https://www.nrk.no/nyheter/den-nasjonale-tegnsprakdagen-1.17824062",
+      "category": "Språk",
+      "pubDate": "Wed, 25 Mar 2026 10:00:59 GMT"
+    },
+    {
+      "title": "MDG advarer Sp: Brudd på avtalen",
+      "link": "https://www.nrk.no/nyheter/mdg-advarer-sp_-brudd-pa-avtalen-1.17824229",
+      "category": "Bensinpriser",
+      "pubDate": "Wed, 25 Mar 2026 10:00:16 GMT"
+    },
+    {
+      "title": "Lasteskipet driver fortsatt: – Foreløpig ikke bekymret, sier Kystverket",
+      "link": "https://www.nrk.no/nordland/lasteskipet-driver-fortsatt_-_-forelopig-ikke-bekymret_-sier-kystverket-1.17823966",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 25 Mar 2026 09:50:57 GMT"
+    },
+    {
+      "title": "Utløste redningsaksjon med falsk alarm – må betale erstatning til Hovedredningssentralen",
+      "link": "https://www.nrk.no/mr/utloste-redningsaksjon-med-falsk-alarm-_-ma-betale-erstatning-til-hovedredningssentralen-1.17824133",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Wed, 25 Mar 2026 09:32:04 GMT"
+    },
     {
       "title": "Løp etter naken mann i Halden",
       "link": "https://www.nrk.no/ostfold/lop-etter-naken-mann-i-halden-1.17823983",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Wed, 25 Mar 2026 09:17:56 GMT"
-    },
-    {
-      "title": "Ber publikum om hjelp til å stoppe ulovlig laksefiske",
-      "link": "https://www.nrk.no/tromsogfinnmark/ber-publikum-om-hjelp-til-a-stoppe-ulovlig-laksefiske-1.17823743",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 25 Mar 2026 09:14:50 GMT"
-    },
-    {
-      "title": "Innbrot hos Alan Walker: – Stakk av med viktig datautstyr",
-      "link": "https://www.nrk.no/vestland/innbrot-hos-alan-walker_-_-stakk-av-med-viktig-datautstyr-1.17824056",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 25 Mar 2026 09:13:18 GMT"
-    },
-    {
-      "title": "EU-kommisjonen dømt til å betale bot på 157 millioner kroner til SAS",
-      "link": "https://www.nrk.no/nyheter/-eu-kommisjonen-domt-til-a-betale-bot-pa-157-millioner-kroner-til-sas-1.17824012",
-      "category": "Flyselskapet SAS",
-      "pubDate": "Wed, 25 Mar 2026 09:08:47 GMT"
-    },
-    {
-      "title": "Iverksetter ferdselsforbud på Andøya",
-      "link": "https://www.nrk.no/nordland/iverksetter-ferdselsforbud-pa-andoya-1.17823965",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Wed, 25 Mar 2026 09:01:59 GMT"
-    },
-    {
-      "title": "Dødeligste året noensinne for migranter i Rødehavet",
-      "link": "https://www.nrk.no/nyheter/dodeligste-aret-noensinne-for-migranter-i-rodehavet-1.17823999",
-      "category": "Flyktninger i verden",
-      "pubDate": "Wed, 25 Mar 2026 08:59:51 GMT"
     }
   ]
 }
