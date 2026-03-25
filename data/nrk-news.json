@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-25T04:33:30.407Z",
+  "updatedAt": "2026-03-25T06:02:39.603Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Unge menn ser på 52-åringer som gamle",
+      "link": "https://www.nrk.no/nyheter/unge-menn-ser-pa-52-aringer-som-gamle-1.17823686",
+      "category": "Arbeidsliv",
+      "pubDate": "Wed, 25 Mar 2026 05:55:57 GMT"
+    },
+    {
+      "title": "Norge stanser ikke våpeneksporten til USA som følge av Iran-krigen",
+      "link": "https://www.nrk.no/nyheter/norge-stanser-ikke-vapeneksporten-til-usa-som-folge-av-iran-krigen-1.17823675",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 25 Mar 2026 05:28:52 GMT"
+    },
     {
       "title": "Iran har skutt missiler mot flere land",
       "link": "https://www.nrk.no/nyheter/iran-har-skutt-missiler-mot-flere-land--1.17823626",
@@ -21,22 +33,10 @@
       "pubDate": "Wed, 25 Mar 2026 03:43:04 GMT"
     },
     {
-      "title": "USA beordrer fallskjermsoldater til Midtøsten",
-      "link": "https://www.nrk.no/nyheter/usa-beordrer-fallskjermsoldater-til-midtosten-1.17823621",
+      "title": "New York Times: USA beordrer fallskjermsoldater til Midtøsten",
+      "link": "https://www.nrk.no/nyheter/new-york-times_-usa-beordrer-fallskjermsoldater-til-midtosten-1.17823621",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 25 Mar 2026 03:17:02 GMT"
-    },
-    {
-      "title": "Minst seks drept etter israelsk angrep mot Libanon",
-      "link": "https://www.nrk.no/nyheter/minst-seks-drept-etter-israelsk-angrep-mot-libanon-1.17823611",
-      "category": "Libanon",
-      "pubDate": "Wed, 25 Mar 2026 02:43:43 GMT"
-    },
-    {
-      "title": "Aksjoner varslet i påskeutfarten – kan bli lange køer i Telemark og Agder",
-      "link": "https://www.nrk.no/nyheter/aksjoner-varslet-i-paskeutfarten-_-kan-bli-lange-koer-i-telemark-og-agder-1.17823605",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Wed, 25 Mar 2026 02:32:05 GMT"
     }
   ]
 }
