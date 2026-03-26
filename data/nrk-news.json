@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-26T21:53:29.679Z",
+  "updatedAt": "2026-03-26T22:32:58.079Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EU mener Russland hjelper Iran med etterretning og droner",
+      "link": "https://www.nrk.no/nyheter/eu-mener-russland-hjelper-iran-med-etterretning-og-droner-1.17827099",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 26 Mar 2026 22:12:39 GMT"
+    },
     {
       "title": "Trump utsetter angrep på iranske energianlegg",
       "link": "https://www.nrk.no/nyheter/trump-utsetter-angrep-pa-iranske-energianlegg-1.17827030",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nrk-profil-john-andreassen-er-dod-1.17826951",
       "category": "NRK",
       "pubDate": "Thu, 26 Mar 2026 18:35:14 GMT"
-    },
-    {
-      "title": "Stoltenberg: – Ikke en god dag for samarbeidet",
-      "link": "https://www.nrk.no/nyheter/stoltenberg_-_-ikke-en-god-dag-for-samarbeidet-1.17826943",
-      "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Thu, 26 Mar 2026 18:13:03 GMT"
     }
   ]
 }
