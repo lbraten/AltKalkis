@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-26T05:08:37.084Z",
+  "updatedAt": "2026-03-26T06:45:16.748Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ukrainske droner angrep olje- og gassanlegg i Russland for andre natt på rad",
-      "link": "https://www.nrk.no/nyheter/ukrainske-droner-angrep-olje--og-gassanlegg-i-russland-for-andre-natt-pa-rad-1.17825451",
+      "title": "Vedum om pumpeprisene: Vi skal få lavere avgifter",
+      "link": "https://www.nrk.no/nyheter/vedum-om-pumpeprisene_-vi-skal-fa-lavere-avgifter-1.17825508",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Thu, 26 Mar 2026 06:39:15 GMT"
+    },
+    {
+      "title": "Bensinkrigen: Ap åpner for engangsutbetalinger",
+      "link": "https://www.nrk.no/nyheter/bensinkrigen_-ap-apner-for-engangsutbetalinger--1.17825573",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Thu, 26 Mar 2026 06:35:16 GMT"
+    },
+    {
+      "title": "Ukrainsk drone hamna i Romania",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-drone-hamna-i-romania-1.17825560",
       "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 26 Mar 2026 04:09:14 GMT"
+      "pubDate": "Thu, 26 Mar 2026 06:21:38 GMT"
     },
     {
-      "title": "To personer drept i russisk angrep i Kharkiv-regionen",
-      "link": "https://www.nrk.no/nyheter/to-personer-drept-i-russisk-angrep-i-kharkiv-regionen-1.17825450",
+      "title": "Russisk angrep mot ukrainsk infrastruktur",
+      "link": "https://www.nrk.no/nyheter/russisk-angrep-mot-ukrainsk-infrastruktur-1.17825510",
       "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 26 Mar 2026 03:59:06 GMT"
+      "pubDate": "Thu, 26 Mar 2026 06:16:47 GMT"
     },
     {
-      "title": "Direktør i oljeselskap kaller Irans kontroll i Hormuzstredet for «økonomisk terrorisme»",
-      "link": "https://www.nrk.no/nyheter/direktor-i-oljeselskap-kaller-irans-kontroll-i-hormuzstredet-for-_okonomisk-terrorisme_-1.17825447",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 26 Mar 2026 03:49:13 GMT"
+      "title": "Støre snakka med Rubio",
+      "link": "https://www.nrk.no/nyheter/store-snakka-med-rubio-1.17825545",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 26 Mar 2026 06:03:12 GMT"
     },
     {
-      "title": "IDF har angrepet flere steder i Iran natt til torsdag",
-      "link": "https://www.nrk.no/nyheter/idf-har-angrepet-flere-steder-i-iran-natt-til-torsdag-1.17825446",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 26 Mar 2026 02:49:46 GMT"
-    },
-    {
-      "title": "Voldshendelse i Volda",
-      "link": "https://www.nrk.no/nyheter/voldshendelse-i-volda--1.17825445",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Thu, 26 Mar 2026 02:10:15 GMT"
-    },
-    {
-      "title": "Mexico har ryddet opp 128 tonn råolje etter utslipp",
-      "link": "https://www.nrk.no/nyheter/mexico-har-ryddet-opp-128-tonn-raolje-etter-utslipp-1.17825443",
-      "category": "Mexico",
-      "pubDate": "Thu, 26 Mar 2026 01:46:58 GMT"
+      "title": "Rekordmange europeiske studentar til Noreg",
+      "link": "https://www.nrk.no/nyheter/rekordmange-europeiske-studentar-til-noreg-1.17825524",
+      "category": "Høyere utdanning",
+      "pubDate": "Thu, 26 Mar 2026 06:00:54 GMT"
     }
   ]
 }
