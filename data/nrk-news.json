@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-26T20:01:29.169Z",
+  "updatedAt": "2026-03-26T21:00:31.566Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump utsetter angrep på iranske energianlegg",
+      "link": "https://www.nrk.no/nyheter/trump-utsetter-angrep-pa-iranske-energianlegg-1.17827030",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 26 Mar 2026 20:17:50 GMT"
+    },
     {
       "title": "Iran vil ikke sende lag til fiendtlige land",
       "link": "https://www.nrk.no/nyheter/iran-vil-ikke-sende-lag-til-fiendtlige-land-1.17827025",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/stoltenberg_-_-ikke-en-god-dag-for-samarbeidet-1.17826943",
       "category": "Tiltak mot høye drivstoffpriser",
       "pubDate": "Thu, 26 Mar 2026 18:13:03 GMT"
-    },
-    {
-      "title": "Høyres forslag til kutt i pumpeprisene vedtatt",
-      "link": "https://www.nrk.no/nyheter/hoyres-forslag-til-kutt-i-pumpeprisene-vedtatt_-1.17826843",
-      "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Thu, 26 Mar 2026 18:04:46 GMT"
     }
   ]
 }
