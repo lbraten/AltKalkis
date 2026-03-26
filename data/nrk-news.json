@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-26T19:10:40.098Z",
+  "updatedAt": "2026-03-26T20:01:29.169Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran vil ikke sende lag til fiendtlige land",
+      "link": "https://www.nrk.no/nyheter/iran-vil-ikke-sende-lag-til-fiendtlige-land-1.17827025",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Thu, 26 Mar 2026 19:48:30 GMT"
+    },
+    {
+      "title": "Dommer i USA avviser Musk-søksmål mot selskaper som droppet X",
+      "link": "https://www.nrk.no/nyheter/dommer-i-usa-avviser-musk-soksmal-mot-selskaper-som-droppet-x-1.17826993",
+      "category": "Elon Musk",
+      "pubDate": "Thu, 26 Mar 2026 19:30:20 GMT"
+    },
     {
       "title": "Støre om kuttet i avgiftene: – Kan gjøre vondt verre",
       "link": "https://www.nrk.no/nyheter/store-om-kuttet-i-avgiftene_-_-kan-gjore-vondt-verre-1.17826984",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hoyres-forslag-til-kutt-i-pumpeprisene-vedtatt_-1.17826843",
       "category": "Tiltak mot høye drivstoffpriser",
       "pubDate": "Thu, 26 Mar 2026 18:04:46 GMT"
-    },
-    {
-      "title": "Evakuering oppheva i Øksfjord",
-      "link": "https://www.nrk.no/tromsogfinnmark/evakuering-oppheva-i-oksfjord-1.17826935",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 26 Mar 2026 17:55:44 GMT"
-    },
-    {
-      "title": "Togtrøbbel på Lillestrøm stasjon: Forsinkelser og innstillinger",
-      "link": "https://www.nrk.no/stor-oslo/togtrobbel-pa-lillestrom-stasjon_-forsinkelser-og-innstillinger-1.17826926",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 26 Mar 2026 17:46:51 GMT"
     }
   ]
 }
