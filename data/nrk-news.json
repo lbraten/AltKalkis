@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-26T02:35:23.552Z",
+  "updatedAt": "2026-03-26T05:08:37.084Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukrainske droner angrep olje- og gassanlegg i Russland for andre natt på rad",
+      "link": "https://www.nrk.no/nyheter/ukrainske-droner-angrep-olje--og-gassanlegg-i-russland-for-andre-natt-pa-rad-1.17825451",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 26 Mar 2026 04:09:14 GMT"
+    },
+    {
+      "title": "To personer drept i russisk angrep i Kharkiv-regionen",
+      "link": "https://www.nrk.no/nyheter/to-personer-drept-i-russisk-angrep-i-kharkiv-regionen-1.17825450",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 26 Mar 2026 03:59:06 GMT"
+    },
+    {
+      "title": "Direktør i oljeselskap kaller Irans kontroll i Hormuzstredet for «økonomisk terrorisme»",
+      "link": "https://www.nrk.no/nyheter/direktor-i-oljeselskap-kaller-irans-kontroll-i-hormuzstredet-for-_okonomisk-terrorisme_-1.17825447",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 26 Mar 2026 03:49:13 GMT"
+    },
+    {
+      "title": "IDF har angrepet flere steder i Iran natt til torsdag",
+      "link": "https://www.nrk.no/nyheter/idf-har-angrepet-flere-steder-i-iran-natt-til-torsdag-1.17825446",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 26 Mar 2026 02:49:46 GMT"
+    },
     {
       "title": "Voldshendelse i Volda",
       "link": "https://www.nrk.no/nyheter/voldshendelse-i-volda--1.17825445",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mexico-har-ryddet-opp-128-tonn-raolje-etter-utslipp-1.17825443",
       "category": "Mexico",
       "pubDate": "Thu, 26 Mar 2026 01:46:58 GMT"
-    },
-    {
-      "title": "Trump tror frykt er årsak til at Iran ikke bekrefter samtaler med USA",
-      "link": "https://www.nrk.no/nyheter/trump-tror-frykt-er-arsak-til-at-iran-ikke-bekrefter-samtaler-med-usa-1.17825440",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Thu, 26 Mar 2026 00:19:40 GMT"
-    },
-    {
-      "title": "Australia innfører innreiseforbud for iranere",
-      "link": "https://www.nrk.no/nyheter/australia-innforer-innreiseforbud-for-iranere-1.17825439",
-      "category": "Australia",
-      "pubDate": "Thu, 26 Mar 2026 00:03:22 GMT"
-    },
-    {
-      "title": "Trump vil møte Kinas president i Beijing i mai",
-      "link": "https://www.nrk.no/nyheter/trump-vil-mote-kinas-president-i-beijing-i-mai--1.17825438",
-      "category": "USA og Kina",
-      "pubDate": "Wed, 25 Mar 2026 23:57:20 GMT"
-    },
-    {
-      "title": "Fire drept i angrep mot mistenkt narkobåt",
-      "link": "https://www.nrk.no/nyheter/fire-drept-i-angrep-mot-mistenkt-narkobat-1.17825437",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 25 Mar 2026 23:45:33 GMT"
     }
   ]
 }
