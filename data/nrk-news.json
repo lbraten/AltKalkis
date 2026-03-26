@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-03-26T06:45:16.748Z",
+  "updatedAt": "2026-03-26T08:02:45.010Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Vedum om pumpeprisene: Vi skal få lavere avgifter",
-      "link": "https://www.nrk.no/nyheter/vedum-om-pumpeprisene_-vi-skal-fa-lavere-avgifter-1.17825508",
+      "title": "MDG om Sp: – Ufattelig uansvarlig",
+      "link": "https://www.nrk.no/nyheter/mdg-om-sp_-_-ufattelig-uansvarlig-1.17825677",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 26 Mar 2026 07:34:39 GMT"
+    },
+    {
+      "title": "Oljetanker rammet av eksplosjon i Svartehavet",
+      "link": "https://www.nrk.no/nyheter/oljetanker-rammet-av-eksplosjon-i-svartehavet-1.17825645",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 26 Mar 2026 07:27:24 GMT"
+    },
+    {
+      "title": "Nobelkomiteen deler medlemmers verv og bindinger",
+      "link": "https://www.nrk.no/nyheter/nobelkomiteen-deler-medlemmers-verv-og-bindinger-1.17825626",
+      "category": "Nobelkomiteen",
+      "pubDate": "Thu, 26 Mar 2026 07:12:25 GMT"
+    },
+    {
+      "title": "SV: – De skyhøye drivstoffprisene er uakseptable",
+      "link": "https://www.nrk.no/nyheter/sv_-_-de-skyhoye-drivstoffprisene-er-uakseptable-1.17825589",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Thu, 26 Mar 2026 06:48:25 GMT"
+    },
+    {
+      "title": "Vedum varsler støtte til Høyres drivstoff-forslag",
+      "link": "https://www.nrk.no/nyheter/vedum-varsler-stotte-til-hoyres-drivstoff-forslag-1.17825508",
       "category": "Tiltak mot høye drivstoffpriser",
       "pubDate": "Thu, 26 Mar 2026 06:39:15 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bensinkrigen_-ap-apner-for-engangsutbetalinger--1.17825573",
       "category": "Tiltak mot høye drivstoffpriser",
       "pubDate": "Thu, 26 Mar 2026 06:35:16 GMT"
-    },
-    {
-      "title": "Ukrainsk drone hamna i Romania",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-drone-hamna-i-romania-1.17825560",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 26 Mar 2026 06:21:38 GMT"
-    },
-    {
-      "title": "Russisk angrep mot ukrainsk infrastruktur",
-      "link": "https://www.nrk.no/nyheter/russisk-angrep-mot-ukrainsk-infrastruktur-1.17825510",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 26 Mar 2026 06:16:47 GMT"
-    },
-    {
-      "title": "Støre snakka med Rubio",
-      "link": "https://www.nrk.no/nyheter/store-snakka-med-rubio-1.17825545",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 26 Mar 2026 06:03:12 GMT"
-    },
-    {
-      "title": "Rekordmange europeiske studentar til Noreg",
-      "link": "https://www.nrk.no/nyheter/rekordmange-europeiske-studentar-til-noreg-1.17825524",
-      "category": "Høyere utdanning",
-      "pubDate": "Thu, 26 Mar 2026 06:00:54 GMT"
     }
   ]
 }
