@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-27T09:27:21.434Z",
+  "updatedAt": "2026-03-27T10:24:35.911Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En måned med krig i Iran: – Millioner er satt i ekstrem usikkerhet",
+      "link": "https://www.nrk.no/nyheter/-en-maned-med-krig-i-iran_-_-millioner-er-satt-i-ekstrem-usikkerhet-1.17827643",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 27 Mar 2026 10:21:23 GMT"
+    },
+    {
+      "title": "Ny lov skal avdekke svikt når barn utsettes for vold",
+      "link": "https://www.nrk.no/nyheter/-ny-lov-skal-avdekke-svikt-nar-barn-utsettes-for-vold-1.17827511",
+      "category": "Barnevern",
+      "pubDate": "Fri, 27 Mar 2026 10:14:25 GMT"
+    },
     {
       "title": "Zelenskyj: Ukraina og Saudi-Arabia har inngått avtale om forsvarssamarbeid",
       "link": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-og-saudi-arabia-har-inngatt-avtale-om-forsvarssamarbeid-1.17827496",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/amund-djuve-skal-lede-epsteingransking--1.17827307",
       "category": "Epsteins norske forbindelser",
       "pubDate": "Fri, 27 Mar 2026 08:52:10 GMT"
-    },
-    {
-      "title": "Konkurransetilsynet vurderer å forby Telenor-oppkjøp av GlobalConnect",
-      "link": "https://www.nrk.no/nyheter/konkurransetilsynet-vurderer-a-forby-telenor-oppkjop-av-globalconnect-1.17827342",
-      "category": "Telenor",
-      "pubDate": "Fri, 27 Mar 2026 08:38:50 GMT"
-    },
-    {
-      "title": "20-åring fengslet i fire uker for drapsforsøk",
-      "link": "https://www.nrk.no/stor-oslo/20-aring-fengslet-i-fire-uker-for-drapsforsok-1.17827314",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 27 Mar 2026 08:18:06 GMT"
     }
   ]
 }
