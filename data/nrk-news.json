@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-27T22:35:05.561Z",
+  "updatedAt": "2026-03-27T23:35:21.572Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Houthiene truer med å gå inn i krigen",
+      "link": "https://www.nrk.no/nyheter/houthiene-truer-med-a-ga-inn-i-krigen-1.17828788",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 27 Mar 2026 23:33:10 GMT"
+    },
+    {
+      "title": "Melding om droneangrep mot De forente arabiske emirater",
+      "link": "https://www.nrk.no/nyheter/melding-om-droneangrep-mot-de-forente-arabiske-emirater-1.17828775",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 27 Mar 2026 23:30:33 GMT"
+    },
+    {
+      "title": "Trump: Vi trenger ikke være der for Nato",
+      "link": "https://www.nrk.no/nyheter/trump_-vi-trenger-ikke-vaere-der-for-nato-1.17828769",
+      "category": "Nato",
+      "pubDate": "Fri, 27 Mar 2026 22:55:49 GMT"
+    },
     {
       "title": "Avis: Ti amerikanske soldater såret etter angrep mot base i Saudi-Arabia",
       "link": "https://www.nrk.no/nyheter/avis_-ti-amerikanske-soldater-saret-etter-angrep-mot-base-i-saudi-arabia-1.17828767",
@@ -9,8 +27,8 @@
       "pubDate": "Fri, 27 Mar 2026 22:27:05 GMT"
     },
     {
-      "title": "Livløs person på E6 ved Minnesund",
-      "link": "https://www.nrk.no/stor-oslo/livlos-person-pa-e6-ved-minnesund--1.17828763",
+      "title": "Kvinne omkom etter å ha falt ned på E6 ved Minnesund",
+      "link": "https://www.nrk.no/stor-oslo/kvinne-omkom-etter-a-ha-falt-ned-pa-e6-ved-minnesund-1.17828763",
       "category": "Trafikk i Stor-Oslo",
       "pubDate": "Fri, 27 Mar 2026 22:18:22 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/oslo_-jente-_11_-anmeldt-for-trusler-med-kniv-1.17828464",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 27 Mar 2026 21:17:24 GMT"
-    },
-    {
-      "title": "Houthiene i Jemen: Klare til å gå inn i krigen",
-      "link": "https://www.nrk.no/nyheter/houthiene-i-jemen_-klare-til-a-ga-inn-i-krigen-1.17828723",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 27 Mar 2026 21:08:34 GMT"
-    },
-    {
-      "title": "Iran angriper Israel",
-      "link": "https://www.nrk.no/nyheter/iran-angriper-israel-1.17828703",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 27 Mar 2026 20:52:22 GMT"
-    },
-    {
-      "title": "Witkoff: Håper på møte med Iran denne uken",
-      "link": "https://www.nrk.no/nyheter/witkoff_-haper-pa-mote-med-iran-denne-uken-1.17828683",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 27 Mar 2026 20:36:22 GMT"
     }
   ]
 }
