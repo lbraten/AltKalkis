@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-27T19:58:52.727Z",
+  "updatedAt": "2026-03-27T20:51:16.421Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Witkoff: Håper på møte med Iran denne uken",
+      "link": "https://www.nrk.no/nyheter/witkoff_-haper-pa-mote-med-iran-denne-uken-1.17828683",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 27 Mar 2026 20:36:22 GMT"
+    },
+    {
+      "title": "Full stans i produksjonen på Grans",
+      "link": "https://www.nrk.no/vestfoldogtelemark/full-stans-i-produksjonen-pa-grans-1.17828666",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 27 Mar 2026 20:12:27 GMT"
+    },
+    {
+      "title": "New York: Nytt fall på børsene",
+      "link": "https://www.nrk.no/nyheter/new-york_-nytt-fall-pa-borsene--1.17828679",
+      "category": "Uro på børsene",
+      "pubDate": "Fri, 27 Mar 2026 20:12:00 GMT"
+    },
     {
       "title": "Iran varsler angrep mot industri i regionen",
       "link": "https://www.nrk.no/nyheter/iran-varsler-angrep-mot-industri-i-regionen-1.17828613",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-ulykke-pa-e134_-_-stenges-i-flere-timer-1.17828531",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Fri, 27 Mar 2026 18:11:00 GMT"
-    },
-    {
-      "title": "Tenåringsjenter tiltalt etter brannen ved Løten ungdomsskole",
-      "link": "https://www.nrk.no/innlandet/tenaringsjenter-tiltalt-etter-brannen-ved-loten-ungdomsskole-1.17828537",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 27 Mar 2026 18:10:30 GMT"
-    },
-    {
-      "title": "Gladnyhet: E6 kan åpne i morgen",
-      "link": "https://www.nrk.no/nordland/gladnyhet_-e6-kan-apne-i-morgen-1.17828539",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 27 Mar 2026 18:08:31 GMT"
-    },
-    {
-      "title": "Trafikkulykke på Hardangervidda – riksvei 7 stengt",
-      "link": "https://www.nrk.no/vestland/trafikkulykke-pa-hardangervidda-_-riksvei-7-stengt-1.17827835",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 27 Mar 2026 17:54:03 GMT"
     }
   ]
 }
