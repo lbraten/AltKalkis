@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-27T21:37:38.016Z",
+  "updatedAt": "2026-03-27T22:35:05.561Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Avis: Ti amerikanske soldater såret etter angrep mot base i Saudi-Arabia",
+      "link": "https://www.nrk.no/nyheter/avis_-ti-amerikanske-soldater-saret-etter-angrep-mot-base-i-saudi-arabia-1.17828767",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 27 Mar 2026 22:27:05 GMT"
+    },
+    {
+      "title": "Livløs person på E6 ved Minnesund",
+      "link": "https://www.nrk.no/stor-oslo/livlos-person-pa-e6-ved-minnesund--1.17828763",
+      "category": "Trafikk i Stor-Oslo",
+      "pubDate": "Fri, 27 Mar 2026 22:18:22 GMT"
+    },
     {
       "title": "Oslo: Jente (11) anmeldt for trusler med kniv",
       "link": "https://www.nrk.no/stor-oslo/oslo_-jente-_11_-anmeldt-for-trusler-med-kniv-1.17828464",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/witkoff_-haper-pa-mote-med-iran-denne-uken-1.17828683",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 27 Mar 2026 20:36:22 GMT"
-    },
-    {
-      "title": "Full stans i produksjonen på Grans",
-      "link": "https://www.nrk.no/vestfoldogtelemark/full-stans-i-produksjonen-pa-grans-1.17828666",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 27 Mar 2026 20:12:27 GMT"
-    },
-    {
-      "title": "New York: Nytt fall på børsene",
-      "link": "https://www.nrk.no/nyheter/new-york_-nytt-fall-pa-borsene--1.17828679",
-      "category": "Uro på børsene",
-      "pubDate": "Fri, 27 Mar 2026 20:12:00 GMT"
     }
   ]
 }
