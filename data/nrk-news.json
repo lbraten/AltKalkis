@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-27T15:55:48.908Z",
+  "updatedAt": "2026-03-27T16:59:43.937Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rubio: Forventer Iran-krigen avsluttes innen «uker, ikke måneder»",
+      "link": "https://www.nrk.no/nyheter/rubio_-forventer-iran-krigen-avsluttes-innen-_uker_-ikke-maneder_-1.17828400",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 27 Mar 2026 16:50:23 GMT"
+    },
+    {
+      "title": "Amper stemning på kaia etter bussbrann – mener folk sniker",
+      "link": "https://www.nrk.no/nordland/amper-stemning-pa-kaia-etter-bussbrann-_-mener-folk-sniker-1.17828442",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 27 Mar 2026 16:17:12 GMT"
+    },
     {
       "title": "Israel bombet Sør-Beirut uten forvarsel",
       "link": "https://www.nrk.no/nyheter/israel-bombet-sor-beirut-uten-forvarsel-1.17828397",
@@ -9,8 +21,14 @@
       "pubDate": "Fri, 27 Mar 2026 15:30:49 GMT"
     },
     {
-      "title": "Front mot front i Kviteseid - luftambulanse på vei",
-      "link": "https://www.nrk.no/vestfoldogtelemark/front-mot-front-i-kviteseid---luftambulanse-pa-vei-1.17828385",
+      "title": "Ønsker ny vurdering av Olavsvern i Tromsø",
+      "link": "https://www.nrk.no/tromsogfinnmark/onsker-ny-vurdering-av-olavsvern-i-tromso-1.17828273",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Fri, 27 Mar 2026 15:30:01 GMT"
+    },
+    {
+      "title": "Front mot front i Kviteseid - E134 stengt",
+      "link": "https://www.nrk.no/vestfoldogtelemark/front-mot-front-i-kviteseid---e134-stengt-1.17828385",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Fri, 27 Mar 2026 15:22:14 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sverige_-17-aring-tilstar-drap--1.17828262",
       "category": "Voldsbølge i Sverige",
       "pubDate": "Fri, 27 Mar 2026 14:55:21 GMT"
-    },
-    {
-      "title": "Høyesterett dømmer Lysglimt Johansen til fengsel",
-      "link": "https://www.nrk.no/stor-oslo/hoyesterett-dommer-lysglimt-johansen-til-fengsel-1.17828324",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 27 Mar 2026 14:46:09 GMT"
-    },
-    {
-      "title": "Setter opp to nye fergesamband etter tunnelbrann",
-      "link": "https://www.nrk.no/nordland/setter-opp-to-nye-fergesamband-etter-tunnelbrann-1.17828212",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 27 Mar 2026 14:40:50 GMT"
-    },
-    {
-      "title": "FOKUS avslutter beskytterskapet med Mette-Marit",
-      "link": "https://www.nrk.no/nyheter/fokus-avslutter-beskytterskapet-med-mette-marit-1.17828229",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 27 Mar 2026 14:26:27 GMT"
     }
   ]
 }
