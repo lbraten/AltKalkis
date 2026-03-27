@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-27T20:51:16.421Z",
+  "updatedAt": "2026-03-27T21:37:38.016Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oslo: Jente (11) anmeldt for trusler med kniv",
+      "link": "https://www.nrk.no/stor-oslo/oslo_-jente-_11_-anmeldt-for-trusler-med-kniv-1.17828464",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 27 Mar 2026 21:17:24 GMT"
+    },
+    {
+      "title": "Houthiene i Jemen: Klare til å gå inn i krigen",
+      "link": "https://www.nrk.no/nyheter/houthiene-i-jemen_-klare-til-a-ga-inn-i-krigen-1.17828723",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 27 Mar 2026 21:08:34 GMT"
+    },
+    {
+      "title": "Iran angriper Israel",
+      "link": "https://www.nrk.no/nyheter/iran-angriper-israel-1.17828703",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 27 Mar 2026 20:52:22 GMT"
+    },
     {
       "title": "Witkoff: Håper på møte med Iran denne uken",
       "link": "https://www.nrk.no/nyheter/witkoff_-haper-pa-mote-med-iran-denne-uken-1.17828683",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/new-york_-nytt-fall-pa-borsene--1.17828679",
       "category": "Uro på børsene",
       "pubDate": "Fri, 27 Mar 2026 20:12:00 GMT"
-    },
-    {
-      "title": "Iran varsler angrep mot industri i regionen",
-      "link": "https://www.nrk.no/nyheter/iran-varsler-angrep-mot-industri-i-regionen-1.17828613",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 27 Mar 2026 18:42:11 GMT"
-    },
-    {
-      "title": "Tyskland kan bli tvunget til å beholde kullkraft",
-      "link": "https://www.nrk.no/nyheter/tyskland-kan-bli-tvunget-til-a-beholde-kullkraft-1.17828548",
-      "category": "Tyskland",
-      "pubDate": "Fri, 27 Mar 2026 18:34:21 GMT"
-    },
-    {
-      "title": "Alvorlig ulykke på E134: – Stenges i flere timer",
-      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-ulykke-pa-e134_-_-stenges-i-flere-timer-1.17828531",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 27 Mar 2026 18:11:00 GMT"
     }
   ]
 }
