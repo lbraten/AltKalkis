@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-27T14:52:43.412Z",
+  "updatedAt": "2026-03-27T15:55:48.908Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel bombet Sør-Beirut uten forvarsel",
+      "link": "https://www.nrk.no/nyheter/israel-bombet-sor-beirut-uten-forvarsel-1.17828397",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 27 Mar 2026 15:30:49 GMT"
+    },
+    {
+      "title": "Front mot front i Kviteseid - luftambulanse på vei",
+      "link": "https://www.nrk.no/vestfoldogtelemark/front-mot-front-i-kviteseid---luftambulanse-pa-vei-1.17828385",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 27 Mar 2026 15:22:14 GMT"
+    },
+    {
+      "title": "Sverige: 17-åring tilstår drap",
+      "link": "https://www.nrk.no/nyheter/sverige_-17-aring-tilstar-drap--1.17828262",
+      "category": "Voldsbølge i Sverige",
+      "pubDate": "Fri, 27 Mar 2026 14:55:21 GMT"
+    },
+    {
+      "title": "Høyesterett dømmer Lysglimt Johansen til fengsel",
+      "link": "https://www.nrk.no/stor-oslo/hoyesterett-dommer-lysglimt-johansen-til-fengsel-1.17828324",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 27 Mar 2026 14:46:09 GMT"
+    },
     {
       "title": "Setter opp to nye fergesamband etter tunnelbrann",
       "link": "https://www.nrk.no/nordland/setter-opp-to-nye-fergesamband-etter-tunnelbrann-1.17828212",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fokus-avslutter-beskytterskapet-med-mette-marit-1.17828229",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 27 Mar 2026 14:26:27 GMT"
-    },
-    {
-      "title": "Mer til droner og missiler på Ørlandet",
-      "link": "https://www.nrk.no/trondelag/mer-til-droner-og-missiler-pa-orlandet-1.17828186",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 27 Mar 2026 14:22:05 GMT"
-    },
-    {
-      "title": "USA og Israel skal ha bombet stålverk i Iran",
-      "link": "https://www.nrk.no/nyheter/usa-og-israel-skal-ha-bombet-stalverk-i-iran-1.17828205",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 27 Mar 2026 14:16:38 GMT"
-    },
-    {
-      "title": "Risiko for humanitær krise i Libanon",
-      "link": "https://www.nrk.no/nyheter/risiko-for-humanitaer-krise-i-libanon-1.17828155",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 27 Mar 2026 14:05:48 GMT"
-    },
-    {
-      "title": "Vil styrke tilgangen til skjult kameraovervåkning",
-      "link": "https://www.nrk.no/nyheter/vil-styrke-tilgangen-til-skjult-kameraovervakning-1.17828133",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 27 Mar 2026 13:43:37 GMT"
     }
   ]
 }
