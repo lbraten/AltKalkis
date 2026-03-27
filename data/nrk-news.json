@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-27T11:23:07.394Z",
+  "updatedAt": "2026-03-27T12:03:16.573Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "17. mai-votering ugyldig - må gjøres på nytt",
+      "link": "https://www.nrk.no/stor-oslo/17.-mai-votering-ugyldig---ma-gjores-pa-nytt-1.17827794",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 27 Mar 2026 11:26:22 GMT"
+    },
+    {
+      "title": "Glutenfri grøt tilbakekalles på grunn av mulig forurensing av mus",
+      "link": "https://www.nrk.no/nyheter/glutenfri-grot-tilbakekalles-pa-grunn-av-mulig-forurensing-av-mus--1.17827778",
+      "category": "Mattrygghet",
+      "pubDate": "Fri, 27 Mar 2026 11:23:44 GMT"
+    },
     {
       "title": "Regjeringen vil utvide viktige miljølover",
       "link": "https://www.nrk.no/nyheter/regjeringen-vil-utvide-viktige-miljolover-1.17827761",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tysklands-utenriksminister_-direkte-samtaler-mellom-usa-og-iran-forberedes-1.17827719",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 27 Mar 2026 11:02:53 GMT"
-    },
-    {
-      "title": "Regjeringen styrker Forsvarsløftet med 115 milliarder kroner",
-      "link": "https://www.nrk.no/nyheter/regjeringen-styrker-forsvarsloftet-med-115-milliarder-kroner-1.17827714",
-      "category": "Det norske Forsvaret",
-      "pubDate": "Fri, 27 Mar 2026 10:51:48 GMT"
-    },
-    {
-      "title": "Hege Nilssen er utnevnt til ny Nav-direktør",
-      "link": "https://www.nrk.no/nyheter/hege-nilssen-er-utnevnt-til-ny-nav-direktor-1.17827708",
-      "category": "Nav",
-      "pubDate": "Fri, 27 Mar 2026 10:50:00 GMT"
     }
   ]
 }
