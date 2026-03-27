@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-27T05:09:23.078Z",
+  "updatedAt": "2026-03-27T06:45:46.240Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fortsetter medisinsk evakuering av pasienter fra Ukraina",
+      "link": "https://www.nrk.no/nyheter/fortsetter-medisinsk-evakuering-av-pasienter-fra-ukraina-1.17827225",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 27 Mar 2026 06:40:04 GMT"
+    },
+    {
+      "title": "Mann tiltalt for mishandling av tidligere kone over 14 år",
+      "link": "https://www.nrk.no/innlandet/mann-tiltalt-for-mishandling-av-tidligere-kone-over-14-ar-1.17827208",
+      "category": "Tiltaler og dommer i Innlandet",
+      "pubDate": "Fri, 27 Mar 2026 06:25:42 GMT"
+    },
+    {
+      "title": "Polart lavtrykk i nord",
+      "link": "https://www.nrk.no/nyheter/polart-lavtrykk-i-nord-1.17827191",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Fri, 27 Mar 2026 06:19:46 GMT"
+    },
     {
       "title": "Sender nytt lovforslag til Stortinget om følge på sykehus",
       "link": "https://www.nrk.no/nyheter/sender-nytt-lovforslag-til-stortinget-om-folge-pa-sykehus-1.17827157",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/paul-mccartney-gir-ut-nytt-album-1.17827155",
       "category": "Musikk",
       "pubDate": "Fri, 27 Mar 2026 04:29:36 GMT"
-    },
-    {
-      "title": "Russisk delegasjon på sjelden visitt i USA",
-      "link": "https://www.nrk.no/nyheter/russisk-delegasjon-pa-sjelden-visitt-i-usa-1.17827133",
-      "category": "Russland og USA",
-      "pubDate": "Fri, 27 Mar 2026 04:22:45 GMT"
-    },
-    {
-      "title": "28 mennesker døde i droneangrep",
-      "link": "https://www.nrk.no/nyheter/28-mennesker-dode-i-droneangrep-1.17827134",
-      "category": "Sudan",
-      "pubDate": "Fri, 27 Mar 2026 03:55:18 GMT"
-    },
-    {
-      "title": "Støttetelefon for sjøfolk ved Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/stottetelefon-for-sjofolk-ved-hormuzstredet-1.17827126",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 27 Mar 2026 03:20:17 GMT"
     }
   ]
 }
