@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-28T16:37:19.589Z",
+  "updatedAt": "2026-03-28T17:31:48.830Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trekker seg som styreleder",
+      "link": "https://www.nrk.no/nyheter/trekker-seg-som-styreleder-1.17829233",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 28 Mar 2026 17:05:28 GMT"
+    },
+    {
+      "title": "Nes: Dumpet 4000 liter olje i naturen",
+      "link": "https://www.nrk.no/stor-oslo/nes_-dumpet-4000-liter-olje-i-naturen-1.17829213",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 28 Mar 2026 16:53:13 GMT"
+    },
+    {
+      "title": "UD: Norsk borger død på Gran Canaria",
+      "link": "https://www.nrk.no/nyheter/ud_-norsk-borger-dod-pa-gran-canaria--1.17829139",
+      "category": "Spania",
+      "pubDate": "Sat, 28 Mar 2026 16:50:14 GMT"
+    },
     {
       "title": "Siktet for menneskehandel i Oslo",
       "link": "https://www.nrk.no/stor-oslo/siktet-for-menneskehandel-i-oslo-1.17829131",
@@ -9,9 +27,9 @@
       "pubDate": "Sat, 28 Mar 2026 16:28:21 GMT"
     },
     {
-      "title": "Luftambulanse på vei til Sveio etter bilulykke",
-      "link": "https://www.nrk.no/vestland/luftambulanse-pa-vei-til-sveio-etter-bilulykke--1.17829145",
-      "category": "NRK Nyheter",
+      "title": "Luftambulanse til bilulykke - E39 stengt",
+      "link": "https://www.nrk.no/vestland/luftambulanse-til-bilulykke----e39-stengt-1.17829145",
+      "category": "Trafikk og vêr i Vestland",
       "pubDate": "Sat, 28 Mar 2026 16:18:31 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/buss-for-tog-gjennom-paska-1.17829087",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 28 Mar 2026 15:57:40 GMT"
-    },
-    {
-      "title": "Ung mann siktet etter voldshendelse i Sandnes i går kveld – saken er kodet som drapsforsøk",
-      "link": "https://www.nrk.no/rogaland/ung-mann-siktet-etter-voldshendelse-i-sandnes-i-gar-kveld-_-saken-er-kodet-som-drapsforsok-1.17829170",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 28 Mar 2026 15:40:26 GMT"
-    },
-    {
-      "title": "Mann funnet død tre uker etter snøskred i Narvik",
-      "link": "https://www.nrk.no/nordland/mann-funnet-dod-tre-uker-etter-snoskred-i-narvik-1.17829066",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 28 Mar 2026 15:18:42 GMT"
-    },
-    {
-      "title": "Truet med pistol i Storgata",
-      "link": "https://www.nrk.no/stor-oslo/truet-med-pistol-i-storgata-1.17829103",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 28 Mar 2026 14:57:16 GMT"
     }
   ]
 }
