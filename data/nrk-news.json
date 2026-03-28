@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-27T23:35:21.572Z",
+  "updatedAt": "2026-03-28T02:28:05.025Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nepals eksstatsminister pågrepet",
+      "link": "https://www.nrk.no/nyheter/nepals-eksstatsminister-pagrepet-1.17828800",
+      "category": "Nepal",
+      "pubDate": "Sat, 28 Mar 2026 01:27:44 GMT"
+    },
+    {
+      "title": "Enebolig overtent i Horten",
+      "link": "https://www.nrk.no/nyheter/enebolig-overtent-i-horten-1.17828798",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 28 Mar 2026 00:58:39 GMT"
+    },
+    {
+      "title": "Storbank inngår forlik i Epstein-søksmål",
+      "link": "https://www.nrk.no/nyheter/storbank-inngar-forlik-i-epstein-soksmal-1.17828795",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 28 Mar 2026 00:25:33 GMT"
+    },
+    {
+      "title": "Israel angriper Iran",
+      "link": "https://www.nrk.no/nyheter/israel-angriper-iran-1.17828789",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 28 Mar 2026 00:07:18 GMT"
+    },
     {
       "title": "Houthiene truer med å gå inn i krigen",
       "link": "https://www.nrk.no/nyheter/houthiene-truer-med-a-ga-inn-i-krigen-1.17828788",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/melding-om-droneangrep-mot-de-forente-arabiske-emirater-1.17828775",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 27 Mar 2026 23:30:33 GMT"
-    },
-    {
-      "title": "Trump: Vi trenger ikke være der for Nato",
-      "link": "https://www.nrk.no/nyheter/trump_-vi-trenger-ikke-vaere-der-for-nato-1.17828769",
-      "category": "Nato",
-      "pubDate": "Fri, 27 Mar 2026 22:55:49 GMT"
-    },
-    {
-      "title": "Avis: Ti amerikanske soldater såret etter angrep mot base i Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/avis_-ti-amerikanske-soldater-saret-etter-angrep-mot-base-i-saudi-arabia-1.17828767",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 27 Mar 2026 22:27:05 GMT"
-    },
-    {
-      "title": "Kvinne omkom etter å ha falt ned på E6 ved Minnesund",
-      "link": "https://www.nrk.no/stor-oslo/kvinne-omkom-etter-a-ha-falt-ned-pa-e6-ved-minnesund-1.17828763",
-      "category": "Trafikk i Stor-Oslo",
-      "pubDate": "Fri, 27 Mar 2026 22:18:22 GMT"
-    },
-    {
-      "title": "Oslo: Jente (11) anmeldt for trusler med kniv",
-      "link": "https://www.nrk.no/stor-oslo/oslo_-jente-_11_-anmeldt-for-trusler-med-kniv-1.17828464",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 27 Mar 2026 21:17:24 GMT"
     }
   ]
 }
