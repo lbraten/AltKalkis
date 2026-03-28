@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-28T07:10:07.707Z",
+  "updatedAt": "2026-03-28T08:00:32.607Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Enighet på Stortinget om registrering av lobbyister",
+      "link": "https://www.nrk.no/nyheter/enighet-pa-stortinget-om-registrering-av-lobbyister-1.17828854",
+      "category": "Stortinget",
+      "pubDate": "Sat, 28 Mar 2026 07:40:02 GMT"
+    },
+    {
+      "title": "Houthiene bekrefter at de avfyrte missil mot Israel",
+      "link": "https://www.nrk.no/nyheter/houthiene-bekrefter-at-de-avfyrte-missil-mot-israel-1.17828820",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 28 Mar 2026 07:28:34 GMT"
+    },
     {
       "title": "Earth Hour: I kveld slukkes lysene for 20. året på rad",
       "link": "https://www.nrk.no/nyheter/earth-hour_-i-kveld-slukkes-lysene-for-20.-aret-pa-rad-1.17828815",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-dode-i-batkantring-utenfor-djibouti-1.17828809",
       "category": "Djibouti",
       "pubDate": "Sat, 28 Mar 2026 04:06:07 GMT"
-    },
-    {
-      "title": "Israel: Rakett skutt fra Jemen",
-      "link": "https://www.nrk.no/nyheter/israel_-rakett-skutt-fra-jemen-1.17828808",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 04:02:35 GMT"
-    },
-    {
-      "title": "USAs visepresident sier han er besatt av ufoer",
-      "link": "https://www.nrk.no/nyheter/usas-visepresident-sier-han-er-besatt-av-ufoer-1.17828802",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 28 Mar 2026 02:32:50 GMT"
     }
   ]
 }
