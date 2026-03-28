@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-28T22:32:06.210Z",
+  "updatedAt": "2026-03-28T23:34:24.502Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IDF avskjærer raketter fra Jemen",
+      "link": "https://www.nrk.no/nyheter/idf-avskjaerer-raketter-fra-jemen-1.17829429",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 28 Mar 2026 23:27:14 GMT"
+    },
+    {
+      "title": "Iran truer med å angripe amerikanske universitet i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-amerikanske-universitet-i-midtosten-1.17829427",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 28 Mar 2026 22:58:56 GMT"
+    },
+    {
+      "title": "Evakuert skip i Norskehavet er tatt under nødslep",
+      "link": "https://www.nrk.no/nyheter/evakuert-skip-i-norskehavet-er-tatt-under-nodslep-1.17829425",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 28 Mar 2026 22:36:38 GMT"
+    },
     {
       "title": "USA fordømmer angrep mot bolig til irakisk leder i Kurdistan",
       "link": "https://www.nrk.no/nyheter/usa-fordommer-angrep-mot-bolig-til-irakisk-leder-i-kurdistan-1.17829424",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/boligbrann-i-kvinnherad--1.17829412",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 28 Mar 2026 21:43:45 GMT"
-    },
-    {
-      "title": "18-åring pågrepet og siktet for drapsforsøk etter voldshendelse fredag",
-      "link": "https://www.nrk.no/nyheter/18-aring-pagrepet-og-siktet-for-drapsforsok-etter-voldshendelse-fredag-1.17829405",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 28 Mar 2026 21:25:48 GMT"
-    },
-    {
-      "title": "Vinneren av sangkonkurransen i Sámi Grand Prix er kåret",
-      "link": "https://www.nrk.no/tromsogfinnmark/vinneren-av-sangkonkurransen-i-sami-grand-prix-er-karet-1.17829382",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 28 Mar 2026 20:36:06 GMT"
-    },
-    {
-      "title": "Houthiene varsler flere angrep",
-      "link": "https://www.nrk.no/nyheter/houthiene-varsler-flere-angrep--1.17829368",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 20:27:39 GMT"
     }
   ]
 }
