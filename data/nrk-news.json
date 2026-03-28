@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-28T12:59:52.438Z",
+  "updatedAt": "2026-03-28T13:55:00.692Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Demonstrasjon ved den amerikanske ambassaden",
+      "link": "https://www.nrk.no/nyheter/demonstrasjon-ved-den-amerikanske-ambassaden-1.17829045",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 28 Mar 2026 13:35:12 GMT"
+    },
     {
       "title": "Tre journalister drept i israelsk angrep i Libanon",
       "link": "https://www.nrk.no/nyheter/tre-journalister-drept-i-israelsk-angrep-i-libanon-1.17829030",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/det-er-ventet-tusenvis-av-_no-kings_-demonstrasjoner-i-usa-1.17828958",
       "category": "USA",
       "pubDate": "Sat, 28 Mar 2026 11:15:18 GMT"
-    },
-    {
-      "title": "Rakettoppskyting utsatt igjen",
-      "link": "https://www.nrk.no/nordland/rakettoppskyting-utsatt-igjen-1.17828944",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 28 Mar 2026 10:49:34 GMT"
     }
   ]
 }
