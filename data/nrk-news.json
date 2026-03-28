@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-03-28T14:34:07.300Z",
+  "updatedAt": "2026-03-28T15:33:54.831Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Libanesisk soldat drept under israelsk angrep",
-      "link": "https://www.nrk.no/nyheter/libanesisk-soldat-drept-under-israelsk-angrep-1.17829113",
+      "title": "Mann funnet død etter snøskred i Narvik 6. mars",
+      "link": "https://www.nrk.no/nordland/mann-funnet-dod-etter-snoskred-i-narvik-6.-mars-1.17829066",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 28 Mar 2026 15:18:42 GMT"
+    },
+    {
+      "title": "Truet med pistol i Storgata",
+      "link": "https://www.nrk.no/stor-oslo/truet-med-pistol-i-storgata-1.17829103",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 28 Mar 2026 14:57:16 GMT"
+    },
+    {
+      "title": "Averget bombeangrep i Paris",
+      "link": "https://www.nrk.no/nyheter/averget-bombeangrep-i-paris-1.17829116",
+      "category": "Frankrike",
+      "pubDate": "Sat, 28 Mar 2026 14:35:02 GMT"
+    },
+    {
+      "title": "Libanon: 51 helsearbeidere drept",
+      "link": "https://www.nrk.no/nyheter/libanon_-51-helsearbeidere-drept--1.17829113",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 28 Mar 2026 14:29:28 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina_-har-truffet-stort-russisk-oljeraffineri-i-natt-1.17829102",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 28 Mar 2026 14:21:20 GMT"
-    },
-    {
-      "title": "Hektisk start på påsken for Røde Kors",
-      "link": "https://www.nrk.no/nyheter/hektisk-start-pa-pasken-for-rode-kors-1.17829093",
-      "category": "Norges Røde Kors",
-      "pubDate": "Sat, 28 Mar 2026 14:04:47 GMT"
-    },
-    {
-      "title": "Ukraina inngår forsvarsavtaler i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/ukraina-inngar-forsvarsavtaler-i-midtosten-1.17829089",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 28 Mar 2026 13:55:34 GMT"
-    },
-    {
-      "title": "Demonstrasjon ved den amerikanske ambassaden",
-      "link": "https://www.nrk.no/nyheter/demonstrasjon-ved-den-amerikanske-ambassaden-1.17829045",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 13:35:12 GMT"
     }
   ]
 }
