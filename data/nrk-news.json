@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-03-28T15:33:54.831Z",
+  "updatedAt": "2026-03-28T16:37:19.589Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Mann funnet død etter snøskred i Narvik 6. mars",
-      "link": "https://www.nrk.no/nordland/mann-funnet-dod-etter-snoskred-i-narvik-6.-mars-1.17829066",
+      "title": "Siktet for menneskehandel i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/siktet-for-menneskehandel-i-oslo-1.17829131",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 28 Mar 2026 16:28:21 GMT"
+    },
+    {
+      "title": "Luftambulanse på vei til Sveio etter bilulykke",
+      "link": "https://www.nrk.no/vestland/luftambulanse-pa-vei-til-sveio-etter-bilulykke--1.17829145",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 28 Mar 2026 16:18:31 GMT"
+    },
+    {
+      "title": "Buss for tog gjennom påska",
+      "link": "https://www.nrk.no/vestfoldogtelemark/buss-for-tog-gjennom-paska-1.17829087",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 28 Mar 2026 15:57:40 GMT"
+    },
+    {
+      "title": "Ung mann siktet etter voldshendelse i Sandnes i går kveld – saken er kodet som drapsforsøk",
+      "link": "https://www.nrk.no/rogaland/ung-mann-siktet-etter-voldshendelse-i-sandnes-i-gar-kveld-_-saken-er-kodet-som-drapsforsok-1.17829170",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 28 Mar 2026 15:40:26 GMT"
+    },
+    {
+      "title": "Mann funnet død tre uker etter snøskred i Narvik",
+      "link": "https://www.nrk.no/nordland/mann-funnet-dod-tre-uker-etter-snoskred-i-narvik-1.17829066",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sat, 28 Mar 2026 15:18:42 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/truet-med-pistol-i-storgata-1.17829103",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 28 Mar 2026 14:57:16 GMT"
-    },
-    {
-      "title": "Averget bombeangrep i Paris",
-      "link": "https://www.nrk.no/nyheter/averget-bombeangrep-i-paris-1.17829116",
-      "category": "Frankrike",
-      "pubDate": "Sat, 28 Mar 2026 14:35:02 GMT"
-    },
-    {
-      "title": "Libanon: 51 helsearbeidere drept",
-      "link": "https://www.nrk.no/nyheter/libanon_-51-helsearbeidere-drept--1.17829113",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 14:29:28 GMT"
-    },
-    {
-      "title": "Over 2000 husstander var uten strøm i Kristiansand",
-      "link": "https://www.nrk.no/sorlandet/over-2000-husstander-var-uten-strom-i-kristiansand-1.17829023",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 28 Mar 2026 14:28:22 GMT"
-    },
-    {
-      "title": "Ukraina: Har truffet stort russisk oljeraffineri i natt",
-      "link": "https://www.nrk.no/nyheter/ukraina_-har-truffet-stort-russisk-oljeraffineri-i-natt-1.17829102",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 28 Mar 2026 14:21:20 GMT"
     }
   ]
 }
