@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-28T10:58:49.675Z",
+  "updatedAt": "2026-03-28T11:36:23.783Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Det er ventet tusenvis av «No Kings»-demonstrasjoner i USA",
+      "link": "https://www.nrk.no/nyheter/det-er-ventet-tusenvis-av-_no-kings_-demonstrasjoner-i-usa-1.17828958",
+      "category": "USA",
+      "pubDate": "Sat, 28 Mar 2026 11:15:18 GMT"
+    },
+    {
+      "title": "Rakettoppskyting utsatt igjen",
+      "link": "https://www.nrk.no/nordland/rakettoppskyting-utsatt-igjen-1.17828944",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 28 Mar 2026 10:49:34 GMT"
+    },
     {
       "title": "Kongeparet tar toget for å feire påsken på hytta",
       "link": "https://www.nrk.no/nyheter/kongeparet-tar-toget-for-a-feire-pasken-pa-hytta-1.17828936",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ministre-fra-flere-land-i-midtosten-motes-i-pakistan-1.17828889",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 28 Mar 2026 09:31:18 GMT"
-    },
-    {
-      "title": "22 migranter døde etter seks dager på sjøen",
-      "link": "https://www.nrk.no/nyheter/22-migranter-dode-etter-seks-dager-pa-sjoen---1.17828886",
-      "category": "Båtflyktninger i Middelhavet",
-      "pubDate": "Sat, 28 Mar 2026 08:26:11 GMT"
-    },
-    {
-      "title": "EUs tobakksdirektiv trer i kraft 30. mars",
-      "link": "https://www.nrk.no/nyheter/eus-tobakksdirektiv-trer-i-kraft-30.-mars-1.17828865",
-      "category": "Røyk og snus",
-      "pubDate": "Sat, 28 Mar 2026 08:09:55 GMT"
     }
   ]
 }
