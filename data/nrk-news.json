@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-28T05:59:05.711Z",
+  "updatedAt": "2026-03-28T07:10:07.707Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Earth Hour: I kveld slukkes lysene for 20. året på rad",
+      "link": "https://www.nrk.no/nyheter/earth-hour_-i-kveld-slukkes-lysene-for-20.-aret-pa-rad-1.17828815",
+      "category": "Klima og miljø",
+      "pubDate": "Sat, 28 Mar 2026 06:50:21 GMT"
+    },
     {
       "title": "Én drept i angrep i Ukraina",
       "link": "https://www.nrk.no/nyheter/en-drept-i-angrep-i-ukraina-1.17828813",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usas-visepresident-sier-han-er-besatt-av-ufoer-1.17828802",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 28 Mar 2026 02:32:50 GMT"
-    },
-    {
-      "title": "Nepals eksstatsminister pågrepet",
-      "link": "https://www.nrk.no/nyheter/nepals-eksstatsminister-pagrepet-1.17828800",
-      "category": "Nepal",
-      "pubDate": "Sat, 28 Mar 2026 01:27:44 GMT"
     }
   ]
 }
