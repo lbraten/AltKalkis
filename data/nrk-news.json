@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-28T13:55:00.692Z",
+  "updatedAt": "2026-03-28T14:34:07.300Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Libanesisk soldat drept under israelsk angrep",
+      "link": "https://www.nrk.no/nyheter/libanesisk-soldat-drept-under-israelsk-angrep-1.17829113",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 28 Mar 2026 14:29:28 GMT"
+    },
+    {
+      "title": "Over 2000 husstander var uten strøm i Kristiansand",
+      "link": "https://www.nrk.no/sorlandet/over-2000-husstander-var-uten-strom-i-kristiansand-1.17829023",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 28 Mar 2026 14:28:22 GMT"
+    },
+    {
+      "title": "Ukraina: Har truffet stort russisk oljeraffineri i natt",
+      "link": "https://www.nrk.no/nyheter/ukraina_-har-truffet-stort-russisk-oljeraffineri-i-natt-1.17829102",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 28 Mar 2026 14:21:20 GMT"
+    },
+    {
+      "title": "Hektisk start på påsken for Røde Kors",
+      "link": "https://www.nrk.no/nyheter/hektisk-start-pa-pasken-for-rode-kors-1.17829093",
+      "category": "Norges Røde Kors",
+      "pubDate": "Sat, 28 Mar 2026 14:04:47 GMT"
+    },
+    {
+      "title": "Ukraina inngår forsvarsavtaler i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/ukraina-inngar-forsvarsavtaler-i-midtosten-1.17829089",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 28 Mar 2026 13:55:34 GMT"
+    },
     {
       "title": "Demonstrasjon ved den amerikanske ambassaden",
       "link": "https://www.nrk.no/nyheter/demonstrasjon-ved-den-amerikanske-ambassaden-1.17829045",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 28 Mar 2026 13:35:12 GMT"
-    },
-    {
-      "title": "Tre journalister drept i israelsk angrep i Libanon",
-      "link": "https://www.nrk.no/nyheter/tre-journalister-drept-i-israelsk-angrep-i-libanon-1.17829030",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 12:41:44 GMT"
-    },
-    {
-      "title": "Åpner for regulert trafikk i Raudhammartunnelen",
-      "link": "https://www.nrk.no/nordland/apner-for-regulert-trafikk-i-raudhammartunnelen-1.17829021",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 28 Mar 2026 12:32:13 GMT"
-    },
-    {
-      "title": "AFP: Eksplosjoner hørt i Jerusalem",
-      "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-hort-i-jerusalem-1.17828976",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 12:17:08 GMT"
-    },
-    {
-      "title": "Person truet med kniv i Oslo sentrum",
-      "link": "https://www.nrk.no/stor-oslo/person-truet-med-kniv-i-oslo-sentrum-1.17828945",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 28 Mar 2026 11:48:06 GMT"
-    },
-    {
-      "title": "Det er ventet tusenvis av «No Kings»-demonstrasjoner i USA",
-      "link": "https://www.nrk.no/nyheter/det-er-ventet-tusenvis-av-_no-kings_-demonstrasjoner-i-usa-1.17828958",
-      "category": "USA",
-      "pubDate": "Sat, 28 Mar 2026 11:15:18 GMT"
     }
   ]
 }
