@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-28T04:32:55.124Z",
+  "updatedAt": "2026-03-28T05:59:05.711Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Én drept i angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/en-drept-i-angrep-i-ukraina-1.17828813",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 28 Mar 2026 05:35:35 GMT"
+    },
+    {
+      "title": "Thailand får seile i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/thailand-far-seile-i-hormuzstredet-1.17828810",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 28 Mar 2026 05:06:18 GMT"
+    },
     {
       "title": "Flere døde i båtkantring utenfor Djibouti",
       "link": "https://www.nrk.no/nyheter/flere-dode-i-batkantring-utenfor-djibouti-1.17828809",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nepals-eksstatsminister-pagrepet-1.17828800",
       "category": "Nepal",
       "pubDate": "Sat, 28 Mar 2026 01:27:44 GMT"
-    },
-    {
-      "title": "Enebolig overtent i Horten",
-      "link": "https://www.nrk.no/nyheter/enebolig-overtent-i-horten-1.17828798",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 28 Mar 2026 00:58:39 GMT"
-    },
-    {
-      "title": "Storbank inngår forlik i Epstein-søksmål",
-      "link": "https://www.nrk.no/nyheter/storbank-inngar-forlik-i-epstein-soksmal-1.17828795",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 28 Mar 2026 00:25:33 GMT"
     }
   ]
 }
