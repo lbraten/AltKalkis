@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-28T08:00:32.607Z",
+  "updatedAt": "2026-03-28T09:04:55.249Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "22 migranter døde etter seks dager på sjøen",
+      "link": "https://www.nrk.no/nyheter/22-migranter-dode-etter-seks-dager-pa-sjoen---1.17828886",
+      "category": "Båtflyktninger i Middelhavet",
+      "pubDate": "Sat, 28 Mar 2026 08:26:11 GMT"
+    },
+    {
+      "title": "EUs tobakksdirektiv trer i kraft 30. mars",
+      "link": "https://www.nrk.no/nyheter/eus-tobakksdirektiv-trer-i-kraft-30.-mars-1.17828865",
+      "category": "Røyk og snus",
+      "pubDate": "Sat, 28 Mar 2026 08:09:55 GMT"
+    },
     {
       "title": "Enighet på Stortinget om registrering av lobbyister",
       "link": "https://www.nrk.no/nyheter/enighet-pa-stortinget-om-registrering-av-lobbyister-1.17828854",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-drept-i-angrep-i-ukraina-1.17828813",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 28 Mar 2026 05:35:35 GMT"
-    },
-    {
-      "title": "Thailand får seile i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/thailand-far-seile-i-hormuzstredet-1.17828810",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 05:06:18 GMT"
-    },
-    {
-      "title": "Flere døde i båtkantring utenfor Djibouti",
-      "link": "https://www.nrk.no/nyheter/flere-dode-i-batkantring-utenfor-djibouti-1.17828809",
-      "category": "Djibouti",
-      "pubDate": "Sat, 28 Mar 2026 04:06:07 GMT"
     }
   ]
 }
