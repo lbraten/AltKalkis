@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-28T11:36:23.783Z",
+  "updatedAt": "2026-03-28T12:59:52.438Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tre journalister drept i israelsk angrep i Libanon",
+      "link": "https://www.nrk.no/nyheter/tre-journalister-drept-i-israelsk-angrep-i-libanon-1.17829030",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 28 Mar 2026 12:41:44 GMT"
+    },
+    {
+      "title": "Åpner for regulert trafikk i Raudhammartunnelen",
+      "link": "https://www.nrk.no/nordland/apner-for-regulert-trafikk-i-raudhammartunnelen-1.17829021",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 28 Mar 2026 12:32:13 GMT"
+    },
+    {
+      "title": "AFP: Eksplosjoner hørt i Jerusalem",
+      "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-hort-i-jerusalem-1.17828976",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 28 Mar 2026 12:17:08 GMT"
+    },
+    {
+      "title": "Person truet med kniv i Oslo sentrum",
+      "link": "https://www.nrk.no/stor-oslo/person-truet-med-kniv-i-oslo-sentrum-1.17828945",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 28 Mar 2026 11:48:06 GMT"
+    },
     {
       "title": "Det er ventet tusenvis av «No Kings»-demonstrasjoner i USA",
       "link": "https://www.nrk.no/nyheter/det-er-ventet-tusenvis-av-_no-kings_-demonstrasjoner-i-usa-1.17828958",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nordland/rakettoppskyting-utsatt-igjen-1.17828944",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sat, 28 Mar 2026 10:49:34 GMT"
-    },
-    {
-      "title": "Kongeparet tar toget for å feire påsken på hytta",
-      "link": "https://www.nrk.no/nyheter/kongeparet-tar-toget-for-a-feire-pasken-pa-hytta-1.17828936",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 28 Mar 2026 10:36:38 GMT"
-    },
-    {
-      "title": "Prinsesse Astrid har hatt lungebetennelse",
-      "link": "https://www.nrk.no/nyheter/prinsesse-astrid-har-hatt-lungebetennelse--1.17828930",
-      "category": "Kongefamilien",
-      "pubDate": "Sat, 28 Mar 2026 09:57:37 GMT"
-    },
-    {
-      "title": "Droneangrep mot Oman",
-      "link": "https://www.nrk.no/nyheter/droneangrep-mot-oman-1.17828925",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 09:36:10 GMT"
-    },
-    {
-      "title": "Ministre fra flere land i Midtøsten møtes i Pakistan",
-      "link": "https://www.nrk.no/nyheter/ministre-fra-flere-land-i-midtosten-motes-i-pakistan-1.17828889",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 09:31:18 GMT"
     }
   ]
 }
