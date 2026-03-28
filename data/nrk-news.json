@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-03-28T20:34:20.678Z",
+  "updatedAt": "2026-03-28T21:32:16.661Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sandnes: 18-åring pågrepet og siktet for drapsforsøk etter voldshendelse fredag",
+      "link": "https://www.nrk.no/nyheter/sandnes_-18-aring-pagrepet-og-siktet-for-drapsforsok-etter-voldshendelse-fredag-1.17829405",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 28 Mar 2026 21:25:48 GMT"
+    },
+    {
+      "title": "Vinneren av sangkonkurransen i Sámi Grand Prix er kåret",
+      "link": "https://www.nrk.no/tromsogfinnmark/vinneren-av-sangkonkurransen-i-sami-grand-prix-er-karet-1.17829382",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 28 Mar 2026 20:36:06 GMT"
+    },
     {
       "title": "Houthiene varsler flere angrep",
       "link": "https://www.nrk.no/nyheter/houthiene-varsler-flere-angrep--1.17829368",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 28 Mar 2026 20:27:39 GMT"
+    },
+    {
+      "title": "Vant Sápmis største musikkpris",
+      "link": "https://www.nrk.no/sapmi/vant-sapmis-storste-musikkpris-1.17829363",
+      "category": "Ođđasat - norsk",
+      "pubDate": "Sat, 28 Mar 2026 20:22:05 GMT"
     },
     {
       "title": "Cuba: De savnede båtene er observert",
@@ -15,28 +33,10 @@
       "pubDate": "Sat, 28 Mar 2026 20:02:42 GMT"
     },
     {
-      "title": "Alvorlig ulykke på Jessheim",
-      "link": "https://www.nrk.no/stor-oslo/alvorlig-ulykke-pa-jessheim-1.17829229",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 28 Mar 2026 19:37:44 GMT"
-    },
-    {
       "title": "Rykket ut til brann i kjøretøy på E6 i Trondheim",
       "link": "https://www.nrk.no/trondelag/rykket-ut-til-brann-i-kjoretoy-pa-e6-i-trondheim-1.17829255",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sat, 28 Mar 2026 19:30:09 GMT"
-    },
-    {
-      "title": "Hormuzstredet: Iran lar pakistanske skip passere",
-      "link": "https://www.nrk.no/nyheter/hormuzstredet_-iran-lar-pakistanske-skip-passere--1.17829284",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 19:14:41 GMT"
-    },
-    {
-      "title": "Flere døde etter luftangrep mot Irak",
-      "link": "https://www.nrk.no/nyheter/flere-dode-etter-luftangrep-mot-irak-1.17829276",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 18:44:30 GMT"
     }
   ]
 }
