@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-29T22:34:31.342Z",
+  "updatedAt": "2026-03-29T23:35:47.028Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Australsk politi skjøt og drepte etterlyst rømling",
+      "link": "https://www.nrk.no/nyheter/australsk-politi-skjot-og-drepte-etterlyst-romling-1.17830037",
+      "category": "Australia",
+      "pubDate": "Sun, 29 Mar 2026 23:16:02 GMT"
+    },
+    {
+      "title": "Én mann drept i ukrainsk droneangrep i Russland",
+      "link": "https://www.nrk.no/nyheter/en-mann-drept-i-ukrainsk-droneangrep-i-russland-1.17830036",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 29 Mar 2026 23:04:27 GMT"
+    },
+    {
+      "title": "Budsjettet vedtatt i Israel: Netanyahu avverger nyvalg",
+      "link": "https://www.nrk.no/nyheter/budsjettet-vedtatt-i-israel_-netanyahu-avverger-nyvalg-1.17830035",
+      "category": "Israel",
+      "pubDate": "Sun, 29 Mar 2026 22:49:02 GMT"
+    },
+    {
+      "title": "Nordsjøolje passerer 115 dollar fatet",
+      "link": "https://www.nrk.no/nyheter/nordsjoolje-passerer-115-dollar-fatet-1.17830034",
+      "category": "Oljebransjen",
+      "pubDate": "Sun, 29 Mar 2026 22:43:48 GMT"
+    },
+    {
+      "title": "Russisk oljeskip har nådd Cuba",
+      "link": "https://www.nrk.no/nyheter/russisk-oljeskip-har-nadd-cuba-1.17830033",
+      "category": "Oljebransjen",
+      "pubDate": "Sun, 29 Mar 2026 22:39:16 GMT"
+    },
     {
       "title": "FN-soldat drept i eksplosjon i Sør-Libanon",
       "link": "https://www.nrk.no/nyheter/fn-soldat-drept-i-eksplosjon-i-sor-libanon-1.17830032",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 29 Mar 2026 22:24:20 GMT"
-    },
-    {
-      "title": "Petrokjemisk anlegg rammet av angrep i Iran – ingen farlige utslipp",
-      "link": "https://www.nrk.no/nyheter/petrokjemisk-anlegg-rammet-av-angrep-i-iran-_-ingen-farlige-utslipp--1.17830020",
-      "category": "Iran",
-      "pubDate": "Sun, 29 Mar 2026 22:07:47 GMT"
-    },
-    {
-      "title": "New York Times: USA tillater russisk råolje til Cuba",
-      "link": "https://www.nrk.no/nyheter/new-york-times_-usa-tillater-russisk-raolje-til-cuba-1.17830018",
-      "category": "USA",
-      "pubDate": "Sun, 29 Mar 2026 21:33:42 GMT"
-    },
-    {
-      "title": "Vindmøllegigant varsler kutt av 440 stillinger",
-      "link": "https://www.nrk.no/nyheter/vindmollegigant-varsler-kutt-av-440-stillinger-1.17830016",
-      "category": "Danmark",
-      "pubDate": "Sun, 29 Mar 2026 21:26:02 GMT"
-    },
-    {
-      "title": "Pave Leo appellerte til verdens ledere om besindighet",
-      "link": "https://www.nrk.no/nyheter/pave-leo-appellerte-til-verdens-ledere-om-besindighet-1.17830013",
-      "category": "Paven og Vatikanet",
-      "pubDate": "Sun, 29 Mar 2026 21:16:16 GMT"
-    },
-    {
-      "title": "Libya gjenåpner viktig oljefelt",
-      "link": "https://www.nrk.no/nyheter/libya-gjenapner-viktig-oljefelt--1.17830012",
-      "category": "Libya",
-      "pubDate": "Sun, 29 Mar 2026 21:05:19 GMT"
     }
   ]
 }
