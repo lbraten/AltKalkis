@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-29T15:54:27.447Z",
+  "updatedAt": "2026-03-29T16:38:02.476Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Libanon: Over 1200 har mistet livet",
+      "link": "https://www.nrk.no/nyheter/libanon_-over-1200-har-mistet-livet-1.17829881",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 29 Mar 2026 16:28:47 GMT"
+    },
+    {
+      "title": "Person hardt skadd i snøscooterulykke i Troms",
+      "link": "https://www.nrk.no/tromsogfinnmark/person-hardt-skadd-i-snoscooterulykke-i-troms-1.17829848",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 29 Mar 2026 16:14:20 GMT"
+    },
+    {
+      "title": "Eide: – Bekymret over utviklingen i Libanon",
+      "link": "https://www.nrk.no/nyheter/eide_-_-bekymret-over-utviklingen-i-libanon-1.17829867",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 29 Mar 2026 16:06:24 GMT"
+    },
+    {
+      "title": "Snøskredvarsel i store delar av Sør-Noreg frå og med tysdag",
+      "link": "https://www.nrk.no/rogaland/snoskredvarsel-i-store-delar-av-sor-noreg-fra-og-med-tysdag-1.17829856",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 29 Mar 2026 15:44:39 GMT"
+    },
     {
       "title": "Netanyahu: Utvidelse av sikkerhetssonen i Sør-Libanon",
       "link": "https://www.nrk.no/nyheter/netanyahu_-utvidelse-av-sikkerhetssonen-i-sor-libanon-1.17829850",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/trondelag/brann-i-et-lokomotiv-i-steinkjer-1.17829857",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 29 Mar 2026 15:33:50 GMT"
-    },
-    {
-      "title": "Raudhammartunnelen åpner for normal trafikk igjen",
-      "link": "https://www.nrk.no/nordland/raudhammartunnelen-apner-for-normal-trafikk-igjen-1.17829844",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sun, 29 Mar 2026 15:21:34 GMT"
-    },
-    {
-      "title": "18-åring sikta for drapsforsøk: Fornærma er utanfor livsfare",
-      "link": "https://www.nrk.no/rogaland/18-aring-sikta-for-drapsforsok_-fornaerma-er-utanfor-livsfare-1.17829852",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 29 Mar 2026 15:14:02 GMT"
-    },
-    {
-      "title": "Kuwait: Ti soldater skadet i iransk rakettangrep",
-      "link": "https://www.nrk.no/nyheter/kuwait_-ti-soldater-skadet-i-iransk-rakettangrep-1.17829810",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 29 Mar 2026 15:01:04 GMT"
-    },
-    {
-      "title": "Person falt flere hundre meter fra fjell i Troms",
-      "link": "https://www.nrk.no/tromsogfinnmark/person-falt-flere-hundre-meter-fra-fjell-i-troms-1.17829809",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 29 Mar 2026 14:32:40 GMT"
     }
   ]
 }
