@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-29T16:38:02.476Z",
+  "updatedAt": "2026-03-29T17:34:04.664Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To personer pågrepet i Oslo - grep etter skytevåpen",
+      "link": "https://www.nrk.no/stor-oslo/to-personer-pagrepet-i-oslo---grep-etter-skytevapen-1.17829921",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 29 Mar 2026 17:24:55 GMT"
+    },
+    {
+      "title": "Sparkesyklist har kollidert med trikken",
+      "link": "https://www.nrk.no/stor-oslo/sparkesyklist-har-kollidert-med-trikken-1.17829858",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 29 Mar 2026 17:16:43 GMT"
+    },
     {
       "title": "Libanon: Over 1200 har mistet livet",
       "link": "https://www.nrk.no/nyheter/libanon_-over-1200-har-mistet-livet-1.17829881",
@@ -9,8 +21,8 @@
       "pubDate": "Sun, 29 Mar 2026 16:28:47 GMT"
     },
     {
-      "title": "Person hardt skadd i snøscooterulykke i Troms",
-      "link": "https://www.nrk.no/tromsogfinnmark/person-hardt-skadd-i-snoscooterulykke-i-troms-1.17829848",
+      "title": "Turist omkom i snøscooterulykke i Troms",
+      "link": "https://www.nrk.no/tromsogfinnmark/turist-omkom-i-snoscooterulykke-i-troms-1.17829848",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sun, 29 Mar 2026 16:14:20 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/rogaland/snoskredvarsel-i-store-delar-av-sor-noreg-fra-og-med-tysdag-1.17829856",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sun, 29 Mar 2026 15:44:39 GMT"
-    },
-    {
-      "title": "Netanyahu: Utvidelse av sikkerhetssonen i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/netanyahu_-utvidelse-av-sikkerhetssonen-i-sor-libanon-1.17829850",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 29 Mar 2026 15:34:28 GMT"
-    },
-    {
-      "title": "Brann i et lokomotiv i Steinkjer",
-      "link": "https://www.nrk.no/trondelag/brann-i-et-lokomotiv-i-steinkjer-1.17829857",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 29 Mar 2026 15:33:50 GMT"
     }
   ]
 }
