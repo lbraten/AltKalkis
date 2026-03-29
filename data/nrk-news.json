@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-28T23:34:24.502Z",
+  "updatedAt": "2026-03-29T02:40:18.955Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Washington Post: USA forbereder bakkeinvasjon i Iran",
+      "link": "https://www.nrk.no/nyheter/washington-post_-usa-forbereder-bakkeinvasjon-i-iran-1.17829440",
+      "category": "USA",
+      "pubDate": "Sun, 29 Mar 2026 01:39:38 GMT"
+    },
+    {
+      "title": "Tre personer omkom i bygningsbrann i Kina - flere skadet",
+      "link": "https://www.nrk.no/nyheter/tre-personer-omkom-i-bygningsbrann-i-kina---flere-skadet-1.17829439",
+      "category": "Kina",
+      "pubDate": "Sun, 29 Mar 2026 01:26:42 GMT"
+    },
+    {
+      "title": "Arrangører anslår at 8 millioner deltok i demonstrasjoner mot president Trump",
+      "link": "https://www.nrk.no/nyheter/arrangorer-anslar-at-8-millioner-deltok-i-demonstrasjoner-mot-president-trump-1.17829438",
+      "category": "USA",
+      "pubDate": "Sun, 29 Mar 2026 01:12:45 GMT"
+    },
+    {
+      "title": "Bilfører kjørte på flere fotgjengere i Derby",
+      "link": "https://www.nrk.no/nyheter/bilforer-kjorte-pa-flere-fotgjengere-i-derby--1.17829437",
+      "category": "Storbritannia",
+      "pubDate": "Sun, 29 Mar 2026 00:24:34 GMT"
+    },
+    {
+      "title": "Viktig aluminiumsbedrift i Bahrain truffet i angrep",
+      "link": "https://www.nrk.no/nyheter/viktig-aluminiumsbedrift-i-bahrain-truffet-i-angrep--1.17829435",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 28 Mar 2026 23:48:58 GMT"
+    },
     {
       "title": "IDF avskjærer raketter fra Jemen",
       "link": "https://www.nrk.no/nyheter/idf-avskjaerer-raketter-fra-jemen-1.17829429",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 28 Mar 2026 23:27:14 GMT"
-    },
-    {
-      "title": "Iran truer med å angripe amerikanske universitet i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-amerikanske-universitet-i-midtosten-1.17829427",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 22:58:56 GMT"
-    },
-    {
-      "title": "Evakuert skip i Norskehavet er tatt under nødslep",
-      "link": "https://www.nrk.no/nyheter/evakuert-skip-i-norskehavet-er-tatt-under-nodslep-1.17829425",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 28 Mar 2026 22:36:38 GMT"
-    },
-    {
-      "title": "USA fordømmer angrep mot bolig til irakisk leder i Kurdistan",
-      "link": "https://www.nrk.no/nyheter/usa-fordommer-angrep-mot-bolig-til-irakisk-leder-i-kurdistan-1.17829424",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 22:30:32 GMT"
-    },
-    {
-      "title": "Flere antikrigsdemonstranter arrestert av sikkerhetsstyrker i Tel Aviv",
-      "link": "https://www.nrk.no/nyheter/flere-antikrigsdemonstranter-arrestert-av-sikkerhetsstyrker-i-tel-aviv--1.17829418",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 28 Mar 2026 22:22:48 GMT"
-    },
-    {
-      "title": "Boligbrann i Kvinnherad",
-      "link": "https://www.nrk.no/nyheter/boligbrann-i-kvinnherad--1.17829412",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 28 Mar 2026 21:43:45 GMT"
     }
   ]
 }
