@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-03-29T17:34:04.664Z",
+  "updatedAt": "2026-03-29T18:47:25.986Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "To personer pågrepet i Oslo - grep etter skytevåpen",
-      "link": "https://www.nrk.no/stor-oslo/to-personer-pagrepet-i-oslo---grep-etter-skytevapen-1.17829921",
+      "title": "AFP: Eksplosjoner i Irans hovedstad",
+      "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-i-irans-hovedstad-1.17829948",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 29 Mar 2026 18:25:57 GMT"
+    },
+    {
+      "title": "Stort kunsttyveri i Italia",
+      "link": "https://www.nrk.no/nyheter/stort-kunsttyveri-i-italia--1.17829892",
+      "category": "Italia",
+      "pubDate": "Sun, 29 Mar 2026 17:56:10 GMT"
+    },
+    {
+      "title": "To personer pågrepet i Oslo – grep etter skytevåpen",
+      "link": "https://www.nrk.no/stor-oslo/to-personer-pagrepet-i-oslo-_-grep-etter-skytevapen-1.17829921",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 29 Mar 2026 17:24:55 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/turist-omkom-i-snoscooterulykke-i-troms-1.17829848",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sun, 29 Mar 2026 16:14:20 GMT"
-    },
-    {
-      "title": "Eide: – Bekymret over utviklingen i Libanon",
-      "link": "https://www.nrk.no/nyheter/eide_-_-bekymret-over-utviklingen-i-libanon-1.17829867",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 29 Mar 2026 16:06:24 GMT"
-    },
-    {
-      "title": "Snøskredvarsel i store delar av Sør-Noreg frå og med tysdag",
-      "link": "https://www.nrk.no/rogaland/snoskredvarsel-i-store-delar-av-sor-noreg-fra-og-med-tysdag-1.17829856",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 29 Mar 2026 15:44:39 GMT"
     }
   ]
 }
