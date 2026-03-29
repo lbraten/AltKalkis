@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-29T14:05:20.356Z",
+  "updatedAt": "2026-03-29T15:01:44.393Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person falt flere hundre meter fra fjell i Troms",
+      "link": "https://www.nrk.no/tromsogfinnmark/person-falt-flere-hundre-meter-fra-fjell-i-troms-1.17829809",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 29 Mar 2026 14:32:40 GMT"
+    },
+    {
+      "title": "Tre personer pågrepet etter brann i Kongsvinger",
+      "link": "https://www.nrk.no/innlandet/tre-personer-pagrepet-etter-brann-i-kongsvinger-1.17829815",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sun, 29 Mar 2026 14:10:49 GMT"
+    },
     {
       "title": "Iransk rakettnedslag i israelsk industriområde",
       "link": "https://www.nrk.no/nyheter/iransk-rakettnedslag-i-israelsk-industriomrade-1.17829771",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-advarer-usa-mot-bakkeoffensiv-_-ministre-i-regionen-i-mote-om-krigen-1.17829663",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 29 Mar 2026 12:15:38 GMT"
-    },
-    {
-      "title": "Droner i Finland – mistenker krenking av territorium",
-      "link": "https://www.nrk.no/nyheter/-droner-i-finland-_-mistenker-krenking-av-territorium-1.17829652",
-      "category": "Finland",
-      "pubDate": "Sun, 29 Mar 2026 11:13:59 GMT"
-    },
-    {
-      "title": "Skattepenger i vente før sommerferien",
-      "link": "https://www.nrk.no/nyheter/-skattepenger-i-vente-for-sommerferien-1.17829633",
-      "category": "Skattemeldingen",
-      "pubDate": "Sun, 29 Mar 2026 11:01:02 GMT"
     }
   ]
 }
