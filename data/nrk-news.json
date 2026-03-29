@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-29T20:36:07.127Z",
+  "updatedAt": "2026-03-29T21:34:58.660Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "New York Times: USA tillater russisk råolje til Cuba",
+      "link": "https://www.nrk.no/nyheter/new-york-times_-usa-tillater-russisk-raolje-til-cuba-1.17830018",
+      "category": "USA",
+      "pubDate": "Sun, 29 Mar 2026 21:33:42 GMT"
+    },
+    {
+      "title": "Vindmøllegigant varsler kutt av 440 stillinger",
+      "link": "https://www.nrk.no/nyheter/vindmollegigant-varsler-kutt-av-440-stillinger-1.17830016",
+      "category": "Danmark",
+      "pubDate": "Sun, 29 Mar 2026 21:26:02 GMT"
+    },
+    {
+      "title": "Pave Leo appellerte til verdens ledere om besindighet",
+      "link": "https://www.nrk.no/nyheter/pave-leo-appellerte-til-verdens-ledere-om-besindighet-1.17830013",
+      "category": "Paven og Vatikanet",
+      "pubDate": "Sun, 29 Mar 2026 21:16:16 GMT"
+    },
+    {
+      "title": "Libya gjenåpner viktig oljefelt",
+      "link": "https://www.nrk.no/nyheter/libya-gjenapner-viktig-oljefelt--1.17830012",
+      "category": "Libya",
+      "pubDate": "Sun, 29 Mar 2026 21:05:19 GMT"
+    },
+    {
+      "title": "Iran varsler nytt regime i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran-varsler-nytt-regime-i-hormuzstredet--1.17830007",
+      "category": "Iran",
+      "pubDate": "Sun, 29 Mar 2026 20:57:21 GMT"
+    },
     {
       "title": "IAEA: Iransk atomanlegg ute av drift",
       "link": "https://www.nrk.no/nyheter/iaea_-iransk-atomanlegg-ute-av-drift-1.17829984",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 29 Mar 2026 19:44:45 GMT"
-    },
-    {
-      "title": "Trusselsituasjon på Kjeller: Søker etter stikkvåpen",
-      "link": "https://www.nrk.no/stor-oslo/trusselsituasjon-pa-kjeller_-soker-etter-stikkvapen-1.17829974",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 29 Mar 2026 19:41:13 GMT"
-    },
-    {
-      "title": "IDF bekrefter: Angriper Teheran",
-      "link": "https://www.nrk.no/nyheter/idf-bekrefter_-angriper-teheran-1.17829961",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 29 Mar 2026 19:07:45 GMT"
-    },
-    {
-      "title": "AFP: Eksplosjoner i Irans hovedstad",
-      "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-i-irans-hovedstad-1.17829948",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 29 Mar 2026 18:25:57 GMT"
-    },
-    {
-      "title": "Stort kunsttyveri i Italia",
-      "link": "https://www.nrk.no/nyheter/stort-kunsttyveri-i-italia--1.17829892",
-      "category": "Italia",
-      "pubDate": "Sun, 29 Mar 2026 17:56:10 GMT"
-    },
-    {
-      "title": "To personer pågrepet i Oslo – grep etter skytevåpen",
-      "link": "https://www.nrk.no/stor-oslo/to-personer-pagrepet-i-oslo-_-grep-etter-skytevapen-1.17829921",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 29 Mar 2026 17:24:55 GMT"
     }
   ]
 }
