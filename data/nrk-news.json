@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-29T21:34:58.660Z",
+  "updatedAt": "2026-03-29T22:34:31.342Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN-soldat drept i eksplosjon i Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/fn-soldat-drept-i-eksplosjon-i-sor-libanon-1.17830032",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 29 Mar 2026 22:24:20 GMT"
+    },
+    {
+      "title": "Petrokjemisk anlegg rammet av angrep i Iran – ingen farlige utslipp",
+      "link": "https://www.nrk.no/nyheter/petrokjemisk-anlegg-rammet-av-angrep-i-iran-_-ingen-farlige-utslipp--1.17830020",
+      "category": "Iran",
+      "pubDate": "Sun, 29 Mar 2026 22:07:47 GMT"
+    },
     {
       "title": "New York Times: USA tillater russisk råolje til Cuba",
       "link": "https://www.nrk.no/nyheter/new-york-times_-usa-tillater-russisk-raolje-til-cuba-1.17830018",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libya-gjenapner-viktig-oljefelt--1.17830012",
       "category": "Libya",
       "pubDate": "Sun, 29 Mar 2026 21:05:19 GMT"
-    },
-    {
-      "title": "Iran varsler nytt regime i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran-varsler-nytt-regime-i-hormuzstredet--1.17830007",
-      "category": "Iran",
-      "pubDate": "Sun, 29 Mar 2026 20:57:21 GMT"
-    },
-    {
-      "title": "IAEA: Iransk atomanlegg ute av drift",
-      "link": "https://www.nrk.no/nyheter/iaea_-iransk-atomanlegg-ute-av-drift-1.17829984",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 29 Mar 2026 19:44:45 GMT"
     }
   ]
 }
