@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-29T13:01:19.493Z",
+  "updatedAt": "2026-03-29T14:05:20.356Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iransk rakettnedslag i israelsk industriområde",
+      "link": "https://www.nrk.no/nyheter/iransk-rakettnedslag-i-israelsk-industriomrade-1.17829771",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 29 Mar 2026 13:40:34 GMT"
+    },
+    {
+      "title": "Macron fordømmer israelsk politi",
+      "link": "https://www.nrk.no/nyheter/macron-fordommer-israelsk-politi-1.17829730",
+      "category": "Israel",
+      "pubDate": "Sun, 29 Mar 2026 13:24:49 GMT"
+    },
+    {
+      "title": "Turgåer skadet i fjellet",
+      "link": "https://www.nrk.no/tromsogfinnmark/turgaer-skadet-i-fjellet-1.17829729",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 29 Mar 2026 13:04:29 GMT"
+    },
     {
       "title": "Iran advarer USA mot bakkeoffensiv – ministre i regionen i møte om krigen",
       "link": "https://www.nrk.no/nyheter/iran-advarer-usa-mot-bakkeoffensiv-_-ministre-i-regionen-i-mote-om-krigen-1.17829663",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/-skattepenger-i-vente-for-sommerferien-1.17829633",
       "category": "Skattemeldingen",
       "pubDate": "Sun, 29 Mar 2026 11:01:02 GMT"
-    },
-    {
-      "title": "To danske politikere ekskludert siden valget",
-      "link": "https://www.nrk.no/nyheter/to-danske-politikere-ekskludert-siden-valget-1.17829626",
-      "category": "Danmark",
-      "pubDate": "Sun, 29 Mar 2026 10:26:31 GMT"
-    },
-    {
-      "title": "Trusselsituasjon på Fetsund",
-      "link": "https://www.nrk.no/stor-oslo/trusselsituasjon-pa-fetsund-1.17829614",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 29 Mar 2026 10:20:00 GMT"
-    },
-    {
-      "title": "Russland: Truer med å arrestere alle som protesterer mot sensur av internett",
-      "link": "https://www.nrk.no/nyheter/russland_-truer-med-a-arrestere-alle-som-protesterer-mot-sensur-av-internett-1.17829582",
-      "category": "Russland",
-      "pubDate": "Sun, 29 Mar 2026 10:15:10 GMT"
     }
   ]
 }
