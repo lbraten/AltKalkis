@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-29T11:32:13.833Z",
+  "updatedAt": "2026-03-29T13:01:19.493Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran advarer USA mot bakkeoffensiv – ministre i regionen i møte om krigen",
+      "link": "https://www.nrk.no/nyheter/iran-advarer-usa-mot-bakkeoffensiv-_-ministre-i-regionen-i-mote-om-krigen-1.17829663",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 29 Mar 2026 12:15:38 GMT"
+    },
     {
       "title": "Droner i Finland – mistenker krenking av territorium",
       "link": "https://www.nrk.no/nyheter/-droner-i-finland-_-mistenker-krenking-av-territorium-1.17829652",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russland_-truer-med-a-arrestere-alle-som-protesterer-mot-sensur-av-internett-1.17829582",
       "category": "Russland",
       "pubDate": "Sun, 29 Mar 2026 10:15:10 GMT"
-    },
-    {
-      "title": "Første livstegn fra fengslet Maduro",
-      "link": "https://www.nrk.no/nyheter/forste-livstegn-fra-fengslet-maduro-1.17829458",
-      "category": "Venezuela og USA",
-      "pubDate": "Sun, 29 Mar 2026 08:42:22 GMT"
     }
   ]
 }
