@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-29T15:01:44.393Z",
+  "updatedAt": "2026-03-29T15:54:27.447Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Netanyahu: Utvidelse av sikkerhetssonen i Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/netanyahu_-utvidelse-av-sikkerhetssonen-i-sor-libanon-1.17829850",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 29 Mar 2026 15:34:28 GMT"
+    },
+    {
+      "title": "Brann i et lokomotiv i Steinkjer",
+      "link": "https://www.nrk.no/trondelag/brann-i-et-lokomotiv-i-steinkjer-1.17829857",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 29 Mar 2026 15:33:50 GMT"
+    },
+    {
+      "title": "Raudhammartunnelen åpner for normal trafikk igjen",
+      "link": "https://www.nrk.no/nordland/raudhammartunnelen-apner-for-normal-trafikk-igjen-1.17829844",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sun, 29 Mar 2026 15:21:34 GMT"
+    },
+    {
+      "title": "18-åring sikta for drapsforsøk: Fornærma er utanfor livsfare",
+      "link": "https://www.nrk.no/rogaland/18-aring-sikta-for-drapsforsok_-fornaerma-er-utanfor-livsfare-1.17829852",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 29 Mar 2026 15:14:02 GMT"
+    },
+    {
+      "title": "Kuwait: Ti soldater skadet i iransk rakettangrep",
+      "link": "https://www.nrk.no/nyheter/kuwait_-ti-soldater-skadet-i-iransk-rakettangrep-1.17829810",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 29 Mar 2026 15:01:04 GMT"
+    },
     {
       "title": "Person falt flere hundre meter fra fjell i Troms",
       "link": "https://www.nrk.no/tromsogfinnmark/person-falt-flere-hundre-meter-fra-fjell-i-troms-1.17829809",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sun, 29 Mar 2026 14:32:40 GMT"
-    },
-    {
-      "title": "Tre personer pågrepet etter brann i Kongsvinger",
-      "link": "https://www.nrk.no/innlandet/tre-personer-pagrepet-etter-brann-i-kongsvinger-1.17829815",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sun, 29 Mar 2026 14:10:49 GMT"
-    },
-    {
-      "title": "Iransk rakettnedslag i israelsk industriområde",
-      "link": "https://www.nrk.no/nyheter/iransk-rakettnedslag-i-israelsk-industriomrade-1.17829771",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 29 Mar 2026 13:40:34 GMT"
-    },
-    {
-      "title": "Macron fordømmer israelsk politi",
-      "link": "https://www.nrk.no/nyheter/macron-fordommer-israelsk-politi-1.17829730",
-      "category": "Israel",
-      "pubDate": "Sun, 29 Mar 2026 13:24:49 GMT"
-    },
-    {
-      "title": "Turgåer skadet i fjellet",
-      "link": "https://www.nrk.no/tromsogfinnmark/turgaer-skadet-i-fjellet-1.17829729",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 29 Mar 2026 13:04:29 GMT"
-    },
-    {
-      "title": "Iran advarer USA mot bakkeoffensiv – ministre i regionen i møte om krigen",
-      "link": "https://www.nrk.no/nyheter/iran-advarer-usa-mot-bakkeoffensiv-_-ministre-i-regionen-i-mote-om-krigen-1.17829663",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 29 Mar 2026 12:15:38 GMT"
     }
   ]
 }
