@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-29T18:47:25.986Z",
+  "updatedAt": "2026-03-29T19:33:52.790Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel angriper Teheran",
+      "link": "https://www.nrk.no/nyheter/israel-angriper-teheran-1.17829961",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 29 Mar 2026 19:07:45 GMT"
+    },
     {
       "title": "AFP: Eksplosjoner i Irans hovedstad",
       "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-i-irans-hovedstad-1.17829948",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon_-over-1200-har-mistet-livet-1.17829881",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 29 Mar 2026 16:28:47 GMT"
-    },
-    {
-      "title": "Turist omkom i snøscooterulykke i Troms",
-      "link": "https://www.nrk.no/tromsogfinnmark/turist-omkom-i-snoscooterulykke-i-troms-1.17829848",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 29 Mar 2026 16:14:20 GMT"
     }
   ]
 }
