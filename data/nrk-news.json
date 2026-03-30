@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-30T07:07:27.132Z",
+  "updatedAt": "2026-03-30T08:55:23.870Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Linnéa Myhre og Emil Gukild er blitt foreldre",
-      "link": "https://www.nrk.no/nyheter/linnea-myhre-og-emil-gukild-er-blitt-foreldre-1.17830173",
-      "category": "Kjendiser og underholdning",
-      "pubDate": "Mon, 30 Mar 2026 06:19:39 GMT"
-    },
-    {
-      "title": "Irans inflasjonsrate over 50 prosent",
-      "link": "https://www.nrk.no/nyheter/irans-inflasjonsrate-over-50-prosent-1.17830158",
-      "category": "Iran",
-      "pubDate": "Mon, 30 Mar 2026 05:51:16 GMT"
-    },
-    {
-      "title": "Regjeringen: Avgiftene på bensin og diesel reduseres fra 1. april",
-      "link": "https://www.nrk.no/nyheter/regjeringen_-avgiftene-pa-bensin-og-diesel-reduseres-fra-1.-april-1.17830155",
-      "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Mon, 30 Mar 2026 05:38:57 GMT"
-    },
-    {
-      "title": "Hjelpetelefon og chat åpen hele påsken",
-      "link": "https://www.nrk.no/nyheter/hjelpetelefon-og-chat-apen-hele-pasken-1.17830121",
-      "category": "Mental helse",
-      "pubDate": "Mon, 30 Mar 2026 05:34:00 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke i Nordre Follo",
-      "link": "https://www.nrk.no/stor-oslo/alvorlig-trafikkulykke-i-nordre-follo--1.17830107",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 30 Mar 2026 05:18:45 GMT"
-    },
-    {
-      "title": "Røde Halvmåne: Over 100.000 sivile bygg skadd i Iran",
-      "link": "https://www.nrk.no/nyheter/rode-halvmane_-over-100.000-sivile-bygg-skadd-i-iran-1.17830103",
+      "title": "Syria melder om stort droneangrep",
+      "link": "https://www.nrk.no/nyheter/syria-melder-om-stort-droneangrep-1.17830419",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 30 Mar 2026 04:46:19 GMT"
+      "pubDate": "Mon, 30 Mar 2026 08:37:56 GMT"
+    },
+    {
+      "title": "Israelske luftangrep mot Beirut mandag",
+      "link": "https://www.nrk.no/nyheter/israelske-luftangrep-mot-beirut-mandag-1.17830388",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 30 Mar 2026 08:30:34 GMT"
+    },
+    {
+      "title": "Russiske medier: Oljetanker har ankommet Cuba",
+      "link": "https://www.nrk.no/nyheter/russiske-medier_-oljetanker-har-ankommet-cuba-1.17830302",
+      "category": "Cuba",
+      "pubDate": "Mon, 30 Mar 2026 08:22:27 GMT"
+    },
+    {
+      "title": "Kokkin-Thoresen ny sjefredaktør i Se og Hør",
+      "link": "https://www.nrk.no/nyheter/kokkin-thoresen-ny-sjefredaktor-i-se-og-hor-1.17830349",
+      "category": "Medier",
+      "pubDate": "Mon, 30 Mar 2026 08:10:45 GMT"
+    },
+    {
+      "title": "Vedum: Regjeringen følger ikke opp alle vedtakene",
+      "link": "https://www.nrk.no/nyheter/vedum_-regjeringen-folger-ikke-opp-alle-vedtakene-1.17830294",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Mon, 30 Mar 2026 07:59:30 GMT"
+    },
+    {
+      "title": "Iran bekrefter at marinesjef er drept",
+      "link": "https://www.nrk.no/nyheter/iran-bekrefter-at-marinesjef-er-drept-1.17830280",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 30 Mar 2026 07:49:24 GMT"
     }
   ]
 }
