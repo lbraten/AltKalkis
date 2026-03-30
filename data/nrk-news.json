@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-30T21:44:22.842Z",
+  "updatedAt": "2026-03-30T22:39:10.377Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Synagogeangrep i Michigan var Hizbollah-inspirert terror, sier FBI",
+      "link": "https://www.nrk.no/nyheter/synagogeangrep-i-michigan-var-hizbollah-inspirert-terror_-sier-fbi-1.17831326",
+      "category": "USA",
+      "pubDate": "Mon, 30 Mar 2026 22:31:10 GMT"
+    },
+    {
+      "title": "Tankskip angrepet utenfor Dubai",
+      "link": "https://www.nrk.no/nyheter/tankskip-angrepet-utenfor-dubai-1.17831325",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 30 Mar 2026 21:49:10 GMT"
+    },
+    {
+      "title": "Tekgiganter etterforskes for lovbrudd i Australia",
+      "link": "https://www.nrk.no/nyheter/tekgiganter-etterforskes-for-lovbrudd-i-australia-1.17831316",
+      "category": "Australia",
+      "pubDate": "Mon, 30 Mar 2026 21:48:07 GMT"
+    },
     {
       "title": "Børsene ned i New York",
       "link": "https://www.nrk.no/nyheter/borsene-ned-i-new-york-1.17831300",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/ny-ulykke-pa-e18-1.17831287",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 30 Mar 2026 20:12:49 GMT"
-    },
-    {
-      "title": "Céline Dion bekrefter comeback",
-      "link": "https://www.nrk.no/nyheter/celine-dion-bekrefter-comeback--1.17831248",
-      "category": "Musikk",
-      "pubDate": "Mon, 30 Mar 2026 19:11:14 GMT"
-    },
-    {
-      "title": "Bil stod i full fyr",
-      "link": "https://www.nrk.no/vestfoldogtelemark/bil-stod-i-full-fyr-1.17831245",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 30 Mar 2026 18:47:19 GMT"
-    },
-    {
-      "title": "FN-soldater drept: Kaller inn til hastemøte",
-      "link": "https://www.nrk.no/nyheter/fn-soldater-drept_-kaller-inn-til-hastemote-1.17831241",
-      "category": "Krig og konflikt i Midtøsten",
-      "pubDate": "Mon, 30 Mar 2026 18:43:36 GMT"
     }
   ]
 }
