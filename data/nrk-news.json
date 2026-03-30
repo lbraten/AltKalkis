@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-29T23:35:47.028Z",
+  "updatedAt": "2026-03-30T02:43:06.171Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flyruter mellom Kina og Nord-Korea gjenopptas",
+      "link": "https://www.nrk.no/nyheter/flyruter-mellom-kina-og-nord-korea-gjenopptas-1.17830046",
+      "category": "Nord-Korea",
+      "pubDate": "Mon, 30 Mar 2026 01:50:53 GMT"
+    },
+    {
+      "title": "Snøugla får internasjonalt vern",
+      "link": "https://www.nrk.no/nyheter/snougla-far-internasjonalt-vern--1.17830043",
+      "category": "Dyr",
+      "pubDate": "Mon, 30 Mar 2026 01:22:34 GMT"
+    },
+    {
+      "title": "Trump tror på en avtale med Iran",
+      "link": "https://www.nrk.no/nyheter/trump-tror-pa-en-avtale-med-iran--1.17830042",
+      "category": "USA",
+      "pubDate": "Mon, 30 Mar 2026 00:32:43 GMT"
+    },
+    {
+      "title": "Børsfall i Asia",
+      "link": "https://www.nrk.no/nyheter/borsfall-i-asia--1.17830041",
+      "category": "Økonomi",
+      "pubDate": "Mon, 30 Mar 2026 00:26:32 GMT"
+    },
+    {
+      "title": "Indisk statsborger drept i iransk angrep mot Kuwait",
+      "link": "https://www.nrk.no/nyheter/indisk-statsborger-drept-i-iransk-angrep-mot-kuwait--1.17830038",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 30 Mar 2026 00:22:38 GMT"
+    },
     {
       "title": "Australsk politi skjøt og drepte etterlyst rømling",
       "link": "https://www.nrk.no/nyheter/australsk-politi-skjot-og-drepte-etterlyst-romling-1.17830037",
       "category": "Australia",
       "pubDate": "Sun, 29 Mar 2026 23:16:02 GMT"
-    },
-    {
-      "title": "Én mann drept i ukrainsk droneangrep i Russland",
-      "link": "https://www.nrk.no/nyheter/en-mann-drept-i-ukrainsk-droneangrep-i-russland-1.17830036",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 29 Mar 2026 23:04:27 GMT"
-    },
-    {
-      "title": "Budsjettet vedtatt i Israel: Netanyahu avverger nyvalg",
-      "link": "https://www.nrk.no/nyheter/budsjettet-vedtatt-i-israel_-netanyahu-avverger-nyvalg-1.17830035",
-      "category": "Israel",
-      "pubDate": "Sun, 29 Mar 2026 22:49:02 GMT"
-    },
-    {
-      "title": "Nordsjøolje passerer 115 dollar fatet",
-      "link": "https://www.nrk.no/nyheter/nordsjoolje-passerer-115-dollar-fatet-1.17830034",
-      "category": "Oljebransjen",
-      "pubDate": "Sun, 29 Mar 2026 22:43:48 GMT"
-    },
-    {
-      "title": "Russisk oljeskip har nådd Cuba",
-      "link": "https://www.nrk.no/nyheter/russisk-oljeskip-har-nadd-cuba-1.17830033",
-      "category": "Oljebransjen",
-      "pubDate": "Sun, 29 Mar 2026 22:39:16 GMT"
-    },
-    {
-      "title": "FN-soldat drept i eksplosjon i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/fn-soldat-drept-i-eksplosjon-i-sor-libanon-1.17830032",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 29 Mar 2026 22:24:20 GMT"
     }
   ]
 }
