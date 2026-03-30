@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-30T05:27:23.918Z",
+  "updatedAt": "2026-03-30T07:07:27.132Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Linnéa Myhre og Emil Gukild er blitt foreldre",
+      "link": "https://www.nrk.no/nyheter/linnea-myhre-og-emil-gukild-er-blitt-foreldre-1.17830173",
+      "category": "Kjendiser og underholdning",
+      "pubDate": "Mon, 30 Mar 2026 06:19:39 GMT"
+    },
+    {
+      "title": "Irans inflasjonsrate over 50 prosent",
+      "link": "https://www.nrk.no/nyheter/irans-inflasjonsrate-over-50-prosent-1.17830158",
+      "category": "Iran",
+      "pubDate": "Mon, 30 Mar 2026 05:51:16 GMT"
+    },
+    {
+      "title": "Regjeringen: Avgiftene på bensin og diesel reduseres fra 1. april",
+      "link": "https://www.nrk.no/nyheter/regjeringen_-avgiftene-pa-bensin-og-diesel-reduseres-fra-1.-april-1.17830155",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Mon, 30 Mar 2026 05:38:57 GMT"
+    },
+    {
+      "title": "Hjelpetelefon og chat åpen hele påsken",
+      "link": "https://www.nrk.no/nyheter/hjelpetelefon-og-chat-apen-hele-pasken-1.17830121",
+      "category": "Mental helse",
+      "pubDate": "Mon, 30 Mar 2026 05:34:00 GMT"
+    },
     {
       "title": "Alvorlig trafikkulykke i Nordre Follo",
       "link": "https://www.nrk.no/stor-oslo/alvorlig-trafikkulykke-i-nordre-follo--1.17830107",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rode-halvmane_-over-100.000-sivile-bygg-skadd-i-iran-1.17830103",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 30 Mar 2026 04:46:19 GMT"
-    },
-    {
-      "title": "Slik er snøskredfaren i starten av den stille uke",
-      "link": "https://www.nrk.no/tromsogfinnmark/slik-er-snoskredfaren-i-starten-av-den-stille-uke-1.17830111",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 30 Mar 2026 04:43:17 GMT"
-    },
-    {
-      "title": "Israel angriper sentrale militære mål i Teheran",
-      "link": "https://www.nrk.no/nyheter/israel-angriper-sentrale-militaere-mal-i-teheran-1.17830050",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 30 Mar 2026 03:45:37 GMT"
-    },
-    {
-      "title": "Australia tar grep for å få ned drivstoffkostnadene",
-      "link": "https://www.nrk.no/nyheter/australia-tar-grep-for-a-fa-ned-drivstoffkostnadene-1.17830049",
-      "category": "Australia",
-      "pubDate": "Mon, 30 Mar 2026 02:58:50 GMT"
-    },
-    {
-      "title": "Tollfri netthandel i fare etter mislykket WTO-toppmøte",
-      "link": "https://www.nrk.no/nyheter/tollfri-netthandel-i-fare-etter-mislykket-wto-toppmote-1.17830048",
-      "category": "Handelsavtaler og toll",
-      "pubDate": "Mon, 30 Mar 2026 02:17:09 GMT"
     }
   ]
 }
