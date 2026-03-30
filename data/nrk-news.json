@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-30T20:53:54.459Z",
+  "updatedAt": "2026-03-30T21:44:22.842Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Børsene ned i New York",
+      "link": "https://www.nrk.no/nyheter/borsene-ned-i-new-york-1.17831300",
+      "category": "Uro på børsene",
+      "pubDate": "Mon, 30 Mar 2026 21:07:17 GMT"
+    },
     {
       "title": "Trump-administrasjonen saksøker delstat for å tillate transpersoner i jenteidrett",
       "link": "https://www.nrk.no/nyheter/trump-administrasjonen-saksoker-delstat-for-a-tillate-transpersoner-i-jenteidrett-1.17831293",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fn-soldater-drept_-kaller-inn-til-hastemote-1.17831241",
       "category": "Krig og konflikt i Midtøsten",
       "pubDate": "Mon, 30 Mar 2026 18:43:36 GMT"
-    },
-    {
-      "title": "Lastebil har veltet på E18 – veien er stengt",
-      "link": "https://www.nrk.no/vestfoldogtelemark/lastebil-har-veltet-pa-e18-_-veien-er-stengt-1.17831172",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 30 Mar 2026 18:33:47 GMT"
     }
   ]
 }
