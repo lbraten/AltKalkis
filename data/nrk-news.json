@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-30T19:56:21.757Z",
+  "updatedAt": "2026-03-30T20:53:54.459Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump-administrasjonen saksøker delstat for å tillate transpersoner i jenteidrett",
+      "link": "https://www.nrk.no/nyheter/trump-administrasjonen-saksoker-delstat-for-a-tillate-transpersoner-i-jenteidrett-1.17831293",
+      "category": "USA",
+      "pubDate": "Mon, 30 Mar 2026 20:25:14 GMT"
+    },
+    {
+      "title": "Ny ulykke på E18",
+      "link": "https://www.nrk.no/vestfoldogtelemark/ny-ulykke-pa-e18-1.17831287",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 30 Mar 2026 20:12:49 GMT"
+    },
     {
       "title": "Céline Dion bekrefter comeback",
       "link": "https://www.nrk.no/nyheter/celine-dion-bekrefter-comeback--1.17831248",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/lastebil-har-veltet-pa-e18-_-veien-er-stengt-1.17831172",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 30 Mar 2026 18:33:47 GMT"
-    },
-    {
-      "title": "USA: Samtalene med Iran går bra",
-      "link": "https://www.nrk.no/nyheter/usa_-samtalene-med-iran-gar-bra-1.17831218",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 30 Mar 2026 18:10:52 GMT"
-    },
-    {
-      "title": "Israel innfører dødsstraff for palestinere",
-      "link": "https://www.nrk.no/nyheter/israel-innforer-dodsstraff-for-palestinere-1.17831171",
-      "category": "Israel",
-      "pubDate": "Mon, 30 Mar 2026 17:56:27 GMT"
     }
   ]
 }
