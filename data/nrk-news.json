@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-30T18:33:14.620Z",
+  "updatedAt": "2026-03-30T19:56:21.757Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Céline Dion bekrefter comeback",
+      "link": "https://www.nrk.no/nyheter/celine-dion-bekrefter-comeback--1.17831248",
+      "category": "Musikk",
+      "pubDate": "Mon, 30 Mar 2026 19:11:14 GMT"
+    },
+    {
+      "title": "Bil stod i full fyr",
+      "link": "https://www.nrk.no/vestfoldogtelemark/bil-stod-i-full-fyr-1.17831245",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 30 Mar 2026 18:47:19 GMT"
+    },
+    {
+      "title": "FN-soldater drept: Kaller inn til hastemøte",
+      "link": "https://www.nrk.no/nyheter/fn-soldater-drept_-kaller-inn-til-hastemote-1.17831241",
+      "category": "Krig og konflikt i Midtøsten",
+      "pubDate": "Mon, 30 Mar 2026 18:43:36 GMT"
+    },
+    {
+      "title": "Lastebil har veltet på E18 – veien er stengt",
+      "link": "https://www.nrk.no/vestfoldogtelemark/lastebil-har-veltet-pa-e18-_-veien-er-stengt-1.17831172",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 30 Mar 2026 18:33:47 GMT"
+    },
     {
       "title": "USA: Samtalene med Iran går bra",
       "link": "https://www.nrk.no/nyheter/usa_-samtalene-med-iran-gar-bra-1.17831218",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-innforer-dodsstraff-for-palestinere-1.17831171",
       "category": "Israel",
       "pubDate": "Mon, 30 Mar 2026 17:56:27 GMT"
-    },
-    {
-      "title": "Minst 16 drepne i gjengangrep på Haiti",
-      "link": "https://www.nrk.no/nyheter/minst-16-drepne-i-gjengangrep-pa-haiti-1.17831202",
-      "category": "Haiti",
-      "pubDate": "Mon, 30 Mar 2026 17:42:39 GMT"
-    },
-    {
-      "title": "Dieselbrølet varsler ny aksjon",
-      "link": "https://www.nrk.no/nyheter/dieselbrolet-varsler-ny-aksjon-1.17831149",
-      "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Mon, 30 Mar 2026 17:09:14 GMT"
-    },
-    {
-      "title": "To FN-soldater drept i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/to-fn-soldater-drept-i-sor-libanon-1.17831139",
-      "category": "Libanon",
-      "pubDate": "Mon, 30 Mar 2026 16:46:34 GMT"
-    },
-    {
-      "title": "Død person funnet i Mjøsa",
-      "link": "https://www.nrk.no/innlandet/dod-person-funnet-i-mjosa-1.17831103",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Mon, 30 Mar 2026 16:39:32 GMT"
     }
   ]
 }
