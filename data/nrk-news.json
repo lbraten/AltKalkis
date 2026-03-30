@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-03-30T17:28:30.970Z",
+  "updatedAt": "2026-03-30T18:33:14.620Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Diesel-aksjonistene varsler ny protest",
-      "link": "https://www.nrk.no/vestfoldogtelemark/diesel-aksjonistene-varsler-ny-protest-1.17831066",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 30 Mar 2026 17:09:39 GMT"
+      "title": "USA: Samtalene med Iran går bra",
+      "link": "https://www.nrk.no/nyheter/usa_-samtalene-med-iran-gar-bra-1.17831218",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 30 Mar 2026 18:10:52 GMT"
+    },
+    {
+      "title": "Israel innfører dødsstraff for palestinere",
+      "link": "https://www.nrk.no/nyheter/israel-innforer-dodsstraff-for-palestinere-1.17831171",
+      "category": "Israel",
+      "pubDate": "Mon, 30 Mar 2026 17:56:27 GMT"
+    },
+    {
+      "title": "Minst 16 drepne i gjengangrep på Haiti",
+      "link": "https://www.nrk.no/nyheter/minst-16-drepne-i-gjengangrep-pa-haiti-1.17831202",
+      "category": "Haiti",
+      "pubDate": "Mon, 30 Mar 2026 17:42:39 GMT"
+    },
+    {
+      "title": "Dieselbrølet varsler ny aksjon",
+      "link": "https://www.nrk.no/nyheter/dieselbrolet-varsler-ny-aksjon-1.17831149",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Mon, 30 Mar 2026 17:09:14 GMT"
     },
     {
       "title": "To FN-soldater drept i Sør-Libanon",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/innlandet/dod-person-funnet-i-mjosa-1.17831103",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Mon, 30 Mar 2026 16:39:32 GMT"
-    },
-    {
-      "title": "Oljeprisen kan få rekordhopp",
-      "link": "https://www.nrk.no/nyheter/oljeprisen-kan-fa-rekordhopp-1.17831123",
-      "category": "Oljeprisen",
-      "pubDate": "Mon, 30 Mar 2026 16:36:27 GMT"
-    },
-    {
-      "title": "To norske satellitter skutt opp",
-      "link": "https://www.nrk.no/nyheter/to-norske-satellitter-skutt-opp-1.17831126",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 30 Mar 2026 16:27:09 GMT"
-    },
-    {
-      "title": "SVT skroter populære programmer og kutter 140 stillinger",
-      "link": "https://www.nrk.no/nyheter/svt-skroter-populaere-programmer-og-kutter-140-stillinger-1.17831110",
-      "category": "Sverige",
-      "pubDate": "Mon, 30 Mar 2026 16:09:35 GMT"
     }
   ]
 }
