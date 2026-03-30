@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-30T14:50:07.874Z",
+  "updatedAt": "2026-03-30T16:07:15.588Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina og Bulgaria planlegger ny gasskorridor",
+      "link": "https://www.nrk.no/nyheter/ukraina-og-bulgaria-planlegger-ny-gasskorridor-1.17831092",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 30 Mar 2026 15:53:57 GMT"
+    },
+    {
+      "title": "E6 over Mjøsbrua åpen igjen",
+      "link": "https://www.nrk.no/innlandet/e6-over-mjosbrua-apen-igjen-1.17831086",
+      "category": "Trafikk i Innlandet",
+      "pubDate": "Mon, 30 Mar 2026 15:51:08 GMT"
+    },
+    {
+      "title": "Libanesisk soldat drept i israelsk angrep i Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/libanesisk-soldat-drept-i-israelsk-angrep-i-sor-libanon-1.17831088",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 30 Mar 2026 15:43:17 GMT"
+    },
+    {
+      "title": "Ungarn blokkerte EU-lån: Får vinter-konsekvenser for Ukraina",
+      "link": "https://www.nrk.no/nyheter/ungarn-blokkerte-eu-lan_-far-vinter-konsekvenser-for-ukraina-1.17831039",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 30 Mar 2026 15:35:07 GMT"
+    },
+    {
+      "title": "Santelmann får rolle i serien «The White Lotus»",
+      "link": "https://www.nrk.no/nyheter/santelmann-far-rolle-i-serien-_the-white-lotus_-1.17831037",
+      "category": "TV-serier",
+      "pubDate": "Mon, 30 Mar 2026 15:11:09 GMT"
+    },
     {
       "title": "IPI: Fortsatt svært bekymret over Epstein-dokumentene",
       "link": "https://www.nrk.no/nyheter/ipi_-fortsatt-svaert-bekymret-over-epstein-dokumentene-1.17831027",
       "category": "Epsteins norske forbindelser",
       "pubDate": "Mon, 30 Mar 2026 14:45:00 GMT"
-    },
-    {
-      "title": "Oslo Børs endte opp 2,8 prosent – ny rekord",
-      "link": "https://www.nrk.no/nyheter/oslo-bors-endte-opp-2_8-prosent-_-ny-rekord-1.17831035",
-      "category": "Norsk økonomi",
-      "pubDate": "Mon, 30 Mar 2026 14:32:48 GMT"
-    },
-    {
-      "title": "Nato har skutt ned iransk missil i tyrkisk luftrom",
-      "link": "https://www.nrk.no/nyheter/nato-har-skutt-ned-iransk-missil-i-tyrkisk-luftrom-1.17831032",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 30 Mar 2026 14:27:25 GMT"
-    },
-    {
-      "title": "Ukrainer mistenkt for spionasje for Russland i Tyskland",
-      "link": "https://www.nrk.no/nyheter/ukrainer-mistenkt-for-spionasje-for-russland-i-tyskland-1.17831030",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 30 Mar 2026 14:23:44 GMT"
-    },
-    {
-      "title": "Sør-Sudan: 70 mennesker drept i ved gullgruve",
-      "link": "https://www.nrk.no/nyheter/sor-sudan_-70-mennesker-drept-i-ved-gullgruve-1.17830945",
-      "category": "Sør-Sudan",
-      "pubDate": "Mon, 30 Mar 2026 14:21:12 GMT"
-    },
-    {
-      "title": "Mulig stor snøskredfare skjærtorsdag",
-      "link": "https://www.nrk.no/tromsogfinnmark/mulig-stor-snoskredfare-skjaertorsdag-1.17830728",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 30 Mar 2026 14:19:40 GMT"
     }
   ]
 }
