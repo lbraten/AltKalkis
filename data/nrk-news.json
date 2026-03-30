@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-03-30T08:55:23.870Z",
+  "updatedAt": "2026-03-30T10:20:00.080Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Syria melder om stort droneangrep",
-      "link": "https://www.nrk.no/nyheter/syria-melder-om-stort-droneangrep-1.17830419",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 30 Mar 2026 08:37:56 GMT"
+      "title": "Ukraina beklager at drone falt ned i Finland",
+      "link": "https://www.nrk.no/nyheter/ukraina-beklager-at-drone-falt-ned-i-finland-1.17830583",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 30 Mar 2026 10:12:29 GMT"
     },
     {
-      "title": "Israelske luftangrep mot Beirut mandag",
-      "link": "https://www.nrk.no/nyheter/israelske-luftangrep-mot-beirut-mandag-1.17830388",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 30 Mar 2026 08:30:34 GMT"
+      "title": "Zelenskyj ber om energi-våpenhvile",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-ber-om-energi-vapenhvile-1.17830577",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 30 Mar 2026 10:07:36 GMT"
     },
     {
-      "title": "Russiske medier: Oljetanker har ankommet Cuba",
-      "link": "https://www.nrk.no/nyheter/russiske-medier_-oljetanker-har-ankommet-cuba-1.17830302",
-      "category": "Cuba",
-      "pubDate": "Mon, 30 Mar 2026 08:22:27 GMT"
+      "title": "Tromsø lufthavn åpnet igjen",
+      "link": "https://www.nrk.no/nyheter/tromso-lufthavn-apnet-igjen-1.17830523",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 30 Mar 2026 10:04:52 GMT"
     },
     {
-      "title": "Kokkin-Thoresen ny sjefredaktør i Se og Hør",
-      "link": "https://www.nrk.no/nyheter/kokkin-thoresen-ny-sjefredaktor-i-se-og-hor-1.17830349",
-      "category": "Medier",
-      "pubDate": "Mon, 30 Mar 2026 08:10:45 GMT"
-    },
-    {
-      "title": "Vedum: Regjeringen følger ikke opp alle vedtakene",
-      "link": "https://www.nrk.no/nyheter/vedum_-regjeringen-folger-ikke-opp-alle-vedtakene-1.17830294",
+      "title": "Kystrederiene: – Alvorlig for sjøfarten",
+      "link": "https://www.nrk.no/nyheter/kystrederiene_-_-alvorlig-for-sjofarten-1.17830352",
       "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Mon, 30 Mar 2026 07:59:30 GMT"
+      "pubDate": "Mon, 30 Mar 2026 09:16:42 GMT"
     },
     {
-      "title": "Iran bekrefter at marinesjef er drept",
-      "link": "https://www.nrk.no/nyheter/iran-bekrefter-at-marinesjef-er-drept-1.17830280",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 30 Mar 2026 07:49:24 GMT"
+      "title": "Evakuerer Tromsø lufthavn",
+      "link": "https://www.nrk.no/tromsogfinnmark/evakuerer-tromso-lufthavn-1.17830392",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Mon, 30 Mar 2026 09:14:51 GMT"
+    },
+    {
+      "title": "Voldshendelse i Sandnes: Ny ung mann siktet",
+      "link": "https://www.nrk.no/rogaland/voldshendelse-i-sandnes_-ny-ung-mann-siktet-1.17830493",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 30 Mar 2026 09:02:58 GMT"
     }
   ]
 }
