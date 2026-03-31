@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-03-31T19:05:01.444Z",
+  "updatedAt": "2026-03-31T20:05:34.890Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Amerikansk journalist kidnappet i Irak",
-      "link": "https://www.nrk.no/nyheter/amerikansk-journalist-kidnappet-i-irak-1.17832613",
+      "title": "Trumps ballsal: Stanser bygging",
+      "link": "https://www.nrk.no/nyheter/trumps-ballsal_-stanser-bygging--1.17832663",
+      "category": "USA",
+      "pubDate": "Tue, 31 Mar 2026 19:41:28 GMT"
+    },
+    {
+      "title": "Amerikansk journalist skal være kidnappet i Irak",
+      "link": "https://www.nrk.no/nyheter/amerikansk-journalist-skal-vaere-kidnappet-i-irak-1.17832613",
       "category": "Irak",
       "pubDate": "Tue, 31 Mar 2026 18:36:35 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/europeiske-utenriksministere-viser-stotte-til-libanon-1.17832487",
       "category": "Libanon og Israel",
       "pubDate": "Tue, 31 Mar 2026 16:19:46 GMT"
-    },
-    {
-      "title": "Cuba: Første oljeleveranse på tre måneder",
-      "link": "https://www.nrk.no/nyheter/cuba_-forste-oljeleveranse-pa-tre-maneder--1.17832436",
-      "category": "Cuba",
-      "pubDate": "Tue, 31 Mar 2026 15:54:48 GMT"
     }
   ]
 }
