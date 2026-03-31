@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-31T22:59:27.484Z",
+  "updatedAt": "2026-03-31T23:44:24.050Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Store isblokker sperrer E8 i Troms",
+      "link": "https://www.nrk.no/nyheter/store-isblokker-sperrer-e8-i-troms-1.17832758",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 31 Mar 2026 23:33:29 GMT"
+    },
     {
       "title": "Hizbollah-topper drept i angrep i Beirut, sier Israel",
       "link": "https://www.nrk.no/nyheter/hizbollah-topper-drept-i-angrep-i-beirut_-sier-israel-1.17832755",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-til-sykehus-etter-vold-i-arendal-1.17832711",
       "category": "Nyheter fra Agder",
       "pubDate": "Tue, 31 Mar 2026 21:35:59 GMT"
-    },
-    {
-      "title": "OpenAI verdsettes til 852 milliarder dollar",
-      "link": "https://www.nrk.no/nyheter/openai-verdsettes-til-852-milliarder-dollar-1.17832708",
-      "category": "Kunstig intelligens",
-      "pubDate": "Tue, 31 Mar 2026 20:36:22 GMT"
     }
   ]
 }
