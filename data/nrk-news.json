@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-31T20:05:34.890Z",
+  "updatedAt": "2026-03-31T21:04:20.762Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "OpenAI verdsettes til 852 milliarder dollar",
+      "link": "https://www.nrk.no/nyheter/openai-verdsettes-til-852-milliarder-dollar-1.17832708",
+      "category": "Kunstig intelligens",
+      "pubDate": "Tue, 31 Mar 2026 20:36:22 GMT"
+    },
+    {
+      "title": "Stort børshopp i USA",
+      "link": "https://www.nrk.no/nyheter/stort-borshopp-i-usa-1.17832693",
+      "category": "Uro på børsene",
+      "pubDate": "Tue, 31 Mar 2026 20:18:05 GMT"
+    },
     {
       "title": "Trumps ballsal: Stanser bygging",
       "link": "https://www.nrk.no/nyheter/trumps-ballsal_-stanser-bygging--1.17832663",
@@ -9,8 +21,8 @@
       "pubDate": "Tue, 31 Mar 2026 19:41:28 GMT"
     },
     {
-      "title": "Amerikansk journalist skal være kidnappet i Irak",
-      "link": "https://www.nrk.no/nyheter/amerikansk-journalist-skal-vaere-kidnappet-i-irak-1.17832613",
+      "title": "Amerikansk journalist skal være bortført i Irak",
+      "link": "https://www.nrk.no/nyheter/amerikansk-journalist-skal-vaere-bortfort-i-irak-1.17832613",
       "category": "Irak",
       "pubDate": "Tue, 31 Mar 2026 18:36:35 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran_-har-nodvendig-vilje-til-a-stanse-krigen-1.17832532",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 31 Mar 2026 17:31:04 GMT"
-    },
-    {
-      "title": "Ber om trygge forhold for FN-soldater",
-      "link": "https://www.nrk.no/nyheter/ber-om-trygge-forhold-for-fn-soldater-1.17832512",
-      "category": "Libanon og Israel",
-      "pubDate": "Tue, 31 Mar 2026 16:45:18 GMT"
-    },
-    {
-      "title": "Europeiske utenriksministere viser støtte til Libanon",
-      "link": "https://www.nrk.no/nyheter/europeiske-utenriksministere-viser-stotte-til-libanon-1.17832487",
-      "category": "Libanon og Israel",
-      "pubDate": "Tue, 31 Mar 2026 16:19:46 GMT"
     }
   ]
 }
