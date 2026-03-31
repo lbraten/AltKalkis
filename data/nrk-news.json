@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-31T21:04:20.762Z",
+  "updatedAt": "2026-03-31T22:03:13.928Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skal være kraftige angrep mot Libanon",
+      "link": "https://www.nrk.no/nyheter/skal-vaere-kraftige-angrep-mot-libanon-1.17832743",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 31 Mar 2026 21:43:02 GMT"
+    },
+    {
+      "title": "En til sykehus etter vold i Arendal",
+      "link": "https://www.nrk.no/nyheter/en-til-sykehus-etter-vold-i-arendal-1.17832711",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Tue, 31 Mar 2026 21:35:59 GMT"
+    },
     {
       "title": "OpenAI verdsettes til 852 milliarder dollar",
       "link": "https://www.nrk.no/nyheter/openai-verdsettes-til-852-milliarder-dollar-1.17832708",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/amerikansk-journalist-skal-vaere-bortfort-i-irak-1.17832613",
       "category": "Irak",
       "pubDate": "Tue, 31 Mar 2026 18:36:35 GMT"
-    },
-    {
-      "title": "Irans utenriksminister: Klare for bakkekrig",
-      "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-klare-for-bakkekrig-1.17832590",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 31 Mar 2026 17:55:10 GMT"
-    },
-    {
-      "title": "Iran: Har nødvendig vilje til å stanse krigen",
-      "link": "https://www.nrk.no/nyheter/iran_-har-nodvendig-vilje-til-a-stanse-krigen-1.17832532",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 31 Mar 2026 17:31:04 GMT"
     }
   ]
 }
