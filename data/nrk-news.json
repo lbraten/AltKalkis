@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-31T17:31:22.943Z",
+  "updatedAt": "2026-03-31T19:05:01.444Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amerikansk journalist kidnappet i Irak",
+      "link": "https://www.nrk.no/nyheter/amerikansk-journalist-kidnappet-i-irak-1.17832613",
+      "category": "Irak",
+      "pubDate": "Tue, 31 Mar 2026 18:36:35 GMT"
+    },
+    {
+      "title": "Irans utenriksminister: Klare for bakkekrig",
+      "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-klare-for-bakkekrig-1.17832590",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 31 Mar 2026 17:55:10 GMT"
+    },
+    {
+      "title": "Iran: Har nødvendig vilje til å stanse krigen",
+      "link": "https://www.nrk.no/nyheter/iran_-har-nodvendig-vilje-til-a-stanse-krigen-1.17832532",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 31 Mar 2026 17:31:04 GMT"
+    },
     {
       "title": "Ber om trygge forhold for FN-soldater",
       "link": "https://www.nrk.no/nyheter/ber-om-trygge-forhold-for-fn-soldater-1.17832512",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/cuba_-forste-oljeleveranse-pa-tre-maneder--1.17832436",
       "category": "Cuba",
       "pubDate": "Tue, 31 Mar 2026 15:54:48 GMT"
-    },
-    {
-      "title": "Flyplassen er mørklagt – passasjerene må ta buss",
-      "link": "https://www.nrk.no/nordland/flyplassen-er-morklagt-_-passasjerene-ma-ta-buss-1.17832463",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Tue, 31 Mar 2026 15:34:31 GMT"
-    },
-    {
-      "title": "Tre fengsla i fire veker for narkotikalovbrot",
-      "link": "https://www.nrk.no/mr/tre-fengsla-i-fire-veker-for-narkotikalovbrot-1.17832448",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 31 Mar 2026 15:13:18 GMT"
-    },
-    {
-      "title": "Iran truer med å angripe amerikanske selskaper",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-amerikanske-selskaper-1.17832422",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 31 Mar 2026 14:54:37 GMT"
     }
   ]
 }
