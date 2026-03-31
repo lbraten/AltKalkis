@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-31T05:11:12.426Z",
+  "updatedAt": "2026-03-31T06:49:48.472Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Droneangrep mot russisk by i Østersjøen",
+      "link": "https://www.nrk.no/nyheter/droneangrep-mot-russisk-by-i-ostersjoen-1.17831435",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 31 Mar 2026 06:19:01 GMT"
+    },
+    {
+      "title": "Mann omkom i brann på Grønland",
+      "link": "https://www.nrk.no/stor-oslo/mann-omkom-i-brann-pa-gronland-1.17831403",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 31 Mar 2026 06:08:42 GMT"
+    },
     {
       "title": "Parlamentskomité i Iran godkjenner forslag om bompenger i Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/parlamentskomite-i-iran-godkjenner-forslag-om-bompenger-i-hormuzstredet-1.17831415",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-teheran-og-jerusalem-1.17831342",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 31 Mar 2026 02:56:55 GMT"
-    },
-    {
-      "title": "Minst åtte evakuert etter brann på Grønland i Oslo",
-      "link": "https://www.nrk.no/nyheter/minst-atte-evakuert-etter-brann-pa-gronland-i-oslo-1.17831346",
-      "category": "Branner i Oslo og Akershus",
-      "pubDate": "Tue, 31 Mar 2026 02:28:52 GMT"
-    },
-    {
-      "title": "Tre biler utbrent på Haugenstua i Oslo",
-      "link": "https://www.nrk.no/nyheter/tre-biler-utbrent-pa-haugenstua-i-oslo-1.17831345",
-      "category": "Branner i Oslo og Akershus",
-      "pubDate": "Tue, 31 Mar 2026 02:22:33 GMT"
     }
   ]
 }
