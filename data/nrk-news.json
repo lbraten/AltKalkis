@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-03-31T14:47:06.303Z",
+  "updatedAt": "2026-03-31T16:06:51.150Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Cuba: Første oljeleveranse på tre måneder",
+      "link": "https://www.nrk.no/nyheter/cuba_-forste-oljeleveranse-pa-tre-maneder--1.17832436",
+      "category": "Cuba",
+      "pubDate": "Tue, 31 Mar 2026 15:54:48 GMT"
+    },
+    {
+      "title": "Flyplassen er mørklagt – passasjerene må ta buss",
+      "link": "https://www.nrk.no/nordland/flyplassen-er-morklagt-_-passasjerene-ma-ta-buss-1.17832463",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 31 Mar 2026 15:34:31 GMT"
+    },
+    {
+      "title": "Tre fengsla i fire veker for narkotikalovbrot",
+      "link": "https://www.nrk.no/mr/tre-fengsla-i-fire-veker-for-narkotikalovbrot-1.17832448",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Tue, 31 Mar 2026 15:13:18 GMT"
+    },
+    {
+      "title": "Iran truer med å angripe amerikanske selskaper",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-amerikanske-selskaper-1.17832422",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 31 Mar 2026 14:54:37 GMT"
+    },
     {
       "title": "Zelenskyj foreslår våpenhvile for kraftanlegg",
       "link": "https://www.nrk.no/nyheter/zelenskyj-foreslar-vapenhvile-for-kraftanlegg-1.17832381",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/person-tatt-av-snoskred-i-lyngen-1.17832308",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Tue, 31 Mar 2026 14:12:55 GMT"
-    },
-    {
-      "title": "Brann på Mortensrud – fire leiligheter rammet",
-      "link": "https://www.nrk.no/stor-oslo/brann-pa-mortensrud-_-fire-leiligheter-rammet-1.17832125",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 31 Mar 2026 14:09:55 GMT"
-    },
-    {
-      "title": "Til sjukehus etter frontkollisjon i Øygarden",
-      "link": "https://www.nrk.no/vestland/til-sjukehus-etter-frontkollisjon-i-oygarden-1.17832362",
-      "category": "Trafikk og vêr i Vestland",
-      "pubDate": "Tue, 31 Mar 2026 14:03:42 GMT"
-    },
-    {
-      "title": "Mann omkom etter ulykke i Flekkefjord",
-      "link": "https://www.nrk.no/nyheter/mann-omkom-etter-ulykke-i-flekkefjord-1.17832240",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Tue, 31 Mar 2026 14:03:19 GMT"
-    },
-    {
-      "title": "Kjedekollisjon på E18 ved Hemtunnelen",
-      "link": "https://www.nrk.no/vestfoldogtelemark/kjedekollisjon-pa-e18-ved-hemtunnelen-1.17832295",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 31 Mar 2026 13:39:30 GMT"
     }
   ]
 }
