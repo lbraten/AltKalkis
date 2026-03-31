@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-03-31T06:49:48.472Z",
+  "updatedAt": "2026-03-31T08:09:56.434Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Droneangrep mot russisk by i Østersjøen",
-      "link": "https://www.nrk.no/nyheter/droneangrep-mot-russisk-by-i-ostersjoen-1.17831435",
+      "title": "Esc utvidar til Asia",
+      "link": "https://www.nrk.no/nyheter/esc-utvidar-til-asia-1.17831541",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Tue, 31 Mar 2026 07:17:01 GMT"
+    },
+    {
+      "title": "Nkom: Flere mobiloperatører bryter krav til ID-kontroll",
+      "link": "https://www.nrk.no/nyheter/nkom_-flere-mobiloperatorer-bryter-krav-til-id-kontroll-1.17831482",
+      "category": "Mobilsikkerhet",
+      "pubDate": "Tue, 31 Mar 2026 07:12:06 GMT"
+    },
+    {
+      "title": "Droneangrep mot russisk by ved Østersjøen",
+      "link": "https://www.nrk.no/nyheter/droneangrep-mot-russisk-by-ved-ostersjoen-1.17831435",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 31 Mar 2026 06:19:01 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/bil-traff-husvegg-i-lillestrom-1.17831357",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 31 Mar 2026 03:49:27 GMT"
-    },
-    {
-      "title": "IDF: Fire soldater drept i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/idf_-fire-soldater-drept-i-sor-libanon-1.17831350",
-      "category": "Libanon og Israel",
-      "pubDate": "Tue, 31 Mar 2026 03:23:56 GMT"
-    },
-    {
-      "title": "Eksplosjoner hørt i Teheran og Jerusalem",
-      "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-teheran-og-jerusalem-1.17831342",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 31 Mar 2026 02:56:55 GMT"
     }
   ]
 }
