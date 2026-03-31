@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-03-31T16:06:51.150Z",
+  "updatedAt": "2026-03-31T17:31:22.943Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ber om trygge forhold for FN-soldater",
+      "link": "https://www.nrk.no/nyheter/ber-om-trygge-forhold-for-fn-soldater-1.17832512",
+      "category": "Libanon og Israel",
+      "pubDate": "Tue, 31 Mar 2026 16:45:18 GMT"
+    },
+    {
+      "title": "Europeiske utenriksministere viser støtte til Libanon",
+      "link": "https://www.nrk.no/nyheter/europeiske-utenriksministere-viser-stotte-til-libanon-1.17832487",
+      "category": "Libanon og Israel",
+      "pubDate": "Tue, 31 Mar 2026 16:19:46 GMT"
+    },
     {
       "title": "Cuba: Første oljeleveranse på tre måneder",
       "link": "https://www.nrk.no/nyheter/cuba_-forste-oljeleveranse-pa-tre-maneder--1.17832436",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-amerikanske-selskaper-1.17832422",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 31 Mar 2026 14:54:37 GMT"
-    },
-    {
-      "title": "Zelenskyj foreslår våpenhvile for kraftanlegg",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-foreslar-vapenhvile-for-kraftanlegg-1.17832381",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 31 Mar 2026 14:43:15 GMT"
-    },
-    {
-      "title": "Person tatt av snøskred i Lyngen",
-      "link": "https://www.nrk.no/tromsogfinnmark/person-tatt-av-snoskred-i-lyngen-1.17832308",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 31 Mar 2026 14:12:55 GMT"
     }
   ]
 }
