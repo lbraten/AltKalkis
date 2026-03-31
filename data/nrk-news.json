@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-31T22:03:13.928Z",
+  "updatedAt": "2026-03-31T22:59:27.484Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Hizbollah-topper drept i angrep i Beirut, sier Israel",
+      "link": "https://www.nrk.no/nyheter/hizbollah-topper-drept-i-angrep-i-beirut_-sier-israel-1.17832755",
+      "category": "Libanon og Israel",
+      "pubDate": "Tue, 31 Mar 2026 22:58:00 GMT"
+    },
+    {
+      "title": "Russiske medier: 29 døde da militærfly styrtet på Krym",
+      "link": "https://www.nrk.no/nyheter/russiske-medier_-29-dode-da-militaerfly-styrtet-pa-krym-1.17832754",
+      "category": "Russland",
+      "pubDate": "Tue, 31 Mar 2026 22:41:44 GMT"
+    },
+    {
+      "title": "Trump sier USA vil avslutte Iran-krigen innen noen uker",
+      "link": "https://www.nrk.no/nyheter/trump-sier-usa-vil-avslutte-iran-krigen-innen-noen-uker-1.17832746",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 31 Mar 2026 22:10:28 GMT"
+    },
     {
       "title": "Skal være kraftige angrep mot Libanon",
       "link": "https://www.nrk.no/nyheter/skal-vaere-kraftige-angrep-mot-libanon-1.17832743",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/openai-verdsettes-til-852-milliarder-dollar-1.17832708",
       "category": "Kunstig intelligens",
       "pubDate": "Tue, 31 Mar 2026 20:36:22 GMT"
-    },
-    {
-      "title": "Stort børshopp i USA",
-      "link": "https://www.nrk.no/nyheter/stort-borshopp-i-usa-1.17832693",
-      "category": "Uro på børsene",
-      "pubDate": "Tue, 31 Mar 2026 20:18:05 GMT"
-    },
-    {
-      "title": "Trumps ballsal: Stanser bygging",
-      "link": "https://www.nrk.no/nyheter/trumps-ballsal_-stanser-bygging--1.17832663",
-      "category": "USA",
-      "pubDate": "Tue, 31 Mar 2026 19:41:28 GMT"
-    },
-    {
-      "title": "Amerikansk journalist skal være bortført i Irak",
-      "link": "https://www.nrk.no/nyheter/amerikansk-journalist-skal-vaere-bortfort-i-irak-1.17832613",
-      "category": "Irak",
-      "pubDate": "Tue, 31 Mar 2026 18:36:35 GMT"
     }
   ]
 }
