@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-03-31T08:09:56.434Z",
+  "updatedAt": "2026-03-31T09:40:11.912Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Esc utvidar til Asia",
-      "link": "https://www.nrk.no/nyheter/esc-utvidar-til-asia-1.17831541",
+      "title": "Kraftig økning i avskogingen i Indonesia",
+      "link": "https://www.nrk.no/nyheter/kraftig-okning-i-avskogingen-i-indonesia-1.17831674",
+      "category": "Indonesia",
+      "pubDate": "Tue, 31 Mar 2026 08:38:27 GMT"
+    },
+    {
+      "title": "Johan Castberg produserer 220.000 fat per dag",
+      "link": "https://www.nrk.no/tromsogfinnmark/johan-castberg-produserer-220.000-fat-per-dag-1.17831670",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 31 Mar 2026 08:16:30 GMT"
+    },
+    {
+      "title": "NHO-bedriftene påvirkes negativt av krigen i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/-nho-bedriftene-pavirkes-negativt-av-krigen-i-midtosten-1.17831536",
+      "category": "Næringsliv",
+      "pubDate": "Tue, 31 Mar 2026 08:12:59 GMT"
+    },
+    {
+      "title": "ESC: Utvidar til Asia",
+      "link": "https://www.nrk.no/nyheter/esc_-utvidar-til-asia-1.17831541",
       "category": "MGP og Eurovision Song Contest 2026",
       "pubDate": "Tue, 31 Mar 2026 07:17:01 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/droneangrep-mot-russisk-by-ved-ostersjoen-1.17831435",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 31 Mar 2026 06:19:01 GMT"
-    },
-    {
-      "title": "Mann omkom i brann på Grønland",
-      "link": "https://www.nrk.no/stor-oslo/mann-omkom-i-brann-pa-gronland-1.17831403",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 31 Mar 2026 06:08:42 GMT"
-    },
-    {
-      "title": "Parlamentskomité i Iran godkjenner forslag om bompenger i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/parlamentskomite-i-iran-godkjenner-forslag-om-bompenger-i-hormuzstredet-1.17831415",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 31 Mar 2026 04:48:58 GMT"
-    },
-    {
-      "title": "Bil traff husvegg i Lillestrøm",
-      "link": "https://www.nrk.no/stor-oslo/bil-traff-husvegg-i-lillestrom-1.17831357",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 31 Mar 2026 03:49:27 GMT"
     }
   ]
 }
