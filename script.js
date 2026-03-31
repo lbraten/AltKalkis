@@ -210,8 +210,9 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!text) return "";
 
         return text
+            .replace(/é/g, "e")
             .replace(/[\p{M}]/gu, "")
-            .replace(/[^A-Za-z0-9ÆØÅæøå \n\t.,;:!?\'"()\[\]{}\/\\@#%&*+=<>_-]/g, "")
+            .replace(/[^A-Za-z0-9ÆØÅæøåé \n\t.,;:!?\'\"()\[\]{}\/\\@#%&*+=<>_-]/g, "")
             .replace(/[ \t]{2,}/g, " ")
             .replace(/\n{3,}/g, "\n\n")
             .trim();
