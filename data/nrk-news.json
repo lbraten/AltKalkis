@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-03-31T09:40:11.912Z",
+  "updatedAt": "2026-03-31T10:55:16.717Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ulrikke Brandstorp klager inn NRK til Diskrimineringsnemnda",
+      "link": "https://www.nrk.no/nyheter/ulrikke-brandstorp-klager-inn-nrk-til-diskrimineringsnemnda-1.17831739",
+      "category": "Likestilling",
+      "pubDate": "Tue, 31 Mar 2026 10:32:43 GMT"
+    },
+    {
+      "title": "Meteorologisk institutt: – Onsdag er ikke dagen å legge ut på fisketur i nord",
+      "link": "https://www.nrk.no/tromsogfinnmark/meteorologisk-institutt_-_-onsdag-er-ikke-dagen-a-legge-ut-pa-fisketur-i-nord-1.17831889",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 31 Mar 2026 10:14:12 GMT"
+    },
+    {
+      "title": "Katz: 600.000 evakuerte i Sør-Libanon får ikke flytte tilbake",
+      "link": "https://www.nrk.no/nyheter/katz_-600.000-evakuerte-i-sor-libanon-far-ikke-flytte-tilbake-1.17831758",
+      "category": "Libanon og Israel",
+      "pubDate": "Tue, 31 Mar 2026 09:49:41 GMT"
+    },
     {
       "title": "Kraftig økning i avskogingen i Indonesia",
       "link": "https://www.nrk.no/nyheter/kraftig-okning-i-avskogingen-i-indonesia-1.17831674",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/-nho-bedriftene-pavirkes-negativt-av-krigen-i-midtosten-1.17831536",
       "category": "Næringsliv",
       "pubDate": "Tue, 31 Mar 2026 08:12:59 GMT"
-    },
-    {
-      "title": "ESC: Utvidar til Asia",
-      "link": "https://www.nrk.no/nyheter/esc_-utvidar-til-asia-1.17831541",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Tue, 31 Mar 2026 07:17:01 GMT"
-    },
-    {
-      "title": "Nkom: Flere mobiloperatører bryter krav til ID-kontroll",
-      "link": "https://www.nrk.no/nyheter/nkom_-flere-mobiloperatorer-bryter-krav-til-id-kontroll-1.17831482",
-      "category": "Mobilsikkerhet",
-      "pubDate": "Tue, 31 Mar 2026 07:12:06 GMT"
-    },
-    {
-      "title": "Droneangrep mot russisk by ved Østersjøen",
-      "link": "https://www.nrk.no/nyheter/droneangrep-mot-russisk-by-ved-ostersjoen-1.17831435",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 31 Mar 2026 06:19:01 GMT"
     }
   ]
 }
