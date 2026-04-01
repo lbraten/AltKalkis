@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-04-01T23:05:50.108Z",
+  "updatedAt": "2026-04-01T23:57:17.644Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Tsunamivarsel etter jordskjelv i Indonesia",
-      "link": "https://www.nrk.no/nyheter/tsunamivarsel-etter-jordskjelv-i-indonesia-1.17833820",
+      "title": "Brann i enebolig på Varangerhalvøya i Finnmark",
+      "link": "https://www.nrk.no/nyheter/brann-i-enebolig-pa-varangerhalvoya-i-finnmark-1.17833830",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Wed, 01 Apr 2026 23:50:16 GMT"
+    },
+    {
+      "title": "Tsunamivarsel etter jordskjelv nær Ternate i Indonesia",
+      "link": "https://www.nrk.no/nyheter/tsunamivarsel-etter-jordskjelv-naer-ternate-i-indonesia-1.17833820",
       "category": "Jordskjelv i Asia",
       "pubDate": "Wed, 01 Apr 2026 22:59:40 GMT"
     },
@@ -15,8 +21,8 @@
       "pubDate": "Wed, 01 Apr 2026 21:52:52 GMT"
     },
     {
-      "title": "Mann hentet opp av elv i Rogaland",
-      "link": "https://www.nrk.no/nyheter/mann-hentet-opp-av-elv-i-rogaland-1.17833810",
+      "title": "Mann erklært død etter å ha blitt funnet i elv i Rogaland",
+      "link": "https://www.nrk.no/nyheter/mann-erklaert-dod-etter-a-ha-blitt-funnet-i-elv-i-rogaland-1.17833810",
       "category": "Politi- og brannlogg (Rogaland)",
       "pubDate": "Wed, 01 Apr 2026 21:29:04 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/cnn_-feil-pa-artemis-ii-skal-vaere-fikset-1.17833804",
       "category": "Nasa",
       "pubDate": "Wed, 01 Apr 2026 21:14:35 GMT"
-    },
-    {
-      "title": "Artemis-ferden kan bli utsatt",
-      "link": "https://www.nrk.no/nyheter/artemis-ferden-kan-bli-utsatt-1.17833799",
-      "category": "Nasa",
-      "pubDate": "Wed, 01 Apr 2026 20:54:40 GMT"
     }
   ]
 }
