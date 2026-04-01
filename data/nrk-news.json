@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-01T08:45:17.893Z",
+  "updatedAt": "2026-04-01T10:07:44.653Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Moderaterne vil la Sverigedemokraterna bli med i regjering hvis de vinner valget",
+      "link": "https://www.nrk.no/nyheter/moderaterne-vil-la-sverigedemokraterna-bli-med-i-regjering-hvis-de-vinner-valget_-1.17833203",
+      "category": "Sverige",
+      "pubDate": "Wed, 01 Apr 2026 09:38:19 GMT"
+    },
+    {
+      "title": "Alazco rosiner trekkes fra markedet etter funn av plantevernmidler",
+      "link": "https://www.nrk.no/nyheter/alazco-rosiner-trekkes-fra-markedet-etter-funn-av-plantevernmidler-1.17833161",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 01 Apr 2026 09:30:10 GMT"
+    },
+    {
+      "title": "Barn alene hjemme under innbrudd",
+      "link": "https://www.nrk.no/stor-oslo/barn-alene-hjemme-under-innbrudd-1.17833065",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 01 Apr 2026 09:14:02 GMT"
+    },
+    {
+      "title": "Trump til Daily Telegraph: Vurderer sterkt å trekke USA ut av Nato",
+      "link": "https://www.nrk.no/nyheter/trump-til-daily-telegraph_-vurderer-sterkt-a-trekke-usa-ut-av-nato-1.17833105",
+      "category": "Donald Trump",
+      "pubDate": "Wed, 01 Apr 2026 09:08:05 GMT"
+    },
+    {
+      "title": "T-banen i gang igjen",
+      "link": "https://www.nrk.no/stor-oslo/t-banen-i-gang-igjen-1.17833066",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 01 Apr 2026 08:40:37 GMT"
+    },
     {
       "title": "Syv personer drept i angrep i Beirut",
       "link": "https://www.nrk.no/nyheter/syv-personer-drept-i-angrep-i-beirut-1.17833052",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 01 Apr 2026 08:38:02 GMT"
-    },
-    {
-      "title": "Høyere gjennomsnittspris på diesel etter avgiftskutt",
-      "link": "https://www.nrk.no/nyheter/hoyere-gjennomsnittspris-pa-diesel-etter-avgiftskutt-1.17833038",
-      "category": "Tiltak mot høye drivstoffpriser",
-      "pubDate": "Wed, 01 Apr 2026 08:06:48 GMT"
-    },
-    {
-      "title": "Kraftig fall i oljeaksjer etter håp om løsning på Iran-krigen",
-      "link": "https://www.nrk.no/nyheter/kraftig-fall-i-oljeaksjer-etter-hap-om-losning-pa-iran-krigen-1.17832945",
-      "category": "Oljeprisen",
-      "pubDate": "Wed, 01 Apr 2026 07:53:50 GMT"
-    },
-    {
-      "title": "Stor brann på Kuwait-flyplass etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/stor-brann-pa-kuwait-flyplass-etter-droneangrep-1.17832920",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 01 Apr 2026 06:36:56 GMT"
-    },
-    {
-      "title": "Asiatiske børser kraftig opp",
-      "link": "https://www.nrk.no/nyheter/asiatiske-borser-kraftig-opp-1.17832903",
-      "category": "Økonomi",
-      "pubDate": "Wed, 01 Apr 2026 05:57:59 GMT"
-    },
-    {
-      "title": "Brann i fritidsbåt slukket – person uskadd",
-      "link": "https://www.nrk.no/rogaland/brann-i-fritidsbat-slukket-_-person-uskadd-1.17832914",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 01 Apr 2026 05:51:53 GMT"
     }
   ]
 }
