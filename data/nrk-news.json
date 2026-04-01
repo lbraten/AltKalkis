@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-01T10:07:44.653Z",
+  "updatedAt": "2026-04-01T11:29:58.800Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge og Pakistan signerer ny klimaavtale",
+      "link": "https://www.nrk.no/nyheter/norge-og-pakistan-signerer-ny-klimaavtale-1.17833214",
+      "category": "Klima og miljø",
+      "pubDate": "Wed, 01 Apr 2026 11:25:49 GMT"
+    },
+    {
+      "title": "Person truet vektere med kniv på Skøyen – to skadet",
+      "link": "https://www.nrk.no/stor-oslo/person-truet-vektere-med-kniv-pa-skoyen-_-to-skadet-1.17833341",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 01 Apr 2026 11:05:13 GMT"
+    },
     {
       "title": "Moderaterne vil la Sverigedemokraterna bli med i regjering hvis de vinner valget",
       "link": "https://www.nrk.no/nyheter/moderaterne-vil-la-sverigedemokraterna-bli-med-i-regjering-hvis-de-vinner-valget_-1.17833203",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-til-daily-telegraph_-vurderer-sterkt-a-trekke-usa-ut-av-nato-1.17833105",
       "category": "Donald Trump",
       "pubDate": "Wed, 01 Apr 2026 09:08:05 GMT"
-    },
-    {
-      "title": "T-banen i gang igjen",
-      "link": "https://www.nrk.no/stor-oslo/t-banen-i-gang-igjen-1.17833066",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 01 Apr 2026 08:40:37 GMT"
-    },
-    {
-      "title": "Syv personer drept i angrep i Beirut",
-      "link": "https://www.nrk.no/nyheter/syv-personer-drept-i-angrep-i-beirut-1.17833052",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 01 Apr 2026 08:38:02 GMT"
     }
   ]
 }
