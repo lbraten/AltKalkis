@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-01T15:53:00.940Z",
+  "updatedAt": "2026-04-01T16:58:29.971Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eide i krisemøte om Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/eide-i-krisemote-om-hormuzstredet-1.17833637",
+      "category": "Krig og konflikt i Midtøsten",
+      "pubDate": "Wed, 01 Apr 2026 16:49:29 GMT"
+    },
+    {
+      "title": "Norge krever stans i Libanon",
+      "link": "https://www.nrk.no/nyheter/norge-krever-stans-i-libanon-1.17833628",
+      "category": "Libanon og Israel",
+      "pubDate": "Wed, 01 Apr 2026 16:17:42 GMT"
+    },
+    {
+      "title": "Hizbollah: Toppleder drept av Israel",
+      "link": "https://www.nrk.no/nyheter/hizbollah_-toppleder-drept-av-israel-1.17833609",
+      "category": "Libanon og Israel",
+      "pubDate": "Wed, 01 Apr 2026 16:07:43 GMT"
+    },
+    {
+      "title": "Brann i Hokksund - spredningsfare til boliger",
+      "link": "https://www.nrk.no/buskerud/brann-i-hokksund---spredningsfare-til-boliger-1.17833593",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Wed, 01 Apr 2026 16:06:58 GMT"
+    },
     {
       "title": "Ukraina: Stort russisk droneangrep",
       "link": "https://www.nrk.no/nyheter/ukraina_-stort-russisk-droneangrep-1.17833581",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/historisk-trump-besok-i-hoyesterett-1.17833558",
       "category": "USA",
       "pubDate": "Wed, 01 Apr 2026 14:49:43 GMT"
-    },
-    {
-      "title": "Iran: Trumps fredsuttalelser er falske",
-      "link": "https://www.nrk.no/nyheter/iran_-trumps-fredsuttalelser-er-falske-1.17833548",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 01 Apr 2026 14:25:01 GMT"
-    },
-    {
-      "title": "Libanon: 1300 drept i israelske angrep",
-      "link": "https://www.nrk.no/nyheter/libanon_-1300-drept-i-israelske-angrep-1.17833539",
-      "category": "Libanon og Israel",
-      "pubDate": "Wed, 01 Apr 2026 14:14:26 GMT"
-    },
-    {
-      "title": "Mann siktet for grov kroppsskade etter knivstikking",
-      "link": "https://www.nrk.no/stor-oslo/mann-siktet-for-grov-kroppsskade-etter-knivstikking-1.17833535",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 01 Apr 2026 14:08:38 GMT"
-    },
-    {
-      "title": "Én av fire hytteeiere kan betale for mye strøm",
-      "link": "https://www.nrk.no/sorlandet/en-av-fire-hytteeiere-kan-betale-for-mye-strom-1.17833530",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Wed, 01 Apr 2026 14:04:05 GMT"
     }
   ]
 }
