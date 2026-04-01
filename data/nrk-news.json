@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-01T19:11:39.224Z",
+  "updatedAt": "2026-04-01T20:07:20.627Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA fjerner sanksjoner mot Venezuelas fungerende president",
+      "link": "https://www.nrk.no/nyheter/usa-fjerner-sanksjoner-mot-venezuelas-fungerende-president-1.17833748",
+      "category": "Venezuela og USA",
+      "pubDate": "Wed, 01 Apr 2026 19:47:04 GMT"
+    },
+    {
+      "title": "Må ha hjelp ved Preikestolen",
+      "link": "https://www.nrk.no/rogaland/ma-ha-hjelp-ved-preikestolen-1.17833720",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 01 Apr 2026 19:35:52 GMT"
+    },
     {
       "title": "Irans president: – Vi hater ikke vanlige amerikanere",
       "link": "https://www.nrk.no/nyheter/irans-president_-_-vi-hater-ikke-vanlige-amerikanere-1.17833721",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eide-i-krisemote-om-hormuzstredet-1.17833637",
       "category": "Krig og konflikt i Midtøsten",
       "pubDate": "Wed, 01 Apr 2026 16:49:29 GMT"
-    },
-    {
-      "title": "Norge krever stans i Libanon",
-      "link": "https://www.nrk.no/nyheter/norge-krever-stans-i-libanon-1.17833628",
-      "category": "Libanon og Israel",
-      "pubDate": "Wed, 01 Apr 2026 16:17:42 GMT"
-    },
-    {
-      "title": "Hizbollah: Toppleder drept av Israel",
-      "link": "https://www.nrk.no/nyheter/hizbollah_-toppleder-drept-av-israel-1.17833609",
-      "category": "Libanon og Israel",
-      "pubDate": "Wed, 01 Apr 2026 16:07:43 GMT"
     }
   ]
 }
