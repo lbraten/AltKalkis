@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-01T05:26:56.698Z",
+  "updatedAt": "2026-04-01T07:00:50.805Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Stor brann på Kuwait-flyplass etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/stor-brann-pa-kuwait-flyplass-etter-droneangrep-1.17832920",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 01 Apr 2026 06:36:56 GMT"
+    },
+    {
+      "title": "Asiatiske børser kraftig opp",
+      "link": "https://www.nrk.no/nyheter/asiatiske-borser-kraftig-opp-1.17832903",
+      "category": "Økonomi",
+      "pubDate": "Wed, 01 Apr 2026 05:57:59 GMT"
+    },
+    {
+      "title": "Brann i fritidsbåt slukket – person uskadd",
+      "link": "https://www.nrk.no/rogaland/brann-i-fritidsbat-slukket-_-person-uskadd-1.17832914",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 01 Apr 2026 05:51:53 GMT"
+    },
+    {
+      "title": "Første gjengkriminelle utvist uten dom i Norge",
+      "link": "https://www.nrk.no/nyheter/forste-gjengkriminelle-utvist-uten-dom-i-norge-1.17832842",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 01 Apr 2026 05:35:23 GMT"
+    },
     {
       "title": "Bekymringsbrev fra kommuneoverlegene i Arendal",
       "link": "https://www.nrk.no/sorlandet/bekymringsbrev-fra-kommuneoverlegene-i-arendal-1.17832826",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/missil-fra-jemen-mot-israel-1.17832813",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 01 Apr 2026 03:47:47 GMT"
-    },
-    {
-      "title": "To menn varetektsfengslet for grove tyverier fra miljøstasjon",
-      "link": "https://www.nrk.no/innlandet/to-menn-varetektsfengslet-for-grove-tyverier-fra-miljostasjon-1.17832822",
-      "category": "Krim og hendelser i Innlandet",
-      "pubDate": "Wed, 01 Apr 2026 03:44:28 GMT"
-    },
-    {
-      "title": "Fraktet til sykehus i Oslo etter voldshendelse",
-      "link": "https://www.nrk.no/sorlandet/fraktet-til-sykehus-i-oslo-etter-voldshendelse-1.17832816",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Wed, 01 Apr 2026 03:36:42 GMT"
-    },
-    {
-      "title": "Nesten 5 millioner Harry Hole-visninger",
-      "link": "https://www.nrk.no/nyheter/nesten-5-millioner-harry-hole-visninger-1.17832787",
-      "category": "Strømmetjenester",
-      "pubDate": "Wed, 01 Apr 2026 03:31:15 GMT"
-    },
-    {
-      "title": "Nye luftangrep mot Teheran",
-      "link": "https://www.nrk.no/nyheter/nye-luftangrep-mot-teheran-1.17832786",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 01 Apr 2026 02:56:55 GMT"
     }
   ]
 }
