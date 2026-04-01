@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-01T14:11:03.886Z",
+  "updatedAt": "2026-04-01T15:53:00.940Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina: Stort russisk droneangrep",
+      "link": "https://www.nrk.no/nyheter/ukraina_-stort-russisk-droneangrep-1.17833581",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 01 Apr 2026 15:34:56 GMT"
+    },
+    {
+      "title": "Historisk Trump-besøk i Høyesterett",
+      "link": "https://www.nrk.no/nyheter/historisk-trump-besok-i-hoyesterett-1.17833558",
+      "category": "USA",
+      "pubDate": "Wed, 01 Apr 2026 14:49:43 GMT"
+    },
+    {
+      "title": "Iran: Trumps fredsuttalelser er falske",
+      "link": "https://www.nrk.no/nyheter/iran_-trumps-fredsuttalelser-er-falske-1.17833548",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 01 Apr 2026 14:25:01 GMT"
+    },
+    {
+      "title": "Libanon: 1300 drept i israelske angrep",
+      "link": "https://www.nrk.no/nyheter/libanon_-1300-drept-i-israelske-angrep-1.17833539",
+      "category": "Libanon og Israel",
+      "pubDate": "Wed, 01 Apr 2026 14:14:26 GMT"
+    },
+    {
+      "title": "Mann siktet for grov kroppsskade etter knivstikking",
+      "link": "https://www.nrk.no/stor-oslo/mann-siktet-for-grov-kroppsskade-etter-knivstikking-1.17833535",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 01 Apr 2026 14:08:38 GMT"
+    },
     {
       "title": "Én av fire hytteeiere kan betale for mye strøm",
       "link": "https://www.nrk.no/sorlandet/en-av-fire-hytteeiere-kan-betale-for-mye-strom-1.17833530",
       "category": "Nyheter fra Agder",
       "pubDate": "Wed, 01 Apr 2026 14:04:05 GMT"
-    },
-    {
-      "title": "Personopplysninger på avveier etter datainnbrudd hos Sats",
-      "link": "https://www.nrk.no/nyheter/personopplysninger-pa-avveier-etter-datainnbrudd-hos-sats-1.17833492",
-      "category": "Datasikkerhet",
-      "pubDate": "Wed, 01 Apr 2026 13:38:34 GMT"
-    },
-    {
-      "title": "Arkivsaken: Nasjonalarkivet og UD på nytt besøk hos Rød-Larsen",
-      "link": "https://www.nrk.no/nyheter/arkivsaken_-nasjonalarkivet-og-ud-pa-nytt-besok-hos-rod-larsen-1.17833464",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Wed, 01 Apr 2026 13:31:31 GMT"
-    },
-    {
-      "title": "E39 åpnet igjen etter at den var stengt i begge retninger",
-      "link": "https://www.nrk.no/rogaland/e39-apnet-igjen-etter-at-den-var-stengt-i-begge-retninger-1.17833494",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 01 Apr 2026 13:29:03 GMT"
-    },
-    {
-      "title": "Stor politiaksjon i Bergen sentrum",
-      "link": "https://www.nrk.no/vestland/stor-politiaksjon-i-bergen-sentrum-1.17833470",
-      "category": "Krim og hendingar i Vestland",
-      "pubDate": "Wed, 01 Apr 2026 13:07:45 GMT"
-    },
-    {
-      "title": "18 migranter funnet omkommet utenfor den italienske øya Lampedusa",
-      "link": "https://www.nrk.no/nyheter/18-migranter-funnet-omkommet-utenfor-den-italienske-oya-lampedusa-1.17833455",
-      "category": "Flyktninger i EU",
-      "pubDate": "Wed, 01 Apr 2026 12:57:24 GMT"
     }
   ]
 }
