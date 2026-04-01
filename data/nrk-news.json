@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-01T16:58:29.971Z",
+  "updatedAt": "2026-04-01T17:56:20.993Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran varsler «viktig brev» til det amerikanske folk",
+      "link": "https://www.nrk.no/nyheter/iran-varsler-_viktig-brev_-til-det-amerikanske-folk-1.17833677",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 01 Apr 2026 17:27:20 GMT"
+    },
+    {
+      "title": "Zelenskyj i positive samtaler USA og NATO",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-i-positive-samtaler-usa-og-nato-1.17833654",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 01 Apr 2026 17:14:31 GMT"
+    },
     {
       "title": "Eide i krisemøte om Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/eide-i-krisemote-om-hormuzstredet-1.17833637",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/buskerud/brann-i-hokksund---spredningsfare-til-boliger-1.17833593",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Wed, 01 Apr 2026 16:06:58 GMT"
-    },
-    {
-      "title": "Ukraina: Stort russisk droneangrep",
-      "link": "https://www.nrk.no/nyheter/ukraina_-stort-russisk-droneangrep-1.17833581",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 01 Apr 2026 15:34:56 GMT"
-    },
-    {
-      "title": "Historisk Trump-besøk i Høyesterett",
-      "link": "https://www.nrk.no/nyheter/historisk-trump-besok-i-hoyesterett-1.17833558",
-      "category": "USA",
-      "pubDate": "Wed, 01 Apr 2026 14:49:43 GMT"
     }
   ]
 }
