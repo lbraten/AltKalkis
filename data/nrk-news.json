@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-01T21:08:33.813Z",
+  "updatedAt": "2026-04-01T22:03:33.062Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Reuters: Iran krever våpenhvile-garanti for å avslutte krigen",
+      "link": "https://www.nrk.no/nyheter/reuters_-iran-krever-vapenhvile-garanti-for-a-avslutte-krigen-1.17833811",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 01 Apr 2026 21:52:52 GMT"
+    },
+    {
+      "title": "Mann hentet opp av elv i Rogaland",
+      "link": "https://www.nrk.no/nyheter/mann-hentet-opp-av-elv-i-rogaland-1.17833810",
+      "category": "Politi- og brannlogg (Rogaland)",
+      "pubDate": "Wed, 01 Apr 2026 21:29:04 GMT"
+    },
+    {
+      "title": "Natos generalsekretær skal møte Trump i USA",
+      "link": "https://www.nrk.no/nyheter/natos-generalsekretaer-skal-mote-trump-i-usa-1.17833809",
+      "category": "USA",
+      "pubDate": "Wed, 01 Apr 2026 21:26:43 GMT"
+    },
+    {
+      "title": "CNN: Feil på Artemis II skal være fikset",
+      "link": "https://www.nrk.no/nyheter/cnn_-feil-pa-artemis-ii-skal-vaere-fikset-1.17833804",
+      "category": "Nasa",
+      "pubDate": "Wed, 01 Apr 2026 21:14:35 GMT"
+    },
     {
       "title": "Artemis-ferden kan bli utsatt",
       "link": "https://www.nrk.no/nyheter/artemis-ferden-kan-bli-utsatt-1.17833799",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/wall-street-steg-onsdag-1.17833788",
       "category": "USAs økonomi",
       "pubDate": "Wed, 01 Apr 2026 20:37:58 GMT"
-    },
-    {
-      "title": "Politiet ber vitner ta kontakt etter knivstikking i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/politiet-ber-vitner-ta-kontakt-etter-knivstikking-i-oslo-1.17833697",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 01 Apr 2026 20:16:09 GMT"
-    },
-    {
-      "title": "USA fjerner sanksjoner mot Venezuelas fungerende president",
-      "link": "https://www.nrk.no/nyheter/usa-fjerner-sanksjoner-mot-venezuelas-fungerende-president-1.17833748",
-      "category": "Venezuela og USA",
-      "pubDate": "Wed, 01 Apr 2026 19:47:04 GMT"
-    },
-    {
-      "title": "Må ha hjelp ved Preikestolen",
-      "link": "https://www.nrk.no/rogaland/ma-ha-hjelp-ved-preikestolen-1.17833720",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 01 Apr 2026 19:35:52 GMT"
-    },
-    {
-      "title": "Irans president: – Vi hater ikke vanlige amerikanere",
-      "link": "https://www.nrk.no/nyheter/irans-president_-_-vi-hater-ikke-vanlige-amerikanere-1.17833721",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 01 Apr 2026 18:39:47 GMT"
     }
   ]
 }
