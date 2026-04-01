@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-01T22:03:33.062Z",
+  "updatedAt": "2026-04-01T23:05:50.108Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tsunamivarsel etter jordskjelv i Indonesia",
+      "link": "https://www.nrk.no/nyheter/tsunamivarsel-etter-jordskjelv-i-indonesia-1.17833820",
+      "category": "Jordskjelv i Asia",
+      "pubDate": "Wed, 01 Apr 2026 22:59:40 GMT"
+    },
     {
       "title": "Reuters: Iran krever våpenhvile-garanti for å avslutte krigen",
       "link": "https://www.nrk.no/nyheter/reuters_-iran-krever-vapenhvile-garanti-for-a-avslutte-krigen-1.17833811",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/artemis-ferden-kan-bli-utsatt-1.17833799",
       "category": "Nasa",
       "pubDate": "Wed, 01 Apr 2026 20:54:40 GMT"
-    },
-    {
-      "title": "Wall Street steg onsdag",
-      "link": "https://www.nrk.no/nyheter/wall-street-steg-onsdag-1.17833788",
-      "category": "USAs økonomi",
-      "pubDate": "Wed, 01 Apr 2026 20:37:58 GMT"
     }
   ]
 }
