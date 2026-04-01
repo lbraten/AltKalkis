@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-01T17:56:20.993Z",
+  "updatedAt": "2026-04-01T19:11:39.224Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Irans president: – Vi hater ikke vanlige amerikanere",
+      "link": "https://www.nrk.no/nyheter/irans-president_-_-vi-hater-ikke-vanlige-amerikanere-1.17833721",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 01 Apr 2026 18:39:47 GMT"
+    },
     {
       "title": "Iran varsler «viktig brev» til det amerikanske folk",
       "link": "https://www.nrk.no/nyheter/iran-varsler-_viktig-brev_-til-det-amerikanske-folk-1.17833677",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hizbollah_-toppleder-drept-av-israel-1.17833609",
       "category": "Libanon og Israel",
       "pubDate": "Wed, 01 Apr 2026 16:07:43 GMT"
-    },
-    {
-      "title": "Brann i Hokksund - spredningsfare til boliger",
-      "link": "https://www.nrk.no/buskerud/brann-i-hokksund---spredningsfare-til-boliger-1.17833593",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Wed, 01 Apr 2026 16:06:58 GMT"
     }
   ]
 }
