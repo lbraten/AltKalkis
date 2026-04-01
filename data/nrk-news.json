@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-01T07:00:50.805Z",
+  "updatedAt": "2026-04-01T08:45:17.893Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Syv personer drept i angrep i Beirut",
+      "link": "https://www.nrk.no/nyheter/syv-personer-drept-i-angrep-i-beirut-1.17833052",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 01 Apr 2026 08:38:02 GMT"
+    },
+    {
+      "title": "Høyere gjennomsnittspris på diesel etter avgiftskutt",
+      "link": "https://www.nrk.no/nyheter/hoyere-gjennomsnittspris-pa-diesel-etter-avgiftskutt-1.17833038",
+      "category": "Tiltak mot høye drivstoffpriser",
+      "pubDate": "Wed, 01 Apr 2026 08:06:48 GMT"
+    },
+    {
+      "title": "Kraftig fall i oljeaksjer etter håp om løsning på Iran-krigen",
+      "link": "https://www.nrk.no/nyheter/kraftig-fall-i-oljeaksjer-etter-hap-om-losning-pa-iran-krigen-1.17832945",
+      "category": "Oljeprisen",
+      "pubDate": "Wed, 01 Apr 2026 07:53:50 GMT"
+    },
     {
       "title": "Stor brann på Kuwait-flyplass etter droneangrep",
       "link": "https://www.nrk.no/nyheter/stor-brann-pa-kuwait-flyplass-etter-droneangrep-1.17832920",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/rogaland/brann-i-fritidsbat-slukket-_-person-uskadd-1.17832914",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Wed, 01 Apr 2026 05:51:53 GMT"
-    },
-    {
-      "title": "Første gjengkriminelle utvist uten dom i Norge",
-      "link": "https://www.nrk.no/nyheter/forste-gjengkriminelle-utvist-uten-dom-i-norge-1.17832842",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 01 Apr 2026 05:35:23 GMT"
-    },
-    {
-      "title": "Bekymringsbrev fra kommuneoverlegene i Arendal",
-      "link": "https://www.nrk.no/sorlandet/bekymringsbrev-fra-kommuneoverlegene-i-arendal-1.17832826",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Wed, 01 Apr 2026 03:58:31 GMT"
-    },
-    {
-      "title": "Missil fra Jemen mot Israel",
-      "link": "https://www.nrk.no/nyheter/missil-fra-jemen-mot-israel-1.17832813",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 01 Apr 2026 03:47:47 GMT"
     }
   ]
 }
