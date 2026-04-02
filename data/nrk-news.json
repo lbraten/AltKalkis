@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-02T06:48:43.520Z",
+  "updatedAt": "2026-04-02T08:07:48.731Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kina krever øyeblikkelig våpenhvile",
+      "link": "https://www.nrk.no/nyheter/kina-krever-oyeblikkelig-vapenhvile-1.17833909",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 07:52:36 GMT"
+    },
+    {
+      "title": "Glatt på Hardangervidda",
+      "link": "https://www.nrk.no/vestland/glatt-pa-hardangervidda-1.17833942",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 02 Apr 2026 07:49:12 GMT"
+    },
+    {
+      "title": "To personer sendt til sykehus etter voldshendelse",
+      "link": "https://www.nrk.no/tromsogfinnmark/to-personer-sendt-til-sykehus-etter-voldshendelse-1.17833920",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Thu, 02 Apr 2026 07:26:24 GMT"
+    },
     {
       "title": "Iran varsler knusende svar på Trumps trussel",
       "link": "https://www.nrk.no/nyheter/iran-varsler-knusende-svar-pa-trumps-trussel-1.17833905",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russland_-avverget-droneangrep-mot-oljeraffineri-1.17833856",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 02 Apr 2026 05:59:06 GMT"
-    },
-    {
-      "title": "Amerikansk oljeeksport på rekordnivå",
-      "link": "https://www.nrk.no/nyheter/amerikansk-oljeeksport-pa-rekordniva-1.17833853",
-      "category": "Oljeprisen",
-      "pubDate": "Thu, 02 Apr 2026 04:55:44 GMT"
-    },
-    {
-      "title": "FBI har ankommet Cuba for å etterforske båtskyting",
-      "link": "https://www.nrk.no/nyheter/fbi-har-ankommet-cuba-for-a-etterforske-batskyting-1.17833852",
-      "category": "Cuba",
-      "pubDate": "Thu, 02 Apr 2026 04:52:22 GMT"
-    },
-    {
-      "title": "Israel sier det kommer nye missiler fra Iran",
-      "link": "https://www.nrk.no/nyheter/israel-sier-det-kommer-nye-missiler-fra-iran-1.17833851",
-      "category": "Israel",
-      "pubDate": "Thu, 02 Apr 2026 04:30:39 GMT"
     }
   ]
 }
