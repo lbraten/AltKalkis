@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-04-02T16:02:09.706Z",
+  "updatedAt": "2026-04-02T17:24:18.989Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Politiet: Varsel om eksplosjon i bolig i Telemark – store materielle skader",
-      "link": "https://www.nrk.no/vestfoldogtelemark/politiet_-varsel-om-eksplosjon-i-bolig-i-telemark-_-store-materielle-skader-1.17834148",
+      "title": "Norge sist ut i Eurovision: – Dette er stort",
+      "link": "https://www.nrk.no/nyheter/norge-sist-ut-i-eurovision_-_-dette-er-stort-1.17834214",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Thu, 02 Apr 2026 17:21:19 GMT"
+    },
+    {
+      "title": "Fox: Trump skal ha sparket justisminister Pam Bondi",
+      "link": "https://www.nrk.no/nyheter/fox_-trump-skal-ha-sparket-justisminister-pam-bondi--1.17834210",
+      "category": "USA",
+      "pubDate": "Thu, 02 Apr 2026 17:02:55 GMT"
+    },
+    {
+      "title": "Trump: Krever avtale etter angrep",
+      "link": "https://www.nrk.no/nyheter/trump_-krever-avtale-etter-angrep-1.17834180",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 16:42:22 GMT"
+    },
+    {
+      "title": "Nekter straffskyld for drapet på ekskona",
+      "link": "https://www.nrk.no/buskerud/nekter-straffskyld-for-drapet-pa-ekskona-1.17834128",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Thu, 02 Apr 2026 16:36:26 GMT"
+    },
+    {
+      "title": "Eksplosjon i bolig i Telemark – store materielle skader",
+      "link": "https://www.nrk.no/vestfoldogtelemark/eksplosjon-i-bolig-i-telemark-_-store-materielle-skader-1.17834148",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Thu, 02 Apr 2026 15:37:55 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran_-angriper-amazon-i-bahrain-1.17834170",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 02 Apr 2026 15:30:14 GMT"
-    },
-    {
-      "title": "Eide i møte om Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/eide-i-mote-om-hormuzstredet-1.17834146",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 15:21:30 GMT"
-    },
-    {
-      "title": "Kvinne siktet for drapsforsøk i Troms",
-      "link": "https://www.nrk.no/nyheter/kvinne-siktet-for-drapsforsok-i-troms-1.17834145",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 02 Apr 2026 14:21:49 GMT"
-    },
-    {
-      "title": "FN advarer mot storkrig i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/fn-advarer-mot-storkrig-i-midtosten-1.17834130",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 14:19:59 GMT"
-    },
-    {
-      "title": "Russland setter ny dronerekord",
-      "link": "https://www.nrk.no/nyheter/russland-setter-ny-dronerekord-1.17834116",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 02 Apr 2026 13:54:02 GMT"
     }
   ]
 }
