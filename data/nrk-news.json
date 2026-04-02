@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-02T14:39:12.341Z",
+  "updatedAt": "2026-04-02T16:02:09.706Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Varsel om eksplosjon i bolig i Telemark – store materielle skader",
+      "link": "https://www.nrk.no/vestfoldogtelemark/politiet_-varsel-om-eksplosjon-i-bolig-i-telemark-_-store-materielle-skader-1.17834148",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 02 Apr 2026 15:37:55 GMT"
+    },
+    {
+      "title": "Iran: Angriper Amazon i Bahrain",
+      "link": "https://www.nrk.no/nyheter/iran_-angriper-amazon-i-bahrain-1.17834170",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 15:30:14 GMT"
+    },
+    {
+      "title": "Eide i møte om Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/eide-i-mote-om-hormuzstredet-1.17834146",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 15:21:30 GMT"
+    },
     {
       "title": "Kvinne siktet for drapsforsøk i Troms",
       "link": "https://www.nrk.no/nyheter/kvinne-siktet-for-drapsforsok-i-troms-1.17834145",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russland-setter-ny-dronerekord-1.17834116",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 02 Apr 2026 13:54:02 GMT"
-    },
-    {
-      "title": "Voldshendelse i bofellesskap – ansatt til sykehus",
-      "link": "https://www.nrk.no/rogaland/voldshendelse-i-bofellesskap-_-ansatt-til-sykehus-1.17833952",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Thu, 02 Apr 2026 13:35:51 GMT"
-    },
-    {
-      "title": "Iraks oljeinntekter stuper med 70 prosent",
-      "link": "https://www.nrk.no/nyheter/iraks-oljeinntekter-stuper-med-70-prosent-1.17834099",
-      "category": "Irak",
-      "pubDate": "Thu, 02 Apr 2026 13:29:21 GMT"
-    },
-    {
-      "title": "Kjent iransk aktivist fengslet",
-      "link": "https://www.nrk.no/nyheter/kjent-iransk-aktivist-fengslet-1.17834089",
-      "category": "Iran",
-      "pubDate": "Thu, 02 Apr 2026 13:09:28 GMT"
     }
   ]
 }
