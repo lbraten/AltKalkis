@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-02T21:02:21.160Z",
+  "updatedAt": "2026-04-02T22:01:38.118Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rv. 22 var stengt i Lillestrøm – vanskelige kjøreforhold",
+      "link": "https://www.nrk.no/nyheter/rv.-22-var-stengt-i-lillestrom-_-vanskelige-kjoreforhold-1.17834326",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 02 Apr 2026 21:15:21 GMT"
+    },
     {
       "title": "Artemis II har fått grønt lys til å fortsette mot månen",
       "link": "https://www.nrk.no/nyheter/artemis-ii-har-fatt-gront-lys-til-a-fortsette-mot-manen-1.17834323",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran_-angriper-amerikansk-selskap-i-dubai-1.17834308",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 02 Apr 2026 19:19:35 GMT"
-    },
-    {
-      "title": "Iran svarer Trump: – Vil ikke tvinge iranere til å overgi seg",
-      "link": "https://www.nrk.no/nyheter/iran-svarer-trump_-_-vil-ikke-tvinge-iranere-til-a-overgi-seg-1.17834281",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 19:13:50 GMT"
     }
   ]
 }
