@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-02T13:19:39.584Z",
+  "updatedAt": "2026-04-02T14:39:12.341Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kvinne siktet for drapsforsøk i Troms",
+      "link": "https://www.nrk.no/nyheter/kvinne-siktet-for-drapsforsok-i-troms-1.17834145",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Thu, 02 Apr 2026 14:21:49 GMT"
+    },
+    {
+      "title": "FN advarer mot storkrig i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/fn-advarer-mot-storkrig-i-midtosten-1.17834130",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 14:19:59 GMT"
+    },
+    {
+      "title": "Russland setter ny dronerekord",
+      "link": "https://www.nrk.no/nyheter/russland-setter-ny-dronerekord-1.17834116",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 02 Apr 2026 13:54:02 GMT"
+    },
+    {
+      "title": "Voldshendelse i bofellesskap – ansatt til sykehus",
+      "link": "https://www.nrk.no/rogaland/voldshendelse-i-bofellesskap-_-ansatt-til-sykehus-1.17833952",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Thu, 02 Apr 2026 13:35:51 GMT"
+    },
+    {
+      "title": "Iraks oljeinntekter stuper med 70 prosent",
+      "link": "https://www.nrk.no/nyheter/iraks-oljeinntekter-stuper-med-70-prosent-1.17834099",
+      "category": "Irak",
+      "pubDate": "Thu, 02 Apr 2026 13:29:21 GMT"
+    },
     {
       "title": "Kjent iransk aktivist fengslet",
       "link": "https://www.nrk.no/nyheter/kjent-iransk-aktivist-fengslet-1.17834089",
       "category": "Iran",
       "pubDate": "Thu, 02 Apr 2026 13:09:28 GMT"
-    },
-    {
-      "title": "Østerrike stenger luftrommet for USA",
-      "link": "https://www.nrk.no/nyheter/osterrike-stenger-luftrommet-for-usa-1.17834084",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 12:53:32 GMT"
-    },
-    {
-      "title": "Uganda: Fire barn drept av mann med machete i barnehage",
-      "link": "https://www.nrk.no/nyheter/uganda_-fire-barn-drept-av-mann-med-machete-i-barnehage--1.17834069",
-      "category": "Uganda",
-      "pubDate": "Thu, 02 Apr 2026 12:30:34 GMT"
-    },
-    {
-      "title": "Iran varsler angrep mot stålverk og aluminiumsfabrikker",
-      "link": "https://www.nrk.no/nyheter/iran-varsler-angrep-mot-stalverk-og-aluminiumsfabrikker-1.17834054",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 12:23:31 GMT"
-    },
-    {
-      "title": "Macron ber Trump slutte å motsi seg selv om Iran",
-      "link": "https://www.nrk.no/nyheter/macron-ber-trump-slutte-a-motsi-seg-selv-om-iran-1.17834047",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 12:04:52 GMT"
-    },
-    {
-      "title": "Russland vil hjelpe Egypt med forsyninger med korn",
-      "link": "https://www.nrk.no/nyheter/russland-vil-hjelpe-egypt-med-forsyninger-med-korn-1.17834037",
-      "category": "Russland",
-      "pubDate": "Thu, 02 Apr 2026 11:41:59 GMT"
     }
   ]
 }
