@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-02T17:24:18.989Z",
+  "updatedAt": "2026-04-02T18:08:48.190Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ti i fyllearresten etter rånefest i Strömstad",
+      "link": "https://www.nrk.no/ostfold/ti-i-fyllearresten-etter-ranefest-i-stromstad-1.17834112",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Thu, 02 Apr 2026 17:55:14 GMT"
+    },
+    {
+      "title": "Melding om kantret båt utenfor Leknes",
+      "link": "https://www.nrk.no/nordland/melding-om-kantret-bat-utenfor-leknes-1.17834242",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Thu, 02 Apr 2026 17:49:32 GMT"
+    },
+    {
+      "title": "Russland og Iran diskuterte Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/russland-og-iran-diskuterte-hormuzstredet-1.17834222",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 17:46:15 GMT"
+    },
     {
       "title": "Norge sist ut i Eurovision: – Dette er stort",
       "link": "https://www.nrk.no/nyheter/norge-sist-ut-i-eurovision_-_-dette-er-stort-1.17834214",
@@ -9,8 +27,8 @@
       "pubDate": "Thu, 02 Apr 2026 17:21:19 GMT"
     },
     {
-      "title": "Fox: Trump skal ha sparket justisminister Pam Bondi",
-      "link": "https://www.nrk.no/nyheter/fox_-trump-skal-ha-sparket-justisminister-pam-bondi--1.17834210",
+      "title": "Trump har sparket justisminister Pam Bondi",
+      "link": "https://www.nrk.no/nyheter/trump-har-sparket-justisminister-pam-bondi--1.17834210",
       "category": "USA",
       "pubDate": "Thu, 02 Apr 2026 17:02:55 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-krever-avtale-etter-angrep-1.17834180",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 02 Apr 2026 16:42:22 GMT"
-    },
-    {
-      "title": "Nekter straffskyld for drapet på ekskona",
-      "link": "https://www.nrk.no/buskerud/nekter-straffskyld-for-drapet-pa-ekskona-1.17834128",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Thu, 02 Apr 2026 16:36:26 GMT"
-    },
-    {
-      "title": "Eksplosjon i bolig i Telemark – store materielle skader",
-      "link": "https://www.nrk.no/vestfoldogtelemark/eksplosjon-i-bolig-i-telemark-_-store-materielle-skader-1.17834148",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 02 Apr 2026 15:37:55 GMT"
-    },
-    {
-      "title": "Iran: Angriper Amazon i Bahrain",
-      "link": "https://www.nrk.no/nyheter/iran_-angriper-amazon-i-bahrain-1.17834170",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 15:30:14 GMT"
     }
   ]
 }
