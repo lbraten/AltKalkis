@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-02T11:48:36.400Z",
+  "updatedAt": "2026-04-02T13:19:39.584Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kjent iransk aktivist fengslet",
+      "link": "https://www.nrk.no/nyheter/kjent-iransk-aktivist-fengslet-1.17834089",
+      "category": "Iran",
+      "pubDate": "Thu, 02 Apr 2026 13:09:28 GMT"
+    },
+    {
+      "title": "Østerrike stenger luftrommet for USA",
+      "link": "https://www.nrk.no/nyheter/osterrike-stenger-luftrommet-for-usa-1.17834084",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 12:53:32 GMT"
+    },
+    {
+      "title": "Uganda: Fire barn drept av mann med machete i barnehage",
+      "link": "https://www.nrk.no/nyheter/uganda_-fire-barn-drept-av-mann-med-machete-i-barnehage--1.17834069",
+      "category": "Uganda",
+      "pubDate": "Thu, 02 Apr 2026 12:30:34 GMT"
+    },
+    {
+      "title": "Iran varsler angrep mot stålverk og aluminiumsfabrikker",
+      "link": "https://www.nrk.no/nyheter/iran-varsler-angrep-mot-stalverk-og-aluminiumsfabrikker-1.17834054",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 12:23:31 GMT"
+    },
+    {
+      "title": "Macron ber Trump slutte å motsi seg selv om Iran",
+      "link": "https://www.nrk.no/nyheter/macron-ber-trump-slutte-a-motsi-seg-selv-om-iran-1.17834047",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 12:04:52 GMT"
+    },
     {
       "title": "Russland vil hjelpe Egypt med forsyninger med korn",
       "link": "https://www.nrk.no/nyheter/russland-vil-hjelpe-egypt-med-forsyninger-med-korn-1.17834037",
       "category": "Russland",
       "pubDate": "Thu, 02 Apr 2026 11:41:59 GMT"
-    },
-    {
-      "title": "Eldrebedrageri i Oslo: – Sier de skal sjekke vannlekkasje",
-      "link": "https://www.nrk.no/stor-oslo/eldrebedrageri-i-oslo_-_-sier-de-skal-sjekke-vannlekkasje-1.17834042",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 02 Apr 2026 11:29:52 GMT"
-    },
-    {
-      "title": "TV 2: Støre vil stille som statsministerkandidat i 2029",
-      "link": "https://www.nrk.no/nyheter/tv-2_-store-vil-stille-som-statsministerkandidat-i-2029-1.17834035",
-      "category": "Jonas Gahr Støre",
-      "pubDate": "Thu, 02 Apr 2026 11:12:05 GMT"
-    },
-    {
-      "title": "Mann skutt og drept i Sverige",
-      "link": "https://www.nrk.no/nyheter/mann-skutt-og-drept-i-sverige-1.17834033",
-      "category": "Voldsbølge i Sverige",
-      "pubDate": "Thu, 02 Apr 2026 11:08:06 GMT"
-    },
-    {
-      "title": "Putin vil ha slutt på konflikten i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/putin-vil-ha-slutt-pa-konflikten-i-midtosten-1.17834020",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 10:57:56 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Larvik – luftambulanse på vei",
-      "link": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-i-larvik-_-luftambulanse-pa-vei-1.17833980",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 02 Apr 2026 10:53:21 GMT"
     }
   ]
 }
