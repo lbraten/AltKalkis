@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-02T08:07:48.731Z",
+  "updatedAt": "2026-04-02T09:35:28.249Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nordmenn på plass i Strømstad",
+      "link": "https://www.nrk.no/nyheter/nordmenn-pa-plass-i-stromstad-1.17833999",
+      "category": "Sverige",
+      "pubDate": "Thu, 02 Apr 2026 09:30:44 GMT"
+    },
+    {
+      "title": "Irans helsedepartement: Angrep mot medisinsk senter",
+      "link": "https://www.nrk.no/nyheter/irans-helsedepartement_-angrep-mot-medisinsk-senter---1.17833965",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 08:19:36 GMT"
+    },
+    {
+      "title": "Nedgang på børsene i Asia og Europa etter Trumps tale",
+      "link": "https://www.nrk.no/nyheter/nedgang-pa-borsene-i-asia-og-europa-etter-trumps-tale-1.17833948",
+      "category": "Økonomi",
+      "pubDate": "Thu, 02 Apr 2026 08:12:05 GMT"
+    },
     {
       "title": "Kina krever øyeblikkelig våpenhvile",
       "link": "https://www.nrk.no/nyheter/kina-krever-oyeblikkelig-vapenhvile-1.17833909",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/to-personer-sendt-til-sykehus-etter-voldshendelse-1.17833920",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Thu, 02 Apr 2026 07:26:24 GMT"
-    },
-    {
-      "title": "Iran varsler knusende svar på Trumps trussel",
-      "link": "https://www.nrk.no/nyheter/iran-varsler-knusende-svar-pa-trumps-trussel-1.17833905",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 06:39:32 GMT"
-    },
-    {
-      "title": "Mental Helse endrer chat-funksjon etter overgrepssak",
-      "link": "https://www.nrk.no/nyheter/mental-helse-endrer-chat-funksjon-etter-overgrepssak-1.17833865",
-      "category": "Mental helse",
-      "pubDate": "Thu, 02 Apr 2026 06:33:56 GMT"
-    },
-    {
-      "title": "Russland: Avverget droneangrep mot oljeraffineri",
-      "link": "https://www.nrk.no/nyheter/russland_-avverget-droneangrep-mot-oljeraffineri-1.17833856",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 02 Apr 2026 05:59:06 GMT"
     }
   ]
 }
