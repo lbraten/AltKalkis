@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-02T22:01:38.118Z",
+  "updatedAt": "2026-04-02T22:59:51.103Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dubai avviser at Iran har angrepet amerikansk selskap i landet",
+      "link": "https://www.nrk.no/nyheter/dubai-avviser-at-iran-har-angrepet-amerikansk-selskap-i-landet-1.17834334",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 02 Apr 2026 22:57:36 GMT"
+    },
+    {
+      "title": "Svensk domstol: Elleveåring tok på seg drapsoppdrag",
+      "link": "https://www.nrk.no/nyheter/svensk-domstol_-ellevearing-tok-pa-seg-drapsoppdrag-1.17834333",
+      "category": "Voldsbølge i Sverige",
+      "pubDate": "Thu, 02 Apr 2026 22:35:08 GMT"
+    },
+    {
+      "title": "Politiet forbyr årlig samling for franske muslimer",
+      "link": "https://www.nrk.no/nyheter/politiet-forbyr-arlig-samling-for-franske-muslimer-1.17834332",
+      "category": "Frankrike",
+      "pubDate": "Thu, 02 Apr 2026 22:30:14 GMT"
+    },
+    {
+      "title": "Tyskland: Kastet paintball-granat inne i tog – flere skadet",
+      "link": "https://www.nrk.no/nyheter/tyskland_-kastet-paintball-granat-inne-i-tog-_-flere-skadet-1.17834331",
+      "category": "Tyskland",
+      "pubDate": "Thu, 02 Apr 2026 22:09:01 GMT"
+    },
     {
       "title": "Rv. 22 var stengt i Lillestrøm – vanskelige kjøreforhold",
       "link": "https://www.nrk.no/nyheter/rv.-22-var-stengt-i-lillestrom-_-vanskelige-kjoreforhold-1.17834326",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/artemis-ii-har-fatt-gront-lys-til-a-fortsette-mot-manen-1.17834323",
       "category": "Nasa",
       "pubDate": "Thu, 02 Apr 2026 21:02:00 GMT"
-    },
-    {
-      "title": "Kraftig røykutvikling i enebolig i Vestfossen – ingen skadd",
-      "link": "https://www.nrk.no/nyheter/kraftig-roykutvikling-i-enebolig-i-vestfossen-_-ingen-skadd-1.17834320",
-      "category": "Politi og hendelser i Buskerud",
-      "pubDate": "Thu, 02 Apr 2026 20:40:37 GMT"
-    },
-    {
-      "title": "USA: Hærsjefen bedt om å gå av",
-      "link": "https://www.nrk.no/nyheter/usa_-haersjefen-bedt-om-a-ga-av-1.17834316",
-      "category": "USA",
-      "pubDate": "Thu, 02 Apr 2026 20:31:35 GMT"
-    },
-    {
-      "title": "Trump med ny legemiddel-toll og endret metall-toll",
-      "link": "https://www.nrk.no/nyheter/trump-med-ny-legemiddel-toll-og-endret-metall-toll-1.17834314",
-      "category": "Handelsavtaler og toll",
-      "pubDate": "Thu, 02 Apr 2026 19:58:18 GMT"
-    },
-    {
-      "title": "Iran: Angriper amerikansk selskap i Dubai",
-      "link": "https://www.nrk.no/nyheter/iran_-angriper-amerikansk-selskap-i-dubai-1.17834308",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 19:19:35 GMT"
     }
   ]
 }
