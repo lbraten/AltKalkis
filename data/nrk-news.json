@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-02T19:29:22.948Z",
+  "updatedAt": "2026-04-02T20:03:30.761Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump med ny legemiddel-toll og endret metall-toll",
+      "link": "https://www.nrk.no/nyheter/trump-med-ny-legemiddel-toll-og-endret-metall-toll-1.17834314",
+      "category": "Handelsavtaler og toll",
+      "pubDate": "Thu, 02 Apr 2026 19:58:18 GMT"
+    },
     {
       "title": "Iran: Angriper amerikansk selskap i Dubai",
       "link": "https://www.nrk.no/nyheter/iran_-angriper-amerikansk-selskap-i-dubai-1.17834308",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vil-utvide-eus-marineoppdrag-i-midtosten-1.17834265",
       "category": "Europeisk økonomi",
       "pubDate": "Thu, 02 Apr 2026 18:22:55 GMT"
-    },
-    {
-      "title": "Slår alarm om situasjonen i Libanon",
-      "link": "https://www.nrk.no/nyheter/slar-alarm-om-situasjonen-i-libanon-1.17834245",
-      "category": "Libanon og Israel",
-      "pubDate": "Thu, 02 Apr 2026 18:08:18 GMT"
     }
   ]
 }
