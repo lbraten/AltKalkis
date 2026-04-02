@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-02T09:35:28.249Z",
+  "updatedAt": "2026-04-02T10:53:07.859Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran lover sikker passasje for olje til Filippinene",
+      "link": "https://www.nrk.no/nyheter/iran-lover-sikker-passasje-for-olje-til-filippinene-1.17834006",
+      "category": "Filippinene",
+      "pubDate": "Thu, 02 Apr 2026 10:29:13 GMT"
+    },
+    {
+      "title": "Tolvåring oppfordret til terror – dømt i Nederland",
+      "link": "https://www.nrk.no/nyheter/tolvaring-oppfordret-til-terror-_-domt-i-nederland-1.17833969",
+      "category": "Nederland",
+      "pubDate": "Thu, 02 Apr 2026 09:34:56 GMT"
+    },
     {
       "title": "Nordmenn på plass i Strømstad",
       "link": "https://www.nrk.no/nyheter/nordmenn-pa-plass-i-stromstad-1.17833999",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kina-krever-oyeblikkelig-vapenhvile-1.17833909",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 02 Apr 2026 07:52:36 GMT"
-    },
-    {
-      "title": "Glatt på Hardangervidda",
-      "link": "https://www.nrk.no/vestland/glatt-pa-hardangervidda-1.17833942",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 02 Apr 2026 07:49:12 GMT"
-    },
-    {
-      "title": "To personer sendt til sykehus etter voldshendelse",
-      "link": "https://www.nrk.no/tromsogfinnmark/to-personer-sendt-til-sykehus-etter-voldshendelse-1.17833920",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 02 Apr 2026 07:26:24 GMT"
     }
   ]
 }
