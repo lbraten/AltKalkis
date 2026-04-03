@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-03T10:10:23.037Z",
+  "updatedAt": "2026-04-03T11:10:58.291Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyj: Russland har trappet opp angrepene i påsken",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-russland-har-trappet-opp-angrepene-i-pasken--1.17834518",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 03 Apr 2026 11:03:38 GMT"
+    },
+    {
+      "title": "Brann i Bergen fengsel",
+      "link": "https://www.nrk.no/vestland/brann-i-bergen-fengsel-1.17834463",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 03 Apr 2026 10:56:29 GMT"
+    },
+    {
+      "title": "Rødt farevarsel om ekstremt kraftige vindkast på Sørvestlandet søndag",
+      "link": "https://www.nrk.no/nyheter/rodt-farevarsel-om-ekstremt-kraftige-vindkast-pa-sorvestlandet-sondag-1.17834473",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 03 Apr 2026 10:32:56 GMT"
+    },
     {
       "title": "Zelenskyj: Situasjonen ved frontlinjen er den beste på ti måneder",
       "link": "https://www.nrk.no/nyheter/zelenskyj_-situasjonen-ved-frontlinjen-er-den-beste-pa-ti-maneder-1.17834462",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/buss-har-veltet-i-oslo---ligger-i-en-skraning-1.17834369",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 03 Apr 2026 07:13:18 GMT"
-    },
-    {
-      "title": "Myanmars kuppgeneral valgt til president",
-      "link": "https://www.nrk.no/nyheter/myanmars-kuppgeneral-valgt-til-president-1.17834348",
-      "category": "Myanmar",
-      "pubDate": "Fri, 03 Apr 2026 06:45:57 GMT"
-    },
-    {
-      "title": "Kvinne pågrepet etter vold i Skien",
-      "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-vold-i-skien-1.17834346",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 03 Apr 2026 04:28:47 GMT"
-    },
-    {
-      "title": "Politibetjent må ut med 14.000 kroner etter kollisjon under utrykning",
-      "link": "https://www.nrk.no/nyheter/-politibetjent-ma-ut-med-14.000-kroner-etter-kollisjon-under-utrykning-1.17834345",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 03 Apr 2026 04:13:22 GMT"
     }
   ]
 }
