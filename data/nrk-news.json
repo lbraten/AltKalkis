@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-03T17:36:15.304Z",
+  "updatedAt": "2026-04-03T18:51:57.049Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mímir Kristjánsson sendte truende meldinger til privatperson",
+      "link": "https://www.nrk.no/nyheter/mimir-kristjansson-sendte-truende-meldinger-til-privatperson-1.17834687",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 03 Apr 2026 18:28:47 GMT"
+    },
     {
       "title": "Mann døydde etter arbeidsulykke på Stord",
       "link": "https://www.nrk.no/vestland/mann-doydde-etter-arbeidsulykke-pa-stord-1.17834682",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/medier_-amerikansk-jagerfly-skutt-ned-i-iran-1.17834584",
       "category": "Forholdet Iran – USA",
       "pubDate": "Fri, 03 Apr 2026 14:06:55 GMT"
-    },
-    {
-      "title": "Trump vil øke forsvarsbudsjettet med 50 prosent",
-      "link": "https://www.nrk.no/nyheter/trump-vil-oke-forsvarsbudsjettet-med-50-prosent-1.17834579",
-      "category": "USA",
-      "pubDate": "Fri, 03 Apr 2026 13:15:28 GMT"
     }
   ]
 }
