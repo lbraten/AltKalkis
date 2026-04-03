@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-03T12:00:30.052Z",
+  "updatedAt": "2026-04-03T13:42:08.347Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump vil øke forsvarsbudsjettet med 50 prosent",
+      "link": "https://www.nrk.no/nyheter/trump-vil-oke-forsvarsbudsjettet-med-50-prosent-1.17834579",
+      "category": "USA",
+      "pubDate": "Fri, 03 Apr 2026 13:15:28 GMT"
+    },
+    {
+      "title": "Alvorleg skadd i arbeidsulykke på Stord",
+      "link": "https://www.nrk.no/vestland/alvorleg-skadd-i-arbeidsulykke-pa-stord-1.17834568",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 03 Apr 2026 12:40:18 GMT"
+    },
     {
       "title": "Person funnet død i vannet",
       "link": "https://www.nrk.no/vestfoldogtelemark/person-funnet-dod-i-vannet-1.17834537",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rodt-farevarsel-om-ekstremt-kraftige-vindkast-pa-sorvestlandet-sondag-1.17834473",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 03 Apr 2026 10:32:56 GMT"
-    },
-    {
-      "title": "Zelenskyj: Situasjonen ved frontlinjen er den beste på ti måneder",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-situasjonen-ved-frontlinjen-er-den-beste-pa-ti-maneder-1.17834462",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 03 Apr 2026 09:10:25 GMT"
-    },
-    {
-      "title": "Massivt droneangrep i Kyiv",
-      "link": "https://www.nrk.no/nyheter/massivt-droneangrep-i-kyiv-1.17834392",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 03 Apr 2026 09:00:19 GMT"
     }
   ]
 }
