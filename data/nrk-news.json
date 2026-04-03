@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-03T18:51:57.049Z",
+  "updatedAt": "2026-04-03T19:39:29.279Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "NYT: Nok et amerikansk jagerfly styrtet i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/nyt_-nok-et-amerikansk-jagerfly-styrtet-i-persiabukta-1.17834722",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Fri, 03 Apr 2026 18:58:49 GMT"
+    },
     {
       "title": "Mímir Kristjánsson sendte truende meldinger til privatperson",
       "link": "https://www.nrk.no/nyheter/mimir-kristjansson-sendte-truende-meldinger-til-privatperson-1.17834687",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/innlandet/redningsaksjon-i-skjak-1.17834622",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Fri, 03 Apr 2026 15:30:13 GMT"
-    },
-    {
-      "title": "Medier: Amerikansk jagerfly skutt ned i Iran",
-      "link": "https://www.nrk.no/nyheter/medier_-amerikansk-jagerfly-skutt-ned-i-iran-1.17834584",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Fri, 03 Apr 2026 14:06:55 GMT"
     }
   ]
 }
