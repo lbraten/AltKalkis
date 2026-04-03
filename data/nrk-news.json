@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-03T21:36:22.580Z",
+  "updatedAt": "2026-04-03T22:36:32.133Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Strømbrudd i russiskkontrollerte deler av Zaporizjzja etter ukrainsk angrep",
+      "link": "https://www.nrk.no/nyheter/strombrudd-i-russiskkontrollerte-deler-av-zaporizjzja-etter-ukrainsk-angrep-1.17834761",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 03 Apr 2026 22:28:38 GMT"
+    },
+    {
+      "title": "Tre menn siktet etter angrep mot jødiske ambulanser i London",
+      "link": "https://www.nrk.no/nyheter/tre-menn-siktet-etter-angrep-mot-jodiske-ambulanser-i-london-1.17834759",
+      "category": "Storbritannia",
+      "pubDate": "Fri, 03 Apr 2026 22:06:43 GMT"
+    },
+    {
+      "title": "Familie på fire gjort rede for - ble satt i gang leteaksjon",
+      "link": "https://www.nrk.no/nyheter/familie-pa-fire-gjort-rede-for---ble-satt-i-gang-leteaksjon-1.17834757",
+      "category": "high",
+      "pubDate": "Fri, 03 Apr 2026 21:39:01 GMT"
+    },
     {
       "title": "WSJ: Forsøk på forhandlinger mellom Iran og USA har gått i stå",
       "link": "https://www.nrk.no/nyheter/wsj_-forsok-pa-forhandlinger-mellom-iran-og-usa-har-gatt-i-sta-1.17834750",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trafikkulykke-i-bergen-_-store-materielle-skader-1.17834747",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Fri, 03 Apr 2026 20:20:10 GMT"
-    },
-    {
-      "title": "Trump avviser at nedskyting av jagerfly påvirker Iran-forhandlinger",
-      "link": "https://www.nrk.no/nyheter/trump-avviser-at-nedskyting-av-jagerfly-pavirker-iran-forhandlinger-1.17834728",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Fri, 03 Apr 2026 19:57:28 GMT"
-    },
-    {
-      "title": "NYT: Nok et amerikansk jagerfly styrtet i Persiabukta",
-      "link": "https://www.nrk.no/nyheter/nyt_-nok-et-amerikansk-jagerfly-styrtet-i-persiabukta-1.17834722",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Fri, 03 Apr 2026 18:58:49 GMT"
-    },
-    {
-      "title": "Mímir Kristjánsson sendte truende meldinger til privatperson",
-      "link": "https://www.nrk.no/nyheter/mimir-kristjansson-sendte-truende-meldinger-til-privatperson-1.17834687",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 03 Apr 2026 18:28:47 GMT"
     }
   ]
 }
