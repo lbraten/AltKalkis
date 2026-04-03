@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-03T02:35:13.931Z",
+  "updatedAt": "2026-04-03T05:06:49.357Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kvinne pågrepet etter vold i Skien",
+      "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-vold-i-skien-1.17834346",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 03 Apr 2026 04:28:47 GMT"
+    },
+    {
+      "title": "Politibetjent må ut med 14.000 kroner etter kollisjon under utrykning",
+      "link": "https://www.nrk.no/nyheter/-politibetjent-ma-ut-med-14.000-kroner-etter-kollisjon-under-utrykning-1.17834345",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 03 Apr 2026 04:13:22 GMT"
+    },
+    {
+      "title": "CNN: Iran har fortsatt stor rakett- og dronekapasitet",
+      "link": "https://www.nrk.no/nyheter/cnn_-iran-har-fortsatt-stor-rakett--og-dronekapasitet-1.17834344",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 03 Apr 2026 04:02:42 GMT"
+    },
+    {
+      "title": "Trump: Bruer og kraftstasjoner i Iran skal bombes",
+      "link": "https://www.nrk.no/nyheter/trump_-bruer-og-kraftstasjoner-i-iran-skal-bombes-1.17834343",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 03 Apr 2026 03:25:56 GMT"
+    },
+    {
+      "title": "Stort angrep mot Kharkiv - minst to såret",
+      "link": "https://www.nrk.no/nyheter/stort-angrep-mot-kharkiv---minst-to-saret-1.17834342",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 03 Apr 2026 02:45:42 GMT"
+    },
     {
       "title": "The Atlantic: FBI-sjef Patel kan bli den neste som får sparken av Trump",
       "link": "https://www.nrk.no/nyheter/the-atlantic_-fbi-sjef-patel-kan-bli-den-neste-som-far-sparken-av-trump-1.17834341",
       "category": "USA",
       "pubDate": "Fri, 03 Apr 2026 01:13:37 GMT"
-    },
-    {
-      "title": "Flere angrep i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/flere-angrep-i-midtosten-1.17834340",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 03 Apr 2026 01:05:40 GMT"
-    },
-    {
-      "title": "Cuba skal benåde 2000 innsatte",
-      "link": "https://www.nrk.no/nyheter/cuba-skal-benade-2000-innsatte-1.17834339",
-      "category": "Cuba",
-      "pubDate": "Fri, 03 Apr 2026 00:34:08 GMT"
-    },
-    {
-      "title": "Hardt skadd i voldshendelse i Trysil",
-      "link": "https://www.nrk.no/nyheter/hardt-skadd-i-voldshendelse-i-trysil-1.17834337",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Fri, 03 Apr 2026 00:22:09 GMT"
-    },
-    {
-      "title": "Ny milepæl nådd for Artemis II",
-      "link": "https://www.nrk.no/nyheter/ny-milepael-nadd-for-artemis-ii-1.17834336",
-      "category": "Nasa",
-      "pubDate": "Fri, 03 Apr 2026 00:00:03 GMT"
-    },
-    {
-      "title": "Bil i veggen i Operatunnelen i Oslo",
-      "link": "https://www.nrk.no/nyheter/bil-i-veggen-i-operatunnelen-i-oslo-1.17834335",
-      "category": "Trafikk i Stor-Oslo",
-      "pubDate": "Thu, 02 Apr 2026 23:53:18 GMT"
     }
   ]
 }
