@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-03T11:10:58.291Z",
+  "updatedAt": "2026-04-03T12:00:30.052Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person funnet død i vannet",
+      "link": "https://www.nrk.no/vestfoldogtelemark/person-funnet-dod-i-vannet-1.17834537",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 03 Apr 2026 11:25:03 GMT"
+    },
     {
       "title": "Zelenskyj: Russland har trappet opp angrepene i påsken",
       "link": "https://www.nrk.no/nyheter/zelenskyj_-russland-har-trappet-opp-angrepene-i-pasken--1.17834518",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/massivt-droneangrep-i-kyiv-1.17834392",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 03 Apr 2026 09:00:19 GMT"
-    },
-    {
-      "title": "Buss har veltet i Oslo - ligger i en skråning",
-      "link": "https://www.nrk.no/stor-oslo/buss-har-veltet-i-oslo---ligger-i-en-skraning-1.17834369",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 03 Apr 2026 07:13:18 GMT"
     }
   ]
 }
