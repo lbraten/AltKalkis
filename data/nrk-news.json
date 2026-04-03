@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-03T20:39:42.834Z",
+  "updatedAt": "2026-04-03T21:36:22.580Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "WSJ: Forsøk på forhandlinger mellom Iran og USA har gått i stå",
+      "link": "https://www.nrk.no/nyheter/wsj_-forsok-pa-forhandlinger-mellom-iran-og-usa-har-gatt-i-sta-1.17834750",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 03 Apr 2026 21:16:25 GMT"
+    },
     {
       "title": "E6 stengt i Namsskogan i Trøndelag",
       "link": "https://www.nrk.no/nyheter/e6-stengt-i-namsskogan-i-trondelag--1.17834749",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mimir-kristjansson-sendte-truende-meldinger-til-privatperson-1.17834687",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 03 Apr 2026 18:28:47 GMT"
-    },
-    {
-      "title": "Mann døydde etter arbeidsulykke på Stord",
-      "link": "https://www.nrk.no/vestland/mann-doydde-etter-arbeidsulykke-pa-stord-1.17834682",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 03 Apr 2026 16:36:32 GMT"
     }
   ]
 }
