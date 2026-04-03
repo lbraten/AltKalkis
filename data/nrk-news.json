@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-03T19:39:29.279Z",
+  "updatedAt": "2026-04-03T20:39:42.834Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "E6 stengt i Namsskogan i Trøndelag",
+      "link": "https://www.nrk.no/nyheter/e6-stengt-i-namsskogan-i-trondelag--1.17834749",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 03 Apr 2026 20:34:50 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Bergen – store materielle skader",
+      "link": "https://www.nrk.no/nyheter/trafikkulykke-i-bergen-_-store-materielle-skader-1.17834747",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 03 Apr 2026 20:20:10 GMT"
+    },
+    {
+      "title": "Trump avviser at nedskyting av jagerfly påvirker Iran-forhandlinger",
+      "link": "https://www.nrk.no/nyheter/trump-avviser-at-nedskyting-av-jagerfly-pavirker-iran-forhandlinger-1.17834728",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Fri, 03 Apr 2026 19:57:28 GMT"
+    },
     {
       "title": "NYT: Nok et amerikansk jagerfly styrtet i Persiabukta",
       "link": "https://www.nrk.no/nyheter/nyt_-nok-et-amerikansk-jagerfly-styrtet-i-persiabukta-1.17834722",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/mann-doydde-etter-arbeidsulykke-pa-stord-1.17834682",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Fri, 03 Apr 2026 16:36:32 GMT"
-    },
-    {
-      "title": "Knivstikkingen på Skøyen: Varetektsfengslet i fire uker",
-      "link": "https://www.nrk.no/stor-oslo/knivstikkingen-pa-skoyen_-varetektsfengslet-i-fire-uker--1.17834630",
-      "category": "Oslo politidistrikt",
-      "pubDate": "Fri, 03 Apr 2026 16:01:19 GMT"
-    },
-    {
-      "title": "CBS: Én reddet etter at amerikansk jagerfly ble skutt ned",
-      "link": "https://www.nrk.no/nyheter/cbs_-en-reddet-etter-at-amerikansk-jagerfly-ble-skutt-ned-1.17834611",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 03 Apr 2026 15:56:08 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Skjåk",
-      "link": "https://www.nrk.no/innlandet/redningsaksjon-i-skjak-1.17834622",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 03 Apr 2026 15:30:13 GMT"
     }
   ]
 }
