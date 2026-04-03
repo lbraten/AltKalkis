@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-03T06:45:55.743Z",
+  "updatedAt": "2026-04-03T08:02:49.658Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Buss har veltet i Oslo - ligger opp ned",
+      "link": "https://www.nrk.no/stor-oslo/buss-har-veltet-i-oslo---ligger-opp-ned-1.17834369",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 03 Apr 2026 07:13:18 GMT"
+    },
+    {
+      "title": "Myanmars kuppgeneral valgt til president",
+      "link": "https://www.nrk.no/nyheter/myanmars-kuppgeneral-valgt-til-president-1.17834348",
+      "category": "Myanmar",
+      "pubDate": "Fri, 03 Apr 2026 06:45:57 GMT"
+    },
     {
       "title": "Kvinne pågrepet etter vold i Skien",
       "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-vold-i-skien-1.17834346",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-bruer-og-kraftstasjoner-i-iran-skal-bombes-1.17834343",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 03 Apr 2026 03:25:56 GMT"
-    },
-    {
-      "title": "Stort angrep mot Kharkiv - minst to såret",
-      "link": "https://www.nrk.no/nyheter/stort-angrep-mot-kharkiv---minst-to-saret-1.17834342",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 03 Apr 2026 02:45:42 GMT"
-    },
-    {
-      "title": "The Atlantic: FBI-sjef Patel kan bli den neste som får sparken av Trump",
-      "link": "https://www.nrk.no/nyheter/the-atlantic_-fbi-sjef-patel-kan-bli-den-neste-som-far-sparken-av-trump-1.17834341",
-      "category": "USA",
-      "pubDate": "Fri, 03 Apr 2026 01:13:37 GMT"
     }
   ]
 }
