@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-02T23:46:51.324Z",
+  "updatedAt": "2026-04-03T02:35:13.931Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Dubai avviser at Iran har angrepet amerikansk selskap i landet",
-      "link": "https://www.nrk.no/nyheter/dubai-avviser-at-iran-har-angrepet-amerikansk-selskap-i-landet-1.17834334",
+      "title": "The Atlantic: FBI-sjef Patel kan bli den neste som får sparken av Trump",
+      "link": "https://www.nrk.no/nyheter/the-atlantic_-fbi-sjef-patel-kan-bli-den-neste-som-far-sparken-av-trump-1.17834341",
+      "category": "USA",
+      "pubDate": "Fri, 03 Apr 2026 01:13:37 GMT"
+    },
+    {
+      "title": "Flere angrep i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/flere-angrep-i-midtosten-1.17834340",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 02 Apr 2026 22:57:36 GMT"
+      "pubDate": "Fri, 03 Apr 2026 01:05:40 GMT"
     },
     {
-      "title": "Svensk domstol: Elleveåring tok på seg drapsoppdrag",
-      "link": "https://www.nrk.no/nyheter/svensk-domstol_-ellevearing-tok-pa-seg-drapsoppdrag-1.17834333",
-      "category": "Voldsbølge i Sverige",
-      "pubDate": "Thu, 02 Apr 2026 22:35:08 GMT"
+      "title": "Cuba skal benåde 2000 innsatte",
+      "link": "https://www.nrk.no/nyheter/cuba-skal-benade-2000-innsatte-1.17834339",
+      "category": "Cuba",
+      "pubDate": "Fri, 03 Apr 2026 00:34:08 GMT"
     },
     {
-      "title": "Politiet forbyr årlig samling for franske muslimer",
-      "link": "https://www.nrk.no/nyheter/politiet-forbyr-arlig-samling-for-franske-muslimer-1.17834332",
-      "category": "Frankrike",
-      "pubDate": "Thu, 02 Apr 2026 22:30:14 GMT"
+      "title": "Hardt skadd i voldshendelse i Trysil",
+      "link": "https://www.nrk.no/nyheter/hardt-skadd-i-voldshendelse-i-trysil-1.17834337",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Fri, 03 Apr 2026 00:22:09 GMT"
     },
     {
-      "title": "Tyskland: Kastet paintball-granat inne i tog – flere skadet",
-      "link": "https://www.nrk.no/nyheter/tyskland_-kastet-paintball-granat-inne-i-tog-_-flere-skadet-1.17834331",
-      "category": "Tyskland",
-      "pubDate": "Thu, 02 Apr 2026 22:09:01 GMT"
-    },
-    {
-      "title": "Rv. 22 var stengt i Lillestrøm – vanskelige kjøreforhold",
-      "link": "https://www.nrk.no/nyheter/rv.-22-var-stengt-i-lillestrom-_-vanskelige-kjoreforhold-1.17834326",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 02 Apr 2026 21:15:21 GMT"
-    },
-    {
-      "title": "Artemis II har fått grønt lys til å fortsette mot månen",
-      "link": "https://www.nrk.no/nyheter/artemis-ii-har-fatt-gront-lys-til-a-fortsette-mot-manen-1.17834323",
+      "title": "Ny milepæl nådd for Artemis II",
+      "link": "https://www.nrk.no/nyheter/ny-milepael-nadd-for-artemis-ii-1.17834336",
       "category": "Nasa",
-      "pubDate": "Thu, 02 Apr 2026 21:02:00 GMT"
+      "pubDate": "Fri, 03 Apr 2026 00:00:03 GMT"
+    },
+    {
+      "title": "Bil i veggen i Operatunnelen i Oslo",
+      "link": "https://www.nrk.no/nyheter/bil-i-veggen-i-operatunnelen-i-oslo-1.17834335",
+      "category": "Trafikk i Stor-Oslo",
+      "pubDate": "Thu, 02 Apr 2026 23:53:18 GMT"
     }
   ]
 }
