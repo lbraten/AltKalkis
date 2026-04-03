@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-03T22:36:32.133Z",
+  "updatedAt": "2026-04-03T23:36:43.192Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sterk jobbvekst i USA gir Trump et løft",
+      "link": "https://www.nrk.no/nyheter/sterk-jobbvekst-i-usa-gir-trump-et-loft-1.17834765",
+      "category": "USAs økonomi",
+      "pubDate": "Fri, 03 Apr 2026 23:17:57 GMT"
+    },
+    {
+      "title": "Bil i grøfta i Indre Østfold – kommer seg ikke ut av bilen",
+      "link": "https://www.nrk.no/nyheter/bil-i-grofta-i-indre-ostfold-_-kommer-seg-ikke-ut-av-bilen-1.17834764",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Fri, 03 Apr 2026 23:16:56 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Agder – kom seg ikke ut av bilen",
+      "link": "https://www.nrk.no/nyheter/trafikkulykke-i-agder-_-kom-seg-ikke-ut-av-bilen-1.17834763",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 03 Apr 2026 23:01:35 GMT"
+    },
     {
       "title": "Strømbrudd i russiskkontrollerte deler av Zaporizjzja etter ukrainsk angrep",
       "link": "https://www.nrk.no/nyheter/strombrudd-i-russiskkontrollerte-deler-av-zaporizjzja-etter-ukrainsk-angrep-1.17834761",
@@ -15,28 +33,10 @@
       "pubDate": "Fri, 03 Apr 2026 22:06:43 GMT"
     },
     {
-      "title": "Familie på fire gjort rede for - ble satt i gang leteaksjon",
-      "link": "https://www.nrk.no/nyheter/familie-pa-fire-gjort-rede-for---ble-satt-i-gang-leteaksjon-1.17834757",
+      "title": "Familie på fire gjort rede for – ble satt i gang leteaksjon",
+      "link": "https://www.nrk.no/nyheter/familie-pa-fire-gjort-rede-for-_-ble-satt-i-gang-leteaksjon-1.17834757",
       "category": "high",
       "pubDate": "Fri, 03 Apr 2026 21:39:01 GMT"
-    },
-    {
-      "title": "WSJ: Forsøk på forhandlinger mellom Iran og USA har gått i stå",
-      "link": "https://www.nrk.no/nyheter/wsj_-forsok-pa-forhandlinger-mellom-iran-og-usa-har-gatt-i-sta-1.17834750",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 03 Apr 2026 21:16:25 GMT"
-    },
-    {
-      "title": "E6 stengt i Namsskogan i Trøndelag",
-      "link": "https://www.nrk.no/nyheter/e6-stengt-i-namsskogan-i-trondelag--1.17834749",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 03 Apr 2026 20:34:50 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Bergen – store materielle skader",
-      "link": "https://www.nrk.no/nyheter/trafikkulykke-i-bergen-_-store-materielle-skader-1.17834747",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 03 Apr 2026 20:20:10 GMT"
     }
   ]
 }
