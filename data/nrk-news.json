@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-03T15:40:10.532Z",
+  "updatedAt": "2026-04-03T16:43:37.201Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann døydde etter arbeidsulykke på Stord",
+      "link": "https://www.nrk.no/vestland/mann-doydde-etter-arbeidsulykke-pa-stord-1.17834682",
+      "category": "high",
+      "pubDate": "Fri, 03 Apr 2026 16:36:32 GMT"
+    },
+    {
+      "title": "Knivstikkingen på Skøyen: Varetektsfengslet i fire uker",
+      "link": "https://www.nrk.no/stor-oslo/knivstikkingen-pa-skoyen_-varetektsfengslet-i-fire-uker--1.17834630",
+      "category": "Oslo politidistrikt",
+      "pubDate": "Fri, 03 Apr 2026 16:01:19 GMT"
+    },
+    {
+      "title": "CBS: Én reddet etter at amerikansk jagerfly ble skutt ned",
+      "link": "https://www.nrk.no/nyheter/cbs_-en-reddet-etter-at-amerikansk-jagerfly-ble-skutt-ned-1.17834611",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 03 Apr 2026 15:56:08 GMT"
+    },
     {
       "title": "Redningsaksjon i Skjåk",
       "link": "https://www.nrk.no/innlandet/redningsaksjon-i-skjak-1.17834622",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-vil-oke-forsvarsbudsjettet-med-50-prosent-1.17834579",
       "category": "USA",
       "pubDate": "Fri, 03 Apr 2026 13:15:28 GMT"
-    },
-    {
-      "title": "Alvorleg skadd i arbeidsulykke på Stord",
-      "link": "https://www.nrk.no/vestland/alvorleg-skadd-i-arbeidsulykke-pa-stord-1.17834568",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 03 Apr 2026 12:40:18 GMT"
-    },
-    {
-      "title": "Person funnet død i vannet",
-      "link": "https://www.nrk.no/vestfoldogtelemark/person-funnet-dod-i-vannet-1.17834537",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 03 Apr 2026 11:25:03 GMT"
-    },
-    {
-      "title": "Zelenskyj: Russland har trappet opp angrepene i påsken",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-russland-har-trappet-opp-angrepene-i-pasken--1.17834518",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 03 Apr 2026 11:03:38 GMT"
     }
   ]
 }
