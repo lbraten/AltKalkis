@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-04-03T08:02:49.658Z",
+  "updatedAt": "2026-04-03T09:29:14.624Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Buss har veltet i Oslo - ligger opp ned",
-      "link": "https://www.nrk.no/stor-oslo/buss-har-veltet-i-oslo---ligger-opp-ned-1.17834369",
+      "title": "Zelenskyj: Situasjonen ved frontlinjen er den beste på ti måneder",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-situasjonen-ved-frontlinjen-er-den-beste-pa-ti-maneder-1.17834462",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 03 Apr 2026 09:10:25 GMT"
+    },
+    {
+      "title": "Massivt droneangrep i Kyiv",
+      "link": "https://www.nrk.no/nyheter/massivt-droneangrep-i-kyiv-1.17834392",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 03 Apr 2026 09:00:19 GMT"
+    },
+    {
+      "title": "Buss har veltet i Oslo - ligger i en skråning",
+      "link": "https://www.nrk.no/stor-oslo/buss-har-veltet-i-oslo---ligger-i-en-skraning-1.17834369",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 03 Apr 2026 07:13:18 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/-politibetjent-ma-ut-med-14.000-kroner-etter-kollisjon-under-utrykning-1.17834345",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 03 Apr 2026 04:13:22 GMT"
-    },
-    {
-      "title": "CNN: Iran har fortsatt stor rakett- og dronekapasitet",
-      "link": "https://www.nrk.no/nyheter/cnn_-iran-har-fortsatt-stor-rakett--og-dronekapasitet-1.17834344",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 03 Apr 2026 04:02:42 GMT"
-    },
-    {
-      "title": "Trump: Bruer og kraftstasjoner i Iran skal bombes",
-      "link": "https://www.nrk.no/nyheter/trump_-bruer-og-kraftstasjoner-i-iran-skal-bombes-1.17834343",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 03 Apr 2026 03:25:56 GMT"
     }
   ]
 }
