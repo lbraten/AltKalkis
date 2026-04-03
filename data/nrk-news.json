@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-03T14:44:38.234Z",
+  "updatedAt": "2026-04-03T15:40:10.532Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Redningsaksjon i Skjåk",
+      "link": "https://www.nrk.no/innlandet/redningsaksjon-i-skjak-1.17834622",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 03 Apr 2026 15:30:13 GMT"
+    },
     {
       "title": "Medier: Amerikansk jagerfly skutt ned i Iran",
       "link": "https://www.nrk.no/nyheter/medier_-amerikansk-jagerfly-skutt-ned-i-iran-1.17834584",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj_-russland-har-trappet-opp-angrepene-i-pasken--1.17834518",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 03 Apr 2026 11:03:38 GMT"
-    },
-    {
-      "title": "Brann i Bergen fengsel",
-      "link": "https://www.nrk.no/vestland/brann-i-bergen-fengsel-1.17834463",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 03 Apr 2026 10:56:29 GMT"
     }
   ]
 }
