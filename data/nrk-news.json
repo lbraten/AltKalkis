@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-04T02:26:46.293Z",
+  "updatedAt": "2026-04-04T04:30:01.794Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann til sykehus etter vold i Stavanger",
+      "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-vold-i-stavanger-1.17834778",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 04 Apr 2026 04:23:53 GMT"
+    },
+    {
+      "title": "Artemis II halvveis til månen",
+      "link": "https://www.nrk.no/nyheter/artemis-ii-halvveis-til-manen-1.17834776",
+      "category": "Nasa",
+      "pubDate": "Sat, 04 Apr 2026 03:50:04 GMT"
+    },
+    {
+      "title": "Politiet glemte veske full av våpen utenfor boligen til ordføreren i London",
+      "link": "https://www.nrk.no/nyheter/politiet-glemte-veske-full-av-vapen-utenfor-boligen-til-ordforeren-i-london-1.17834771",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 04 Apr 2026 03:12:39 GMT"
+    },
+    {
+      "title": "Enebolig overtent i Krødsherad i Buskerud",
+      "link": "https://www.nrk.no/nyheter/enebolig-overtent-i-krodsherad-i-buskerud-1.17834773",
+      "category": "Politi og hendelser i Buskerud",
+      "pubDate": "Sat, 04 Apr 2026 02:40:19 GMT"
+    },
+    {
+      "title": "Stjålet gravemaskin blokkerte vei",
+      "link": "https://www.nrk.no/nyheter/stjalet-gravemaskin-blokkerte-vei-1.17834772",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sat, 04 Apr 2026 02:29:34 GMT"
+    },
     {
       "title": "Politiet: Ikke kjør på sommerdekk i Vestfold, Telemark og Buskerud",
       "link": "https://www.nrk.no/nyheter/politiet_-ikke-kjor-pa-sommerdekk-i-vestfold_-telemark-og-buskerud-1.17834770",
       "category": "Vær og trafikk i Norge",
       "pubDate": "Sat, 04 Apr 2026 01:10:18 GMT"
-    },
-    {
-      "title": "Iran lover belønning om til dem som fanger amerikansk pilot",
-      "link": "https://www.nrk.no/nyheter/iran-lover-belonning-om-til-dem-som-fanger-amerikansk-pilot-1.17834768",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 04 Apr 2026 00:42:51 GMT"
-    },
-    {
-      "title": "Israel: Raketter skutt fra Iran – nedslag i flere byer",
-      "link": "https://www.nrk.no/nyheter/israel_-raketter-skutt-fra-iran-_-nedslag-i-flere-byer-1.17834767",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 04 Apr 2026 00:36:04 GMT"
-    },
-    {
-      "title": "Israel med luftangrep mot deler av Beirut",
-      "link": "https://www.nrk.no/nyheter/israel-med-luftangrep-mot-deler-av-beirut-1.17834766",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 04 Apr 2026 00:31:28 GMT"
-    },
-    {
-      "title": "Sterk jobbvekst i USA gir Trump et løft",
-      "link": "https://www.nrk.no/nyheter/sterk-jobbvekst-i-usa-gir-trump-et-loft-1.17834765",
-      "category": "USAs økonomi",
-      "pubDate": "Fri, 03 Apr 2026 23:17:57 GMT"
-    },
-    {
-      "title": "Bil i grøfta i Indre Østfold – kom seg ikke ut av bilen",
-      "link": "https://www.nrk.no/nyheter/bil-i-grofta-i-indre-ostfold-_-kom-seg-ikke-ut-av-bilen-1.17834764",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Fri, 03 Apr 2026 23:16:56 GMT"
     }
   ]
 }
