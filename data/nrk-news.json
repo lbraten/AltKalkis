@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-04T11:00:12.874Z",
+  "updatedAt": "2026-04-04T11:52:21.882Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Irak stenger grenseovergang mot Iran etter angrep",
-      "link": "https://www.nrk.no/nyheter/irak-stenger-grenseovergang-mot-iran-etter-angrep-1.17834942",
-      "category": "Iran",
-      "pubDate": "Sat, 04 Apr 2026 10:17:02 GMT"
+      "title": "Iran: Angrep Israel‑tilknyttet skip med drone i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran_-angrep-israel_tilknyttet-skip-med-drone-i-hormuzstredet-1.17834995",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 04 Apr 2026 11:40:42 GMT"
     },
     {
-      "title": "13-åringen som var savnet i 32 år ønsket ikke å bli funnet",
-      "link": "https://www.nrk.no/nyheter/13-aringen-som-var-savnet-i-32-ar-onsket-ikke-a-bli-funnet--1.17834933",
-      "category": "USA",
-      "pubDate": "Sat, 04 Apr 2026 09:59:21 GMT"
+      "title": "Tolv drept i jordskjelv i Afghanistan",
+      "link": "https://www.nrk.no/nyheter/tolv-drept-i-jordskjelv-i-afghanistan-1.17834992",
+      "category": "Afghanistan",
+      "pubDate": "Sat, 04 Apr 2026 11:36:13 GMT"
     },
     {
-      "title": "Vernepliktige menn i Tyskland får ikke oppholde seg utenfor landet uten tillatelse",
-      "link": "https://www.nrk.no/nyheter/vernepliktige-menn-i-tyskland-far-ikke-oppholde-seg-utenfor-landet-uten-tillatelse--1.17834919",
-      "category": "Tyskland",
-      "pubDate": "Sat, 04 Apr 2026 09:45:26 GMT"
-    },
-    {
-      "title": "Flere snøskred på Gaustatoppen",
-      "link": "https://www.nrk.no/vestfoldogtelemark/flere-snoskred-pa-gaustatoppen-1.17834916",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 04 Apr 2026 09:38:26 GMT"
-    },
-    {
-      "title": "Fem drept og 19 såret etter russisk angrep på et marked i Ukraina",
-      "link": "https://www.nrk.no/nyheter/fem-drept-og-19-saret-etter-russisk-angrep-pa-et-marked-i-ukraina-1.17834885",
+      "title": "Zelenskyj møter Erdogan i Istanbul",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-moter-erdogan-i-istanbul-1.17834990",
       "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 04 Apr 2026 09:16:38 GMT"
+      "pubDate": "Sat, 04 Apr 2026 11:28:45 GMT"
     },
     {
-      "title": "Color Line innstiller fergeavganger søndag",
-      "link": "https://www.nrk.no/nyheter/color-line-innstiller-fergeavganger-sondag-1.17834857",
+      "title": "Israel ber innbyggere i Tyrus evakuere før planlagte angrep",
+      "link": "https://www.nrk.no/nyheter/israel-ber-innbyggere-i-tyrus-evakuere-for-planlagte-angrep-1.17834985",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 04 Apr 2026 11:26:28 GMT"
+    },
+    {
+      "title": "Hardangervidda stengt for personbiler",
+      "link": "https://www.nrk.no/nyheter/hardangervidda-stengt-for-personbiler--1.17834950",
       "category": "Vær og trafikk i Norge",
-      "pubDate": "Sat, 04 Apr 2026 08:14:24 GMT"
+      "pubDate": "Sat, 04 Apr 2026 11:15:42 GMT"
+    },
+    {
+      "title": "Snøskred i Rauland",
+      "link": "https://www.nrk.no/vestfoldogtelemark/snoskred-i-rauland-1.17834931",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 04 Apr 2026 11:09:59 GMT"
     }
   ]
 }
