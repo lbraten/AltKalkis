@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-04T09:07:18.840Z",
+  "updatedAt": "2026-04-04T10:01:50.332Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "13-åringen som var savnet i 32 år ønsket ikke å bli funnet",
+      "link": "https://www.nrk.no/nyheter/13-aringen-som-var-savnet-i-32-ar-onsket-ikke-a-bli-funnet--1.17834933",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 04 Apr 2026 09:59:21 GMT"
+    },
+    {
+      "title": "Vernepliktige menn i Tyskland får ikke oppholde seg utenfor landet uten tillatelse",
+      "link": "https://www.nrk.no/nyheter/vernepliktige-menn-i-tyskland-far-ikke-oppholde-seg-utenfor-landet-uten-tillatelse--1.17834919",
+      "category": "Tyskland",
+      "pubDate": "Sat, 04 Apr 2026 09:45:26 GMT"
+    },
+    {
+      "title": "Snøskred på Gaustatoppen",
+      "link": "https://www.nrk.no/vestfoldogtelemark/snoskred-pa-gaustatoppen-1.17834916",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 04 Apr 2026 09:38:26 GMT"
+    },
+    {
+      "title": "Fem drept og 19 såret etter russisk angrep på et marked i Ukraina",
+      "link": "https://www.nrk.no/nyheter/fem-drept-og-19-saret-etter-russisk-angrep-pa-et-marked-i-ukraina-1.17834885",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 04 Apr 2026 09:16:38 GMT"
+    },
     {
       "title": "Color Line innstiller fergeavganger søndag",
       "link": "https://www.nrk.no/nyheter/color-line-innstiller-fergeavganger-sondag-1.17834857",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/kolonnekjoring-over-haukelifjell-1.17834818",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 04 Apr 2026 08:12:37 GMT"
-    },
-    {
-      "title": "Innfører kolonnekjøring over Hardangervidda",
-      "link": "https://www.nrk.no/nyheter/innforer-kolonnekjoring-over-hardangervidda-1.17834781",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Sat, 04 Apr 2026 07:49:42 GMT"
-    },
-    {
-      "title": "Rykker ut til melding om voldshendelse på Grønland",
-      "link": "https://www.nrk.no/stor-oslo/rykker-ut-til-melding-om-voldshendelse-pa-gronland--1.17834806",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 04 Apr 2026 06:21:13 GMT"
-    },
-    {
-      "title": "Tre fra UNIFIL såret i Libanon fredag",
-      "link": "https://www.nrk.no/nyheter/tre-fra-unifil-saret-i-libanon-fredag-1.17834779",
-      "category": "Libanon",
-      "pubDate": "Sat, 04 Apr 2026 04:39:57 GMT"
-    },
-    {
-      "title": "Mann til sykehus etter vold i Stavanger",
-      "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-vold-i-stavanger-1.17834778",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 04 Apr 2026 04:23:53 GMT"
     }
   ]
 }
