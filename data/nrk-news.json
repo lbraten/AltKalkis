@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-04T08:02:45.179Z",
+  "updatedAt": "2026-04-04T09:07:18.840Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Color Line innstiller fergeavganger søndag",
+      "link": "https://www.nrk.no/nyheter/color-line-innstiller-fergeavganger-sondag-1.17834857",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sat, 04 Apr 2026 08:14:24 GMT"
+    },
+    {
+      "title": "Kolonnekjøring over Haukelifjell",
+      "link": "https://www.nrk.no/vestfoldogtelemark/kolonnekjoring-over-haukelifjell-1.17834818",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 04 Apr 2026 08:12:37 GMT"
+    },
     {
       "title": "Innfører kolonnekjøring over Hardangervidda",
       "link": "https://www.nrk.no/nyheter/innforer-kolonnekjoring-over-hardangervidda-1.17834781",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-vold-i-stavanger-1.17834778",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sat, 04 Apr 2026 04:23:53 GMT"
-    },
-    {
-      "title": "Artemis II halvveis til månen",
-      "link": "https://www.nrk.no/nyheter/artemis-ii-halvveis-til-manen-1.17834776",
-      "category": "Nasa",
-      "pubDate": "Sat, 04 Apr 2026 03:50:04 GMT"
-    },
-    {
-      "title": "Politiet glemte veske full av våpen utenfor boligen til ordføreren i London",
-      "link": "https://www.nrk.no/nyheter/politiet-glemte-veske-full-av-vapen-utenfor-boligen-til-ordforeren-i-london-1.17834771",
-      "category": "Storbritannia",
-      "pubDate": "Sat, 04 Apr 2026 03:12:39 GMT"
     }
   ]
 }
