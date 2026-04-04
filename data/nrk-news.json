@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-04T04:30:01.794Z",
+  "updatedAt": "2026-04-04T05:42:39.045Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tre fra UNIFIL såret i Libanon fredag",
+      "link": "https://www.nrk.no/nyheter/tre-fra-unifil-saret-i-libanon-fredag-1.17834779",
+      "category": "Libanon",
+      "pubDate": "Sat, 04 Apr 2026 04:39:57 GMT"
+    },
     {
       "title": "Mann til sykehus etter vold i Stavanger",
       "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-vold-i-stavanger-1.17834778",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/stjalet-gravemaskin-blokkerte-vei-1.17834772",
       "category": "Vær og trafikk i Norge",
       "pubDate": "Sat, 04 Apr 2026 02:29:34 GMT"
-    },
-    {
-      "title": "Politiet: Ikke kjør på sommerdekk i Vestfold, Telemark og Buskerud",
-      "link": "https://www.nrk.no/nyheter/politiet_-ikke-kjor-pa-sommerdekk-i-vestfold_-telemark-og-buskerud-1.17834770",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Sat, 04 Apr 2026 01:10:18 GMT"
     }
   ]
 }
