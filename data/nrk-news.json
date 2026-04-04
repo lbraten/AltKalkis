@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-04T11:52:21.882Z",
+  "updatedAt": "2026-04-04T13:00:50.986Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rødt etter trusler fra Mímir Kristjánsson: Saken er lagt bort fra vår side",
+      "link": "https://www.nrk.no/nyheter/rodt-etter-trusler-fra-mimir-kristjansson_-saken-er-lagt-bort-fra-var-side-1.17834996",
+      "category": "Partiet Rødt",
+      "pubDate": "Sat, 04 Apr 2026 12:49:34 GMT"
+    },
+    {
+      "title": "Ulykker på Strynefjellet",
+      "link": "https://www.nrk.no/innlandet/ulykker-pa-strynefjellet-1.17834898",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 04 Apr 2026 12:29:37 GMT"
+    },
     {
       "title": "Iran: Angrep Israel‑tilknyttet skip med drone i Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/iran_-angrep-israel_tilknyttet-skip-med-drone-i-hormuzstredet-1.17834995",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-ber-innbyggere-i-tyrus-evakuere-for-planlagte-angrep-1.17834985",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 04 Apr 2026 11:26:28 GMT"
-    },
-    {
-      "title": "Hardangervidda stengt for personbiler",
-      "link": "https://www.nrk.no/nyheter/hardangervidda-stengt-for-personbiler--1.17834950",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Sat, 04 Apr 2026 11:15:42 GMT"
-    },
-    {
-      "title": "Snøskred i Rauland",
-      "link": "https://www.nrk.no/vestfoldogtelemark/snoskred-i-rauland-1.17834931",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 04 Apr 2026 11:09:59 GMT"
     }
   ]
 }
