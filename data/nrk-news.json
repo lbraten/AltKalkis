@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-04T14:05:41.561Z",
+  "updatedAt": "2026-04-04T14:59:50.617Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trafikkulykke i Øygarden: – Fremstår alvorlig",
+      "link": "https://www.nrk.no/vestland/trafikkulykke-i-oygarden_-_-fremstar-alvorlig-1.17835091",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 04 Apr 2026 14:26:34 GMT"
+    },
+    {
+      "title": "Motorsyklist fraktes med ambulanse",
+      "link": "https://www.nrk.no/sorlandet/motorsyklist-fraktes-med-ambulanse-1.17835079",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 04 Apr 2026 14:17:43 GMT"
+    },
+    {
+      "title": "Trump: Iran har 48 timer på seg før «helvete bryter løs»",
+      "link": "https://www.nrk.no/nyheter/trump_-iran-har-48-timer-pa-seg-for-_helvete-bryter-los_-1.17835086",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 04 Apr 2026 14:12:54 GMT"
+    },
     {
       "title": "Isete vei førte til utforkjøring i Stange",
       "link": "https://www.nrk.no/innlandet/isete-vei-forte-til-utforkjoring-i-stange-1.17835065",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/innlandet/ulykker-pa-strynefjellet-1.17834898",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sat, 04 Apr 2026 12:29:37 GMT"
-    },
-    {
-      "title": "Iran: Angrep Israel‑tilknyttet skip med drone i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran_-angrep-israel_tilknyttet-skip-med-drone-i-hormuzstredet-1.17834995",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 04 Apr 2026 11:40:42 GMT"
-    },
-    {
-      "title": "Tolv drept i jordskjelv i Afghanistan",
-      "link": "https://www.nrk.no/nyheter/tolv-drept-i-jordskjelv-i-afghanistan-1.17834992",
-      "category": "Afghanistan",
-      "pubDate": "Sat, 04 Apr 2026 11:36:13 GMT"
-    },
-    {
-      "title": "Zelenskyj møter Erdogan i Istanbul",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-moter-erdogan-i-istanbul-1.17834990",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 04 Apr 2026 11:28:45 GMT"
     }
   ]
 }
