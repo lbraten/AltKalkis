@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-04-04T10:01:50.332Z",
+  "updatedAt": "2026-04-04T11:00:12.874Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Irak stenger grenseovergang mot Iran etter angrep",
+      "link": "https://www.nrk.no/nyheter/irak-stenger-grenseovergang-mot-iran-etter-angrep-1.17834942",
+      "category": "Iran",
+      "pubDate": "Sat, 04 Apr 2026 10:17:02 GMT"
+    },
+    {
       "title": "13-åringen som var savnet i 32 år ønsket ikke å bli funnet",
       "link": "https://www.nrk.no/nyheter/13-aringen-som-var-savnet-i-32-ar-onsket-ikke-a-bli-funnet--1.17834933",
-      "category": "NRK Nyheter",
+      "category": "USA",
       "pubDate": "Sat, 04 Apr 2026 09:59:21 GMT"
     },
     {
@@ -15,8 +21,8 @@
       "pubDate": "Sat, 04 Apr 2026 09:45:26 GMT"
     },
     {
-      "title": "Snøskred på Gaustatoppen",
-      "link": "https://www.nrk.no/vestfoldogtelemark/snoskred-pa-gaustatoppen-1.17834916",
+      "title": "Flere snøskred på Gaustatoppen",
+      "link": "https://www.nrk.no/vestfoldogtelemark/flere-snoskred-pa-gaustatoppen-1.17834916",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 04 Apr 2026 09:38:26 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/color-line-innstiller-fergeavganger-sondag-1.17834857",
       "category": "Vær og trafikk i Norge",
       "pubDate": "Sat, 04 Apr 2026 08:14:24 GMT"
-    },
-    {
-      "title": "Kolonnekjøring over Haukelifjell",
-      "link": "https://www.nrk.no/vestfoldogtelemark/kolonnekjoring-over-haukelifjell-1.17834818",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 04 Apr 2026 08:12:37 GMT"
     }
   ]
 }
