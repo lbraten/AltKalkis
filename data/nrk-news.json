@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-04T19:33:05.323Z",
+  "updatedAt": "2026-04-04T20:35:06.735Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rykker ut til melding om båt som har kollidert",
+      "link": "https://www.nrk.no/vestland/rykker-ut-til-melding-om-bat-som-har-kollidert-1.17835167",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 04 Apr 2026 19:53:20 GMT"
+    },
+    {
+      "title": "Fire personer fryktes begravet i snøskred på Grønland",
+      "link": "https://www.nrk.no/nyheter/fire-personer-fryktes-begravet-i-snoskred-pa-gronland-1.17835161",
+      "category": "Grønland",
+      "pubDate": "Sat, 04 Apr 2026 19:35:18 GMT"
+    },
     {
       "title": "Lindesnes: Ber innbyggerne holde seg innendørs",
       "link": "https://www.nrk.no/sorlandet/lindesnes_-ber-innbyggerne-holde-seg-innendors-1.17835125",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-iran-har-48-timer-pa-seg-for-_helvete-bryter-los_-1.17835086",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 04 Apr 2026 14:12:54 GMT"
-    },
-    {
-      "title": "Isete vei førte til utforkjøring i Stange",
-      "link": "https://www.nrk.no/innlandet/isete-vei-forte-til-utforkjoring-i-stange-1.17835065",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sat, 04 Apr 2026 13:41:37 GMT"
-    },
-    {
-      "title": "Rødt etter trusler fra Mímir Kristjánsson: Saken er lagt bort fra vår side",
-      "link": "https://www.nrk.no/nyheter/rodt-etter-trusler-fra-mimir-kristjansson_-saken-er-lagt-bort-fra-var-side-1.17834996",
-      "category": "Partiet Rødt",
-      "pubDate": "Sat, 04 Apr 2026 12:49:34 GMT"
     }
   ]
 }
