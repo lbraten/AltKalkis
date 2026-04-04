@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-04T22:32:36.388Z",
+  "updatedAt": "2026-04-04T23:34:20.831Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bil kjørte inn i folkemengde i Louisiana - minst 15 skadet",
+      "link": "https://www.nrk.no/nyheter/bil-kjorte-inn-i-folkemengde-i-louisiana---minst-15-skadet-1.17835259",
+      "category": "USA",
+      "pubDate": "Sat, 04 Apr 2026 22:37:55 GMT"
+    },
     {
       "title": "Lier: Mann pågrepet for å helt ut tennvæske i blokk",
       "link": "https://www.nrk.no/nyheter/lier_-mann-pagrepet-for-a-helt-ut-tennvaeske-i-blokk-1.17835255",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-sier-de-har-pagrepet-slektninger-av-drept-iransk-general-1.17835235",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sat, 04 Apr 2026 20:41:08 GMT"
-    },
-    {
-      "title": "Iran kaller Trumps ultimatum for hjelpeløst og nervøst",
-      "link": "https://www.nrk.no/nyheter/iran-kaller-trumps-ultimatum-for-hjelpelost-og-nervost-1.17835233",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 04 Apr 2026 20:38:40 GMT"
     }
   ]
 }
