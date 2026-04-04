@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-03T23:36:43.192Z",
+  "updatedAt": "2026-04-04T02:26:46.293Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Ikke kjør på sommerdekk i Vestfold, Telemark og Buskerud",
+      "link": "https://www.nrk.no/nyheter/politiet_-ikke-kjor-pa-sommerdekk-i-vestfold_-telemark-og-buskerud-1.17834770",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sat, 04 Apr 2026 01:10:18 GMT"
+    },
+    {
+      "title": "Iran lover belønning om til dem som fanger amerikansk pilot",
+      "link": "https://www.nrk.no/nyheter/iran-lover-belonning-om-til-dem-som-fanger-amerikansk-pilot-1.17834768",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 04 Apr 2026 00:42:51 GMT"
+    },
+    {
+      "title": "Israel: Raketter skutt fra Iran – nedslag i flere byer",
+      "link": "https://www.nrk.no/nyheter/israel_-raketter-skutt-fra-iran-_-nedslag-i-flere-byer-1.17834767",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 04 Apr 2026 00:36:04 GMT"
+    },
+    {
+      "title": "Israel med luftangrep mot deler av Beirut",
+      "link": "https://www.nrk.no/nyheter/israel-med-luftangrep-mot-deler-av-beirut-1.17834766",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 04 Apr 2026 00:31:28 GMT"
+    },
     {
       "title": "Sterk jobbvekst i USA gir Trump et løft",
       "link": "https://www.nrk.no/nyheter/sterk-jobbvekst-i-usa-gir-trump-et-loft-1.17834765",
@@ -9,34 +33,10 @@
       "pubDate": "Fri, 03 Apr 2026 23:17:57 GMT"
     },
     {
-      "title": "Bil i grøfta i Indre Østfold – kommer seg ikke ut av bilen",
-      "link": "https://www.nrk.no/nyheter/bil-i-grofta-i-indre-ostfold-_-kommer-seg-ikke-ut-av-bilen-1.17834764",
+      "title": "Bil i grøfta i Indre Østfold – kom seg ikke ut av bilen",
+      "link": "https://www.nrk.no/nyheter/bil-i-grofta-i-indre-ostfold-_-kom-seg-ikke-ut-av-bilen-1.17834764",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Fri, 03 Apr 2026 23:16:56 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Agder – kom seg ikke ut av bilen",
-      "link": "https://www.nrk.no/nyheter/trafikkulykke-i-agder-_-kom-seg-ikke-ut-av-bilen-1.17834763",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Fri, 03 Apr 2026 23:01:35 GMT"
-    },
-    {
-      "title": "Strømbrudd i russiskkontrollerte deler av Zaporizjzja etter ukrainsk angrep",
-      "link": "https://www.nrk.no/nyheter/strombrudd-i-russiskkontrollerte-deler-av-zaporizjzja-etter-ukrainsk-angrep-1.17834761",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 03 Apr 2026 22:28:38 GMT"
-    },
-    {
-      "title": "Tre menn siktet etter angrep mot jødiske ambulanser i London",
-      "link": "https://www.nrk.no/nyheter/tre-menn-siktet-etter-angrep-mot-jodiske-ambulanser-i-london-1.17834759",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 03 Apr 2026 22:06:43 GMT"
-    },
-    {
-      "title": "Familie på fire gjort rede for – ble satt i gang leteaksjon",
-      "link": "https://www.nrk.no/nyheter/familie-pa-fire-gjort-rede-for-_-ble-satt-i-gang-leteaksjon-1.17834757",
-      "category": "high",
-      "pubDate": "Fri, 03 Apr 2026 21:39:01 GMT"
     }
   ]
 }
