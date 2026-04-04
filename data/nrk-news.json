@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-04T07:04:37.868Z",
+  "updatedAt": "2026-04-04T08:02:45.179Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Innfører kolonnekjøring over Hardangervidda",
+      "link": "https://www.nrk.no/nyheter/innforer-kolonnekjoring-over-hardangervidda-1.17834781",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sat, 04 Apr 2026 07:49:42 GMT"
+    },
     {
       "title": "Rykker ut til melding om voldshendelse på Grønland",
       "link": "https://www.nrk.no/stor-oslo/rykker-ut-til-melding-om-voldshendelse-pa-gronland--1.17834806",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/politiet-glemte-veske-full-av-vapen-utenfor-boligen-til-ordforeren-i-london-1.17834771",
       "category": "Storbritannia",
       "pubDate": "Sat, 04 Apr 2026 03:12:39 GMT"
-    },
-    {
-      "title": "Enebolig overtent i Krødsherad i Buskerud",
-      "link": "https://www.nrk.no/nyheter/enebolig-overtent-i-krodsherad-i-buskerud-1.17834773",
-      "category": "Politi og hendelser i Buskerud",
-      "pubDate": "Sat, 04 Apr 2026 02:40:19 GMT"
     }
   ]
 }
