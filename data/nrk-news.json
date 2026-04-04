@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-04T16:39:03.452Z",
+  "updatedAt": "2026-04-04T17:33:41.482Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kommuner ber folk holde seg innendørs på grunn av uvær",
+      "link": "https://www.nrk.no/nyheter/kommuner-ber-folk-holde-seg-innendors-pa-grunn-av-uvaer-1.17835087",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sat, 04 Apr 2026 17:16:47 GMT"
+    },
     {
       "title": "Trafikkulykke i Øygarden: – Fremstår alvorlig",
       "link": "https://www.nrk.no/vestland/trafikkulykke-i-oygarden_-_-fremstar-alvorlig-1.17835091",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rodt-etter-trusler-fra-mimir-kristjansson_-saken-er-lagt-bort-fra-var-side-1.17834996",
       "category": "Partiet Rødt",
       "pubDate": "Sat, 04 Apr 2026 12:49:34 GMT"
-    },
-    {
-      "title": "Ulykker på Strynefjellet",
-      "link": "https://www.nrk.no/innlandet/ulykker-pa-strynefjellet-1.17834898",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 04 Apr 2026 12:29:37 GMT"
     }
   ]
 }
