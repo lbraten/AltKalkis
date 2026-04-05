@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-05T02:43:15.517Z",
+  "updatedAt": "2026-04-05T05:14:26.704Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Kuwait: Droneangrep rammet kraft- og avsaltingsanlegg",
-      "link": "https://www.nrk.no/nyheter/kuwait_-droneangrep-rammet-kraft--og-avsaltingsanlegg-1.17835272",
+      "title": "Russisk oljeledning skal være skadd i droneangrep",
+      "link": "https://www.nrk.no/nyheter/russisk-oljeledning-skal-vaere-skadd-i-droneangrep-1.17835280",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 05 Apr 2026 05:03:38 GMT"
+    },
+    {
+      "title": "Medier: Savnet amerikansk pilot funnet",
+      "link": "https://www.nrk.no/nyheter/medier_-savnet-amerikansk-pilot-funnet-1.17835278",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 05 Apr 2026 01:30:26 GMT"
+      "pubDate": "Sun, 05 Apr 2026 03:51:57 GMT"
     },
     {
-      "title": "Stor skade på regjeringsbygg i Kuwait",
-      "link": "https://www.nrk.no/nyheter/stor-skade-pa-regjeringsbygg-i-kuwait-1.17835260",
+      "title": "Hardangervidda stengt for mindre kjøretøy",
+      "link": "https://www.nrk.no/nyheter/hardangervidda-stengt-for-mindre-kjoretoy-1.17835277",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sun, 05 Apr 2026 03:33:52 GMT"
+    },
+    {
+      "title": "Fylkesvei over Hol-Aurland stengt",
+      "link": "https://www.nrk.no/nyheter/fylkesvei-over-hol-aurland-stengt-1.17835276",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sun, 05 Apr 2026 03:25:45 GMT"
+    },
+    {
+      "title": "Skip fra Irak skal få passere gjennom Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/skip-fra-irak-skal-fa-passere-gjennom-hormuzstredet-1.17835275",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 04 Apr 2026 23:44:44 GMT"
+      "pubDate": "Sun, 05 Apr 2026 03:13:38 GMT"
     },
     {
-      "title": "Bil kjørte inn i folkemengde i Louisiana - minst 15 skadet",
-      "link": "https://www.nrk.no/nyheter/bil-kjorte-inn-i-folkemengde-i-louisiana---minst-15-skadet-1.17835259",
-      "category": "USA",
-      "pubDate": "Sat, 04 Apr 2026 22:37:55 GMT"
-    },
-    {
-      "title": "Lier: Mann pågrepet for å helt ut tennvæske i blokk",
-      "link": "https://www.nrk.no/nyheter/lier_-mann-pagrepet-for-a-helt-ut-tennvaeske-i-blokk-1.17835255",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 04 Apr 2026 22:01:38 GMT"
-    },
-    {
-      "title": "Tiltalt for å fortsette med forbudt MC-klubb",
-      "link": "https://www.nrk.no/nyheter/tiltalt-for-a-fortsette-med-forbudt-mc-klubb-1.17835242",
-      "category": "Kriminelle gjenger",
-      "pubDate": "Sat, 04 Apr 2026 21:43:06 GMT"
-    },
-    {
-      "title": "17-åring mistet livet i snøskred på Grønland",
-      "link": "https://www.nrk.no/nyheter/17-aring-mistet-livet-i-snoskred-pa-gronland-1.17835241",
-      "category": "Grønland",
-      "pubDate": "Sat, 04 Apr 2026 21:14:16 GMT"
+      "title": "Angrep mot Bahrain og De forente arabiske emirater",
+      "link": "https://www.nrk.no/nyheter/angrep-mot-bahrain-og-de-forente-arabiske-emirater-1.17835274",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 05 Apr 2026 03:09:01 GMT"
     }
   ]
 }
