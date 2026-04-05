@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-05T11:32:33.621Z",
+  "updatedAt": "2026-04-05T13:02:42.365Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: – Arresterte er ikke i slekt med Soleimani",
+      "link": "https://www.nrk.no/nyheter/iran_-_-arresterte-er-ikke-i-slekt-med-soleimani-1.17835571",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 05 Apr 2026 12:31:06 GMT"
+    },
+    {
+      "title": "Trump: Amerikansk pilot hentet ut fra Iran er alvorlig skadet",
+      "link": "https://www.nrk.no/nyheter/trump_-amerikansk-pilot-hentet-ut-fra-iran-er-alvorlig-skadet--1.17835508",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 05 Apr 2026 12:17:24 GMT"
+    },
+    {
+      "title": "VG: Alle avganger mellom Oslo og Gøteborg innstilt",
+      "link": "https://www.nrk.no/ostfold/vg_-alle-avganger-mellom-oslo-og-goteborg-innstilt-1.17835494",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 05 Apr 2026 12:01:14 GMT"
+    },
     {
       "title": "Person funnet død i Surnadal",
       "link": "https://www.nrk.no/mr/person-funnet-dod-i-surnadal--1.17835503",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dyreparken-i-kristiansand-holder-lover-og-tigre-inne-i-stormen-1.17835476",
       "category": "Vær og trafikk i Norge",
       "pubDate": "Sun, 05 Apr 2026 09:56:18 GMT"
-    },
-    {
-      "title": "Israel har angrepet infrastrukturmål i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-har-angrepet-infrastrukturmal-i-libanon--1.17835381",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 05 Apr 2026 09:39:24 GMT"
-    },
-    {
-      "title": "Buss med 17 personer veltet: E6 stengt i begge retninger",
-      "link": "https://www.nrk.no/innlandet/buss-med-17-personer-veltet_-e6-stengt-i-begge-retninger--1.17835397",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 05 Apr 2026 08:52:31 GMT"
-    },
-    {
-      "title": "Voldshendelse i Sandnes: – Skal være stukket med skarp gjenstand",
-      "link": "https://www.nrk.no/rogaland/voldshendelse-i-sandnes_-_-skal-vaere-stukket-med-skarp-gjenstand-1.17835386",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 05 Apr 2026 08:10:19 GMT"
     }
   ]
 }
