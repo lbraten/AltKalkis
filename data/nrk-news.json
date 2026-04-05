@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-05T15:56:40.007Z",
+  "updatedAt": "2026-04-05T16:44:46.499Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alexandra Øhrn Fredwall valgt til ny leder av Rød Ungdom",
+      "link": "https://www.nrk.no/nyheter/alexandra-ohrn-fredwall-valgt-til-ny-leder-av-rod-ungdom-1.17835720",
+      "category": "Rød Ungdom",
+      "pubDate": "Sun, 05 Apr 2026 16:33:28 GMT"
+    },
+    {
+      "title": "Timesvis med kø for kolonne over Hemsedalsfjellet",
+      "link": "https://www.nrk.no/nyheter/timesvis-med-ko-for-kolonne-over-hemsedalsfjellet-1.17835573",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sun, 05 Apr 2026 16:24:13 GMT"
+    },
+    {
+      "title": "E18 er helt stengt i Kristiansand",
+      "link": "https://www.nrk.no/sorlandet/e18-er-helt-stengt-i-kristiansand-1.17835724",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 05 Apr 2026 16:11:31 GMT"
+    },
+    {
+      "title": "Uværet Dave: – De kraftigste vindkastene er over",
+      "link": "https://www.nrk.no/nyheter/uvaeret-dave_-_-de-kraftigste-vindkastene-er-over-1.17835711",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sun, 05 Apr 2026 15:57:54 GMT"
+    },
     {
       "title": "E6 ved Biri åpnet igjen etter bussvelt",
       "link": "https://www.nrk.no/nyheter/e6-ved-biri-apnet-igjen-etter-bussvelt-1.17835693",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/kan-bli-stromlose-til-i-morgen-_-noe-arbeid-stoppes-av-uvaer-1.17835689",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 05 Apr 2026 15:19:09 GMT"
-    },
-    {
-      "title": "Mer enn 70 mennesker savnet etter båtforlis i Middelhavet",
-      "link": "https://www.nrk.no/nyheter/mer-enn-70-mennesker-savnet-etter-batforlis-i-middelhavet-1.17835651",
-      "category": "Libya",
-      "pubDate": "Sun, 05 Apr 2026 15:09:26 GMT"
-    },
-    {
-      "title": "E16 åpnet etter trafikkulykke",
-      "link": "https://www.nrk.no/buskerud/e16-apnet-etter-trafikkulykke-1.17835613",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sun, 05 Apr 2026 14:47:27 GMT"
-    },
-    {
-      "title": "Mann over bord fra oljetanker i Nordsjøen",
-      "link": "https://www.nrk.no/nyheter/mann-over-bord-fra-oljetanker-i-nordsjoen-1.17835596",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 05 Apr 2026 14:18:30 GMT"
-    },
-    {
-      "title": "Iran: – Arresterte er ikke i slekt med Soleimani",
-      "link": "https://www.nrk.no/nyheter/iran_-_-arresterte-er-ikke-i-slekt-med-soleimani-1.17835571",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 05 Apr 2026 12:31:06 GMT"
     }
   ]
 }
