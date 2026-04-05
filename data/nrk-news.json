@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-04-05T15:01:50.841Z",
+  "updatedAt": "2026-04-05T15:56:40.007Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Fem biler i kjedekollisjon på E16",
-      "link": "https://www.nrk.no/buskerud/fem-biler-i-kjedekollisjon-pa-e16-1.17835613",
+      "title": "E6 ved Biri åpnet igjen etter bussvelt",
+      "link": "https://www.nrk.no/nyheter/e6-ved-biri-apnet-igjen-etter-bussvelt-1.17835693",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sun, 05 Apr 2026 15:34:44 GMT"
+    },
+    {
+      "title": "Kan bli strømløse til i morgen – noe arbeid stoppes av uvær",
+      "link": "https://www.nrk.no/sorlandet/kan-bli-stromlose-til-i-morgen-_-noe-arbeid-stoppes-av-uvaer-1.17835689",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 05 Apr 2026 15:19:09 GMT"
+    },
+    {
+      "title": "Mer enn 70 mennesker savnet etter båtforlis i Middelhavet",
+      "link": "https://www.nrk.no/nyheter/mer-enn-70-mennesker-savnet-etter-batforlis-i-middelhavet-1.17835651",
+      "category": "Libya",
+      "pubDate": "Sun, 05 Apr 2026 15:09:26 GMT"
+    },
+    {
+      "title": "E16 åpnet etter trafikkulykke",
+      "link": "https://www.nrk.no/buskerud/e16-apnet-etter-trafikkulykke-1.17835613",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sun, 05 Apr 2026 14:47:27 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran_-_-arresterte-er-ikke-i-slekt-med-soleimani-1.17835571",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 05 Apr 2026 12:31:06 GMT"
-    },
-    {
-      "title": "Trump: Amerikansk pilot hentet ut fra Iran er alvorlig skadet",
-      "link": "https://www.nrk.no/nyheter/trump_-amerikansk-pilot-hentet-ut-fra-iran-er-alvorlig-skadet--1.17835508",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 05 Apr 2026 12:17:24 GMT"
-    },
-    {
-      "title": "Alle avganger mellom Halden og Göteborg innstilt",
-      "link": "https://www.nrk.no/ostfold/alle-avganger-mellom-halden-og-goteborg-innstilt-1.17835494",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 05 Apr 2026 12:01:14 GMT"
-    },
-    {
-      "title": "Person funnet død i Surnadal",
-      "link": "https://www.nrk.no/mr/person-funnet-dod-i-surnadal--1.17835503",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 05 Apr 2026 10:43:53 GMT"
     }
   ]
 }
