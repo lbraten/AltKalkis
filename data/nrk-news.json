@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-05T05:14:26.704Z",
+  "updatedAt": "2026-04-05T06:42:44.231Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran henrettet to menn tilknyttet demonstrasjoner",
+      "link": "https://www.nrk.no/nyheter/iran-henrettet-to-menn-tilknyttet-demonstrasjoner-1.17835288",
+      "category": "Iran",
+      "pubDate": "Sun, 05 Apr 2026 06:26:14 GMT"
+    },
     {
       "title": "Russisk oljeledning skal være skadd i droneangrep",
       "link": "https://www.nrk.no/nyheter/russisk-oljeledning-skal-vaere-skadd-i-droneangrep-1.17835280",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skip-fra-irak-skal-fa-passere-gjennom-hormuzstredet-1.17835275",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 05 Apr 2026 03:13:38 GMT"
-    },
-    {
-      "title": "Angrep mot Bahrain og De forente arabiske emirater",
-      "link": "https://www.nrk.no/nyheter/angrep-mot-bahrain-og-de-forente-arabiske-emirater-1.17835274",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 05 Apr 2026 03:09:01 GMT"
     }
   ]
 }
