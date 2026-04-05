@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-05T09:40:54.814Z",
+  "updatedAt": "2026-04-05T10:37:32.665Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dyreparken i Kristiansand holder løver og tigre inne i stormen",
+      "link": "https://www.nrk.no/nyheter/dyreparken-i-kristiansand-holder-lover-og-tigre-inne-i-stormen-1.17835476",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sun, 05 Apr 2026 09:56:18 GMT"
+    },
     {
       "title": "Israel har angrepet infrastrukturmål i Libanon",
       "link": "https://www.nrk.no/nyheter/israel-har-angrepet-infrastrukturmal-i-libanon--1.17835381",
@@ -9,8 +15,8 @@
       "pubDate": "Sun, 05 Apr 2026 09:39:24 GMT"
     },
     {
-      "title": "Buss med 17 personer veltet",
-      "link": "https://www.nrk.no/innlandet/buss-med-17-personer-veltet-1.17835397",
+      "title": "Buss med 17 personer veltet: E6 stengt i begge retninger",
+      "link": "https://www.nrk.no/innlandet/buss-med-17-personer-veltet_-e6-stengt-i-begge-retninger--1.17835397",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sun, 05 Apr 2026 08:52:31 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-henrettet-to-menn-tilknyttet-demonstrasjoner-1.17835288",
       "category": "Iran",
       "pubDate": "Sun, 05 Apr 2026 06:26:14 GMT"
-    },
-    {
-      "title": "Russisk oljeledning skal være skadd i droneangrep",
-      "link": "https://www.nrk.no/nyheter/russisk-oljeledning-skal-vaere-skadd-i-droneangrep-1.17835280",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 05 Apr 2026 05:03:38 GMT"
     }
   ]
 }
