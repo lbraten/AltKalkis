@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-05T07:55:36.176Z",
+  "updatedAt": "2026-04-05T08:49:37.267Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Voldshendelse i Sandnes: – Skal være stukket med skarp gjenstand",
+      "link": "https://www.nrk.no/rogaland/voldshendelse-i-sandnes_-_-skal-vaere-stukket-med-skarp-gjenstand-1.17835386",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 05 Apr 2026 08:10:19 GMT"
+    },
     {
       "title": "Iran: Fem drept i angrep under amerikansk redningsaksjon",
       "link": "https://www.nrk.no/nyheter/iran_-fem-drept-i-angrep-under-amerikansk-redningsaksjon-1.17835332",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hardangervidda-stengt-for-mindre-kjoretoy-1.17835277",
       "category": "Vær og trafikk i Norge",
       "pubDate": "Sun, 05 Apr 2026 03:33:52 GMT"
-    },
-    {
-      "title": "Fylkesvei over Hol-Aurland stengt",
-      "link": "https://www.nrk.no/nyheter/fylkesvei-over-hol-aurland-stengt-1.17835276",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Sun, 05 Apr 2026 03:25:45 GMT"
     }
   ]
 }
