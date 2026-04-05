@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-05T19:35:20.992Z",
+  "updatedAt": "2026-04-05T20:36:39.635Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Unifil advarer Israel og Hizbollah: Kan gjengjelde ild",
+      "link": "https://www.nrk.no/nyheter/unifil-advarer-israel-og-hizbollah_-kan-gjengjelde-ild-1.17835830",
+      "category": "De forente nasjoner (FN)",
+      "pubDate": "Sun, 05 Apr 2026 20:23:38 GMT"
+    },
     {
       "title": "E18 i Kristiansand har åpnet for trafikk",
       "link": "https://www.nrk.no/sorlandet/e18-i-kristiansand-har-apnet-for-trafikk-1.17835781",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/alexandra-ohrn-fredwall-valgt-til-ny-leder-av-rod-ungdom-1.17835720",
       "category": "Rød Ungdom",
       "pubDate": "Sun, 05 Apr 2026 16:33:28 GMT"
-    },
-    {
-      "title": "Timevis med kø for kolonne over Hemsedalsfjellet",
-      "link": "https://www.nrk.no/nyheter/timevis-med-ko-for-kolonne-over-hemsedalsfjellet-1.17835573",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Sun, 05 Apr 2026 16:24:13 GMT"
     }
   ]
 }
