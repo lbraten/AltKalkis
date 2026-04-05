@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-05T16:44:46.499Z",
+  "updatedAt": "2026-04-05T17:34:49.433Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Veien stengt over Hemsedalsfjellet",
+      "link": "https://www.nrk.no/nyheter/veien-stengt-over-hemsedalsfjellet-1.17835748",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sun, 05 Apr 2026 17:17:48 GMT"
+    },
     {
       "title": "Alexandra Øhrn Fredwall valgt til ny leder av Rød Ungdom",
       "link": "https://www.nrk.no/nyheter/alexandra-ohrn-fredwall-valgt-til-ny-leder-av-rod-ungdom-1.17835720",
@@ -9,8 +15,8 @@
       "pubDate": "Sun, 05 Apr 2026 16:33:28 GMT"
     },
     {
-      "title": "Timesvis med kø for kolonne over Hemsedalsfjellet",
-      "link": "https://www.nrk.no/nyheter/timesvis-med-ko-for-kolonne-over-hemsedalsfjellet-1.17835573",
+      "title": "Timevis med kø for kolonne over Hemsedalsfjellet",
+      "link": "https://www.nrk.no/nyheter/timevis-med-ko-for-kolonne-over-hemsedalsfjellet-1.17835573",
       "category": "Vær og trafikk i Norge",
       "pubDate": "Sun, 05 Apr 2026 16:24:13 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/e6-ved-biri-apnet-igjen-etter-bussvelt-1.17835693",
       "category": "Vær og trafikk i Norge",
       "pubDate": "Sun, 05 Apr 2026 15:34:44 GMT"
-    },
-    {
-      "title": "Kan bli strømløse til i morgen – noe arbeid stoppes av uvær",
-      "link": "https://www.nrk.no/sorlandet/kan-bli-stromlose-til-i-morgen-_-noe-arbeid-stoppes-av-uvaer-1.17835689",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 05 Apr 2026 15:19:09 GMT"
     }
   ]
 }
