@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-05T10:37:32.665Z",
+  "updatedAt": "2026-04-05T11:32:33.621Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person funnet død i Surnadal",
+      "link": "https://www.nrk.no/mr/person-funnet-dod-i-surnadal--1.17835503",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 05 Apr 2026 10:43:53 GMT"
+    },
+    {
+      "title": "Oman: Samtaler med Iran om å sikre trygg ferdsel gjennom Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/oman_-samtaler-med-iran-om-a-sikre-trygg-ferdsel-gjennom-hormuzstredet-1.17835486",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 05 Apr 2026 10:42:25 GMT"
+    },
     {
       "title": "Dyreparken i Kristiansand holder løver og tigre inne i stormen",
       "link": "https://www.nrk.no/nyheter/dyreparken-i-kristiansand-holder-lover-og-tigre-inne-i-stormen-1.17835476",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/rogaland/voldshendelse-i-sandnes_-_-skal-vaere-stukket-med-skarp-gjenstand-1.17835386",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sun, 05 Apr 2026 08:10:19 GMT"
-    },
-    {
-      "title": "Iran: Fem drept i angrep under amerikansk redningsaksjon",
-      "link": "https://www.nrk.no/nyheter/iran_-fem-drept-i-angrep-under-amerikansk-redningsaksjon-1.17835332",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 05 Apr 2026 07:36:48 GMT"
-    },
-    {
-      "title": "Iran henrettet to menn tilknyttet demonstrasjoner",
-      "link": "https://www.nrk.no/nyheter/iran-henrettet-to-menn-tilknyttet-demonstrasjoner-1.17835288",
-      "category": "Iran",
-      "pubDate": "Sun, 05 Apr 2026 06:26:14 GMT"
     }
   ]
 }
