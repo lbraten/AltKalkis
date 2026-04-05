@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-05T22:34:28.370Z",
+  "updatedAt": "2026-04-05T23:36:24.830Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Buss og bil kolliderte i Tromsø",
+      "link": "https://www.nrk.no/nyheter/buss-og-bil-kolliderte-i-tromso-1.17835848",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 05 Apr 2026 22:50:48 GMT"
+    },
     {
       "title": "Oljeprisen stiger",
       "link": "https://www.nrk.no/nyheter/oljeprisen-stiger-1.17835846",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/e18-i-kristiansand-har-apnet-for-trafikk-1.17835781",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 05 Apr 2026 17:57:59 GMT"
-    },
-    {
-      "title": "NetBlocks: Irans internettstenging er den lengste i historien",
-      "link": "https://www.nrk.no/nyheter/netblocks_-irans-internettstenging-er-den-lengste-i-historien-1.17835785",
-      "category": "Iran",
-      "pubDate": "Sun, 05 Apr 2026 17:52:51 GMT"
     }
   ]
 }
