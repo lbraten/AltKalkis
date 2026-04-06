@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-06T10:11:51.656Z",
+  "updatedAt": "2026-04-06T11:27:35.681Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Bruker helikopter for å finne strømfeil",
-      "link": "https://www.nrk.no/sorlandet/bruker-helikopter-for-a-finne-stromfeil-1.17836049",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 06 Apr 2026 10:08:41 GMT"
-    },
-    {
-      "title": "E134 Haukelifjell er åpen for normal ferdsel",
-      "link": "https://www.nrk.no/vestfoldogtelemark/e134-haukelifjell-er-apen-for-normal-ferdsel-1.17836079",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 06 Apr 2026 10:06:31 GMT"
-    },
-    {
-      "title": "Båtbrann i Tønsberg",
-      "link": "https://www.nrk.no/vestfoldogtelemark/batbrann-i-tonsberg--1.17836038",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 06 Apr 2026 09:55:31 GMT"
-    },
-    {
-      "title": "Iran svarer på våpenhvileforslag: Vil ikke la seg diktere",
-      "link": "https://www.nrk.no/nyheter/iran-svarer-pa-vapenhvileforslag_-vil-ikke-la-seg-diktere-1.17836056",
+      "title": "IAEA bekrefter angrep nær atomkraftverk i Iran",
+      "link": "https://www.nrk.no/nyheter/iaea-bekrefter-angrep-naer-atomkraftverk-i-iran-1.17836127",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 06 Apr 2026 09:48:54 GMT"
+      "pubDate": "Mon, 06 Apr 2026 11:26:06 GMT"
     },
     {
-      "title": "En savnet etter snøskred i Hemsedal",
-      "link": "https://www.nrk.no/buskerud/en-savnet-etter-snoskred-i-hemsedal-1.17836054",
-      "category": "Politi og hendelser i Buskerud",
-      "pubDate": "Mon, 06 Apr 2026 09:30:41 GMT"
+      "title": "Enebolig overtent i Vinstra",
+      "link": "https://www.nrk.no/innlandet/enebolig-overtent-i-vinstra-1.17836144",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Mon, 06 Apr 2026 11:20:38 GMT"
     },
     {
-      "title": "Iran anklager FN for passivitet etter angrep mot atomkraftverk",
-      "link": "https://www.nrk.no/nyheter/iran-anklager-fn-for-passivitet-etter-angrep-mot-atomkraftverk-1.17836043",
+      "title": "Redningsaksjon i Øygarden",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-i-oygarden-1.17836098",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 06 Apr 2026 11:08:05 GMT"
+    },
+    {
+      "title": "Fire personer drept i Iransk angrep mot byen Haifa",
+      "link": "https://www.nrk.no/nyheter/fire-personer-drept-i-iransk-angrep-mot-byen-haifa-1.17836112",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 06 Apr 2026 09:26:23 GMT"
+      "pubDate": "Mon, 06 Apr 2026 10:53:27 GMT"
+    },
+    {
+      "title": "Fv. 450 Hunnedalsvegen åpen igjen",
+      "link": "https://www.nrk.no/rogaland/fv.-450-hunnedalsvegen-apen-igjen--1.17836099",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 06 Apr 2026 10:39:12 GMT"
+    },
+    {
+      "title": "Politiet ber om fengsling etter mistenkelig dødsfall i Trondheim",
+      "link": "https://www.nrk.no/nyheter/politiet-ber-om-fengsling-etter-mistenkelig-dodsfall-i-trondheim-1.17836110",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 06 Apr 2026 10:33:59 GMT"
     }
   ]
 }
