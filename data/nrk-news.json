@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-06T20:05:07.297Z",
+  "updatedAt": "2026-04-06T21:04:42.004Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN-sjefen advarer USA mot å angripe Iran",
+      "link": "https://www.nrk.no/nyheter/fn-sjefen-advarer-usa-mot-a-angripe-iran-1.17836520",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 06 Apr 2026 20:49:15 GMT"
+    },
     {
       "title": "Møtes tirsdag for å diskutere Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/motes-tirsdag-for-a-diskutere-hormuzstredet-1.17836504",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-truer-journalister-med-fengsel-1.17836428",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 06 Apr 2026 17:56:51 GMT"
-    },
-    {
-      "title": "Tøyen: Person løp etter en annen med kniv",
-      "link": "https://www.nrk.no/stor-oslo/toyen_-person-lop-etter-en-annen-med-kniv-1.17836451",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 06 Apr 2026 17:50:12 GMT"
     }
   ]
 }
