@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-06T22:50:27.302Z",
+  "updatedAt": "2026-04-06T23:38:30.727Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nasa har igjen fått kontakt med Artemis 2",
+      "link": "https://www.nrk.no/nyheter/nasa-har-igjen-fatt-kontakt-med-artemis-2-1.17836535",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 06 Apr 2026 23:34:44 GMT"
+    },
+    {
+      "title": "To drept av drone i Irak",
+      "link": "https://www.nrk.no/nyheter/to-drept-av-drone-i-irak-1.17836534",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 06 Apr 2026 23:09:06 GMT"
+    },
     {
       "title": "WHO stanser evakuering fra Gaza",
       "link": "https://www.nrk.no/nyheter/who-stanser-evakuering-fra-gaza-1.17836531",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fn-sjefen-advarer-usa-mot-a-angripe-iran-1.17836520",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 06 Apr 2026 20:49:15 GMT"
-    },
-    {
-      "title": "Møtes tirsdag for å diskutere Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/motes-tirsdag-for-a-diskutere-hormuzstredet-1.17836504",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 06 Apr 2026 19:35:06 GMT"
-    },
-    {
-      "title": "Minst ti drept i israelske angrep nær skole i Gaza",
-      "link": "https://www.nrk.no/nyheter/minst-ti-drept-i-israelske-angrep-naer-skole-i-gaza-1.17836463",
-      "category": "Krig og konflikt i Midtøsten",
-      "pubDate": "Mon, 06 Apr 2026 19:30:20 GMT"
     }
   ]
 }
