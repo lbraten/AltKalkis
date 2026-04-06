@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-06T21:59:44.984Z",
+  "updatedAt": "2026-04-06T22:50:27.302Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "WHO stanser evakuering fra Gaza",
+      "link": "https://www.nrk.no/nyheter/who-stanser-evakuering-fra-gaza-1.17836531",
+      "category": "Krigen i Gaza",
+      "pubDate": "Mon, 06 Apr 2026 22:34:12 GMT"
+    },
+    {
+      "title": "Togene mellom Halden og Göteborg går igjen",
+      "link": "https://www.nrk.no/nyheter/togene-mellom-halden-og-goteborg-gar-igjen-1.17836530",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Mon, 06 Apr 2026 22:16:58 GMT"
+    },
     {
       "title": "Minst 15 drept i terrorangrep i Nigeria",
       "link": "https://www.nrk.no/nyheter/minst-15-drept-i-terrorangrep-i-nigeria-1.17836522",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-ti-drept-i-israelske-angrep-naer-skole-i-gaza-1.17836463",
       "category": "Krig og konflikt i Midtøsten",
       "pubDate": "Mon, 06 Apr 2026 19:30:20 GMT"
-    },
-    {
-      "title": "Tre nye personer pågrepet etter mistenkelig dødsfall i Trondheim",
-      "link": "https://www.nrk.no/nyheter/tre-nye-personer-pagrepet-etter-mistenkelig-dodsfall-i-trondheim-1.17836315",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 06 Apr 2026 18:38:26 GMT"
-    },
-    {
-      "title": "Artemis med romferd-rekord",
-      "link": "https://www.nrk.no/nyheter/artemis-med-romferd-rekord-1.17836460",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 06 Apr 2026 18:01:04 GMT"
     }
   ]
 }
