@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-06T11:27:35.681Z",
+  "updatedAt": "2026-04-06T12:07:16.041Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel bekrefter angrep mot Irans viktigste gassanlegg",
+      "link": "https://www.nrk.no/nyheter/israel-bekrefter-angrep-mot-irans-viktigste-gassanlegg-1.17836153",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 06 Apr 2026 11:32:52 GMT"
+    },
     {
       "title": "IAEA bekrefter angrep nær atomkraftverk i Iran",
       "link": "https://www.nrk.no/nyheter/iaea-bekrefter-angrep-naer-atomkraftverk-i-iran-1.17836127",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/fv.-450-hunnedalsvegen-apen-igjen--1.17836099",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Mon, 06 Apr 2026 10:39:12 GMT"
-    },
-    {
-      "title": "Politiet ber om fengsling etter mistenkelig dødsfall i Trondheim",
-      "link": "https://www.nrk.no/nyheter/politiet-ber-om-fengsling-etter-mistenkelig-dodsfall-i-trondheim-1.17836110",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 06 Apr 2026 10:33:59 GMT"
     }
   ]
 }
