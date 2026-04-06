@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-06T14:51:21.635Z",
+  "updatedAt": "2026-04-06T15:51:20.664Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rundt 1200 på Sørlandet fortsatt uten strøm",
+      "link": "https://www.nrk.no/nyheter/rundt-1200-pa-sorlandet-fortsatt-uten-strom-1.17836324",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Mon, 06 Apr 2026 15:00:00 GMT"
+    },
     {
       "title": "Tre personer hentet av luftambulanse etter trafikkulykke",
       "link": "https://www.nrk.no/innlandet/tre-personer-hentet-av-luftambulanse-etter-trafikkulykke-1.17836292",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-personer-omkom-i-batulykke-i-lofoten-skjaertorsdag-1.17836241",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 06 Apr 2026 13:42:48 GMT"
-    },
-    {
-      "title": "Kunstsilo-entreprenør: – Vi vet ikke hvordan det kunne skje",
-      "link": "https://www.nrk.no/sorlandet/kunstsilo-entreprenor_-_-vi-vet-ikke-hvordan-det-kunne-skje-1.17836179",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 06 Apr 2026 13:20:22 GMT"
     }
   ]
 }
