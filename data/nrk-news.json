@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-06T02:44:06.245Z",
+  "updatedAt": "2026-04-06T05:27:13.134Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Iran truer med større angrep hvis sivile mål rammes",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-storre-angrep-hvis-sivile-mal-rammes-1.17835865",
+      "title": "Ny henrettelse i Iran",
+      "link": "https://www.nrk.no/nyheter/ny-henrettelse-i-iran--1.17835877",
+      "category": "Iran",
+      "pubDate": "Mon, 06 Apr 2026 05:22:08 GMT"
+    },
+    {
+      "title": "Artemis II: På vei rundt månen",
+      "link": "https://www.nrk.no/nyheter/artemis-ii_-pa-vei-rundt-manen-1.17835875",
+      "category": "Nasa",
+      "pubDate": "Mon, 06 Apr 2026 05:12:12 GMT"
+    },
+    {
+      "title": "Flere drept i russisk angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/flere-drept-i-russisk-angrep-i-ukraina-1.17835873",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 06 Apr 2026 04:15:55 GMT"
+    },
+    {
+      "title": "Seks barn drept i angrep i Teheran",
+      "link": "https://www.nrk.no/nyheter/seks-barn-drept-i-angrep-i-teheran-1.17835871",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 06 Apr 2026 02:26:46 GMT"
+      "pubDate": "Mon, 06 Apr 2026 04:00:59 GMT"
     },
     {
-      "title": "Rykker ut til ulykke i Numedal",
-      "link": "https://www.nrk.no/nyheter/rykker-ut-til-ulykke-i-numedal-1.17835864",
-      "category": "Trafikk i Buskerud",
-      "pubDate": "Mon, 06 Apr 2026 02:21:48 GMT"
+      "title": "Redningsaksjon i Jotunheimen",
+      "link": "https://www.nrk.no/nyheter/redningsaksjon-i-jotunheimen-1.17835870",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Mon, 06 Apr 2026 03:32:39 GMT"
     },
     {
-      "title": "13 personer drept i angrep mot boligblokk i Teheran",
-      "link": "https://www.nrk.no/nyheter/13-personer-drept-i-angrep-mot-boligblokk-i-teheran-1.17835863",
+      "title": "Haaretz: To døde i iransk angrep mot Haifa",
+      "link": "https://www.nrk.no/nyheter/haaretz_-to-dode-i-iransk-angrep-mot-haifa-1.17835869",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 06 Apr 2026 02:13:09 GMT"
-    },
-    {
-      "title": "Sponsorflukt fra London-festival etter Kanye-booking",
-      "link": "https://www.nrk.no/nyheter/sponsorflukt-fra-london-festival-etter-kanye-booking-1.17835862",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 06 Apr 2026 01:44:21 GMT"
-    },
-    {
-      "title": "Arendal: Naboer til enebolig i brann er evakuert",
-      "link": "https://www.nrk.no/nyheter/arendal_-naboer-til-enebolig-i-brann-er-evakuert-1.17835859",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 05 Apr 2026 23:57:52 GMT"
-    },
-    {
-      "title": "Manchester City-kaptein ferdig i klubben",
-      "link": "https://www.nrk.no/nyheter/manchester-city-kaptein-ferdig-i-klubben-1.17835857",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 05 Apr 2026 23:57:12 GMT"
+      "pubDate": "Mon, 06 Apr 2026 02:56:45 GMT"
     }
   ]
 }
