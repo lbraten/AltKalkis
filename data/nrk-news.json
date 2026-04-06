@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-06T21:04:42.004Z",
+  "updatedAt": "2026-04-06T21:59:44.984Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 15 drept i terrorangrep i Nigeria",
+      "link": "https://www.nrk.no/nyheter/minst-15-drept-i-terrorangrep-i-nigeria-1.17836522",
+      "category": "Nigeria",
+      "pubDate": "Mon, 06 Apr 2026 21:54:06 GMT"
+    },
     {
       "title": "FN-sjefen advarer USA mot å angripe Iran",
       "link": "https://www.nrk.no/nyheter/fn-sjefen-advarer-usa-mot-a-angripe-iran-1.17836520",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/artemis-med-romferd-rekord-1.17836460",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 06 Apr 2026 18:01:04 GMT"
-    },
-    {
-      "title": "Trump truer journalister med fengsel",
-      "link": "https://www.nrk.no/nyheter/trump-truer-journalister-med-fengsel-1.17836428",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 06 Apr 2026 17:56:51 GMT"
     }
   ]
 }
