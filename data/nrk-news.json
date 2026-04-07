@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-07T16:34:15.079Z",
+  "updatedAt": "2026-04-07T17:58:33.576Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN-utsending på vei til Teheran",
+      "link": "https://www.nrk.no/nyheter/fn-utsending-pa-vei-til-teheran-1.17837676",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 17:32:55 GMT"
+    },
+    {
+      "title": "Madagaskar erklærer unntakstilstand",
+      "link": "https://www.nrk.no/nyheter/madagaskar-erklaerer-unntakstilstand-1.17837612",
+      "category": "Madagaskar",
+      "pubDate": "Tue, 07 Apr 2026 17:08:44 GMT"
+    },
+    {
+      "title": "Norges Råfisklag: Omsatte for over 440 millioner i påskeuka",
+      "link": "https://www.nrk.no/tromsogfinnmark/norges-rafisklag_-omsatte-for-over-440-millioner-i-paskeuka-1.17837316",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 07 Apr 2026 16:33:29 GMT"
+    },
     {
       "title": "Amerikansk journalist i Irak skal slippes fri",
       "link": "https://www.nrk.no/nyheter/amerikansk-journalist-i-irak-skal-slippes-fri-1.17837600",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kina-og-russland-blokkerte-fn-resolusjon-om-hormuzstredet-1.17837586",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 07 Apr 2026 15:45:42 GMT"
-    },
-    {
-      "title": "Det hvite hus avviser at atomvåpen vurderes brukt mot Iran",
-      "link": "https://www.nrk.no/nyheter/det-hvite-hus-avviser-at-atomvapen-vurderes-brukt-mot-iran-1.17837535",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 15:37:02 GMT"
-    },
-    {
-      "title": "Brann på Bergensbanen",
-      "link": "https://www.nrk.no/buskerud/brann-pa-bergensbanen-1.17837555",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Tue, 07 Apr 2026 14:55:55 GMT"
-    },
-    {
-      "title": "IOM: Over 180 migranter savnet i Middelhavet i mars og april – nær 1000 omkomne hittil i år",
-      "link": "https://www.nrk.no/nyheter/iom_-over-180-migranter-savnet-i-middelhavet-i-mars-og-april-_-naer-1000-omkomne-hittil-i-ar-1.17837533",
-      "category": "Båtflyktninger i Middelhavet",
-      "pubDate": "Tue, 07 Apr 2026 14:35:14 GMT"
     }
   ]
 }
