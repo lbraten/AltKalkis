@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-07T17:58:33.576Z",
+  "updatedAt": "2026-04-07T19:18:02.481Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran er klare for alle scenarioer, sier visepresident",
+      "link": "https://www.nrk.no/nyheter/iran-er-klare-for-alle-scenarioer_-sier-visepresident-1.17837758",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 19:12:11 GMT"
+    },
+    {
+      "title": "Kuwait ber folk holde seg inne før Trumps deadline",
+      "link": "https://www.nrk.no/nyheter/kuwait-ber-folk-holde-seg-inne-for-trumps-deadline-1.17837739",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 18:57:49 GMT"
+    },
+    {
+      "title": "Bill Gates vitner i Kongressen om Epstein",
+      "link": "https://www.nrk.no/nyheter/bill-gates-vitner-i-kongressen-om-epstein-1.17837737",
+      "category": "Jeffrey Epstein-saken",
+      "pubDate": "Tue, 07 Apr 2026 18:19:01 GMT"
+    },
+    {
+      "title": "FN-ambassadør: Iran vil gjengjelde umiddelbart hvis Trump gjør alvor av trusler",
+      "link": "https://www.nrk.no/nyheter/fn-ambassador_-iran-vil-gjengjelde-umiddelbart-hvis-trump-gjor-alvor-av-trusler-1.17837701",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 18:12:49 GMT"
+    },
     {
       "title": "FN-utsending på vei til Teheran",
       "link": "https://www.nrk.no/nyheter/fn-utsending-pa-vei-til-teheran-1.17837676",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/madagaskar-erklaerer-unntakstilstand-1.17837612",
       "category": "Madagaskar",
       "pubDate": "Tue, 07 Apr 2026 17:08:44 GMT"
-    },
-    {
-      "title": "Norges Råfisklag: Omsatte for over 440 millioner i påskeuka",
-      "link": "https://www.nrk.no/tromsogfinnmark/norges-rafisklag_-omsatte-for-over-440-millioner-i-paskeuka-1.17837316",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 07 Apr 2026 16:33:29 GMT"
-    },
-    {
-      "title": "Amerikansk journalist i Irak skal slippes fri",
-      "link": "https://www.nrk.no/nyheter/amerikansk-journalist-i-irak-skal-slippes-fri-1.17837600",
-      "category": "Irak",
-      "pubDate": "Tue, 07 Apr 2026 16:00:25 GMT"
-    },
-    {
-      "title": "Mærsk-skip truffet av prosjektil i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/maersk-skip-truffet-av-prosjektil-i-hormuzstredet-1.17837592",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 15:52:29 GMT"
-    },
-    {
-      "title": "Kina og Russland blokkerte FN-resolusjon om Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/kina-og-russland-blokkerte-fn-resolusjon-om-hormuzstredet-1.17837586",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 15:45:42 GMT"
     }
   ]
 }
