@@ -1979,6 +1979,20 @@ document.addEventListener("DOMContentLoaded", () => {
         return getLastDaysRange(30);
     }
 
+    function buildDayKeysForRange(rangeKey) {
+        const { start, end } = getRangeForKey(rangeKey);
+        const days = [];
+        const cursor = new Date(start.getFullYear(), start.getMonth(), start.getDate());
+        const last = new Date(end.getFullYear(), end.getMonth(), end.getDate());
+
+        while (cursor <= last) {
+            days.push(formatDateYmd(cursor));
+            cursor.setDate(cursor.getDate() + 1);
+        }
+
+        return days;
+    }
+
     const toIsoStartOfDay = (date) => {
         const utc = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate(), 0, 0, 0));
         return utc.toISOString();
@@ -2027,6 +2041,20 @@ document.addEventListener("DOMContentLoaded", () => {
         return days.map((d) => (valueMap.has(d) ? valueMap.get(d) : null));
     };
 
+    const getSeriesBounds = (values = []) => {
+        let min = Infinity;
+        let max = -Infinity;
+
+        values.forEach((value) => {
+            if (!Number.isFinite(value)) return;
+            if (value < min) min = value;
+            if (value > max) max = value;
+        });
+
+        if (min === Infinity || max === -Infinity) return null;
+        return { min, max };
+    };
+
     const hasFiniteSeries = (values) => Array.isArray(values) && values.some((v) => Number.isFinite(v));
     const hasNonZeroSeries = (values, epsilon = 1e-9) =>
         Array.isArray(values) && values.some((v) => Number.isFinite(v) && Math.abs(v) > epsilon);
@@ -2037,6 +2065,8 @@ document.addEventListener("DOMContentLoaded", () => {
     let sharedUvHistoryPromise = null;
     let sharedUvUpdatedAt = null;
     let sharedUvSource = null;
+    const omYearToDateExtremesCache = new Map();
+    const omYearToDateExtremesPending = new Map();
 
     const toUvLocationKey = (lat, lon) => {
         const safeLat = Number(lat);
@@ -2239,6 +2269,74 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
+    async function fetchTemperatureBoundsForRange(lat, lon, rangeKey) {
+        const { start, end } = getRangeForKey(rangeKey);
+        const startDate = formatDateYmd(start);
+        const endDate = formatDateYmd(end);
+
+        const url =
+            "https://archive-api.open-meteo.com/v1/archive" +
+            `?latitude=${encodeURIComponent(lat)}` +
+            `&longitude=${encodeURIComponent(lon)}` +
+            `&start_date=${startDate}` +
+            `&end_date=${endDate}` +
+            `&daily=temperature_2m_min,temperature_2m_max` +
+            `&timezone=Europe%2FOslo`;
+
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`Vær-API feil: ${res.status} ${res.statusText}`);
+        const data = await res.json();
+
+        const dailyMin = data?.daily?.temperature_2m_min || [];
+        const dailyMax = data?.daily?.temperature_2m_max || [];
+        const minBounds = getSeriesBounds(dailyMin);
+        const maxBounds = getSeriesBounds(dailyMax);
+
+        if (!minBounds && !maxBounds) {
+            return { min: null, max: null };
+        }
+
+        return {
+            min: minBounds ? minBounds.min : null,
+            max: maxBounds ? maxBounds.max : null,
+        };
+    }
+
+    const getYearToDateExtremesForLocation = async (lat, lon) => {
+        const cacheKey = `${toUvLocationKey(lat, lon)}:${formatDateYmd(new Date())}`;
+        if (omYearToDateExtremesCache.has(cacheKey)) {
+            return omYearToDateExtremesCache.get(cacheKey);
+        }
+        if (omYearToDateExtremesPending.has(cacheKey)) {
+            return omYearToDateExtremesPending.get(cacheKey);
+        }
+
+        const pending = (async () => {
+            const ytdDays = buildDayKeysForRange("ytd");
+            const [tempResult, uvResult] = await Promise.allSettled([
+                fetchTemperatureBoundsForRange(lat, lon, "ytd"),
+                fetchUvIndexForRange(lat, lon, "ytd", ytdDays),
+            ]);
+
+            const temp = tempResult.status === "fulfilled" ? tempResult.value : null;
+            const uvBounds = uvResult.status === "fulfilled" ? getSeriesBounds(uvResult.value) : null;
+            const stats = {
+                tempMin: Number.isFinite(temp?.min) ? temp.min : null,
+                tempMax: Number.isFinite(temp?.max) ? temp.max : null,
+                uvMin: Number.isFinite(uvBounds?.min) ? uvBounds.min : null,
+                uvMax: Number.isFinite(uvBounds?.max) ? uvBounds.max : null,
+            };
+
+            omYearToDateExtremesCache.set(cacheKey, stats);
+            return stats;
+        })().finally(() => {
+            omYearToDateExtremesPending.delete(cacheKey);
+        });
+
+        omYearToDateExtremesPending.set(cacheKey, pending);
+        return pending;
+    };
+
     const omStatusEl = document.getElementById("omStatus");
     const omUvUpdatedAtEl = document.getElementById("omUvUpdatedAt");
     const omUvSourceInfoEl = document.getElementById("omUvSourceInfo");
@@ -2280,10 +2378,31 @@ document.addEventListener("DOMContentLoaded", () => {
         return `Hentet fra: ${source}`;
     };
 
-    const setOmUvUpdatedAtStatus = () => {
+    const formatMetricValue = (value, unit = "", digits = 1) => {
+        if (!Number.isFinite(value)) return "-";
+        return `${value.toLocaleString("nb-NO", {
+            minimumFractionDigits: digits,
+            maximumFractionDigits: digits,
+        })}${unit}`;
+    };
+
+    const formatYearToDateExtremes = (stats) => {
+        if (!stats) return "";
+        const hasTemp = Number.isFinite(stats.tempMin) || Number.isFinite(stats.tempMax);
+        const hasUv = Number.isFinite(stats.uvMin) || Number.isFinite(stats.uvMax);
+        if (!hasTemp && !hasUv) return "";
+
+        const tempText = `laveste/høyeste temp ${formatMetricValue(stats.tempMin, " °C", 1)} / ${formatMetricValue(stats.tempMax, " °C", 1)}`;
+        const uvText = `laveste/høyeste UV ${formatMetricValue(stats.uvMin, "", 2)} / ${formatMetricValue(stats.uvMax, "", 2)}`;
+        return `Målt hittil i år: ${tempText}, ${uvText}`;
+    };
+
+    const setOmUvUpdatedAtStatus = (yearToDateStats = null) => {
         if (!omUvUpdatedAtEl) return;
         const text = formatSharedUvUpdatedAt(sharedUvUpdatedAt);
-        omUvUpdatedAtEl.textContent = text || "Delt UV-data: venter på første oppdatering.";
+        const baseText = text || "Delt UV-data: venter på første oppdatering.";
+        const ytdText = formatYearToDateExtremes(yearToDateStats);
+        omUvUpdatedAtEl.textContent = ytdText ? `${baseText} | ${ytdText}` : baseText;
         if (omUvSourceInfoEl) {
             const sourceText = formatSharedUvSource(sharedUvSource);
             omUvSourceInfoEl.dataset.tooltip = sourceText;
@@ -2337,6 +2456,7 @@ document.addEventListener("DOMContentLoaded", () => {
         try {
             setOmStatus("Henter grafdata…");
             const { labels, values, humidity, days } = await fetchTemperaturesForRange(lat, lon, omSelectedRange);
+            const yearToDateExtremesPromise = getYearToDateExtremesForLocation(lat, lon);
             const includeTemp = omTempToggle ? omTempToggle.checked : true;
             const includeHumidity = !!omHumidityToggle?.checked;
             const includeUv = !!omUvToggle?.checked;
@@ -2369,11 +2489,14 @@ document.addEventListener("DOMContentLoaded", () => {
             const extraRequests = [
                 includeUv ? fetchUvIndexForRange(lat, lon, omSelectedRange, days) : Promise.resolve(null),
                 includeAqi ? fetchAqiForRange(lat, lon, omSelectedRange, days) : Promise.resolve(null),
+                yearToDateExtremesPromise,
             ];
-            const [uvResult, aqiResult] = await Promise.allSettled(extraRequests);
+            const [uvResult, aqiResult, yearToDateExtremesResult] = await Promise.allSettled(extraRequests);
             const warnings = [];
 
-            setOmUvUpdatedAtStatus();
+            const yearToDateStats =
+                yearToDateExtremesResult.status === "fulfilled" ? yearToDateExtremesResult.value : null;
+            setOmUvUpdatedAtStatus(yearToDateStats);
 
             const uvRawValues = uvResult.status === "fulfilled" ? uvResult.value : null;
             const uvValues = hasNonZeroSeries(uvRawValues) ? uvRawValues : null;
