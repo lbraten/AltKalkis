@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-07T19:18:02.481Z",
+  "updatedAt": "2026-04-07T20:06:29.642Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i buss for tog",
+      "link": "https://www.nrk.no/buskerud/brann-i-buss-for-tog-1.17837742",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Tue, 07 Apr 2026 19:35:25 GMT"
+    },
+    {
+      "title": "Pakistans statsminister ber Trump utsette Iran-frist med to uker",
+      "link": "https://www.nrk.no/nyheter/pakistans-statsminister-ber-trump-utsette-iran-frist-med-to-uker-1.17837777",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 07 Apr 2026 19:18:56 GMT"
+    },
     {
       "title": "Iran er klare for alle scenarioer, sier visepresident",
       "link": "https://www.nrk.no/nyheter/iran-er-klare-for-alle-scenarioer_-sier-visepresident-1.17837758",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fn-ambassador_-iran-vil-gjengjelde-umiddelbart-hvis-trump-gjor-alvor-av-trusler-1.17837701",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 07 Apr 2026 18:12:49 GMT"
-    },
-    {
-      "title": "FN-utsending på vei til Teheran",
-      "link": "https://www.nrk.no/nyheter/fn-utsending-pa-vei-til-teheran-1.17837676",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 17:32:55 GMT"
-    },
-    {
-      "title": "Madagaskar erklærer unntakstilstand",
-      "link": "https://www.nrk.no/nyheter/madagaskar-erklaerer-unntakstilstand-1.17837612",
-      "category": "Madagaskar",
-      "pubDate": "Tue, 07 Apr 2026 17:08:44 GMT"
     }
   ]
 }
