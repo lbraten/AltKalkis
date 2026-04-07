@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-07T20:06:29.642Z",
+  "updatedAt": "2026-04-07T21:11:22.647Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Harry Hole topper Netflix-liste",
+      "link": "https://www.nrk.no/nyheter/harry-hole-topper-netflix-liste-1.17837823",
+      "category": "Film og serier",
+      "pubDate": "Tue, 07 Apr 2026 20:59:03 GMT"
+    },
+    {
+      "title": "Iran truer med kraftigere angrep mot USA og Israel",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-kraftigere-angrep-mot-usa-og-israel-1.17837822",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 20:40:09 GMT"
+    },
     {
       "title": "Brann i buss for tog",
       "link": "https://www.nrk.no/buskerud/brann-i-buss-for-tog-1.17837742",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kuwait-ber-folk-holde-seg-inne-for-trumps-deadline-1.17837739",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 07 Apr 2026 18:57:49 GMT"
-    },
-    {
-      "title": "Bill Gates vitner i Kongressen om Epstein",
-      "link": "https://www.nrk.no/nyheter/bill-gates-vitner-i-kongressen-om-epstein-1.17837737",
-      "category": "Jeffrey Epstein-saken",
-      "pubDate": "Tue, 07 Apr 2026 18:19:01 GMT"
-    },
-    {
-      "title": "FN-ambassadør: Iran vil gjengjelde umiddelbart hvis Trump gjør alvor av trusler",
-      "link": "https://www.nrk.no/nyheter/fn-ambassador_-iran-vil-gjengjelde-umiddelbart-hvis-trump-gjor-alvor-av-trusler-1.17837701",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 18:12:49 GMT"
     }
   ]
 }
