@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-07T05:11:23.098Z",
+  "updatedAt": "2026-04-07T06:52:21.596Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel truer jernbanen i Iran",
+      "link": "https://www.nrk.no/nyheter/israel-truer-jernbanen-i-iran-1.17836586",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 05:44:59 GMT"
+    },
     {
       "title": "Ulv som angrep kvinne i Tyskland, er sluppet fri",
       "link": "https://www.nrk.no/nyheter/ulv-som-angrep-kvinne-i-tyskland_-er-sluppet-fri-1.17836540",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-teheran-og-omegn-1.17836536",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 07 Apr 2026 00:45:12 GMT"
-    },
-    {
-      "title": "Israelsk luftforsvar skjøt ned iranske raketter",
-      "link": "https://www.nrk.no/nyheter/israelsk-luftforsvar-skjot-ned-iranske-raketter-1.17836538",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 06 Apr 2026 23:56:54 GMT"
     }
   ]
 }
