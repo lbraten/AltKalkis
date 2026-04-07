@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-07T02:38:18.371Z",
+  "updatedAt": "2026-04-07T05:11:23.098Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ulv som angrep kvinne i Tyskland, er sluppet fri",
+      "link": "https://www.nrk.no/nyheter/ulv-som-angrep-kvinne-i-tyskland_-er-sluppet-fri-1.17836540",
+      "category": "Tyskland",
+      "pubDate": "Tue, 07 Apr 2026 02:47:57 GMT"
+    },
     {
       "title": "Synagoge skal være lagt i grus i Teheran",
       "link": "https://www.nrk.no/nyheter/synagoge-skal-vaere-lagt-i-grus-i-teheran-1.17836542",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israelsk-luftforsvar-skjot-ned-iranske-raketter-1.17836538",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 06 Apr 2026 23:56:54 GMT"
-    },
-    {
-      "title": "Eksplosjoner i Damaskus",
-      "link": "https://www.nrk.no/nyheter/eksplosjoner-i-damaskus-1.17836537",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 06 Apr 2026 23:46:32 GMT"
     }
   ]
 }
