@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-07T10:58:32.175Z",
+  "updatedAt": "2026-04-07T11:57:48.271Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Medier: Omfattende angrep mot transportnettverket i Iran",
+      "link": "https://www.nrk.no/nyheter/medier_-omfattende-angrep-mot-transportnettverket-i-iran-1.17837170",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 11:53:54 GMT"
+    },
+    {
+      "title": "Kharg-øya i Iran er under angrep",
+      "link": "https://www.nrk.no/nyheter/kharg-oya-i-iran-er-under-angrep-1.17837160",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 11:36:11 GMT"
+    },
+    {
+      "title": "SNO skjøt 28 moskus i 2026",
+      "link": "https://www.nrk.no/innlandet/sno-skjot-28-moskus-i-2026-1.17837115",
+      "category": "Moskus",
+      "pubDate": "Tue, 07 Apr 2026 11:18:57 GMT"
+    },
+    {
+      "title": "IDF: Israel har gjennomført omfattende angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/idf_-israel-har-gjennomfort-omfattende-angrep-mot-iran-1.17836994",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 10:58:57 GMT"
+    },
     {
       "title": "Mann døydde av brannskadar",
       "link": "https://www.nrk.no/vestland/mann-doydde-av-brannskadar--1.17836942",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/cnn-turk_-skyting-ved-israelsk-konsulat-i-istanbul--1.17836944",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 07 Apr 2026 09:57:19 GMT"
-    },
-    {
-      "title": "Alvorlig arbeidsulykke i Hægebostad",
-      "link": "https://www.nrk.no/sorlandet/alvorlig-arbeidsulykke-i-haegebostad-1.17836978",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Tue, 07 Apr 2026 09:55:43 GMT"
-    },
-    {
-      "title": "Michelin-restaurant stenger",
-      "link": "https://www.nrk.no/nyheter/michelin-restaurant-stenger--1.17836808",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 07 Apr 2026 09:29:16 GMT"
-    },
-    {
-      "title": "Politiet aukar fokuset på fartskontrollar",
-      "link": "https://www.nrk.no/innlandet/politiet-aukar-fokuset-pa-fartskontrollar-1.17836867",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Tue, 07 Apr 2026 08:56:01 GMT"
-    },
-    {
-      "title": "Norsk Bonde- og Småbrukarlag vil reetablere 5000 gårdsbruk",
-      "link": "https://www.nrk.no/nyheter/norsk-bonde--og-smabrukarlag-vil-reetablere-5000-gardsbruk-1.17836865",
-      "category": "Norsk matproduksjon",
-      "pubDate": "Tue, 07 Apr 2026 08:54:48 GMT"
     }
   ]
 }
