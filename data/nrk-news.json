@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-07T21:11:22.647Z",
+  "updatedAt": "2026-04-07T22:04:25.681Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel beklager angrep mot synagoge i Iran",
+      "link": "https://www.nrk.no/nyheter/israel-beklager-angrep-mot-synagoge-i-iran-1.17837840",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 21:44:56 GMT"
+    },
+    {
+      "title": "Fire skadet av rakettrester i Qatar",
+      "link": "https://www.nrk.no/nyheter/fire-skadet-av-rakettrester-i-qatar-1.17837839",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 21:43:39 GMT"
+    },
+    {
+      "title": "Politiet undersøker meldinger om skudd i Oslo",
+      "link": "https://www.nrk.no/nyheter/politiet-undersoker-meldinger-om-skudd-i-oslo-1.17837837",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 07 Apr 2026 21:32:58 GMT"
+    },
+    {
+      "title": "Israel ber folk flykte fra byen Tyr sør i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-ber-folk-flykte-fra-byen-tyr-sor-i-libanon-1.17837831",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 21:14:50 GMT"
+    },
     {
       "title": "Harry Hole topper Netflix-liste",
       "link": "https://www.nrk.no/nyheter/harry-hole-topper-netflix-liste-1.17837823",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-truer-med-kraftigere-angrep-mot-usa-og-israel-1.17837822",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 07 Apr 2026 20:40:09 GMT"
-    },
-    {
-      "title": "Brann i buss for tog",
-      "link": "https://www.nrk.no/buskerud/brann-i-buss-for-tog-1.17837742",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Tue, 07 Apr 2026 19:35:25 GMT"
-    },
-    {
-      "title": "Pakistans statsminister ber Trump utsette Iran-frist med to uker",
-      "link": "https://www.nrk.no/nyheter/pakistans-statsminister-ber-trump-utsette-iran-frist-med-to-uker-1.17837777",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 07 Apr 2026 19:18:56 GMT"
-    },
-    {
-      "title": "Iran er klare for alle scenarioer, sier visepresident",
-      "link": "https://www.nrk.no/nyheter/iran-er-klare-for-alle-scenarioer_-sier-visepresident-1.17837758",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 19:12:11 GMT"
-    },
-    {
-      "title": "Kuwait ber folk holde seg inne før Trumps deadline",
-      "link": "https://www.nrk.no/nyheter/kuwait-ber-folk-holde-seg-inne-for-trumps-deadline-1.17837739",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 18:57:49 GMT"
     }
   ]
 }
