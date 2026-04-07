@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-04-07T15:11:27.170Z",
+  "updatedAt": "2026-04-07T16:34:15.079Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Røykutvikling på Bergensbanen",
-      "link": "https://www.nrk.no/buskerud/roykutvikling-pa-bergensbanen-1.17837555",
-      "category": "NRK Nyheter",
+      "title": "Amerikansk journalist i Irak skal slippes fri",
+      "link": "https://www.nrk.no/nyheter/amerikansk-journalist-i-irak-skal-slippes-fri-1.17837600",
+      "category": "Irak",
+      "pubDate": "Tue, 07 Apr 2026 16:00:25 GMT"
+    },
+    {
+      "title": "Mærsk-skip truffet av prosjektil i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/maersk-skip-truffet-av-prosjektil-i-hormuzstredet-1.17837592",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 15:52:29 GMT"
+    },
+    {
+      "title": "Kina og Russland blokkerte FN-resolusjon om Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/kina-og-russland-blokkerte-fn-resolusjon-om-hormuzstredet-1.17837586",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 15:45:42 GMT"
+    },
+    {
+      "title": "Det hvite hus avviser at atomvåpen vurderes brukt mot Iran",
+      "link": "https://www.nrk.no/nyheter/det-hvite-hus-avviser-at-atomvapen-vurderes-brukt-mot-iran-1.17837535",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 15:37:02 GMT"
+    },
+    {
+      "title": "Brann på Bergensbanen",
+      "link": "https://www.nrk.no/buskerud/brann-pa-bergensbanen-1.17837555",
+      "category": "Vær og trafikk i Norge",
       "pubDate": "Tue, 07 Apr 2026 14:55:55 GMT"
     },
     {
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iom_-over-180-migranter-savnet-i-middelhavet-i-mars-og-april-_-naer-1000-omkomne-hittil-i-ar-1.17837533",
       "category": "Båtflyktninger i Middelhavet",
       "pubDate": "Tue, 07 Apr 2026 14:35:14 GMT"
-    },
-    {
-      "title": "USA beordrer alle amerikanere i Bahrain til å søke tilflukt",
-      "link": "https://www.nrk.no/nyheter/usa-beordrer-alle-amerikanere-i-bahrain-til-a-soke-tilflukt-1.17837509",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 14:34:04 GMT"
-    },
-    {
-      "title": "Ukraina sier de har angrepet russisk oljeterminal",
-      "link": "https://www.nrk.no/nyheter/ukraina-sier-de-har-angrepet-russisk-oljeterminal-1.17837492",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 07 Apr 2026 14:15:59 GMT"
-    },
-    {
-      "title": "Dødstallet i Libanon har passert 1500, melder helsedepartementet",
-      "link": "https://www.nrk.no/nyheter/dodstallet-i-libanon-har-passert-1500_-melder-helsedepartementet-1.17837482",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 14:06:18 GMT"
-    },
-    {
-      "title": "Støre om Trumps Iran-utspill: – Dette er en egen kategori",
-      "link": "https://www.nrk.no/nyheter/store-om-trumps-iran-utspill_-_-dette-er-en-egen-kategori-1.17837464",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 07 Apr 2026 13:58:41 GMT"
     }
   ]
 }
