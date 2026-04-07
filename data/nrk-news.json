@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-07T09:44:08.731Z",
+  "updatedAt": "2026-04-07T10:58:32.175Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann døydde av brannskadar",
+      "link": "https://www.nrk.no/vestland/mann-doydde-av-brannskadar--1.17836942",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 07 Apr 2026 10:00:22 GMT"
+    },
+    {
+      "title": "CNN Türk: Skyting ved israelsk konsulat i Istanbul",
+      "link": "https://www.nrk.no/nyheter/cnn-turk_-skyting-ved-israelsk-konsulat-i-istanbul--1.17836944",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 07 Apr 2026 09:57:19 GMT"
+    },
+    {
+      "title": "Alvorlig arbeidsulykke i Hægebostad",
+      "link": "https://www.nrk.no/sorlandet/alvorlig-arbeidsulykke-i-haegebostad-1.17836978",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Tue, 07 Apr 2026 09:55:43 GMT"
+    },
     {
       "title": "Michelin-restaurant stenger",
       "link": "https://www.nrk.no/nyheter/michelin-restaurant-stenger--1.17836808",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/norsk-bonde--og-smabrukarlag-vil-reetablere-5000-gardsbruk-1.17836865",
       "category": "Norsk matproduksjon",
       "pubDate": "Tue, 07 Apr 2026 08:54:48 GMT"
-    },
-    {
-      "title": "Parat: 1100 ansatte kan bli tatt ut i streik",
-      "link": "https://www.nrk.no/innlandet/parat_-1100-ansatte-kan-bli-tatt-ut-i-streik-1.17836628",
-      "category": "Næringslivet i Innlandet",
-      "pubDate": "Tue, 07 Apr 2026 08:45:28 GMT"
-    },
-    {
-      "title": "Irans president: 14 millioner vil ofre livet",
-      "link": "https://www.nrk.no/nyheter/irans-president_-14-millioner-vil-ofre-livet-1.17836815",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 08:37:56 GMT"
-    },
-    {
-      "title": "Irans eksilprins skal til Sverige",
-      "link": "https://www.nrk.no/nyheter/irans-eksilprins-skal-til-sverige-1.17836784",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 07 Apr 2026 08:09:46 GMT"
     }
   ]
 }
