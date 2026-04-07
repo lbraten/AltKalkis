@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-07T22:04:25.681Z",
+  "updatedAt": "2026-04-07T23:06:58.065Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel: Iran har skutt raketter mot Israel",
+      "link": "https://www.nrk.no/nyheter/israel_-iran-har-skutt-raketter-mot-israel-1.17837847",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 22:56:06 GMT"
+    },
+    {
+      "title": "Oljeprisen faller etter Trump-melding",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-faller-etter-trump-melding-1.17837844",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 22:52:46 GMT"
+    },
+    {
+      "title": "Trump: – Jeg går med på å stanse bombingen av Iran i to uker",
+      "link": "https://www.nrk.no/nyheter/trump_-_-jeg-gar-med-pa-a-stanse-bombingen-av-iran-i-to-uker-1.17837843",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 22:34:50 GMT"
+    },
+    {
+      "title": "To sivile drept av rakett i Bagdad",
+      "link": "https://www.nrk.no/nyheter/to-sivile-drept-av-rakett-i-bagdad-1.17837841",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 07 Apr 2026 22:05:51 GMT"
+    },
     {
       "title": "Israel beklager angrep mot synagoge i Iran",
       "link": "https://www.nrk.no/nyheter/israel-beklager-angrep-mot-synagoge-i-iran-1.17837840",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fire-skadet-av-rakettrester-i-qatar-1.17837839",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 07 Apr 2026 21:43:39 GMT"
-    },
-    {
-      "title": "Politiet undersøker meldinger om skudd i Oslo",
-      "link": "https://www.nrk.no/nyheter/politiet-undersoker-meldinger-om-skudd-i-oslo-1.17837837",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 07 Apr 2026 21:32:58 GMT"
-    },
-    {
-      "title": "Israel ber folk flykte fra byen Tyr sør i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-ber-folk-flykte-fra-byen-tyr-sor-i-libanon-1.17837831",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 21:14:50 GMT"
-    },
-    {
-      "title": "Harry Hole topper Netflix-liste",
-      "link": "https://www.nrk.no/nyheter/harry-hole-topper-netflix-liste-1.17837823",
-      "category": "Film og serier",
-      "pubDate": "Tue, 07 Apr 2026 20:59:03 GMT"
-    },
-    {
-      "title": "Iran truer med kraftigere angrep mot USA og Israel",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-kraftigere-angrep-mot-usa-og-israel-1.17837822",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 07 Apr 2026 20:40:09 GMT"
     }
   ]
 }
