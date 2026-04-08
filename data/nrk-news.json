@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-08T11:31:05.896Z",
+  "updatedAt": "2026-04-08T13:24:48.373Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Israel har gjennomført nye angrep mot Beirut",
-      "link": "https://www.nrk.no/nyheter/israel-har-gjennomfort-nye-angrep-mot-beirut-1.17838609",
+      "title": "Børge Brende fjernet fra Bilderberg-styre før elitemøte",
+      "link": "https://www.nrk.no/nyheter/borge-brende-fjernet-fra-bilderberg-styre-for-elitemote-1.17838860",
+      "category": "Norsk politikk",
+      "pubDate": "Wed, 08 Apr 2026 13:21:21 GMT"
+    },
+    {
+      "title": "Politiet: Henlegger saken mot Mimir Kristjansson",
+      "link": "https://www.nrk.no/nyheter/politiet_-henlegger-saken-mot-mimir-kristjansson-1.17838783",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 08 Apr 2026 11:27:05 GMT"
+      "pubDate": "Wed, 08 Apr 2026 13:03:57 GMT"
     },
     {
-      "title": "Forsvarssjefen erkjenner at F-16-fly gitt til Ukraina ikke var flydyktige",
-      "link": "https://www.nrk.no/nyheter/forsvarssjefen-erkjenner-at-f-16-fly-gitt-til-ukraina-ikke-var-flydyktige-1.17838595",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 08 Apr 2026 11:25:09 GMT"
+      "title": "Rødgrønt oppvaskmøte på Stortinget",
+      "link": "https://www.nrk.no/nyheter/rodgront-oppvaskmote-pa-stortinget-1.17838817",
+      "category": "Støre-regjeringen",
+      "pubDate": "Wed, 08 Apr 2026 12:56:44 GMT"
     },
     {
-      "title": "Russisk drone ødela infrastruktur på Ukrainas største Donau-havn",
-      "link": "https://www.nrk.no/nyheter/russisk-drone-odela-infrastruktur-pa-ukrainas-storste-donau-havn-1.17838256",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 08 Apr 2026 11:18:23 GMT"
+      "title": "Aktor ber om 14 års forvaring for 17-åring",
+      "link": "https://www.nrk.no/rogaland/aktor-ber-om-14-ars-forvaring-for-17-aring-1.17838646",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 08 Apr 2026 12:38:25 GMT"
     },
     {
-      "title": "Vance: Ukraina-krigen er den vanskeligste å løse",
-      "link": "https://www.nrk.no/nyheter/vance_-ukraina-krigen-er-den-vanskeligste-a-lose-1.17838516",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 08 Apr 2026 10:47:11 GMT"
-    },
-    {
-      "title": "Passkontrollen tilbake i normal drift",
-      "link": "https://www.nrk.no/nyheter/passkontrollen-tilbake-i-normal-drift-1.17838489",
-      "category": "Reiseliv",
-      "pubDate": "Wed, 08 Apr 2026 10:33:13 GMT"
-    },
-    {
-      "title": "Kuwait og Emiratene melder om iranske angrep",
-      "link": "https://www.nrk.no/nyheter/kuwait-og-emiratene-melder-om-iranske-angrep-1.17838481",
+      "title": "Felles uttalelse fra vestlige ledere om våpenhvilen i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/felles-uttalelse-fra-vestlige-ledere-om-vapenhvilen-i-midtosten-1.17838762",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 08 Apr 2026 10:19:04 GMT"
+      "pubDate": "Wed, 08 Apr 2026 12:32:15 GMT"
+    },
+    {
+      "title": "Hegseth: – Nå har vi en sjanse til ekte fred",
+      "link": "https://www.nrk.no/nyheter/hegseth_-_-na-har-vi-en-sjanse-til-ekte-fred-1.17838743",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 08 Apr 2026 12:21:54 GMT"
     }
   ]
 }
