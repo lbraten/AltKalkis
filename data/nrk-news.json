@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-08T23:08:37.703Z",
+  "updatedAt": "2026-04-08T23:59:44.721Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran har lagt ut kart for trygg seilas i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran-har-lagt-ut-kart-for-trygg-seilas-i-hormuzstredet-1.17839400",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 08 Apr 2026 23:58:19 GMT"
+    },
     {
       "title": "Rutte: Åpen og ærlig diskusjon med Trump",
       "link": "https://www.nrk.no/nyheter/rutte_-apen-og-aerlig-diskusjon-med-trump-1.17839393",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rutte-har-forlatt-det-hvite-hus-1.17839366",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 08 Apr 2026 21:29:37 GMT"
-    },
-    {
-      "title": "Barn drept etter droneangrep i Iran",
-      "link": "https://www.nrk.no/nyheter/barn-drept-etter-droneangrep-i-iran-1.17839346",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 08 Apr 2026 20:38:36 GMT"
     }
   ]
 }
