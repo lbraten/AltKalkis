@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-08T21:11:12.537Z",
+  "updatedAt": "2026-04-08T22:07:21.492Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Macron fordømmer angrep mot Libanon",
+      "link": "https://www.nrk.no/nyheter/macron-fordommer-angrep-mot-libanon-1.17839355",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 08 Apr 2026 21:45:20 GMT"
+    },
+    {
+      "title": "Dommer nekter Trump å oppheve beskyttelse for etiopiere",
+      "link": "https://www.nrk.no/nyheter/dommer-nekter-trump-a-oppheve-beskyttelse-for-etiopiere-1.17839387",
+      "category": "USA",
+      "pubDate": "Wed, 08 Apr 2026 21:33:22 GMT"
+    },
+    {
+      "title": "Rutte har forlatt Det hvite hus",
+      "link": "https://www.nrk.no/nyheter/rutte-har-forlatt-det-hvite-hus-1.17839366",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 08 Apr 2026 21:29:37 GMT"
+    },
     {
       "title": "Barn drept etter droneangrep i Iran",
       "link": "https://www.nrk.no/nyheter/barn-drept-etter-droneangrep-i-iran-1.17839346",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/raude-kors_-sivile-ma-bli-verna-i-libanon-1.17839328",
       "category": "Libanon og Israel",
       "pubDate": "Wed, 08 Apr 2026 19:40:00 GMT"
-    },
-    {
-      "title": "Vance hevder at Iran har lovet å åpne Hormuzstredet – Iran sier det er stengt",
-      "link": "https://www.nrk.no/nyheter/vance-hevder-at-iran-har-lovet-a-apne-hormuzstredet-_-iran-sier-det-er-stengt-1.17839309",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 08 Apr 2026 19:37:31 GMT"
-    },
-    {
-      "title": "Bane Nor: Bergensbanen åpner igjen torsdag morgen etter togbrann",
-      "link": "https://www.nrk.no/nyheter/bane-nor_-bergensbanen-apner-igjen-torsdag-morgen-etter-togbrann-1.17839280",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 08 Apr 2026 19:06:12 GMT"
-    },
-    {
-      "title": "Kvinne dømt til 15 års fengsel for Matthew Perry-overdose",
-      "link": "https://www.nrk.no/nyheter/kvinne-domt-til-15-ars-fengsel-for-matthew-perry-overdose-1.17839254",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 08 Apr 2026 18:33:48 GMT"
     }
   ]
 }
