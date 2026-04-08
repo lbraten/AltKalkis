@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-08T19:20:55.361Z",
+  "updatedAt": "2026-04-08T20:07:42.042Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Raude Kors: Sivile må bli verna i Libanon",
+      "link": "https://www.nrk.no/nyheter/raude-kors_-sivile-ma-bli-verna-i-libanon-1.17839328",
+      "category": "Libanon og Israel",
+      "pubDate": "Wed, 08 Apr 2026 19:40:00 GMT"
+    },
+    {
+      "title": "Vance hevder at Iran har lovet å åpne Hormuzstredet – Iran sier det er stengt",
+      "link": "https://www.nrk.no/nyheter/vance-hevder-at-iran-har-lovet-a-apne-hormuzstredet-_-iran-sier-det-er-stengt-1.17839309",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 08 Apr 2026 19:37:31 GMT"
+    },
     {
       "title": "Bane Nor: Bergensbanen åpner igjen torsdag morgen etter togbrann",
       "link": "https://www.nrk.no/nyheter/bane-nor_-bergensbanen-apner-igjen-torsdag-morgen-etter-togbrann-1.17839280",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/det-hvite-hus_-usa-og-iran-skal-ha-samtaler-i-pakistan-lordag-_-j.d.-vance-skal-lede-usas-team-1.17839219",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 08 Apr 2026 17:41:04 GMT"
-    },
-    {
-      "title": "Irans utenriksminister: USA må velge – våpenhvile eller fortsatt krig via Israel",
-      "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-usa-ma-velge-_-vapenhvile-eller-fortsatt-krig-via-israel-1.17839216",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 08 Apr 2026 17:29:00 GMT"
-    },
-    {
-      "title": "Netanyahu: Våpenhvileavtalen ble inngått «i fullt samarbeid» med Israel",
-      "link": "https://www.nrk.no/nyheter/netanyahu_-vapenhvileavtalen-ble-inngatt-_i-fullt-samarbeid__med-israel-1.17839206",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 08 Apr 2026 17:24:04 GMT"
     }
   ]
 }
