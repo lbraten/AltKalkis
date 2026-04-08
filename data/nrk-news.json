@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-08T10:09:51.867Z",
+  "updatedAt": "2026-04-08T11:31:05.896Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "De første skipene har kommet seg gjennom Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/de-forste-skipene-har-kommet-seg-gjennom-hormuzstredet-1.17838413",
+      "title": "Israel har gjennomført nye angrep mot Beirut",
+      "link": "https://www.nrk.no/nyheter/israel-har-gjennomfort-nye-angrep-mot-beirut-1.17838609",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 08 Apr 2026 11:27:05 GMT"
+    },
+    {
+      "title": "Forsvarssjefen erkjenner at F-16-fly gitt til Ukraina ikke var flydyktige",
+      "link": "https://www.nrk.no/nyheter/forsvarssjefen-erkjenner-at-f-16-fly-gitt-til-ukraina-ikke-var-flydyktige-1.17838595",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 08 Apr 2026 11:25:09 GMT"
+    },
+    {
+      "title": "Russisk drone ødela infrastruktur på Ukrainas største Donau-havn",
+      "link": "https://www.nrk.no/nyheter/russisk-drone-odela-infrastruktur-pa-ukrainas-storste-donau-havn-1.17838256",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 08 Apr 2026 11:18:23 GMT"
+    },
+    {
+      "title": "Vance: Ukraina-krigen er den vanskeligste å løse",
+      "link": "https://www.nrk.no/nyheter/vance_-ukraina-krigen-er-den-vanskeligste-a-lose-1.17838516",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 08 Apr 2026 10:47:11 GMT"
+    },
+    {
+      "title": "Passkontrollen tilbake i normal drift",
+      "link": "https://www.nrk.no/nyheter/passkontrollen-tilbake-i-normal-drift-1.17838489",
+      "category": "Reiseliv",
+      "pubDate": "Wed, 08 Apr 2026 10:33:13 GMT"
+    },
+    {
+      "title": "Kuwait og Emiratene melder om iranske angrep",
+      "link": "https://www.nrk.no/nyheter/kuwait-og-emiratene-melder-om-iranske-angrep-1.17838481",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 08 Apr 2026 09:53:50 GMT"
-    },
-    {
-      "title": "Italia vil ikke sende fartøy til Hormuzstredet uten et FN-mandat",
-      "link": "https://www.nrk.no/nyheter/italia-vil-ikke-sende-fartoy-til-hormuzstredet-uten-et-fn-mandat-1.17838397",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 08 Apr 2026 09:41:48 GMT"
-    },
-    {
-      "title": "Meldinger om eksplosjoner på iranske øyer",
-      "link": "https://www.nrk.no/nyheter/meldinger-om-eksplosjoner-pa-iranske-oyer-1.17838261",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 08 Apr 2026 09:35:09 GMT"
-    },
-    {
-      "title": "Vy bekrefter: Det var de samme vognene som ble brukt mandag og tirsdag",
-      "link": "https://www.nrk.no/buskerud/vy-bekrefter_-det-var-de-samme-vognene-som-ble-brukt-mandag-og-tirsdag-1.17838367",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Wed, 08 Apr 2026 09:24:50 GMT"
-    },
-    {
-      "title": "Boligprisene steg med 0,4 prosent i mars",
-      "link": "https://www.nrk.no/nyheter/boligprisene-steg-med-0_4-prosent-i-mars-1.17838311",
-      "category": "Boligmarkedet",
-      "pubDate": "Wed, 08 Apr 2026 09:00:40 GMT"
-    },
-    {
-      "title": "Macron: 15 land mobilisert for å sikre ferdsel i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/macron_-15-land-mobilisert-for-a-sikre-ferdsel-i-hormuzstredet-1.17838290",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 08 Apr 2026 08:53:38 GMT"
+      "pubDate": "Wed, 08 Apr 2026 10:19:04 GMT"
     }
   ]
 }
