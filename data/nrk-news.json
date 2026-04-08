@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-08T20:07:42.042Z",
+  "updatedAt": "2026-04-08T21:11:12.537Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Barn drept etter droneangrep i Iran",
+      "link": "https://www.nrk.no/nyheter/barn-drept-etter-droneangrep-i-iran-1.17839346",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 08 Apr 2026 20:38:36 GMT"
+    },
+    {
+      "title": "Trump vurderer å straffe Nato-allierte",
+      "link": "https://www.nrk.no/nyheter/trump-vurderer-a-straffe-nato-allierte-1.17839352",
+      "category": "Nato",
+      "pubDate": "Wed, 08 Apr 2026 20:18:51 GMT"
+    },
     {
       "title": "Raude Kors: Sivile må bli verna i Libanon",
       "link": "https://www.nrk.no/nyheter/raude-kors_-sivile-ma-bli-verna-i-libanon-1.17839328",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kvinne-domt-til-15-ars-fengsel-for-matthew-perry-overdose-1.17839254",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 08 Apr 2026 18:33:48 GMT"
-    },
-    {
-      "title": "Det hvite hus: Trump skal diskutere Nato-exit med Rutte",
-      "link": "https://www.nrk.no/nyheter/det-hvite-hus_-trump-skal-diskutere-nato-exit-med-rutte-1.17839240",
-      "category": "Nato",
-      "pubDate": "Wed, 08 Apr 2026 17:59:45 GMT"
-    },
-    {
-      "title": "Det hvite hus: USA og Iran skal ha samtaler i Pakistan lørdag – J.D. Vance skal lede USAs team",
-      "link": "https://www.nrk.no/nyheter/det-hvite-hus_-usa-og-iran-skal-ha-samtaler-i-pakistan-lordag-_-j.d.-vance-skal-lede-usas-team-1.17839219",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 08 Apr 2026 17:41:04 GMT"
     }
   ]
 }
