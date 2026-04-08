@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-08T22:07:21.492Z",
+  "updatedAt": "2026-04-08T23:08:37.703Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rutte: Åpen og ærlig diskusjon med Trump",
+      "link": "https://www.nrk.no/nyheter/rutte_-apen-og-aerlig-diskusjon-med-trump-1.17839393",
+      "category": "Nato",
+      "pubDate": "Wed, 08 Apr 2026 22:39:23 GMT"
+    },
+    {
+      "title": "Brann hos bilforhandler i Sandnes",
+      "link": "https://www.nrk.no/nyheter/brann-hos-bilforhandler-i-sandnes-1.17839392",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 08 Apr 2026 22:35:31 GMT"
+    },
     {
       "title": "Macron fordømmer angrep mot Libanon",
       "link": "https://www.nrk.no/nyheter/macron-fordommer-angrep-mot-libanon-1.17839355",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/barn-drept-etter-droneangrep-i-iran-1.17839346",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 08 Apr 2026 20:38:36 GMT"
-    },
-    {
-      "title": "Trump vurderer å straffe Nato-allierte",
-      "link": "https://www.nrk.no/nyheter/trump-vurderer-a-straffe-nato-allierte-1.17839352",
-      "category": "Nato",
-      "pubDate": "Wed, 08 Apr 2026 20:18:51 GMT"
-    },
-    {
-      "title": "Raude Kors: Sivile må bli verna i Libanon",
-      "link": "https://www.nrk.no/nyheter/raude-kors_-sivile-ma-bli-verna-i-libanon-1.17839328",
-      "category": "Libanon og Israel",
-      "pubDate": "Wed, 08 Apr 2026 19:40:00 GMT"
     }
   ]
 }
