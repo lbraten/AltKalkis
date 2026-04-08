@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-08T05:47:58.705Z",
+  "updatedAt": "2026-04-08T07:24:35.305Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Alvorlig trafikkulykke ved Alna i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/alvorlig-trafikkulykke-ved-alna-i-oslo-1.17837903",
+      "title": "Oljeaksjer stuper på børsen etter våpenhvile",
+      "link": "https://www.nrk.no/nyheter/oljeaksjer-stuper-pa-borsen-etter-vapenhvile-1.17838081",
+      "category": "Oslo Børs",
+      "pubDate": "Wed, 08 Apr 2026 07:10:35 GMT"
+    },
+    {
+      "title": "Stans i grensekontroll på Oslo Lufthavn",
+      "link": "https://www.nrk.no/stor-oslo/stans-i-grensekontroll-pa-oslo-lufthavn-1.17837992",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 08 Apr 2026 05:36:23 GMT"
+      "pubDate": "Wed, 08 Apr 2026 07:05:13 GMT"
     },
     {
-      "title": "Eksplosjoner i Bahrain",
-      "link": "https://www.nrk.no/nyheter/eksplosjoner-i-bahrain-1.17837989",
-      "category": "Bahrain",
-      "pubDate": "Wed, 08 Apr 2026 05:36:00 GMT"
+      "title": "Utvalg sier nei til kjernekraft i Norge nå",
+      "link": "https://www.nrk.no/nyheter/utvalg-sier-nei-til-kjernekraft-i-norge-na-1.17838022",
+      "category": "Kjernekraft",
+      "pubDate": "Wed, 08 Apr 2026 07:02:41 GMT"
     },
     {
-      "title": "Anklager Nord-Korea for å ha skutt missil",
-      "link": "https://www.nrk.no/nyheter/anklager-nord-korea-for-a-ha-skutt-missil-1.17837976",
-      "category": "Nord-Korea",
-      "pubDate": "Wed, 08 Apr 2026 05:32:35 GMT"
+      "title": "De forente arabiske emirater har signert Svalbardtraktaten",
+      "link": "https://www.nrk.no/tromsogfinnmark/de-forente-arabiske-emirater-har-signert-svalbardtraktaten-1.17837892",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Wed, 08 Apr 2026 06:24:11 GMT"
     },
     {
-      "title": "Telenor saksøkes for minst 130 millioner kroner av kunder i Myanmar",
-      "link": "https://www.nrk.no/nyheter/telenor-saksokes-for-minst-130-millioner-kroner-av-kunder-i-myanmar-1.17837972",
-      "category": "Telenor",
-      "pubDate": "Wed, 08 Apr 2026 05:19:21 GMT"
+      "title": "Israel beordrer innbyggere til å forlate Tyr i Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-beordrer-innbyggere-til-a-forlate-tyr-i-sor-libanon-1.17838019",
+      "category": "Libanon",
+      "pubDate": "Wed, 08 Apr 2026 06:10:29 GMT"
     },
     {
-      "title": "Trump: USA skal bidra med trafikkavvikling gjennom Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/trump_-usa-skal-bidra-med-trafikkavvikling-gjennom-hormuzstredet-1.17837943",
+      "title": "Opposisjonsleder om våpenhvilen: – Politisk katastrofe for Israel",
+      "link": "https://www.nrk.no/nyheter/opposisjonsleder-om-vapenhvilen_-_-politisk-katastrofe-for-israel-1.17837991",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 08 Apr 2026 05:15:10 GMT"
-    },
-    {
-      "title": "Bekrefter skyting på Holmlia – to personer pågrepet",
-      "link": "https://www.nrk.no/stor-oslo/bekrefter-skyting-pa-holmlia-_-to-personer-pagrepet-1.17837925",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 08 Apr 2026 04:30:29 GMT"
+      "pubDate": "Wed, 08 Apr 2026 06:10:06 GMT"
     }
   ]
 }
