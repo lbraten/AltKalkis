@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-09T14:19:50.893Z",
+  "updatedAt": "2026-04-09T16:02:19.677Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Netanyahu: Vil innlede forhandlinger med Libanon «så fort som mulig»",
+      "link": "https://www.nrk.no/nyheter/netanyahu_-vil-innlede-forhandlinger-med-libanon-_sa-fort-som-mulig_-1.17840730",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 09 Apr 2026 15:35:16 GMT"
+    },
+    {
+      "title": "Rutte med Trump-hyllest: – Har snudd en generasjon med forfall",
+      "link": "https://www.nrk.no/nyheter/rutte-med-trump-hyllest_-_-har-snudd-en-generasjon-med-forfall-1.17840638",
+      "category": "Nato",
+      "pubDate": "Thu, 09 Apr 2026 15:18:35 GMT"
+    },
+    {
+      "title": "Oslo Børs opp 1,9 prosent",
+      "link": "https://www.nrk.no/nyheter/oslo-bors-opp-1_9-prosent--1.17840639",
+      "category": "Norsk økonomi",
+      "pubDate": "Thu, 09 Apr 2026 14:33:34 GMT"
+    },
     {
       "title": "Libanon ber Pakistan om hjelp til å stanse angrep",
       "link": "https://www.nrk.no/nyheter/libanon-ber-pakistan-om-hjelp-til-a-stanse-angrep-1.17840552",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/oecd_-bistand-falt-med-23-prosent-i-fjor-1.17840481",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 09 Apr 2026 13:01:41 GMT"
-    },
-    {
-      "title": "Iransk delegasjon til Pakistan for forhandlingar",
-      "link": "https://www.nrk.no/nyheter/iransk-delegasjon-til-pakistan-for-forhandlingar-1.17840420",
-      "category": "Iran",
-      "pubDate": "Thu, 09 Apr 2026 12:54:14 GMT"
-    },
-    {
-      "title": "Barnehagelærer dømt etter femåring falt ut av vindu",
-      "link": "https://www.nrk.no/vestland/barnehagelaerer-domt-etter-femaring-falt-ut-av-vindu--1.17839946",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 09 Apr 2026 12:50:26 GMT"
-    },
-    {
-      "title": "USA: Prisveksten enda på 2,8 prosent i februar",
-      "link": "https://www.nrk.no/nyheter/usa_-prisveksten-enda-pa-2_8-prosent-i-februar-1.17840407",
-      "category": "USA",
-      "pubDate": "Thu, 09 Apr 2026 12:31:41 GMT"
     }
   ]
 }
