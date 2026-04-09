@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-09T16:02:19.677Z",
+  "updatedAt": "2026-04-09T17:37:30.783Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eide: – Jeg fordømmer de massive israelske angrepene i Libanon",
+      "link": "https://www.nrk.no/nyheter/eide_-_-jeg-fordommer-de-massive-israelske-angrepene-i-libanon-1.17840846",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 09 Apr 2026 17:16:47 GMT"
+    },
+    {
+      "title": "Libanon: Over 300 drepte i onsdagens angrep",
+      "link": "https://www.nrk.no/nyheter/libanon_-over-300-drepte-i-onsdagens-angrep-1.17840838",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 09 Apr 2026 17:15:06 GMT"
+    },
+    {
+      "title": "AFP: Første ikke-iranske tankskip har passert Hormuz-stredet",
+      "link": "https://www.nrk.no/nyheter/afp_-forste-ikke-iranske-tankskip-har-passert-hormuz-stredet-1.17840752",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 09 Apr 2026 17:06:58 GMT"
+    },
+    {
+      "title": "Varetektsfengselet i fire uker etter skyting på Holmlia",
+      "link": "https://www.nrk.no/stor-oslo/varetektsfengselet-i-fire-uker-etter-skyting-pa-holmlia-1.17840789",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 09 Apr 2026 16:24:39 GMT"
+    },
     {
       "title": "Netanyahu: Vil innlede forhandlinger med Libanon «så fort som mulig»",
       "link": "https://www.nrk.no/nyheter/netanyahu_-vil-innlede-forhandlinger-med-libanon-_sa-fort-som-mulig_-1.17840730",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rutte-med-trump-hyllest_-_-har-snudd-en-generasjon-med-forfall-1.17840638",
       "category": "Nato",
       "pubDate": "Thu, 09 Apr 2026 15:18:35 GMT"
-    },
-    {
-      "title": "Oslo Børs opp 1,9 prosent",
-      "link": "https://www.nrk.no/nyheter/oslo-bors-opp-1_9-prosent--1.17840639",
-      "category": "Norsk økonomi",
-      "pubDate": "Thu, 09 Apr 2026 14:33:34 GMT"
-    },
-    {
-      "title": "Libanon ber Pakistan om hjelp til å stanse angrep",
-      "link": "https://www.nrk.no/nyheter/libanon-ber-pakistan-om-hjelp-til-a-stanse-angrep-1.17840552",
-      "category": "Libanon og Israel",
-      "pubDate": "Thu, 09 Apr 2026 13:36:48 GMT"
-    },
-    {
-      "title": "Israel varslar nye angrep mot Sør-Beirut",
-      "link": "https://www.nrk.no/nyheter/israel-varslar-nye-angrep-mot-sor-beirut-1.17840498",
-      "category": "Libanon og Israel",
-      "pubDate": "Thu, 09 Apr 2026 13:24:15 GMT"
-    },
-    {
-      "title": "OECD: Bistand falt med 23 prosent i fjor",
-      "link": "https://www.nrk.no/nyheter/oecd_-bistand-falt-med-23-prosent-i-fjor-1.17840481",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 09 Apr 2026 13:01:41 GMT"
     }
   ]
 }
