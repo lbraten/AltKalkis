@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-09T03:21:59.473Z",
+  "updatedAt": "2026-04-09T05:27:27.958Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump: Amerikanske styrker forblir i og rundt Iran",
+      "link": "https://www.nrk.no/nyheter/trump_-amerikanske-styrker-forblir-i-og-rundt-iran-1.17839481",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 09 Apr 2026 05:04:37 GMT"
+    },
+    {
+      "title": "NHO: – Kommunene har en plikt til å skaffe seg kunnskap",
+      "link": "https://www.nrk.no/mr/nho_-__kommunene-har-en-plikt-til-a-skaffe-seg-kunnskap-1.17839438",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Thu, 09 Apr 2026 04:23:39 GMT"
+    },
+    {
+      "title": "Usikkerhet om våpenhvile – oljeprisen opp",
+      "link": "https://www.nrk.no/nyheter/usikkerhet-om-vapenhvile-_-oljeprisen-opp-1.17839440",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 09 Apr 2026 03:48:46 GMT"
+    },
     {
       "title": "Mann til sykehus etter voldshendelse i Gjøvik",
       "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-voldshendelse-i-gjovik-1.17839396",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bergensbanen-apnet-i-natt-1.17839408",
       "category": "Togproblemer og forsinkelser",
       "pubDate": "Thu, 09 Apr 2026 02:13:47 GMT"
-    },
-    {
-      "title": "Britisk pastor tiltalt etter drukning under voksendåp",
-      "link": "https://www.nrk.no/nyheter/britisk-pastor-tiltalt-etter-drukning-under-voksendap-1.17839390",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 09 Apr 2026 01:49:42 GMT"
-    },
-    {
-      "title": "Lekkede opptak: Ungarn tilbød dokumenter til Russland",
-      "link": "https://www.nrk.no/nyheter/lekkede-opptak_-ungarn-tilbod-dokumenter-til-russland-1.17839406",
-      "category": "Ungarn",
-      "pubDate": "Thu, 09 Apr 2026 01:26:58 GMT"
-    },
-    {
-      "title": "Hizbollah skyter raketter mot Nord-Israel",
-      "link": "https://www.nrk.no/nyheter/hizbollah-skyter-raketter-mot-nord-israel-1.17839401",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 09 Apr 2026 00:41:47 GMT"
     }
   ]
 }
