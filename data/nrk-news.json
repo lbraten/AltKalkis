@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-09T19:10:50.409Z",
+  "updatedAt": "2026-04-09T20:12:55.249Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Oppskyting fra Andøya avblåst",
-      "link": "https://www.nrk.no/nordland/oppskyting-fra-andoya-avblast-1.17840774",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Thu, 09 Apr 2026 18:52:29 GMT"
-    },
-    {
-      "title": "Melania Trump: – Jeg hadde aldri et forhold til Epstein",
-      "link": "https://www.nrk.no/nyheter/melania-trump_-_-jeg-hadde-aldri-et-forhold-til-epstein-1.17840888",
-      "category": "USA",
-      "pubDate": "Thu, 09 Apr 2026 18:35:27 GMT"
-    },
-    {
-      "title": "Irans øverste leder lover å hevne landets «martyrer»",
-      "link": "https://www.nrk.no/nyheter/irans-overste-leder-lover-a-hevne-landets-_martyrer_-1.17840875",
-      "category": "Iran",
-      "pubDate": "Thu, 09 Apr 2026 17:51:54 GMT"
-    },
-    {
-      "title": "Flere branner i Hamar – politiet ser brannene i sammenheng",
-      "link": "https://www.nrk.no/innlandet/flere-branner-i-hamar-_-politiet-ser-brannene-i-sammenheng-1.17840879",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Thu, 09 Apr 2026 17:44:23 GMT"
-    },
-    {
-      "title": "AFP: Hizbollah avviser fredssamtaler mellom Libanon og Israel",
-      "link": "https://www.nrk.no/nyheter/afp_-hizbollah-avviser-fredssamtaler-mellom-libanon-og-israel-1.17840849",
+      "title": "Canada fordømmer Israels angrep mot Libanon",
+      "link": "https://www.nrk.no/nyheter/canada-fordommer-israels-angrep-mot-libanon-1.17840992",
       "category": "Libanon og Israel",
-      "pubDate": "Thu, 09 Apr 2026 17:37:38 GMT"
+      "pubDate": "Thu, 09 Apr 2026 19:55:41 GMT"
     },
     {
-      "title": "Eide: – Jeg fordømmer de massive israelske angrepene i Libanon",
-      "link": "https://www.nrk.no/nyheter/eide_-_-jeg-fordommer-de-massive-israelske-angrepene-i-libanon-1.17840846",
+      "title": "Kun SV kategorisk mot kjernekraft",
+      "link": "https://www.nrk.no/nyheter/kun-sv-kategorisk-mot-kjernekraft-1.17840956",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 09 Apr 2026 19:53:34 GMT"
+    },
+    {
+      "title": "Reuters: USA inviterer til samtaler mellom Israel og Libanon",
+      "link": "https://www.nrk.no/nyheter/reuters_-usa-inviterer-til-samtaler-mellom-israel-og-libanon-1.17840965",
       "category": "Libanon og Israel",
-      "pubDate": "Thu, 09 Apr 2026 17:16:47 GMT"
+      "pubDate": "Thu, 09 Apr 2026 19:40:35 GMT"
+    },
+    {
+      "title": "Putin kunngjør våpenhvile med Ukraina under ortodoks påskefeiring",
+      "link": "https://www.nrk.no/nyheter/putin-kunngjor-vapenhvile-med-ukraina-under-ortodoks-paskefeiring-1.17840962",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 09 Apr 2026 19:15:10 GMT"
+    },
+    {
+      "title": "Kuwait sier luftforsvaret svarer på droneangrep",
+      "link": "https://www.nrk.no/nyheter/kuwait-sier-luftforsvaret-svarer-pa-droneangrep-1.17840957",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 09 Apr 2026 19:13:33 GMT"
+    },
+    {
+      "title": "Israel melder om nye angrep i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-melder-om-nye-angrep-i-libanon-1.17840946",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 09 Apr 2026 19:09:14 GMT"
     }
   ]
 }
