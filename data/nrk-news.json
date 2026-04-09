@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-09T21:10:18.207Z",
+  "updatedAt": "2026-04-09T22:05:29.967Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Leteaksjon i Sandnes",
+      "link": "https://www.nrk.no/nyheter/leteaksjon-i-sandnes-1.17841030",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Thu, 09 Apr 2026 21:40:17 GMT"
+    },
+    {
+      "title": "Mann er pågrepet etter flere branner i Hamar",
+      "link": "https://www.nrk.no/nyheter/mann-er-pagrepet-etter-flere-branner-i-hamar-1.17841027",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 09 Apr 2026 21:23:40 GMT"
+    },
+    {
+      "title": "Rutte roser Norge og Storbritannia etter ubåt-jakt",
+      "link": "https://www.nrk.no/nyheter/rutte-roser-norge-og-storbritannia-etter-ubat-jakt-1.17841025",
+      "category": "Nato",
+      "pubDate": "Thu, 09 Apr 2026 21:19:39 GMT"
+    },
+    {
+      "title": "Trump advarer Iran: – Slutt å ta betalt",
+      "link": "https://www.nrk.no/nyheter/trump-advarer-iran_-_-slutt-a-ta-betalt-1.17841024",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 09 Apr 2026 21:15:54 GMT"
+    },
+    {
+      "title": "Zelenskyj bekrefter våpenhvile i den ortodokse påsken",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-vapenhvile-i-den-ortodokse-pasken-1.17841015",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 09 Apr 2026 21:13:59 GMT"
+    },
     {
       "title": "Lederskikkelse i irsk gjeng pågrepet på ferieøy",
       "link": "https://www.nrk.no/nyheter/lederskikkelse-i-irsk-gjeng-pagrepet-pa-ferieoy-1.17841007",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 09 Apr 2026 20:46:36 GMT"
-    },
-    {
-      "title": "Trump «visste ingenting» om Melanias Epstein-uttalelse",
-      "link": "https://www.nrk.no/nyheter/trump__visste-ingenting_-om-melanias-epstein-uttalelse_-1.17841005",
-      "category": "USA",
-      "pubDate": "Thu, 09 Apr 2026 20:27:25 GMT"
-    },
-    {
-      "title": "Canada fordømmer Israels angrep mot Libanon",
-      "link": "https://www.nrk.no/nyheter/canada-fordommer-israels-angrep-mot-libanon-1.17840992",
-      "category": "Libanon og Israel",
-      "pubDate": "Thu, 09 Apr 2026 19:55:41 GMT"
-    },
-    {
-      "title": "Kun SV kategorisk mot kjernekraft",
-      "link": "https://www.nrk.no/nyheter/kun-sv-kategorisk-mot-kjernekraft-1.17840956",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 09 Apr 2026 19:53:34 GMT"
-    },
-    {
-      "title": "Reuters: USA inviterer til samtaler mellom Israel og Libanon",
-      "link": "https://www.nrk.no/nyheter/reuters_-usa-inviterer-til-samtaler-mellom-israel-og-libanon-1.17840965",
-      "category": "Libanon og Israel",
-      "pubDate": "Thu, 09 Apr 2026 19:40:35 GMT"
-    },
-    {
-      "title": "Putin kunngjør våpenhvile med Ukraina under ortodoks påskefeiring",
-      "link": "https://www.nrk.no/nyheter/putin-kunngjor-vapenhvile-med-ukraina-under-ortodoks-paskefeiring-1.17840962",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 09 Apr 2026 19:15:10 GMT"
     }
   ]
 }
