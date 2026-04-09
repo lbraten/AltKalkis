@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-09T08:24:26.900Z",
+  "updatedAt": "2026-04-09T09:50:01.935Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kritikk mot Sykehuset i Vestfold etter langvarig beltebruk",
+      "link": "https://www.nrk.no/vestfoldogtelemark/kritikk-mot-sykehuset-i-vestfold-etter-langvarig-beltebruk-1.17839843",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 09 Apr 2026 09:36:30 GMT"
+    },
+    {
+      "title": "Keiserpingvinen utrydningstruet",
+      "link": "https://www.nrk.no/nyheter/keiserpingvinen-utrydningstruet-1.17839850",
+      "category": "Klima og miljø",
+      "pubDate": "Thu, 09 Apr 2026 09:23:48 GMT"
+    },
+    {
+      "title": "Kronprins Haakon besøker Japan",
+      "link": "https://www.nrk.no/nyheter/kronprins-haakon-besoker-japan-1.17839884",
+      "category": "Kongefamilien",
+      "pubDate": "Thu, 09 Apr 2026 08:46:36 GMT"
+    },
     {
       "title": "Raftopris-vinner må legge ned – skylder på Israel",
       "link": "https://www.nrk.no/nyheter/raftopris-vinner-ma-legge-ned-_-skylder-pa-israel-1.17839652",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-sier-de-har-drept-hizbollah-sjefens-nevo-1.17839667",
       "category": "Libanon og Israel",
       "pubDate": "Thu, 09 Apr 2026 07:42:09 GMT"
-    },
-    {
-      "title": "Oslo Børs åpner med oppgang",
-      "link": "https://www.nrk.no/nyheter/oslo-bors-apner-med-oppgang-1.17839630",
-      "category": "Oslo Børs",
-      "pubDate": "Thu, 09 Apr 2026 07:33:03 GMT"
-    },
-    {
-      "title": "Dansk kartlegging: Bruken av p-piller stuper",
-      "link": "https://www.nrk.no/nyheter/dansk-kartlegging_-bruken-av-p-piller-stuper-1.17839583",
-      "category": "Kvinnehelse",
-      "pubDate": "Thu, 09 Apr 2026 07:05:45 GMT"
-    },
-    {
-      "title": "Ekstraordinært Midtøsten-møte i regjeringens kontaktutvalg",
-      "link": "https://www.nrk.no/nyheter/ekstraordinaert-midtosten-mote-i-regjeringens-kontaktutvalg-1.17839509",
-      "category": "Støre-regjeringen",
-      "pubDate": "Thu, 09 Apr 2026 06:58:29 GMT"
     }
   ]
 }
