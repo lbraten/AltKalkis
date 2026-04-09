@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-09T11:01:27.663Z",
+  "updatedAt": "2026-04-09T12:08:50.569Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Angrep i Libanon gjer våpenkvila meiningslaus",
+      "link": "https://www.nrk.no/nyheter/iran_-angrep-i-libanon-gjer-vapenkvila-meiningslaus-1.17840267",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 09 Apr 2026 11:46:40 GMT"
+    },
+    {
+      "title": "Aftonbladet: Tre svenskar drepne i Libanon",
+      "link": "https://www.nrk.no/nyheter/aftonbladet_-tre-svenskar-drepne-i-libanon-1.17840265",
+      "category": "Libanon",
+      "pubDate": "Thu, 09 Apr 2026 11:27:09 GMT"
+    },
+    {
+      "title": "Memorial stemplet som ekstremistgruppe i russisk rett",
+      "link": "https://www.nrk.no/nyheter/memorial-stemplet-som-ekstremistgruppe-i-russisk-rett-1.17840189",
+      "category": "Russland",
+      "pubDate": "Thu, 09 Apr 2026 11:16:10 GMT"
+    },
     {
       "title": "Argentina svekker beskyttelse av isbreer",
       "link": "https://www.nrk.no/nyheter/argentina-svekker-beskyttelse-av-isbreer-1.17840145",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/norge-deltar-pa-toppmote-om-fossilutfasing--1.17840070",
       "category": "Klima og miljø",
       "pubDate": "Thu, 09 Apr 2026 10:45:14 GMT"
-    },
-    {
-      "title": "Storbritannia har fulgt russiske ubåter i Nord-Atlanteren",
-      "link": "https://www.nrk.no/nyheter/storbritannia-har-fulgt-russiske-ubater-i-nord-atlanteren-1.17839684",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 09 Apr 2026 10:40:10 GMT"
-    },
-    {
-      "title": "Morten Wold (Frp) innrømmer fyllekjøring",
-      "link": "https://www.nrk.no/nyheter/morten-wold-_frp_-innrommer-fyllekjoring-1.17839715",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Thu, 09 Apr 2026 10:37:21 GMT"
-    },
-    {
-      "title": "Riksrevisjonen gransker pengebruk for flytting av vikingskipene",
-      "link": "https://www.nrk.no/stor-oslo/riksrevisjonen-gransker-pengebruk-for-flytting-av-vikingskipene-1.17839970",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 09 Apr 2026 10:27:53 GMT"
     }
   ]
 }
