@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-09T20:12:55.249Z",
+  "updatedAt": "2026-04-09T21:10:18.207Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lederskikkelse i irsk gjeng pågrepet på ferieøy",
+      "link": "https://www.nrk.no/nyheter/lederskikkelse-i-irsk-gjeng-pagrepet-pa-ferieoy-1.17841007",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 09 Apr 2026 20:46:36 GMT"
+    },
+    {
+      "title": "Trump «visste ingenting» om Melanias Epstein-uttalelse",
+      "link": "https://www.nrk.no/nyheter/trump__visste-ingenting_-om-melanias-epstein-uttalelse_-1.17841005",
+      "category": "USA",
+      "pubDate": "Thu, 09 Apr 2026 20:27:25 GMT"
+    },
     {
       "title": "Canada fordømmer Israels angrep mot Libanon",
       "link": "https://www.nrk.no/nyheter/canada-fordommer-israels-angrep-mot-libanon-1.17840992",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/putin-kunngjor-vapenhvile-med-ukraina-under-ortodoks-paskefeiring-1.17840962",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 09 Apr 2026 19:15:10 GMT"
-    },
-    {
-      "title": "Kuwait sier luftforsvaret svarer på droneangrep",
-      "link": "https://www.nrk.no/nyheter/kuwait-sier-luftforsvaret-svarer-pa-droneangrep-1.17840957",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 09 Apr 2026 19:13:33 GMT"
-    },
-    {
-      "title": "Israel melder om nye angrep i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-melder-om-nye-angrep-i-libanon-1.17840946",
-      "category": "Libanon og Israel",
-      "pubDate": "Thu, 09 Apr 2026 19:09:14 GMT"
     }
   ]
 }
