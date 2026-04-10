@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-10T10:34:10.582Z",
+  "updatedAt": "2026-04-10T11:51:06.530Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Wang: Kina og Nord-Korea bør trappe opp samarbeidet",
+      "link": "https://www.nrk.no/nyheter/wang_-kina-og-nord-korea-bor-trappe-opp-samarbeidet-1.17841959",
+      "category": "Kina",
+      "pubDate": "Fri, 10 Apr 2026 11:39:13 GMT"
+    },
+    {
+      "title": "Kronprinsessen med pustehjelp i mottakelse på Slottet",
+      "link": "https://www.nrk.no/nyheter/kronprinsessen-med-pustehjelp-i-mottakelse-pa-slottet-1.17841836",
+      "category": "Kongefamilien",
+      "pubDate": "Fri, 10 Apr 2026 11:19:44 GMT"
+    },
+    {
+      "title": "Skjalg Fjellheim går til Nettavisen",
+      "link": "https://www.nrk.no/tromsogfinnmark/skjalg-fjellheim-gar-til-nettavisen-1.17841717",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Fri, 10 Apr 2026 11:04:29 GMT"
+    },
+    {
+      "title": "Støre med klar beskjed til bensinstasjonene: – De må gjøre sitt",
+      "link": "https://www.nrk.no/nyheter/store-med-klar-beskjed-til-bensinstasjonene_-_-de-ma-gjore-sitt-1.17841765",
+      "category": "Norsk økonomi",
+      "pubDate": "Fri, 10 Apr 2026 10:54:26 GMT"
+    },
+    {
+      "title": "Aktor ber om 60 dagers fengsel for sjåføren som kjørte på Finn (7)",
+      "link": "https://www.nrk.no/sorlandet/aktor-ber-om-60-dagers-fengsel-for-sjaforen-som-kjorte-pa-finn-_7_-1.17841383",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 10 Apr 2026 10:44:29 GMT"
+    },
     {
       "title": "Brudd i forhandlingene mellom NHO Byggenæringen og Fellesforbundet",
       "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-mellom-nho-byggenaeringen-og-fellesforbundet-1.17841623",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Fri, 10 Apr 2026 10:17:54 GMT"
-    },
-    {
-      "title": "To menn tiltalt for drapet på rapper i Sverige",
-      "link": "https://www.nrk.no/nyheter/to-menn-tiltalt-for-drapet-pa-rapper-i-sverige-1.17841650",
-      "category": "Sverige",
-      "pubDate": "Fri, 10 Apr 2026 09:18:17 GMT"
-    },
-    {
-      "title": "Venter kraftig snøfokk i fjellet",
-      "link": "https://www.nrk.no/innlandet/venter-kraftig-snofokk-i-fjellet-1.17841645",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 10 Apr 2026 09:16:19 GMT"
-    },
-    {
-      "title": "Artemis II lander i natt",
-      "link": "https://www.nrk.no/nyheter/artemis-ii-lander-i-natt-1.17841159",
-      "category": "Nasa",
-      "pubDate": "Fri, 10 Apr 2026 09:12:00 GMT"
-    },
-    {
-      "title": "Libanon står overfor matkrise, ifølge FN-organisasjon",
-      "link": "https://www.nrk.no/nyheter/libanon-star-overfor-matkrise_-ifolge-fn-organisasjon-1.17841553",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 10 Apr 2026 09:01:01 GMT"
-    },
-    {
-      "title": "Oslos skolebehovsplan funnet lovlig av statsforvalteren",
-      "link": "https://www.nrk.no/nyheter/oslos-skolebehovsplan-funnet-lovlig-av-statsforvalteren-1.17841490",
-      "category": "Osloskolen",
-      "pubDate": "Fri, 10 Apr 2026 08:38:43 GMT"
     }
   ]
 }
