@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-10T20:40:41.159Z",
+  "updatedAt": "2026-04-10T21:40:15.115Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tesla får godkjent selvkjøring i Nederland",
+      "link": "https://www.nrk.no/nyheter/tesla-far-godkjent-selvkjoring-i-nederland-1.17842569",
+      "category": "Tesla",
+      "pubDate": "Fri, 10 Apr 2026 21:06:46 GMT"
+    },
     {
       "title": "Det svenske forsvaret følger etter russisk ubåt",
       "link": "https://www.nrk.no/nyheter/det-svenske-forsvaret-folger-etter-russisk-ubat-1.17842549",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/norges-speiderforbund-fortsetter-mette-marits-beskytterskap-1.17842473",
       "category": "Kongefamilien",
       "pubDate": "Fri, 10 Apr 2026 18:36:49 GMT"
-    },
-    {
-      "title": "Libanon: Dødstallet fra onsdagens angrep oppjustert",
-      "link": "https://www.nrk.no/nyheter/libanon_-dodstallet-fra-onsdagens-angrep-oppjustert-1.17842376",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 10 Apr 2026 18:02:48 GMT"
     }
   ]
 }
