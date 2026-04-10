@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-10T13:16:48.186Z",
+  "updatedAt": "2026-04-10T14:34:27.492Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Vance på vei til fredssamtaler med Iran",
+      "link": "https://www.nrk.no/nyheter/vance-pa-vei-til-fredssamtaler-med-iran-1.17842061",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 10 Apr 2026 13:25:03 GMT"
+    },
+    {
+      "title": "Libanesisk statlig media: Åtte drept i israelsk angrep",
+      "link": "https://www.nrk.no/nyheter/libanesisk-statlig-media_-atte-drept-i-israelsk-angrep-1.17842060",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 10 Apr 2026 13:15:58 GMT"
+    },
     {
       "title": "Feilmedisinerte pasient: UNN får bot på 700.000",
       "link": "https://www.nrk.no/tromsogfinnmark/feilmedisinerte-pasient_-unn-far-bot-pa-700.000-1.17841880",
@@ -9,8 +21,8 @@
       "pubDate": "Fri, 10 Apr 2026 13:09:00 GMT"
     },
     {
-      "title": "Overtent bil på E6 i Lillestrøm",
-      "link": "https://www.nrk.no/stor-oslo/overtent-bil-pa-e6-i-lillestrom-1.17841810",
+      "title": "Lange køer etter bilbrann på E6 i Lillestrøm",
+      "link": "https://www.nrk.no/stor-oslo/lange-koer-etter-bilbrann-pa-e6-i-lillestrom-1.17841810",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 10 Apr 2026 12:38:33 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/overfallssiktet-hevder-han-ville-han-lane-penger-til-mat-1.17841781",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 10 Apr 2026 12:02:31 GMT"
-    },
-    {
-      "title": "Hizbollah sier de har angrepet en marinebase i Israel",
-      "link": "https://www.nrk.no/nyheter/hizbollah-sier-de-har-angrepet-en-marinebase-i-israel-1.17841969",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 10 Apr 2026 11:54:57 GMT"
-    },
-    {
-      "title": "Wang: Kina og Nord-Korea bør trappe opp samarbeidet",
-      "link": "https://www.nrk.no/nyheter/wang_-kina-og-nord-korea-bor-trappe-opp-samarbeidet-1.17841959",
-      "category": "Kina",
-      "pubDate": "Fri, 10 Apr 2026 11:39:13 GMT"
     }
   ]
 }
