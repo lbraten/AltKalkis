@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-10T17:51:12.966Z",
+  "updatedAt": "2026-04-10T18:57:32.667Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norges speiderforbund fortsetter Mette-Marits beskytterskap",
+      "link": "https://www.nrk.no/nyheter/norges-speiderforbund-fortsetter-mette-marits-beskytterskap-1.17842473",
+      "category": "Kongefamilien",
+      "pubDate": "Fri, 10 Apr 2026 18:36:49 GMT"
+    },
+    {
+      "title": "Libanon: Dødstallet fra onsdagens angrep oppjustert",
+      "link": "https://www.nrk.no/nyheter/libanon_-dodstallet-fra-onsdagens-angrep-oppjustert-1.17842376",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 10 Apr 2026 18:02:48 GMT"
+    },
+    {
+      "title": "Politiet rykket ut etter melding om voldshendelse i Enebakk",
+      "link": "https://www.nrk.no/nyheter/politiet-rykket-ut-etter-melding-om-voldshendelse-i-enebakk-1.17842339",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 10 Apr 2026 17:51:27 GMT"
+    },
     {
       "title": "Prins Harry saksøkt av veldedig organisasjon for ærekrenkelser",
       "link": "https://www.nrk.no/nyheter/prins-harry-saksokt-av-veldedig-organisasjon-for-aerekrenkelser-1.17842377",
@@ -9,8 +27,8 @@
       "pubDate": "Fri, 10 Apr 2026 16:59:24 GMT"
     },
     {
-      "title": "Trafikkulykke på E6 i Sarpsborg: Veien er delvis stengt",
-      "link": "https://www.nrk.no/ostfold/trafikkulykke-pa-e6-i-sarpsborg_-veien-er-delvis-stengt-1.17842391",
+      "title": "Trafikkulykke på E6 i Sarpsborg",
+      "link": "https://www.nrk.no/ostfold/trafikkulykke-pa-e6-i-sarpsborg-1.17842391",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Fri, 10 Apr 2026 16:11:39 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sky-news_-minst-en-dod-og-27-til-sykehus-etter-bussulykke-pa-kanarioyene-1.17842056",
       "category": "Kanariøyene",
       "pubDate": "Fri, 10 Apr 2026 15:55:16 GMT"
-    },
-    {
-      "title": "Trump: USA ruster opp for eventuelle nye angrep på Iran",
-      "link": "https://www.nrk.no/nyheter/trump_-usa-ruster-opp-for-eventuelle-nye-angrep-pa-iran-1.17842204",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 10 Apr 2026 15:52:33 GMT"
-    },
-    {
-      "title": "Fire personer pågrepet etter trusselsituasjon i Lier",
-      "link": "https://www.nrk.no/nyheter/fire-personer-pagrepet-etter-trusselsituasjon-i-lier-1.17842304",
-      "category": "Politi og hendelser i Buskerud",
-      "pubDate": "Fri, 10 Apr 2026 15:14:22 GMT"
-    },
-    {
-      "title": "Støre: Prisveksten kan bli presset ytterligere",
-      "link": "https://www.nrk.no/nyheter/store_-prisveksten-kan-bli-presset-ytterligere-1.17842216",
-      "category": "Norsk økonomi",
-      "pubDate": "Fri, 10 Apr 2026 14:35:41 GMT"
     }
   ]
 }
