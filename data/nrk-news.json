@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-09T23:09:47.959Z",
+  "updatedAt": "2026-04-10T00:02:16.707Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Streik stanser Lufthansa-fly til og fra Norge",
+      "link": "https://www.nrk.no/nyheter/streik-stanser-lufthansa-fly-til-og-fra-norge-1.17841042",
+      "category": "Lufthansa",
+      "pubDate": "Thu, 09 Apr 2026 23:58:55 GMT"
+    },
+    {
+      "title": "Irans tidligere utenriksminister død av skader etter angrep",
+      "link": "https://www.nrk.no/nyheter/irans-tidligere-utenriksminister-dod-av-skader-etter-angrep-1.17841041",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 09 Apr 2026 23:14:42 GMT"
+    },
     {
       "title": "Rakettalarm i Tel Aviv",
       "link": "https://www.nrk.no/nyheter/rakettalarm-i-tel-aviv-1.17841038",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rutte-roser-norge-og-storbritannia-etter-ubat-jakt-1.17841025",
       "category": "Nato",
       "pubDate": "Thu, 09 Apr 2026 21:19:39 GMT"
-    },
-    {
-      "title": "Trump advarer Iran: – Slutt å ta betalt",
-      "link": "https://www.nrk.no/nyheter/trump-advarer-iran_-_-slutt-a-ta-betalt-1.17841024",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 09 Apr 2026 21:15:54 GMT"
-    },
-    {
-      "title": "Zelenskyj bekrefter våpenhvile i den ortodokse påsken",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-vapenhvile-i-den-ortodokse-pasken-1.17841015",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 09 Apr 2026 21:13:59 GMT"
     }
   ]
 }
