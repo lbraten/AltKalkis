@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-10T14:34:27.492Z",
+  "updatedAt": "2026-04-10T15:56:15.789Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sky News: Minst én død og 27 til sykehus etter bussulykke på Kanariøyene",
+      "link": "https://www.nrk.no/nyheter/sky-news_-minst-en-dod-og-27-til-sykehus-etter-bussulykke-pa-kanarioyene-1.17842056",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 10 Apr 2026 15:55:16 GMT"
+    },
+    {
+      "title": "Trump: USA ruster opp for eventuelle nye angrep på Iran",
+      "link": "https://www.nrk.no/nyheter/trump_-usa-ruster-opp-for-eventuelle-nye-angrep-pa-iran-1.17842204",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 10 Apr 2026 15:52:33 GMT"
+    },
+    {
+      "title": "Fire personer pågrepet etter trusselsituasjon i Lier",
+      "link": "https://www.nrk.no/nyheter/fire-personer-pagrepet-etter-trusselsituasjon-i-lier-1.17842304",
+      "category": "Politi og hendelser i Buskerud",
+      "pubDate": "Fri, 10 Apr 2026 15:14:22 GMT"
+    },
+    {
+      "title": "Støre: Prisveksten kan bli presset ytterligere",
+      "link": "https://www.nrk.no/nyheter/store_-prisveksten-kan-bli-presset-ytterligere-1.17842216",
+      "category": "Norsk økonomi",
+      "pubDate": "Fri, 10 Apr 2026 14:35:41 GMT"
+    },
     {
       "title": "Vance på vei til fredssamtaler med Iran",
       "link": "https://www.nrk.no/nyheter/vance-pa-vei-til-fredssamtaler-med-iran-1.17842061",
@@ -9,34 +33,10 @@
       "pubDate": "Fri, 10 Apr 2026 13:25:03 GMT"
     },
     {
-      "title": "Libanesisk statlig media: Åtte drept i israelsk angrep",
-      "link": "https://www.nrk.no/nyheter/libanesisk-statlig-media_-atte-drept-i-israelsk-angrep-1.17842060",
+      "title": "Libanons president: Minst 13 drept i israelsk angrep",
+      "link": "https://www.nrk.no/nyheter/libanons-president_-minst-13-drept-i-israelsk-angrep-1.17842060",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 10 Apr 2026 13:15:58 GMT"
-    },
-    {
-      "title": "Feilmedisinerte pasient: UNN får bot på 700.000",
-      "link": "https://www.nrk.no/tromsogfinnmark/feilmedisinerte-pasient_-unn-far-bot-pa-700.000-1.17841880",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 10 Apr 2026 13:09:00 GMT"
-    },
-    {
-      "title": "Lange køer etter bilbrann på E6 i Lillestrøm",
-      "link": "https://www.nrk.no/stor-oslo/lange-koer-etter-bilbrann-pa-e6-i-lillestrom-1.17841810",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 10 Apr 2026 12:38:33 GMT"
-    },
-    {
-      "title": "Over fire millioner mennesker fordrevet under Iran-krigen",
-      "link": "https://www.nrk.no/nyheter/over-fire--millioner-mennesker-fordrevet-under-iran-krigen-1.17842017",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 10 Apr 2026 12:04:35 GMT"
-    },
-    {
-      "title": "Overfallssiktet hevder han ville han låne penger til mat",
-      "link": "https://www.nrk.no/stor-oslo/overfallssiktet-hevder-han-ville-han-lane-penger-til-mat-1.17841781",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 10 Apr 2026 12:02:31 GMT"
     }
   ]
 }
