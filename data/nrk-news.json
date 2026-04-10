@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-04-10T09:13:08.540Z",
+  "updatedAt": "2026-04-10T10:34:10.582Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Artemis ll lander i natt",
-      "link": "https://www.nrk.no/nyheter/artemis-ll-lander-i-natt-1.17841159",
+      "title": "Brudd i forhandlingene mellom NHO Byggenæringen og Fellesforbundet",
+      "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-mellom-nho-byggenaeringen-og-fellesforbundet-1.17841623",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 10 Apr 2026 10:17:54 GMT"
+    },
+    {
+      "title": "To menn tiltalt for drapet på rapper i Sverige",
+      "link": "https://www.nrk.no/nyheter/to-menn-tiltalt-for-drapet-pa-rapper-i-sverige-1.17841650",
+      "category": "Sverige",
+      "pubDate": "Fri, 10 Apr 2026 09:18:17 GMT"
+    },
+    {
+      "title": "Venter kraftig snøfokk i fjellet",
+      "link": "https://www.nrk.no/innlandet/venter-kraftig-snofokk-i-fjellet-1.17841645",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 10 Apr 2026 09:16:19 GMT"
+    },
+    {
+      "title": "Artemis II lander i natt",
+      "link": "https://www.nrk.no/nyheter/artemis-ii-lander-i-natt-1.17841159",
       "category": "Nasa",
       "pubDate": "Fri, 10 Apr 2026 09:12:00 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/oslos-skolebehovsplan-funnet-lovlig-av-statsforvalteren-1.17841490",
       "category": "Osloskolen",
       "pubDate": "Fri, 10 Apr 2026 08:38:43 GMT"
-    },
-    {
-      "title": "Flertallet støtter fiskestoppen i Oslofjorden",
-      "link": "https://www.nrk.no/stor-oslo/flertallet-stotter-fiskestoppen-i-oslofjorden-1.17841437",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 10 Apr 2026 08:27:33 GMT"
-    },
-    {
-      "title": "Ambassade-siktet varetektsfengsles i fire nye uker",
-      "link": "https://www.nrk.no/nyheter/ambassade-siktet-varetektsfengsles-i-fire-nye-uker-1.17841430",
-      "category": "Eksplosjon ved USAs ambassade",
-      "pubDate": "Fri, 10 Apr 2026 08:12:17 GMT"
-    },
-    {
-      "title": "Mann og kvinne pågripne etter bombefunn på Hop",
-      "link": "https://www.nrk.no/vestland/mann-og-kvinne-pagripne-etter-bombefunn-pa-hop-1.17841305",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 10 Apr 2026 07:56:14 GMT"
     }
   ]
 }
