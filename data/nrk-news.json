@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-10T22:40:04.431Z",
+  "updatedAt": "2026-04-10T23:37:44.302Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Djiboutis president erklærer seier i valget",
+      "link": "https://www.nrk.no/nyheter/djiboutis-president-erklaerer-seier-i-valget-1.17842580",
+      "category": "Djibouti",
+      "pubDate": "Fri, 10 Apr 2026 23:20:51 GMT"
+    },
+    {
+      "title": "Elden blir forsvarer for Morten Wold",
+      "link": "https://www.nrk.no/nyheter/elden-blir-forsvarer-for-morten-wold-1.17842579",
+      "category": "Fremskrittspartiet",
+      "pubDate": "Fri, 10 Apr 2026 23:12:49 GMT"
+    },
     {
       "title": "Israel vil ikke diskutere våpenhvile med Hizbollah",
       "link": "https://www.nrk.no/nyheter/israel-vil-ikke-diskutere-vapenhvile-med-hizbollah-1.17842578",
@@ -21,22 +33,10 @@
       "pubDate": "Fri, 10 Apr 2026 20:24:17 GMT"
     },
     {
-      "title": "Libanon: Samtaler med Israel skal starte tirsdag – USA skal megle",
-      "link": "https://www.nrk.no/nyheter/libanon_-samtaler-med-israel-skal-starte-tirsdag-_-usa-skal-megle-1.17842546",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 10 Apr 2026 20:15:38 GMT"
-    },
-    {
-      "title": "Colombia og Ecuador i full handelsstrid",
-      "link": "https://www.nrk.no/nyheter/colombia-og-ecuador-i-full-handelsstrid-1.17842542",
-      "category": "Colombia",
-      "pubDate": "Fri, 10 Apr 2026 20:06:20 GMT"
-    },
-    {
-      "title": "Leiteaksjon etter tre personar i Suldal",
-      "link": "https://www.nrk.no/rogaland/leiteaksjon-etter-tre-personar-i-suldal-1.17842501",
+      "title": "To bilar utbrende etter brann i Kopervik",
+      "link": "https://www.nrk.no/rogaland/to-bilar-utbrende-etter-brann-i-kopervik-1.17842537",
       "category": "Nyheter fra Rogaland",
-      "pubDate": "Fri, 10 Apr 2026 20:01:26 GMT"
+      "pubDate": "Fri, 10 Apr 2026 20:21:57 GMT"
     }
   ]
 }
