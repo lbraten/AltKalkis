@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-10T21:40:15.115Z",
+  "updatedAt": "2026-04-10T22:40:04.431Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel vil ikke diskutere våpenhvile med Hizbollah",
+      "link": "https://www.nrk.no/nyheter/israel-vil-ikke-diskutere-vapenhvile-med-hizbollah-1.17842578",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 10 Apr 2026 22:10:17 GMT"
+    },
     {
       "title": "Tesla får godkjent selvkjøring i Nederland",
       "link": "https://www.nrk.no/nyheter/tesla-far-godkjent-selvkjoring-i-nederland-1.17842569",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/leiteaksjon-etter-tre-personar-i-suldal-1.17842501",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Fri, 10 Apr 2026 20:01:26 GMT"
-    },
-    {
-      "title": "Norges speiderforbund fortsetter Mette-Marits beskytterskap",
-      "link": "https://www.nrk.no/nyheter/norges-speiderforbund-fortsetter-mette-marits-beskytterskap-1.17842473",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 10 Apr 2026 18:36:49 GMT"
     }
   ]
 }
