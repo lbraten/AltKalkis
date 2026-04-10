@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-10T16:55:56.627Z",
+  "updatedAt": "2026-04-10T17:51:12.966Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Prins Harry saksøkt av veldedig organisasjon for ærekrenkelser",
+      "link": "https://www.nrk.no/nyheter/prins-harry-saksokt-av-veldedig-organisasjon-for-aerekrenkelser-1.17842377",
+      "category": "Det britiske kongehuset",
+      "pubDate": "Fri, 10 Apr 2026 16:59:24 GMT"
+    },
     {
       "title": "Trafikkulykke på E6 i Sarpsborg: Veien er delvis stengt",
       "link": "https://www.nrk.no/ostfold/trafikkulykke-pa-e6-i-sarpsborg_-veien-er-delvis-stengt-1.17842391",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store_-prisveksten-kan-bli-presset-ytterligere-1.17842216",
       "category": "Norsk økonomi",
       "pubDate": "Fri, 10 Apr 2026 14:35:41 GMT"
-    },
-    {
-      "title": "Vance på vei til fredssamtaler med Iran",
-      "link": "https://www.nrk.no/nyheter/vance-pa-vei-til-fredssamtaler-med-iran-1.17842061",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 10 Apr 2026 13:25:03 GMT"
     }
   ]
 }
