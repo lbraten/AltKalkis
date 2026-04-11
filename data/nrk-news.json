@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-11T04:57:28.046Z",
+  "updatedAt": "2026-04-11T06:05:11.146Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amerikanske forhandlere fremme i Pakistan",
+      "link": "https://www.nrk.no/nyheter/amerikanske-forhandlere-fremme-i-pakistan-1.17842605",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 11 Apr 2026 05:32:49 GMT"
+    },
+    {
+      "title": "Justin Bieber gjør comeback",
+      "link": "https://www.nrk.no/nyheter/justin-bieber-gjor-comeback-1.17842601",
+      "category": "Justin Bieber",
+      "pubDate": "Sat, 11 Apr 2026 05:25:35 GMT"
+    },
     {
       "title": "To drept i angrep mot Odesa",
       "link": "https://www.nrk.no/nyheter/to-drept-i-angrep-mot-odesa-1.17842596",
@@ -15,12 +27,6 @@
       "pubDate": "Sat, 11 Apr 2026 03:48:44 GMT"
     },
     {
-      "title": "Mann skjøt knallskudd i Stavanger",
-      "link": "https://www.nrk.no/nyheter/mann-skjot-knallskudd-i-stavanger-1.17842591",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 11 Apr 2026 03:13:18 GMT"
-    },
-    {
       "title": "FBI ba om ransaking av iransk skip i Danmark",
       "link": "https://www.nrk.no/nyheter/fbi-ba-om-ransaking-av-iransk-skip-i-danmark-1.17842592",
       "category": "NRK Nyheter",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-a-ha-skutt-knallskudd-1.17842571",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 11 Apr 2026 02:16:34 GMT"
-    },
-    {
-      "title": "Leteaksjon i Suldal avsluttet for natten",
-      "link": "https://www.nrk.no/nyheter/leteaksjon-i-suldal-avsluttet-for-natten-1.17842590",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 11 Apr 2026 01:31:08 GMT"
     }
   ]
 }
