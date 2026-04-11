@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-11T09:42:18.244Z",
+  "updatedAt": "2026-04-11T10:36:54.498Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Opprettholder siktelsen mot fire personer",
+      "link": "https://www.nrk.no/buskerud/opprettholder-siktelsen-mot-fire-personer-1.17842719",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 11 Apr 2026 10:07:29 GMT"
+    },
     {
       "title": "Libanon: Tre drept i israelske angrep",
       "link": "https://www.nrk.no/nyheter/libanon_-tre-drept-i-israelske-angrep-1.17842783",
@@ -21,8 +27,8 @@
       "pubDate": "Sat, 11 Apr 2026 08:44:44 GMT"
     },
     {
-      "title": "Bevisstløs person funnet – ansees som mistenkelig",
-      "link": "https://www.nrk.no/stor-oslo/bevisstlos-person-funnet-_-ansees-som-mistenkelig-1.17842691",
+      "title": "Etterforsker funn av død kvinne i heis",
+      "link": "https://www.nrk.no/stor-oslo/etterforsker-funn-av-dod-kvinne-i-heis-1.17842691",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 11 Apr 2026 08:40:00 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/bergen-med-storst-vekst-blant-dei-store-flyplassane-1.17842734",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 11 Apr 2026 08:00:10 GMT"
-    },
-    {
-      "title": "Dobbelt så mange kvinnelege jegerar",
-      "link": "https://www.nrk.no/vestland/dobbelt-sa-mange-kvinnelege-jegerar-1.17842710",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 11 Apr 2026 07:41:52 GMT"
     }
   ]
 }
