@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-11T22:34:59.487Z",
+  "updatedAt": "2026-04-11T23:37:19.184Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Irans regjering: Forhandlingene avrundet for dagen",
+      "link": "https://www.nrk.no/nyheter/irans-regjering_-forhandlingene-avrundet-for-dagen-1.17843305",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 11 Apr 2026 23:20:58 GMT"
+    },
+    {
+      "title": "Tre personer berget etter at båt kantret ved Nord-Frøya",
+      "link": "https://www.nrk.no/nyheter/tre-personer-berget-etter-at-bat-kantret-ved-nord-froya-1.17843304",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 11 Apr 2026 23:18:53 GMT"
+    },
+    {
+      "title": "Bil kjørte inn butikk i Oslo",
+      "link": "https://www.nrk.no/nyheter/bil-kjorte-inn-butikk-i-oslo-1.17843299",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 11 Apr 2026 23:13:05 GMT"
+    },
     {
       "title": "Mekling på overtid i frontfaget",
       "link": "https://www.nrk.no/nyheter/mekling-pa-overtid-i-frontfaget-1.17843298",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/riksmekleren_-partene-star-lenger-unna-hverandre-enn-jeg-skulle-onske-1.17843292",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Sat, 11 Apr 2026 21:04:15 GMT"
-    },
-    {
-      "title": "Trump: – Vi er i dype forhandlinger med Iran",
-      "link": "https://www.nrk.no/nyheter/trump_-_-vi-er-i-dype-forhandlinger-med-iran-1.17843291",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 11 Apr 2026 20:54:15 GMT"
-    },
-    {
-      "title": "Palestiner drept av bosettere på Vestbredden",
-      "link": "https://www.nrk.no/nyheter/palestiner-drept-av-bosettere-pa-vestbredden-1.17842940",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 11 Apr 2026 20:03:07 GMT"
-    },
-    {
-      "title": "Ukraina anklager Russland for 469 brudd på våpenhvilen som startet i dag",
-      "link": "https://www.nrk.no/nyheter/ukraina-anklager-russland-for-469-brudd-pa-vapenhvilen-som-startet-i-dag-1.17843221",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 11 Apr 2026 19:23:13 GMT"
     }
   ]
 }
