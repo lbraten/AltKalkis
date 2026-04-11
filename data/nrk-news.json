@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-11T18:50:00.512Z",
+  "updatedAt": "2026-04-11T19:36:14.716Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina melder at Russland har brutt våpenhvilen 469 ganger",
+      "link": "https://www.nrk.no/nyheter/ukraina-melder-at-russland-har-brutt-vapenhvilen-469-ganger-1.17843221",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 11 Apr 2026 19:23:13 GMT"
+    },
     {
       "title": "Netanyahu ønsker «ekte fredsavtale» med Libanon",
       "link": "https://www.nrk.no/nyheter/netanyahu-onsker-_ekte-fredsavtale_-med-libanon-1.17843206",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/rykker-ut-til-stor-brann-pa-finsk-side-1.17843163",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sat, 11 Apr 2026 17:03:59 GMT"
-    },
-    {
-      "title": "USA: To amerikanske skip har seilt gjennom Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/usa_-to-amerikanske-skip-har-seilt-gjennom-hormuzstredet-1.17843133",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 11 Apr 2026 16:42:36 GMT"
     }
   ]
 }
