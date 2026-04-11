@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-11T10:36:54.498Z",
+  "updatedAt": "2026-04-11T11:32:15.702Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tsjekkias statsminister støtter Orbán",
+      "link": "https://www.nrk.no/nyheter/tsjekkias-statsminister-stotter-orban-1.17842812",
+      "category": "Ungarn",
+      "pubDate": "Sat, 11 Apr 2026 10:47:51 GMT"
+    },
+    {
+      "title": "To bråtebranner kom ut av kontroll i Nordland",
+      "link": "https://www.nrk.no/nordland/to-bratebranner-kom-ut-av-kontroll-i-nordland-1.17842790",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 11 Apr 2026 10:15:49 GMT"
+    },
     {
       "title": "Opprettholder siktelsen mot fire personer",
       "link": "https://www.nrk.no/buskerud/opprettholder-siktelsen-mot-fire-personer-1.17842719",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bbc_-storbritannia-stanser-plan-om-a-gi-chagosoyene-tilbake-1.17842692",
       "category": "Storbritannia",
       "pubDate": "Sat, 11 Apr 2026 08:44:44 GMT"
-    },
-    {
-      "title": "Etterforsker funn av død kvinne i heis",
-      "link": "https://www.nrk.no/stor-oslo/etterforsker-funn-av-dod-kvinne-i-heis-1.17842691",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 11 Apr 2026 08:40:00 GMT"
-    },
-    {
-      "title": "Bergen med størst vekst blant dei store flyplassane",
-      "link": "https://www.nrk.no/vestland/bergen-med-storst-vekst-blant-dei-store-flyplassane-1.17842734",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 11 Apr 2026 08:00:10 GMT"
     }
   ]
 }
