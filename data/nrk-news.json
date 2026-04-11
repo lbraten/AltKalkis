@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-04-11T19:36:14.716Z",
+  "updatedAt": "2026-04-11T20:36:34.592Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ukraina melder at Russland har brutt våpenhvilen 469 ganger",
-      "link": "https://www.nrk.no/nyheter/ukraina-melder-at-russland-har-brutt-vapenhvilen-469-ganger-1.17843221",
+      "title": "Palestiner drept av bosettere på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/palestiner-drept-av-bosettere-pa-vestbredden-1.17842940",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 11 Apr 2026 20:03:07 GMT"
+    },
+    {
+      "title": "Ukraina anklager Russland for 469 brudd på våpenhvilen som startet i dag",
+      "link": "https://www.nrk.no/nyheter/ukraina-anklager-russland-for-469-brudd-pa-vapenhvilen-som-startet-i-dag-1.17843221",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 11 Apr 2026 19:23:13 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon_-over-2000-drepte-i-israelske-angrep-1.17843147",
       "category": "Libanon",
       "pubDate": "Sat, 11 Apr 2026 17:07:41 GMT"
-    },
-    {
-      "title": "Rykker ut til stor brann på finsk side",
-      "link": "https://www.nrk.no/tromsogfinnmark/rykker-ut-til-stor-brann-pa-finsk-side-1.17843163",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 11 Apr 2026 17:03:59 GMT"
     }
   ]
 }
