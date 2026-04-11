@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-11T02:30:12.158Z",
+  "updatedAt": "2026-04-11T04:57:28.046Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To drept i angrep mot Odesa",
+      "link": "https://www.nrk.no/nyheter/to-drept-i-angrep-mot-odesa-1.17842596",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 11 Apr 2026 04:29:21 GMT"
+    },
+    {
+      "title": "Underernært gutt funnet naken i varebil i Frankrike",
+      "link": "https://www.nrk.no/nyheter/underernaert-gutt-funnet-naken-i-varebil-i-frankrike-1.17842594",
+      "category": "Frankrike",
+      "pubDate": "Sat, 11 Apr 2026 03:48:44 GMT"
+    },
+    {
+      "title": "Mann skjøt knallskudd i Stavanger",
+      "link": "https://www.nrk.no/nyheter/mann-skjot-knallskudd-i-stavanger-1.17842591",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 11 Apr 2026 03:13:18 GMT"
+    },
+    {
+      "title": "FBI ba om ransaking av iransk skip i Danmark",
+      "link": "https://www.nrk.no/nyheter/fbi-ba-om-ransaking-av-iransk-skip-i-danmark-1.17842592",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 11 Apr 2026 02:42:26 GMT"
+    },
     {
       "title": "Mann pågrepet etter å ha skutt knallskudd",
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-a-ha-skutt-knallskudd-1.17842571",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/leteaksjon-i-suldal-avsluttet-for-natten-1.17842590",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sat, 11 Apr 2026 01:31:08 GMT"
-    },
-    {
-      "title": "En drept i Ukraina før varslet våpenhvile",
-      "link": "https://www.nrk.no/nyheter/en-drept-i-ukraina-for-varslet-vapenhvile-1.17842589",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 11 Apr 2026 01:19:15 GMT"
-    },
-    {
-      "title": "Seks drept i angrep mot politipost i Gaza",
-      "link": "https://www.nrk.no/nyheter/seks-drept-i-angrep-mot-politipost-i-gaza-1.17842586",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sat, 11 Apr 2026 00:29:02 GMT"
-    },
-    {
-      "title": "Artemis II-astronautene har landet i Stillehavet",
-      "link": "https://www.nrk.no/nyheter/artemis-ii-astronautene-har-landet-i-stillehavet-1.17842581",
-      "category": "Romfart og astronomi",
-      "pubDate": "Sat, 11 Apr 2026 00:08:48 GMT"
-    },
-    {
-      "title": "Djiboutis president erklærer seier i valget",
-      "link": "https://www.nrk.no/nyheter/djiboutis-president-erklaerer-seier-i-valget-1.17842580",
-      "category": "Djibouti",
-      "pubDate": "Fri, 10 Apr 2026 23:20:51 GMT"
     }
   ]
 }
