@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-04-11T16:45:44.290Z",
+  "updatedAt": "2026-04-11T17:33:55.858Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Libanon: Over 2000 drepte i israelske angrep",
+      "link": "https://www.nrk.no/nyheter/libanon_-over-2000-drepte-i-israelske-angrep-1.17843147",
+      "category": "Libanon",
+      "pubDate": "Sat, 11 Apr 2026 17:07:41 GMT"
+    },
+    {
       "title": "USA: To amerikanske skip har seilt gjennom Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/usa_-to-amerikanske-skip-har-seilt-gjennom-hormuzstredet-1.17843133",
-      "category": "NRK Nyheter",
+      "category": "Forholdet Iran – USA",
       "pubDate": "Sat, 11 Apr 2026 16:42:36 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/trondelag/fly-klarte-ikke-a-lande-pa-vaernes--1.17843029",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sat, 11 Apr 2026 14:55:09 GMT"
-    },
-    {
-      "title": "Det hvite hus bekrefter: Fredssamtaler i gang mellom USA, Iran og Pakistan",
-      "link": "https://www.nrk.no/nyheter/det-hvite-hus-bekrefter_-fredssamtaler-i-gang-mellom-usa_-iran-og-pakistan-1.17843055",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 11 Apr 2026 14:53:52 GMT"
     }
   ]
 }
