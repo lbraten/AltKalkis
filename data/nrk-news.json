@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-11T13:03:32.158Z",
+  "updatedAt": "2026-04-11T14:06:30.544Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amerikansk skip skal ha snudd i Hormuzstredet etter trusler fra Iran",
+      "link": "https://www.nrk.no/nyheter/amerikansk-skip-skal-ha-snudd-i-hormuzstredet-etter-trusler-fra-iran-1.17842948",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 11 Apr 2026 13:49:13 GMT"
+    },
+    {
+      "title": "Medier: Fredsforhandlingene mellom Iran og USA har startet",
+      "link": "https://www.nrk.no/nyheter/medier_-fredsforhandlingene-mellom-iran-og-usa-har-startet-1.17842938",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 11 Apr 2026 13:14:15 GMT"
+    },
+    {
+      "title": "Varetektsfengslet i fire uker etter Hamar-brannene",
+      "link": "https://www.nrk.no/innlandet/varetektsfengslet-i-fire-uker-etter-hamar-brannene-1.17842881",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 11 Apr 2026 13:07:31 GMT"
+    },
+    {
+      "title": "Axios: Amerikanske skip har krysset Hormuzstredet – Trump hevder å «rydde opp»",
+      "link": "https://www.nrk.no/nyheter/axios_-amerikanske-skip-har-krysset-hormuzstredet-_-trump-hevder-a-_rydde-opp_-1.17842929",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 11 Apr 2026 13:06:11 GMT"
+    },
     {
       "title": "Brann i bolighus – alle skal være kommet seg ut",
       "link": "https://www.nrk.no/nordland/brann-i-bolighus-_-alle-skal-vaere-kommet-seg-ut-1.17842886",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eks-konge-juan-carlos-fikk-fransk-bokpris-1.17842875",
       "category": "Spania",
       "pubDate": "Sat, 11 Apr 2026 12:11:52 GMT"
-    },
-    {
-      "title": "Russland og Ukraina har utvekslet fanger",
-      "link": "https://www.nrk.no/nyheter/russland-og-ukraina-har-utvekslet-fanger-1.17842836",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 11 Apr 2026 11:36:16 GMT"
-    },
-    {
-      "title": "Tsjekkias statsminister støtter Orbán",
-      "link": "https://www.nrk.no/nyheter/tsjekkias-statsminister-stotter-orban-1.17842812",
-      "category": "Ungarn",
-      "pubDate": "Sat, 11 Apr 2026 10:47:51 GMT"
-    },
-    {
-      "title": "To bråtebranner kom ut av kontroll i Nordland",
-      "link": "https://www.nrk.no/nordland/to-bratebranner-kom-ut-av-kontroll-i-nordland-1.17842790",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 11 Apr 2026 10:15:49 GMT"
-    },
-    {
-      "title": "Opprettholder siktelsen mot fire personer",
-      "link": "https://www.nrk.no/buskerud/opprettholder-siktelsen-mot-fire-personer-1.17842719",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 11 Apr 2026 10:07:29 GMT"
     }
   ]
 }
