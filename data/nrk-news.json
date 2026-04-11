@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-11T21:35:35.319Z",
+  "updatedAt": "2026-04-11T22:34:59.487Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mekling på overtid i frontfaget",
+      "link": "https://www.nrk.no/nyheter/mekling-pa-overtid-i-frontfaget-1.17843298",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sat, 11 Apr 2026 22:12:03 GMT"
+    },
+    {
+      "title": "Iran truer med angrep i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-angrep-i-hormuzstredet-1.17843295",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 11 Apr 2026 21:36:18 GMT"
+    },
     {
       "title": "Riksmekleren: Partene står lenger unna hverandre enn jeg skulle ønske",
       "link": "https://www.nrk.no/nyheter/riksmekleren_-partene-star-lenger-unna-hverandre-enn-jeg-skulle-onske-1.17843292",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina-anklager-russland-for-469-brudd-pa-vapenhvilen-som-startet-i-dag-1.17843221",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 11 Apr 2026 19:23:13 GMT"
-    },
-    {
-      "title": "Netanyahu ønsker «ekte fredsavtale» med Libanon",
-      "link": "https://www.nrk.no/nyheter/netanyahu-onsker-_ekte-fredsavtale_-med-libanon-1.17843206",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 11 Apr 2026 18:15:17 GMT"
-    },
-    {
-      "title": "Medier: Strid om Hormuzstredet lammer forhandlinger mellom USA og Iran",
-      "link": "https://www.nrk.no/nyheter/medier_-strid-om-hormuzstredet-lammer-forhandlinger-mellom-usa-og-iran-1.17843168",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 11 Apr 2026 17:58:33 GMT"
     }
   ]
 }
