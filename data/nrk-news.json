@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-04-11T15:56:34.749Z",
+  "updatedAt": "2026-04-11T16:45:44.290Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Russland: Tre skadet i ukrainsk droneangrep mot bensinstasjon",
-      "link": "https://www.nrk.no/nyheter/russland_-tre-skadet-i-ukrainsk-droneangrep-mot-bensinstasjon-1.17843059",
+      "title": "USA: To amerikanske skip har seilt gjennom Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/usa_-to-amerikanske-skip-har-seilt-gjennom-hormuzstredet-1.17843133",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 11 Apr 2026 16:42:36 GMT"
+    },
+    {
+      "title": "Ny FpU-leder valgt",
+      "link": "https://www.nrk.no/nyheter/ny-fpu-leder-valgt-1.17843106",
+      "category": "Fremskrittspartiet",
+      "pubDate": "Sat, 11 Apr 2026 16:30:23 GMT"
+    },
+    {
+      "title": "Frankrikes president har snakket med Irans president",
+      "link": "https://www.nrk.no/nyheter/frankrikes-president-har-snakket-med-irans-president-1.17843086",
+      "category": "Iran",
+      "pubDate": "Sat, 11 Apr 2026 15:54:40 GMT"
+    },
+    {
+      "title": "Russland: Fem skal være skadet i ukrainske droneangrep",
+      "link": "https://www.nrk.no/nyheter/russland_-fem-skal-vaere-skadet-i-ukrainske-droneangrep-1.17843059",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 11 Apr 2026 15:22:04 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/det-hvite-hus-bekrefter_-fredssamtaler-i-gang-mellom-usa_-iran-og-pakistan-1.17843055",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sat, 11 Apr 2026 14:53:52 GMT"
-    },
-    {
-      "title": "Brann ute av kontroll i Fjord kommune",
-      "link": "https://www.nrk.no/mr/brann-ute-av-kontroll-i-fjord-kommune-1.17842934",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 11 Apr 2026 14:13:33 GMT"
-    },
-    {
-      "title": "500.000 liter med møkk har rent ut mot elv – jobber med å begrense miljøskadene",
-      "link": "https://www.nrk.no/trondelag/500.000-liter-med-mokk-har-rent-ut-mot-elv-_-jobber-med-a-begrense-miljoskadene-1.17842926",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 11 Apr 2026 14:03:03 GMT"
-    },
-    {
-      "title": "Iran truer med angrep – amerikansk skip skal ha snudd i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-angrep-_-amerikansk-skip-skal-ha-snudd-i-hormuzstredet-1.17842948",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 11 Apr 2026 13:49:13 GMT"
     }
   ]
 }
