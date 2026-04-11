@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-11T20:36:34.592Z",
+  "updatedAt": "2026-04-11T21:35:35.319Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Riksmekleren: Partene står lenger unna hverandre enn jeg skulle ønske",
+      "link": "https://www.nrk.no/nyheter/riksmekleren_-partene-star-lenger-unna-hverandre-enn-jeg-skulle-onske-1.17843292",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sat, 11 Apr 2026 21:04:15 GMT"
+    },
+    {
+      "title": "Trump: – Vi er i dype forhandlinger med Iran",
+      "link": "https://www.nrk.no/nyheter/trump_-_-vi-er-i-dype-forhandlinger-med-iran-1.17843291",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 11 Apr 2026 20:54:15 GMT"
+    },
     {
       "title": "Palestiner drept av bosettere på Vestbredden",
       "link": "https://www.nrk.no/nyheter/palestiner-drept-av-bosettere-pa-vestbredden-1.17842940",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/medier_-strid-om-hormuzstredet-lammer-forhandlinger-mellom-usa-og-iran-1.17843168",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sat, 11 Apr 2026 17:58:33 GMT"
-    },
-    {
-      "title": "Vinden gir næring til lyngbrann: – Ikke kontroll",
-      "link": "https://www.nrk.no/nordland/vinden-gir-naering-til-lyngbrann_-_-ikke-kontroll-1.17843170",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 11 Apr 2026 17:22:31 GMT"
-    },
-    {
-      "title": "Libanon: Over 2000 drepte i israelske angrep",
-      "link": "https://www.nrk.no/nyheter/libanon_-over-2000-drepte-i-israelske-angrep-1.17843147",
-      "category": "Libanon",
-      "pubDate": "Sat, 11 Apr 2026 17:07:41 GMT"
     }
   ]
 }
