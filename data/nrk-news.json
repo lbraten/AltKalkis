@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-04-11T08:49:39.968Z",
+  "updatedAt": "2026-04-11T09:42:18.244Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Libanon: Tre drept i israelske angrep",
+      "link": "https://www.nrk.no/nyheter/libanon_-tre-drept-i-israelske-angrep-1.17842783",
+      "category": "Libanon og Israel",
+      "pubDate": "Sat, 11 Apr 2026 09:39:59 GMT"
+    },
+    {
+      "title": "Gaza: Sju drept i angrep i flyktningleir",
+      "link": "https://www.nrk.no/nyheter/gaza_-sju-drept-i-angrep-i-flyktningleir-1.17842759",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sat, 11 Apr 2026 09:29:09 GMT"
+    },
     {
       "title": "BBC: Storbritannia stanser plan om å gi Chagosøyene tilbake",
       "link": "https://www.nrk.no/nyheter/bbc_-storbritannia-stanser-plan-om-a-gi-chagosoyene-tilbake-1.17842692",
       "category": "Storbritannia",
       "pubDate": "Sat, 11 Apr 2026 08:44:44 GMT"
+    },
+    {
+      "title": "Bevisstløs person funnet – ansees som mistenkelig",
+      "link": "https://www.nrk.no/stor-oslo/bevisstlos-person-funnet-_-ansees-som-mistenkelig-1.17842691",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 11 Apr 2026 08:40:00 GMT"
     },
     {
       "title": "Bergen med størst vekst blant dei store flyplassane",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/dobbelt-sa-mange-kvinnelege-jegerar-1.17842710",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 11 Apr 2026 07:41:52 GMT"
-    },
-    {
-      "title": "Norge øker hjelpen til Libanon",
-      "link": "https://www.nrk.no/nyheter/norge-oker-hjelpen-til-libanon-1.17842686",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 11 Apr 2026 07:10:20 GMT"
-    },
-    {
-      "title": "Sam Altmans hjem angrepet med molotov-cocktail",
-      "link": "https://www.nrk.no/nyheter/sam-altmans-hjem-angrepet-med-molotov-cocktail-1.17842608",
-      "category": "USA",
-      "pubDate": "Sat, 11 Apr 2026 07:06:05 GMT"
-    },
-    {
-      "title": "Setter inn helikopter i søket etter savnede turgåere",
-      "link": "https://www.nrk.no/rogaland/setter-inn-helikopter-i-soket-etter-savnede-turgaere-1.17842638",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 11 Apr 2026 06:45:26 GMT"
     }
   ]
 }
