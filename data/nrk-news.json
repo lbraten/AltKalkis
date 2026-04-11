@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-11T07:33:01.126Z",
+  "updatedAt": "2026-04-11T08:49:39.968Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "BBC: Storbritannia stanser plan om å gi Chagosøyene tilbake",
+      "link": "https://www.nrk.no/nyheter/bbc_-storbritannia-stanser-plan-om-a-gi-chagosoyene-tilbake-1.17842692",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 11 Apr 2026 08:44:44 GMT"
+    },
+    {
+      "title": "Bergen med størst vekst blant dei store flyplassane",
+      "link": "https://www.nrk.no/vestland/bergen-med-storst-vekst-blant-dei-store-flyplassane-1.17842734",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 11 Apr 2026 08:00:10 GMT"
+    },
+    {
+      "title": "Dobbelt så mange kvinnelege jegerar",
+      "link": "https://www.nrk.no/vestland/dobbelt-sa-mange-kvinnelege-jegerar-1.17842710",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 11 Apr 2026 07:41:52 GMT"
+    },
     {
       "title": "Norge øker hjelpen til Libanon",
       "link": "https://www.nrk.no/nyheter/norge-oker-hjelpen-til-libanon-1.17842686",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/rogaland/setter-inn-helikopter-i-soket-etter-savnede-turgaere-1.17842638",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 11 Apr 2026 06:45:26 GMT"
-    },
-    {
-      "title": "Gult farevarsel i store deler av landet",
-      "link": "https://www.nrk.no/tromsogfinnmark/gult-farevarsel-i-store-deler-av-landet-1.17842646",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 11 Apr 2026 06:37:35 GMT"
-    },
-    {
-      "title": "Amerikanske forhandlere fremme i Pakistan",
-      "link": "https://www.nrk.no/nyheter/amerikanske-forhandlere-fremme-i-pakistan-1.17842605",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 11 Apr 2026 05:32:49 GMT"
-    },
-    {
-      "title": "Justin Bieber gjør comeback",
-      "link": "https://www.nrk.no/nyheter/justin-bieber-gjor-comeback-1.17842601",
-      "category": "Justin Bieber",
-      "pubDate": "Sat, 11 Apr 2026 05:25:35 GMT"
     }
   ]
 }
