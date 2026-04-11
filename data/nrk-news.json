@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-04-11T14:06:30.544Z",
+  "updatedAt": "2026-04-11T15:03:01.397Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Amerikansk skip skal ha snudd i Hormuzstredet etter trusler fra Iran",
-      "link": "https://www.nrk.no/nyheter/amerikansk-skip-skal-ha-snudd-i-hormuzstredet-etter-trusler-fra-iran-1.17842948",
+      "title": "Det hvite hus bekrefter: Fredssamtaler i gang mellom USA, Iran og Pakistan",
+      "link": "https://www.nrk.no/nyheter/det-hvite-hus-bekrefter_-fredssamtaler-i-gang-mellom-usa_-iran-og-pakistan-1.17843055",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 11 Apr 2026 14:53:52 GMT"
+    },
+    {
+      "title": "Brann ute av kontroll i Fjord kommune",
+      "link": "https://www.nrk.no/mr/brann-ute-av-kontroll-i-fjord-kommune-1.17842934",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 11 Apr 2026 14:13:33 GMT"
+    },
+    {
+      "title": "Iran truer med angrep – amerikansk skip skal ha snudd i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-angrep-_-amerikansk-skip-skal-ha-snudd-i-hormuzstredet-1.17842948",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sat, 11 Apr 2026 13:49:13 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/axios_-amerikanske-skip-har-krysset-hormuzstredet-_-trump-hevder-a-_rydde-opp_-1.17842929",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sat, 11 Apr 2026 13:06:11 GMT"
-    },
-    {
-      "title": "Brann i bolighus – alle skal være kommet seg ut",
-      "link": "https://www.nrk.no/nordland/brann-i-bolighus-_-alle-skal-vaere-kommet-seg-ut-1.17842886",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 11 Apr 2026 12:13:36 GMT"
-    },
-    {
-      "title": "Eks-konge Juan Carlos fikk fransk bokpris",
-      "link": "https://www.nrk.no/nyheter/eks-konge-juan-carlos-fikk-fransk-bokpris-1.17842875",
-      "category": "Spania",
-      "pubDate": "Sat, 11 Apr 2026 12:11:52 GMT"
     }
   ]
 }
