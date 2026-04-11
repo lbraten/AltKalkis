@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-10T23:37:44.302Z",
+  "updatedAt": "2026-04-11T02:30:12.158Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann pågrepet etter å ha skutt knallskudd",
+      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-a-ha-skutt-knallskudd-1.17842571",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 11 Apr 2026 02:16:34 GMT"
+    },
+    {
+      "title": "Leteaksjon i Suldal avsluttet for natten",
+      "link": "https://www.nrk.no/nyheter/leteaksjon-i-suldal-avsluttet-for-natten-1.17842590",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 11 Apr 2026 01:31:08 GMT"
+    },
+    {
+      "title": "En drept i Ukraina før varslet våpenhvile",
+      "link": "https://www.nrk.no/nyheter/en-drept-i-ukraina-for-varslet-vapenhvile-1.17842589",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 11 Apr 2026 01:19:15 GMT"
+    },
+    {
+      "title": "Seks drept i angrep mot politipost i Gaza",
+      "link": "https://www.nrk.no/nyheter/seks-drept-i-angrep-mot-politipost-i-gaza-1.17842586",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sat, 11 Apr 2026 00:29:02 GMT"
+    },
+    {
+      "title": "Artemis II-astronautene har landet i Stillehavet",
+      "link": "https://www.nrk.no/nyheter/artemis-ii-astronautene-har-landet-i-stillehavet-1.17842581",
+      "category": "Romfart og astronomi",
+      "pubDate": "Sat, 11 Apr 2026 00:08:48 GMT"
+    },
     {
       "title": "Djiboutis president erklærer seier i valget",
       "link": "https://www.nrk.no/nyheter/djiboutis-president-erklaerer-seier-i-valget-1.17842580",
       "category": "Djibouti",
       "pubDate": "Fri, 10 Apr 2026 23:20:51 GMT"
-    },
-    {
-      "title": "Elden blir forsvarer for Morten Wold",
-      "link": "https://www.nrk.no/nyheter/elden-blir-forsvarer-for-morten-wold-1.17842579",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Fri, 10 Apr 2026 23:12:49 GMT"
-    },
-    {
-      "title": "Israel vil ikke diskutere våpenhvile med Hizbollah",
-      "link": "https://www.nrk.no/nyheter/israel-vil-ikke-diskutere-vapenhvile-med-hizbollah-1.17842578",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 10 Apr 2026 22:10:17 GMT"
-    },
-    {
-      "title": "Tesla får godkjent selvkjøring i Nederland",
-      "link": "https://www.nrk.no/nyheter/tesla-far-godkjent-selvkjoring-i-nederland-1.17842569",
-      "category": "Tesla",
-      "pubDate": "Fri, 10 Apr 2026 21:06:46 GMT"
-    },
-    {
-      "title": "Det svenske forsvaret følger etter russisk ubåt",
-      "link": "https://www.nrk.no/nyheter/det-svenske-forsvaret-folger-etter-russisk-ubat-1.17842549",
-      "category": "Sverige",
-      "pubDate": "Fri, 10 Apr 2026 20:24:17 GMT"
-    },
-    {
-      "title": "To bilar utbrende etter brann i Kopervik",
-      "link": "https://www.nrk.no/rogaland/to-bilar-utbrende-etter-brann-i-kopervik-1.17842537",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Fri, 10 Apr 2026 20:21:57 GMT"
     }
   ]
 }
