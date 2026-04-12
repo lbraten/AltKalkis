@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-12T14:09:02.584Z",
+  "updatedAt": "2026-04-12T15:05:33.128Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Irans revolusjonsgarde sier den har «full kontroll» over Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/irans-revolusjonsgarde-sier-den-har-_full-kontroll_-over-hormuzstredet-1.17843798",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Apr 2026 14:40:32 GMT"
+    },
+    {
+      "title": "Holmlia: Brann i minst én leilighet",
+      "link": "https://www.nrk.no/stor-oslo/holmlia_-brann-i-minst-en-leilighet-1.17843783",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 12 Apr 2026 14:14:15 GMT"
+    },
+    {
+      "title": "Reuters: Trump hevder Nato vil «hjelpe til» med Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/reuters_-trump-hevder-nato-vil-_hjelpe-til_-med-hormuzstredet-1.17843726",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Apr 2026 14:08:59 GMT"
+    },
     {
       "title": "Båtfører omkom etter båtulykke",
       "link": "https://www.nrk.no/nordland/batforer-omkom-etter-batulykke-1.17843725",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/norsk-industri-og-parat-enige-i-frontfagsmeklingen-1.17843614",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Sun, 12 Apr 2026 12:29:09 GMT"
-    },
-    {
-      "title": "Enighet i frontfagsoppgjøret",
-      "link": "https://www.nrk.no/nyheter/enighet-i-frontfagsoppgjoret-1.17843516",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 12 Apr 2026 11:03:54 GMT"
-    },
-    {
-      "title": "Klatremiljøet preget etter dødsfall",
-      "link": "https://www.nrk.no/sorlandet/klatremiljoet-preget-etter-dodsfall-1.17843572",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 12 Apr 2026 10:47:49 GMT"
-    },
-    {
-      "title": "Tall tyder på høy valgdeltagelse i Ungarn",
-      "link": "https://www.nrk.no/nyheter/tall-tyder-pa-hoy-valgdeltagelse-i-ungarn-1.17843467",
-      "category": "Ungarn",
-      "pubDate": "Sun, 12 Apr 2026 09:10:32 GMT"
     }
   ]
 }
