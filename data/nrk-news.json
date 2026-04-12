@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-12T15:05:33.128Z",
+  "updatedAt": "2026-04-12T16:00:06.472Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fjellovergangane er opne att",
+      "link": "https://www.nrk.no/vestland/fjellovergangane-er-opne-att-1.17843850",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 12 Apr 2026 14:55:52 GMT"
+    },
     {
       "title": "Irans revolusjonsgarde sier den har «full kontroll» over Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/irans-revolusjonsgarde-sier-den-har-_full-kontroll_-over-hormuzstredet-1.17843798",
@@ -9,8 +15,8 @@
       "pubDate": "Sun, 12 Apr 2026 14:40:32 GMT"
     },
     {
-      "title": "Holmlia: Brann i minst én leilighet",
-      "link": "https://www.nrk.no/stor-oslo/holmlia_-brann-i-minst-en-leilighet-1.17843783",
+      "title": "Holmlia: Brann i boligblokk slukket",
+      "link": "https://www.nrk.no/stor-oslo/holmlia_-brann-i-boligblokk-slukket-1.17843783",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 12 Apr 2026 14:14:15 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-beordrer-full-blokade-av-hormuzstredet--1.17843723",
       "category": "USA",
       "pubDate": "Sun, 12 Apr 2026 12:57:54 GMT"
-    },
-    {
-      "title": "Norsk Industri og Parat enige i frontfagsmeklingen",
-      "link": "https://www.nrk.no/nyheter/norsk-industri-og-parat-enige-i-frontfagsmeklingen-1.17843614",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 12 Apr 2026 12:29:09 GMT"
     }
   ]
 }
