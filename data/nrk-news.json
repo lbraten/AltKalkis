@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-12T16:00:06.472Z",
+  "updatedAt": "2026-04-12T16:53:25.057Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Vil betrakte alle militærfartøy i Hormuzstredet som våpenhvilebrudd",
+      "link": "https://www.nrk.no/nyheter/iran_-vil-betrakte-alle-militaerfartoy-i-hormuzstredet-som-vapenhvilebrudd-1.17843918",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Apr 2026 16:32:12 GMT"
+    },
+    {
+      "title": "Saudi-Arabia kaller inn Iraks ambassadør etter dronetrusler",
+      "link": "https://www.nrk.no/nyheter/saudi-arabia-kaller-inn-iraks-ambassador-etter-dronetrusler-1.17843903",
+      "category": "Saudi-Arabia",
+      "pubDate": "Sun, 12 Apr 2026 16:04:40 GMT"
+    },
     {
       "title": "Fjellovergangane er opne att",
       "link": "https://www.nrk.no/vestland/fjellovergangane-er-opne-att-1.17843850",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/reuters_-trump-hevder-nato-vil-_hjelpe-til_-med-hormuzstredet-1.17843726",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sun, 12 Apr 2026 14:08:59 GMT"
-    },
-    {
-      "title": "Båtfører omkom etter båtulykke",
-      "link": "https://www.nrk.no/nordland/batforer-omkom-etter-batulykke-1.17843725",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sun, 12 Apr 2026 13:26:39 GMT"
-    },
-    {
-      "title": "Trump beordrer full blokade av Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/trump-beordrer-full-blokade-av-hormuzstredet--1.17843723",
-      "category": "USA",
-      "pubDate": "Sun, 12 Apr 2026 12:57:54 GMT"
     }
   ]
 }
