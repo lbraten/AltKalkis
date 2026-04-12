@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-12T17:37:17.173Z",
+  "updatedAt": "2026-04-12T18:54:14.241Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "30 prosent av stemmene talt: Tisza ligger an til klar seier i Ungarn",
+      "link": "https://www.nrk.no/nyheter/30-prosent-av-stemmene-talt_-tisza-ligger-an-til-klar-seier-i-ungarn-1.17844009",
+      "category": "Ungarn",
+      "pubDate": "Sun, 12 Apr 2026 18:30:15 GMT"
+    },
+    {
+      "title": "Iran til Trump: – Hvis du slåss, vil vi slåss",
+      "link": "https://www.nrk.no/nyheter/iran-til-trump_-_-hvis-du-slass_-vil-vi-slass-1.17844008",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Apr 2026 18:04:35 GMT"
+    },
+    {
+      "title": "Orbán ligger an til å tape valget i Ungarn, ifølge måling",
+      "link": "https://www.nrk.no/nyheter/orban-ligger-an-til-a-tape-valget-i-ungarn_-ifolge-maling-1.17843984",
+      "category": "Ungarn",
+      "pubDate": "Sun, 12 Apr 2026 17:42:51 GMT"
+    },
     {
       "title": "Høyre-topper inviterer Senterpartiet til samarbeid",
       "link": "https://www.nrk.no/nyheter/hoyre-topper-inviterer-senterpartiet-til-samarbeid-1.17843839",
@@ -9,34 +27,16 @@
       "pubDate": "Sun, 12 Apr 2026 17:30:18 GMT"
     },
     {
+      "title": "Brann i hytte i Molde - to hus evakuert",
+      "link": "https://www.nrk.no/mr/brann-i-hytte-i-molde---to-hus-evakuert-1.17843784",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 12 Apr 2026 16:49:05 GMT"
+    },
+    {
       "title": "Iran: Vil betrakte alle militærfartøy i Hormuzstredet som våpenhvilebrudd",
       "link": "https://www.nrk.no/nyheter/iran_-vil-betrakte-alle-militaerfartoy-i-hormuzstredet-som-vapenhvilebrudd-1.17843918",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sun, 12 Apr 2026 16:32:12 GMT"
-    },
-    {
-      "title": "Saudi-Arabia kaller inn Iraks ambassadør etter dronetrusler",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia-kaller-inn-iraks-ambassador-etter-dronetrusler-1.17843903",
-      "category": "Saudi-Arabia",
-      "pubDate": "Sun, 12 Apr 2026 16:04:40 GMT"
-    },
-    {
-      "title": "Fjellovergangane er opne att",
-      "link": "https://www.nrk.no/vestland/fjellovergangane-er-opne-att-1.17843850",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 12 Apr 2026 14:55:52 GMT"
-    },
-    {
-      "title": "Irans revolusjonsgarde sier den har «full kontroll» over Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/irans-revolusjonsgarde-sier-den-har-_full-kontroll_-over-hormuzstredet-1.17843798",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 12 Apr 2026 14:40:32 GMT"
-    },
-    {
-      "title": "Holmlia: Brann i boligblokk slukket",
-      "link": "https://www.nrk.no/stor-oslo/holmlia_-brann-i-boligblokk-slukket-1.17843783",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 12 Apr 2026 14:14:15 GMT"
     }
   ]
 }
