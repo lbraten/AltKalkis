@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-12T21:37:40.496Z",
+  "updatedAt": "2026-04-12T22:37:11.966Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisen stiger kraftig etter USAs blokade-varsel av Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-stiger-kraftig-etter-usas-blokade-varsel-av-hormuzstredet-1.17844098",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 12 Apr 2026 22:24:59 GMT"
+    },
+    {
+      "title": "Iran anklager USA for å ødelegge fredsavtale",
+      "link": "https://www.nrk.no/nyheter/iran-anklager-usa-for-a-odelegge-fredsavtale-1.17844091",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Apr 2026 22:06:51 GMT"
+    },
     {
       "title": "USA starter blokkade av iranske havner mandag ettermiddag",
       "link": "https://www.nrk.no/nyheter/usa-starter-blokkade-av-iranske-havner-mandag-ettermiddag-1.17844090",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/buss-og-personbil-i-kollisjon-pa-e6-1.17844083",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 12 Apr 2026 20:40:48 GMT"
-    },
-    {
-      "title": "Søreide: Putin satset høyt og tapte",
-      "link": "https://www.nrk.no/nyheter/soreide_-putin-satset-hoyt-og-tapte-1.17844080",
-      "category": "Ungarn",
-      "pubDate": "Sun, 12 Apr 2026 20:23:20 GMT"
-    },
-    {
-      "title": "Støre: – Jeg gratulerer Peter Magyar og Tisza med seieren",
-      "link": "https://www.nrk.no/nyheter/store_-_-jeg-gratulerer-peter-magyar-og-tisza-med-seieren-1.17844060",
-      "category": "Ungarn",
-      "pubDate": "Sun, 12 Apr 2026 19:39:12 GMT"
     }
   ]
 }
