@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-12T16:53:25.057Z",
+  "updatedAt": "2026-04-12T17:37:17.173Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Høyre-topper inviterer Senterpartiet til samarbeid",
+      "link": "https://www.nrk.no/nyheter/hoyre-topper-inviterer-senterpartiet-til-samarbeid-1.17843839",
+      "category": "Partiet Høyre",
+      "pubDate": "Sun, 12 Apr 2026 17:30:18 GMT"
+    },
     {
       "title": "Iran: Vil betrakte alle militærfartøy i Hormuzstredet som våpenhvilebrudd",
       "link": "https://www.nrk.no/nyheter/iran_-vil-betrakte-alle-militaerfartoy-i-hormuzstredet-som-vapenhvilebrudd-1.17843918",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/holmlia_-brann-i-boligblokk-slukket-1.17843783",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 12 Apr 2026 14:14:15 GMT"
-    },
-    {
-      "title": "Reuters: Trump hevder Nato vil «hjelpe til» med Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/reuters_-trump-hevder-nato-vil-_hjelpe-til_-med-hormuzstredet-1.17843726",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 12 Apr 2026 14:08:59 GMT"
     }
   ]
 }
