@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-04-12T18:54:14.241Z",
+  "updatedAt": "2026-04-12T19:40:45.554Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "30 prosent av stemmene talt: Tisza ligger an til klar seier i Ungarn",
-      "link": "https://www.nrk.no/nyheter/30-prosent-av-stemmene-talt_-tisza-ligger-an-til-klar-seier-i-ungarn-1.17844009",
+      "title": "Støre: – Jeg gratulerer Peter Magyar og Tisza med seieren",
+      "link": "https://www.nrk.no/nyheter/store_-_-jeg-gratulerer-peter-magyar-og-tisza-med-seieren-1.17844060",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 12 Apr 2026 19:39:12 GMT"
+    },
+    {
+      "title": "Von der Leyen: - Ungarn har valgt Europa",
+      "link": "https://www.nrk.no/nyheter/von-der-leyen_---ungarn-har-valgt-europa-1.17844046",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 12 Apr 2026 19:37:59 GMT"
+    },
+    {
+      "title": "Orbán erkjenner nederlag: – Resultatet er smertefullt",
+      "link": "https://www.nrk.no/nyheter/orban-erkjenner-nederlag_-_-resultatet-er-smertefullt-1.17844029",
+      "category": "Ungarn",
+      "pubDate": "Sun, 12 Apr 2026 19:14:45 GMT"
+    },
+    {
+      "title": "Nær halvparten av stemmene talt: Tisza ligger an til klar seier i Ungarn",
+      "link": "https://www.nrk.no/nyheter/naer-halvparten-av-stemmene-talt_-tisza-ligger-an-til-klar-seier-i-ungarn-1.17844009",
       "category": "Ungarn",
       "pubDate": "Sun, 12 Apr 2026 18:30:15 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/orban-ligger-an-til-a-tape-valget-i-ungarn_-ifolge-maling-1.17843984",
       "category": "Ungarn",
       "pubDate": "Sun, 12 Apr 2026 17:42:51 GMT"
-    },
-    {
-      "title": "Høyre-topper inviterer Senterpartiet til samarbeid",
-      "link": "https://www.nrk.no/nyheter/hoyre-topper-inviterer-senterpartiet-til-samarbeid-1.17843839",
-      "category": "Partiet Høyre",
-      "pubDate": "Sun, 12 Apr 2026 17:30:18 GMT"
-    },
-    {
-      "title": "Brann i hytte i Molde - to hus evakuert",
-      "link": "https://www.nrk.no/mr/brann-i-hytte-i-molde---to-hus-evakuert-1.17843784",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 12 Apr 2026 16:49:05 GMT"
-    },
-    {
-      "title": "Iran: Vil betrakte alle militærfartøy i Hormuzstredet som våpenhvilebrudd",
-      "link": "https://www.nrk.no/nyheter/iran_-vil-betrakte-alle-militaerfartoy-i-hormuzstredet-som-vapenhvilebrudd-1.17843918",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 12 Apr 2026 16:32:12 GMT"
     }
   ]
 }
