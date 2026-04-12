@@ -1,12 +1,18 @@
 {
-  "updatedAt": "2026-04-12T11:57:21.851Z",
+  "updatedAt": "2026-04-12T13:19:31.970Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Parat fortsatt i mekling",
-      "link": "https://www.nrk.no/nyheter/parat-fortsatt-i-mekling-1.17843590",
+      "title": "Trump beordrer full blokade av Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/trump-beordrer-full-blokade-av-hormuzstredet--1.17843723",
+      "category": "USA",
+      "pubDate": "Sun, 12 Apr 2026 12:57:54 GMT"
+    },
+    {
+      "title": "Norsk Industri og Parat enige i frontfagsmeklingen",
+      "link": "https://www.nrk.no/nyheter/norsk-industri-og-parat-enige-i-frontfagsmeklingen-1.17843614",
       "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 12 Apr 2026 11:22:00 GMT"
+      "pubDate": "Sun, 12 Apr 2026 12:29:09 GMT"
     },
     {
       "title": "Enighet i frontfagsoppgjøret",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/kvinne-funnet-dod-i-heis-i-oslo_-politiet-jobber-ut-fra-flere-hypoteser-1.17843464",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 12 Apr 2026 08:49:05 GMT"
-    },
-    {
-      "title": "Bruker drone i etterforskningen av dødsfall i Kristiansand",
-      "link": "https://www.nrk.no/sorlandet/bruker-drone-i-etterforskningen-av-dodsfall-i-kristiansand-1.17843456",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 12 Apr 2026 08:39:33 GMT"
     }
   ]
 }
