@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-12T02:49:13.113Z",
+  "updatedAt": "2026-04-12T05:26:03.742Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Angrep mot Ukraina tross våpenhvile",
+      "link": "https://www.nrk.no/nyheter/angrep-mot-ukraina-tross-vapenhvile-1.17843332",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 12 Apr 2026 05:23:55 GMT"
+    },
+    {
+      "title": "Skjebnevalg i Ungarn i gang",
+      "link": "https://www.nrk.no/nyheter/skjebnevalg-i-ungarn-i-gang-1.17843324",
+      "category": "Ungarn",
+      "pubDate": "Sun, 12 Apr 2026 04:21:37 GMT"
+    },
+    {
+      "title": "Pakistan ber USA og Iran fortsette våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/pakistan-ber-usa-og-iran-fortsette-vapenhvilen-1.17843322",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Apr 2026 04:01:00 GMT"
+    },
+    {
+      "title": "Snø skaper trafikkaos på Sørlandet",
+      "link": "https://www.nrk.no/nyheter/sno-skaper-trafikkaos-pa-sorlandet-1.17843318",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 12 Apr 2026 03:28:00 GMT"
+    },
+    {
+      "title": "Iran: Ingen hast med nye forhandlinger",
+      "link": "https://www.nrk.no/nyheter/iran_-ingen-hast-med-nye-forhandlinger-1.17843310",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 12 Apr 2026 03:24:02 GMT"
+    },
     {
       "title": "Iran: – Samtalene over på grunn at urimelige krav fra USA",
       "link": "https://www.nrk.no/nyheter/iran_-_-samtalene-over-pa-grunn-at-urimelige-krav-fra-usa-1.17843315",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 12 Apr 2026 02:16:22 GMT"
-    },
-    {
-      "title": "Vance: – USA reiser hjem uten Iran-avtale",
-      "link": "https://www.nrk.no/nyheter/vance_-_-usa-reiser-hjem-uten-iran-avtale-1.17843314",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 12 Apr 2026 01:38:26 GMT"
-    },
-    {
-      "title": "Minst 30 døde i trengsel på Haiti",
-      "link": "https://www.nrk.no/nyheter/minst-30-dode-i-trengsel-pa-haiti-1.17843313",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 12 Apr 2026 01:25:00 GMT"
-    },
-    {
-      "title": "Person knivstukket i Oslo",
-      "link": "https://www.nrk.no/nyheter/person-knivstukket-i-oslo-1.17843309",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 12 Apr 2026 00:56:09 GMT"
-    },
-    {
-      "title": "Kraftig terrengbrann i Øygarden slukket",
-      "link": "https://www.nrk.no/nyheter/kraftig-terrengbrann-i-oygarden-slukket-1.17843308",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 12 Apr 2026 00:50:00 GMT"
-    },
-    {
-      "title": "Mannen funnet død i Kristiansand – framstår som klatreulykke",
-      "link": "https://www.nrk.no/nyheter/mannen-funnet-dod-i-kristiansand-_-framstar-som-klatreulykke-1.17843307",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 12 Apr 2026 00:43:35 GMT"
     }
   ]
 }
