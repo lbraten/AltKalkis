@@ -1,18 +1,24 @@
 {
-  "updatedAt": "2026-04-12T19:40:45.554Z",
+  "updatedAt": "2026-04-12T20:39:46.968Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Søreide: Putin satset høyt og tapte",
+      "link": "https://www.nrk.no/nyheter/soreide_-putin-satset-hoyt-og-tapte-1.17844080",
+      "category": "Ungarn",
+      "pubDate": "Sun, 12 Apr 2026 20:23:20 GMT"
+    },
+    {
       "title": "Støre: – Jeg gratulerer Peter Magyar og Tisza med seieren",
       "link": "https://www.nrk.no/nyheter/store_-_-jeg-gratulerer-peter-magyar-og-tisza-med-seieren-1.17844060",
-      "category": "NRK Nyheter",
+      "category": "Ungarn",
       "pubDate": "Sun, 12 Apr 2026 19:39:12 GMT"
     },
     {
-      "title": "Von der Leyen: - Ungarn har valgt Europa",
-      "link": "https://www.nrk.no/nyheter/von-der-leyen_---ungarn-har-valgt-europa-1.17844046",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 12 Apr 2026 19:37:59 GMT"
+      "title": "Bolig ubeboelig etter brann",
+      "link": "https://www.nrk.no/trondelag/bolig-ubeboelig-etter-brann--1.17844013",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 12 Apr 2026 19:32:19 GMT"
     },
     {
       "title": "Orbán erkjenner nederlag: – Resultatet er smertefullt",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-til-trump_-_-hvis-du-slass_-vil-vi-slass-1.17844008",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sun, 12 Apr 2026 18:04:35 GMT"
-    },
-    {
-      "title": "Orbán ligger an til å tape valget i Ungarn, ifølge måling",
-      "link": "https://www.nrk.no/nyheter/orban-ligger-an-til-a-tape-valget-i-ungarn_-ifolge-maling-1.17843984",
-      "category": "Ungarn",
-      "pubDate": "Sun, 12 Apr 2026 17:42:51 GMT"
     }
   ]
 }
