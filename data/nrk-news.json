@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-12T10:07:39.150Z",
+  "updatedAt": "2026-04-12T11:06:50.992Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Enighet i frontfagsoppgjøret",
+      "link": "https://www.nrk.no/nyheter/enighet-i-frontfagsoppgjoret-1.17843516",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 12 Apr 2026 11:03:54 GMT"
+    },
+    {
+      "title": "Klatremiljøet preget etter dødsfall",
+      "link": "https://www.nrk.no/sorlandet/klatremiljoet-preget-etter-dodsfall-1.17843572",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 12 Apr 2026 10:47:49 GMT"
+    },
     {
       "title": "Tall tyder på høy valgdeltagelse i Ungarn",
       "link": "https://www.nrk.no/nyheter/tall-tyder-pa-hoy-valgdeltagelse-i-ungarn-1.17843467",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/svensk-kystvakt-har-bordet-skip-1.17843437",
       "category": "Sverige",
       "pubDate": "Sun, 12 Apr 2026 08:12:22 GMT"
-    },
-    {
-      "title": "Skytingen ved Oslo-skole: Siktet 16-åring pågrepet i Sverige",
-      "link": "https://www.nrk.no/stor-oslo/skytingen-ved-oslo-skole_-siktet-16-aring-pagrepet-i-sverige-1.17843377",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 12 Apr 2026 08:05:00 GMT"
-    },
-    {
-      "title": "Nekter dømt politimann å fortsette i jobben",
-      "link": "https://www.nrk.no/tromsogfinnmark/nekter-domt-politimann-a-fortsette-i-jobben-1.17843436",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 12 Apr 2026 07:34:29 GMT"
     }
   ]
 }
