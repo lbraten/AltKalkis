@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-12T11:06:50.992Z",
+  "updatedAt": "2026-04-12T11:57:21.851Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Parat fortsatt i mekling",
+      "link": "https://www.nrk.no/nyheter/parat-fortsatt-i-mekling-1.17843590",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 12 Apr 2026 11:22:00 GMT"
+    },
     {
       "title": "Enighet i frontfagsoppgjøret",
       "link": "https://www.nrk.no/nyheter/enighet-i-frontfagsoppgjoret-1.17843516",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/bruker-drone-i-etterforskningen-av-dodsfall-i-kristiansand-1.17843456",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 12 Apr 2026 08:39:33 GMT"
-    },
-    {
-      "title": "Svensk kystvakt har bordet skip",
-      "link": "https://www.nrk.no/nyheter/svensk-kystvakt-har-bordet-skip-1.17843437",
-      "category": "Sverige",
-      "pubDate": "Sun, 12 Apr 2026 08:12:22 GMT"
     }
   ]
 }
