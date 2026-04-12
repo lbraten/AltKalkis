@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-12T20:39:46.968Z",
+  "updatedAt": "2026-04-12T21:37:40.496Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA starter blokkade av iranske havner mandag ettermiddag",
+      "link": "https://www.nrk.no/nyheter/usa-starter-blokkade-av-iranske-havner-mandag-ettermiddag-1.17844090",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Apr 2026 21:00:42 GMT"
+    },
+    {
+      "title": "Zelenskyj gratulerer Magyar med valgseieren",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-gratulerer-magyar-med-valgseieren-1.17844087",
+      "category": "Ungarn",
+      "pubDate": "Sun, 12 Apr 2026 20:55:04 GMT"
+    },
+    {
+      "title": "Magyar erklærer valgseier i Ungarn",
+      "link": "https://www.nrk.no/nyheter/magyar-erklaerer-valgseier-i-ungarn-1.17844086",
+      "category": "Ungarn",
+      "pubDate": "Sun, 12 Apr 2026 20:45:14 GMT"
+    },
+    {
+      "title": "Buss og personbil i kollisjon på E6",
+      "link": "https://www.nrk.no/nyheter/buss-og-personbil-i-kollisjon-pa-e6-1.17844083",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 12 Apr 2026 20:40:48 GMT"
+    },
     {
       "title": "Søreide: Putin satset høyt og tapte",
       "link": "https://www.nrk.no/nyheter/soreide_-putin-satset-hoyt-og-tapte-1.17844080",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store_-_-jeg-gratulerer-peter-magyar-og-tisza-med-seieren-1.17844060",
       "category": "Ungarn",
       "pubDate": "Sun, 12 Apr 2026 19:39:12 GMT"
-    },
-    {
-      "title": "Bolig ubeboelig etter brann",
-      "link": "https://www.nrk.no/trondelag/bolig-ubeboelig-etter-brann--1.17844013",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 12 Apr 2026 19:32:19 GMT"
-    },
-    {
-      "title": "Orbán erkjenner nederlag: – Resultatet er smertefullt",
-      "link": "https://www.nrk.no/nyheter/orban-erkjenner-nederlag_-_-resultatet-er-smertefullt-1.17844029",
-      "category": "Ungarn",
-      "pubDate": "Sun, 12 Apr 2026 19:14:45 GMT"
-    },
-    {
-      "title": "Nær halvparten av stemmene talt: Tisza ligger an til klar seier i Ungarn",
-      "link": "https://www.nrk.no/nyheter/naer-halvparten-av-stemmene-talt_-tisza-ligger-an-til-klar-seier-i-ungarn-1.17844009",
-      "category": "Ungarn",
-      "pubDate": "Sun, 12 Apr 2026 18:30:15 GMT"
-    },
-    {
-      "title": "Iran til Trump: – Hvis du slåss, vil vi slåss",
-      "link": "https://www.nrk.no/nyheter/iran-til-trump_-_-hvis-du-slass_-vil-vi-slass-1.17844008",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 12 Apr 2026 18:04:35 GMT"
     }
   ]
 }
