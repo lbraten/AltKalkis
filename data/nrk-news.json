@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-12T06:53:34.668Z",
+  "updatedAt": "2026-04-12T08:04:02.063Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nekter dømt politimann å fortsette i jobben",
+      "link": "https://www.nrk.no/tromsogfinnmark/nekter-domt-politimann-a-fortsette-i-jobben-1.17843436",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 12 Apr 2026 07:34:29 GMT"
+    },
+    {
+      "title": "Ukraina beskylder Russland for 2299 brudd på våpenhvilen.",
+      "link": "https://www.nrk.no/nyheter/ukraina-beskylder-russland-for-2299-brudd-pa-vapenhvilen.-1.17843370",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 12 Apr 2026 07:19:53 GMT"
+    },
     {
       "title": "Person funnen blodig og medvitslaus i Bergen sentrum",
       "link": "https://www.nrk.no/vestland/person-funnen-blodig-og-medvitslaus-i-bergen-sentrum-1.17843397",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/flere-pagripelser-etter-vold-mot-vektere-1.17843339",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 12 Apr 2026 05:37:27 GMT"
-    },
-    {
-      "title": "Angrep mot Ukraina tross våpenhvile",
-      "link": "https://www.nrk.no/nyheter/angrep-mot-ukraina-tross-vapenhvile-1.17843332",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 12 Apr 2026 05:23:55 GMT"
-    },
-    {
-      "title": "Skjebnevalg i Ungarn i gang",
-      "link": "https://www.nrk.no/nyheter/skjebnevalg-i-ungarn-i-gang-1.17843324",
-      "category": "Ungarn",
-      "pubDate": "Sun, 12 Apr 2026 04:21:37 GMT"
     }
   ]
 }
