@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-12T05:26:03.742Z",
+  "updatedAt": "2026-04-12T06:53:34.668Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person funnen blodig og medvitslaus i Bergen sentrum",
+      "link": "https://www.nrk.no/vestland/person-funnen-blodig-og-medvitslaus-i-bergen-sentrum-1.17843397",
+      "category": "Krim og hendingar i Vestland",
+      "pubDate": "Sun, 12 Apr 2026 06:26:22 GMT"
+    },
+    {
+      "title": "Dronning Marys far er død",
+      "link": "https://www.nrk.no/nyheter/dronning-marys-far-er-dod-1.17843337",
+      "category": "Den danske kongefamilien",
+      "pubDate": "Sun, 12 Apr 2026 06:12:08 GMT"
+    },
+    {
+      "title": "Masseslagsmål i Pollen i Arendal",
+      "link": "https://www.nrk.no/sorlandet/masseslagsmal-i-pollen-i-arendal-1.17843340",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 12 Apr 2026 05:41:22 GMT"
+    },
+    {
+      "title": "Flere pågripelser etter vold mot vektere",
+      "link": "https://www.nrk.no/sorlandet/flere-pagripelser-etter-vold-mot-vektere-1.17843339",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 12 Apr 2026 05:37:27 GMT"
+    },
     {
       "title": "Angrep mot Ukraina tross våpenhvile",
       "link": "https://www.nrk.no/nyheter/angrep-mot-ukraina-tross-vapenhvile-1.17843332",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skjebnevalg-i-ungarn-i-gang-1.17843324",
       "category": "Ungarn",
       "pubDate": "Sun, 12 Apr 2026 04:21:37 GMT"
-    },
-    {
-      "title": "Pakistan ber USA og Iran fortsette våpenhvilen",
-      "link": "https://www.nrk.no/nyheter/pakistan-ber-usa-og-iran-fortsette-vapenhvilen-1.17843322",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 12 Apr 2026 04:01:00 GMT"
-    },
-    {
-      "title": "Snø skaper trafikkaos på Sørlandet",
-      "link": "https://www.nrk.no/nyheter/sno-skaper-trafikkaos-pa-sorlandet-1.17843318",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 12 Apr 2026 03:28:00 GMT"
-    },
-    {
-      "title": "Iran: Ingen hast med nye forhandlinger",
-      "link": "https://www.nrk.no/nyheter/iran_-ingen-hast-med-nye-forhandlinger-1.17843310",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 12 Apr 2026 03:24:02 GMT"
-    },
-    {
-      "title": "Iran: – Samtalene over på grunn at urimelige krav fra USA",
-      "link": "https://www.nrk.no/nyheter/iran_-_-samtalene-over-pa-grunn-at-urimelige-krav-fra-usa-1.17843315",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 12 Apr 2026 02:16:22 GMT"
     }
   ]
 }
