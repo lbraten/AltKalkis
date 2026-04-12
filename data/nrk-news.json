@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-12T08:04:02.063Z",
+  "updatedAt": "2026-04-12T09:12:49.283Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tall tyder på høy valgdeltagelse i Ungarn",
+      "link": "https://www.nrk.no/nyheter/tall-tyder-pa-hoy-valgdeltagelse-i-ungarn-1.17843467",
+      "category": "Ungarn",
+      "pubDate": "Sun, 12 Apr 2026 09:10:32 GMT"
+    },
+    {
+      "title": "Kvinne funnet død i heis i Oslo: Politiet jobber ut fra flere hypoteser",
+      "link": "https://www.nrk.no/stor-oslo/kvinne-funnet-dod-i-heis-i-oslo_-politiet-jobber-ut-fra-flere-hypoteser-1.17843464",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 12 Apr 2026 08:49:05 GMT"
+    },
+    {
+      "title": "Bruker drone i etterforskningen av dødsfall i Kristiansand",
+      "link": "https://www.nrk.no/sorlandet/bruker-drone-i-etterforskningen-av-dodsfall-i-kristiansand-1.17843456",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 12 Apr 2026 08:39:33 GMT"
+    },
+    {
+      "title": "Svensk kystvakt har bordet skip",
+      "link": "https://www.nrk.no/nyheter/svensk-kystvakt-har-bordet-skip-1.17843437",
+      "category": "Sverige",
+      "pubDate": "Sun, 12 Apr 2026 08:12:22 GMT"
+    },
+    {
+      "title": "Skytingen ved Oslo-skole: Siktet 16-åring pågrepet i Sverige",
+      "link": "https://www.nrk.no/stor-oslo/skytingen-ved-oslo-skole_-siktet-16-aring-pagrepet-i-sverige-1.17843377",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 12 Apr 2026 08:05:00 GMT"
+    },
     {
       "title": "Nekter dømt politimann å fortsette i jobben",
       "link": "https://www.nrk.no/tromsogfinnmark/nekter-domt-politimann-a-fortsette-i-jobben-1.17843436",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sun, 12 Apr 2026 07:34:29 GMT"
-    },
-    {
-      "title": "Ukraina beskylder Russland for 2299 brudd på våpenhvilen.",
-      "link": "https://www.nrk.no/nyheter/ukraina-beskylder-russland-for-2299-brudd-pa-vapenhvilen.-1.17843370",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 12 Apr 2026 07:19:53 GMT"
-    },
-    {
-      "title": "Person funnen blodig og medvitslaus i Bergen sentrum",
-      "link": "https://www.nrk.no/vestland/person-funnen-blodig-og-medvitslaus-i-bergen-sentrum-1.17843397",
-      "category": "Krim og hendingar i Vestland",
-      "pubDate": "Sun, 12 Apr 2026 06:26:22 GMT"
-    },
-    {
-      "title": "Dronning Marys far er død",
-      "link": "https://www.nrk.no/nyheter/dronning-marys-far-er-dod-1.17843337",
-      "category": "Den danske kongefamilien",
-      "pubDate": "Sun, 12 Apr 2026 06:12:08 GMT"
-    },
-    {
-      "title": "Masseslagsmål i Pollen i Arendal",
-      "link": "https://www.nrk.no/sorlandet/masseslagsmal-i-pollen-i-arendal-1.17843340",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 12 Apr 2026 05:41:22 GMT"
-    },
-    {
-      "title": "Flere pågripelser etter vold mot vektere",
-      "link": "https://www.nrk.no/sorlandet/flere-pagripelser-etter-vold-mot-vektere-1.17843339",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 12 Apr 2026 05:37:27 GMT"
     }
   ]
 }
