@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-12T13:19:31.970Z",
+  "updatedAt": "2026-04-12T14:09:02.584Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Båtfører omkom etter båtulykke",
+      "link": "https://www.nrk.no/nordland/batforer-omkom-etter-batulykke-1.17843725",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sun, 12 Apr 2026 13:26:39 GMT"
+    },
     {
       "title": "Trump beordrer full blokade av Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/trump-beordrer-full-blokade-av-hormuzstredet--1.17843723",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tall-tyder-pa-hoy-valgdeltagelse-i-ungarn-1.17843467",
       "category": "Ungarn",
       "pubDate": "Sun, 12 Apr 2026 09:10:32 GMT"
-    },
-    {
-      "title": "Kvinne funnet død i heis i Oslo: Politiet jobber ut fra flere hypoteser",
-      "link": "https://www.nrk.no/stor-oslo/kvinne-funnet-dod-i-heis-i-oslo_-politiet-jobber-ut-fra-flere-hypoteser-1.17843464",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 12 Apr 2026 08:49:05 GMT"
     }
   ]
 }
