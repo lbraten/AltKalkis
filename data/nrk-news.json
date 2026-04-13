@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-13T13:44:15.866Z",
+  "updatedAt": "2026-04-13T15:16:41.840Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Olje-oppgang på Oslo Børs",
+      "link": "https://www.nrk.no/nyheter/olje-oppgang-pa-oslo-bors-1.17845276",
+      "category": "Oslo Børs",
+      "pubDate": "Mon, 13 Apr 2026 14:45:48 GMT"
+    },
+    {
+      "title": "Trump: Truer med å angripe iranske skip som nærmer seg blokade",
+      "link": "https://www.nrk.no/nyheter/trump_-truer-med-a-angripe-iranske-skip-som-naermer-seg-blokade-1.17845265",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 13 Apr 2026 14:39:23 GMT"
+    },
+    {
+      "title": "FNs sjøfartssjef: Ingen land har rett til å stenge Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/fns-sjofartssjef_-ingen-land-har-rett-til-a-stenge-hormuzstredet-1.17845116",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 13 Apr 2026 14:31:40 GMT"
+    },
+    {
+      "title": "Betydelig snøskredfare i Sør-Norge tirsdag",
+      "link": "https://www.nrk.no/innlandet/betydelig-snoskredfare-i-sor-norge-tirsdag-1.17845183",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Mon, 13 Apr 2026 13:52:04 GMT"
+    },
+    {
+      "title": "Over 1000 underskrifter fra filmbransjen mot oppkjøp av Warner Bros",
+      "link": "https://www.nrk.no/kultur/over-1000-underskrifter-fra-filmbransjen-mot-oppkjop-av-warner-bros-1.17845152",
+      "category": "Film og serier",
+      "pubDate": "Mon, 13 Apr 2026 13:44:08 GMT"
+    },
     {
       "title": "Kronprinsen om Mette-Marits sykdom: – En del av hverdagen vår",
       "link": "https://www.nrk.no/nyheter/kronprinsen-om-mette-marits-sykdom_-_-en-del-av-hverdagen-var-1.17845052",
       "category": "Kongefamilien",
       "pubDate": "Mon, 13 Apr 2026 12:57:59 GMT"
-    },
-    {
-      "title": "Erkjenner de faktiske forhold etter dobbeltdrapet på Karmøy",
-      "link": "https://www.nrk.no/rogaland/erkjenner-de-faktiske-forhold-etter-dobbeltdrapet-pa-karmoy-1.17844849",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 13 Apr 2026 12:34:58 GMT"
-    },
-    {
-      "title": "Skal obdusere mann som døde i klatreulykke",
-      "link": "https://www.nrk.no/sorlandet/skal-obdusere-mann-som-dode-i-klatreulykke-1.17844347",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 13 Apr 2026 12:22:16 GMT"
-    },
-    {
-      "title": "Kreml: Vil ikke gratulere Magyar med seieren i Ungarn",
-      "link": "https://www.nrk.no/kultur/kreml_-vil-ikke-gratulere-magyar-med-seieren-i-ungarn-1.17844985",
-      "category": "Ungarn",
-      "pubDate": "Mon, 13 Apr 2026 12:12:43 GMT"
-    },
-    {
-      "title": "2 millioner til fire kortfilmer",
-      "link": "https://www.nrk.no/nyheter/2-millioner-til-fire-kortfilmer-1.17844960",
-      "category": "Film og serier",
-      "pubDate": "Mon, 13 Apr 2026 11:56:53 GMT"
-    },
-    {
-      "title": "Netanyahu: Støtter USAs blokade-trussel",
-      "link": "https://www.nrk.no/nyheter/netanyahu_-stotter-usas-blokade-trussel-1.17844927",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 13 Apr 2026 11:48:57 GMT"
     }
   ]
 }
