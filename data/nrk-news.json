@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-13T20:57:44.577Z",
+  "updatedAt": "2026-04-13T21:55:51.584Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kraftig økning i tinnitus blant unge i Danmark",
+      "link": "https://www.nrk.no/nyheter/kraftig-okning-i-tinnitus-blant-unge-i-danmark-1.17845557",
+      "category": "Danmark",
+      "pubDate": "Mon, 13 Apr 2026 21:52:46 GMT"
+    },
+    {
+      "title": "Viktig grenseovergang til Nord-Gaza gjenåpnet",
+      "link": "https://www.nrk.no/nyheter/viktig-grenseovergang-til-nord-gaza-gjenapnet-1.17845549",
+      "category": "Gazastripen",
+      "pubDate": "Mon, 13 Apr 2026 21:40:03 GMT"
+    },
     {
       "title": "Tyskland ber Israel om våpenhvile i Libanon",
       "link": "https://www.nrk.no/nyheter/tyskland-ber-israel-om-vapenhvile-i-libanon-1.17845542",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/rogaland/bil-havnet-pa-taket-i-karmoy-_-en-person-til-sykehus-1.17845464",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Mon, 13 Apr 2026 18:39:19 GMT"
-    },
-    {
-      "title": "Oljefondssjefen deltok i markedsføring av KI-modell",
-      "link": "https://www.nrk.no/nyheter/oljefondssjefen-deltok-i-markedsforing-av-ki-modell-1.17845361",
-      "category": "Oljefondet",
-      "pubDate": "Mon, 13 Apr 2026 18:30:28 GMT"
-    },
-    {
-      "title": "Fjernet bilde av Donald Trump som Jesus etter kritikk fra flere støttespillere",
-      "link": "https://www.nrk.no/nyheter/fjernet-bilde-av-donald-trump-som-jesus-etter-kritikk-fra-flere-stottespillere-1.17845362",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 13 Apr 2026 17:54:08 GMT"
     }
   ]
 }
