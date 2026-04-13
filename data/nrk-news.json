@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-13T16:42:33.739Z",
+  "updatedAt": "2026-04-13T18:04:14.716Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump la ut et KI-bilde av seg selv som Jesus",
+      "link": "https://www.nrk.no/nyheter/trump-la-ut-et-ki-bilde-av-seg-selv-som-jesus-1.17845362",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 13 Apr 2026 17:54:08 GMT"
+    },
     {
       "title": "Stoltenberg: Krisen i Hormuzstredet vil påvirke norsk økonomi",
       "link": "https://www.nrk.no/nyheter/stoltenberg_-krisen-i-hormuzstredet-vil-pavirke-norsk-okonomi-1.17845321",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-truer-med-a-angripe-iranske-skip-som-naermer-seg-blokade-1.17845265",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 13 Apr 2026 14:39:23 GMT"
-    },
-    {
-      "title": "FNs sjøfartssjef: Ingen land har rett til å stenge Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/fns-sjofartssjef_-ingen-land-har-rett-til-a-stenge-hormuzstredet-1.17845116",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 13 Apr 2026 14:31:40 GMT"
     }
   ]
 }
