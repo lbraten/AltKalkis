@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-13T11:50:52.370Z",
+  "updatedAt": "2026-04-13T13:44:15.866Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kronprinsen om Mette-Marits sykdom: – En del av hverdagen vår",
+      "link": "https://www.nrk.no/nyheter/kronprinsen-om-mette-marits-sykdom_-_-en-del-av-hverdagen-var-1.17845052",
+      "category": "Kongefamilien",
+      "pubDate": "Mon, 13 Apr 2026 12:57:59 GMT"
+    },
+    {
+      "title": "Erkjenner de faktiske forhold etter dobbeltdrapet på Karmøy",
+      "link": "https://www.nrk.no/rogaland/erkjenner-de-faktiske-forhold-etter-dobbeltdrapet-pa-karmoy-1.17844849",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 13 Apr 2026 12:34:58 GMT"
+    },
+    {
+      "title": "Skal obdusere mann som døde i klatreulykke",
+      "link": "https://www.nrk.no/sorlandet/skal-obdusere-mann-som-dode-i-klatreulykke-1.17844347",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 13 Apr 2026 12:22:16 GMT"
+    },
+    {
+      "title": "Kreml: Vil ikke gratulere Magyar med seieren i Ungarn",
+      "link": "https://www.nrk.no/kultur/kreml_-vil-ikke-gratulere-magyar-med-seieren-i-ungarn-1.17844985",
+      "category": "Ungarn",
+      "pubDate": "Mon, 13 Apr 2026 12:12:43 GMT"
+    },
+    {
+      "title": "2 millioner til fire kortfilmer",
+      "link": "https://www.nrk.no/nyheter/2-millioner-til-fire-kortfilmer-1.17844960",
+      "category": "Film og serier",
+      "pubDate": "Mon, 13 Apr 2026 11:56:53 GMT"
+    },
     {
       "title": "Netanyahu: Støtter USAs blokade-trussel",
       "link": "https://www.nrk.no/nyheter/netanyahu_-stotter-usas-blokade-trussel-1.17844927",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 13 Apr 2026 11:48:57 GMT"
-    },
-    {
-      "title": "Brudd i meklingen i reiselivsnæringen – 1600 kan bli tatt ut i streik",
-      "link": "https://www.nrk.no/nyheter/brudd-i-meklingen-i-reiselivsnaeringen-_-1600-kan-bli-tatt-ut-i-streik-1.17844823",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Mon, 13 Apr 2026 11:34:29 GMT"
-    },
-    {
-      "title": "Leter etter gutt i Stjørdal",
-      "link": "https://www.nrk.no/trondelag/leter-etter-gutt-i-stjordal-1.17844907",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Mon, 13 Apr 2026 11:28:52 GMT"
-    },
-    {
-      "title": "Von der Leyen: Avgjørende å gjenåpne Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/von-der-leyen_-avgjorende-a-gjenapne-hormuzstredet-1.17844805",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 13 Apr 2026 10:55:13 GMT"
-    },
-    {
-      "title": "Har slettet studielån for 870 millioner kroner",
-      "link": "https://www.nrk.no/nyheter/har-slettet-studielan-for-870-millioner-kroner-1.17844769",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 13 Apr 2026 10:49:52 GMT"
-    },
-    {
-      "title": "Tyskland håper valget i Ungarn baner vei for Ukraina-støtte",
-      "link": "https://www.nrk.no/nyheter/tyskland-haper-valget-i-ungarn-baner-vei-for-ukraina-stotte-1.17844632",
-      "category": "Ungarn",
-      "pubDate": "Mon, 13 Apr 2026 10:41:11 GMT"
     }
   ]
 }
