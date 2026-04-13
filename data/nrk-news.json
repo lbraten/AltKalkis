@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-04-13T22:49:42.140Z",
+  "updatedAt": "2026-04-13T23:45:24.880Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Flere evakuert etter melding om gasslekkasje i Grimstad",
-      "link": "https://www.nrk.no/nyheter/flere-evakuert-etter-melding-om-gasslekkasje-i-grimstad--1.17845565",
+      "title": "J.D. Vance skuffet over Orbans nederlag i Ungarn",
+      "link": "https://www.nrk.no/nyheter/j.d.-vance-skuffet-over-orbans-nederlag-i-ungarn-1.17845567",
+      "category": "Ungarn",
+      "pubDate": "Mon, 13 Apr 2026 23:06:24 GMT"
+    },
+    {
+      "title": "Vance ut mot paven: – La presidenten styre politikken",
+      "link": "https://www.nrk.no/nyheter/vance-ut-mot-paven_-_-la-presidenten-styre-politikken-1.17845566",
+      "category": "Donald Trump",
+      "pubDate": "Mon, 13 Apr 2026 23:00:00 GMT"
+    },
+    {
+      "title": "Flere evakuert etter melding om mulig gasslekkasje i Grimstad",
+      "link": "https://www.nrk.no/nyheter/flere-evakuert-etter-melding-om-mulig-gasslekkasje-i-grimstad--1.17845565",
       "category": "Nyheter fra Agder",
       "pubDate": "Mon, 13 Apr 2026 22:47:04 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usas-energiminister-tror-oljeprisen-_nar-toppen_-om-fa-uker-1.17845562",
       "category": "USA",
       "pubDate": "Mon, 13 Apr 2026 22:17:57 GMT"
-    },
-    {
-      "title": "Demokrat trekker seg fra Kongressen etter anklager om seksuelle overgrep",
-      "link": "https://www.nrk.no/nyheter/demokrat-trekker-seg-fra-kongressen-etter-anklager-om-seksuelle-overgrep-1.17845559",
-      "category": "USA",
-      "pubDate": "Mon, 13 Apr 2026 22:04:14 GMT"
-    },
-    {
-      "title": "Kraftig økning i tinnitus blant unge i Danmark",
-      "link": "https://www.nrk.no/nyheter/kraftig-okning-i-tinnitus-blant-unge-i-danmark-1.17845557",
-      "category": "Danmark",
-      "pubDate": "Mon, 13 Apr 2026 21:52:46 GMT"
     }
   ]
 }
