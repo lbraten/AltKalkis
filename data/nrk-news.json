@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-13T19:48:06.100Z",
+  "updatedAt": "2026-04-13T20:57:44.577Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tyskland ber Israel om våpenhvile i Libanon",
+      "link": "https://www.nrk.no/nyheter/tyskland-ber-israel-om-vapenhvile-i-libanon-1.17845542",
+      "category": "Tyskland",
+      "pubDate": "Mon, 13 Apr 2026 20:54:35 GMT"
+    },
+    {
+      "title": "IEA tror April blir tøffere for energimarkedet",
+      "link": "https://www.nrk.no/nyheter/iea-tror-april-blir-toffere-for-energimarkedet-1.17845533",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 13 Apr 2026 20:39:00 GMT"
+    },
+    {
+      "title": "Kvinne anmeldt for vold Sandnes",
+      "link": "https://www.nrk.no/rogaland/kvinne-anmeldt-for-vold-sandnes-1.17845490",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 13 Apr 2026 20:05:47 GMT"
+    },
     {
       "title": "Bil havnet på taket i Karmøy – én person til sykehus",
       "link": "https://www.nrk.no/rogaland/bil-havnet-pa-taket-i-karmoy-_-en-person-til-sykehus-1.17845464",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fjernet-bilde-av-donald-trump-som-jesus-etter-kritikk-fra-flere-stottespillere-1.17845362",
       "category": "Donald Trump",
       "pubDate": "Mon, 13 Apr 2026 17:54:08 GMT"
-    },
-    {
-      "title": "Stoltenberg: Krisen i Hormuzstredet vil påvirke norsk økonomi",
-      "link": "https://www.nrk.no/nyheter/stoltenberg_-krisen-i-hormuzstredet-vil-pavirke-norsk-okonomi-1.17845321",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 13 Apr 2026 16:10:07 GMT"
-    },
-    {
-      "title": "FN: Langvarig krise i Hormuzstredet kan føre til global matkatastrofe",
-      "link": "https://www.nrk.no/nyheter/fn_-langvarig-krise-i-hormuzstredet-kan-fore-til-global-matkatastrofe-1.17845350",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 13 Apr 2026 16:04:13 GMT"
-    },
-    {
-      "title": "Fikk skylda for barnedrap: Nå får de erstatning",
-      "link": "https://www.nrk.no/nyheter/fikk-skylda-for-barnedrap_-na-far-de-erstatning-1.17845281",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 13 Apr 2026 15:28:00 GMT"
     }
   ]
 }
