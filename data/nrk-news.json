@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-04-12T23:38:08.186Z",
+  "updatedAt": "2026-04-13T02:53:44.759Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Oljeprisen stiger kraftig etter USAs blokade-varsel av Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/oljeprisen-stiger-kraftig-etter-usas-blokade-varsel-av-hormuzstredet-1.17844098",
+      "title": "Guvernørkandidat trekker seg etter overgrepsanklager",
+      "link": "https://www.nrk.no/nyheter/guvernorkandidat-trekker-seg-etter-overgrepsanklager-1.17844111",
+      "category": "USA",
+      "pubDate": "Mon, 13 Apr 2026 02:13:45 GMT"
+    },
+    {
+      "title": "Trump bryr seg ikke om Iran-samtaler",
+      "link": "https://www.nrk.no/nyheter/trump-bryr-seg-ikke-om-iran-samtaler-1.17844110",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 13 Apr 2026 01:56:26 GMT"
+    },
+    {
+      "title": "Trump med hardt ut mot paven",
+      "link": "https://www.nrk.no/nyheter/trump-med-hardt-ut-mot-paven-1.17844108",
+      "category": "Donald Trump",
+      "pubDate": "Mon, 13 Apr 2026 01:30:04 GMT"
+    },
+    {
+      "title": "Fem drept i amerikansk angrep i Stillehavet",
+      "link": "https://www.nrk.no/nyheter/fem-drept-i-amerikansk-angrep-i-stillehavet-1.17844107",
+      "category": "USA",
+      "pubDate": "Mon, 13 Apr 2026 01:13:06 GMT"
+    },
+    {
+      "title": "Oljeprisen stiger kraftig",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-stiger-kraftig-1.17844098",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 12 Apr 2026 22:24:59 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-anklager-usa-for-a-odelegge-fredsavtale-1.17844091",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sun, 12 Apr 2026 22:06:51 GMT"
-    },
-    {
-      "title": "USA starter blokkade av iranske havner mandag ettermiddag",
-      "link": "https://www.nrk.no/nyheter/usa-starter-blokkade-av-iranske-havner-mandag-ettermiddag-1.17844090",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 12 Apr 2026 21:00:42 GMT"
-    },
-    {
-      "title": "Zelenskyj gratulerer Magyar med valgseieren",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-gratulerer-magyar-med-valgseieren-1.17844087",
-      "category": "Ungarn",
-      "pubDate": "Sun, 12 Apr 2026 20:55:04 GMT"
-    },
-    {
-      "title": "Magyar erklærer valgseier i Ungarn",
-      "link": "https://www.nrk.no/nyheter/magyar-erklaerer-valgseier-i-ungarn-1.17844086",
-      "category": "Ungarn",
-      "pubDate": "Sun, 12 Apr 2026 20:45:14 GMT"
-    },
-    {
-      "title": "Buss og personbil i kollisjon på E6",
-      "link": "https://www.nrk.no/nyheter/buss-og-personbil-i-kollisjon-pa-e6-1.17844083",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 12 Apr 2026 20:40:48 GMT"
     }
   ]
 }
