@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-13T15:16:41.840Z",
+  "updatedAt": "2026-04-13T16:42:33.739Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Stoltenberg: Krisen i Hormuzstredet vil påvirke norsk økonomi",
+      "link": "https://www.nrk.no/nyheter/stoltenberg_-krisen-i-hormuzstredet-vil-pavirke-norsk-okonomi-1.17845321",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 13 Apr 2026 16:10:07 GMT"
+    },
+    {
+      "title": "FN: Langvarig krise i Hormuzstredet kan føre til global matkatastrofe",
+      "link": "https://www.nrk.no/nyheter/fn_-langvarig-krise-i-hormuzstredet-kan-fore-til-global-matkatastrofe-1.17845350",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 13 Apr 2026 16:04:13 GMT"
+    },
+    {
+      "title": "Fikk skylda for barnedrap: Nå får de erstatning",
+      "link": "https://www.nrk.no/nyheter/fikk-skylda-for-barnedrap_-na-far-de-erstatning-1.17845281",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 13 Apr 2026 15:28:00 GMT"
+    },
     {
       "title": "Olje-oppgang på Oslo Børs",
       "link": "https://www.nrk.no/nyheter/olje-oppgang-pa-oslo-bors-1.17845276",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fns-sjofartssjef_-ingen-land-har-rett-til-a-stenge-hormuzstredet-1.17845116",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 13 Apr 2026 14:31:40 GMT"
-    },
-    {
-      "title": "Betydelig snøskredfare i Sør-Norge tirsdag",
-      "link": "https://www.nrk.no/innlandet/betydelig-snoskredfare-i-sor-norge-tirsdag-1.17845183",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Mon, 13 Apr 2026 13:52:04 GMT"
-    },
-    {
-      "title": "Over 1000 underskrifter fra filmbransjen mot oppkjøp av Warner Bros",
-      "link": "https://www.nrk.no/kultur/over-1000-underskrifter-fra-filmbransjen-mot-oppkjop-av-warner-bros-1.17845152",
-      "category": "Film og serier",
-      "pubDate": "Mon, 13 Apr 2026 13:44:08 GMT"
-    },
-    {
-      "title": "Kronprinsen om Mette-Marits sykdom: – En del av hverdagen vår",
-      "link": "https://www.nrk.no/nyheter/kronprinsen-om-mette-marits-sykdom_-_-en-del-av-hverdagen-var-1.17845052",
-      "category": "Kongefamilien",
-      "pubDate": "Mon, 13 Apr 2026 12:57:59 GMT"
     }
   ]
 }
