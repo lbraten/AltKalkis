@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-13T21:55:51.584Z",
+  "updatedAt": "2026-04-13T22:49:42.140Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere evakuert etter melding om gasslekkasje i Grimstad",
+      "link": "https://www.nrk.no/nyheter/flere-evakuert-etter-melding-om-gasslekkasje-i-grimstad--1.17845565",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 13 Apr 2026 22:47:04 GMT"
+    },
+    {
+      "title": "FN-sjefen ber USA og Iran gjenoppta forhandlingene",
+      "link": "https://www.nrk.no/nyheter/fn-sjefen-ber-usa-og-iran-gjenoppta-forhandlingene-1.17845564",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 13 Apr 2026 22:36:46 GMT"
+    },
+    {
+      "title": "Nord-Korea testet missiler fra destroyer",
+      "link": "https://www.nrk.no/nyheter/nord-korea-testet-missiler-fra-destroyer-1.17845563",
+      "category": "Nord-Korea",
+      "pubDate": "Mon, 13 Apr 2026 22:19:18 GMT"
+    },
+    {
+      "title": "USAs energiminister tror oljeprisen «når toppen» om få uker",
+      "link": "https://www.nrk.no/nyheter/usas-energiminister-tror-oljeprisen-_nar-toppen_-om-fa-uker-1.17845562",
+      "category": "USA",
+      "pubDate": "Mon, 13 Apr 2026 22:17:57 GMT"
+    },
+    {
+      "title": "Demokrat trekker seg fra Kongressen etter anklager om seksuelle overgrep",
+      "link": "https://www.nrk.no/nyheter/demokrat-trekker-seg-fra-kongressen-etter-anklager-om-seksuelle-overgrep-1.17845559",
+      "category": "USA",
+      "pubDate": "Mon, 13 Apr 2026 22:04:14 GMT"
+    },
     {
       "title": "Kraftig økning i tinnitus blant unge i Danmark",
       "link": "https://www.nrk.no/nyheter/kraftig-okning-i-tinnitus-blant-unge-i-danmark-1.17845557",
       "category": "Danmark",
       "pubDate": "Mon, 13 Apr 2026 21:52:46 GMT"
-    },
-    {
-      "title": "Viktig grenseovergang til Nord-Gaza gjenåpnet",
-      "link": "https://www.nrk.no/nyheter/viktig-grenseovergang-til-nord-gaza-gjenapnet-1.17845549",
-      "category": "Gazastripen",
-      "pubDate": "Mon, 13 Apr 2026 21:40:03 GMT"
-    },
-    {
-      "title": "Tyskland ber Israel om våpenhvile i Libanon",
-      "link": "https://www.nrk.no/nyheter/tyskland-ber-israel-om-vapenhvile-i-libanon-1.17845542",
-      "category": "Tyskland",
-      "pubDate": "Mon, 13 Apr 2026 20:54:35 GMT"
-    },
-    {
-      "title": "IEA tror April blir tøffere for energimarkedet",
-      "link": "https://www.nrk.no/nyheter/iea-tror-april-blir-toffere-for-energimarkedet-1.17845533",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 13 Apr 2026 20:39:00 GMT"
-    },
-    {
-      "title": "Kvinne anmeldt for vold Sandnes",
-      "link": "https://www.nrk.no/rogaland/kvinne-anmeldt-for-vold-sandnes-1.17845490",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 13 Apr 2026 20:05:47 GMT"
-    },
-    {
-      "title": "Bil havnet på taket i Karmøy – én person til sykehus",
-      "link": "https://www.nrk.no/rogaland/bil-havnet-pa-taket-i-karmoy-_-en-person-til-sykehus-1.17845464",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 13 Apr 2026 18:39:19 GMT"
     }
   ]
 }
