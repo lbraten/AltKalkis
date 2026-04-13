@@ -330,18 +330,19 @@ document.addEventListener("DOMContentLoaded", () => {
         const birth = new Date(birthStr);
         const now = new Date();
         const diffMs = now - birth;
+        const totalDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+        const totalWeeks = Math.floor(totalDays / 7);
         const ageInYears = diffMs / (1000 * 60 * 60 * 24 * 365.25);
         const ageRounded = Math.floor(ageInYears * 10) / 10;
         const years = Math.floor(ageInYears);
         const months = Math.floor((ageInYears - years) * 12);
         if (years === 0 && months === 0) {
-            const totalDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
             const weeks = Math.floor(totalDays / 7);
             const days = totalDays % 7;
             ageResultEl.innerText = `Omtrent ${ageRounded} år (${weeks} uker og ${days} dager).`;
             return;
         }
-        ageResultEl.innerText = `Omtrent ${ageRounded} år (${years} år og ${months} måneder).`;
+        ageResultEl.innerText = `Omtrent ${ageRounded} år (${years} år og ${months} måneder, ca. ${totalWeeks} uker).`;
     };
     if (birthDateInput) birthDateInput.addEventListener("input", updateAge);
     updateAge();
@@ -368,12 +369,16 @@ document.addEventListener("DOMContentLoaded", () => {
             dateDiffResultEl.innerText = "Velg to gyldige datoer.";
             return;
         }
-        const diffMs = Math.abs(d2 - d1);
+        const fromDate = d1 <= d2 ? d1 : d2;
+        const toDate = d1 <= d2 ? d2 : d1;
+        const diffMs = toDate - fromDate;
         const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-        let years = d2.getFullYear() - d1.getFullYear();
-        let months = d2.getMonth() - d1.getMonth();
+        const diffWeeks = Math.floor(diffDays / 7);
+        const remainingDays = diffDays % 7;
+        let years = toDate.getFullYear() - fromDate.getFullYear();
+        let months = toDate.getMonth() - fromDate.getMonth();
         if (months < 0) { years--; months += 12; }
-        dateDiffResultEl.innerHTML = `Forskjell: ${diffDays} dager<br>(${years} år og ${months} måneder)`;
+        dateDiffResultEl.innerHTML = `Forskjell: ${diffDays} dager (${diffWeeks} uker og ${remainingDays} dager)<br>(${years} år og ${months} måneder)`;
     };
     if (date1Input) date1Input.addEventListener("input", updateDateDiff);
     if (date2Input) date2Input.addEventListener("input", updateDateDiff);
