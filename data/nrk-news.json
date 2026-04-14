@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-14T20:06:04.319Z",
+  "updatedAt": "2026-04-14T21:25:09.048Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flyselskapet Norse Atlantic henter milliardbeløp etter økte drivstoffpriser",
+      "link": "https://www.nrk.no/nyheter/flyselskapet-norse-atlantic-henter-milliardbelop-etter-okte-drivstoffpriser-1.17847111",
+      "category": "Luftfart",
+      "pubDate": "Tue, 14 Apr 2026 20:57:14 GMT"
+    },
+    {
+      "title": "Lufthansa-streiken trappes opp",
+      "link": "https://www.nrk.no/nyheter/lufthansa-streiken-trappes-opp-1.17847105",
+      "category": "Luftfart",
+      "pubDate": "Tue, 14 Apr 2026 20:43:59 GMT"
+    },
+    {
+      "title": "USA: Ingen skip har passert blokaden i Hormuzstredet det første døgnet",
+      "link": "https://www.nrk.no/nyheter/usa_-ingen-skip-har-passert-blokaden-i-hormuzstredet-det-forste-dognet-1.17847014",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Apr 2026 20:15:39 GMT"
+    },
     {
       "title": "Voldshendelse på Karmøy",
       "link": "https://www.nrk.no/rogaland/voldshendelse-pa-karmoy-1.17846803",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store_-_-viktig-at-ukrainsk-droneproduksjon-ogsa-vil-bli-etablert-i-norge-1.17846850",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 14 Apr 2026 18:30:42 GMT"
-    },
-    {
-      "title": "Israels USA-ambassadør: – Står sammen om å frigjøre Libanon fra Hizbollah",
-      "link": "https://www.nrk.no/nyheter/israels-usa-ambassador_-_-star-sammen-om-a-frigjore-libanon-fra-hizbollah-1.17846987",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Apr 2026 18:14:10 GMT"
-    },
-    {
-      "title": "Frp vil ha ettårig utdanning for væpnet vaktpoliti",
-      "link": "https://www.nrk.no/nyheter/frp-vil-ha-ettarig-utdanning-for-vaepnet-vaktpoliti-1.17846971",
-      "category": "Norsk politikk",
-      "pubDate": "Tue, 14 Apr 2026 17:55:04 GMT"
-    },
-    {
-      "title": "Clannad-vokalist Maire Brennan er død",
-      "link": "https://www.nrk.no/nyheter/clannad-vokalist-maire-brennan-er-dod-1.17846910",
-      "category": "Musikk",
-      "pubDate": "Tue, 14 Apr 2026 17:45:22 GMT"
     }
   ]
 }
