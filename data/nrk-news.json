@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-14T14:04:58.325Z",
+  "updatedAt": "2026-04-14T15:49:26.774Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rundt 250 fryktes savnet etter båtkantring i Andamanhavet",
+      "link": "https://www.nrk.no/nyheter/rundt-250-fryktes-savnet-etter-batkantring-i-andamanhavet-1.17846688",
+      "category": "Malaysia",
+      "pubDate": "Tue, 14 Apr 2026 15:34:14 GMT"
+    },
+    {
+      "title": "Israel og Libanon har startet samtaler i USA",
+      "link": "https://www.nrk.no/nyheter/israel-og-libanon-har-startet-samtaler-i-usa-1.17846740",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Apr 2026 15:14:50 GMT"
+    },
+    {
+      "title": "Trump med oljespark til Storbritannia: Ber dem se til Norge",
+      "link": "https://www.nrk.no/nyheter/trump-med-oljespark-til-storbritannia_-ber-dem-se-til-norge-1.17846758",
+      "category": "Donald Trump",
+      "pubDate": "Tue, 14 Apr 2026 14:42:29 GMT"
+    },
+    {
+      "title": "Grue-drapet: Siktede har erkjent drapet",
+      "link": "https://www.nrk.no/innlandet/grue-drapet_-siktede-har-erkjent-drapet-1.17846718",
+      "category": "Kvinne funnet død i Grue",
+      "pubDate": "Tue, 14 Apr 2026 14:31:54 GMT"
+    },
+    {
+      "title": "Femdobling av ulykker med flere på samme sparkesykkel",
+      "link": "https://www.nrk.no/nyheter/femdobling-av-ulykker-med-flere-pa-samme-sparkesykkel-1.17846689",
+      "category": "Elsykkel og elsparkesykkel",
+      "pubDate": "Tue, 14 Apr 2026 14:23:57 GMT"
+    },
     {
       "title": "Far og sønn omkom i båtkantringen i Nappstraumen",
       "link": "https://www.nrk.no/nordland/far-og-sonn-omkom-i-batkantringen-i-nappstraumen-1.17846661",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Tue, 14 Apr 2026 13:33:37 GMT"
-    },
-    {
-      "title": "IEA-sjefen: 80 prosent av medlemslandenes nødlagre av olje kan bli tappet",
-      "link": "https://www.nrk.no/nyheter/iea-sjefen_-80-prosent-av-medlemslandenes-nodlagre-av-olje-kan-bli-tappet-1.17846618",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Apr 2026 13:20:31 GMT"
-    },
-    {
-      "title": "IMF advarer om at verdensøkonomien kan bli kastet ut av kurs",
-      "link": "https://www.nrk.no/nyheter/imf-advarer-om-at-verdensokonomien-kan-bli-kastet-ut-av-kurs-1.17846605",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Apr 2026 13:11:33 GMT"
-    },
-    {
-      "title": "Ber Riksrevisjonen granske Telenors virksomhet i Myanmar",
-      "link": "https://www.nrk.no/nyheter/ber-riksrevisjonen-granske-telenors-virksomhet-i-myanmar-1.17846527",
-      "category": "Norsk politikk",
-      "pubDate": "Tue, 14 Apr 2026 13:00:45 GMT"
-    },
-    {
-      "title": "Varsler kontrollsak om munnbindkjøp",
-      "link": "https://www.nrk.no/nyheter/varsler-kontrollsak-om-munnbindkjop-1.17846545",
-      "category": "Det norske Forsvaret",
-      "pubDate": "Tue, 14 Apr 2026 12:55:04 GMT"
-    },
-    {
-      "title": "E6 delvis stengt i Gudbrandsdalen grunnet boligbrann",
-      "link": "https://www.nrk.no/innlandet/e6-delvis-stengt-i-gudbrandsdalen-grunnet-boligbrann-1.17846575",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Tue, 14 Apr 2026 12:38:25 GMT"
     }
   ]
 }
