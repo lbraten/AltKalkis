@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-14T21:25:09.048Z",
+  "updatedAt": "2026-04-14T22:11:15.421Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mekling mellom Fellesforbund og NHO på overtid",
+      "link": "https://www.nrk.no/nyheter/mekling-mellom-fellesforbund-og-nho-pa-overtid-1.17847120",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 14 Apr 2026 22:00:17 GMT"
+    },
     {
       "title": "Flyselskapet Norse Atlantic henter milliardbeløp etter økte drivstoffpriser",
       "link": "https://www.nrk.no/nyheter/flyselskapet-norse-atlantic-henter-milliardbelop-etter-okte-drivstoffpriser-1.17847111",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa_-israel-og-libanon-enige-om-a-starte-direkte-forhandlinger--1.17847008",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 14 Apr 2026 19:15:18 GMT"
-    },
-    {
-      "title": "Støre: – Viktig at ukrainsk droneproduksjon også vil bli etablert i Norge",
-      "link": "https://www.nrk.no/nyheter/store_-_-viktig-at-ukrainsk-droneproduksjon-ogsa-vil-bli-etablert-i-norge-1.17846850",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 14 Apr 2026 18:30:42 GMT"
     }
   ]
 }
