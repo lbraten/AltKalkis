@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-14T02:46:31.492Z",
+  "updatedAt": "2026-04-14T05:26:10.363Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "BBC: Rubio skal delta i samtaler mellom Libanon og Israel tirsdag",
-      "link": "https://www.nrk.no/nyheter/bbc_-rubio-skal-delta-i-samtaler-mellom-libanon-og-israel-tirsdag-1.17845575",
+      "title": "Hizbollah-leder ber Libanon avlyse samtaler med Israel",
+      "link": "https://www.nrk.no/nyheter/hizbollah-leder-ber-libanon-avlyse-samtaler-med-israel-1.17845635",
+      "category": "Libanon og Israel",
+      "pubDate": "Tue, 14 Apr 2026 05:15:34 GMT"
+    },
+    {
+      "title": "Stoltenberg om LO-kritikk: – Må være rom for debatt",
+      "link": "https://www.nrk.no/nyheter/stoltenberg-om-lo-kritikk_-_-ma-vaere-rom-for-debatt-1.17845648",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 14 Apr 2026 04:53:54 GMT"
+    },
+    {
+      "title": "Norsk 14-åring stjal buss og kjørte til Sverige",
+      "link": "https://www.nrk.no/nyheter/norsk-14-aring-stjal-buss-og-kjorte-til-sverige-1.17845636",
+      "category": "Sverige",
+      "pubDate": "Tue, 14 Apr 2026 04:35:41 GMT"
+    },
+    {
+      "title": "Sanksjonert tankskip seilte gjennom Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/sanksjonert-tankskip-seilte-gjennom-hormuzstredet-1.17845610",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Apr 2026 01:53:14 GMT"
+      "pubDate": "Tue, 14 Apr 2026 03:59:29 GMT"
     },
     {
-      "title": "Styreleder i storbank sier fred i Midtøsten er avgjørende for energiprisene",
-      "link": "https://www.nrk.no/nyheter/styreleder-i-storbank-sier-fred-i-midtosten-er-avgjorende-for-energiprisene-1.17845573",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Apr 2026 01:19:11 GMT"
+      "title": "Iron Maiden, Phil Collins, Billy Idol og Oasis i Rock and Roll Hall of Fame",
+      "link": "https://www.nrk.no/nyheter/iron-maiden_-phil-collins_-billy-idol-og-oasis-i-rock-and-roll-hall-of-fame-1.17845608",
+      "category": "Musikk",
+      "pubDate": "Tue, 14 Apr 2026 03:44:30 GMT"
     },
     {
-      "title": "Flyselskapet Qantas advarer om økte drivstoffpriser",
-      "link": "https://www.nrk.no/nyheter/flyselskapet-qantas-advarer-om-okte-drivstoffpriser-1.17845572",
-      "category": "Australia",
-      "pubDate": "Tue, 14 Apr 2026 00:46:40 GMT"
-    },
-    {
-      "title": "USA: To drept i angrep mot mistenkt narkobåt",
-      "link": "https://www.nrk.no/nyheter/usa_-to-drept-i-angrep-mot-mistenkt-narkobat-1.17845571",
-      "category": "USA",
-      "pubDate": "Tue, 14 Apr 2026 00:40:57 GMT"
-    },
-    {
-      "title": "Røykutvikling i forretningslokale i Fredrikstad",
-      "link": "https://www.nrk.no/nyheter/roykutvikling-i-forretningslokale-i-fredrikstad-1.17845570",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Tue, 14 Apr 2026 00:34:02 GMT"
-    },
-    {
-      "title": "Trump skal i møte med Kina-ambassadøren",
-      "link": "https://www.nrk.no/nyheter/trump-skal-i-mote-med-kina-ambassadoren-1.17845569",
-      "category": "USA og Kina",
-      "pubDate": "Tue, 14 Apr 2026 00:27:46 GMT"
+      "title": "Kraftig fall i kinesisk eksport til USA",
+      "link": "https://www.nrk.no/nyheter/kraftig-fall-i-kinesisk-eksport-til-usa-1.17845576",
+      "category": "Handelsavtaler og toll",
+      "pubDate": "Tue, 14 Apr 2026 03:41:45 GMT"
     }
   ]
 }
