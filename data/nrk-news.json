@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-14T18:44:18.046Z",
+  "updatedAt": "2026-04-14T20:06:04.319Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Voldshendelse på Karmøy",
+      "link": "https://www.nrk.no/rogaland/voldshendelse-pa-karmoy-1.17846803",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Tue, 14 Apr 2026 19:36:44 GMT"
+    },
+    {
+      "title": "USA: Israel og Libanon enige om å starte direkte forhandlinger",
+      "link": "https://www.nrk.no/nyheter/usa_-israel-og-libanon-enige-om-a-starte-direkte-forhandlinger--1.17847008",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Apr 2026 19:15:18 GMT"
+    },
     {
       "title": "Støre: – Viktig at ukrainsk droneproduksjon også vil bli etablert i Norge",
       "link": "https://www.nrk.no/nyheter/store_-_-viktig-at-ukrainsk-droneproduksjon-ogsa-vil-bli-etablert-i-norge-1.17846850",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/clannad-vokalist-maire-brennan-er-dod-1.17846910",
       "category": "Musikk",
       "pubDate": "Tue, 14 Apr 2026 17:45:22 GMT"
-    },
-    {
-      "title": "Forsinkelser på Oslo S",
-      "link": "https://www.nrk.no/stor-oslo/forsinkelser-pa-oslo-s-1.17846861",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 14 Apr 2026 17:16:57 GMT"
-    },
-    {
-      "title": "Støre: Ukrainerne visste at F16-fly trengte vedlikehold",
-      "link": "https://www.nrk.no/nyheter/store_-ukrainerne-visste-at-f16-fly-trengte-vedlikehold-1.17846827",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 14 Apr 2026 16:57:15 GMT"
     }
   ]
 }
