@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-04-14T07:07:52.674Z",
+  "updatedAt": "2026-04-14T09:02:57.911Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ovar Aarsland (43) døde under treningstur i Sandnes",
-      "link": "https://www.nrk.no/rogaland/ovar-aarsland-_43_-dode-under-treningstur-i-sandnes-1.17845796",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Tue, 14 Apr 2026 07:00:58 GMT"
+      "title": "Totalt ni personer pågrepet etter skytingen på Holmlia",
+      "link": "https://www.nrk.no/stor-oslo/totalt-ni-personer-pagrepet-etter-skytingen-pa-holmlia-1.17845996",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 14 Apr 2026 08:46:49 GMT"
+    },
+    {
+      "title": "Zelenskyj besøker Norge tirsdag",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-besoker-norge-tirsdag-1.17845991",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 14 Apr 2026 08:38:09 GMT"
+    },
+    {
+      "title": "Flere såret i skoleskyting i Tyrkia",
+      "link": "https://www.nrk.no/nyheter/flere-saret-i-skoleskyting-i-tyrkia-1.17845644",
+      "category": "Tyrkia",
+      "pubDate": "Tue, 14 Apr 2026 08:32:30 GMT"
+    },
+    {
+      "title": "IEA: Venter største fall i oljeetterspørselen siden pandemien",
+      "link": "https://www.nrk.no/nyheter/iea_-venter-storste-fall-i-oljeettersporselen-siden-pandemien-1.17845782",
+      "category": "Oljeprisen",
+      "pubDate": "Tue, 14 Apr 2026 08:12:33 GMT"
     },
     {
       "title": "Youtuber Simen Andersen (24) er død",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/spania_-det-er-i-europas-interesse-a-styrke-samarbeidet-med-kina-1.17845744",
       "category": "Spania",
       "pubDate": "Tue, 14 Apr 2026 06:29:10 GMT"
-    },
-    {
-      "title": "Best i verden på overlevelse av barnekreft",
-      "link": "https://www.nrk.no/nyheter/best-i-verden-pa-overlevelse-av-barnekreft-1.17845734",
-      "category": "Kreft",
-      "pubDate": "Tue, 14 Apr 2026 06:16:33 GMT"
-    },
-    {
-      "title": "Evergrande-grunnlegger erkjenner bedrageri i Kina",
-      "link": "https://www.nrk.no/nyheter/evergrande-grunnlegger-erkjenner-bedrageri-i-kina-1.17845712",
-      "category": "Kina",
-      "pubDate": "Tue, 14 Apr 2026 06:07:47 GMT"
-    },
-    {
-      "title": "Kina: Kraftig eksportfall til USA",
-      "link": "https://www.nrk.no/nyheter/kina_-kraftig-eksportfall-til-usa-1.17845689",
-      "category": "USA og Kina",
-      "pubDate": "Tue, 14 Apr 2026 05:41:00 GMT"
     }
   ]
 }
