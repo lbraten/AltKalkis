@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-15T21:26:33.246Z",
+  "updatedAt": "2026-04-15T22:10:52.416Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Går bedre med jentene enn først antatt",
+      "link": "https://www.nrk.no/nyheter/politiet_-gar-bedre-med-jentene-enn-forst-antatt-1.17848802",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 15 Apr 2026 21:52:51 GMT"
+    },
     {
       "title": "Brann ved oljeraffineri i Australia",
       "link": "https://www.nrk.no/nyheter/brann-ved-oljeraffineri-i-australia-1.17848815",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bt_-mindrearig-jente-pa-elsparkesykkel-kritisk-skadet-etter-kollisjon-med-taxi-i-bergen-1.17848760",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 15 Apr 2026 19:42:17 GMT"
-    },
-    {
-      "title": "Mann dømt for 26 voldtekter mot barn i Sverige",
-      "link": "https://www.nrk.no/nyheter/mann-domt-for-26-voldtekter-mot-barn-i-sverige-1.17848744",
-      "category": "Seksuelle overgrep",
-      "pubDate": "Wed, 15 Apr 2026 19:37:41 GMT"
     }
   ]
 }
