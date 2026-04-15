@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-14T23:12:38.622Z",
+  "updatedAt": "2026-04-15T00:06:54.231Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Hans Christian Holte søker direktørstilling i KI Norge",
+      "link": "https://www.nrk.no/nyheter/hans-christian-holte-soker-direktorstilling-i-ki-norge--1.17847158",
+      "category": "Kunstig intelligens",
+      "pubDate": "Tue, 14 Apr 2026 23:52:09 GMT"
+    },
+    {
+      "title": "Rundt nitti personer evakuert etter branntilløp i Vrådal",
+      "link": "https://www.nrk.no/nyheter/rundt-nitti-personer-evakuert-etter-branntillop-i-vradal--1.17847153",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 14 Apr 2026 23:29:56 GMT"
+    },
     {
       "title": "Fem tiltalt for organisert førerkortsvindel i Tyskland",
       "link": "https://www.nrk.no/nyheter/fem-tiltalt-for-organisert-forerkortsvindel-i-tyskland-1.17847152",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/roykutvikling-ved-bygning-med-ferieleiligheter-i-kviteseid-1.17847147",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Tue, 14 Apr 2026 22:42:35 GMT"
-    },
-    {
-      "title": "Trump til avis: Varsler nye samtaler med Iran",
-      "link": "https://www.nrk.no/nyheter/trump-til-avis_-varsler-nye-samtaler-med-iran--1.17847142",
-      "category": "Donald Trump",
-      "pubDate": "Tue, 14 Apr 2026 22:35:15 GMT"
-    },
-    {
-      "title": "Mekling mellom Fellesforbund og NHO på overtid",
-      "link": "https://www.nrk.no/nyheter/mekling-mellom-fellesforbund-og-nho-pa-overtid-1.17847120",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 14 Apr 2026 22:00:17 GMT"
     }
   ]
 }
