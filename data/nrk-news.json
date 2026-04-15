@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-15T17:07:02.504Z",
+  "updatedAt": "2026-04-15T18:41:09.932Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Sp vil avlyse byggetrinn tre i det nye regjeringskvartalet",
-      "link": "https://www.nrk.no/nyheter/sp-vil-avlyse-byggetrinn-tre-i-det-nye-regjeringskvartalet--1.17848539",
-      "category": "Nytt regjeringskvartal",
-      "pubDate": "Wed, 15 Apr 2026 16:58:39 GMT"
+      "title": "Kollisjon mellom elsparkesykkel og bil i Bergen",
+      "link": "https://www.nrk.no/vestland/kollisjon-mellom-elsparkesykkel-og-bil-i-bergen--1.17848700",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 15 Apr 2026 18:33:45 GMT"
     },
     {
-      "title": "Sikkerhetshull gjorde Telia-kunder sporbare: – Vanvittig opplevelse",
-      "link": "https://www.nrk.no/nyheter/sikkerhetshull-gjorde-telia-kunder-sporbare_-_-vanvittig-opplevelse-1.17848456",
+      "title": "Kommunaleid transportselskap konkurs – ikke mulig å fjernlåne bøker flere steder",
+      "link": "https://www.nrk.no/innlandet/kommunaleid-transportselskap-konkurs-_-ikke-mulig-a-fjernlane-boker-flere-steder-1.17848612",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Wed, 15 Apr 2026 18:06:02 GMT"
+    },
+    {
+      "title": "Gjerningsperson på frifot etter knivran i Moss",
+      "link": "https://www.nrk.no/ostfold/gjerningsperson-pa-frifot-etter-knivran-i-moss-1.17848392",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Wed, 15 Apr 2026 18:03:18 GMT"
+    },
+    {
+      "title": "Det hvite hus avviser at USA vil forlenge våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/det-hvite-hus-avviser-at-usa-vil-forlenge-vapenhvilen-1.17848622",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Apr 2026 17:56:56 GMT"
+    },
+    {
+      "title": "Digitaliseringsministeren etter NRK-avsløring: – Et alvorlig sikkerhetsbrudd",
+      "link": "https://www.nrk.no/nyheter/digitaliseringsministeren-etter-nrk-avsloring_-_-et-alvorlig-sikkerhetsbrudd-1.17848576",
       "category": "Datasikkerhet",
-      "pubDate": "Wed, 15 Apr 2026 16:43:03 GMT"
+      "pubDate": "Wed, 15 Apr 2026 17:34:24 GMT"
     },
     {
-      "title": "Løfter om 14,5 milliarder kroner i støtte til Sudan",
-      "link": "https://www.nrk.no/nyheter/lofter-om-14_5-milliarder-kroner-i-stotte-til-sudan-1.17848532",
-      "category": "Sudan",
-      "pubDate": "Wed, 15 Apr 2026 16:28:28 GMT"
-    },
-    {
-      "title": "Gruveselskap fornøyd med rettens avgjørelse",
-      "link": "https://www.nrk.no/nyheter/gruveselskap-fornoyd-med-rettens-avgjorelse--1.17848444",
-      "category": "Gruvedrift i Førdefjorden",
-      "pubDate": "Wed, 15 Apr 2026 16:14:38 GMT"
-    },
-    {
-      "title": "Kilder: USA og Iran vurderer å forlenge våpenhvilen med to uker",
-      "link": "https://www.nrk.no/nyheter/kilder_-usa-og-iran-vurderer-a-forlenge-vapenhvilen-med-to-uker-1.17848527",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 15 Apr 2026 16:05:37 GMT"
-    },
-    {
-      "title": "Israels forsvarssjef beordrer «Hizbollah-drapssone» sør for Litani-elven i Libanon",
-      "link": "https://www.nrk.no/nyheter/israels-forsvarssjef-beordrer-_hizbollah-drapssone_-sor-for-litani-elven-i-libanon-1.17848522",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 15 Apr 2026 16:01:04 GMT"
+      "title": "Mener maktpersoner kan ha stått i fare",
+      "link": "https://www.nrk.no/nyheter/mener-maktpersoner-kan-ha-statt-i-fare-1.17848602",
+      "category": "Datasikkerhet",
+      "pubDate": "Wed, 15 Apr 2026 17:15:52 GMT"
     }
   ]
 }
