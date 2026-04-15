@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-15T20:04:18.695Z",
+  "updatedAt": "2026-04-15T21:26:33.246Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann ved oljeraffineri i Australia",
+      "link": "https://www.nrk.no/nyheter/brann-ved-oljeraffineri-i-australia-1.17848815",
+      "category": "Australia",
+      "pubDate": "Wed, 15 Apr 2026 21:21:58 GMT"
+    },
+    {
+      "title": "Nye rekorder på Wall Street",
+      "link": "https://www.nrk.no/nyheter/nye-rekorder-pa-wall-street-1.17848813",
+      "category": "Økonomi",
+      "pubDate": "Wed, 15 Apr 2026 20:41:39 GMT"
+    },
+    {
+      "title": "LO: Enighet i Spekter-oppgjøret",
+      "link": "https://www.nrk.no/nyheter/lo_-enighet-i-spekter-oppgjoret-1.17848641",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Wed, 15 Apr 2026 20:15:41 GMT"
+    },
     {
       "title": "Senatet stemte ned forslag om å stanse Iran-krigen",
       "link": "https://www.nrk.no/nyheter/senatet-stemte-ned-forslag-om-a-stanse-iran-krigen-1.17848764",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-domt-for-26-voldtekter-mot-barn-i-sverige-1.17848744",
       "category": "Seksuelle overgrep",
       "pubDate": "Wed, 15 Apr 2026 19:37:41 GMT"
-    },
-    {
-      "title": "Politico: Orban står over EU-toppmøte",
-      "link": "https://www.nrk.no/nyheter/politico_-orban-star-over-eu-toppmote-1.17848732",
-      "category": "Ungarn",
-      "pubDate": "Wed, 15 Apr 2026 19:18:43 GMT"
-    },
-    {
-      "title": "UD advarer snusbrukere",
-      "link": "https://www.nrk.no/nyheter/ud-advarer-snusbrukere-1.17848671",
-      "category": "Røyk og snus",
-      "pubDate": "Wed, 15 Apr 2026 19:00:25 GMT"
-    },
-    {
-      "title": "NSM rammet av sikkerhetshull: – Veldig alvorlig",
-      "link": "https://www.nrk.no/nyheter/nsm-rammet-av-sikkerhetshull_-_-veldig-alvorlig-1.17848675",
-      "category": "Sikkerhetshull hos Telia",
-      "pubDate": "Wed, 15 Apr 2026 18:41:33 GMT"
     }
   ]
 }
