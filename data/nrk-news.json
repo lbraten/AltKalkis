@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-15T22:10:52.416Z",
+  "updatedAt": "2026-04-15T23:10:38.345Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brasils tidligere etterretningssjef løslatt i USA",
+      "link": "https://www.nrk.no/nyheter/brasils-tidligere-etterretningssjef-loslatt-i-usa-1.17848838",
+      "category": "Brasil",
+      "pubDate": "Wed, 15 Apr 2026 23:04:18 GMT"
+    },
+    {
+      "title": "To menn dømt for IT-svindel som finansierte Nord-Koreas våpenprogram",
+      "link": "https://www.nrk.no/nyheter/to-menn-domt-for-it-svindel-som-finansierte-nord-koreas-vapenprogram-1.17848837",
+      "category": "USA",
+      "pubDate": "Wed, 15 Apr 2026 22:58:20 GMT"
+    },
+    {
+      "title": "Brann i utebod i Oslo – politiet mistenker at brannen er påtent",
+      "link": "https://www.nrk.no/nyheter/brann-i-utebod-i-oslo-_-politiet-mistenker-at-brannen-er-patent-1.17848836",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 15 Apr 2026 22:51:53 GMT"
+    },
+    {
+      "title": "Financial Times: Libanon og Irael nær avtale",
+      "link": "https://www.nrk.no/nyheter/financial-times_-libanon-og-irael-naer-avtale-1.17848828",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Apr 2026 22:26:26 GMT"
+    },
     {
       "title": "Politiet: Går bedre med jentene enn først antatt",
       "link": "https://www.nrk.no/nyheter/politiet_-gar-bedre-med-jentene-enn-forst-antatt-1.17848802",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brann-ved-oljeraffineri-i-australia-1.17848815",
       "category": "Australia",
       "pubDate": "Wed, 15 Apr 2026 21:21:58 GMT"
-    },
-    {
-      "title": "Nye rekorder på Wall Street",
-      "link": "https://www.nrk.no/nyheter/nye-rekorder-pa-wall-street-1.17848813",
-      "category": "Økonomi",
-      "pubDate": "Wed, 15 Apr 2026 20:41:39 GMT"
-    },
-    {
-      "title": "LO: Enighet i Spekter-oppgjøret",
-      "link": "https://www.nrk.no/nyheter/lo_-enighet-i-spekter-oppgjoret-1.17848641",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Wed, 15 Apr 2026 20:15:41 GMT"
-    },
-    {
-      "title": "Senatet stemte ned forslag om å stanse Iran-krigen",
-      "link": "https://www.nrk.no/nyheter/senatet-stemte-ned-forslag-om-a-stanse-iran-krigen-1.17848764",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 15 Apr 2026 20:03:55 GMT"
-    },
-    {
-      "title": "BT: Mindreårig jente på elsparkesykkel kritisk skadet etter kollisjon med taxi i Bergen",
-      "link": "https://www.nrk.no/nyheter/bt_-mindrearig-jente-pa-elsparkesykkel-kritisk-skadet-etter-kollisjon-med-taxi-i-bergen-1.17848760",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 15 Apr 2026 19:42:17 GMT"
     }
   ]
 }
