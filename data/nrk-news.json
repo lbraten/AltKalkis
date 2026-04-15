@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-04-15T11:05:59.490Z",
+  "updatedAt": "2026-04-15T12:11:02.826Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Iran truer med å blokkere Rødehavet",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-blokkere-rodehavet-1.17847706",
+      "title": "Rundt 5900 ansatte i byggindustrien kan bli tatt ut i streik",
+      "link": "https://www.nrk.no/nyheter/rundt-5900-ansatte-i-byggindustrien-kan-bli-tatt-ut-i-streik-1.17848064",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 15 Apr 2026 12:09:52 GMT"
+    },
+    {
+      "title": "Fire drept og 20 såret i skoleskyting i Tyrkia",
+      "link": "https://www.nrk.no/nyheter/fire-drept-og-20-saret-i-skoleskyting-i-tyrkia-1.17847921",
+      "category": "Tyrkia",
+      "pubDate": "Wed, 15 Apr 2026 11:37:09 GMT"
+    },
+    {
+      "title": "Jo Nesbø vant krimpris for fjerde gang",
+      "link": "https://www.nrk.no/nyheter/jo-nesbo-vant-krimpris-for-fjerde-gang-1.17847908",
+      "category": "Litteratur",
+      "pubDate": "Wed, 15 Apr 2026 11:12:25 GMT"
+    },
+    {
+      "title": "Snap kutter rundt 1000 jobber",
+      "link": "https://www.nrk.no/nyheter/snap-kutter-rundt-1000-jobber-1.17847877",
+      "category": "Snapchat",
+      "pubDate": "Wed, 15 Apr 2026 11:08:25 GMT"
+    },
+    {
+      "title": "Iran truer med å blokkere skipstrafikk i Rødehavet",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-blokkere-skipstrafikk-i-rodehavet-1.17847706",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 15 Apr 2026 10:57:22 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-ber-kina-om-a-ikke-selge-vapen-til-iran-1.17847348",
       "category": "Iran",
       "pubDate": "Wed, 15 Apr 2026 10:41:10 GMT"
-    },
-    {
-      "title": "Over 37 millioner har sett Wirkola-filmen på Netflix",
-      "link": "https://www.nrk.no/tromsogfinnmark/over-37-millioner-har-sett-wirkola-filmen-pa-netflix-1.17847786",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 15 Apr 2026 10:29:03 GMT"
-    },
-    {
-      "title": "Ku på E18 - trafikken står",
-      "link": "https://www.nrk.no/vestfoldogtelemark/ku-pa-e18---trafikken-star-1.17847787",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 15 Apr 2026 10:15:24 GMT"
-    },
-    {
-      "title": "Arild Monsen vraket som landslagstrener",
-      "link": "https://www.nrk.no/sport/arild-monsen-vraket-som-landslagstrener-1.17847768",
-      "category": "Sportsnyheter",
-      "pubDate": "Wed, 15 Apr 2026 10:07:44 GMT"
-    },
-    {
-      "title": "EU klar med app for alderssikring på nett",
-      "link": "https://www.nrk.no/nyheter/eu-klar-med-app-for-alderssikring-pa-nett-1.17847653",
-      "category": "Sosiale medier",
-      "pubDate": "Wed, 15 Apr 2026 09:38:11 GMT"
     }
   ]
 }
