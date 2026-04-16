@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-16T21:10:21.448Z",
+  "updatedAt": "2026-04-16T22:07:21.266Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "G7: Haster å begrense kostnadene ved krigen i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/g7_-haster-a-begrense-kostnadene-ved-krigen-i-midtosten-1.17850400",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 16 Apr 2026 22:02:03 GMT"
+    },
+    {
+      "title": "Tyskland tilbyr militær hjelp for å sikre skipstrafikken i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/tyskland-tilbyr-militaer-hjelp-for-a-sikre-skipstrafikken-i-hormuzstredet-1.17850394",
+      "category": "Tyskland",
+      "pubDate": "Thu, 16 Apr 2026 21:23:05 GMT"
+    },
+    {
+      "title": "Ti dagers våpenhvile har trådt i kraft mellom Israel og Libanon",
+      "link": "https://www.nrk.no/nyheter/ti-dagers-vapenhvile-har-tradt-i-kraft-mellom-israel-og-libanon-1.17850388",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 16 Apr 2026 21:18:32 GMT"
+    },
     {
       "title": "Irans utenriksdepartement ønsker våpenhvile i Libanon velkommen",
       "link": "https://www.nrk.no/nyheter/irans-utenriksdepartement-onsker-vapenhvile-i-libanon-velkommen-1.17850385",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/trondelag/har-kontroll-pa-fire-personer-etter-storbrannen-1.17850295",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Thu, 16 Apr 2026 19:10:56 GMT"
-    },
-    {
-      "title": "Ytterligere fire norske F-16 sitter fast i Belgia",
-      "link": "https://www.nrk.no/nyheter/ytterligere-fire-norske-f-16-sitter-fast-i-belgia-1.17850324",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 16 Apr 2026 19:09:18 GMT"
-    },
-    {
-      "title": "Ice-agent tiltalt i Minnesota",
-      "link": "https://www.nrk.no/nyheter/ice-agent-tiltalt-i-minnesota-1.17850294",
-      "category": "USA",
-      "pubDate": "Thu, 16 Apr 2026 19:05:49 GMT"
-    },
-    {
-      "title": "Vil selge den offentlige skolen for én krone",
-      "link": "https://www.nrk.no/innlandet/vil-selge-den-offentlige-skolen-for-en-krone-1.17850232",
-      "category": "Politikk i Innlandet",
-      "pubDate": "Thu, 16 Apr 2026 18:37:32 GMT"
     }
   ]
 }
