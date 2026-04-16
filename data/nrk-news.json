@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-15T23:10:38.345Z",
+  "updatedAt": "2026-04-16T00:06:47.223Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA inviterer bilprodusenter til å bidra mer i våpenproduksjon",
+      "link": "https://www.nrk.no/nyheter/usa-inviterer-bilprodusenter-til-a-bidra-mer-i-vapenproduksjon-1.17848839",
+      "category": "USA",
+      "pubDate": "Wed, 15 Apr 2026 23:27:52 GMT"
+    },
     {
       "title": "Brasils tidligere etterretningssjef løslatt i USA",
       "link": "https://www.nrk.no/nyheter/brasils-tidligere-etterretningssjef-loslatt-i-usa-1.17848838",
@@ -21,8 +27,8 @@
       "pubDate": "Wed, 15 Apr 2026 22:51:53 GMT"
     },
     {
-      "title": "Financial Times: Libanon og Irael nær avtale",
-      "link": "https://www.nrk.no/nyheter/financial-times_-libanon-og-irael-naer-avtale-1.17848828",
+      "title": "Financial Times: Libanon og Israel nær avtale",
+      "link": "https://www.nrk.no/nyheter/financial-times_-libanon-og-israel-naer-avtale-1.17848828",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 15 Apr 2026 22:26:26 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/politiet_-gar-bedre-med-jentene-enn-forst-antatt-1.17848802",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 15 Apr 2026 21:52:51 GMT"
-    },
-    {
-      "title": "Brann ved oljeraffineri i Australia",
-      "link": "https://www.nrk.no/nyheter/brann-ved-oljeraffineri-i-australia-1.17848815",
-      "category": "Australia",
-      "pubDate": "Wed, 15 Apr 2026 21:21:58 GMT"
     }
   ]
 }
