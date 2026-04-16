@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-04-16T16:26:37.399Z",
+  "updatedAt": "2026-04-16T17:52:40.452Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "USA: Trump får fortsette Iran-krigen",
-      "link": "https://www.nrk.no/nyheter/usa_-trump-far-fortsette-iran-krigen-1.17850123",
+      "title": "Sju drept i israelsk angrep i Libanon",
+      "link": "https://www.nrk.no/nyheter/sju-drept-i-israelsk-angrep-i-libanon-1.17850182",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 16 Apr 2026 17:27:33 GMT"
+    },
+    {
+      "title": "Grønland styrker engelskundervisningen",
+      "link": "https://www.nrk.no/nyheter/gronland-styrker-engelskundervisningen-1.17850120",
+      "category": "Grønland",
+      "pubDate": "Thu, 16 Apr 2026 17:02:07 GMT"
+    },
+    {
+      "title": "Syria overtar alle amerikanske militærbaser i landet",
+      "link": "https://www.nrk.no/nyheter/syria-overtar-alle-amerikanske-militaerbaser-i-landet-1.17850133",
+      "category": "Syria",
+      "pubDate": "Thu, 16 Apr 2026 16:35:22 GMT"
+    },
+    {
+      "title": "USA: Trump får fortsette Iran-angrep",
+      "link": "https://www.nrk.no/nyheter/usa_-trump-far-fortsette-iran-angrep-1.17850123",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 16 Apr 2026 16:17:14 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-israel-og-libanon-inngar-en-ti-dagers-vapenhvile-i-kveld-1.17850043",
       "category": "Libanon og Israel",
       "pubDate": "Thu, 16 Apr 2026 15:40:04 GMT"
-    },
-    {
-      "title": "Trump har snakket med Libanons president",
-      "link": "https://www.nrk.no/nyheter/trump-har-snakket-med-libanons-president--1.17850036",
-      "category": "Libanon og Israel",
-      "pubDate": "Thu, 16 Apr 2026 14:55:33 GMT"
-    },
-    {
-      "title": "Støre har snakket med Magyar",
-      "link": "https://www.nrk.no/nyheter/store-har-snakket-med-magyar-1.17850021",
-      "category": "Ungarn",
-      "pubDate": "Thu, 16 Apr 2026 14:39:00 GMT"
-    },
-    {
-      "title": "KLM innstiller inn 160 flyginger",
-      "link": "https://www.nrk.no/nyheter/klm-innstiller-inn-160-flyginger-1.17849944",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 16 Apr 2026 14:24:27 GMT"
     }
   ]
 }
