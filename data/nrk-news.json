@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-16T20:10:39.024Z",
+  "updatedAt": "2026-04-16T21:10:21.448Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Irans utenriksdepartement ønsker våpenhvile i Libanon velkommen",
+      "link": "https://www.nrk.no/nyheter/irans-utenriksdepartement-onsker-vapenhvile-i-libanon-velkommen-1.17850385",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 16 Apr 2026 21:00:51 GMT"
+    },
+    {
+      "title": "Børsfall for Netflix",
+      "link": "https://www.nrk.no/nyheter/borsfall-for-netflix--1.17850373",
+      "category": "Strømmetjenester",
+      "pubDate": "Thu, 16 Apr 2026 20:53:10 GMT"
+    },
     {
       "title": "Har kontroll på fire personer etter storbrannen",
       "link": "https://www.nrk.no/trondelag/har-kontroll-pa-fire-personer-etter-storbrannen-1.17850295",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/innlandet/vil-selge-den-offentlige-skolen-for-en-krone-1.17850232",
       "category": "Politikk i Innlandet",
       "pubDate": "Thu, 16 Apr 2026 18:37:32 GMT"
-    },
-    {
-      "title": "Stoltenberg: Russland sliter økonomisk",
-      "link": "https://www.nrk.no/nyheter/stoltenberg_-russland-sliter-okonomisk-1.17850268",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 16 Apr 2026 18:34:37 GMT"
-    },
-    {
-      "title": "Trump sier Iran har sagt seg villig til å gi opp atomvåpen",
-      "link": "https://www.nrk.no/nyheter/trump-sier-iran-har-sagt-seg-villig-til-a-gi-opp-atomvapen-1.17850206",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 16 Apr 2026 18:08:57 GMT"
     }
   ]
 }
