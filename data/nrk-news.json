@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-17T13:52:18.333Z",
+  "updatedAt": "2026-04-17T14:58:05.199Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oslo Børs kraftig ned i dag",
+      "link": "https://www.nrk.no/nyheter/oslo-bors-kraftig-ned-i-dag-1.17851423",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 17 Apr 2026 14:42:28 GMT"
+    },
+    {
+      "title": "Trump: Iran fjerner miner",
+      "link": "https://www.nrk.no/nyheter/trump_-iran-fjerner-miner-1.17851419",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Apr 2026 14:28:50 GMT"
+    },
+    {
+      "title": "Starmer: Frankrike og Storbritannia skal lede internasjonal Hormuzoperasjon",
+      "link": "https://www.nrk.no/nyheter/starmer_-frankrike-og-storbritannia-skal-lede-internasjonal-hormuzoperasjon-1.17851399",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Apr 2026 14:25:18 GMT"
+    },
+    {
+      "title": "Støre: Norge kan bidra til maritim operasjon i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/store_-norge-kan-bidra-til-maritim-operasjon-i-hormuzstredet-1.17851398",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Apr 2026 14:04:42 GMT"
+    },
+    {
+      "title": "Trump: Israel får ikke bombe Libanon mer",
+      "link": "https://www.nrk.no/nyheter/trump_-israel-far-ikke-bombe-libanon-mer-1.17851353",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Apr 2026 14:02:50 GMT"
+    },
     {
       "title": "Trump: USAs blokade av Iran fortsetter",
       "link": "https://www.nrk.no/nyheter/trump_-usas-blokade-av-iran-fortsetter-1.17851270",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 17 Apr 2026 13:37:38 GMT"
-    },
-    {
-      "title": "Qatar Airways gjenopptar Oslo-ruten",
-      "link": "https://www.nrk.no/nyheter/qatar-airways-gjenopptar-oslo-ruten-1.17851259",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 17 Apr 2026 12:57:08 GMT"
-    },
-    {
-      "title": "Ber om forvaringsstraff for overgrepstiltalt mann",
-      "link": "https://www.nrk.no/innlandet/ber-om-forvaringsstraff-for-overgrepstiltalt-mann-1.17851168",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 17 Apr 2026 12:53:35 GMT"
-    },
-    {
-      "title": "Iran sier at Hormuzstredet er åpent",
-      "link": "https://www.nrk.no/nyheter/iran-sier-at-hormuzstredet-er-apent-1.17851197",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Apr 2026 12:51:53 GMT"
-    },
-    {
-      "title": "Tenåringsgutt tiltalt for trusler mot lærere",
-      "link": "https://www.nrk.no/sorlandet/tenaringsgutt-tiltalt-for-trusler-mot-laerere-1.17851174",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Fri, 17 Apr 2026 12:26:42 GMT"
-    },
-    {
-      "title": "FN: 47 kvinner og barn drept hver dag i Gazakrigen",
-      "link": "https://www.nrk.no/nyheter/fn_-47-kvinner-og-barn-drept-hver-dag-i-gazakrigen-1.17851155",
-      "category": "Krigen i Gaza",
-      "pubDate": "Fri, 17 Apr 2026 12:25:17 GMT"
     }
   ]
 }
