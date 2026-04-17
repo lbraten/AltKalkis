@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-17T14:58:05.199Z",
+  "updatedAt": "2026-04-17T16:07:33.647Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nora Haukland vil klage inn VG og Aftenposten til PFU",
+      "link": "https://www.nrk.no/nyheter/nora-haukland-vil-klage-inn-vg-og-aftenposten-til-pfu-1.17851503",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Fri, 17 Apr 2026 15:59:02 GMT"
+    },
+    {
+      "title": "Trump: USA skal hente uran ut av Iran",
+      "link": "https://www.nrk.no/nyheter/trump_-usa-skal-hente-uran-ut-av-iran-1.17851463",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Apr 2026 15:51:53 GMT"
+    },
+    {
+      "title": "Iran truer med å stenge Hormuzstredet hvis USA opprettholder blokade",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-stenge-hormuzstredet-hvis-usa-opprettholder-blokade-1.17851462",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Apr 2026 15:11:32 GMT"
+    },
+    {
+      "title": "En drept i israelsk droneangrep i Libanon",
+      "link": "https://www.nrk.no/nyheter/en-drept-i-israelsk-droneangrep-i-libanon-1.17851434",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 17 Apr 2026 15:10:06 GMT"
+    },
     {
       "title": "Oslo Børs kraftig ned i dag",
       "link": "https://www.nrk.no/nyheter/oslo-bors-kraftig-ned-i-dag-1.17851423",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-iran-fjerner-miner-1.17851419",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 17 Apr 2026 14:28:50 GMT"
-    },
-    {
-      "title": "Starmer: Frankrike og Storbritannia skal lede internasjonal Hormuzoperasjon",
-      "link": "https://www.nrk.no/nyheter/starmer_-frankrike-og-storbritannia-skal-lede-internasjonal-hormuzoperasjon-1.17851399",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Apr 2026 14:25:18 GMT"
-    },
-    {
-      "title": "Støre: Norge kan bidra til maritim operasjon i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/store_-norge-kan-bidra-til-maritim-operasjon-i-hormuzstredet-1.17851398",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Apr 2026 14:04:42 GMT"
-    },
-    {
-      "title": "Trump: Israel får ikke bombe Libanon mer",
-      "link": "https://www.nrk.no/nyheter/trump_-israel-far-ikke-bombe-libanon-mer-1.17851353",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Apr 2026 14:02:50 GMT"
-    },
-    {
-      "title": "Trump: USAs blokade av Iran fortsetter",
-      "link": "https://www.nrk.no/nyheter/trump_-usas-blokade-av-iran-fortsetter-1.17851270",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Apr 2026 13:37:38 GMT"
     }
   ]
 }
