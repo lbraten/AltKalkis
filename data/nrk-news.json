@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-17T10:59:10.920Z",
+  "updatedAt": "2026-04-17T11:59:07.902Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Velle foreslås inn i Frp-toppen",
+      "link": "https://www.nrk.no/nyheter/velle-foreslas-inn-i-frp-toppen-1.17851129",
+      "category": "Fremskrittspartiet",
+      "pubDate": "Fri, 17 Apr 2026 11:53:11 GMT"
+    },
+    {
+      "title": "Listhaug om faren for drivstoffmangel",
+      "link": "https://www.nrk.no/nyheter/listhaug-om-faren-for-drivstoffmangel-1.17851087",
+      "category": "Fremskrittspartiet",
+      "pubDate": "Fri, 17 Apr 2026 11:50:15 GMT"
+    },
+    {
+      "title": "Politiet i London undersøker «mistenkelige gjenstander»",
+      "link": "https://www.nrk.no/nyheter/politiet-i-london-undersoker-_mistenkelige-gjenstander_-1.17851077",
+      "category": "Storbritannia",
+      "pubDate": "Fri, 17 Apr 2026 11:38:12 GMT"
+    },
+    {
+      "title": "UD skal vurdere graderte dokumenter fra Juul og Rød-Larsen",
+      "link": "https://www.nrk.no/nyheter/ud-skal-vurdere-graderte-dokumenter-fra-juul-og-rod-larsen-1.17851017",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Fri, 17 Apr 2026 11:25:47 GMT"
+    },
     {
       "title": "Regjeringen oppretter senter for alternativer til dyreforsøk",
       "link": "https://www.nrk.no/nyheter/regjeringen-oppretter-senter-for-alternativer-til-dyreforsok-1.17850989",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/unhcr_-nesten-900-rohingya-flyktninger-dode-eller-savnet-i-fjor-1.17850939",
       "category": "Myanmar",
       "pubDate": "Fri, 17 Apr 2026 10:42:20 GMT"
-    },
-    {
-      "title": "Den svenske kongen på besøk i Ukraina",
-      "link": "https://www.nrk.no/nyheter/den-svenske-kongen-pa-besok-i-ukraina-1.17850938",
-      "category": "Den svenske kongefamilien",
-      "pubDate": "Fri, 17 Apr 2026 10:04:06 GMT"
-    },
-    {
-      "title": "UDI etablerer 24 nye asylmottak med 3600 plasser",
-      "link": "https://www.nrk.no/nyheter/udi-etablerer-24-nye-asylmottak-med-3600-plasser-1.17850912",
-      "category": "Norsk flyktning- og asylpolitikk",
-      "pubDate": "Fri, 17 Apr 2026 10:02:09 GMT"
-    },
-    {
-      "title": "Skatteetaten: Kryptoeiere har selv ansvar for å fylle inn kryptovaluta i skattemeldingen",
-      "link": "https://www.nrk.no/nyheter/skatteetaten_-kryptoeiere-har-selv-ansvar-for-a-fylle-inn-kryptovaluta-i-skattemeldingen-1.17850897",
-      "category": "Kryptovaluta",
-      "pubDate": "Fri, 17 Apr 2026 09:40:04 GMT"
-    },
-    {
-      "title": "Sverige setter av milliarder til kjernekraft",
-      "link": "https://www.nrk.no/nyheter/sverige-setter-av-milliarder-til-kjernekraft-1.17850879",
-      "category": "Sverige",
-      "pubDate": "Fri, 17 Apr 2026 09:30:17 GMT"
     }
   ]
 }
