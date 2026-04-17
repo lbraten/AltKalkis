@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-17T21:44:05.489Z",
+  "updatedAt": "2026-04-17T22:41:56.179Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump: – Vi skal ta med Irans uran hjem til USA",
+      "link": "https://www.nrk.no/nyheter/trump_-_-vi-skal-ta-med-irans-uran-hjem-til-usa-1.17851701",
+      "category": "USA",
+      "pubDate": "Fri, 17 Apr 2026 22:22:13 GMT"
+    },
     {
       "title": "Mann pågrepet for vold mot ektepar i Porsgrunn",
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-for-vold-mot-ektepar-i-porsgrunn-1.17851699",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/politiet-matte-ta-i-bruk-pepperspray-og-elektrosjokkvapen-i-drammen-1.17851669",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 17 Apr 2026 20:37:01 GMT"
-    },
-    {
-      "title": "Nye rekorder på Wall Street etter oljeprisfall",
-      "link": "https://www.nrk.no/nyheter/nye-rekorder-pa-wall-street-etter-oljeprisfall-1.17851640",
-      "category": "Uro på børsene",
-      "pubDate": "Fri, 17 Apr 2026 20:29:31 GMT"
     }
   ]
 }
