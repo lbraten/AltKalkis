@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-17T17:25:01.115Z",
+  "updatedAt": "2026-04-17T18:12:12.159Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "MC-ulykke i Asker",
+      "link": "https://www.nrk.no/stor-oslo/mc-ulykke-i-asker-1.17851601",
+      "category": "Trafikk i Stor-Oslo",
+      "pubDate": "Fri, 17 Apr 2026 18:11:18 GMT"
+    },
+    {
+      "title": "Equinor øker produksjonen på Mongstad",
+      "link": "https://www.nrk.no/nyheter/equinor-oker-produksjonen-pa-mongstad--1.17851563",
+      "category": "Høye drivstoffpriser",
+      "pubDate": "Fri, 17 Apr 2026 17:31:40 GMT"
+    },
     {
       "title": "Svensker oppfordres til ikke å mate småfugler",
       "link": "https://www.nrk.no/nyheter/svensker-oppfordres-til-ikke-a-mate-smafugler-1.17851507",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-usa-skal-hente-uran-ut-av-iran-1.17851463",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 17 Apr 2026 15:51:53 GMT"
-    },
-    {
-      "title": "Iran truer med å stenge Hormuzstredet hvis USA opprettholder blokade",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-stenge-hormuzstredet-hvis-usa-opprettholder-blokade-1.17851462",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Apr 2026 15:11:32 GMT"
-    },
-    {
-      "title": "En drept i israelsk droneangrep i Libanon",
-      "link": "https://www.nrk.no/nyheter/en-drept-i-israelsk-droneangrep-i-libanon-1.17851434",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 17 Apr 2026 15:10:06 GMT"
     }
   ]
 }
