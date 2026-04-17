@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-17T22:41:56.179Z",
+  "updatedAt": "2026-04-17T23:40:57.355Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran truer med å stenge Hormuzstredet dersom USA fortsetter med blokaden",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-stenge-hormuzstredet-dersom-usa-fortsetter-med-blokaden-1.17851706",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Fri, 17 Apr 2026 23:14:06 GMT"
+    },
+    {
+      "title": "Trump varsler at UFO-dokumenter snart vil bli frigitt",
+      "link": "https://www.nrk.no/nyheter/trump-varsler-at-ufo-dokumenter-snart-vil-bli-frigitt-1.17851702",
+      "category": "USA",
+      "pubDate": "Fri, 17 Apr 2026 22:58:03 GMT"
+    },
     {
       "title": "Trump: – Vi skal ta med Irans uran hjem til USA",
       "link": "https://www.nrk.no/nyheter/trump_-_-vi-skal-ta-med-irans-uran-hjem-til-usa-1.17851701",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/haiti-og-den-dominikanske-republikk-gjenapner-luftrommet-1.17851684",
       "category": "Haiti",
       "pubDate": "Fri, 17 Apr 2026 20:46:54 GMT"
-    },
-    {
-      "title": "En person til sykehus etter at fritidsbåt kjørte i brygge i Ålesund",
-      "link": "https://www.nrk.no/nyheter/en-person-til-sykehus-etter-at-fritidsbat-kjorte-i-brygge-i-alesund-1.17851679",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 17 Apr 2026 20:39:39 GMT"
-    },
-    {
-      "title": "Politiet måtte ta i bruk pepperspray og elektrosjokkvåpen i Drammen",
-      "link": "https://www.nrk.no/nyheter/politiet-matte-ta-i-bruk-pepperspray-og-elektrosjokkvapen-i-drammen-1.17851669",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 17 Apr 2026 20:37:01 GMT"
     }
   ]
 }
