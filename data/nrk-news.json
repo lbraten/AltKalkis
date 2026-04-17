@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-17T09:54:45.800Z",
+  "updatedAt": "2026-04-17T10:59:10.920Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Regjeringen oppretter senter for alternativer til dyreforsøk",
+      "link": "https://www.nrk.no/nyheter/regjeringen-oppretter-senter-for-alternativer-til-dyreforsok-1.17850989",
+      "category": "Dyrevelferd",
+      "pubDate": "Fri, 17 Apr 2026 10:52:23 GMT"
+    },
+    {
+      "title": "UNHCR: Nesten 900 Rohingya-flyktninger døde eller savnet i fjor",
+      "link": "https://www.nrk.no/nyheter/unhcr_-nesten-900-rohingya-flyktninger-dode-eller-savnet-i-fjor-1.17850939",
+      "category": "Myanmar",
+      "pubDate": "Fri, 17 Apr 2026 10:42:20 GMT"
+    },
+    {
+      "title": "Den svenske kongen på besøk i Ukraina",
+      "link": "https://www.nrk.no/nyheter/den-svenske-kongen-pa-besok-i-ukraina-1.17850938",
+      "category": "Den svenske kongefamilien",
+      "pubDate": "Fri, 17 Apr 2026 10:04:06 GMT"
+    },
+    {
+      "title": "UDI etablerer 24 nye asylmottak med 3600 plasser",
+      "link": "https://www.nrk.no/nyheter/udi-etablerer-24-nye-asylmottak-med-3600-plasser-1.17850912",
+      "category": "Norsk flyktning- og asylpolitikk",
+      "pubDate": "Fri, 17 Apr 2026 10:02:09 GMT"
+    },
     {
       "title": "Skatteetaten: Kryptoeiere har selv ansvar for å fylle inn kryptovaluta i skattemeldingen",
       "link": "https://www.nrk.no/nyheter/skatteetaten_-kryptoeiere-har-selv-ansvar-for-a-fylle-inn-kryptovaluta-i-skattemeldingen-1.17850897",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sverige-setter-av-milliarder-til-kjernekraft-1.17850879",
       "category": "Sverige",
       "pubDate": "Fri, 17 Apr 2026 09:30:17 GMT"
-    },
-    {
-      "title": "Mekling for hotell- og restaurantbransjen",
-      "link": "https://www.nrk.no/nyheter/mekling-for-hotell--og-restaurantbransjen-1.17850866",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Fri, 17 Apr 2026 09:25:20 GMT"
-    },
-    {
-      "title": "Fortsatt brann i russisk havn etter ukrainsk angrep",
-      "link": "https://www.nrk.no/nyheter/fortsatt-brann-i-russisk-havn-etter-ukrainsk-angrep-1.17850793",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 17 Apr 2026 09:19:35 GMT"
-    },
-    {
-      "title": "Nå er åpningsdatoen for Mo i Rana flyplass klar",
-      "link": "https://www.nrk.no/nordland/na-er-apningsdatoen-for-mo-i-rana-flyplass-klar-1.17850761",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 17 Apr 2026 09:12:45 GMT"
-    },
-    {
-      "title": "Coop Norge tilbakekaller agurker i skiver",
-      "link": "https://www.nrk.no/nyheter/coop-norge-tilbakekaller-agurker-i-skiver-1.17850779",
-      "category": "Mattrygghet",
-      "pubDate": "Fri, 17 Apr 2026 08:37:18 GMT"
     }
   ]
 }
