@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-17T16:07:33.647Z",
+  "updatedAt": "2026-04-17T17:25:01.115Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Svensker oppfordres til ikke å mate småfugler",
+      "link": "https://www.nrk.no/nyheter/svensker-oppfordres-til-ikke-a-mate-smafugler-1.17851507",
+      "category": "Sverige",
+      "pubDate": "Fri, 17 Apr 2026 16:58:58 GMT"
+    },
+    {
+      "title": "Næringsministeren åpner for å øke drivstofflagrene",
+      "link": "https://www.nrk.no/nyheter/naeringsministeren-apner-for-a-oke-drivstofflagrene-1.17851539",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 17 Apr 2026 16:32:07 GMT"
+    },
     {
       "title": "Nora Haukland vil klage inn VG og Aftenposten til PFU",
       "link": "https://www.nrk.no/nyheter/nora-haukland-vil-klage-inn-vg-og-aftenposten-til-pfu-1.17851503",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-drept-i-israelsk-droneangrep-i-libanon-1.17851434",
       "category": "Libanon og Israel",
       "pubDate": "Fri, 17 Apr 2026 15:10:06 GMT"
-    },
-    {
-      "title": "Oslo Børs kraftig ned i dag",
-      "link": "https://www.nrk.no/nyheter/oslo-bors-kraftig-ned-i-dag-1.17851423",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 17 Apr 2026 14:42:28 GMT"
-    },
-    {
-      "title": "Trump: Iran fjerner miner",
-      "link": "https://www.nrk.no/nyheter/trump_-iran-fjerner-miner-1.17851419",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Apr 2026 14:28:50 GMT"
     }
   ]
 }
