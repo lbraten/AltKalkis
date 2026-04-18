@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-18T06:46:14.119Z",
+  "updatedAt": "2026-04-18T07:59:55.253Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tenåringer sendes på leir for å bli krigsinfluensere",
+      "link": "https://www.nrk.no/nyheter/tenaringer-sendes-pa-leir-for-a-bli-krigsinfluensere-1.17851745",
+      "category": "Russland",
+      "pubDate": "Sat, 18 Apr 2026 07:04:34 GMT"
+    },
     {
       "title": "Flere skip gjennom Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/flere-skip-gjennom-hormuzstredet-1.17851726",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bygning-overtent-pa-askoy--1.17851718",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 18 Apr 2026 03:28:37 GMT"
-    },
-    {
-      "title": "USA og Cuba møttes i Havanna i nytt diplomatisk fremstøt",
-      "link": "https://www.nrk.no/nyheter/usa-og-cuba-mottes-i-havanna-i-nytt-diplomatisk-fremstot-1.17851715",
-      "category": "Cuba",
-      "pubDate": "Sat, 18 Apr 2026 03:11:59 GMT"
     }
   ]
 }
