@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-18T11:57:28.884Z",
+  "updatedAt": "2026-04-18T13:20:13.692Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Machado angrar ikkje på at ho gav bor fredsprisen",
+      "link": "https://www.nrk.no/nyheter/machado-angrar-ikkje-pa-at-ho-gav-bor-fredsprisen-1.17852030",
+      "category": "Nobels fredspris",
+      "pubDate": "Sat, 18 Apr 2026 13:11:53 GMT"
+    },
+    {
+      "title": "Streikane i Lufthansa er over",
+      "link": "https://www.nrk.no/nyheter/streikane-i-lufthansa-er-over-1.17851993",
+      "category": "Lufthansa",
+      "pubDate": "Sat, 18 Apr 2026 12:58:43 GMT"
+    },
+    {
+      "title": "En person skadet i arbeidsulykke i Rypefjord",
+      "link": "https://www.nrk.no/tromsogfinnmark/en-person-skadet-i-arbeidsulykke-i-rypefjord-1.17851977",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 18 Apr 2026 12:30:08 GMT"
+    },
+    {
+      "title": "Fransk FN-soldat drept i Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/fransk-fn-soldat-drept-i-sor-libanon-1.17851964",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Apr 2026 12:05:54 GMT"
+    },
     {
       "title": "Norges Rederiforbund om Hormuz: – Uoversiktlig",
       "link": "https://www.nrk.no/nyheter/norges-rederiforbund-om-hormuz_-_-uoversiktlig--1.17851903",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-gjennomforer-nye-angrep-i-sor-libanon-1.17851835",
       "category": "Libanon og Israel",
       "pubDate": "Sat, 18 Apr 2026 11:38:13 GMT"
-    },
-    {
-      "title": "Reuters: To skip ble beskutt da de forsøkte å krysse Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/reuters_-to-skip-ble-beskutt-da-de-forsokte-a-krysse-hormuzstredet-1.17851831",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Apr 2026 10:43:18 GMT"
-    },
-    {
-      "title": "Mann etterlyst etter overfall – knyttes også til overfallsvoldtekt i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/mann-etterlyst-etter-overfall-_-knyttes-ogsa-til-overfallsvoldtekt-i-oslo--1.17851824",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 18 Apr 2026 09:44:54 GMT"
-    },
-    {
-      "title": "Fekk melding om pistol – var leikepistol",
-      "link": "https://www.nrk.no/vestland/fekk-melding-om-pistol-_-var-leikepistol-1.17851783",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 18 Apr 2026 08:55:33 GMT"
-    },
-    {
-      "title": "Politiet jakter gjerningsperson etter knivstikking i Askim",
-      "link": "https://www.nrk.no/ostfold/politiet-jakter-gjerningsperson-etter-knivstikking-i-askim-1.17851792",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 18 Apr 2026 08:50:07 GMT"
     }
   ]
 }
