@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-18T09:01:55.541Z",
+  "updatedAt": "2026-04-18T10:07:51.060Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fekk melding om pistol – var leikepistol",
+      "link": "https://www.nrk.no/vestland/fekk-melding-om-pistol-_-var-leikepistol-1.17851783",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 18 Apr 2026 08:55:33 GMT"
+    },
     {
       "title": "Politiet jakter gjerningsperson etter knivstikking i Askim",
       "link": "https://www.nrk.no/ostfold/politiet-jakter-gjerningsperson-etter-knivstikking-i-askim-1.17851792",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-skip-gjennom-hormuzstredet-1.17851726",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 18 Apr 2026 06:10:08 GMT"
-    },
-    {
-      "title": "Lastebil kjørte av veien i Lier – veien er stengt",
-      "link": "https://www.nrk.no/nyheter/lastebil-kjorte-av-veien-i-lier-_-veien-er-stengt-1.17851723",
-      "category": "Trafikk i Buskerud",
-      "pubDate": "Sat, 18 Apr 2026 05:34:56 GMT"
     }
   ]
 }
