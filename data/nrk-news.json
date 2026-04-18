@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-18T19:22:35.832Z",
+  "updatedAt": "2026-04-18T19:59:45.676Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brasil, Spania og Mexico vil auke bistanden til Cuba",
+      "link": "https://www.nrk.no/nyheter/brasil_-spania-og-mexico-vil-auke-bistanden-til-cuba-1.17852296",
+      "category": "Cuba",
+      "pubDate": "Sat, 18 Apr 2026 19:31:01 GMT"
+    },
     {
       "title": "Mann omkom i bilulykke i Flesberg",
       "link": "https://www.nrk.no/nyheter/mann-omkom-i-bilulykke-i-flesberg-1.17852293",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hedvig-mollestad-fekk-buddy-prisen-1.17852269",
       "category": "Musikk",
       "pubDate": "Sat, 18 Apr 2026 18:49:11 GMT"
-    },
-    {
-      "title": "Elisabeth Meling valt til leiar for Partiet Sentrum",
-      "link": "https://www.nrk.no/nyheter/elisabeth-meling-valt-til-leiar-for-partiet-sentrum-1.17852246",
-      "category": "Partiet Sentrum",
-      "pubDate": "Sat, 18 Apr 2026 18:32:34 GMT"
     }
   ]
 }
