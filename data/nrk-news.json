@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-18T20:49:11.623Z",
+  "updatedAt": "2026-04-18T21:38:18.443Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Boligbrann på Ringsaker",
+      "link": "https://www.nrk.no/nyheter/boligbrann-pa-ringsaker-1.17852341",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 18 Apr 2026 21:33:53 GMT"
+    },
     {
       "title": "Brasil, Spania og Mexico vil auke bistanden til Cuba",
       "link": "https://www.nrk.no/nyheter/brasil_-spania-og-mexico-vil-auke-bistanden-til-cuba-1.17852296",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hizbollahs-leiar-seier-dei-vil-svare-pa-angrep-1.17852278",
       "category": "Libanon og Israel",
       "pubDate": "Sat, 18 Apr 2026 19:04:04 GMT"
-    },
-    {
-      "title": "Hedvig Mollestad fekk Buddy-prisen",
-      "link": "https://www.nrk.no/nyheter/hedvig-mollestad-fekk-buddy-prisen-1.17852269",
-      "category": "Musikk",
-      "pubDate": "Sat, 18 Apr 2026 18:49:11 GMT"
     }
   ]
 }
