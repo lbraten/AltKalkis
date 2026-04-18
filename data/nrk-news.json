@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-04-18T15:06:43.156Z",
+  "updatedAt": "2026-04-18T16:02:04.255Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Reuters: Fleire drepne og skadde i skyteepisode i Kyiv",
-      "link": "https://www.nrk.no/nyheter/reuters_-fleire-drepne-og-skadde-i-skyteepisode-i-kyiv-1.17852086",
+      "title": "Tyskland: Tusenvis i klimademonstrasjonar",
+      "link": "https://www.nrk.no/nyheter/tyskland_-tusenvis-i-klimademonstrasjonar-1.17852109",
+      "category": "Tyskland",
+      "pubDate": "Sat, 18 Apr 2026 15:18:40 GMT"
+    },
+    {
+      "title": "Mistenkt i skyteepisode i Kyiv er drepen",
+      "link": "https://www.nrk.no/nyheter/mistenkt-i-skyteepisode-i-kyiv-er-drepen-1.17852086",
       "category": "Ukraina",
       "pubDate": "Sat, 18 Apr 2026 14:51:14 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fordommer-angrep-mot-fn-soldatar-i-libanon-1.17852043",
       "category": "Libanon",
       "pubDate": "Sat, 18 Apr 2026 13:34:53 GMT"
-    },
-    {
-      "title": "Machado angrar ikkje på at ho gav bort Nobelmedaljen",
-      "link": "https://www.nrk.no/nyheter/machado-angrar-ikkje-pa-at-ho-gav-bort-nobelmedaljen-1.17852030",
-      "category": "Nobels fredspris",
-      "pubDate": "Sat, 18 Apr 2026 13:11:53 GMT"
     }
   ]
 }
