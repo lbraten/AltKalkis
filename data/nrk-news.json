@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-18T17:05:49.251Z",
+  "updatedAt": "2026-04-18T18:02:54.074Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Seks stadfesta drepne i skyteepisode i Kyiv",
+      "link": "https://www.nrk.no/nyheter/seks-stadfesta-drepne-i-skyteepisode-i-kyiv-1.17852123",
+      "category": "Ukraina",
+      "pubDate": "Sat, 18 Apr 2026 18:00:00 GMT"
+    },
+    {
+      "title": "Stjal gullklokke i sikkerhetskontrollen",
+      "link": "https://www.nrk.no/stor-oslo/stjal-gullklokke-i-sikkerhetskontrollen-1.17852214",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 18 Apr 2026 17:10:01 GMT"
+    },
     {
       "title": "Tyskland: Tusenvis i klimademonstrasjonar",
       "link": "https://www.nrk.no/nyheter/tyskland_-tusenvis-i-klimademonstrasjonar-1.17852109",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/pave-leo-seier-tale-ikkje-var-retta-mot-trump-1.17852055",
       "category": "Paven og Vatikanet",
       "pubDate": "Sat, 18 Apr 2026 14:04:09 GMT"
-    },
-    {
-      "title": "Trump om Iran: – Gode samtaler",
-      "link": "https://www.nrk.no/nyheter/trump-om-iran_-_-gode-samtaler-1.17852040",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 18 Apr 2026 13:50:32 GMT"
-    },
-    {
-      "title": "Fordømmer angrep mot FN-soldatar i Libanon",
-      "link": "https://www.nrk.no/nyheter/fordommer-angrep-mot-fn-soldatar-i-libanon-1.17852043",
-      "category": "Libanon",
-      "pubDate": "Sat, 18 Apr 2026 13:34:53 GMT"
     }
   ]
 }
