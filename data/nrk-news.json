@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-18T07:59:55.253Z",
+  "updatedAt": "2026-04-18T09:01:55.541Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet jakter gjerningsperson etter knivstikking i Askim",
+      "link": "https://www.nrk.no/ostfold/politiet-jakter-gjerningsperson-etter-knivstikking-i-askim-1.17851792",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 18 Apr 2026 08:50:07 GMT"
+    },
+    {
+      "title": "Statlige medier: Iran har stengt Hormuzstredet igjen",
+      "link": "https://www.nrk.no/nyheter/statlige-medier_-iran-har-stengt-hormuzstredet-igjen-1.17851724",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Apr 2026 08:19:44 GMT"
+    },
+    {
+      "title": "DN: Norsk rederi sender skip mot Hormuz",
+      "link": "https://www.nrk.no/nyheter/dn_-norsk-rederi-sender-skip-mot-hormuz-1.17851790",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Apr 2026 08:13:44 GMT"
+    },
     {
       "title": "Tenåringer sendes på leir for å bli krigsinfluensere",
       "link": "https://www.nrk.no/nyheter/tenaringer-sendes-pa-leir-for-a-bli-krigsinfluensere-1.17851745",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/lastebil-kjorte-av-veien-i-lier-_-veien-er-stengt-1.17851723",
       "category": "Trafikk i Buskerud",
       "pubDate": "Sat, 18 Apr 2026 05:34:56 GMT"
-    },
-    {
-      "title": "Bil kjørte i motsatt retning på E6: – Kjørte som en villmann",
-      "link": "https://www.nrk.no/nyheter/bil-kjorte-i-motsatt-retning-pa-e6_-_-kjorte-som-en-villmann--1.17851720",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 18 Apr 2026 04:08:52 GMT"
-    },
-    {
-      "title": "Trump sier våpenhvilen kan opphøre dersom ingen avtale nås innen onsdag",
-      "link": "https://www.nrk.no/nyheter/trump-sier-vapenhvilen-kan-opphore-dersom-ingen-avtale-nas-innen-onsdag-1.17851719",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 18 Apr 2026 03:59:30 GMT"
-    },
-    {
-      "title": "Bygning overtent på Askøy",
-      "link": "https://www.nrk.no/nyheter/bygning-overtent-pa-askoy--1.17851718",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 18 Apr 2026 03:28:37 GMT"
     }
   ]
 }
