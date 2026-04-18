@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-18T14:09:41.999Z",
+  "updatedAt": "2026-04-18T15:06:43.156Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Reuters: Fleire drepne og skadde i skyteepisode i Kyiv",
+      "link": "https://www.nrk.no/nyheter/reuters_-fleire-drepne-og-skadde-i-skyteepisode-i-kyiv-1.17852086",
+      "category": "Ukraina",
+      "pubDate": "Sat, 18 Apr 2026 14:51:14 GMT"
+    },
+    {
+      "title": "Hizbollah nektar for å stå bak angrep mot FN-soldatar",
+      "link": "https://www.nrk.no/nyheter/hizbollah-nektar-for-a-sta-bak-angrep-mot-fn-soldatar-1.17852064",
+      "category": "Libanon",
+      "pubDate": "Sat, 18 Apr 2026 14:30:01 GMT"
+    },
     {
       "title": "Pave Leo seier tale ikkje var retta mot Trump",
       "link": "https://www.nrk.no/nyheter/pave-leo-seier-tale-ikkje-var-retta-mot-trump-1.17852055",
@@ -21,22 +33,10 @@
       "pubDate": "Sat, 18 Apr 2026 13:34:53 GMT"
     },
     {
-      "title": "Machado angrar ikkje på at ho gav bor fredsprisen",
-      "link": "https://www.nrk.no/nyheter/machado-angrar-ikkje-pa-at-ho-gav-bor-fredsprisen-1.17852030",
+      "title": "Machado angrar ikkje på at ho gav bort Nobelmedaljen",
+      "link": "https://www.nrk.no/nyheter/machado-angrar-ikkje-pa-at-ho-gav-bort-nobelmedaljen-1.17852030",
       "category": "Nobels fredspris",
       "pubDate": "Sat, 18 Apr 2026 13:11:53 GMT"
-    },
-    {
-      "title": "Streikane i Lufthansa er over",
-      "link": "https://www.nrk.no/nyheter/streikane-i-lufthansa-er-over-1.17851993",
-      "category": "Lufthansa",
-      "pubDate": "Sat, 18 Apr 2026 12:58:43 GMT"
-    },
-    {
-      "title": "En person skadet i arbeidsulykke i Rypefjord",
-      "link": "https://www.nrk.no/tromsogfinnmark/en-person-skadet-i-arbeidsulykke-i-rypefjord-1.17851977",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 18 Apr 2026 12:30:08 GMT"
     }
   ]
 }
