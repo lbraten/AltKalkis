@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-17T23:40:57.355Z",
+  "updatedAt": "2026-04-18T02:37:42.475Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i russisk oljeterminal",
+      "link": "https://www.nrk.no/nyheter/brann-i-russisk-oljeterminal-1.17851714",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 18 Apr 2026 01:58:14 GMT"
+    },
+    {
+      "title": "USA forlenger sanksjonsunntak for russisk olje",
+      "link": "https://www.nrk.no/nyheter/usa-forlenger-sanksjonsunntak-for-russisk-olje-1.17851707",
+      "category": "USA",
+      "pubDate": "Sat, 18 Apr 2026 01:56:34 GMT"
+    },
     {
       "title": "Iran truer med å stenge Hormuzstredet dersom USA fortsetter med blokaden",
       "link": "https://www.nrk.no/nyheter/iran-truer-med-a-stenge-hormuzstredet-dersom-usa-fortsetter-med-blokaden-1.17851706",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-for-vold-mot-ektepar-i-porsgrunn-1.17851699",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Fri, 17 Apr 2026 21:39:11 GMT"
-    },
-    {
-      "title": "Trump er optimistisk før nye samtaler med Iran",
-      "link": "https://www.nrk.no/nyheter/trump-er-optimistisk-for-nye-samtaler-med-iran-1.17851690",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Apr 2026 21:28:29 GMT"
-    },
-    {
-      "title": "Haiti og Den dominikanske republikk gjenåpner luftrommet",
-      "link": "https://www.nrk.no/nyheter/haiti-og-den-dominikanske-republikk-gjenapner-luftrommet-1.17851684",
-      "category": "Haiti",
-      "pubDate": "Fri, 17 Apr 2026 20:46:54 GMT"
     }
   ]
 }
