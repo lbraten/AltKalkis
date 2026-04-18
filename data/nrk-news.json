@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-18T22:38:01.267Z",
+  "updatedAt": "2026-04-18T23:37:44.780Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Titanic-redningsvest solgt for rundt 8,5 millioner kroner",
+      "link": "https://www.nrk.no/nyheter/titanic-redningsvest-solgt-for-rundt-8_5-millioner-kroner-1.17852371",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 18 Apr 2026 23:34:17 GMT"
+    },
+    {
+      "title": "Voldshendelse i Fredrikstad – en person til sykehus",
+      "link": "https://www.nrk.no/nyheter/voldshendelse-i-fredrikstad-_-en-person-til-sykehus-1.17852360",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 18 Apr 2026 23:02:28 GMT"
+    },
+    {
+      "title": "Nord-Korea avfyrte ballistisk missil",
+      "link": "https://www.nrk.no/nyheter/nord-korea-avfyrte-ballistisk-missil-1.17852368",
+      "category": "Nord-Korea",
+      "pubDate": "Sat, 18 Apr 2026 22:48:39 GMT"
+    },
+    {
+      "title": "Finsk racerbilfører omkom på tysk racerbane",
+      "link": "https://www.nrk.no/nyheter/finsk-racerbilforer-omkom-pa-tysk-racerbane-1.17852367",
+      "category": "Tyskland",
+      "pubDate": "Sat, 18 Apr 2026 22:48:02 GMT"
+    },
     {
       "title": "Mindreårig kjørte inn i et gjerde i Mosjøen",
       "link": "https://www.nrk.no/nyheter/mindrearig-kjorte-inn-i-et-gjerde-i-mosjoen-1.17852366",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kraftig-gressbrann-ved-nevernes-i-sortland-1.17852365",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sat, 18 Apr 2026 22:31:41 GMT"
-    },
-    {
-      "title": "Russland: Fredssamtaler med Ukraina er ikke vår høyeste prioritet",
-      "link": "https://www.nrk.no/nyheter/russland_-fredssamtaler-med-ukraina-er-ikke-var-hoyeste-prioritet-1.17852364",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 18 Apr 2026 22:28:14 GMT"
-    },
-    {
-      "title": "Irans sjefsforhandler: – Fremgang, men stor avstand",
-      "link": "https://www.nrk.no/nyheter/irans-sjefsforhandler_-_-fremgang_-men-stor-avstand-1.17852363",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 18 Apr 2026 22:24:04 GMT"
-    },
-    {
-      "title": "Ny svensk rapport viser at kvinner er mer ute i naturen enn menn",
-      "link": "https://www.nrk.no/nyheter/ny-svensk-rapport-viser-at-kvinner-er-mer-ute-i-naturen-enn-menn-1.17852312",
-      "category": "Sverige",
-      "pubDate": "Sat, 18 Apr 2026 22:16:21 GMT"
-    },
-    {
-      "title": "Parat og NHO Reiseliv mekler på overtid – faren for hotellstreik uavklart",
-      "link": "https://www.nrk.no/nyheter/-parat-og-nho-reiseliv-mekler-pa-overtid-_-faren-for-hotellstreik-uavklart-1.17852354",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sat, 18 Apr 2026 22:02:00 GMT"
     }
   ]
 }
