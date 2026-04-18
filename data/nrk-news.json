@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-18T11:08:02.626Z",
+  "updatedAt": "2026-04-18T11:57:28.884Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norges Rederiforbund om Hormuz: – Uoversiktlig",
+      "link": "https://www.nrk.no/nyheter/norges-rederiforbund-om-hormuz_-_-uoversiktlig--1.17851903",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Apr 2026 11:54:11 GMT"
+    },
+    {
+      "title": "Israel gjennomfører nye angrep i Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-gjennomforer-nye-angrep-i-sor-libanon-1.17851835",
+      "category": "Libanon og Israel",
+      "pubDate": "Sat, 18 Apr 2026 11:38:13 GMT"
+    },
     {
       "title": "Reuters: To skip ble beskutt da de forsøkte å krysse Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/reuters_-to-skip-ble-beskutt-da-de-forsokte-a-krysse-hormuzstredet-1.17851831",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/ostfold/politiet-jakter-gjerningsperson-etter-knivstikking-i-askim-1.17851792",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sat, 18 Apr 2026 08:50:07 GMT"
-    },
-    {
-      "title": "Statlige medier: Iran har stengt Hormuzstredet igjen",
-      "link": "https://www.nrk.no/nyheter/statlige-medier_-iran-har-stengt-hormuzstredet-igjen-1.17851724",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Apr 2026 08:19:44 GMT"
-    },
-    {
-      "title": "DN: Norsk rederi sender skip mot Hormuz",
-      "link": "https://www.nrk.no/nyheter/dn_-norsk-rederi-sender-skip-mot-hormuz-1.17851790",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Apr 2026 08:13:44 GMT"
     }
   ]
 }
