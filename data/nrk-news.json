@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-18T13:20:13.692Z",
+  "updatedAt": "2026-04-18T14:09:41.999Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Pave Leo seier tale ikkje var retta mot Trump",
+      "link": "https://www.nrk.no/nyheter/pave-leo-seier-tale-ikkje-var-retta-mot-trump-1.17852055",
+      "category": "Paven og Vatikanet",
+      "pubDate": "Sat, 18 Apr 2026 14:04:09 GMT"
+    },
+    {
+      "title": "Trump om Iran: – Gode samtaler",
+      "link": "https://www.nrk.no/nyheter/trump-om-iran_-_-gode-samtaler-1.17852040",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 18 Apr 2026 13:50:32 GMT"
+    },
+    {
+      "title": "Fordømmer angrep mot FN-soldatar i Libanon",
+      "link": "https://www.nrk.no/nyheter/fordommer-angrep-mot-fn-soldatar-i-libanon-1.17852043",
+      "category": "Libanon",
+      "pubDate": "Sat, 18 Apr 2026 13:34:53 GMT"
+    },
     {
       "title": "Machado angrar ikkje på at ho gav bor fredsprisen",
       "link": "https://www.nrk.no/nyheter/machado-angrar-ikkje-pa-at-ho-gav-bor-fredsprisen-1.17852030",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/en-person-skadet-i-arbeidsulykke-i-rypefjord-1.17851977",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sat, 18 Apr 2026 12:30:08 GMT"
-    },
-    {
-      "title": "Fransk FN-soldat drept i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/fransk-fn-soldat-drept-i-sor-libanon-1.17851964",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Apr 2026 12:05:54 GMT"
-    },
-    {
-      "title": "Norges Rederiforbund om Hormuz: – Uoversiktlig",
-      "link": "https://www.nrk.no/nyheter/norges-rederiforbund-om-hormuz_-_-uoversiktlig--1.17851903",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Apr 2026 11:54:11 GMT"
-    },
-    {
-      "title": "Israel gjennomfører nye angrep i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-gjennomforer-nye-angrep-i-sor-libanon-1.17851835",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 18 Apr 2026 11:38:13 GMT"
     }
   ]
 }
