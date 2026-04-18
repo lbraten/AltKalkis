@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-18T02:37:42.475Z",
+  "updatedAt": "2026-04-18T05:09:03.947Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bil kjørte i motsatt retning på E6 i Oslo",
+      "link": "https://www.nrk.no/nyheter/bil-kjorte-i-motsatt-retning-pa-e6-i-oslo-1.17851720",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 18 Apr 2026 04:08:52 GMT"
+    },
+    {
+      "title": "Trump sier våpenhvilen kan opphøre dersom ingen avtale nås innen onsdag",
+      "link": "https://www.nrk.no/nyheter/trump-sier-vapenhvilen-kan-opphore-dersom-ingen-avtale-nas-innen-onsdag-1.17851719",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 18 Apr 2026 03:59:30 GMT"
+    },
+    {
+      "title": "Bygning overtent på Askøy",
+      "link": "https://www.nrk.no/nyheter/bygning-overtent-pa-askoy--1.17851718",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 18 Apr 2026 03:28:37 GMT"
+    },
+    {
+      "title": "USA og Cuba møttes i Havanna i nytt diplomatisk fremstøt",
+      "link": "https://www.nrk.no/nyheter/usa-og-cuba-mottes-i-havanna-i-nytt-diplomatisk-fremstot-1.17851715",
+      "category": "Cuba",
+      "pubDate": "Sat, 18 Apr 2026 03:11:59 GMT"
+    },
+    {
+      "title": "Over én million har fått skatteoppgjøret",
+      "link": "https://www.nrk.no/nyheter/over-en-million-har-fatt-skatteoppgjoret--1.17851716",
+      "category": "Skattemeldingen",
+      "pubDate": "Sat, 18 Apr 2026 03:08:43 GMT"
+    },
     {
       "title": "Brann i russisk oljeterminal",
       "link": "https://www.nrk.no/nyheter/brann-i-russisk-oljeterminal-1.17851714",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 18 Apr 2026 01:58:14 GMT"
-    },
-    {
-      "title": "USA forlenger sanksjonsunntak for russisk olje",
-      "link": "https://www.nrk.no/nyheter/usa-forlenger-sanksjonsunntak-for-russisk-olje-1.17851707",
-      "category": "USA",
-      "pubDate": "Sat, 18 Apr 2026 01:56:34 GMT"
-    },
-    {
-      "title": "Iran truer med å stenge Hormuzstredet dersom USA fortsetter med blokaden",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-stenge-hormuzstredet-dersom-usa-fortsetter-med-blokaden-1.17851706",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Fri, 17 Apr 2026 23:14:06 GMT"
-    },
-    {
-      "title": "Trump varsler at UFO-dokumenter snart vil bli frigitt",
-      "link": "https://www.nrk.no/nyheter/trump-varsler-at-ufo-dokumenter-snart-vil-bli-frigitt-1.17851702",
-      "category": "USA",
-      "pubDate": "Fri, 17 Apr 2026 22:58:03 GMT"
-    },
-    {
-      "title": "Trump: – Vi skal ta med Irans uran hjem til USA",
-      "link": "https://www.nrk.no/nyheter/trump_-_-vi-skal-ta-med-irans-uran-hjem-til-usa-1.17851701",
-      "category": "USA",
-      "pubDate": "Fri, 17 Apr 2026 22:22:13 GMT"
-    },
-    {
-      "title": "Mann pågrepet for vold mot ektepar i Porsgrunn",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-for-vold-mot-ektepar-i-porsgrunn-1.17851699",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 17 Apr 2026 21:39:11 GMT"
     }
   ]
 }
