@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-19T22:49:51.223Z",
+  "updatedAt": "2026-04-19T23:39:17.982Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisene stiger igjen",
+      "link": "https://www.nrk.no/nyheter/oljeprisene-stiger-igjen-1.17853012",
+      "category": "Oljeprisen",
+      "pubDate": "Sun, 19 Apr 2026 22:55:21 GMT"
+    },
+    {
+      "title": "Mekling på overtid i byggenæringen",
+      "link": "https://www.nrk.no/nyheter/mekling-pa-overtid-i-byggenaeringen-1.17853006",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 19 Apr 2026 22:50:27 GMT"
+    },
     {
       "title": "Iran anklager USA for brudd på våpenhvilen",
       "link": "https://www.nrk.no/nyheter/iran-anklager-usa-for-brudd-pa-vapenhvilen--1.17853008",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kim-jong-un-overvar-test-av-nye-ballistiske-missiler-1.17852988",
       "category": "Nord-Korea",
       "pubDate": "Sun, 19 Apr 2026 21:19:22 GMT"
-    },
-    {
-      "title": "UAE ber USA om økonomisk krisehjelp",
-      "link": "https://www.nrk.no/nyheter/uae-ber-usa-om-okonomisk-krisehjelp-1.17852981",
-      "category": "De forente arabiske emirater",
-      "pubDate": "Sun, 19 Apr 2026 20:42:49 GMT"
-    },
-    {
-      "title": "Gressbrannen på Hitra er slukket",
-      "link": "https://www.nrk.no/trondelag/gressbrannen-pa-hitra-er-slukket-1.17852793",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 19 Apr 2026 20:09:36 GMT"
     }
   ]
 }
