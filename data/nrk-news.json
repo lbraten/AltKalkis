@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-19T05:31:45.517Z",
+  "updatedAt": "2026-04-19T07:23:17.506Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Snarrådig bilist hindret fyllekjører på E6",
+      "link": "https://www.nrk.no/stor-oslo/snarradig-bilist-hindret-fyllekjorer-pa-e6-1.17852469",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 19 Apr 2026 06:51:41 GMT"
+    },
+    {
+      "title": "Pågrep mann med pistol i Trondheim",
+      "link": "https://www.nrk.no/trondelag/pagrep-mann-med-pistol-i-trondheim-1.17852434",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 19 Apr 2026 06:29:33 GMT"
+    },
     {
       "title": "Brudd i meklingen: Streik i hotell- og restaurantnæringen",
       "link": "https://www.nrk.no/nyheter/brudd-i-meklingen_--streik-i-hotell--og-restaurantnaeringen-1.17852379",
@@ -15,8 +27,8 @@
       "pubDate": "Sun, 19 Apr 2026 03:35:42 GMT"
     },
     {
-      "title": "Alvorlig trafikkulykke i Asker – én død",
-      "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-asker-_-en-dod-1.17852383",
+      "title": "Alvorlig trafikkulykke i Asker – én omkom",
+      "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-asker-_-en-omkom-1.17852383",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 19 Apr 2026 03:01:41 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bil-eksploderte-i-malmo-1.17852377",
       "category": "Sverige",
       "pubDate": "Sun, 19 Apr 2026 02:48:39 GMT"
-    },
-    {
-      "title": "Kvinne pågrepet etter å ha truet med kniv i veibanen i Ålesund",
-      "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-a-ha-truet-med-kniv-i-veibanen-i-alesund-1.17852375",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 19 Apr 2026 01:50:18 GMT"
-    },
-    {
-      "title": "Boligbrann i Kautokeino",
-      "link": "https://www.nrk.no/nyheter/boligbrann-i-kautokeino-1.17852376",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 19 Apr 2026 01:28:50 GMT"
     }
   ]
 }
