@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-19T08:31:53.397Z",
+  "updatedAt": "2026-04-19T09:49:45.513Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person tok seg ut av brennende bil",
+      "link": "https://www.nrk.no/sorlandet/person-tok-seg-ut-av-brennende-bil-1.17852497",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 19 Apr 2026 08:33:35 GMT"
+    },
     {
       "title": "Knyttes til minst seks overfall",
       "link": "https://www.nrk.no/stor-oslo/knyttes-til-minst-seks-overfall-1.17852496",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/resultatet-fra-peruansk-presidentvalg-trolig-ikke-klart-for-midten-av-mai-1.17852384",
       "category": "Peru",
       "pubDate": "Sun, 19 Apr 2026 03:35:42 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke i Asker – én omkom",
-      "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-asker-_-en-omkom-1.17852383",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 19 Apr 2026 03:01:41 GMT"
     }
   ]
 }
