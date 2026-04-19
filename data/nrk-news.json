@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-19T11:36:43.544Z",
+  "updatedAt": "2026-04-19T13:06:46.126Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Macron møter Libanons statsminister tysdag",
+      "link": "https://www.nrk.no/nyheter/macron-moter-libanons-statsminister-tysdag-1.17852667",
+      "category": "Frankrike",
+      "pubDate": "Sun, 19 Apr 2026 13:03:27 GMT"
+    },
+    {
+      "title": "Trump: Nye forhandlingar måndagd",
+      "link": "https://www.nrk.no/nyheter/trump_-nye-forhandlingar-mandagd-1.17852627",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 19 Apr 2026 12:56:42 GMT"
+    },
+    {
+      "title": "TV 2: Mona Juul sluttar i Utanriksdepartementet",
+      "link": "https://www.nrk.no/nyheter/tv-2_-mona-juul-sluttar-i-utanriksdepartementet-1.17852652",
+      "category": "Jeffrey Epstein-saken",
+      "pubDate": "Sun, 19 Apr 2026 12:42:03 GMT"
+    },
+    {
+      "title": "Mulig drapssak i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/mulig-drapssak-i-oslo-1.17852630",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 19 Apr 2026 12:20:17 GMT"
+    },
+    {
+      "title": "Iransk nyhetsbyrå: To tankskip stanset i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-to-tankskip-stanset-i-hormuzstredet-1.17852608",
+      "category": "Iran",
+      "pubDate": "Sun, 19 Apr 2026 11:57:15 GMT"
+    },
     {
       "title": "Iransk nyhetsbyrå: To utlendinger arrestert",
       "link": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-to-utlendinger-arrestert-1.17852580",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 19 Apr 2026 11:29:45 GMT"
-    },
-    {
-      "title": "Voldhendelse mellom flere personer",
-      "link": "https://www.nrk.no/sorlandet/voldhendelse-mellom-flere-personer-1.17852508",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 19 Apr 2026 11:25:38 GMT"
-    },
-    {
-      "title": "Politiet: Skigåer skadet etter fall i Troms",
-      "link": "https://www.nrk.no/nyheter/politiet_-skigaer-skadet-etter-fall-i-troms-1.17852398",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 19 Apr 2026 10:57:15 GMT"
-    },
-    {
-      "title": "Person tok seg ut av brennende bil",
-      "link": "https://www.nrk.no/sorlandet/person-tok-seg-ut-av-brennende-bil-1.17852497",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 19 Apr 2026 08:33:35 GMT"
-    },
-    {
-      "title": "Knyttes til minst seks overfall",
-      "link": "https://www.nrk.no/stor-oslo/knyttes-til-minst-seks-overfall-1.17852496",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 19 Apr 2026 08:24:07 GMT"
-    },
-    {
-      "title": "Snarrådig bilist hindret fyllekjører på E6",
-      "link": "https://www.nrk.no/stor-oslo/snarradig-bilist-hindret-fyllekjorer-pa-e6-1.17852469",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 19 Apr 2026 06:51:41 GMT"
     }
   ]
 }
