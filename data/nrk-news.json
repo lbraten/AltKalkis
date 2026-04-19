@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-19T18:02:45.552Z",
+  "updatedAt": "2026-04-19T19:23:20.449Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann omkom i trafikkulykke i Asker – sjåfør pågrepet",
+      "link": "https://www.nrk.no/stor-oslo/mann-omkom-i-trafikkulykke-i-asker-_-sjafor-pagrepet-1.17852824",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 19 Apr 2026 18:53:55 GMT"
+    },
+    {
+      "title": "Pakistans statsminister har snakka med Irans presidentd",
+      "link": "https://www.nrk.no/nyheter/pakistans-statsminister-har-snakka-med-irans-presidentd-1.17852903",
+      "category": "Pakistan",
+      "pubDate": "Sun, 19 Apr 2026 18:46:51 GMT"
+    },
+    {
+      "title": "Rykker ut til brann i 1890-bygård i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/rykker-ut-til-brann-i-1890-bygard-i-oslo-1.17852907",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 19 Apr 2026 18:25:37 GMT"
+    },
+    {
+      "title": "Israel gjenåpner ulovlig bosetting på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/israel-gjenapner-ulovlig-bosetting-pa-vestbredden-1.17852893",
+      "category": "Israel",
+      "pubDate": "Sun, 19 Apr 2026 18:17:39 GMT"
+    },
+    {
+      "title": "KrFU vil avskaffe 1. mai som fridag",
+      "link": "https://www.nrk.no/nyheter/krfu-vil-avskaffe-1.-mai-som-fridag-1.17852831",
+      "category": "Kristelig folkeparti (KrF)",
+      "pubDate": "Sun, 19 Apr 2026 18:03:59 GMT"
+    },
     {
       "title": "Storm og Emma viser fram kjærleiken",
       "link": "https://www.nrk.no/nyheter/storm-og-emma-viser-fram-kjaerleiken-1.17852822",
       "category": "MGP og Eurovision Song Contest 2026",
       "pubDate": "Sun, 19 Apr 2026 16:56:12 GMT"
-    },
-    {
-      "title": "Valgdagsmåling i Bulgaria: Ekspresident Radevs parti leder",
-      "link": "https://www.nrk.no/nyheter/valgdagsmaling-i-bulgaria_-ekspresident-radevs-parti-leder-1.17852811",
-      "category": "Bulgaria",
-      "pubDate": "Sun, 19 Apr 2026 16:53:00 GMT"
-    },
-    {
-      "title": "Ukrainas politipatruljesjef går av etter Kyiv-skytingen",
-      "link": "https://www.nrk.no/nyheter/ukrainas-politipatruljesjef-gar-av-etter-kyiv-skytingen-1.17852795",
-      "category": "Ukraina",
-      "pubDate": "Sun, 19 Apr 2026 16:29:07 GMT"
-    },
-    {
-      "title": "Brann i rekkehus på Stord",
-      "link": "https://www.nrk.no/vestland/brann-i-rekkehus-pa-stord-1.17852744",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 19 Apr 2026 16:12:17 GMT"
-    },
-    {
-      "title": "USA: Åtte barn er drepne i skyting",
-      "link": "https://www.nrk.no/nyheter/usa_-atte-barn-er-drepne-i-skyting-1.17852780",
-      "category": "USA",
-      "pubDate": "Sun, 19 Apr 2026 16:09:11 GMT"
-    },
-    {
-      "title": "Teknisk trøbbel hos Norsk Tipping løst",
-      "link": "https://www.nrk.no/nyheter/teknisk-trobbel-hos-norsk-tipping-lost-1.17852720",
-      "category": "Norsk Tipping",
-      "pubDate": "Sun, 19 Apr 2026 15:44:02 GMT"
     }
   ]
 }
