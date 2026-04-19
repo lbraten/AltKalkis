@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-19T16:02:23.519Z",
+  "updatedAt": "2026-04-19T17:05:43.501Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Storm og Emma viser fram kjærleiken",
+      "link": "https://www.nrk.no/nyheter/storm-og-emma-viser-fram-kjaerleiken-1.17852822",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Sun, 19 Apr 2026 16:56:12 GMT"
+    },
+    {
+      "title": "Valgdagsmåling i Bulgaria: Ekspresident Radevs parti leder",
+      "link": "https://www.nrk.no/nyheter/valgdagsmaling-i-bulgaria_-ekspresident-radevs-parti-leder-1.17852811",
+      "category": "Bulgaria",
+      "pubDate": "Sun, 19 Apr 2026 16:53:00 GMT"
+    },
+    {
+      "title": "Ukrainas politipatruljesjef går av etter Kyiv-skytingen",
+      "link": "https://www.nrk.no/nyheter/ukrainas-politipatruljesjef-gar-av-etter-kyiv-skytingen-1.17852795",
+      "category": "Ukraina",
+      "pubDate": "Sun, 19 Apr 2026 16:29:07 GMT"
+    },
+    {
+      "title": "Brann i rekkehus på Stord",
+      "link": "https://www.nrk.no/vestland/brann-i-rekkehus-pa-stord-1.17852744",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 19 Apr 2026 16:12:17 GMT"
+    },
+    {
+      "title": "USA: Åtte barn er drepne i skyting",
+      "link": "https://www.nrk.no/nyheter/usa_-atte-barn-er-drepne-i-skyting-1.17852780",
+      "category": "USA",
+      "pubDate": "Sun, 19 Apr 2026 16:09:11 GMT"
+    },
     {
       "title": "Teknisk trøbbel hos Norsk Tipping løst",
       "link": "https://www.nrk.no/nyheter/teknisk-trobbel-hos-norsk-tipping-lost-1.17852720",
       "category": "Norsk Tipping",
       "pubDate": "Sun, 19 Apr 2026 15:44:02 GMT"
-    },
-    {
-      "title": "Hotellstreiken: Stordalens hoteller holder åpent",
-      "link": "https://www.nrk.no/vestfoldogtelemark/hotellstreiken_-stordalens-hoteller-holder-apent-1.17852711",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 19 Apr 2026 15:16:44 GMT"
-    },
-    {
-      "title": "Brann på kjøkken i Åsane – evakuerte bygget",
-      "link": "https://www.nrk.no/vestland/brann-pa-kjokken-i-asane-_-evakuerte-bygget-1.17852743",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 19 Apr 2026 14:54:22 GMT"
-    },
-    {
-      "title": "Iran: Sender ikkje delegasjon til forhandlingar",
-      "link": "https://www.nrk.no/nyheter/iran_-sender-ikkje-delegasjon-til-forhandlingar-1.17852689",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 19 Apr 2026 14:12:39 GMT"
-    },
-    {
-      "title": "VG: Norsk Tipping har tekniske problem",
-      "link": "https://www.nrk.no/nyheter/vg_-norsk-tipping-har-tekniske-problem-1.17852674",
-      "category": "Norsk Tipping",
-      "pubDate": "Sun, 19 Apr 2026 13:28:06 GMT"
-    },
-    {
-      "title": "Macron møter Libanons statsminister tysdag",
-      "link": "https://www.nrk.no/nyheter/macron-moter-libanons-statsminister-tysdag-1.17852667",
-      "category": "Frankrike",
-      "pubDate": "Sun, 19 Apr 2026 13:03:27 GMT"
     }
   ]
 }
