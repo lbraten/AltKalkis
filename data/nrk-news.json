@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-19T21:59:30.121Z",
+  "updatedAt": "2026-04-19T22:49:51.223Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran anklager USA for brudd på våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/iran-anklager-usa-for-brudd-pa-vapenhvilen--1.17853008",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 19 Apr 2026 22:13:18 GMT"
+    },
     {
       "title": "Israelsk soldat ødela Kristus-skulptur",
       "link": "https://www.nrk.no/nyheter/israelsk-soldat-odela-kristus-skulptur--1.17853005",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/trondelag/gressbrannen-pa-hitra-er-slukket-1.17852793",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 19 Apr 2026 20:09:36 GMT"
-    },
-    {
-      "title": "Fransk reiarlag stadfestar at Iran skaut varselskot mot eit skip",
-      "link": "https://www.nrk.no/nyheter/fransk-reiarlag-stadfestar-at-iran-skaut-varselskot-mot-eit-skip-1.17852962",
-      "category": "Iran",
-      "pubDate": "Sun, 19 Apr 2026 19:40:17 GMT"
     }
   ]
 }
