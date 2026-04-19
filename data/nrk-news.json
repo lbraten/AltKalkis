@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-19T15:06:56.529Z",
+  "updatedAt": "2026-04-19T16:02:23.519Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Teknisk trøbbel hos Norsk Tipping løst",
+      "link": "https://www.nrk.no/nyheter/teknisk-trobbel-hos-norsk-tipping-lost-1.17852720",
+      "category": "Norsk Tipping",
+      "pubDate": "Sun, 19 Apr 2026 15:44:02 GMT"
+    },
+    {
+      "title": "Hotellstreiken: Stordalens hoteller holder åpent",
+      "link": "https://www.nrk.no/vestfoldogtelemark/hotellstreiken_-stordalens-hoteller-holder-apent-1.17852711",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 19 Apr 2026 15:16:44 GMT"
+    },
+    {
+      "title": "Brann på kjøkken i Åsane – evakuerte bygget",
+      "link": "https://www.nrk.no/vestland/brann-pa-kjokken-i-asane-_-evakuerte-bygget-1.17852743",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 19 Apr 2026 14:54:22 GMT"
+    },
     {
       "title": "Iran: Sender ikkje delegasjon til forhandlingar",
       "link": "https://www.nrk.no/nyheter/iran_-sender-ikkje-delegasjon-til-forhandlingar-1.17852689",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/macron-moter-libanons-statsminister-tysdag-1.17852667",
       "category": "Frankrike",
       "pubDate": "Sun, 19 Apr 2026 13:03:27 GMT"
-    },
-    {
-      "title": "Trump: Nye forhandlingar måndag",
-      "link": "https://www.nrk.no/nyheter/trump_-nye-forhandlingar-mandag-1.17852627",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 19 Apr 2026 12:56:42 GMT"
-    },
-    {
-      "title": "TV 2: Mona Juul sluttar i Utanriksdepartementet",
-      "link": "https://www.nrk.no/nyheter/tv-2_-mona-juul-sluttar-i-utanriksdepartementet-1.17852652",
-      "category": "Jeffrey Epstein-saken",
-      "pubDate": "Sun, 19 Apr 2026 12:42:03 GMT"
-    },
-    {
-      "title": "Død person funnet i Oslo: En person er siktet for drap",
-      "link": "https://www.nrk.no/stor-oslo/dod-person-funnet-i-oslo_-en-person-er-siktet-for-drap-1.17852630",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 19 Apr 2026 12:20:17 GMT"
     }
   ]
 }
