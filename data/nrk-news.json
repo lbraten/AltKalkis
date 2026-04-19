@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-19T13:06:46.126Z",
+  "updatedAt": "2026-04-19T14:09:36.741Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "VG: Norsk Tipping har tekniske problem",
+      "link": "https://www.nrk.no/nyheter/vg_-norsk-tipping-har-tekniske-problem-1.17852674",
+      "category": "Norsk Tipping",
+      "pubDate": "Sun, 19 Apr 2026 13:28:06 GMT"
+    },
     {
       "title": "Macron møter Libanons statsminister tysdag",
       "link": "https://www.nrk.no/nyheter/macron-moter-libanons-statsminister-tysdag-1.17852667",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-to-tankskip-stanset-i-hormuzstredet-1.17852608",
       "category": "Iran",
       "pubDate": "Sun, 19 Apr 2026 11:57:15 GMT"
-    },
-    {
-      "title": "Iransk nyhetsbyrå: To utlendinger arrestert",
-      "link": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-to-utlendinger-arrestert-1.17852580",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 19 Apr 2026 11:29:45 GMT"
     }
   ]
 }
