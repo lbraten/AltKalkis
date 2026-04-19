@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-19T19:23:20.449Z",
+  "updatedAt": "2026-04-19T20:00:24.598Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fransk reiarlag stadfestar at Iran skaut varselskot mot eit skip",
+      "link": "https://www.nrk.no/nyheter/fransk-reiarlag-stadfestar-at-iran-skaut-varselskot-mot-eit-skip-1.17852962",
+      "category": "Iran",
+      "pubDate": "Sun, 19 Apr 2026 19:40:17 GMT"
+    },
+    {
+      "title": "Reuters: Trump seier USA har tatt iransk lasteskip i varetekt",
+      "link": "https://www.nrk.no/nyheter/reuters_-trump-seier-usa-har-tatt-iransk-lasteskip-i-varetekt-1.17852923",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 19 Apr 2026 19:26:51 GMT"
+    },
     {
       "title": "Mann omkom i trafikkulykke i Asker – sjåfør pågrepet",
       "link": "https://www.nrk.no/stor-oslo/mann-omkom-i-trafikkulykke-i-asker-_-sjafor-pagrepet-1.17852824",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-gjenapner-ulovlig-bosetting-pa-vestbredden-1.17852893",
       "category": "Israel",
       "pubDate": "Sun, 19 Apr 2026 18:17:39 GMT"
-    },
-    {
-      "title": "KrFU vil avskaffe 1. mai som fridag",
-      "link": "https://www.nrk.no/nyheter/krfu-vil-avskaffe-1.-mai-som-fridag-1.17852831",
-      "category": "Kristelig folkeparti (KrF)",
-      "pubDate": "Sun, 19 Apr 2026 18:03:59 GMT"
-    },
-    {
-      "title": "Storm og Emma viser fram kjærleiken",
-      "link": "https://www.nrk.no/nyheter/storm-og-emma-viser-fram-kjaerleiken-1.17852822",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Sun, 19 Apr 2026 16:56:12 GMT"
     }
   ]
 }
