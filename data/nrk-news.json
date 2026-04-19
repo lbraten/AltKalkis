@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-19T02:54:08.824Z",
+  "updatedAt": "2026-04-19T05:31:45.517Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brudd i meklingen: Streik i hotell- og restaurantnæringen",
+      "link": "https://www.nrk.no/nyheter/brudd-i-meklingen_--streik-i-hotell--og-restaurantnaeringen-1.17852379",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 19 Apr 2026 04:05:55 GMT"
+    },
+    {
+      "title": "Resultatet fra peruansk presidentvalg trolig ikke klart før midten av mai",
+      "link": "https://www.nrk.no/nyheter/resultatet-fra-peruansk-presidentvalg-trolig-ikke-klart-for-midten-av-mai-1.17852384",
+      "category": "Peru",
+      "pubDate": "Sun, 19 Apr 2026 03:35:42 GMT"
+    },
+    {
+      "title": "Alvorlig trafikkulykke i Asker – én død",
+      "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-asker-_-en-dod-1.17852383",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 19 Apr 2026 03:01:41 GMT"
+    },
     {
       "title": "Bil eksploderte i Malmö",
       "link": "https://www.nrk.no/nyheter/bil-eksploderte-i-malmo-1.17852377",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/boligbrann-i-kautokeino-1.17852376",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sun, 19 Apr 2026 01:28:50 GMT"
-    },
-    {
-      "title": "Røykutvikling i bolig med flere boenheter i Kristiansand",
-      "link": "https://www.nrk.no/nyheter/roykutvikling-i-bolig-med-flere-boenheter-i-kristiansand-1.17852370",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 19 Apr 2026 01:22:31 GMT"
-    },
-    {
-      "title": "Brann i rekkehus i Voss – i ferd med å spre seg",
-      "link": "https://www.nrk.no/nyheter/brann-i-rekkehus-i-voss-_-i-ferd-med-a-spre-seg--1.17852369",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 19 Apr 2026 01:09:39 GMT"
-    },
-    {
-      "title": "Fant rottegift i babymat",
-      "link": "https://www.nrk.no/nyheter/fant-rottegift-i-babymat-1.17852372",
-      "category": "Østerrike",
-      "pubDate": "Sun, 19 Apr 2026 00:08:25 GMT"
     }
   ]
 }
