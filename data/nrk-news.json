@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-19T07:23:17.506Z",
+  "updatedAt": "2026-04-19T08:31:53.397Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Knyttes til minst seks overfall",
+      "link": "https://www.nrk.no/stor-oslo/knyttes-til-minst-seks-overfall-1.17852496",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 19 Apr 2026 08:24:07 GMT"
+    },
     {
       "title": "Snarrådig bilist hindret fyllekjører på E6",
       "link": "https://www.nrk.no/stor-oslo/snarradig-bilist-hindret-fyllekjorer-pa-e6-1.17852469",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-asker-_-en-omkom-1.17852383",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 19 Apr 2026 03:01:41 GMT"
-    },
-    {
-      "title": "Bil eksploderte i Malmö",
-      "link": "https://www.nrk.no/nyheter/bil-eksploderte-i-malmo-1.17852377",
-      "category": "Sverige",
-      "pubDate": "Sun, 19 Apr 2026 02:48:39 GMT"
     }
   ]
 }
