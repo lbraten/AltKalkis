@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-19T21:03:10.071Z",
+  "updatedAt": "2026-04-19T21:59:30.121Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israelsk soldat ødela Kristus-skulptur",
+      "link": "https://www.nrk.no/nyheter/israelsk-soldat-odela-kristus-skulptur--1.17853005",
+      "category": "Israel",
+      "pubDate": "Sun, 19 Apr 2026 21:44:20 GMT"
+    },
+    {
+      "title": "Kvinne i 60-årene døde i boligbrann på Stord",
+      "link": "https://www.nrk.no/nyheter/kvinne-i-60-arene-dode-i-boligbrann-pa-stord-1.17853004",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 19 Apr 2026 21:27:17 GMT"
+    },
+    {
+      "title": "Kim Jong-un overvar test av nye ballistiske missiler",
+      "link": "https://www.nrk.no/nyheter/kim-jong-un-overvar-test-av-nye-ballistiske-missiler-1.17852988",
+      "category": "Nord-Korea",
+      "pubDate": "Sun, 19 Apr 2026 21:19:22 GMT"
+    },
     {
       "title": "UAE ber USA om økonomisk krisehjelp",
       "link": "https://www.nrk.no/nyheter/uae-ber-usa-om-okonomisk-krisehjelp-1.17852981",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fransk-reiarlag-stadfestar-at-iran-skaut-varselskot-mot-eit-skip-1.17852962",
       "category": "Iran",
       "pubDate": "Sun, 19 Apr 2026 19:40:17 GMT"
-    },
-    {
-      "title": "Reuters: Trump seier USA har tatt iransk lasteskip i varetekt",
-      "link": "https://www.nrk.no/nyheter/reuters_-trump-seier-usa-har-tatt-iransk-lasteskip-i-varetekt-1.17852923",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 19 Apr 2026 19:26:51 GMT"
-    },
-    {
-      "title": "Mann omkom i trafikkulykke i Asker – sjåfør pågrepet",
-      "link": "https://www.nrk.no/stor-oslo/mann-omkom-i-trafikkulykke-i-asker-_-sjafor-pagrepet-1.17852824",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 19 Apr 2026 18:53:55 GMT"
-    },
-    {
-      "title": "Pakistans statsminister har snakka med Irans president",
-      "link": "https://www.nrk.no/nyheter/pakistans-statsminister-har-snakka-med-irans-president-1.17852903",
-      "category": "Pakistan",
-      "pubDate": "Sun, 19 Apr 2026 18:46:51 GMT"
     }
   ]
 }
