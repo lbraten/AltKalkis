@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-19T23:39:17.982Z",
+  "updatedAt": "2026-04-20T02:54:37.897Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kvinne reddet ut fra røykfylt blokkleilighet i Bergen",
+      "link": "https://www.nrk.no/nyheter/kvinne-reddet-ut-fra-roykfylt-blokkleilighet-i-bergen-1.17853019",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 20 Apr 2026 02:42:35 GMT"
+    },
+    {
+      "title": "Trafikkulykke på Romerike - fører tatt med kniv og øks",
+      "link": "https://www.nrk.no/nyheter/trafikkulykke-pa-romerike----forer-tatt-med-kniv-og-oks-1.17853017",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 20 Apr 2026 02:34:57 GMT"
+    },
+    {
+      "title": "Enighet i meklingen i byggeindustrien – streik avverget",
+      "link": "https://www.nrk.no/nyheter/enighet-i-meklingen-i-byggeindustrien-_-streik-avverget-1.17853016",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Mon, 20 Apr 2026 00:48:00 GMT"
+    },
+    {
+      "title": "Bulgarias ekspresident leder i opptellingen etter søndagens valg",
+      "link": "https://www.nrk.no/nyheter/bulgarias-ekspresident-leder-i-opptellingen-etter-sondagens-valg-1.17853013",
+      "category": "Bulgaria",
+      "pubDate": "Mon, 20 Apr 2026 00:43:46 GMT"
+    },
     {
       "title": "Oljeprisene stiger igjen",
       "link": "https://www.nrk.no/nyheter/oljeprisene-stiger-igjen-1.17853012",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mekling-pa-overtid-i-byggenaeringen-1.17853006",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Sun, 19 Apr 2026 22:50:27 GMT"
-    },
-    {
-      "title": "Iran anklager USA for brudd på våpenhvilen",
-      "link": "https://www.nrk.no/nyheter/iran-anklager-usa-for-brudd-pa-vapenhvilen--1.17853008",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 19 Apr 2026 22:13:18 GMT"
-    },
-    {
-      "title": "Israelsk soldat ødela Kristus-skulptur",
-      "link": "https://www.nrk.no/nyheter/israelsk-soldat-odela-kristus-skulptur--1.17853005",
-      "category": "Israel",
-      "pubDate": "Sun, 19 Apr 2026 21:44:20 GMT"
-    },
-    {
-      "title": "Kvinne i 60-årene døde i boligbrann på Stord",
-      "link": "https://www.nrk.no/nyheter/kvinne-i-60-arene-dode-i-boligbrann-pa-stord-1.17853004",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 19 Apr 2026 21:27:17 GMT"
-    },
-    {
-      "title": "Kim Jong-un overvar test av nye ballistiske missiler",
-      "link": "https://www.nrk.no/nyheter/kim-jong-un-overvar-test-av-nye-ballistiske-missiler-1.17852988",
-      "category": "Nord-Korea",
-      "pubDate": "Sun, 19 Apr 2026 21:19:22 GMT"
     }
   ]
 }
