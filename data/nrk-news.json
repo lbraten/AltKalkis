@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-20T17:59:26.466Z",
+  "updatedAt": "2026-04-20T19:20:21.213Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i leilighet i Oslo: – Kritisk skadd",
+      "link": "https://www.nrk.no/stor-oslo/brann-i-leilighet-i-oslo_-_-kritisk-skadd-1.17854289",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 20 Apr 2026 18:20:22 GMT"
+    },
     {
       "title": "Artisten D4vd tiltalt for drapet på 14 år gammel jente",
       "link": "https://www.nrk.no/nyheter/artisten-d4vd-tiltalt-for-drapet-pa-14-ar-gammel-jente-1.17854108",
@@ -15,8 +21,8 @@
       "pubDate": "Mon, 20 Apr 2026 17:08:30 GMT"
     },
     {
-      "title": "Etterlyser liten fritidsbåt som kolliderte med lastebåt",
-      "link": "https://www.nrk.no/vestland/etterlyser-liten-fritidsbat-som-kolliderte-med-lastebat-1.17854151",
+      "title": "Båtførar teken for ruskøyring etter kollisjon i Øygarden",
+      "link": "https://www.nrk.no/vestland/batforar-teken-for-ruskoyring-etter-kollisjon-i-oygarden-1.17854151",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Mon, 20 Apr 2026 16:36:58 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kronprinsen-og-prinsen-skal-ro-vikingskip-1.17854032",
       "category": "Kongefamilien",
       "pubDate": "Mon, 20 Apr 2026 16:19:59 GMT"
-    },
-    {
-      "title": "Kilder: Nytt møte mellom Israel og Libanon på torsdag",
-      "link": "https://www.nrk.no/nyheter/kilder_-nytt-mote-mellom-israel-og-libanon-pa-torsdag-1.17854127",
-      "category": "Libanon og Israel",
-      "pubDate": "Mon, 20 Apr 2026 15:41:06 GMT"
     }
   ]
 }
