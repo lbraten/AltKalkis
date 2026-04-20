@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-20T13:47:25.042Z",
+  "updatedAt": "2026-04-20T15:17:00.384Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Oslo Børs avsluttet med oppgang",
+      "link": "https://www.nrk.no/nyheter/oslo-bors-avsluttet-med-oppgang-1.17854100",
+      "category": "Oslo Børs",
+      "pubDate": "Mon, 20 Apr 2026 15:02:28 GMT"
+    },
+    {
+      "title": "ChatGPT har problemer",
+      "link": "https://www.nrk.no/nyheter/chatgpt-har-problemer-1.17853832",
+      "category": "Kunstig intelligens",
+      "pubDate": "Mon, 20 Apr 2026 14:54:00 GMT"
+    },
+    {
+      "title": "Starmer beklager: – Mandelson burde aldri blitt ambassadør",
+      "link": "https://www.nrk.no/nyheter/starmer-beklager_-_-mandelson-burde-aldri-blitt-ambassador-1.17853971",
+      "category": "Storbritannia",
+      "pubDate": "Mon, 20 Apr 2026 14:49:04 GMT"
+    },
+    {
+      "title": "Brann i terrenget i Ålesund",
+      "link": "https://www.nrk.no/mr/brann-i-terrenget-i-alesund-1.17854063",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Mon, 20 Apr 2026 14:30:42 GMT"
+    },
+    {
+      "title": "Alvorlig trafikkulykke på E10 i Narvik",
+      "link": "https://www.nrk.no/nordland/alvorlig-trafikkulykke-pa-e10-i-narvik-1.17853951",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Mon, 20 Apr 2026 13:55:54 GMT"
+    },
+    {
       "title": "Euroen under 11 kroner",
       "link": "https://www.nrk.no/nyheter/euroen-under-11-kroner-1.17853835",
-      "category": "NRK Nyheter",
+      "category": "Økonomi",
       "pubDate": "Mon, 20 Apr 2026 13:44:19 GMT"
-    },
-    {
-      "title": "Drapssiktet varetektsfengsles i fire uker",
-      "link": "https://www.nrk.no/stor-oslo/drapssiktet-varetektsfengsles-i-fire-uker-1.17853929",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 20 Apr 2026 13:39:14 GMT"
-    },
-    {
-      "title": "Savnede Olaf (76) trolig funnet i forlist sjark i Finnmark",
-      "link": "https://www.nrk.no/nyheter/savnede-olaf-_76_-trolig-funnet-i-forlist-sjark-i-finnmark-1.17853659",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 20 Apr 2026 11:56:28 GMT"
-    },
-    {
-      "title": "Siktet for flere overfall – varetektsfengsles i fire uker",
-      "link": "https://www.nrk.no/stor-oslo/siktet-for-flere-overfall-__varetektsfengsles-i-fire-uker-1.17853738",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 20 Apr 2026 11:45:55 GMT"
-    },
-    {
-      "title": "Mann tiltalt for å ha voldtatt tre menn",
-      "link": "https://www.nrk.no/tromsogfinnmark/mann-tiltalt-for-a-ha-voldtatt-tre-menn-1.17853692",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 20 Apr 2026 11:28:02 GMT"
-    },
-    {
-      "title": "EU-sjef gratulerer valgvinner i Bulgaria",
-      "link": "https://www.nrk.no/nyheter/eu-sjef-gratulerer-valgvinner-i-bulgaria-1.17853640",
-      "category": "Bulgaria",
-      "pubDate": "Mon, 20 Apr 2026 11:17:20 GMT"
     }
   ]
 }
