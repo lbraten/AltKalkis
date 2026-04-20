@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-20T22:09:26.902Z",
+  "updatedAt": "2026-04-20T23:09:26.569Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Aksepterer ikke forhandlinger med trusler",
+      "link": "https://www.nrk.no/nyheter/iran_-aksepterer-ikke-forhandlinger-med-trusler-1.17854422",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 20 Apr 2026 22:32:29 GMT"
+    },
     {
       "title": "USAs arbeidsminister Chavez-DeRemer går av",
       "link": "https://www.nrk.no/nyheter/usas-arbeidsminister-chavez-deremer-gar-av-1.17854406",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/apple-toppsjef-gir-seg-i-september-1.17854379",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 20 Apr 2026 20:44:49 GMT"
-    },
-    {
-      "title": "Én drept i skyting ved meksikansk turiststed",
-      "link": "https://www.nrk.no/nyheter/en-drept-i-skyting-ved-meksikansk-turiststed-1.17854155",
-      "category": "Mexico",
-      "pubDate": "Mon, 20 Apr 2026 19:39:24 GMT"
     }
   ]
 }
