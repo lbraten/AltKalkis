@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-20T15:17:00.384Z",
+  "updatedAt": "2026-04-20T16:40:53.137Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump tror ikke våpenhvilen forlenges",
+      "link": "https://www.nrk.no/nyheter/trump-tror-ikke-vapenhvilen-forlenges-1.17854191",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 20 Apr 2026 16:27:32 GMT"
+    },
+    {
+      "title": "Kronprinsen og prinsen skal ro vikingskip",
+      "link": "https://www.nrk.no/nyheter/kronprinsen-og-prinsen-skal-ro-vikingskip-1.17854032",
+      "category": "Kongefamilien",
+      "pubDate": "Mon, 20 Apr 2026 16:19:59 GMT"
+    },
+    {
+      "title": "Kilder: Nytt møte mellom Israel og Libanon på torsdag",
+      "link": "https://www.nrk.no/nyheter/kilder_-nytt-mote-mellom-israel-og-libanon-pa-torsdag-1.17854127",
+      "category": "Libanon og Israel",
+      "pubDate": "Mon, 20 Apr 2026 15:41:06 GMT"
+    },
     {
       "title": "Oslo Børs avsluttet med oppgang",
       "link": "https://www.nrk.no/nyheter/oslo-bors-avsluttet-med-oppgang-1.17854100",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/starmer-beklager_-_-mandelson-burde-aldri-blitt-ambassador-1.17853971",
       "category": "Storbritannia",
       "pubDate": "Mon, 20 Apr 2026 14:49:04 GMT"
-    },
-    {
-      "title": "Brann i terrenget i Ålesund",
-      "link": "https://www.nrk.no/mr/brann-i-terrenget-i-alesund-1.17854063",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 20 Apr 2026 14:30:42 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke på E10 i Narvik",
-      "link": "https://www.nrk.no/nordland/alvorlig-trafikkulykke-pa-e10-i-narvik-1.17853951",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Mon, 20 Apr 2026 13:55:54 GMT"
-    },
-    {
-      "title": "Euroen under 11 kroner",
-      "link": "https://www.nrk.no/nyheter/euroen-under-11-kroner-1.17853835",
-      "category": "Økonomi",
-      "pubDate": "Mon, 20 Apr 2026 13:44:19 GMT"
     }
   ]
 }
