@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-20T19:20:21.213Z",
+  "updatedAt": "2026-04-20T20:10:11.603Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Én drept i skyting ved meksikansk turiststed",
+      "link": "https://www.nrk.no/nyheter/en-drept-i-skyting-ved-meksikansk-turiststed-1.17854155",
+      "category": "Mexico",
+      "pubDate": "Mon, 20 Apr 2026 19:39:24 GMT"
+    },
+    {
+      "title": "Gutt kjørt til sykehus etter påkjørsel av bil i Bø",
+      "link": "https://www.nrk.no/vestfoldogtelemark/gutt-kjort-til-sykehus-etter-pakjorsel-av-bil-i-bo-1.17854315",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 20 Apr 2026 19:28:41 GMT"
+    },
     {
       "title": "Brann i leilighet i Oslo: – Kritisk skadd",
       "link": "https://www.nrk.no/stor-oslo/brann-i-leilighet-i-oslo_-_-kritisk-skadd-1.17854289",
@@ -21,22 +33,10 @@
       "pubDate": "Mon, 20 Apr 2026 17:08:30 GMT"
     },
     {
-      "title": "Båtførar teken for ruskøyring etter kollisjon i Øygarden",
-      "link": "https://www.nrk.no/vestland/batforar-teken-for-ruskoyring-etter-kollisjon-i-oygarden-1.17854151",
+      "title": "Båtførar teken for ruskøyring etter kollisjon med lastebåti Øygarden",
+      "link": "https://www.nrk.no/vestland/batforar-teken-for-ruskoyring-etter-kollisjon-med-lastebati-oygarden-1.17854151",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Mon, 20 Apr 2026 16:36:58 GMT"
-    },
-    {
-      "title": "Trump tror ikke våpenhvilen forlenges",
-      "link": "https://www.nrk.no/nyheter/trump-tror-ikke-vapenhvilen-forlenges-1.17854191",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 20 Apr 2026 16:27:32 GMT"
-    },
-    {
-      "title": "Kronprinsen og prinsen skal ro vikingskip",
-      "link": "https://www.nrk.no/nyheter/kronprinsen-og-prinsen-skal-ro-vikingskip-1.17854032",
-      "category": "Kongefamilien",
-      "pubDate": "Mon, 20 Apr 2026 16:19:59 GMT"
     }
   ]
 }
