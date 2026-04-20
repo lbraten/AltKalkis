@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-20T10:16:14.815Z",
+  "updatedAt": "2026-04-20T11:51:49.910Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann tiltalt for å ha voldtatt tre menn",
+      "link": "https://www.nrk.no/tromsogfinnmark/mann-tiltalt-for-a-ha-voldtatt-tre-menn-1.17853692",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Mon, 20 Apr 2026 11:28:02 GMT"
+    },
+    {
+      "title": "EU-sjef gratulerer valgvinner i Bulgaria",
+      "link": "https://www.nrk.no/nyheter/eu-sjef-gratulerer-valgvinner-i-bulgaria-1.17853640",
+      "category": "Bulgaria",
+      "pubDate": "Mon, 20 Apr 2026 11:17:20 GMT"
+    },
+    {
+      "title": "Japan advarer om nye kraftige jordskjelv",
+      "link": "https://www.nrk.no/nyheter/japan-advarer-om-nye-kraftige-jordskjelv-1.17853619",
+      "category": "Japan",
+      "pubDate": "Mon, 20 Apr 2026 11:10:06 GMT"
+    },
+    {
+      "title": "Qatar kunngjør gradvis gjenåpning av flytrafikk",
+      "link": "https://www.nrk.no/nyheter/qatar-kunngjor-gradvis-gjenapning-av-flytrafikk-1.17853525",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 20 Apr 2026 10:59:45 GMT"
+    },
     {
       "title": "Storseier for EU-kritiker i Bulgaria",
       "link": "https://www.nrk.no/nyheter/storseier-for-eu-kritiker-i-bulgaria-1.17853305",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/alvorlig-sykkelulykke-pa-bygdoy-1.17853440",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Mon, 20 Apr 2026 09:57:12 GMT"
-    },
-    {
-      "title": "Lastebil kjørte av veien: Blåste til 1,64 i promille",
-      "link": "https://www.nrk.no/ostfold/lastebil-kjorte-av-veien_-blaste-til-1_64-i-promille-1.17853475",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Mon, 20 Apr 2026 09:41:01 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Ålesund",
-      "link": "https://www.nrk.no/mr/trafikkulykke-i-alesund-1.17853381",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 20 Apr 2026 08:40:07 GMT"
-    },
-    {
-      "title": "Tsunamivarsel etter jordskjelv med styrke 7,5 i Japan",
-      "link": "https://www.nrk.no/nyheter/tsunamivarsel-etter-jordskjelv-med-styrke-7_5-i-japan-1.17853277",
-      "category": "Japan",
-      "pubDate": "Mon, 20 Apr 2026 07:57:25 GMT"
-    },
-    {
-      "title": "EU-skeptisk koalisjon leder stort i Bulgaria når over 90 prosent av stemmene er telt",
-      "link": "https://www.nrk.no/nyheter/eu-skeptisk-koalisjon-leder-stort-i-bulgaria-nar-over-90-prosent-av-stemmene-er-telt-1.17853257",
-      "category": "Bulgaria",
-      "pubDate": "Mon, 20 Apr 2026 07:40:15 GMT"
     }
   ]
 }
