@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-20T21:11:47.564Z",
+  "updatedAt": "2026-04-20T22:09:26.902Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USAs arbeidsminister Chavez-DeRemer går av",
+      "link": "https://www.nrk.no/nyheter/usas-arbeidsminister-chavez-deremer-gar-av-1.17854406",
+      "category": "USA",
+      "pubDate": "Mon, 20 Apr 2026 21:27:29 GMT"
+    },
     {
       "title": "DT: Drammen sykehus har nettverksproblemer",
       "link": "https://www.nrk.no/nyheter/dt_-drammen-sykehus-har-nettverksproblemer-1.17854390",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-drept-i-skyting-ved-meksikansk-turiststed-1.17854155",
       "category": "Mexico",
       "pubDate": "Mon, 20 Apr 2026 19:39:24 GMT"
-    },
-    {
-      "title": "Gutt kjørt til sykehus etter påkjørsel av bil i Bø",
-      "link": "https://www.nrk.no/vestfoldogtelemark/gutt-kjort-til-sykehus-etter-pakjorsel-av-bil-i-bo-1.17854315",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 20 Apr 2026 19:28:41 GMT"
     }
   ]
 }
