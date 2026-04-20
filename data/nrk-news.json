@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-20T11:51:49.910Z",
+  "updatedAt": "2026-04-20T13:47:25.042Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Euroen under 11 kroner",
+      "link": "https://www.nrk.no/nyheter/euroen-under-11-kroner-1.17853835",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 20 Apr 2026 13:44:19 GMT"
+    },
+    {
+      "title": "Drapssiktet varetektsfengsles i fire uker",
+      "link": "https://www.nrk.no/stor-oslo/drapssiktet-varetektsfengsles-i-fire-uker-1.17853929",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 20 Apr 2026 13:39:14 GMT"
+    },
+    {
+      "title": "Savnede Olaf (76) trolig funnet i forlist sjark i Finnmark",
+      "link": "https://www.nrk.no/nyheter/savnede-olaf-_76_-trolig-funnet-i-forlist-sjark-i-finnmark-1.17853659",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Mon, 20 Apr 2026 11:56:28 GMT"
+    },
+    {
+      "title": "Siktet for flere overfall – varetektsfengsles i fire uker",
+      "link": "https://www.nrk.no/stor-oslo/siktet-for-flere-overfall-__varetektsfengsles-i-fire-uker-1.17853738",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 20 Apr 2026 11:45:55 GMT"
+    },
     {
       "title": "Mann tiltalt for å ha voldtatt tre menn",
       "link": "https://www.nrk.no/tromsogfinnmark/mann-tiltalt-for-a-ha-voldtatt-tre-menn-1.17853692",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-sjef-gratulerer-valgvinner-i-bulgaria-1.17853640",
       "category": "Bulgaria",
       "pubDate": "Mon, 20 Apr 2026 11:17:20 GMT"
-    },
-    {
-      "title": "Japan advarer om nye kraftige jordskjelv",
-      "link": "https://www.nrk.no/nyheter/japan-advarer-om-nye-kraftige-jordskjelv-1.17853619",
-      "category": "Japan",
-      "pubDate": "Mon, 20 Apr 2026 11:10:06 GMT"
-    },
-    {
-      "title": "Qatar kunngjør gradvis gjenåpning av flytrafikk",
-      "link": "https://www.nrk.no/nyheter/qatar-kunngjor-gradvis-gjenapning-av-flytrafikk-1.17853525",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 20 Apr 2026 10:59:45 GMT"
-    },
-    {
-      "title": "Storseier for EU-kritiker i Bulgaria",
-      "link": "https://www.nrk.no/nyheter/storseier-for-eu-kritiker-i-bulgaria-1.17853305",
-      "category": "Bulgaria",
-      "pubDate": "Mon, 20 Apr 2026 10:01:54 GMT"
-    },
-    {
-      "title": "Alvorlig sykkelulykke på Bygdøy",
-      "link": "https://www.nrk.no/stor-oslo/alvorlig-sykkelulykke-pa-bygdoy-1.17853440",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 20 Apr 2026 09:57:12 GMT"
     }
   ]
 }
