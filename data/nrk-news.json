@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-20T02:54:37.897Z",
+  "updatedAt": "2026-04-20T05:44:14.688Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IDF ber folk unngå flere områder i Libanon",
+      "link": "https://www.nrk.no/nyheter/idf-ber-folk-unnga-flere-omrader-i-libanon-1.17853098",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 20 Apr 2026 05:18:30 GMT"
+    },
+    {
+      "title": "Iran har henrettet to menn anklaget for spionasje",
+      "link": "https://www.nrk.no/nyheter/iran-har-henrettet-to-menn-anklaget-for-spionasje-1.17853069",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 20 Apr 2026 04:55:39 GMT"
+    },
+    {
+      "title": "En drept i stort ukrainsk droneangrep mot russisk havneby, sier russiske myndigheter",
+      "link": "https://www.nrk.no/nyheter/en-drept-i-stort-ukrainsk-droneangrep-mot-russisk-havneby_-sier-russiske-myndigheter-1.17853020",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 20 Apr 2026 03:55:54 GMT"
+    },
     {
       "title": "Kvinne reddet ut fra røykfylt blokkleilighet i Bergen",
       "link": "https://www.nrk.no/nyheter/kvinne-reddet-ut-fra-roykfylt-blokkleilighet-i-bergen-1.17853019",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/enighet-i-meklingen-i-byggeindustrien-_-streik-avverget-1.17853016",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Mon, 20 Apr 2026 00:48:00 GMT"
-    },
-    {
-      "title": "Bulgarias ekspresident leder i opptellingen etter søndagens valg",
-      "link": "https://www.nrk.no/nyheter/bulgarias-ekspresident-leder-i-opptellingen-etter-sondagens-valg-1.17853013",
-      "category": "Bulgaria",
-      "pubDate": "Mon, 20 Apr 2026 00:43:46 GMT"
-    },
-    {
-      "title": "Oljeprisene stiger igjen",
-      "link": "https://www.nrk.no/nyheter/oljeprisene-stiger-igjen-1.17853012",
-      "category": "Oljeprisen",
-      "pubDate": "Sun, 19 Apr 2026 22:55:21 GMT"
-    },
-    {
-      "title": "Mekling på overtid i byggenæringen",
-      "link": "https://www.nrk.no/nyheter/mekling-pa-overtid-i-byggenaeringen-1.17853006",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 19 Apr 2026 22:50:27 GMT"
     }
   ]
 }
