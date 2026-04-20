@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-20T20:10:11.603Z",
+  "updatedAt": "2026-04-20T21:11:47.564Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "DT: Drammen sykehus har nettverksproblemer",
+      "link": "https://www.nrk.no/nyheter/dt_-drammen-sykehus-har-nettverksproblemer-1.17854390",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 20 Apr 2026 20:59:49 GMT"
+    },
+    {
+      "title": "Ny pris til Solfrid Koanda",
+      "link": "https://www.nrk.no/sport/ny-pris-til-solfrid-koanda-1.17854392",
+      "category": "Sportsnyheter",
+      "pubDate": "Mon, 20 Apr 2026 20:55:31 GMT"
+    },
+    {
+      "title": "West Ham sikret viktig poeng – Wolverhampton rykket ned",
+      "link": "https://www.nrk.no/sport/west-ham-sikret-viktig-poeng-_-wolverhampton-rykket-ned-1.17854382",
+      "category": "Sportsnyheter",
+      "pubDate": "Mon, 20 Apr 2026 20:54:46 GMT"
+    },
+    {
+      "title": "Apple-toppsjef gir seg i september",
+      "link": "https://www.nrk.no/nyheter/apple-toppsjef-gir-seg-i-september-1.17854379",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 20 Apr 2026 20:44:49 GMT"
+    },
     {
       "title": "Én drept i skyting ved meksikansk turiststed",
       "link": "https://www.nrk.no/nyheter/en-drept-i-skyting-ved-meksikansk-turiststed-1.17854155",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/gutt-kjort-til-sykehus-etter-pakjorsel-av-bil-i-bo-1.17854315",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 20 Apr 2026 19:28:41 GMT"
-    },
-    {
-      "title": "Brann i leilighet i Oslo: – Kritisk skadd",
-      "link": "https://www.nrk.no/stor-oslo/brann-i-leilighet-i-oslo_-_-kritisk-skadd-1.17854289",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 20 Apr 2026 18:20:22 GMT"
-    },
-    {
-      "title": "Artisten D4vd tiltalt for drapet på 14 år gammel jente",
-      "link": "https://www.nrk.no/nyheter/artisten-d4vd-tiltalt-for-drapet-pa-14-ar-gammel-jente-1.17854108",
-      "category": "Musikk",
-      "pubDate": "Mon, 20 Apr 2026 17:36:38 GMT"
-    },
-    {
-      "title": "Har kontroll på brann",
-      "link": "https://www.nrk.no/mr/har-kontroll-pa-brann-1.17854210",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 20 Apr 2026 17:08:30 GMT"
-    },
-    {
-      "title": "Båtførar teken for ruskøyring etter kollisjon med lastebåti Øygarden",
-      "link": "https://www.nrk.no/vestland/batforar-teken-for-ruskoyring-etter-kollisjon-med-lastebati-oygarden-1.17854151",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 20 Apr 2026 16:36:58 GMT"
     }
   ]
 }
