@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-20T16:40:53.137Z",
+  "updatedAt": "2026-04-20T17:59:26.466Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Artisten D4vd tiltalt for drapet på 14 år gammel jente",
+      "link": "https://www.nrk.no/nyheter/artisten-d4vd-tiltalt-for-drapet-pa-14-ar-gammel-jente-1.17854108",
+      "category": "Musikk",
+      "pubDate": "Mon, 20 Apr 2026 17:36:38 GMT"
+    },
+    {
+      "title": "Har kontroll på brann",
+      "link": "https://www.nrk.no/mr/har-kontroll-pa-brann-1.17854210",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Mon, 20 Apr 2026 17:08:30 GMT"
+    },
+    {
+      "title": "Etterlyser liten fritidsbåt som kolliderte med lastebåt",
+      "link": "https://www.nrk.no/vestland/etterlyser-liten-fritidsbat-som-kolliderte-med-lastebat-1.17854151",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 20 Apr 2026 16:36:58 GMT"
+    },
     {
       "title": "Trump tror ikke våpenhvilen forlenges",
       "link": "https://www.nrk.no/nyheter/trump-tror-ikke-vapenhvilen-forlenges-1.17854191",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kilder_-nytt-mote-mellom-israel-og-libanon-pa-torsdag-1.17854127",
       "category": "Libanon og Israel",
       "pubDate": "Mon, 20 Apr 2026 15:41:06 GMT"
-    },
-    {
-      "title": "Oslo Børs avsluttet med oppgang",
-      "link": "https://www.nrk.no/nyheter/oslo-bors-avsluttet-med-oppgang-1.17854100",
-      "category": "Oslo Børs",
-      "pubDate": "Mon, 20 Apr 2026 15:02:28 GMT"
-    },
-    {
-      "title": "ChatGPT har problemer",
-      "link": "https://www.nrk.no/nyheter/chatgpt-har-problemer-1.17853832",
-      "category": "Kunstig intelligens",
-      "pubDate": "Mon, 20 Apr 2026 14:54:00 GMT"
-    },
-    {
-      "title": "Starmer beklager: – Mandelson burde aldri blitt ambassadør",
-      "link": "https://www.nrk.no/nyheter/starmer-beklager_-_-mandelson-burde-aldri-blitt-ambassador-1.17853971",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 20 Apr 2026 14:49:04 GMT"
     }
   ]
 }
