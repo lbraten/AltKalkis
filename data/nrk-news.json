@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-04-20T08:11:58.949Z",
+  "updatedAt": "2026-04-20T10:16:14.815Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Tsunamivarsel etter jordskjelv med styrke 7,4 i Japan",
-      "link": "https://www.nrk.no/nyheter/tsunamivarsel-etter-jordskjelv-med-styrke-7_4-i-japan-1.17853277",
+      "title": "Storseier for EU-kritiker i Bulgaria",
+      "link": "https://www.nrk.no/nyheter/storseier-for-eu-kritiker-i-bulgaria-1.17853305",
+      "category": "Bulgaria",
+      "pubDate": "Mon, 20 Apr 2026 10:01:54 GMT"
+    },
+    {
+      "title": "Alvorlig sykkelulykke på Bygdøy",
+      "link": "https://www.nrk.no/stor-oslo/alvorlig-sykkelulykke-pa-bygdoy-1.17853440",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 20 Apr 2026 09:57:12 GMT"
+    },
+    {
+      "title": "Lastebil kjørte av veien: Blåste til 1,64 i promille",
+      "link": "https://www.nrk.no/ostfold/lastebil-kjorte-av-veien_-blaste-til-1_64-i-promille-1.17853475",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Mon, 20 Apr 2026 09:41:01 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Ålesund",
+      "link": "https://www.nrk.no/mr/trafikkulykke-i-alesund-1.17853381",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Mon, 20 Apr 2026 08:40:07 GMT"
+    },
+    {
+      "title": "Tsunamivarsel etter jordskjelv med styrke 7,5 i Japan",
+      "link": "https://www.nrk.no/nyheter/tsunamivarsel-etter-jordskjelv-med-styrke-7_5-i-japan-1.17853277",
       "category": "Japan",
       "pubDate": "Mon, 20 Apr 2026 07:57:25 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-skeptisk-koalisjon-leder-stort-i-bulgaria-nar-over-90-prosent-av-stemmene-er-telt-1.17853257",
       "category": "Bulgaria",
       "pubDate": "Mon, 20 Apr 2026 07:40:15 GMT"
-    },
-    {
-      "title": "Iransk UD: Ingen plan for ny runde forhandlinger med USA nå",
-      "link": "https://www.nrk.no/nyheter/iransk-ud_-ingen-plan-for-ny-runde-forhandlinger-med-usa-na-1.17853240",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 20 Apr 2026 07:33:04 GMT"
-    },
-    {
-      "title": "Høyres forsvarskrav: Luftvern og droner",
-      "link": "https://www.nrk.no/nyheter/hoyres-forsvarskrav_-luftvern-og-droner-1.17853211",
-      "category": "Partiet Høyre",
-      "pubDate": "Mon, 20 Apr 2026 07:08:31 GMT"
-    },
-    {
-      "title": "Oljeaksjer stiger på Oslo Børs – Equinor opp nær 4 prosent",
-      "link": "https://www.nrk.no/nyheter/oljeaksjer-stiger-pa-oslo-bors-_-equinor-opp-naer-4-prosent-1.17853185",
-      "category": "Oslo Børs",
-      "pubDate": "Mon, 20 Apr 2026 07:06:34 GMT"
-    },
-    {
-      "title": "Eriksen Søreide: En krig ingen i Europa hadde bedt om",
-      "link": "https://www.nrk.no/nyheter/eriksen-soreide_-en-krig-ingen-i-europa-hadde-bedt-om-1.17853194",
-      "category": "Partiet Høyre",
-      "pubDate": "Mon, 20 Apr 2026 07:04:54 GMT"
     }
   ]
 }
