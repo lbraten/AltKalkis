@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-20T05:44:14.688Z",
+  "updatedAt": "2026-04-20T08:11:58.949Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "IDF ber folk unngå flere områder i Libanon",
-      "link": "https://www.nrk.no/nyheter/idf-ber-folk-unnga-flere-omrader-i-libanon-1.17853098",
+      "title": "Tsunamivarsel etter jordskjelv med styrke 7,4 i Japan",
+      "link": "https://www.nrk.no/nyheter/tsunamivarsel-etter-jordskjelv-med-styrke-7_4-i-japan-1.17853277",
+      "category": "Japan",
+      "pubDate": "Mon, 20 Apr 2026 07:57:25 GMT"
+    },
+    {
+      "title": "EU-skeptisk koalisjon leder stort i Bulgaria når over 90 prosent av stemmene er telt",
+      "link": "https://www.nrk.no/nyheter/eu-skeptisk-koalisjon-leder-stort-i-bulgaria-nar-over-90-prosent-av-stemmene-er-telt-1.17853257",
+      "category": "Bulgaria",
+      "pubDate": "Mon, 20 Apr 2026 07:40:15 GMT"
+    },
+    {
+      "title": "Iransk UD: Ingen plan for ny runde forhandlinger med USA nå",
+      "link": "https://www.nrk.no/nyheter/iransk-ud_-ingen-plan-for-ny-runde-forhandlinger-med-usa-na-1.17853240",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 20 Apr 2026 05:18:30 GMT"
+      "pubDate": "Mon, 20 Apr 2026 07:33:04 GMT"
     },
     {
-      "title": "Iran har henrettet to menn anklaget for spionasje",
-      "link": "https://www.nrk.no/nyheter/iran-har-henrettet-to-menn-anklaget-for-spionasje-1.17853069",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 20 Apr 2026 04:55:39 GMT"
+      "title": "Høyres forsvarskrav: Luftvern og droner",
+      "link": "https://www.nrk.no/nyheter/hoyres-forsvarskrav_-luftvern-og-droner-1.17853211",
+      "category": "Partiet Høyre",
+      "pubDate": "Mon, 20 Apr 2026 07:08:31 GMT"
     },
     {
-      "title": "En drept i stort ukrainsk droneangrep mot russisk havneby, sier russiske myndigheter",
-      "link": "https://www.nrk.no/nyheter/en-drept-i-stort-ukrainsk-droneangrep-mot-russisk-havneby_-sier-russiske-myndigheter-1.17853020",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 20 Apr 2026 03:55:54 GMT"
+      "title": "Oljeaksjer stiger på Oslo Børs – Equinor opp nær 4 prosent",
+      "link": "https://www.nrk.no/nyheter/oljeaksjer-stiger-pa-oslo-bors-_-equinor-opp-naer-4-prosent-1.17853185",
+      "category": "Oslo Børs",
+      "pubDate": "Mon, 20 Apr 2026 07:06:34 GMT"
     },
     {
-      "title": "Kvinne reddet ut fra røykfylt blokkleilighet i Bergen",
-      "link": "https://www.nrk.no/nyheter/kvinne-reddet-ut-fra-roykfylt-blokkleilighet-i-bergen-1.17853019",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 20 Apr 2026 02:42:35 GMT"
-    },
-    {
-      "title": "Trafikkulykke på Romerike - fører tatt med kniv og øks",
-      "link": "https://www.nrk.no/nyheter/trafikkulykke-pa-romerike----forer-tatt-med-kniv-og-oks-1.17853017",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 20 Apr 2026 02:34:57 GMT"
-    },
-    {
-      "title": "Enighet i meklingen i byggeindustrien – streik avverget",
-      "link": "https://www.nrk.no/nyheter/enighet-i-meklingen-i-byggeindustrien-_-streik-avverget-1.17853016",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Mon, 20 Apr 2026 00:48:00 GMT"
+      "title": "Eriksen Søreide: En krig ingen i Europa hadde bedt om",
+      "link": "https://www.nrk.no/nyheter/eriksen-soreide_-en-krig-ingen-i-europa-hadde-bedt-om-1.17853194",
+      "category": "Partiet Høyre",
+      "pubDate": "Mon, 20 Apr 2026 07:04:54 GMT"
     }
   ]
 }
