@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-21T00:06:35.670Z",
+  "updatedAt": "2026-04-21T03:51:30.085Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Golv i sauefjøs kollapsa i Stryn",
+      "link": "https://www.nrk.no/vestland/golv-i-sauefjos-kollapsa-i-stryn-1.17854456",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 21 Apr 2026 03:14:21 GMT"
+    },
+    {
+      "title": "Ikke meldt om skadde etter jordskjelv",
+      "link": "https://www.nrk.no/nyheter/ikke-meldt-om-skadde-etter-jordskjelv-1.17854453",
+      "category": "Ecuador",
+      "pubDate": "Tue, 21 Apr 2026 02:54:37 GMT"
+    },
+    {
+      "title": "Japansk børs opp tirsdag morgen",
+      "link": "https://www.nrk.no/nyheter/japansk-bors-opp-tirsdag-morgen-1.17854449",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 21 Apr 2026 02:34:08 GMT"
+    },
+    {
+      "title": "Brann i bygård på Tøyen i Oslo – folk søker tilflukt på balkonger",
+      "link": "https://www.nrk.no/nyheter/brann-i-bygard-pa-toyen-i-oslo-_-folk-soker-tilflukt-pa-balkonger-1.17854447",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 21 Apr 2026 01:35:28 GMT"
+    },
+    {
+      "title": "Kilder til Axios: Vance til Islamabad tirsdag",
+      "link": "https://www.nrk.no/nyheter/kilder-til-axios_-vance-til-islamabad-tirsdag-1.17854448",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 21 Apr 2026 00:56:15 GMT"
+    },
     {
       "title": "DT: Drammen sykehus i gul beredskap",
       "link": "https://www.nrk.no/nyheter/dt_-drammen-sykehus-i-gul-beredskap-1.17854446",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 20 Apr 2026 23:34:16 GMT"
-    },
-    {
-      "title": "Amnesty: Verda står ved eit vendepunkt Verda står ved eit vendepunkt",
-      "link": "https://www.nrk.no/nyheter/amnesty_-verda-star-ved-eit-vendepunkt-verda-star-ved-eit-vendepunkt-1.17854443",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 20 Apr 2026 23:09:15 GMT"
-    },
-    {
-      "title": "Iran: Aksepterer ikke forhandlinger med trusler",
-      "link": "https://www.nrk.no/nyheter/iran_-aksepterer-ikke-forhandlinger-med-trusler-1.17854422",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 20 Apr 2026 22:32:29 GMT"
-    },
-    {
-      "title": "USAs arbeidsminister Chavez-DeRemer går av",
-      "link": "https://www.nrk.no/nyheter/usas-arbeidsminister-chavez-deremer-gar-av-1.17854406",
-      "category": "USA",
-      "pubDate": "Mon, 20 Apr 2026 21:27:29 GMT"
-    },
-    {
-      "title": "DT: Drammen sykehus har nettverksproblemer",
-      "link": "https://www.nrk.no/nyheter/dt_-drammen-sykehus-har-nettverksproblemer-1.17854390",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 20 Apr 2026 20:59:49 GMT"
-    },
-    {
-      "title": "Ny pris til Solfrid Koanda",
-      "link": "https://www.nrk.no/sport/ny-pris-til-solfrid-koanda-1.17854392",
-      "category": "Sportsnyheter",
-      "pubDate": "Mon, 20 Apr 2026 20:55:31 GMT"
     }
   ]
 }
