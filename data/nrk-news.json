@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-21T22:08:16.359Z",
+  "updatedAt": "2026-04-21T23:07:56.801Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kvinne pågrepet etter voldshendelse",
+      "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-voldshendelse-1.17856034",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 21 Apr 2026 22:52:24 GMT"
+    },
     {
       "title": "Iransk rådgiver om utvidet våpenhvile: – Betyr ingenting",
       "link": "https://www.nrk.no/nyheter/iransk-radgiver-om-utvidet-vapenhvile_-_-betyr-ingenting-1.17855995",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/trondelag/roykutvikling-pa-lade-i-trondheim-1.17855944",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Tue, 21 Apr 2026 19:10:17 GMT"
-    },
-    {
-      "title": "Hizbollah: Svarte på Israels brot på våpenkvila",
-      "link": "https://www.nrk.no/nyheter/hizbollah_-svarte-pa-israels-brot-pa-vapenkvila-1.17855921",
-      "category": "Libanon og Israel",
-      "pubDate": "Tue, 21 Apr 2026 19:06:35 GMT"
     }
   ]
 }
