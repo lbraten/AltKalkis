@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-04-21T19:24:14.922Z",
+  "updatedAt": "2026-04-21T20:27:09.194Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Trump: USA forlenger våpenhvilen med Iran",
+      "link": "https://www.nrk.no/nyheter/trump_-usa-forlenger-vapenhvilen-med-iran-1.17855994",
+      "category": "high",
+      "pubDate": "Tue, 21 Apr 2026 20:13:30 GMT"
+    },
+    {
+      "title": "Én alvorlig skadd etter volds­hendelse i Bærum",
+      "link": "https://www.nrk.no/stor-oslo/en-alvorlig-skadd-etter-voldshendelse-i-baerum-1.17855902",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 21 Apr 2026 20:10:21 GMT"
+    },
+    {
       "title": "Reuters: Iran kan delta i samtalar om USA sluttar med press og truslar",
       "link": "https://www.nrk.no/nyheter/reuters_-iran-kan-delta-i-samtalar-om-usa-sluttar-med-press-og-truslar-1.17855938",
-      "category": "NRK Nyheter",
+      "category": "Forholdet Iran – USA",
       "pubDate": "Tue, 21 Apr 2026 19:21:05 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/lufthansa-kansellerer-20.000-flyavgangar-1.17855899",
       "category": "Lufthansa",
       "pubDate": "Tue, 21 Apr 2026 18:47:26 GMT"
-    },
-    {
-      "title": "Mann funnet død i Hemsedal",
-      "link": "https://www.nrk.no/buskerud/mann-funnet-dod-i-hemsedal-1.17855671",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Tue, 21 Apr 2026 18:30:02 GMT"
-    },
-    {
-      "title": "VG: Norwegian-fly til London måtte snu med sprokken frontrute",
-      "link": "https://www.nrk.no/nyheter/vg_-norwegian-fly-til-london-matte-snu-med-sprokken-frontrute-1.17855860",
-      "category": "Flyselskapet Norwegian",
-      "pubDate": "Tue, 21 Apr 2026 18:23:43 GMT"
     }
   ]
 }
