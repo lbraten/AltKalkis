@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-04-21T20:27:09.194Z",
+  "updatedAt": "2026-04-21T21:22:58.913Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Iransk rådgiver om utvidet våpenhvile: – Betyr ingenting",
+      "link": "https://www.nrk.no/nyheter/iransk-radgiver-om-utvidet-vapenhvile_-_-betyr-ingenting-1.17855995",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 21 Apr 2026 21:10:07 GMT"
+    },
+    {
       "title": "Trump: USA forlenger våpenhvilen med Iran",
       "link": "https://www.nrk.no/nyheter/trump_-usa-forlenger-vapenhvilen-med-iran-1.17855994",
-      "category": "high",
+      "category": "Forholdet Iran – USA",
       "pubDate": "Tue, 21 Apr 2026 20:13:30 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hizbollah_-svarte-pa-israels-brot-pa-vapenkvila-1.17855921",
       "category": "Libanon og Israel",
       "pubDate": "Tue, 21 Apr 2026 19:06:35 GMT"
-    },
-    {
-      "title": "Lufthansa kansellerer 20.000 flyavgangar",
-      "link": "https://www.nrk.no/nyheter/lufthansa-kansellerer-20.000-flyavgangar-1.17855899",
-      "category": "Lufthansa",
-      "pubDate": "Tue, 21 Apr 2026 18:47:26 GMT"
     }
   ]
 }
