@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-20T23:09:26.569Z",
+  "updatedAt": "2026-04-21T00:06:35.670Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "DT: Drammen sykehus i gul beredskap",
+      "link": "https://www.nrk.no/nyheter/dt_-drammen-sykehus-i-gul-beredskap-1.17854446",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 20 Apr 2026 23:34:16 GMT"
+    },
+    {
+      "title": "Amnesty: Verda står ved eit vendepunkt Verda står ved eit vendepunkt",
+      "link": "https://www.nrk.no/nyheter/amnesty_-verda-star-ved-eit-vendepunkt-verda-star-ved-eit-vendepunkt-1.17854443",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 20 Apr 2026 23:09:15 GMT"
+    },
     {
       "title": "Iran: Aksepterer ikke forhandlinger med trusler",
       "link": "https://www.nrk.no/nyheter/iran_-aksepterer-ikke-forhandlinger-med-trusler-1.17854422",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sport/ny-pris-til-solfrid-koanda-1.17854392",
       "category": "Sportsnyheter",
       "pubDate": "Mon, 20 Apr 2026 20:55:31 GMT"
-    },
-    {
-      "title": "West Ham sikret viktig poeng – Wolverhampton rykket ned",
-      "link": "https://www.nrk.no/sport/west-ham-sikret-viktig-poeng-_-wolverhampton-rykket-ned-1.17854382",
-      "category": "Sportsnyheter",
-      "pubDate": "Mon, 20 Apr 2026 20:54:46 GMT"
-    },
-    {
-      "title": "Apple-toppsjef gir seg i september",
-      "link": "https://www.nrk.no/nyheter/apple-toppsjef-gir-seg-i-september-1.17854379",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 20 Apr 2026 20:44:49 GMT"
     }
   ]
 }
