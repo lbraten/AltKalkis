@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-21T16:36:12.247Z",
+  "updatedAt": "2026-04-21T17:59:26.992Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Libanons statsminister møter Macron i Paris",
+      "link": "https://www.nrk.no/nyheter/libanons-statsminister-moter-macron-i-paris-1.17855813",
+      "category": "Libanon",
+      "pubDate": "Tue, 21 Apr 2026 17:55:39 GMT"
+    },
+    {
+      "title": "Raja til VG: Vil heller ha Støre enn Listhaug",
+      "link": "https://www.nrk.no/nyheter/raja-til-vg_-vil-heller-ha-store-enn-listhaug-1.17855772",
+      "category": "Venstre",
+      "pubDate": "Tue, 21 Apr 2026 17:27:23 GMT"
+    },
+    {
+      "title": "Den russiske ambassadøren i Italia er kalla inn på teppet",
+      "link": "https://www.nrk.no/nyheter/den-russiske-ambassadoren-i-italia-er-kalla-inn-pa-teppet-1.17855764",
+      "category": "Italia",
+      "pubDate": "Tue, 21 Apr 2026 17:08:25 GMT"
+    },
+    {
+      "title": "Israel: Hizbollah skaut mot israelske soldatar",
+      "link": "https://www.nrk.no/nyheter/israel_-hizbollah-skaut-mot-israelske-soldatar-1.17855721",
+      "category": "Libanon og Israel",
+      "pubDate": "Tue, 21 Apr 2026 16:53:12 GMT"
+    },
     {
       "title": "Reuters: Vance er framleis i Washington",
       "link": "https://www.nrk.no/nyheter/reuters_-vance-er-framleis-i-washington-1.17855707",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/frp-fortsetter-framgangen-1.17855669",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 21 Apr 2026 16:02:32 GMT"
-    },
-    {
-      "title": "Trailersjåfør anker dommen",
-      "link": "https://www.nrk.no/sorlandet/trailersjafor-anker-dommen-1.17855612",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Tue, 21 Apr 2026 15:34:00 GMT"
-    },
-    {
-      "title": "Arbeidsulykke i Færder",
-      "link": "https://www.nrk.no/vestfoldogtelemark/arbeidsulykke-i-faerder-1.17855598",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 21 Apr 2026 15:30:35 GMT"
-    },
-    {
-      "title": "Fleire omkomne i brannar i India",
-      "link": "https://www.nrk.no/nyheter/fleire-omkomne-i-brannar-i-india-1.17855640",
-      "category": "India",
-      "pubDate": "Tue, 21 Apr 2026 15:30:34 GMT"
-    },
-    {
-      "title": "Ikkje paraglider-ulukke på Tysnes",
-      "link": "https://www.nrk.no/vestland/ikkje-paraglider-ulukke-pa-tysnes--1.17855632",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 21 Apr 2026 15:12:48 GMT"
     }
   ]
 }
