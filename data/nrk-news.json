@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-04-21T03:51:30.085Z",
+  "updatedAt": "2026-04-21T06:03:40.268Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Golv i sauefjøs kollapsa i Stryn",
-      "link": "https://www.nrk.no/vestland/golv-i-sauefjos-kollapsa-i-stryn-1.17854456",
+      "title": "Alle tog gjennom Blixtunnelen innstilt",
+      "link": "https://www.nrk.no/stor-oslo/alle-tog-gjennom-blixtunnelen-innstilt--1.17854500",
+      "category": "Tog og jernbane",
+      "pubDate": "Tue, 21 Apr 2026 05:31:38 GMT"
+    },
+    {
+      "title": "Kaffe blir billigere – kan ta måneder før det merkes i Norge",
+      "link": "https://www.nrk.no/nyheter/kaffe-blir-billigere-_-kan-ta-maneder-for-det-merkes-i-norge-1.17854506",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 21 Apr 2026 04:58:38 GMT"
+    },
+    {
+      "title": "Golv i sauefjøs kollapsa – truleg 50 døde sauer",
+      "link": "https://www.nrk.no/vestland/golv-i-sauefjos-kollapsa-_-truleg-50-dode-sauer-1.17854456",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Tue, 21 Apr 2026 03:14:21 GMT"
     },
@@ -17,7 +29,7 @@
     {
       "title": "Japansk børs opp tirsdag morgen",
       "link": "https://www.nrk.no/nyheter/japansk-bors-opp-tirsdag-morgen-1.17854449",
-      "category": "NRK Nyheter",
+      "category": "Japan",
       "pubDate": "Tue, 21 Apr 2026 02:34:08 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brann-i-bygard-pa-toyen-i-oslo-_-folk-soker-tilflukt-pa-balkonger-1.17854447",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 21 Apr 2026 01:35:28 GMT"
-    },
-    {
-      "title": "Kilder til Axios: Vance til Islamabad tirsdag",
-      "link": "https://www.nrk.no/nyheter/kilder-til-axios_-vance-til-islamabad-tirsdag-1.17854448",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 21 Apr 2026 00:56:15 GMT"
-    },
-    {
-      "title": "DT: Drammen sykehus i gul beredskap",
-      "link": "https://www.nrk.no/nyheter/dt_-drammen-sykehus-i-gul-beredskap-1.17854446",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 20 Apr 2026 23:34:16 GMT"
     }
   ]
 }
