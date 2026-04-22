@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-04-22T10:01:08.774Z",
+  "updatedAt": "2026-04-22T11:37:44.770Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "BBC: Skip angrepet i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/bbc_-skip-angrepet-i-hormuzstredet-1.17856593",
+      "title": "Signalfeil på Vestfoldbanen",
+      "link": "https://www.nrk.no/vestfoldogtelemark/signalfeil-pa-vestfoldbanen-1.17856811",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 22 Apr 2026 11:19:02 GMT"
+    },
+    {
+      "title": "Overfallssakene: Utvider siktelsen",
+      "link": "https://www.nrk.no/stor-oslo/overfallssakene_-utvider-siktelsen-1.17856586",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 22 Apr 2026 11:12:22 GMT"
+    },
+    {
+      "title": "EU-lån på 90 milliarder euro til Ukraina godkjent",
+      "link": "https://www.nrk.no/nyheter/eu-lan-pa-90-milliarder-euro-til-ukraina-godkjent-1.17856522",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 22 Apr 2026 10:48:03 GMT"
+    },
+    {
+      "title": "Anker dom etter barnehagesak",
+      "link": "https://www.nrk.no/vestland/anker-dom-etter-barnehagesak--1.17856696",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 22 Apr 2026 10:37:52 GMT"
+    },
+    {
+      "title": "BBC: Nytt skip angrepet i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/bbc_-nytt-skip-angrepet-i-hormuzstredet-1.17856593",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 22 Apr 2026 09:44:34 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/okokrim-advarer-mot-forhoyet-korrupsjonsrisiko-i-forsvarssektoren-1.17856560",
       "category": "Økokrim",
       "pubDate": "Wed, 22 Apr 2026 09:30:19 GMT"
-    },
-    {
-      "title": "Etterforsker voldshendelse i Bærum som drapsforsøk",
-      "link": "https://www.nrk.no/stor-oslo/etterforsker-voldshendelse-i-baerum-som-drapsforsok--1.17856374",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 22 Apr 2026 09:27:10 GMT"
-    },
-    {
-      "title": "Alvorlig arbeidsulykke i Stavanger",
-      "link": "https://www.nrk.no/rogaland/alvorlig-arbeidsulykke-i-stavanger-1.17856517",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 22 Apr 2026 09:23:32 GMT"
-    },
-    {
-      "title": "20 skoler i Sverige stengt etter voldstrussel",
-      "link": "https://www.nrk.no/nyheter/20-skoler-i-sverige-stengt-etter-voldstrussel-1.17856549",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 22 Apr 2026 09:13:00 GMT"
-    },
-    {
-      "title": "Folkeavstemning på Toten kollapset etter få minutter",
-      "link": "https://www.nrk.no/innlandet/folkeavstemning-pa-toten-kollapset-etter-fa-minutter-1.17856471",
-      "category": "Kommunesammenslåing på Toten",
-      "pubDate": "Wed, 22 Apr 2026 08:59:57 GMT"
     }
   ]
 }
