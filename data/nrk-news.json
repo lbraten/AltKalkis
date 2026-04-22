@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-22T16:37:59.650Z",
+  "updatedAt": "2026-04-22T18:00:44.257Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Montenegro på veg til å bli EU-medlem",
+      "link": "https://www.nrk.no/nyheter/montenegro-pa-veg-til-a-bli-eu-medlem-1.17857222",
+      "category": "Montenegro",
+      "pubDate": "Wed, 22 Apr 2026 17:56:58 GMT"
+    },
+    {
+      "title": "Melding om ulykke i Rakkestad",
+      "link": "https://www.nrk.no/ostfold/melding-om-ulykke-i-rakkestad-1.17857410",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Wed, 22 Apr 2026 17:39:37 GMT"
+    },
+    {
+      "title": "BT: Utbrudd av resistente bakterier på Haukeland",
+      "link": "https://www.nrk.no/vestland/bt_-utbrudd-av-resistente-bakterier-pa-haukeland--1.17857214",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 22 Apr 2026 17:25:19 GMT"
+    },
+    {
+      "title": "Mann alvorlig skadet under oppussingsarbeid i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/mann-alvorlig-skadet-under-oppussingsarbeid-i-oslo-1.17857401",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 22 Apr 2026 17:23:39 GMT"
+    },
     {
       "title": "Helsedirektoratet skal lage nye retningslinjer for utredning og behandling av ADHD",
       "link": "https://www.nrk.no/nyheter/helsedirektoratet-skal-lage-nye-retningslinjer-for-utredning-og-behandling-av-adhd-1.17857387",
@@ -9,34 +33,10 @@
       "pubDate": "Wed, 22 Apr 2026 16:20:20 GMT"
     },
     {
-      "title": "Rekordtidleg opning av Trollstigen",
-      "link": "https://www.nrk.no/mr/rekordtidleg-opning-av-trollstigen-1.17857392",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 22 Apr 2026 16:05:33 GMT"
-    },
-    {
-      "title": "Motorsykkel har krasjet i fjellvegg",
-      "link": "https://www.nrk.no/vestfoldogtelemark/motorsykkel-har-krasjet-i-fjellvegg-1.17857256",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 22 Apr 2026 16:03:24 GMT"
-    },
-    {
-      "title": "Brann i bolig- og næringsbygg på Otta",
-      "link": "https://www.nrk.no/innlandet/brann-i-bolig--og-naeringsbygg-pa-otta-1.17857303",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Wed, 22 Apr 2026 15:06:53 GMT"
-    },
-    {
-      "title": "Tysk universitet åpner Europas første fakultet for islam-teologi",
-      "link": "https://www.nrk.no/nyheter/tysk-universitet-apner-europas-forste-fakultet-for-islam-teologi-1.17857218",
-      "category": "Tyskland",
-      "pubDate": "Wed, 22 Apr 2026 13:47:55 GMT"
-    },
-    {
-      "title": "Skadd FN-soldat i Libanon døydde",
-      "link": "https://www.nrk.no/nyheter/skadd-fn-soldat-i-libanon-doydde-1.17857193",
-      "category": "Libanon",
-      "pubDate": "Wed, 22 Apr 2026 13:46:34 GMT"
+      "title": "Kontroll på mann med kniv i Oslo sentrum",
+      "link": "https://www.nrk.no/stor-oslo/kontroll-pa-mann-med-kniv-i-oslo-sentrum-1.17857314",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 22 Apr 2026 16:18:05 GMT"
     }
   ]
 }
