@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-22T00:01:33.086Z",
+  "updatedAt": "2026-04-22T03:47:58.019Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "President: Péter Magyar tas i ed 9. mai",
+      "link": "https://www.nrk.no/nyheter/president_-peter-magyar-tas-i-ed-9.-mai-1.17856054",
+      "category": "Ungarn",
+      "pubDate": "Wed, 22 Apr 2026 02:27:31 GMT"
+    },
+    {
+      "title": "Ber FN fordømme lasteskip-beslag",
+      "link": "https://www.nrk.no/nyheter/ber-fn-fordomme-lasteskip-beslag-1.17856053",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 22 Apr 2026 01:28:28 GMT"
+    },
     {
       "title": "Oljeprisene falt etter Trumps forlengelse av Iran-våpenhvilen",
       "link": "https://www.nrk.no/nyheter/oljeprisene-falt-etter-trumps-forlengelse-av-iran-vapenhvilen-1.17856049",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-usa-forlenger-vapenhvilen-med-iran-1.17855994",
       "category": "Forholdet Iran – USA",
       "pubDate": "Tue, 21 Apr 2026 20:13:30 GMT"
-    },
-    {
-      "title": "Én alvorlig skadd etter volds­hendelse i Bærum",
-      "link": "https://www.nrk.no/stor-oslo/en-alvorlig-skadd-etter-voldshendelse-i-baerum-1.17855902",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 21 Apr 2026 20:10:21 GMT"
-    },
-    {
-      "title": "Reuters: Iran kan delta i samtalar om USA sluttar med press og truslar",
-      "link": "https://www.nrk.no/nyheter/reuters_-iran-kan-delta-i-samtalar-om-usa-sluttar-med-press-og-truslar-1.17855938",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 21 Apr 2026 19:21:05 GMT"
     }
   ]
 }
