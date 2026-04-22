@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-22T18:00:44.257Z",
+  "updatedAt": "2026-04-22T19:46:53.292Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oslo Ap sier ja til bydelsreform",
+      "link": "https://www.nrk.no/stor-oslo/-oslo-ap-sier-ja-til-bydelsreform-1.17857460",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 22 Apr 2026 19:11:48 GMT"
+    },
+    {
+      "title": "VG: Datainnbrot hos Rituals",
+      "link": "https://www.nrk.no/nyheter/vg_-datainnbrot-hos-rituals-1.17857500",
+      "category": "Datasikkerhet",
+      "pubDate": "Wed, 22 Apr 2026 18:16:22 GMT"
+    },
     {
       "title": "Montenegro på veg til å bli EU-medlem",
       "link": "https://www.nrk.no/nyheter/montenegro-pa-veg-til-a-bli-eu-medlem-1.17857222",
@@ -9,8 +21,8 @@
       "pubDate": "Wed, 22 Apr 2026 17:56:58 GMT"
     },
     {
-      "title": "Melding om ulykke i Rakkestad",
-      "link": "https://www.nrk.no/ostfold/melding-om-ulykke-i-rakkestad-1.17857410",
+      "title": "Ulykke i Rakkestad",
+      "link": "https://www.nrk.no/ostfold/ulykke-i-rakkestad-1.17857410",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Wed, 22 Apr 2026 17:39:37 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/mann-alvorlig-skadet-under-oppussingsarbeid-i-oslo-1.17857401",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 22 Apr 2026 17:23:39 GMT"
-    },
-    {
-      "title": "Helsedirektoratet skal lage nye retningslinjer for utredning og behandling av ADHD",
-      "link": "https://www.nrk.no/nyheter/helsedirektoratet-skal-lage-nye-retningslinjer-for-utredning-og-behandling-av-adhd-1.17857387",
-      "category": "Helsetjenester",
-      "pubDate": "Wed, 22 Apr 2026 16:20:20 GMT"
-    },
-    {
-      "title": "Kontroll på mann med kniv i Oslo sentrum",
-      "link": "https://www.nrk.no/stor-oslo/kontroll-pa-mann-med-kniv-i-oslo-sentrum-1.17857314",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 22 Apr 2026 16:18:05 GMT"
     }
   ]
 }
