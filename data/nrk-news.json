@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-22T06:01:29.305Z",
+  "updatedAt": "2026-04-22T08:15:39.217Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Valgkartet i Virginia endres",
-      "link": "https://www.nrk.no/nyheter/valgkartet-i-virginia-endres-1.17856112",
-      "category": "Valg i USA",
-      "pubDate": "Wed, 22 Apr 2026 05:35:51 GMT"
+      "title": "Brann på Majorstua i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/brann-pa-majorstua-i-oslo-1.17856239",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 22 Apr 2026 07:50:43 GMT"
     },
     {
-      "title": "Konteinerskip angrepet utenfor Oman",
-      "link": "https://www.nrk.no/nyheter/konteinerskip-angrepet-utenfor-oman-1.17856124",
-      "category": "Iran",
-      "pubDate": "Wed, 22 Apr 2026 05:00:27 GMT"
-    },
-    {
-      "title": "Russiske myndigheter: Fire reddet etter ukrainsk droneangrep",
-      "link": "https://www.nrk.no/nyheter/russiske-myndigheter_-fire-reddet-etter-ukrainsk-droneangrep-1.17856048",
+      "title": "Reuters: Ukraina vil ha møte mellom Zelenskyj og Putin",
+      "link": "https://www.nrk.no/nyheter/reuters_-ukraina-vil-ha-mote-mellom-zelenskyj-og-putin-1.17856289",
       "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 22 Apr 2026 03:57:48 GMT"
+      "pubDate": "Wed, 22 Apr 2026 07:30:15 GMT"
     },
     {
-      "title": "President: Péter Magyar tas i ed 9. mai",
-      "link": "https://www.nrk.no/nyheter/president_-peter-magyar-tas-i-ed-9.-mai-1.17856054",
-      "category": "Ungarn",
-      "pubDate": "Wed, 22 Apr 2026 02:27:31 GMT"
+      "title": "Stordalen ny første visepresident på Stortinget",
+      "link": "https://www.nrk.no/nyheter/stordalen-ny-forste-visepresident-pa-stortinget-1.17856270",
+      "category": "Stortinget",
+      "pubDate": "Wed, 22 Apr 2026 07:16:25 GMT"
     },
     {
-      "title": "Ber FN fordømme lasteskip-beslag",
-      "link": "https://www.nrk.no/nyheter/ber-fn-fordomme-lasteskip-beslag-1.17856053",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 22 Apr 2026 01:28:28 GMT"
+      "title": "Kronprins Haakon beskytter for årets TV-aksjon",
+      "link": "https://www.nrk.no/nyheter/kronprins-haakon-beskytter-for-arets-tv-aksjon-1.17856216",
+      "category": "TV-aksjonen 2026",
+      "pubDate": "Wed, 22 Apr 2026 07:15:47 GMT"
     },
     {
-      "title": "Oljeprisene falt etter Trumps forlengelse av Iran-våpenhvilen",
-      "link": "https://www.nrk.no/nyheter/oljeprisene-falt-etter-trumps-forlengelse-av-iran-vapenhvilen-1.17856049",
-      "category": "Oljeprisen",
-      "pubDate": "Tue, 21 Apr 2026 23:32:52 GMT"
+      "title": "Myrseth: Staten overtar Fensfeltet",
+      "link": "https://www.nrk.no/nyheter/myrseth_-staten-overtar-fensfeltet-1.17856180",
+      "category": "Fensfeltet",
+      "pubDate": "Wed, 22 Apr 2026 06:32:13 GMT"
+    },
+    {
+      "title": "Person drept i droneangrep i Libanon",
+      "link": "https://www.nrk.no/nyheter/person-drept-i-droneangrep-i-libanon-1.17856160",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 22 Apr 2026 06:29:25 GMT"
     }
   ]
 }
