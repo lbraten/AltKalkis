@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-22T15:15:48.919Z",
+  "updatedAt": "2026-04-22T16:37:59.650Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Helsedirektoratet skal lage nye retningslinjer for utredning og behandling av ADHD",
+      "link": "https://www.nrk.no/nyheter/helsedirektoratet-skal-lage-nye-retningslinjer-for-utredning-og-behandling-av-adhd-1.17857387",
+      "category": "Helsetjenester",
+      "pubDate": "Wed, 22 Apr 2026 16:20:20 GMT"
+    },
+    {
+      "title": "Rekordtidleg opning av Trollstigen",
+      "link": "https://www.nrk.no/mr/rekordtidleg-opning-av-trollstigen-1.17857392",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Wed, 22 Apr 2026 16:05:33 GMT"
+    },
+    {
+      "title": "Motorsykkel har krasjet i fjellvegg",
+      "link": "https://www.nrk.no/vestfoldogtelemark/motorsykkel-har-krasjet-i-fjellvegg-1.17857256",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 22 Apr 2026 16:03:24 GMT"
+    },
     {
       "title": "Brann i bolig- og næringsbygg på Otta",
       "link": "https://www.nrk.no/innlandet/brann-i-bolig--og-naeringsbygg-pa-otta-1.17857303",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skadd-fn-soldat-i-libanon-doydde-1.17857193",
       "category": "Libanon",
       "pubDate": "Wed, 22 Apr 2026 13:46:34 GMT"
-    },
-    {
-      "title": "Starmer avviser Mandelson-press",
-      "link": "https://www.nrk.no/nyheter/starmer-avviser-mandelson-press-1.17857179",
-      "category": "Storbritannia",
-      "pubDate": "Wed, 22 Apr 2026 13:33:36 GMT"
-    },
-    {
-      "title": "Russland bekrefter at de stenger oljeforsyning fra Kasakhstan til Tyskland",
-      "link": "https://www.nrk.no/nyheter/-russland-bekrefter-at-de-stenger-oljeforsyning-fra-kasakhstan-til-tyskland-1.17857161",
-      "category": "Russland",
-      "pubDate": "Wed, 22 Apr 2026 13:23:22 GMT"
-    },
-    {
-      "title": "Økning i antall bostedsløse i Norge",
-      "link": "https://www.nrk.no/nyheter/okning-i-antall-bostedslose-i-norge-1.17857148",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 22 Apr 2026 13:15:11 GMT"
     }
   ]
 }
