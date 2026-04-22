@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-22T08:15:39.217Z",
+  "updatedAt": "2026-04-22T10:01:08.774Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Brann på Majorstua i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/brann-pa-majorstua-i-oslo-1.17856239",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 22 Apr 2026 07:50:43 GMT"
-    },
-    {
-      "title": "Reuters: Ukraina vil ha møte mellom Zelenskyj og Putin",
-      "link": "https://www.nrk.no/nyheter/reuters_-ukraina-vil-ha-mote-mellom-zelenskyj-og-putin-1.17856289",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 22 Apr 2026 07:30:15 GMT"
-    },
-    {
-      "title": "Stordalen ny første visepresident på Stortinget",
-      "link": "https://www.nrk.no/nyheter/stordalen-ny-forste-visepresident-pa-stortinget-1.17856270",
-      "category": "Stortinget",
-      "pubDate": "Wed, 22 Apr 2026 07:16:25 GMT"
-    },
-    {
-      "title": "Kronprins Haakon beskytter for årets TV-aksjon",
-      "link": "https://www.nrk.no/nyheter/kronprins-haakon-beskytter-for-arets-tv-aksjon-1.17856216",
-      "category": "TV-aksjonen 2026",
-      "pubDate": "Wed, 22 Apr 2026 07:15:47 GMT"
-    },
-    {
-      "title": "Myrseth: Staten overtar Fensfeltet",
-      "link": "https://www.nrk.no/nyheter/myrseth_-staten-overtar-fensfeltet-1.17856180",
-      "category": "Fensfeltet",
-      "pubDate": "Wed, 22 Apr 2026 06:32:13 GMT"
-    },
-    {
-      "title": "Person drept i droneangrep i Libanon",
-      "link": "https://www.nrk.no/nyheter/person-drept-i-droneangrep-i-libanon-1.17856160",
+      "title": "BBC: Skip angrepet i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/bbc_-skip-angrepet-i-hormuzstredet-1.17856593",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 22 Apr 2026 06:29:25 GMT"
+      "pubDate": "Wed, 22 Apr 2026 09:44:34 GMT"
+    },
+    {
+      "title": "Økokrim advarer mot forhøyet korrupsjonsrisiko i forsvarssektoren",
+      "link": "https://www.nrk.no/nyheter/okokrim-advarer-mot-forhoyet-korrupsjonsrisiko-i-forsvarssektoren-1.17856560",
+      "category": "Økokrim",
+      "pubDate": "Wed, 22 Apr 2026 09:30:19 GMT"
+    },
+    {
+      "title": "Etterforsker voldshendelse i Bærum som drapsforsøk",
+      "link": "https://www.nrk.no/stor-oslo/etterforsker-voldshendelse-i-baerum-som-drapsforsok--1.17856374",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 22 Apr 2026 09:27:10 GMT"
+    },
+    {
+      "title": "Alvorlig arbeidsulykke i Stavanger",
+      "link": "https://www.nrk.no/rogaland/alvorlig-arbeidsulykke-i-stavanger-1.17856517",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 22 Apr 2026 09:23:32 GMT"
+    },
+    {
+      "title": "20 skoler i Sverige stengt etter voldstrussel",
+      "link": "https://www.nrk.no/nyheter/20-skoler-i-sverige-stengt-etter-voldstrussel-1.17856549",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 22 Apr 2026 09:13:00 GMT"
+    },
+    {
+      "title": "Folkeavstemning på Toten kollapset etter få minutter",
+      "link": "https://www.nrk.no/innlandet/folkeavstemning-pa-toten-kollapset-etter-fa-minutter-1.17856471",
+      "category": "Kommunesammenslåing på Toten",
+      "pubDate": "Wed, 22 Apr 2026 08:59:57 GMT"
     }
   ]
 }
