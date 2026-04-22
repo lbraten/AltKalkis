@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-22T20:58:00.471Z",
+  "updatedAt": "2026-04-22T21:58:24.399Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USAs marineminister John C. Phelan går av",
+      "link": "https://www.nrk.no/nyheter/usas-marineminister-john-c.-phelan-gar-av-1.17857639",
+      "category": "USA",
+      "pubDate": "Wed, 22 Apr 2026 21:56:40 GMT"
+    },
     {
       "title": "Libanon: Journalist drepen i israelsk angrep",
       "link": "https://www.nrk.no/nyheter/libanon_-journalist-drepen-i-israelsk-angrep-1.17857621",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vg_-datainnbrot-hos-rituals-1.17857500",
       "category": "Datasikkerhet",
       "pubDate": "Wed, 22 Apr 2026 18:16:22 GMT"
-    },
-    {
-      "title": "Montenegro på veg til å bli EU-medlem",
-      "link": "https://www.nrk.no/nyheter/montenegro-pa-veg-til-a-bli-eu-medlem-1.17857222",
-      "category": "Montenegro",
-      "pubDate": "Wed, 22 Apr 2026 17:56:58 GMT"
     }
   ]
 }
