@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-22T03:47:58.019Z",
+  "updatedAt": "2026-04-22T06:01:29.305Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Valgkartet i Virginia endres",
+      "link": "https://www.nrk.no/nyheter/valgkartet-i-virginia-endres-1.17856112",
+      "category": "Valg i USA",
+      "pubDate": "Wed, 22 Apr 2026 05:35:51 GMT"
+    },
+    {
+      "title": "Konteinerskip angrepet utenfor Oman",
+      "link": "https://www.nrk.no/nyheter/konteinerskip-angrepet-utenfor-oman-1.17856124",
+      "category": "Iran",
+      "pubDate": "Wed, 22 Apr 2026 05:00:27 GMT"
+    },
+    {
+      "title": "Russiske myndigheter: Fire reddet etter ukrainsk droneangrep",
+      "link": "https://www.nrk.no/nyheter/russiske-myndigheter_-fire-reddet-etter-ukrainsk-droneangrep-1.17856048",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 22 Apr 2026 03:57:48 GMT"
+    },
     {
       "title": "President: Péter Magyar tas i ed 9. mai",
       "link": "https://www.nrk.no/nyheter/president_-peter-magyar-tas-i-ed-9.-mai-1.17856054",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/oljeprisene-falt-etter-trumps-forlengelse-av-iran-vapenhvilen-1.17856049",
       "category": "Oljeprisen",
       "pubDate": "Tue, 21 Apr 2026 23:32:52 GMT"
-    },
-    {
-      "title": "Kvinne pågrepet etter voldshendelse",
-      "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-voldshendelse-1.17856034",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 21 Apr 2026 22:52:24 GMT"
-    },
-    {
-      "title": "Iransk rådgiver om utvidet våpenhvile: – Betyr ingenting",
-      "link": "https://www.nrk.no/nyheter/iransk-radgiver-om-utvidet-vapenhvile_-_-betyr-ingenting-1.17855995",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 21 Apr 2026 21:10:07 GMT"
-    },
-    {
-      "title": "Trump: USA forlenger våpenhvilen med Iran",
-      "link": "https://www.nrk.no/nyheter/trump_-usa-forlenger-vapenhvilen-med-iran-1.17855994",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 21 Apr 2026 20:13:30 GMT"
     }
   ]
 }
