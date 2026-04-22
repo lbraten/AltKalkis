@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-22T13:46:43.405Z",
+  "updatedAt": "2026-04-22T15:15:48.919Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i bolig- og næringsbygg på Otta",
+      "link": "https://www.nrk.no/innlandet/brann-i-bolig--og-naeringsbygg-pa-otta-1.17857303",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Wed, 22 Apr 2026 15:06:53 GMT"
+    },
+    {
+      "title": "Tysk universitet åpner Europas første fakultet for islam-teologi",
+      "link": "https://www.nrk.no/nyheter/tysk-universitet-apner-europas-forste-fakultet-for-islam-teologi-1.17857218",
+      "category": "Tyskland",
+      "pubDate": "Wed, 22 Apr 2026 13:47:55 GMT"
+    },
+    {
+      "title": "Skadd FN-soldat i Libanon døydde",
+      "link": "https://www.nrk.no/nyheter/skadd-fn-soldat-i-libanon-doydde-1.17857193",
+      "category": "Libanon",
+      "pubDate": "Wed, 22 Apr 2026 13:46:34 GMT"
+    },
     {
       "title": "Starmer avviser Mandelson-press",
       "link": "https://www.nrk.no/nyheter/starmer-avviser-mandelson-press-1.17857179",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/okning-i-antall-bostedslose-i-norge-1.17857148",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 22 Apr 2026 13:15:11 GMT"
-    },
-    {
-      "title": "Medium: Libanon ønsker å forlenge våpenkvila",
-      "link": "https://www.nrk.no/nyheter/medium_-libanon-onsker-a-forlenge-vapenkvila-1.17857058",
-      "category": "Libanon og Israel",
-      "pubDate": "Wed, 22 Apr 2026 13:09:54 GMT"
-    },
-    {
-      "title": "Steinras i Stad - må berge ut bilar",
-      "link": "https://www.nrk.no/vestland/steinras-i-stad---ma-berge-ut-bilar--1.17857125",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 22 Apr 2026 13:00:31 GMT"
-    },
-    {
-      "title": "Mistet livet i trafikkulykke i Flesberg",
-      "link": "https://www.nrk.no/buskerud/mistet-livet-i-trafikkulykke-i-flesberg-1.17856145",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Wed, 22 Apr 2026 12:52:54 GMT"
     }
   ]
 }
