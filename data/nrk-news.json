@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-21T23:07:56.801Z",
+  "updatedAt": "2026-04-22T00:01:33.086Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisene falt etter Trumps forlengelse av Iran-våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/oljeprisene-falt-etter-trumps-forlengelse-av-iran-vapenhvilen-1.17856049",
+      "category": "Oljeprisen",
+      "pubDate": "Tue, 21 Apr 2026 23:32:52 GMT"
+    },
     {
       "title": "Kvinne pågrepet etter voldshendelse",
       "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-voldshendelse-1.17856034",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/reuters_-iran-kan-delta-i-samtalar-om-usa-sluttar-med-press-og-truslar-1.17855938",
       "category": "Forholdet Iran – USA",
       "pubDate": "Tue, 21 Apr 2026 19:21:05 GMT"
-    },
-    {
-      "title": "Røykutvikling på Lade i Trondheim",
-      "link": "https://www.nrk.no/trondelag/roykutvikling-pa-lade-i-trondheim-1.17855944",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Tue, 21 Apr 2026 19:10:17 GMT"
     }
   ]
 }
