@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-23T16:59:53.602Z",
+  "updatedAt": "2026-04-23T18:12:19.703Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Smell hørt over Teheran",
+      "link": "https://www.nrk.no/nyheter/smell-hort-over-teheran-1.17859194",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 23 Apr 2026 17:44:50 GMT"
+    },
+    {
+      "title": "Esa åpner sak mot Norge om Førdefjorden",
+      "link": "https://www.nrk.no/nyheter/esa-apner-sak-mot-norge-om-fordefjorden-1.17859147",
+      "category": "Gruvedrift i Førdefjorden",
+      "pubDate": "Thu, 23 Apr 2026 17:38:30 GMT"
+    },
     {
       "title": "E16 stengt i Sør-Aurdal etter alvorlig trafikkulykke",
       "link": "https://www.nrk.no/innlandet/e16-stengt-i-sor-aurdal-etter-alvorlig-trafikkulykke-1.17859055",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/_-israel-venter-pa-gront-lys-for-a-sende-iran-_tilbake-til-steinalderen_-1.17859095",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 23 Apr 2026 16:34:41 GMT"
-    },
-    {
-      "title": "Ukraina hevder å ha drept mange FSB-agenter i droneangrep",
-      "link": "https://www.nrk.no/nyheter/ukraina-hevder-a-ha-drept-mange-fsb-agenter-i-droneangrep-1.17859058",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 23 Apr 2026 16:08:29 GMT"
-    },
-    {
-      "title": "Brenner i fiskebåt",
-      "link": "https://www.nrk.no/vestfoldogtelemark/brenner-i-fiskebat-1.17859006",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 23 Apr 2026 15:54:26 GMT"
     }
   ]
 }
