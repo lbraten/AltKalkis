@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-23T19:50:16.306Z",
+  "updatedAt": "2026-04-23T20:55:30.106Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ti såret i skyting inne på et kjøpesenter i Louisiana i USA",
+      "link": "https://www.nrk.no/nyheter/ti-saret-i-skyting-inne-pa-et-kjopesenter-i-louisiana-i-usa-1.17859266",
+      "category": "USA",
+      "pubDate": "Thu, 23 Apr 2026 19:51:08 GMT"
+    },
     {
       "title": "Meta skal si opp 10 prosent av ansatte",
       "link": "https://www.nrk.no/nyheter/meta-skal-si-opp-10-prosent-av-ansatte-1.17859251",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/esa-apner-sak-mot-norge-om-fordefjorden-1.17859147",
       "category": "Gruvedrift i Førdefjorden",
       "pubDate": "Thu, 23 Apr 2026 17:38:30 GMT"
-    },
-    {
-      "title": "E16 stengt i Sør-Aurdal etter alvorlig trafikkulykke",
-      "link": "https://www.nrk.no/innlandet/e16-stengt-i-sor-aurdal-etter-alvorlig-trafikkulykke-1.17859055",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Thu, 23 Apr 2026 16:54:45 GMT"
     }
   ]
 }
