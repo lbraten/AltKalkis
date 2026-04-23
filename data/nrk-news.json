@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-23T11:12:03.158Z",
+  "updatedAt": "2026-04-23T12:39:30.906Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bredt flertall for bedre tilgang på hormonbehandling",
+      "link": "https://www.nrk.no/nyheter/bredt-flertall-for-bedre-tilgang-pa-hormonbehandling-1.17858543",
+      "category": "high",
+      "pubDate": "Thu, 23 Apr 2026 12:28:34 GMT"
+    },
+    {
+      "title": "EU har formelt godkjent gigantlån til Ukraina",
+      "link": "https://www.nrk.no/nyheter/eu-har-formelt-godkjent-gigantlan-til-ukraina-1.17858494",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 23 Apr 2026 11:47:32 GMT"
+    },
+    {
+      "title": "Vil forlenge våpenhvilen i Libanon",
+      "link": "https://www.nrk.no/nyheter/vil-forlenge-vapenhvilen-i-libanon-1.17858509",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 23 Apr 2026 11:43:21 GMT"
+    },
+    {
+      "title": "USA sier de har tatt kontroll over nok en oljetanker tilknyttet Iran",
+      "link": "https://www.nrk.no/nyheter/usa-sier-de-har-tatt-kontroll-over-nok-en-oljetanker-tilknyttet-iran-1.17858145",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 23 Apr 2026 11:32:16 GMT"
+    },
     {
       "title": "16 palestinere drept på Vestbredden",
       "link": "https://www.nrk.no/nyheter/16-palestinere-drept-pa-vestbredden-1.17858400",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestland/vaepnet-aksjon-i-ytre-arna-1.17858345",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Thu, 23 Apr 2026 10:32:54 GMT"
-    },
-    {
-      "title": "Ap avviser hormon-uenighet",
-      "link": "https://www.nrk.no/nyheter/ap-avviser-hormon-uenighet-1.17858330",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 23 Apr 2026 10:22:47 GMT"
-    },
-    {
-      "title": "Gardermoen ble evakuert etter brannalarm",
-      "link": "https://www.nrk.no/stor-oslo/gardermoen-ble-evakuert-etter-brannalarm-1.17858257",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 23 Apr 2026 10:08:25 GMT"
-    },
-    {
-      "title": "Tre ledere i Forsvarsmateriell pågrepet av Økokrim",
-      "link": "https://www.nrk.no/nyheter/tre-ledere-i-forsvarsmateriell-pagrepet-av-okokrim-1.17857711",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 23 Apr 2026 09:14:51 GMT"
-    },
-    {
-      "title": "Tjeldsund-ulykka: Ber om fengselsstraff på 90 dager",
-      "link": "https://www.nrk.no/tromsogfinnmark/tjeldsund-ulykka_-ber-om-fengselsstraff-pa-90-dager-1.17858143",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 23 Apr 2026 09:01:49 GMT"
     }
   ]
 }
