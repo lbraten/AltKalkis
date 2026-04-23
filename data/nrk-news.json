@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-23T02:49:38.604Z",
+  "updatedAt": "2026-04-23T05:32:44.911Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann henrettet i Iran",
+      "link": "https://www.nrk.no/nyheter/mann-henrettet-i-iran-1.17857722",
+      "category": "Iran",
+      "pubDate": "Thu, 23 Apr 2026 05:08:19 GMT"
+    },
+    {
+      "title": "Skutt med hagle mot bolig på Skjetten i Akershus",
+      "link": "https://www.nrk.no/stor-oslo/skutt-med-hagle-mot-bolig-pa-skjetten-i-akershus-1.17857693",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 23 Apr 2026 04:55:29 GMT"
+    },
+    {
+      "title": "Ukraina: To drept i russisk angrep",
+      "link": "https://www.nrk.no/nyheter/ukraina_-to-drept-i-russisk-angrep-1.17857659",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 23 Apr 2026 03:45:08 GMT"
+    },
     {
       "title": "Oljeprisene steg etter Iran-uttalelse",
       "link": "https://www.nrk.no/nyheter/oljeprisene-steg-etter-iran-uttalelse-1.17857658",
@@ -9,8 +27,8 @@
       "pubDate": "Thu, 23 Apr 2026 02:45:18 GMT"
     },
     {
-      "title": "Lamborghini beslagt etter trafikkulykke i Follo",
-      "link": "https://www.nrk.no/nyheter/lamborghini-beslagt-etter-trafikkulykke-i-follo-1.17857656",
+      "title": "Lamborghini beslaglagt etter trafikkulykke i Follo",
+      "link": "https://www.nrk.no/nyheter/lamborghini-beslaglagt-etter-trafikkulykke-i-follo-1.17857656",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 23 Apr 2026 02:44:00 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina_-_-syv-saret-i-russisk-angrep-1.17857655",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 23 Apr 2026 00:39:40 GMT"
-    },
-    {
-      "title": "Mann reddet ut av hus i Eidsvåg i Molde",
-      "link": "https://www.nrk.no/nyheter/mann-reddet-ut-av-hus-i-eidsvag-i-molde-1.17857653",
-      "category": "Politisaker i Møre og Romsdal",
-      "pubDate": "Thu, 23 Apr 2026 00:07:14 GMT"
-    },
-    {
-      "title": "FT: Trump-utsending vil ha Italia i VM",
-      "link": "https://www.nrk.no/nyheter/ft_-trump-utsending-vil-ha-italia-i-vm-1.17857649",
-      "category": "USA",
-      "pubDate": "Wed, 22 Apr 2026 22:38:41 GMT"
-    },
-    {
-      "title": "USAs marineminister John C. Phelan går av",
-      "link": "https://www.nrk.no/nyheter/usas-marineminister-john-c.-phelan-gar-av-1.17857639",
-      "category": "USA",
-      "pubDate": "Wed, 22 Apr 2026 21:56:40 GMT"
     }
   ]
 }
