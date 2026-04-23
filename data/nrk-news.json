@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-23T09:53:01.374Z",
+  "updatedAt": "2026-04-23T11:12:03.158Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "16 palestinere drept på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/16-palestinere-drept-pa-vestbredden-1.17858400",
+      "category": "Krig og konflikt i Midtøsten",
+      "pubDate": "Thu, 23 Apr 2026 10:58:54 GMT"
+    },
+    {
+      "title": "Væpnet aksjon i Ytre Arna",
+      "link": "https://www.nrk.no/vestland/vaepnet-aksjon-i-ytre-arna-1.17858345",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 23 Apr 2026 10:32:54 GMT"
+    },
+    {
+      "title": "Ap avviser hormon-uenighet",
+      "link": "https://www.nrk.no/nyheter/ap-avviser-hormon-uenighet-1.17858330",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 23 Apr 2026 10:22:47 GMT"
+    },
+    {
+      "title": "Gardermoen ble evakuert etter brannalarm",
+      "link": "https://www.nrk.no/stor-oslo/gardermoen-ble-evakuert-etter-brannalarm-1.17858257",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 23 Apr 2026 10:08:25 GMT"
+    },
     {
       "title": "Tre ledere i Forsvarsmateriell pågrepet av Økokrim",
       "link": "https://www.nrk.no/nyheter/tre-ledere-i-forsvarsmateriell-pagrepet-av-okokrim-1.17857711",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/tjeldsund-ulykka_-ber-om-fengselsstraff-pa-90-dager-1.17858143",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Thu, 23 Apr 2026 09:01:49 GMT"
-    },
-    {
-      "title": "Filipinenes tidligere president må møte i retten",
-      "link": "https://www.nrk.no/nyheter/filipinenes-tidligere-president-ma-mote-i-retten-1.17858125",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 23 Apr 2026 08:59:49 GMT"
-    },
-    {
-      "title": "Togulykken i Danmark: fem er kritisk skadd",
-      "link": "https://www.nrk.no/nyheter/togulykken-i-danmark_-fem-er-kritisk-skadd-1.17858042",
-      "category": "Danmark",
-      "pubDate": "Thu, 23 Apr 2026 08:30:15 GMT"
-    },
-    {
-      "title": "Oljefondet tapte 1.270 milliarder første kvartal",
-      "link": "https://www.nrk.no/nyheter/oljefondet-tapte-1.270-milliarder-forste-kvartal-1.17858025",
-      "category": "Oljefondet",
-      "pubDate": "Thu, 23 Apr 2026 08:11:03 GMT"
-    },
-    {
-      "title": "Kraftig økning i antall søkere til høyere utdanning",
-      "link": "https://www.nrk.no/nyheter/kraftig-okning-i-antall-sokere-til-hoyere-utdanning-1.17857779",
-      "category": "Høyere utdanning",
-      "pubDate": "Thu, 23 Apr 2026 08:01:23 GMT"
     }
   ]
 }
