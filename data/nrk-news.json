@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-22T23:52:40.523Z",
+  "updatedAt": "2026-04-23T02:49:38.604Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisene steg etter Iran-uttalelse",
+      "link": "https://www.nrk.no/nyheter/oljeprisene-steg-etter-iran-uttalelse-1.17857658",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Thu, 23 Apr 2026 02:45:18 GMT"
+    },
+    {
+      "title": "Lamborghini beslagt etter trafikkulykke i Follo",
+      "link": "https://www.nrk.no/nyheter/lamborghini-beslagt-etter-trafikkulykke-i-follo-1.17857656",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 23 Apr 2026 02:44:00 GMT"
+    },
+    {
+      "title": "Ukraina: – Syv såret i russisk angrep",
+      "link": "https://www.nrk.no/nyheter/ukraina_-_-syv-saret-i-russisk-angrep-1.17857655",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 23 Apr 2026 00:39:40 GMT"
+    },
+    {
+      "title": "Mann reddet ut av hus i Eidsvåg i Molde",
+      "link": "https://www.nrk.no/nyheter/mann-reddet-ut-av-hus-i-eidsvag-i-molde-1.17857653",
+      "category": "Politisaker i Møre og Romsdal",
+      "pubDate": "Thu, 23 Apr 2026 00:07:14 GMT"
+    },
     {
       "title": "FT: Trump-utsending vil ha Italia i VM",
       "link": "https://www.nrk.no/nyheter/ft_-trump-utsending-vil-ha-italia-i-vm-1.17857649",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usas-marineminister-john-c.-phelan-gar-av-1.17857639",
       "category": "USA",
       "pubDate": "Wed, 22 Apr 2026 21:56:40 GMT"
-    },
-    {
-      "title": "Libanon: Journalist drepen i israelsk angrep",
-      "link": "https://www.nrk.no/nyheter/libanon_-journalist-drepen-i-israelsk-angrep-1.17857621",
-      "category": "Libanon",
-      "pubDate": "Wed, 22 Apr 2026 20:40:00 GMT"
-    },
-    {
-      "title": "Noreg skal delta på Hormuz-møte",
-      "link": "https://www.nrk.no/nyheter/noreg-skal-delta-pa-hormuz-mote-1.17857618",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 22 Apr 2026 20:20:54 GMT"
-    },
-    {
-      "title": "Wall Street opp etter Trumps våpenhvile-melding",
-      "link": "https://www.nrk.no/nyheter/wall-street-opp-etter-trumps-vapenhvile-melding-1.17857529",
-      "category": "Uro på børsene",
-      "pubDate": "Wed, 22 Apr 2026 20:13:57 GMT"
-    },
-    {
-      "title": "Oslo Ap sier ja til bydelsreform",
-      "link": "https://www.nrk.no/stor-oslo/-oslo-ap-sier-ja-til-bydelsreform-1.17857460",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 22 Apr 2026 19:11:48 GMT"
     }
   ]
 }
