@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-23T22:49:58.560Z",
+  "updatedAt": "2026-04-23T23:50:04.894Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "NBC: En drept og fem skadet i skyting på kjøpesenter",
+      "link": "https://www.nrk.no/nyheter/nbc_-en-drept-og-fem-skadet-i-skyting-pa-kjopesenter-1.17859337",
+      "category": "USA",
+      "pubDate": "Thu, 23 Apr 2026 23:32:20 GMT"
+    },
     {
       "title": "Trump: Våpenhvile forlenges med tre uker",
       "link": "https://www.nrk.no/nyheter/trump_-vapenhvile-forlenges-med-tre-uker-1.17859336",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/meta-skal-si-opp-10-prosent-av-ansatte-1.17859251",
       "category": "Meta",
       "pubDate": "Thu, 23 Apr 2026 19:08:15 GMT"
-    },
-    {
-      "title": "En begravelsesbil i Drammen er savnet: Politiet ber om tips",
-      "link": "https://www.nrk.no/buskerud/en-begravelsesbil-i-drammen-er-savnet_-politiet-ber-om-tips-1.17858916",
-      "category": "Politi og hendelser i Buskerud",
-      "pubDate": "Thu, 23 Apr 2026 18:36:02 GMT"
     }
   ]
 }
