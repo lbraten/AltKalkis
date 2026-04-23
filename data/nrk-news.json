@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-23T18:12:19.703Z",
+  "updatedAt": "2026-04-23T19:50:16.306Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Meta skal si opp 10 prosent av ansatte",
+      "link": "https://www.nrk.no/nyheter/meta-skal-si-opp-10-prosent-av-ansatte-1.17859251",
+      "category": "Meta",
+      "pubDate": "Thu, 23 Apr 2026 19:08:15 GMT"
+    },
+    {
+      "title": "En begravelsesbil i Drammen er savnet: Politiet ber om tips",
+      "link": "https://www.nrk.no/buskerud/en-begravelsesbil-i-drammen-er-savnet_-politiet-ber-om-tips-1.17858916",
+      "category": "Politi og hendelser i Buskerud",
+      "pubDate": "Thu, 23 Apr 2026 18:36:02 GMT"
+    },
+    {
+      "title": "Helikopter avsluttet slukking",
+      "link": "https://www.nrk.no/nyheter/helikopter-avsluttet-slukking-1.17859206",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 23 Apr 2026 18:27:21 GMT"
+    },
     {
       "title": "Smell hørt over Teheran",
       "link": "https://www.nrk.no/nyheter/smell-hort-over-teheran-1.17859194",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/innlandet/e16-stengt-i-sor-aurdal-etter-alvorlig-trafikkulykke-1.17859055",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Thu, 23 Apr 2026 16:54:45 GMT"
-    },
-    {
-      "title": "Tre drept i israelsk angrep sør i Libanon",
-      "link": "https://www.nrk.no/nyheter/tre-drept-i-israelsk-angrep-sor-i-libanon-1.17859133",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 23 Apr 2026 16:52:04 GMT"
-    },
-    {
-      "title": "Oslo bikket 20 varmegrader",
-      "link": "https://www.nrk.no/stor-oslo/oslo-bikket-20-varmegrader-1.17858975",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 23 Apr 2026 16:35:36 GMT"
-    },
-    {
-      "title": "– Israel venter på grønt lys for å sende Iran «tilbake til steinalderen»",
-      "link": "https://www.nrk.no/nyheter/_-israel-venter-pa-gront-lys-for-a-sende-iran-_tilbake-til-steinalderen_-1.17859095",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 23 Apr 2026 16:34:41 GMT"
     }
   ]
 }
