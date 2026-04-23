@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-23T20:55:30.106Z",
+  "updatedAt": "2026-04-23T21:50:40.119Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump: Våpenhvile forlenges med tre uker",
+      "link": "https://www.nrk.no/nyheter/trump_-vapenhvile-forlenges-med-tre-uker-1.17859336",
+      "category": "high",
+      "pubDate": "Thu, 23 Apr 2026 21:26:05 GMT"
+    },
+    {
+      "title": "Én omkom i trafikkulykke i Valdres",
+      "link": "https://www.nrk.no/nyheter/en-omkom-i-trafikkulykke-i-valdres-1.17859330",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 23 Apr 2026 21:25:23 GMT"
+    },
+    {
+      "title": "Hizbollah: Har skutt raketter mot Israel",
+      "link": "https://www.nrk.no/nyheter/hizbollah_-har-skutt-raketter-mot-israel-1.17859323",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 23 Apr 2026 21:03:53 GMT"
+    },
     {
       "title": "Ti såret i skyting inne på et kjøpesenter i Louisiana i USA",
       "link": "https://www.nrk.no/nyheter/ti-saret-i-skyting-inne-pa-et-kjopesenter-i-louisiana-i-usa-1.17859266",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/buskerud/en-begravelsesbil-i-drammen-er-savnet_-politiet-ber-om-tips-1.17858916",
       "category": "Politi og hendelser i Buskerud",
       "pubDate": "Thu, 23 Apr 2026 18:36:02 GMT"
-    },
-    {
-      "title": "Helikopter avsluttet slukking",
-      "link": "https://www.nrk.no/nyheter/helikopter-avsluttet-slukking-1.17859206",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 23 Apr 2026 18:27:21 GMT"
-    },
-    {
-      "title": "Smell hørt over Teheran",
-      "link": "https://www.nrk.no/nyheter/smell-hort-over-teheran-1.17859194",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 23 Apr 2026 17:44:50 GMT"
-    },
-    {
-      "title": "Esa åpner sak mot Norge om Førdefjorden",
-      "link": "https://www.nrk.no/nyheter/esa-apner-sak-mot-norge-om-fordefjorden-1.17859147",
-      "category": "Gruvedrift i Førdefjorden",
-      "pubDate": "Thu, 23 Apr 2026 17:38:30 GMT"
     }
   ]
 }
