@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-23T23:50:04.894Z",
+  "updatedAt": "2026-04-24T02:50:51.964Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bevæpnet politi til bensinstasjon i Åsane",
+      "link": "https://www.nrk.no/nyheter/bevaepnet-politi-til-bensinstasjon-i-asane-1.17859361",
+      "category": "Krim og hendingar i Vestland",
+      "pubDate": "Fri, 24 Apr 2026 02:47:42 GMT"
+    },
+    {
+      "title": "Siktet for å ha tjent penger på Maduro-bortføring",
+      "link": "https://www.nrk.no/nyheter/siktet-for-a-ha-tjent-penger-pa-maduro-bortforing-1.17859356",
+      "category": "USA",
+      "pubDate": "Fri, 24 Apr 2026 02:27:31 GMT"
+    },
     {
       "title": "NBC: En drept og fem skadet i skyting på kjøpesenter",
       "link": "https://www.nrk.no/nyheter/nbc_-en-drept-og-fem-skadet-i-skyting-pa-kjopesenter-1.17859337",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hizbollah_-har-skutt-raketter-mot-israel-1.17859323",
       "category": "Libanon og Israel",
       "pubDate": "Thu, 23 Apr 2026 21:03:53 GMT"
-    },
-    {
-      "title": "Ti såret i skyting inne på et kjøpesenter i Louisiana i USA",
-      "link": "https://www.nrk.no/nyheter/ti-saret-i-skyting-inne-pa-et-kjopesenter-i-louisiana-i-usa-1.17859266",
-      "category": "USA",
-      "pubDate": "Thu, 23 Apr 2026 19:51:08 GMT"
-    },
-    {
-      "title": "Meta skal si opp 10 prosent av ansatte",
-      "link": "https://www.nrk.no/nyheter/meta-skal-si-opp-10-prosent-av-ansatte-1.17859251",
-      "category": "Meta",
-      "pubDate": "Thu, 23 Apr 2026 19:08:15 GMT"
     }
   ]
 }
