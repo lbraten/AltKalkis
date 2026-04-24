@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-24T20:52:51.989Z",
+  "updatedAt": "2026-04-24T21:50:51.127Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To til legevakt etter gasslekkasje",
+      "link": "https://www.nrk.no/nyheter/to-til-legevakt-etter-gasslekkasje-1.17860710",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 24 Apr 2026 21:34:54 GMT"
+    },
     {
       "title": "Ny rekord for Wall Street-indekser",
       "link": "https://www.nrk.no/nyheter/ny-rekord-for-wall-street-indekser-1.17860707",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/oslofjordtunnelen-apen-igjen-etter-alvorlig-frontkollisjon-1.17860501",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 24 Apr 2026 16:38:11 GMT"
-    },
-    {
-      "title": "Kongen markerte sesongstart for kongeskipet",
-      "link": "https://www.nrk.no/nyheter/kongen-markerte-sesongstart-for-kongeskipet-1.17860538",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 24 Apr 2026 16:27:42 GMT"
     }
   ]
 }
