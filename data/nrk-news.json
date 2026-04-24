@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-24T18:56:40.013Z",
+  "updatedAt": "2026-04-24T19:54:36.554Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "12 drept i israelske angrep i Gaza",
+      "link": "https://www.nrk.no/nyheter/12-drept-i-israelske-angrep-i-gaza-1.17860660",
+      "category": "Gazastripen",
+      "pubDate": "Fri, 24 Apr 2026 19:46:12 GMT"
+    },
     {
       "title": "Iransk delegasjon ankom Pakistan",
       "link": "https://www.nrk.no/nyheter/iransk-delegasjon-ankom-pakistan--1.17860582",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/cnn_-trump-sender-witkoff-og-kushner-til-pakistan-1.17860523",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 24 Apr 2026 15:49:48 GMT"
-    },
-    {
-      "title": "MDG krever full runde med forhandlinger",
-      "link": "https://www.nrk.no/nyheter/mdg-krever_full-runde-med-forhandlinger-1.17860410",
-      "category": "Miljøpartiet De Grønne",
-      "pubDate": "Fri, 24 Apr 2026 15:29:36 GMT"
     }
   ]
 }
