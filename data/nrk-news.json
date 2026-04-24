@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-24T17:50:52.537Z",
+  "updatedAt": "2026-04-24T18:56:40.013Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iransk delegasjon ankom Pakistan",
+      "link": "https://www.nrk.no/nyheter/iransk-delegasjon-ankom-pakistan--1.17860582",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 24 Apr 2026 18:42:01 GMT"
+    },
     {
       "title": "Paraglider-ulykke ved Krokkleiva",
       "link": "https://www.nrk.no/nyheter/paraglider-ulykke-ved-krokkleiva-1.17860573",
@@ -17,7 +23,7 @@
     {
       "title": "Kongen markerte sesongstart for kongeskipet",
       "link": "https://www.nrk.no/nyheter/kongen-markerte-sesongstart-for-kongeskipet-1.17860538",
-      "category": "NRK Nyheter",
+      "category": "Kongefamilien",
       "pubDate": "Fri, 24 Apr 2026 16:27:42 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mdg-krever_full-runde-med-forhandlinger-1.17860410",
       "category": "Miljøpartiet De Grønne",
       "pubDate": "Fri, 24 Apr 2026 15:29:36 GMT"
-    },
-    {
-      "title": "Hermstad: Skal ikke kunne kjøpe politisk innflytelse",
-      "link": "https://www.nrk.no/nyheter/hermstad_-skal-ikke-kunne-kjope-politisk-innflytelse-1.17860516",
-      "category": "Miljøpartiet De Grønne",
-      "pubDate": "Fri, 24 Apr 2026 15:27:25 GMT"
     }
   ]
 }
