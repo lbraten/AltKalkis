@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-24T13:40:54.857Z",
+  "updatedAt": "2026-04-24T15:10:04.176Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Åpner sak mot Peter Mandelson",
+      "link": "https://www.nrk.no/nyheter/apner-sak-mot-peter-mandelson-1.17860462",
+      "category": "Jeffrey Epstein-saken",
+      "pubDate": "Fri, 24 Apr 2026 14:55:17 GMT"
+    },
+    {
+      "title": "Justisdepartementet dropper etterforskningen av USAs sentralbanksjef",
+      "link": "https://www.nrk.no/nyheter/justisdepartementet-dropper-etterforskningen-av-usas-sentralbanksjef-1.17860380",
+      "category": "USA",
+      "pubDate": "Fri, 24 Apr 2026 14:28:09 GMT"
+    },
+    {
+      "title": "Trapper opp streiken i hotell- og restaurantnæringen",
+      "link": "https://www.nrk.no/innlandet/trapper-opp-streiken-i-hotell--og-restaurantnaeringen-1.17860420",
+      "category": "Næringslivet i Innlandet",
+      "pubDate": "Fri, 24 Apr 2026 13:55:09 GMT"
+    },
     {
       "title": "Jonas-saken: Ber om 19 år forvaring",
       "link": "https://www.nrk.no/nyheter/jonas-saken_-ber-om-19-ar-forvaring-1.17860379",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/-russland-og-ukraina-har-utvekslet-fanger-1.17860312",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 24 Apr 2026 12:58:35 GMT"
-    },
-    {
-      "title": "Hegseth: – Iran har en historisk mulighet",
-      "link": "https://www.nrk.no/nyheter/hegseth_-_-iran-har-en-historisk-mulighet-1.17860248",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 24 Apr 2026 12:43:37 GMT"
-    },
-    {
-      "title": "Oslofjordtunnelen stengt etter trafikkulykke",
-      "link": "https://www.nrk.no/stor-oslo/oslofjordtunnelen-stengt-etter-trafikkulykke-1.17860196",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 24 Apr 2026 12:26:04 GMT"
-    },
-    {
-      "title": "Israel evakuerer landsby i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-evakuerer-landsby-i-sor-libanon-1.17860184",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 24 Apr 2026 12:06:11 GMT"
     }
   ]
 }
