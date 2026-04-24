@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-24T22:41:09.479Z",
+  "updatedAt": "2026-04-24T23:41:25.017Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Ikke planlagt møter med USA",
+      "link": "https://www.nrk.no/nyheter/iran_-ikke-planlagt-moter-med-usa-1.17860745",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Fri, 24 Apr 2026 23:08:08 GMT"
+    },
     {
       "title": "To til legevakt etter gasslekkasje",
       "link": "https://www.nrk.no/nyheter/to-til-legevakt-etter-gasslekkasje-1.17860710",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/paraglider-ulykke-ved-krokkleiva-1.17860573",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 24 Apr 2026 16:50:23 GMT"
-    },
-    {
-      "title": "Oslofjordtunnelen åpen igjen etter alvorlig frontkollisjon",
-      "link": "https://www.nrk.no/stor-oslo/oslofjordtunnelen-apen-igjen-etter-alvorlig-frontkollisjon-1.17860501",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 24 Apr 2026 16:38:11 GMT"
     }
   ]
 }
