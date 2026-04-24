@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-24T16:32:26.600Z",
+  "updatedAt": "2026-04-24T17:50:52.537Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Paraglider-ulykke ved Krokkleiva",
+      "link": "https://www.nrk.no/nyheter/paraglider-ulykke-ved-krokkleiva-1.17860573",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 24 Apr 2026 16:50:23 GMT"
+    },
+    {
+      "title": "Oslofjordtunnelen åpen igjen etter alvorlig frontkollisjon",
+      "link": "https://www.nrk.no/stor-oslo/oslofjordtunnelen-apen-igjen-etter-alvorlig-frontkollisjon-1.17860501",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 24 Apr 2026 16:38:11 GMT"
+    },
     {
       "title": "Kongen markerte sesongstart for kongeskipet",
       "link": "https://www.nrk.no/nyheter/kongen-markerte-sesongstart-for-kongeskipet-1.17860538",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hermstad_-skal-ikke-kunne-kjope-politisk-innflytelse-1.17860516",
       "category": "Miljøpartiet De Grønne",
       "pubDate": "Fri, 24 Apr 2026 15:27:25 GMT"
-    },
-    {
-      "title": "Villig til å lette på Iran-sanksjoner ved avtale",
-      "link": "https://www.nrk.no/nyheter/villig-til-a-lette-pa-iran-sanksjoner-ved-avtale-1.17860493",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 24 Apr 2026 15:17:29 GMT"
-    },
-    {
-      "title": "Iuel vant i sesongåpningen – satte ny personlig rekord",
-      "link": "https://www.nrk.no/sport/iuel-vant-i-sesongapningen-_-satte-ny-personlig-rekord-1.17860500",
-      "category": "Sportsnyheter",
-      "pubDate": "Fri, 24 Apr 2026 15:08:17 GMT"
     }
   ]
 }
