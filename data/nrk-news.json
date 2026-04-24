@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-24T19:54:36.554Z",
+  "updatedAt": "2026-04-24T20:52:51.989Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ny rekord for Wall Street-indekser",
+      "link": "https://www.nrk.no/nyheter/ny-rekord-for-wall-street-indekser-1.17860707",
+      "category": "Bank og finans",
+      "pubDate": "Fri, 24 Apr 2026 20:35:01 GMT"
+    },
     {
       "title": "12 drept i israelske angrep i Gaza",
       "link": "https://www.nrk.no/nyheter/12-drept-i-israelske-angrep-i-gaza-1.17860660",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kongen-markerte-sesongstart-for-kongeskipet-1.17860538",
       "category": "Kongefamilien",
       "pubDate": "Fri, 24 Apr 2026 16:27:42 GMT"
-    },
-    {
-      "title": "CNN: Trump sender Witkoff og Kushner til Pakistan",
-      "link": "https://www.nrk.no/nyheter/cnn_-trump-sender-witkoff-og-kushner-til-pakistan-1.17860523",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 24 Apr 2026 15:49:48 GMT"
     }
   ]
 }
