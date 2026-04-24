@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-24T02:50:51.964Z",
+  "updatedAt": "2026-04-24T05:37:37.670Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump truer Storbritannia med ny toll",
+      "link": "https://www.nrk.no/nyheter/trump-truer-storbritannia-med-ny-toll-1.17859444",
+      "category": "Donald Trump",
+      "pubDate": "Fri, 24 Apr 2026 05:25:18 GMT"
+    },
+    {
+      "title": "Østensen om ny lov på sosiale medier: – En ellevill sak",
+      "link": "https://www.nrk.no/sorlandet/ostensen-om-ny-lov-pa-sosiale-medier_-_-en-ellevill-sak-1.17859442",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 24 Apr 2026 05:16:46 GMT"
+    },
+    {
+      "title": "Norske Skog med overskudd første kvartal",
+      "link": "https://www.nrk.no/nyheter/norske-skog-med-overskudd-forste-kvartal-1.17859430",
+      "category": "Norske Skog",
+      "pubDate": "Fri, 24 Apr 2026 05:10:43 GMT"
+    },
+    {
+      "title": "Togulykken i Danmark: granskingen kan ta måneder",
+      "link": "https://www.nrk.no/nyheter/togulykken-i-danmark_-granskingen-kan-ta-maneder-1.17859414",
+      "category": "Danmark",
+      "pubDate": "Fri, 24 Apr 2026 04:57:59 GMT"
+    },
     {
       "title": "Bevæpnet politi til bensinstasjon i Åsane",
       "link": "https://www.nrk.no/nyheter/bevaepnet-politi-til-bensinstasjon-i-asane-1.17859361",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/siktet-for-a-ha-tjent-penger-pa-maduro-bortforing-1.17859356",
       "category": "USA",
       "pubDate": "Fri, 24 Apr 2026 02:27:31 GMT"
-    },
-    {
-      "title": "NBC: En drept og fem skadet i skyting på kjøpesenter",
-      "link": "https://www.nrk.no/nyheter/nbc_-en-drept-og-fem-skadet-i-skyting-pa-kjopesenter-1.17859337",
-      "category": "USA",
-      "pubDate": "Thu, 23 Apr 2026 23:32:20 GMT"
-    },
-    {
-      "title": "Trump: Våpenhvile forlenges med tre uker",
-      "link": "https://www.nrk.no/nyheter/trump_-vapenhvile-forlenges-med-tre-uker-1.17859336",
-      "category": "high",
-      "pubDate": "Thu, 23 Apr 2026 21:26:05 GMT"
-    },
-    {
-      "title": "Én omkom i trafikkulykke i Valdres",
-      "link": "https://www.nrk.no/nyheter/en-omkom-i-trafikkulykke-i-valdres-1.17859330",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 23 Apr 2026 21:25:23 GMT"
-    },
-    {
-      "title": "Hizbollah: Har skutt raketter mot Israel",
-      "link": "https://www.nrk.no/nyheter/hizbollah_-har-skutt-raketter-mot-israel-1.17859323",
-      "category": "Libanon og Israel",
-      "pubDate": "Thu, 23 Apr 2026 21:03:53 GMT"
     }
   ]
 }
