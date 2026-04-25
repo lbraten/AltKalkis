@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-25T17:39:24.341Z",
+  "updatedAt": "2026-04-25T18:56:53.300Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Netanyahu beordrer kraftige angrep mot Libanon",
+      "link": "https://www.nrk.no/nyheter/netanyahu-beordrer-kraftige-angrep-mot-libanon-1.17861282",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 25 Apr 2026 17:55:47 GMT"
+    },
     {
       "title": "Araghchi: Iranske synspunkter på rammeverk for fred overlevert til Pakistan",
       "link": "https://www.nrk.no/nyheter/araghchi_-iranske-synspunkter-pa-rammeverk-for-fred-overlevert-til-pakistan-1.17861216",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/orban-vil-ikke-sitte-i-parlamentet-etter-valgnederlaget-1.17861207",
       "category": "Ungarn",
       "pubDate": "Sat, 25 Apr 2026 15:46:07 GMT"
-    },
-    {
-      "title": "Tidligere stortingsrepresentant Heidi Sørensen (56) er død",
-      "link": "https://www.nrk.no/nyheter/tidligere-stortingsrepresentant-heidi-sorensen-_56_-er-dod--1.17861175",
-      "category": "Norsk politikk",
-      "pubDate": "Sat, 25 Apr 2026 15:30:11 GMT"
     }
   ]
 }
