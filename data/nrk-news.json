@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-25T19:48:12.582Z",
+  "updatedAt": "2026-04-25T20:41:52.126Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Guvernør: Sju sivile drept i bombeangrep i Colombia",
+      "link": "https://www.nrk.no/nyheter/guvernor_-sju-sivile-drept-i-bombeangrep-i-colombia-1.17861298",
+      "category": "Colombia",
+      "pubDate": "Sat, 25 Apr 2026 20:06:36 GMT"
+    },
     {
       "title": "Rekordstor kinesisk eksport av solcelle-teknologi i mars",
       "link": "https://www.nrk.no/nyheter/rekordstor-kinesisk-eksport-av-solcelle-teknologi-i-mars-1.17861358",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/araghchi_-iranske-synspunkter-pa-rammeverk-for-fred-overlevert-til-pakistan-1.17861216",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 25 Apr 2026 17:06:27 GMT"
-    },
-    {
-      "title": "Leter etter person med machete",
-      "link": "https://www.nrk.no/stor-oslo/leter-etter-person-med-machete-1.17861242",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 25 Apr 2026 16:50:06 GMT"
     }
   ]
 }
