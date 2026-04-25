@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-24T23:41:25.017Z",
+  "updatedAt": "2026-04-25T02:39:19.714Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet om brann: Alle gjort rede for",
+      "link": "https://www.nrk.no/nyheter/politiet-om-brann_-alle-gjort-rede-for-1.17860753",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 25 Apr 2026 02:35:14 GMT"
+    },
+    {
+      "title": "Boligbrann på Steinsland i Øygarden",
+      "link": "https://www.nrk.no/nyheter/boligbrann-pa-steinsland-i-oygarden-1.17860752",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 25 Apr 2026 01:49:15 GMT"
+    },
+    {
+      "title": "265 km/t i 100-sone: – Ekstrem høy hastighet",
+      "link": "https://www.nrk.no/nyheter/265-km_t-i-100-sone_-_-ekstrem-hoy-hastighet-1.17860751",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 25 Apr 2026 00:02:05 GMT"
+    },
     {
       "title": "Iran: Ikke planlagt møter med USA",
       "link": "https://www.nrk.no/nyheter/iran_-ikke-planlagt-moter-med-usa-1.17860745",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ny-rekord-for-wall-street-indekser-1.17860707",
       "category": "Bank og finans",
       "pubDate": "Fri, 24 Apr 2026 20:35:01 GMT"
-    },
-    {
-      "title": "12 drept i israelske angrep i Gaza",
-      "link": "https://www.nrk.no/nyheter/12-drept-i-israelske-angrep-i-gaza-1.17860660",
-      "category": "Gazastripen",
-      "pubDate": "Fri, 24 Apr 2026 19:46:12 GMT"
-    },
-    {
-      "title": "Iransk delegasjon ankom Pakistan",
-      "link": "https://www.nrk.no/nyheter/iransk-delegasjon-ankom-pakistan--1.17860582",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 24 Apr 2026 18:42:01 GMT"
-    },
-    {
-      "title": "Paraglider-ulykke ved Krokkleiva",
-      "link": "https://www.nrk.no/nyheter/paraglider-ulykke-ved-krokkleiva-1.17860573",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 24 Apr 2026 16:50:23 GMT"
     }
   ]
 }
