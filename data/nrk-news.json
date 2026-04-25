@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-25T14:43:37.241Z",
+  "updatedAt": "2026-04-25T15:41:00.191Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tidligere stortingsrepresentant Heidi Sørensen (56) er død",
+      "link": "https://www.nrk.no/nyheter/tidligere-stortingsrepresentant-heidi-sorensen-_56_-er-dod--1.17861175",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 25 Apr 2026 15:30:11 GMT"
+    },
     {
       "title": "Reuters: Irans delegasjon har forlatt Pakistan",
       "link": "https://www.nrk.no/nyheter/reuters_-irans-delegasjon-har-forlatt-pakistan-1.17861163",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store-taler-til-mdg-landsmotet-1.17860973",
       "category": "Norsk politikk",
       "pubDate": "Sat, 25 Apr 2026 11:59:59 GMT"
-    },
-    {
-      "title": "Syklist omkom i utforkjøring i Ringsaker",
-      "link": "https://www.nrk.no/nyheter/syklist-omkom-i-utforkjoring-i-ringsaker-1.17860941",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 25 Apr 2026 11:19:23 GMT"
     }
   ]
 }
