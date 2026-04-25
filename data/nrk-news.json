@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-25T16:45:39.351Z",
+  "updatedAt": "2026-04-25T17:39:24.341Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Araghchi: Iranske synspunkter på rammeverk for fred overlevert til Pakistan",
+      "link": "https://www.nrk.no/nyheter/araghchi_-iranske-synspunkter-pa-rammeverk-for-fred-overlevert-til-pakistan-1.17861216",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 25 Apr 2026 17:06:27 GMT"
+    },
+    {
+      "title": "Leter etter person med machete",
+      "link": "https://www.nrk.no/stor-oslo/leter-etter-person-med-machete-1.17861242",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 25 Apr 2026 16:50:06 GMT"
+    },
     {
       "title": "Jonas Lovv har spilt inn «Ya Ya Ya» med Kork!",
       "link": "https://www.nrk.no/kultur/jonas-lovv-har-spilt-inn-_ya-ya-ya_-med-kork_-1.17861236",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tidligere-stortingsrepresentant-heidi-sorensen-_56_-er-dod--1.17861175",
       "category": "Norsk politikk",
       "pubDate": "Sat, 25 Apr 2026 15:30:11 GMT"
-    },
-    {
-      "title": "Reuters: Irans delegasjon har forlatt Pakistan",
-      "link": "https://www.nrk.no/nyheter/reuters_-irans-delegasjon-har-forlatt-pakistan-1.17861163",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 25 Apr 2026 14:33:34 GMT"
-    },
-    {
-      "title": "Kajakkpadler havnet i vannet – luftambulanse på vei",
-      "link": "https://www.nrk.no/innlandet/kajakkpadler-havnet-i-vannet-_-luftambulanse-pa-vei-1.17861161",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sat, 25 Apr 2026 14:22:58 GMT"
     }
   ]
 }
