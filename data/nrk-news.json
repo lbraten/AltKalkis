@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-04-25T15:41:00.191Z",
+  "updatedAt": "2026-04-25T16:45:39.351Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Jonas Lovv har spilt inn «Ya Ya Ya» med Kork!",
+      "link": "https://www.nrk.no/kultur/jonas-lovv-har-spilt-inn-_ya-ya-ya_-med-kork_-1.17861236",
+      "category": "Musikk",
+      "pubDate": "Sat, 25 Apr 2026 16:13:39 GMT"
+    },
+    {
+      "title": "Fox News: Trump sier han har avlyst Witkoff og Kushners reise til Pakistan",
+      "link": "https://www.nrk.no/nyheter/fox-news_-trump-sier-han-har-avlyst-witkoff-og-kushners-reise-til-pakistan-1.17861213",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 25 Apr 2026 15:49:14 GMT"
+    },
+    {
+      "title": "Orbán vil ikke sitte i parlamentet etter valgnederlaget",
+      "link": "https://www.nrk.no/nyheter/orban-vil-ikke-sitte-i-parlamentet-etter-valgnederlaget-1.17861207",
+      "category": "Ungarn",
+      "pubDate": "Sat, 25 Apr 2026 15:46:07 GMT"
+    },
+    {
       "title": "Tidligere stortingsrepresentant Heidi Sørensen (56) er død",
       "link": "https://www.nrk.no/nyheter/tidligere-stortingsrepresentant-heidi-sorensen-_56_-er-dod--1.17861175",
-      "category": "NRK Nyheter",
+      "category": "Norsk politikk",
       "pubDate": "Sat, 25 Apr 2026 15:30:11 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/innlandet/kajakkpadler-havnet-i-vannet-_-luftambulanse-pa-vei-1.17861161",
       "category": "Politi- og brannloggen i Innlandet",
       "pubDate": "Sat, 25 Apr 2026 14:22:58 GMT"
-    },
-    {
-      "title": "Arild Hermstad gjenvalgt som MDG-leder",
-      "link": "https://www.nrk.no/nyheter/arild-hermstad-gjenvalgt-som-mdg-leder-1.17861016",
-      "category": "Norsk politikk",
-      "pubDate": "Sat, 25 Apr 2026 12:54:52 GMT"
-    },
-    {
-      "title": "Fire drept i israelske angrep mot Libanon",
-      "link": "https://www.nrk.no/nyheter/fire-drept-i-israelske-angrep-mot-libanon-1.17861012",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 25 Apr 2026 12:15:39 GMT"
-    },
-    {
-      "title": "Støre taler til MDG-landsmøtet",
-      "link": "https://www.nrk.no/nyheter/store-taler-til-mdg-landsmotet-1.17860973",
-      "category": "Norsk politikk",
-      "pubDate": "Sat, 25 Apr 2026 11:59:59 GMT"
     }
   ]
 }
