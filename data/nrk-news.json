@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-04-25T02:39:19.714Z",
+  "updatedAt": "2026-04-25T05:13:38.299Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Politiet om brann: Alle gjort rede for",
-      "link": "https://www.nrk.no/nyheter/politiet-om-brann_-alle-gjort-rede-for-1.17860753",
+      "title": "Anklager hverandre for brudd på våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/anklager-hverandre-for-brudd-pa-vapenhvilen-1.17860755",
+      "category": "Libanon og Israel",
+      "pubDate": "Sat, 25 Apr 2026 05:09:02 GMT"
+    },
+    {
+      "title": "Ødeleggelser i Romania fra rester av russisk drone",
+      "link": "https://www.nrk.no/nyheter/odeleggelser-i-romania-fra-rester-av-russisk-drone-1.17860756",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 25 Apr 2026 05:05:07 GMT"
+    },
+    {
+      "title": "USA: To drept i båtangrep i Stillehavet",
+      "link": "https://www.nrk.no/nyheter/usa_-to-drept-i-batangrep-i-stillehavet-1.17860754",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 25 Apr 2026 03:57:32 GMT"
+    },
+    {
+      "title": "Politiet om brann i Øygarden: Alle gjort rede for",
+      "link": "https://www.nrk.no/nyheter/politiet-om-brann-i-oygarden_-alle-gjort-rede-for-1.17860753",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 25 Apr 2026 02:35:14 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/265-km_t-i-100-sone_-_-ekstrem-hoy-hastighet-1.17860751",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sat, 25 Apr 2026 00:02:05 GMT"
-    },
-    {
-      "title": "Iran: Ikke planlagt møter med USA",
-      "link": "https://www.nrk.no/nyheter/iran_-ikke-planlagt-moter-med-usa-1.17860745",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Fri, 24 Apr 2026 23:08:08 GMT"
-    },
-    {
-      "title": "To til legevakt etter gasslekkasje",
-      "link": "https://www.nrk.no/nyheter/to-til-legevakt-etter-gasslekkasje-1.17860710",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 24 Apr 2026 21:34:54 GMT"
-    },
-    {
-      "title": "Ny rekord for Wall Street-indekser",
-      "link": "https://www.nrk.no/nyheter/ny-rekord-for-wall-street-indekser-1.17860707",
-      "category": "Bank og finans",
-      "pubDate": "Fri, 24 Apr 2026 20:35:01 GMT"
     }
   ]
 }
