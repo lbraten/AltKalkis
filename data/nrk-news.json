@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-25T11:11:44.920Z",
+  "updatedAt": "2026-04-25T12:02:16.069Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Støre taler til MDG-landsmøtet",
+      "link": "https://www.nrk.no/nyheter/store-taler-til-mdg-landsmotet-1.17860973",
+      "category": "Norsk politikk",
+      "pubDate": "Sat, 25 Apr 2026 11:59:59 GMT"
+    },
+    {
+      "title": "Syklist omkom i utforkjøring i Ringsaker",
+      "link": "https://www.nrk.no/nyheter/syklist-omkom-i-utforkjoring-i-ringsaker-1.17860941",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 25 Apr 2026 11:19:23 GMT"
+    },
     {
       "title": "Gullsmedtyveri på Jessheim",
       "link": "https://www.nrk.no/stor-oslo/gullsmedtyveri-pa-jessheim-1.17860952",
@@ -9,8 +21,8 @@
       "pubDate": "Sat, 25 Apr 2026 10:53:07 GMT"
     },
     {
-      "title": "Skyting flere steder i Mali – militæret sier de kjemper mot terrorgrupper",
-      "link": "https://www.nrk.no/nyheter/skyting-flere-steder-i-mali-_-militaeret-sier-de-kjemper-mot-terrorgrupper-1.17860940",
+      "title": "Hæren i Mali: Situasjonen er under kontroll",
+      "link": "https://www.nrk.no/nyheter/haeren-i-mali_-situasjonen-er-under-kontroll-1.17860940",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 25 Apr 2026 10:37:15 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nordland/sender-ut-farevarsel-_-kan-komme-opptil-30-cm-sno--1.17860896",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sat, 25 Apr 2026 09:23:54 GMT"
-    },
-    {
-      "title": "Alvorlig sykkelulykke i Ringsaker i Innlandet",
-      "link": "https://www.nrk.no/innlandet/alvorlig-sykkelulykke-i-ringsaker-i-innlandet-1.17860850",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sat, 25 Apr 2026 08:48:38 GMT"
-    },
-    {
-      "title": "Kampen-drapet: Wilms varetektsfengslet i fire nye uker",
-      "link": "https://www.nrk.no/stor-oslo/kampen-drapet_-wilms-varetektsfengslet-i-fire-nye-uker-1.17860773",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 25 Apr 2026 06:54:06 GMT"
     }
   ]
 }
