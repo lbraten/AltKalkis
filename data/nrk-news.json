@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-25T22:39:25.424Z",
+  "updatedAt": "2026-04-25T23:40:14.365Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dødstallene stiger i Colombia",
+      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-colombia-1.17861405",
+      "category": "Colombia",
+      "pubDate": "Sat, 25 Apr 2026 23:36:13 GMT"
+    },
+    {
+      "title": "Medier: Nye angrep i Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/medier_-nye-angrep-i-sor-libanon-1.17861387",
+      "category": "Libanon og Israel",
+      "pubDate": "Sat, 25 Apr 2026 23:03:14 GMT"
+    },
     {
       "title": "Guvernør: Sju sivile drept i bombeangrep i Colombia",
       "link": "https://www.nrk.no/nyheter/guvernor_-sju-sivile-drept-i-bombeangrep-i-colombia-1.17861298",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/ostfold/mann-alvorlig-skadet-etter-elsparkesykkelulykke-i-moss-1.17861233",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sat, 25 Apr 2026 17:59:09 GMT"
-    },
-    {
-      "title": "Netanyahu beordrer kraftige angrep mot Libanon",
-      "link": "https://www.nrk.no/nyheter/netanyahu-beordrer-kraftige-angrep-mot-libanon-1.17861282",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 25 Apr 2026 17:55:47 GMT"
-    },
-    {
-      "title": "Araghchi: Iranske synspunkter på rammeverk for fred overlevert til Pakistan",
-      "link": "https://www.nrk.no/nyheter/araghchi_-iranske-synspunkter-pa-rammeverk-for-fred-overlevert-til-pakistan-1.17861216",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 25 Apr 2026 17:06:27 GMT"
     }
   ]
 }
