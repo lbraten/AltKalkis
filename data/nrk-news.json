@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-25T08:05:44.157Z",
+  "updatedAt": "2026-04-25T09:28:10.152Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig sykkelulykke i Ringsaker i Innlandet",
+      "link": "https://www.nrk.no/innlandet/alvorlig-sykkelulykke-i-ringsaker-i-innlandet-1.17860850",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sat, 25 Apr 2026 08:48:38 GMT"
+    },
     {
       "title": "Kampen-drapet: Wilms varetektsfengslet i fire nye uker",
       "link": "https://www.nrk.no/stor-oslo/kampen-drapet_-wilms-varetektsfengslet-i-fire-nye-uker-1.17860773",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/anklager-hverandre-for-brudd-pa-vapenhvilen-1.17860755",
       "category": "Libanon og Israel",
       "pubDate": "Sat, 25 Apr 2026 05:09:02 GMT"
-    },
-    {
-      "title": "Ødeleggelser i Romania fra rester av russisk drone",
-      "link": "https://www.nrk.no/nyheter/odeleggelser-i-romania-fra-rester-av-russisk-drone-1.17860756",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 25 Apr 2026 05:05:07 GMT"
     }
   ]
 }
