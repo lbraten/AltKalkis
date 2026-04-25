@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-25T06:50:25.209Z",
+  "updatedAt": "2026-04-25T08:05:44.157Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kampen-drapet: Wilms varetektsfengslet i fire nye uker",
+      "link": "https://www.nrk.no/stor-oslo/kampen-drapet_-wilms-varetektsfengslet-i-fire-nye-uker-1.17860773",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 25 Apr 2026 06:54:06 GMT"
+    },
     {
       "title": "Første Gaza-valg siden krigen brøt ut",
       "link": "https://www.nrk.no/nyheter/forste-gaza-valg-siden-krigen-brot-ut-1.17860814",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/odeleggelser-i-romania-fra-rester-av-russisk-drone-1.17860756",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 25 Apr 2026 05:05:07 GMT"
-    },
-    {
-      "title": "USA: To drept i båtangrep i Stillehavet",
-      "link": "https://www.nrk.no/nyheter/usa_-to-drept-i-batangrep-i-stillehavet-1.17860754",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 25 Apr 2026 03:57:32 GMT"
     }
   ]
 }
