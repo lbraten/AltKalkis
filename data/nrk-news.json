@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-25T13:43:40.429Z",
+  "updatedAt": "2026-04-25T14:43:37.241Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Reuters: Irans delegasjon har forlatt Pakistan",
+      "link": "https://www.nrk.no/nyheter/reuters_-irans-delegasjon-har-forlatt-pakistan-1.17861163",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 25 Apr 2026 14:33:34 GMT"
+    },
+    {
+      "title": "Kajakkpadler havnet i vannet – luftambulanse på vei",
+      "link": "https://www.nrk.no/innlandet/kajakkpadler-havnet-i-vannet-_-luftambulanse-pa-vei-1.17861161",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sat, 25 Apr 2026 14:22:58 GMT"
+    },
     {
       "title": "Arild Hermstad gjenvalgt som MDG-leder",
       "link": "https://www.nrk.no/nyheter/arild-hermstad-gjenvalgt-som-mdg-leder-1.17861016",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/syklist-omkom-i-utforkjoring-i-ringsaker-1.17860941",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sat, 25 Apr 2026 11:19:23 GMT"
-    },
-    {
-      "title": "Gullsmedtyveri på Jessheim",
-      "link": "https://www.nrk.no/stor-oslo/gullsmedtyveri-pa-jessheim-1.17860952",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 25 Apr 2026 10:53:07 GMT"
-    },
-    {
-      "title": "Hæren i Mali: Situasjonen er under kontroll",
-      "link": "https://www.nrk.no/nyheter/haeren-i-mali_-situasjonen-er-under-kontroll-1.17860940",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 25 Apr 2026 10:37:15 GMT"
     }
   ]
 }
