@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-26T15:44:10.293Z",
+  "updatedAt": "2026-04-26T16:48:31.712Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Turister reddet etter at fritidsbåt sank utenfor Gjesvær",
+      "link": "https://www.nrk.no/tromsogfinnmark/turister-reddet-etter-at-fritidsbat-sank-utenfor-gjesvaer-1.17861930",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 26 Apr 2026 16:31:30 GMT"
+    },
+    {
+      "title": "En israelsk soldat drept i Libanon",
+      "link": "https://www.nrk.no/nyheter/en-israelsk-soldat-drept-i-libanon-1.17861919",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 26 Apr 2026 16:20:31 GMT"
+    },
+    {
+      "title": "Senator åpner for ny sentralbanksjef i USA",
+      "link": "https://www.nrk.no/nyheter/senator-apner_for-ny-sentralbanksjef-i-usa-1.17861872",
+      "category": "USAs økonomi",
+      "pubDate": "Sun, 26 Apr 2026 16:15:24 GMT"
+    },
+    {
+      "title": "140 ansatte byttes ut med utenlandsk arbeidskraft",
+      "link": "https://www.nrk.no/nordland/140-ansatte-byttes-ut-med-utenlandsk-arbeidskraft-1.17861805",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sun, 26 Apr 2026 15:59:10 GMT"
+    },
     {
       "title": "Kontroll på brann i Sandefjord",
       "link": "https://www.nrk.no/vestfoldogtelemark/kontroll-pa-brann-i-sandefjord-1.17861853",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon_-minst-2500-har-blitt-drept-i-israelske-angrep-1.17861817",
       "category": "Libanon og Israel",
       "pubDate": "Sun, 26 Apr 2026 14:43:33 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Vågå: Bilfører blåste til to i promille",
-      "link": "https://www.nrk.no/innlandet/trafikkulykke-i-vaga_-bilforer-blaste-til-to-i-promille-1.17861839",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sun, 26 Apr 2026 14:41:53 GMT"
-    },
-    {
-      "title": "Russlands forsvarsminister på besøk i Nord-Korea",
-      "link": "https://www.nrk.no/nyheter/russlands-forsvarsminister-pa-besok-i-nord-korea-1.17861773",
-      "category": "Nord-Korea",
-      "pubDate": "Sun, 26 Apr 2026 14:19:08 GMT"
-    },
-    {
-      "title": "Brann i Sandefjord – satt sikkerhetsavstand",
-      "link": "https://www.nrk.no/vestfoldogtelemark/brann-i-sandefjord-_-satt-sikkerhetsavstand-1.17861756",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 26 Apr 2026 13:33:52 GMT"
-    },
-    {
-      "title": "Irans utenriksminister reiser til Pakistan",
-      "link": "https://www.nrk.no/nyheter/irans-utenriksminister-reiser-til-pakistan-1.17861743",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 26 Apr 2026 13:28:17 GMT"
     }
   ]
 }
