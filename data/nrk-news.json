@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-26T16:48:31.712Z",
+  "updatedAt": "2026-04-26T17:40:40.832Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En person skadet i voldshendelse på Økern – skal ha blitt avfyrt skudd",
+      "link": "https://www.nrk.no/stor-oslo/en-person-skadet-i-voldshendelse-pa-okern-_-skal-ha-blitt-avfyrt-skudd-1.17861873",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 26 Apr 2026 17:10:14 GMT"
+    },
     {
       "title": "Turister reddet etter at fritidsbåt sank utenfor Gjesvær",
       "link": "https://www.nrk.no/tromsogfinnmark/turister-reddet-etter-at-fritidsbat-sank-utenfor-gjesvaer-1.17861930",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/kontroll-pa-brann-i-sandefjord-1.17861853",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 26 Apr 2026 15:11:56 GMT"
-    },
-    {
-      "title": "Libanon: Minst 2500 har blitt drept i israelske angrep",
-      "link": "https://www.nrk.no/nyheter/libanon_-minst-2500-har-blitt-drept-i-israelske-angrep-1.17861817",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 26 Apr 2026 14:43:33 GMT"
     }
   ]
 }
