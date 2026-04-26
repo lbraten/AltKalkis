@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-26T07:43:12.309Z",
+  "updatedAt": "2026-04-26T09:04:00.169Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oppjusterer skjelvet til 3,6, sterkeste siden 2004 på Østlandet",
+      "link": "https://www.nrk.no/nyheter/oppjusterer-skjelvet-til-3_6_-sterkeste-siden-2004-pa-ostlandet-1.17861572",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 26 Apr 2026 08:57:51 GMT"
+    },
+    {
+      "title": "Politiet: ikke fått meldinger om skader",
+      "link": "https://www.nrk.no/nyheter/politiet_-ikke-fatt-meldinger-om-skader-1.17861549",
+      "category": "Jordskjelv i Norge",
+      "pubDate": "Sun, 26 Apr 2026 08:39:19 GMT"
+    },
+    {
+      "title": "Kan komme etterskjelv",
+      "link": "https://www.nrk.no/nyheter/kan-komme-etterskjelv-1.17861546",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 26 Apr 2026 08:06:53 GMT"
+    },
     {
       "title": "Kraftig skjelv over store deler av Østlandet",
       "link": "https://www.nrk.no/nyheter/kraftig-skjelv-over-store-deler-av-ostlandet-1.17861531",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-er-evakuert-fra-korrespondentmiddag-1.17861409",
       "category": "Donald Trump",
       "pubDate": "Sun, 26 Apr 2026 00:39:32 GMT"
-    },
-    {
-      "title": "Donald Trump på korrespondentmiddag",
-      "link": "https://www.nrk.no/nyheter/donald-trump-pa-korrespondentmiddag-1.17861407",
-      "category": "Donald Trump",
-      "pubDate": "Sun, 26 Apr 2026 00:33:06 GMT"
-    },
-    {
-      "title": "Dødstallene stiger i Colombia",
-      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-colombia-1.17861405",
-      "category": "Colombia",
-      "pubDate": "Sat, 25 Apr 2026 23:36:13 GMT"
-    },
-    {
-      "title": "Medier: Nye angrep i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/medier_-nye-angrep-i-sor-libanon-1.17861387",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 25 Apr 2026 23:03:14 GMT"
     }
   ]
 }
