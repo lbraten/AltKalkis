@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-26T18:58:32.944Z",
+  "updatedAt": "2026-04-26T19:50:44.401Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fem personer pågrepet etter hagleskyting på Skjetten",
+      "link": "https://www.nrk.no/nyheter/fem-personer-pagrepet-etter-hagleskyting-pa-skjetten-1.17862038",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 26 Apr 2026 19:28:00 GMT"
+    },
     {
       "title": "Justisministeren om Økern-skyting: – Uakseptabelt",
       "link": "https://www.nrk.no/stor-oslo/justisministeren-om-okern-skyting_-_-uakseptabelt-1.17861991",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/en-person-skadet-i-voldshendelse-pa-okern-_-skal-ha-blitt-avfyrt-skudd-1.17861873",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 26 Apr 2026 17:10:14 GMT"
-    },
-    {
-      "title": "Turister reddet etter at fritidsbåt sank utenfor Gjesvær",
-      "link": "https://www.nrk.no/tromsogfinnmark/turister-reddet-etter-at-fritidsbat-sank-utenfor-gjesvaer-1.17861930",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 26 Apr 2026 16:31:30 GMT"
     }
   ]
 }
