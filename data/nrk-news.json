@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-26T11:11:45.350Z",
+  "updatedAt": "2026-04-26T12:04:18.815Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fungerende justisminister om USA-skytingen: Trump var trolig målet",
+      "link": "https://www.nrk.no/nyheter/fungerende-justisminister-om-usa-skytingen_-trump-var-trolig-malet-1.17861629",
+      "category": "Donald Trump",
+      "pubDate": "Sun, 26 Apr 2026 11:54:17 GMT"
+    },
+    {
+      "title": "Offroad-ulykke i sandtak i Larvik",
+      "link": "https://www.nrk.no/vestfoldogtelemark/offroad-ulykke-i-sandtak-i-larvik-1.17861618",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 26 Apr 2026 11:13:22 GMT"
+    },
+    {
+      "title": "Håvard Hovde (26) omkom i sykkelulykken i Ringsaker",
+      "link": "https://www.nrk.no/innlandet/havard-hovde-_26_-omkom-i-sykkelulykken-i-ringsaker-1.17861583",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sun, 26 Apr 2026 11:11:03 GMT"
+    },
     {
       "title": "Israel varsler angrep mot sju landsbyer",
       "link": "https://www.nrk.no/nyheter/israel-varsler-angrep-mot-sju-landsbyer-1.17861606",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/nve_-__jordskjelvet-for-lite-til-a-gi-folger-1.17861510",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 26 Apr 2026 09:58:56 GMT"
-    },
-    {
-      "title": "Oppjusterer skjelvet til 3,6, sterkeste på Østlandet siden 2004",
-      "link": "https://www.nrk.no/nyheter/oppjusterer-skjelvet-til-3_6_-sterkeste-pa-ostlandet-siden-2004-1.17861572",
-      "category": "Jordskjelv i Norge",
-      "pubDate": "Sun, 26 Apr 2026 08:57:51 GMT"
-    },
-    {
-      "title": "Politiet: ikke fått meldinger om skader",
-      "link": "https://www.nrk.no/nyheter/politiet_-ikke-fatt-meldinger-om-skader-1.17861549",
-      "category": "Jordskjelv i Norge",
-      "pubDate": "Sun, 26 Apr 2026 08:39:19 GMT"
-    },
-    {
-      "title": "Kan komme etterskjelv",
-      "link": "https://www.nrk.no/nyheter/kan-komme-etterskjelv-1.17861546",
-      "category": "Jordskjelv i Norge",
-      "pubDate": "Sun, 26 Apr 2026 08:06:53 GMT"
     }
   ]
 }
