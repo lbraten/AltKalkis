@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-04-26T14:47:00.757Z",
+  "updatedAt": "2026-04-26T15:44:10.293Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kontroll på brann i Sandefjord",
+      "link": "https://www.nrk.no/vestfoldogtelemark/kontroll-pa-brann-i-sandefjord-1.17861853",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 26 Apr 2026 15:11:56 GMT"
+    },
     {
       "title": "Libanon: Minst 2500 har blitt drept i israelske angrep",
       "link": "https://www.nrk.no/nyheter/libanon_-minst-2500-har-blitt-drept-i-israelske-angrep-1.17861817",
       "category": "Libanon og Israel",
       "pubDate": "Sun, 26 Apr 2026 14:43:33 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Vågå: Bilfører blåste til to i promille",
+      "link": "https://www.nrk.no/innlandet/trafikkulykke-i-vaga_-bilforer-blaste-til-to-i-promille-1.17861839",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sun, 26 Apr 2026 14:41:53 GMT"
     },
     {
       "title": "Russlands forsvarsminister på besøk i Nord-Korea",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/irans-utenriksminister-reiser-til-pakistan-1.17861743",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 26 Apr 2026 13:28:17 GMT"
-    },
-    {
-      "title": "Jordskjelv på Østlandet: Rystelser merket i tårnet på Oslo lufthavn",
-      "link": "https://www.nrk.no/stor-oslo/jordskjelv-pa-ostlandet_-rystelser-merket-i-tarnet-pa-oslo-lufthavn-1.17861737",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 26 Apr 2026 12:58:33 GMT"
-    },
-    {
-      "title": "Israel angriper landsbyer i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-angriper-landsbyer-i-libanon-1.17861715",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 26 Apr 2026 12:48:35 GMT"
     }
   ]
 }
