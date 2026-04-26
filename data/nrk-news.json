@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-25T23:40:14.365Z",
+  "updatedAt": "2026-04-26T02:56:25.667Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump er evakuert fra korrespondentmiddag",
+      "link": "https://www.nrk.no/nyheter/trump-er-evakuert-fra-korrespondentmiddag-1.17861409",
+      "category": "Donald Trump",
+      "pubDate": "Sun, 26 Apr 2026 00:39:32 GMT"
+    },
+    {
+      "title": "Donald Trump på korrespondentmiddag",
+      "link": "https://www.nrk.no/nyheter/donald-trump-pa-korrespondentmiddag-1.17861407",
+      "category": "Donald Trump",
+      "pubDate": "Sun, 26 Apr 2026 00:33:06 GMT"
+    },
     {
       "title": "Dødstallene stiger i Colombia",
       "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-colombia-1.17861405",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rekordstor-kinesisk-eksport-av-solcelle-teknologi-i-mars-1.17861358",
       "category": "Klima og miljø",
       "pubDate": "Sat, 25 Apr 2026 19:36:52 GMT"
-    },
-    {
-      "title": "Slagsmål mellom ungdommer",
-      "link": "https://www.nrk.no/stor-oslo/slagsmal-mellom-ungdommer-1.17861270",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 25 Apr 2026 19:10:56 GMT"
-    },
-    {
-      "title": "Mann alvorlig skadet etter elsparkesykkelulykke i Moss",
-      "link": "https://www.nrk.no/ostfold/mann-alvorlig-skadet-etter-elsparkesykkelulykke-i-moss-1.17861233",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 25 Apr 2026 17:59:09 GMT"
     }
   ]
 }
