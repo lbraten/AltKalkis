@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-26T20:41:12.686Z",
+  "updatedAt": "2026-04-26T21:40:15.619Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "SAS-fly måtte returnere på grunn av røyk i kabinen",
+      "link": "https://www.nrk.no/nyheter/sas-fly-matte-returnere-pa-grunn-av_royk-i-kabinen-1.17862082",
+      "category": "Luftfart",
+      "pubDate": "Sun, 26 Apr 2026 20:46:12 GMT"
+    },
     {
       "title": "14 drept og 37 såret i israelske angrep i Libanon",
       "link": "https://www.nrk.no/nyheter/14-drept-og-37-saret-i-israelske-angrep-i-libanon-1.17862061",
@@ -9,8 +15,8 @@
       "pubDate": "Sun, 26 Apr 2026 20:11:10 GMT"
     },
     {
-      "title": "Helikopter hentar turistar på Gullfjellet",
-      "link": "https://www.nrk.no/vestland/helikopter-hentar-turistar-pa-gullfjellet-1.17862062",
+      "title": "Helikopter henta turistar på Gullfjellet",
+      "link": "https://www.nrk.no/vestland/helikopter-henta-turistar-pa-gullfjellet-1.17862062",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 26 Apr 2026 19:34:03 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/irans-utenriksminister-pa-vei-til-moskva-1.17862032",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 26 Apr 2026 18:33:03 GMT"
-    },
-    {
-      "title": "Kong Charles' USA-besøk går som planlagt",
-      "link": "https://www.nrk.no/nyheter/kong-charles_-usa-besok-gar-som-planlagt-1.17861925",
-      "category": "USA",
-      "pubDate": "Sun, 26 Apr 2026 18:04:53 GMT"
     }
   ]
 }
