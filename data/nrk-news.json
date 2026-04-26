@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-26T02:56:25.667Z",
+  "updatedAt": "2026-04-26T05:43:51.513Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "31-åring pågrepet etter skyting",
+      "link": "https://www.nrk.no/nyheter/31-aring-pagrepet-etter-skyting-1.17861419",
+      "category": "USA",
+      "pubDate": "Sun, 26 Apr 2026 04:53:01 GMT"
+    },
     {
       "title": "Trump er evakuert fra korrespondentmiddag",
       "link": "https://www.nrk.no/nyheter/trump-er-evakuert-fra-korrespondentmiddag-1.17861409",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/guvernor_-sju-sivile-drept-i-bombeangrep-i-colombia-1.17861298",
       "category": "Colombia",
       "pubDate": "Sat, 25 Apr 2026 20:06:36 GMT"
-    },
-    {
-      "title": "Rekordstor kinesisk eksport av solcelle-teknologi i mars",
-      "link": "https://www.nrk.no/nyheter/rekordstor-kinesisk-eksport-av-solcelle-teknologi-i-mars-1.17861358",
-      "category": "Klima og miljø",
-      "pubDate": "Sat, 25 Apr 2026 19:36:52 GMT"
     }
   ]
 }
