@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-26T12:04:18.815Z",
+  "updatedAt": "2026-04-26T13:46:17.232Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Irans utenriksminister reiser til Pakistan",
+      "link": "https://www.nrk.no/nyheter/irans-utenriksminister-reiser-til-pakistan-1.17861743",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 26 Apr 2026 13:28:17 GMT"
+    },
+    {
+      "title": "Jordskjelv på Østlandet: Rystelser merket i tårnet på Oslo lufthavn",
+      "link": "https://www.nrk.no/stor-oslo/jordskjelv-pa-ostlandet_-rystelser-merket-i-tarnet-pa-oslo-lufthavn-1.17861737",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 26 Apr 2026 12:58:33 GMT"
+    },
+    {
+      "title": "Israel angriper landsbyer i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-angriper-landsbyer-i-libanon-1.17861715",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 26 Apr 2026 12:48:35 GMT"
+    },
+    {
+      "title": "Ingen bevegelser i hotellstreiken",
+      "link": "https://www.nrk.no/nyheter/ingen-bevegelser-i-hotellstreiken-1.17861711",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 26 Apr 2026 12:13:57 GMT"
+    },
+    {
+      "title": "Media: Malis forsvarsminister drept",
+      "link": "https://www.nrk.no/nyheter/media_-malis-forsvarsminister-drept-1.17861706",
+      "category": "Mali",
+      "pubDate": "Sun, 26 Apr 2026 12:11:38 GMT"
+    },
     {
       "title": "Fungerende justisminister om USA-skytingen: Trump var trolig målet",
       "link": "https://www.nrk.no/nyheter/fungerende-justisminister-om-usa-skytingen_-trump-var-trolig-malet-1.17861629",
       "category": "Donald Trump",
       "pubDate": "Sun, 26 Apr 2026 11:54:17 GMT"
-    },
-    {
-      "title": "Offroad-ulykke i sandtak i Larvik",
-      "link": "https://www.nrk.no/vestfoldogtelemark/offroad-ulykke-i-sandtak-i-larvik-1.17861618",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 26 Apr 2026 11:13:22 GMT"
-    },
-    {
-      "title": "Håvard Hovde (26) omkom i sykkelulykken i Ringsaker",
-      "link": "https://www.nrk.no/innlandet/havard-hovde-_26_-omkom-i-sykkelulykken-i-ringsaker-1.17861583",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sun, 26 Apr 2026 11:11:03 GMT"
-    },
-    {
-      "title": "Israel varsler angrep mot sju landsbyer",
-      "link": "https://www.nrk.no/nyheter/israel-varsler-angrep-mot-sju-landsbyer-1.17861606",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 26 Apr 2026 10:39:17 GMT"
-    },
-    {
-      "title": "Politiet utelukket ikke bombe da skjelvet kom",
-      "link": "https://www.nrk.no/nyheter/politiet-utelukket-ikke-bombe-da-skjelvet-kom-1.17861576",
-      "category": "Jordskjelv i Norge",
-      "pubDate": "Sun, 26 Apr 2026 10:00:41 GMT"
-    },
-    {
-      "title": "NVE: – Jordskjelvet for lite til å gi følger",
-      "link": "https://www.nrk.no/stor-oslo/nve_-__jordskjelvet-for-lite-til-a-gi-folger-1.17861510",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 26 Apr 2026 09:58:56 GMT"
     }
   ]
 }
