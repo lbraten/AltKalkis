@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-26T10:12:11.962Z",
+  "updatedAt": "2026-04-26T11:11:45.350Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel varsler angrep mot sju landsbyer",
+      "link": "https://www.nrk.no/nyheter/israel-varsler-angrep-mot-sju-landsbyer-1.17861606",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 26 Apr 2026 10:39:17 GMT"
+    },
     {
       "title": "Politiet utelukket ikke bombe da skjelvet kom",
       "link": "https://www.nrk.no/nyheter/politiet-utelukket-ikke-bombe-da-skjelvet-kom-1.17861576",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kan-komme-etterskjelv-1.17861546",
       "category": "Jordskjelv i Norge",
       "pubDate": "Sun, 26 Apr 2026 08:06:53 GMT"
-    },
-    {
-      "title": "Kraftig skjelv over store deler av Østlandet",
-      "link": "https://www.nrk.no/nyheter/kraftig-skjelv-over-store-deler-av-ostlandet-1.17861531",
-      "category": "Jordskjelv i Norge",
-      "pubDate": "Sun, 26 Apr 2026 07:26:23 GMT"
     }
   ]
 }
