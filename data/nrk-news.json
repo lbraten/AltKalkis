@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-26T13:46:17.232Z",
+  "updatedAt": "2026-04-26T14:47:00.757Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Libanon: Minst 2500 har blitt drept i israelske angrep",
+      "link": "https://www.nrk.no/nyheter/libanon_-minst-2500-har-blitt-drept-i-israelske-angrep-1.17861817",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 26 Apr 2026 14:43:33 GMT"
+    },
+    {
+      "title": "Russlands forsvarsminister på besøk i Nord-Korea",
+      "link": "https://www.nrk.no/nyheter/russlands-forsvarsminister-pa-besok-i-nord-korea-1.17861773",
+      "category": "Nord-Korea",
+      "pubDate": "Sun, 26 Apr 2026 14:19:08 GMT"
+    },
+    {
+      "title": "Brann i Sandefjord – satt sikkerhetsavstand",
+      "link": "https://www.nrk.no/vestfoldogtelemark/brann-i-sandefjord-_-satt-sikkerhetsavstand-1.17861756",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 26 Apr 2026 13:33:52 GMT"
+    },
     {
       "title": "Irans utenriksminister reiser til Pakistan",
       "link": "https://www.nrk.no/nyheter/irans-utenriksminister-reiser-til-pakistan-1.17861743",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-angriper-landsbyer-i-libanon-1.17861715",
       "category": "Libanon og Israel",
       "pubDate": "Sun, 26 Apr 2026 12:48:35 GMT"
-    },
-    {
-      "title": "Ingen bevegelser i hotellstreiken",
-      "link": "https://www.nrk.no/nyheter/ingen-bevegelser-i-hotellstreiken-1.17861711",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 26 Apr 2026 12:13:57 GMT"
-    },
-    {
-      "title": "Media: Malis forsvarsminister drept",
-      "link": "https://www.nrk.no/nyheter/media_-malis-forsvarsminister-drept-1.17861706",
-      "category": "Mali",
-      "pubDate": "Sun, 26 Apr 2026 12:11:38 GMT"
-    },
-    {
-      "title": "Fungerende justisminister om USA-skytingen: Trump var trolig målet",
-      "link": "https://www.nrk.no/nyheter/fungerende-justisminister-om-usa-skytingen_-trump-var-trolig-malet-1.17861629",
-      "category": "Donald Trump",
-      "pubDate": "Sun, 26 Apr 2026 11:54:17 GMT"
     }
   ]
 }
