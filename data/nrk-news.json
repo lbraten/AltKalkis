@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-04-26T09:04:00.169Z",
+  "updatedAt": "2026-04-26T10:12:11.962Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Oppjusterer skjelvet til 3,6, sterkeste siden 2004 på Østlandet",
-      "link": "https://www.nrk.no/nyheter/oppjusterer-skjelvet-til-3_6_-sterkeste-siden-2004-pa-ostlandet-1.17861572",
-      "category": "NRK Nyheter",
+      "title": "Politiet utelukket ikke bombe da skjelvet kom",
+      "link": "https://www.nrk.no/nyheter/politiet-utelukket-ikke-bombe-da-skjelvet-kom-1.17861576",
+      "category": "Jordskjelv i Norge",
+      "pubDate": "Sun, 26 Apr 2026 10:00:41 GMT"
+    },
+    {
+      "title": "NVE: – Jordskjelvet for lite til å gi følger",
+      "link": "https://www.nrk.no/stor-oslo/nve_-__jordskjelvet-for-lite-til-a-gi-folger-1.17861510",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 26 Apr 2026 09:58:56 GMT"
+    },
+    {
+      "title": "Oppjusterer skjelvet til 3,6, sterkeste på Østlandet siden 2004",
+      "link": "https://www.nrk.no/nyheter/oppjusterer-skjelvet-til-3_6_-sterkeste-pa-ostlandet-siden-2004-1.17861572",
+      "category": "Jordskjelv i Norge",
       "pubDate": "Sun, 26 Apr 2026 08:57:51 GMT"
     },
     {
@@ -17,26 +29,14 @@
     {
       "title": "Kan komme etterskjelv",
       "link": "https://www.nrk.no/nyheter/kan-komme-etterskjelv-1.17861546",
-      "category": "NRK Nyheter",
+      "category": "Jordskjelv i Norge",
       "pubDate": "Sun, 26 Apr 2026 08:06:53 GMT"
     },
     {
       "title": "Kraftig skjelv over store deler av Østlandet",
       "link": "https://www.nrk.no/nyheter/kraftig-skjelv-over-store-deler-av-ostlandet-1.17861531",
-      "category": "high",
+      "category": "Jordskjelv i Norge",
       "pubDate": "Sun, 26 Apr 2026 07:26:23 GMT"
-    },
-    {
-      "title": "31-åring pågrepet etter skyting",
-      "link": "https://www.nrk.no/nyheter/31-aring-pagrepet-etter-skyting-1.17861419",
-      "category": "USA",
-      "pubDate": "Sun, 26 Apr 2026 04:53:01 GMT"
-    },
-    {
-      "title": "Trump er evakuert fra korrespondentmiddag",
-      "link": "https://www.nrk.no/nyheter/trump-er-evakuert-fra-korrespondentmiddag-1.17861409",
-      "category": "Donald Trump",
-      "pubDate": "Sun, 26 Apr 2026 00:39:32 GMT"
     }
   ]
 }
