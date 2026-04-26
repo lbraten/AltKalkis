@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-26T22:40:53.541Z",
+  "updatedAt": "2026-04-26T23:41:15.022Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisen stiger",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-stiger-1.17862113",
+      "category": "Oljeprisen",
+      "pubDate": "Sun, 26 Apr 2026 22:43:30 GMT"
+    },
+    {
+      "title": "Norsk topplassering på PGA-touren – Reitan og Ventura nummer to",
+      "link": "https://www.nrk.no/sport/norsk-topplassering-pa-pga-touren-_-reitan-og-ventura-nummer-to-1.17861981",
+      "category": "Sportsnyheter",
+      "pubDate": "Sun, 26 Apr 2026 22:26:28 GMT"
+    },
     {
       "title": "SAS-fly måtte returnere på grunn av røyk i kabinen",
       "link": "https://www.nrk.no/nyheter/sas-fly-matte-returnere-pa-grunn-av_royk-i-kabinen-1.17862082",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fem-personer-pagrepet-etter-hagleskyting-pa-skjetten-1.17862038",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 26 Apr 2026 19:28:00 GMT"
-    },
-    {
-      "title": "Justisministeren om Økern-skyting: – Uakseptabelt",
-      "link": "https://www.nrk.no/stor-oslo/justisministeren-om-okern-skyting_-_-uakseptabelt-1.17861991",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 26 Apr 2026 18:50:36 GMT"
-    },
-    {
-      "title": "Irans utenriksminister på vei til Moskva",
-      "link": "https://www.nrk.no/nyheter/irans-utenriksminister-pa-vei-til-moskva-1.17862032",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 26 Apr 2026 18:33:03 GMT"
     }
   ]
 }
