@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-26T19:50:44.401Z",
+  "updatedAt": "2026-04-26T20:41:12.686Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "14 drept og 37 såret i israelske angrep i Libanon",
+      "link": "https://www.nrk.no/nyheter/14-drept-og-37-saret-i-israelske-angrep-i-libanon-1.17862061",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 26 Apr 2026 20:11:10 GMT"
+    },
+    {
+      "title": "Helikopter hentar turistar på Gullfjellet",
+      "link": "https://www.nrk.no/vestland/helikopter-hentar-turistar-pa-gullfjellet-1.17862062",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 26 Apr 2026 19:34:03 GMT"
+    },
     {
       "title": "Fem personer pågrepet etter hagleskyting på Skjetten",
       "link": "https://www.nrk.no/nyheter/fem-personer-pagrepet-etter-hagleskyting-pa-skjetten-1.17862038",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kong-charles_-usa-besok-gar-som-planlagt-1.17861925",
       "category": "USA",
       "pubDate": "Sun, 26 Apr 2026 18:04:53 GMT"
-    },
-    {
-      "title": "Eitt hus er evakuert, skogbrann i Fitjar nærmar seg bustadfelt",
-      "link": "https://www.nrk.no/vestland/eitt-hus-er-evakuert_-skogbrann-i-fitjar-naermar-seg-bustadfelt-1.17861990",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 26 Apr 2026 17:55:51 GMT"
-    },
-    {
-      "title": "En person skadet i voldshendelse på Økern – skal ha blitt avfyrt skudd",
-      "link": "https://www.nrk.no/stor-oslo/en-person-skadet-i-voldshendelse-pa-okern-_-skal-ha-blitt-avfyrt-skudd-1.17861873",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 26 Apr 2026 17:10:14 GMT"
     }
   ]
 }
