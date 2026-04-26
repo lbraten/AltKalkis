@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-26T05:43:51.513Z",
+  "updatedAt": "2026-04-26T07:43:12.309Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kraftig skjelv over store deler av Østlandet",
+      "link": "https://www.nrk.no/nyheter/kraftig-skjelv-over-store-deler-av-ostlandet-1.17861531",
+      "category": "high",
+      "pubDate": "Sun, 26 Apr 2026 07:26:23 GMT"
+    },
     {
       "title": "31-åring pågrepet etter skyting",
       "link": "https://www.nrk.no/nyheter/31-aring-pagrepet-etter-skyting-1.17861419",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/medier_-nye-angrep-i-sor-libanon-1.17861387",
       "category": "Libanon og Israel",
       "pubDate": "Sat, 25 Apr 2026 23:03:14 GMT"
-    },
-    {
-      "title": "Guvernør: Sju sivile drept i bombeangrep i Colombia",
-      "link": "https://www.nrk.no/nyheter/guvernor_-sju-sivile-drept-i-bombeangrep-i-colombia-1.17861298",
-      "category": "Colombia",
-      "pubDate": "Sat, 25 Apr 2026 20:06:36 GMT"
     }
   ]
 }
