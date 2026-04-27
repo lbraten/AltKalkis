@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-27T15:23:16.217Z",
+  "updatedAt": "2026-04-27T17:06:53.974Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kontroll på terrengbrann i Skien",
+      "link": "https://www.nrk.no/vestfoldogtelemark/kontroll-pa-terrengbrann-i-skien-1.17863252",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 27 Apr 2026 16:58:27 GMT"
+    },
+    {
+      "title": "To tog har kollidert utenfor Jakarta i Indonesia",
+      "link": "https://www.nrk.no/nyheter/to-tog-har-kollidert-utenfor-jakarta-i-indonesia-1.17863142",
+      "category": "Indonesia",
+      "pubDate": "Mon, 27 Apr 2026 15:26:07 GMT"
+    },
     {
       "title": "Kongeparet besøker siste kommune i Nord-Norge",
       "link": "https://www.nrk.no/nyheter/kongeparet-besoker-siste-kommune-i-nord-norge-1.17863000",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hjemmehjelp-domt-for-a-ha-filmet-og-ydmyket-eldre--1.17862818",
       "category": "Sverige",
       "pubDate": "Mon, 27 Apr 2026 11:49:49 GMT"
-    },
-    {
-      "title": "Israel utfører nye angrep i sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-utforer-nye-angrep-i-sor-libanon--1.17862776",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 27 Apr 2026 11:38:44 GMT"
-    },
-    {
-      "title": "Brannmenn omkom av kullosforgiftning",
-      "link": "https://www.nrk.no/nyheter/brannmenn-omkom-av-kullosforgiftning-1.17862768",
-      "category": "Branner i Trøndelag",
-      "pubDate": "Mon, 27 Apr 2026 11:20:41 GMT"
     }
   ]
 }
