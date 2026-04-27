@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-27T17:06:53.974Z",
+  "updatedAt": "2026-04-27T18:49:42.449Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kong Charles på statsbesøk i USA",
+      "link": "https://www.nrk.no/nyheter/kong-charles-pa-statsbesok-i-usa-1.17863332",
+      "category": "Det britiske kongehuset",
+      "pubDate": "Mon, 27 Apr 2026 18:30:24 GMT"
+    },
+    {
+      "title": "E6 delvis stengt etter sprengningsuhell – biler og vogntog må rygge",
+      "link": "https://www.nrk.no/innlandet/e6-delvis-stengt-etter-sprengningsuhell-_-biler-og-vogntog-ma-rygge-1.17863297",
+      "category": "Trafikk i Innlandet",
+      "pubDate": "Mon, 27 Apr 2026 18:08:58 GMT"
+    },
+    {
+      "title": "Skytteren siktet for drapsforsøk på Trump",
+      "link": "https://www.nrk.no/nyheter/skytteren-siktet-for-drapsforsok-pa-trump-1.17863301",
+      "category": "Skyting i Washington",
+      "pubDate": "Mon, 27 Apr 2026 17:59:55 GMT"
+    },
+    {
+      "title": "Støre i samtaler med SV-lederen",
+      "link": "https://www.nrk.no/nyheter/store-i-samtaler-med-sv-lederen-1.17863185",
+      "category": "Norsk politikk",
+      "pubDate": "Mon, 27 Apr 2026 17:21:09 GMT"
+    },
     {
       "title": "Kontroll på terrengbrann i Skien",
       "link": "https://www.nrk.no/vestfoldogtelemark/kontroll-pa-terrengbrann-i-skien-1.17863252",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-tog-har-kollidert-utenfor-jakarta-i-indonesia-1.17863142",
       "category": "Indonesia",
       "pubDate": "Mon, 27 Apr 2026 15:26:07 GMT"
-    },
-    {
-      "title": "Kongeparet besøker siste kommune i Nord-Norge",
-      "link": "https://www.nrk.no/nyheter/kongeparet-besoker-siste-kommune-i-nord-norge-1.17863000",
-      "category": "Kongefamilien",
-      "pubDate": "Mon, 27 Apr 2026 14:41:53 GMT"
-    },
-    {
-      "title": "NVE: Norgespris lønnet seg i hele landet i første kvartal",
-      "link": "https://www.nrk.no/nyheter/nve_-norgespris-lonnet-seg-i-hele-landet-i-forste-kvartal-1.17862894",
-      "category": "Strømpriser",
-      "pubDate": "Mon, 27 Apr 2026 13:12:26 GMT"
-    },
-    {
-      "title": "Brann i terrenget på Notodden – brannvesenet har kontroll",
-      "link": "https://www.nrk.no/vestfoldogtelemark/brann-i-terrenget-pa-notodden-_-brannvesenet-har-kontroll-1.17862912",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 27 Apr 2026 13:10:10 GMT"
-    },
-    {
-      "title": "Hjemmehjelp dømt for å ha filmet og ydmyket eldre",
-      "link": "https://www.nrk.no/nyheter/hjemmehjelp-domt-for-a-ha-filmet-og-ydmyket-eldre--1.17862818",
-      "category": "Sverige",
-      "pubDate": "Mon, 27 Apr 2026 11:49:49 GMT"
     }
   ]
 }
