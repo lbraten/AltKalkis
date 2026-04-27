@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-26T23:41:15.022Z",
+  "updatedAt": "2026-04-27T03:21:02.767Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Avis: 13 mennesker såret i Ukraina",
+      "link": "https://www.nrk.no/nyheter/avis_-13-mennesker-saret-i-ukraina-1.17862120",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 27 Apr 2026 03:10:52 GMT"
+    },
+    {
+      "title": "Obama fordømmer skyting i Washington D.C.",
+      "link": "https://www.nrk.no/nyheter/obama-fordommer-skyting-i-washington-d.c.-1.17862115",
+      "category": "USA",
+      "pubDate": "Mon, 27 Apr 2026 01:10:14 GMT"
+    },
     {
       "title": "Oljeprisen stiger",
       "link": "https://www.nrk.no/nyheter/oljeprisen-stiger-1.17862113",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/14-drept-og-37-saret-i-israelske-angrep-i-libanon-1.17862061",
       "category": "Libanon og Israel",
       "pubDate": "Sun, 26 Apr 2026 20:11:10 GMT"
-    },
-    {
-      "title": "Helikopter henta turistar på Gullfjellet",
-      "link": "https://www.nrk.no/vestland/helikopter-henta-turistar-pa-gullfjellet-1.17862062",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 26 Apr 2026 19:34:03 GMT"
-    },
-    {
-      "title": "Fem personer pågrepet etter hagleskyting på Skjetten",
-      "link": "https://www.nrk.no/nyheter/fem-personer-pagrepet-etter-hagleskyting-pa-skjetten-1.17862038",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 26 Apr 2026 19:28:00 GMT"
     }
   ]
 }
