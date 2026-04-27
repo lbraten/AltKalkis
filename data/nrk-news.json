@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-27T22:54:54.679Z",
+  "updatedAt": "2026-04-27T23:56:03.943Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 29 drept i angrep i Nigeria",
+      "link": "https://www.nrk.no/nyheter/minst-29-drept-i-angrep-i-nigeria-1.17863437",
+      "category": "Nigeria",
+      "pubDate": "Mon, 27 Apr 2026 23:08:36 GMT"
+    },
     {
       "title": "Fire drept i israelske angrep i Sør-Libanon",
       "link": "https://www.nrk.no/nyheter/fire-drept-i-israelske-angrep-i-sor-libanon-1.17863436",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/slagsmal-i-asker-_-flere-skytevapen-beslaglagt-1.17863348",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Mon, 27 Apr 2026 19:07:44 GMT"
-    },
-    {
-      "title": "Kong Charles på statsbesøk i USA",
-      "link": "https://www.nrk.no/nyheter/kong-charles-pa-statsbesok-i-usa-1.17863332",
-      "category": "Det britiske kongehuset",
-      "pubDate": "Mon, 27 Apr 2026 18:30:24 GMT"
     }
   ]
 }
