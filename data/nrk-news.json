@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-27T20:08:58.583Z",
+  "updatedAt": "2026-04-27T21:34:03.594Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fire drept i israelske angrep i Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/fire-drept-i-israelske-angrep-i-sor-libanon-1.17863436",
+      "category": "Libanon og Israel",
+      "pubDate": "Mon, 27 Apr 2026 21:15:51 GMT"
+    },
+    {
+      "title": "Politiet har flere hypoteser etter skyting på Økern",
+      "link": "https://www.nrk.no/stor-oslo/politiet-har-flere-hypoteser-etter-skyting-pa-okern-1.17863422",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 27 Apr 2026 20:40:30 GMT"
+    },
+    {
+      "title": "Fem personer pågrepet etter slagsmål i Asker",
+      "link": "https://www.nrk.no/stor-oslo/fem-personer-pagrepet-etter-slagsmal-i-asker-1.17863419",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 27 Apr 2026 20:25:58 GMT"
+    },
     {
       "title": "USA-skytter risikerer livstid",
       "link": "https://www.nrk.no/nyheter/usa-skytter-risikerer-livstid--1.17863375",
@@ -9,8 +27,8 @@
       "pubDate": "Mon, 27 Apr 2026 19:18:20 GMT"
     },
     {
-      "title": "Voldshendelse i Asker – flere skytevåpen beslaglagt",
-      "link": "https://www.nrk.no/nyheter/voldshendelse-i-asker-_-flere-skytevapen-beslaglagt-1.17863348",
+      "title": "Slagsmål i Asker – flere skytevåpen beslaglagt",
+      "link": "https://www.nrk.no/nyheter/slagsmal-i-asker-_-flere-skytevapen-beslaglagt-1.17863348",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Mon, 27 Apr 2026 19:07:44 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kong-charles-pa-statsbesok-i-usa-1.17863332",
       "category": "Det britiske kongehuset",
       "pubDate": "Mon, 27 Apr 2026 18:30:24 GMT"
-    },
-    {
-      "title": "E6 delvis stengt etter sprengningsuhell – biler og vogntog må rygge",
-      "link": "https://www.nrk.no/innlandet/e6-delvis-stengt-etter-sprengningsuhell-_-biler-og-vogntog-ma-rygge-1.17863297",
-      "category": "Trafikk i Innlandet",
-      "pubDate": "Mon, 27 Apr 2026 18:08:58 GMT"
-    },
-    {
-      "title": "Skytteren siktet for drapsforsøk på Trump",
-      "link": "https://www.nrk.no/nyheter/skytteren-siktet-for-drapsforsok-pa-trump-1.17863301",
-      "category": "Skyting i Washington",
-      "pubDate": "Mon, 27 Apr 2026 17:59:55 GMT"
-    },
-    {
-      "title": "Støre i samtaler med SV-lederen",
-      "link": "https://www.nrk.no/nyheter/store-i-samtaler-med-sv-lederen-1.17863185",
-      "category": "Norsk politikk",
-      "pubDate": "Mon, 27 Apr 2026 17:21:09 GMT"
     }
   ]
 }
