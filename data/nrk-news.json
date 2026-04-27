@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-27T13:04:43.194Z",
+  "updatedAt": "2026-04-27T15:23:16.217Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kongeparet besøker siste kommune i Nord-Norge",
+      "link": "https://www.nrk.no/nyheter/kongeparet-besoker-siste-kommune-i-nord-norge-1.17863000",
+      "category": "Kongefamilien",
+      "pubDate": "Mon, 27 Apr 2026 14:41:53 GMT"
+    },
+    {
+      "title": "NVE: Norgespris lønnet seg i hele landet i første kvartal",
+      "link": "https://www.nrk.no/nyheter/nve_-norgespris-lonnet-seg-i-hele-landet-i-forste-kvartal-1.17862894",
+      "category": "Strømpriser",
+      "pubDate": "Mon, 27 Apr 2026 13:12:26 GMT"
+    },
+    {
+      "title": "Brann i terrenget på Notodden – brannvesenet har kontroll",
+      "link": "https://www.nrk.no/vestfoldogtelemark/brann-i-terrenget-pa-notodden-_-brannvesenet-har-kontroll-1.17862912",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 27 Apr 2026 13:10:10 GMT"
+    },
     {
       "title": "Hjemmehjelp dømt for å ha filmet og ydmyket eldre",
       "link": "https://www.nrk.no/nyheter/hjemmehjelp-domt-for-a-ha-filmet-og-ydmyket-eldre--1.17862818",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brannmenn-omkom-av-kullosforgiftning-1.17862768",
       "category": "Branner i Trøndelag",
       "pubDate": "Mon, 27 Apr 2026 11:20:41 GMT"
-    },
-    {
-      "title": "Seks drept i droneangrep fra den sudanske hæren",
-      "link": "https://www.nrk.no/nyheter/seks-drept-i-droneangrep-fra-den-sudanske-haeren-1.17862737",
-      "category": "Sudan",
-      "pubDate": "Mon, 27 Apr 2026 11:16:21 GMT"
-    },
-    {
-      "title": "Utgiftene til verdens militære styrker øker – igjen",
-      "link": "https://www.nrk.no/nyheter/utgiftene-til-verdens-militaere-styrker-oker-_-igjen--1.17862708",
-      "category": "EUs forsvarspolitikk – Pesco",
-      "pubDate": "Mon, 27 Apr 2026 11:02:04 GMT"
-    },
-    {
-      "title": "Salatbønder frykter salatmangel i sommer",
-      "link": "https://www.nrk.no/nyheter/salatbonder-frykter-salatmangel-i-sommer-1.17862683",
-      "category": "Landbruk",
-      "pubDate": "Mon, 27 Apr 2026 10:49:18 GMT"
     }
   ]
 }
