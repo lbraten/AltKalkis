@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-04-27T11:21:55.213Z",
+  "updatedAt": "2026-04-27T13:04:43.194Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Hjemmehjelp dømt for å ha filmet og ydmyket eldre",
+      "link": "https://www.nrk.no/nyheter/hjemmehjelp-domt-for-a-ha-filmet-og-ydmyket-eldre--1.17862818",
+      "category": "Sverige",
+      "pubDate": "Mon, 27 Apr 2026 11:49:49 GMT"
+    },
+    {
+      "title": "Israel utfører nye angrep i sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-utforer-nye-angrep-i-sor-libanon--1.17862776",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 27 Apr 2026 11:38:44 GMT"
+    },
+    {
       "title": "Brannmenn omkom av kullosforgiftning",
       "link": "https://www.nrk.no/nyheter/brannmenn-omkom-av-kullosforgiftning-1.17862768",
-      "category": "NRK Nyheter",
+      "category": "Branner i Trøndelag",
       "pubDate": "Mon, 27 Apr 2026 11:20:41 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/salatbonder-frykter-salatmangel-i-sommer-1.17862683",
       "category": "Landbruk",
       "pubDate": "Mon, 27 Apr 2026 10:49:18 GMT"
-    },
-    {
-      "title": "EU ruster seg for høyere priser",
-      "link": "https://www.nrk.no/nyheter/eu-ruster-seg-for-hoyere-priser-1.17862660",
-      "category": "Europeisk økonomi",
-      "pubDate": "Mon, 27 Apr 2026 10:34:07 GMT"
-    },
-    {
-      "title": "Klatrar skal ha falle frå fjell i Rauma",
-      "link": "https://www.nrk.no/mr/klatrar-skal-ha-falle-fra-fjell-i-rauma-1.17862677",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 27 Apr 2026 10:31:35 GMT"
     }
   ]
 }
