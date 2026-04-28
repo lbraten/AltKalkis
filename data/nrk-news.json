@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-28T17:53:01.304Z",
+  "updatedAt": "2026-04-28T19:44:12.324Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Eks-FBI-sjef Comey tiltales på nytt",
-      "link": "https://www.nrk.no/nyheter/eks-fbi-sjef-comey-tiltales-pa-nytt-1.17864685",
+      "title": "Kong Charles hyllet forholdet mellom Storbritannia og USA",
+      "link": "https://www.nrk.no/nyheter/kong-charles-hyllet-forholdet-mellom-storbritannia-og-usa-1.17864772",
       "category": "USA",
-      "pubDate": "Tue, 28 Apr 2026 17:48:21 GMT"
+      "pubDate": "Tue, 28 Apr 2026 19:25:29 GMT"
     },
     {
-      "title": "En person pågrepet etter funn av alvorlig skadet person funnet i Oslo",
-      "link": "https://www.nrk.no/nyheter/en-person-pagrepet-etter-funn-av-alvorlig-skadet-person-funnet-i-oslo-1.17864663",
+      "title": "Tre redningspersonell drept i Libanon",
+      "link": "https://www.nrk.no/nyheter/tre-redningspersonell-drept-i-libanon-1.17864755",
+      "category": "Libanon og Israel",
+      "pubDate": "Tue, 28 Apr 2026 19:06:08 GMT"
+    },
+    {
+      "title": "FT: USAs ambassadør til Ukraina slutter",
+      "link": "https://www.nrk.no/nyheter/ft_-usas-ambassador-til-ukraina-slutter-1.17864744",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 28 Apr 2026 18:51:18 GMT"
+    },
+    {
+      "title": "Karpe legger opp",
+      "link": "https://www.nrk.no/nyheter/karpe-legger-opp-1.17864725",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 28 Apr 2026 18:30:18 GMT"
+    },
+    {
+      "title": "Hærens musikkorps får ny sjef",
+      "link": "https://www.nrk.no/nordland/haerens-musikkorps-far-ny-sjef-1.17864644",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 28 Apr 2026 18:24:32 GMT"
+    },
+    {
+      "title": "En person død etter voldshendelse i Oslo",
+      "link": "https://www.nrk.no/nyheter/en-person-dod-etter-voldshendelse-i-oslo-1.17864701",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 28 Apr 2026 17:39:35 GMT"
-    },
-    {
-      "title": "Keir Starmer blir ikke gransket for å ha villedet Underhuset om Peter Mandelson",
-      "link": "https://www.nrk.no/nyheter/keir-starmer-blir-ikke-gransket-for-a-ha-villedet-underhuset-om-peter-mandelson-1.17864227",
-      "category": "Storbritannia",
-      "pubDate": "Tue, 28 Apr 2026 17:30:40 GMT"
-    },
-    {
-      "title": "Rekordlav oppslutning for president Trump",
-      "link": "https://www.nrk.no/nyheter/rekordlav-oppslutning-for-president-trump-1.17864655",
-      "category": "USA",
-      "pubDate": "Tue, 28 Apr 2026 17:21:27 GMT"
-    },
-    {
-      "title": "AFP: Minst 23 drept i helgens islamistangrep i Mali",
-      "link": "https://www.nrk.no/nyheter/afp_-minst-23-drept-i-helgens-islamistangrep-i-mali-1.17864593",
-      "category": "Mali",
-      "pubDate": "Tue, 28 Apr 2026 17:10:44 GMT"
-    },
-    {
-      "title": "Trump hyllet båndet mellom USA og Storbritannia",
-      "link": "https://www.nrk.no/nyheter/trump-hyllet-bandet-mellom-usa-og-storbritannia-1.17864572",
-      "category": "Det britiske kongehuset",
-      "pubDate": "Tue, 28 Apr 2026 16:02:11 GMT"
+      "pubDate": "Tue, 28 Apr 2026 18:09:09 GMT"
     }
   ]
 }
