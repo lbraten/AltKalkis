@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-28T19:44:12.324Z",
+  "updatedAt": "2026-04-28T21:08:37.528Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bilde av Trump i nye pass",
+      "link": "https://www.nrk.no/nyheter/bilde-av-trump-i-nye-pass-1.17864812",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 28 Apr 2026 20:43:25 GMT"
+    },
     {
       "title": "Kong Charles hyllet forholdet mellom Storbritannia og USA",
       "link": "https://www.nrk.no/nyheter/kong-charles-hyllet-forholdet-mellom-storbritannia-og-usa-1.17864772",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nordland/haerens-musikkorps-far-ny-sjef-1.17864644",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Tue, 28 Apr 2026 18:24:32 GMT"
-    },
-    {
-      "title": "En person død etter voldshendelse i Oslo",
-      "link": "https://www.nrk.no/nyheter/en-person-dod-etter-voldshendelse-i-oslo-1.17864701",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 28 Apr 2026 18:09:09 GMT"
     }
   ]
 }
