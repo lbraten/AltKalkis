@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-29T18:12:51.040Z",
+  "updatedAt": "2026-04-29T19:59:43.947Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Korrespondentmiddagen: Angriper tok bilde av seg selv med våpen",
+      "link": "https://www.nrk.no/nyheter/korrespondentmiddagen_-angriper-tok-bilde-av-seg-selv-med-vapen-1.17866271",
+      "category": "USA",
+      "pubDate": "Wed, 29 Apr 2026 19:54:42 GMT"
+    },
+    {
+      "title": "Brann blusset opp igjen – Sørlandsbanen åpner tidligst torsdag",
+      "link": "https://www.nrk.no/vestfoldogtelemark/brann-blusset-opp-igjen-_-sorlandsbanen-apner-tidligst-torsdag-1.17866270",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 29 Apr 2026 18:44:28 GMT"
+    },
     {
       "title": "Styringsrenten i USA holdes uendret",
       "link": "https://www.nrk.no/nyheter/styringsrenten-i-usa-holdes-uendret-1.17866238",
@@ -9,8 +21,8 @@
       "pubDate": "Wed, 29 Apr 2026 18:01:17 GMT"
     },
     {
-      "title": "Kreml: Trump og Putin i telefonsamtale",
-      "link": "https://www.nrk.no/nyheter/kreml_-trump-og-putin-i-telefonsamtale-1.17866232",
+      "title": "Trump og Putin diskuterte mulig våpenhvile i telefonsamtale",
+      "link": "https://www.nrk.no/nyheter/trump-og-putin-diskuterte-mulig-vapenhvile-i-telefonsamtale-1.17866232",
       "category": "Russland og USA",
       "pubDate": "Wed, 29 Apr 2026 17:29:56 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/tv-2_-rettssaken-etter-kampen-drapet-starter-1.-juni-1.17866109",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 29 Apr 2026 16:58:29 GMT"
-    },
-    {
-      "title": "Ikke kontroll på brannen på Notodden",
-      "link": "https://www.nrk.no/vestfoldogtelemark/ikke-kontroll-pa-brannen-pa-notodden-1.17866104",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 29 Apr 2026 15:56:10 GMT"
-    },
-    {
-      "title": "Starter drapsetterforskning – mener Ragge er drept",
-      "link": "https://www.nrk.no/innlandet/starter-drapsetterforskning-_-mener-ragge-er-drept-1.17866137",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Wed, 29 Apr 2026 15:53:29 GMT"
     }
   ]
 }
