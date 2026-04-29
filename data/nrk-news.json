@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-29T21:15:30.188Z",
+  "updatedAt": "2026-04-29T22:31:24.744Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump til Axios: Netanyahu har fått beskjed om å holde seg til nøyaktige angrep",
+      "link": "https://www.nrk.no/nyheter/trump-til-axios_-netanyahu-har-fatt-beskjed-om-a-holde-seg-til-noyaktige-angrep-1.17866396",
+      "category": "Libanon og Israel",
+      "pubDate": "Wed, 29 Apr 2026 21:38:46 GMT"
+    },
     {
       "title": "45-åring pågrepet for knivstikking i Nord-London",
       "link": "https://www.nrk.no/nyheter/45-aring-pagrepet-for-knivstikking-i-nord-london-1.17866391",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/korrespondentmiddagen_-angriper-tok-bilde-av-seg-selv-med-vapen-1.17866271",
       "category": "USA",
       "pubDate": "Wed, 29 Apr 2026 19:54:42 GMT"
-    },
-    {
-      "title": "Brann blusset opp igjen – Sørlandsbanen åpner tidligst torsdag",
-      "link": "https://www.nrk.no/vestfoldogtelemark/brann-blusset-opp-igjen-_-sorlandsbanen-apner-tidligst-torsdag-1.17866270",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 29 Apr 2026 18:44:28 GMT"
     }
   ]
 }
