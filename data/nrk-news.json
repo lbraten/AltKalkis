@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-29T08:38:04.328Z",
+  "updatedAt": "2026-04-29T10:58:17.362Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Tidligere PST-topp tapte ankesak mot staten",
-      "link": "https://www.nrk.no/nyheter/tidligere-pst-topp-tapte-ankesak-mot-staten-1.17865131",
+      "title": "Nedtonet seiersparade i Moskva",
+      "link": "https://www.nrk.no/nyheter/nedtonet-seiersparade-i-moskva-1.17865312",
+      "category": "Russland",
+      "pubDate": "Wed, 29 Apr 2026 10:47:51 GMT"
+    },
+    {
+      "title": "Mann dømt for voldtekt av flere barn",
+      "link": "https://www.nrk.no/nyheter/mann-domt-for-voldtekt-av-flere-barn--1.17865496",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 29 Apr 2026 08:36:55 GMT"
+      "pubDate": "Wed, 29 Apr 2026 10:36:09 GMT"
     },
     {
-      "title": "Israel: Sivilperson drept i Hizbollah-angrep",
-      "link": "https://www.nrk.no/nyheter/israel_-sivilperson-drept-i-hizbollah-angrep-1.17865213",
-      "category": "Libanon og Israel",
-      "pubDate": "Wed, 29 Apr 2026 08:25:03 GMT"
+      "title": "Beredskapsplanane i Bergen stolne",
+      "link": "https://www.nrk.no/vestland/beredskapsplanane-i-bergen-stolne-1.17865234",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 29 Apr 2026 10:30:13 GMT"
     },
     {
-      "title": "Fallulykke i Horten",
-      "link": "https://www.nrk.no/vestfoldogtelemark/fallulykke-i-horten-1.17865105",
+      "title": "EU tillater ekstra krisestøtte fra staten på grunn av krigen i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/eu-tillater-ekstra-krisestotte-fra-staten-pa-grunn-av-krigen-i-midtosten-1.17865501",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 29 Apr 2026 10:22:25 GMT"
+    },
+    {
+      "title": "Dieselaksjonister fikk ingen løfter i møtet hos Støre",
+      "link": "https://www.nrk.no/nyheter/dieselaksjonister-fikk-ingen-lofter-i-motet-hos-store-1.17865463",
+      "category": "Dieselbil",
+      "pubDate": "Wed, 29 Apr 2026 10:19:09 GMT"
+    },
+    {
+      "title": "Mann omkom etter fallulykke i Horten",
+      "link": "https://www.nrk.no/vestfoldogtelemark/mann-omkom-etter-fallulykke-i-horten-1.17865419",
       "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 29 Apr 2026 08:11:17 GMT"
-    },
-    {
-      "title": "Hamas-topp og fire andre drept i israelske angrep",
-      "link": "https://www.nrk.no/nyheter/hamas-topp-og-fire-andre-drept-i-israelske-angrep-1.17865200",
-      "category": "Krigen i Gaza",
-      "pubDate": "Wed, 29 Apr 2026 08:05:20 GMT"
-    },
-    {
-      "title": "Brudd i lønnsforhandlingene for bryggerier og mineralvannfabrikker",
-      "link": "https://www.nrk.no/nyheter/brudd-i-lonnsforhandlingene-for-bryggerier-og-mineralvannfabrikker-1.17865192",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Wed, 29 Apr 2026 07:57:51 GMT"
-    },
-    {
-      "title": "– Ikke avhør av drapssiktet fra Holmen onsdag",
-      "link": "https://www.nrk.no/nyheter/_-ikke-avhor-av-drapssiktet-fra-holmen-onsdag-1.17865164",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 29 Apr 2026 07:54:59 GMT"
+      "pubDate": "Wed, 29 Apr 2026 10:06:52 GMT"
     }
   ]
 }
