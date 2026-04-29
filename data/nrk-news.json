@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-29T22:31:24.744Z",
+  "updatedAt": "2026-04-29T23:56:08.395Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 17 migranter funnet omkommet utenfor Libya",
+      "link": "https://www.nrk.no/nyheter/minst-17-migranter-funnet-omkommet-utenfor-libya-1.17866407",
+      "category": "Båtflyktninger i Middelhavet",
+      "pubDate": "Wed, 29 Apr 2026 23:05:37 GMT"
+    },
+    {
+      "title": "Gaza-konvoi med nordmenn om bord er stoppet av Israel",
+      "link": "https://www.nrk.no/nyheter/gaza-konvoi-med-nordmenn-om-bord-er-stoppet-av-israel-1.17866406",
+      "category": "Krigen i Gaza",
+      "pubDate": "Wed, 29 Apr 2026 22:52:37 GMT"
+    },
+    {
+      "title": "Drone skutt ned ved den amerikanske ambassaden i Bagdad",
+      "link": "https://www.nrk.no/nyheter/drone-skutt-ned-ved-den-amerikanske-ambassaden-i-bagdad-1.17866405",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 29 Apr 2026 22:33:21 GMT"
+    },
     {
       "title": "Trump til Axios: Netanyahu har fått beskjed om å holde seg til nøyaktige angrep",
       "link": "https://www.nrk.no/nyheter/trump-til-axios_-netanyahu-har-fatt-beskjed-om-a-holde-seg-til-noyaktige-angrep-1.17866396",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fn_-21-henrettet-i-iran-siden-krigens-start-1.17866351",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 29 Apr 2026 20:26:24 GMT"
-    },
-    {
-      "title": "Brannen på Notodden er under kontroll",
-      "link": "https://www.nrk.no/vestfoldogtelemark/brannen-pa-notodden-er-under-kontroll-1.17866340",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 29 Apr 2026 20:04:29 GMT"
-    },
-    {
-      "title": "Nettavisen: Høiby vil slippe ut av fengsel og gå med fotlenke",
-      "link": "https://www.nrk.no/nyheter/nettavisen_-hoiby-vil-slippe-ut-av-fengsel-og-ga-med-fotlenke-1.17866345",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Wed, 29 Apr 2026 19:59:16 GMT"
-    },
-    {
-      "title": "Korrespondentmiddagen: Angriper tok bilde av seg selv med våpen",
-      "link": "https://www.nrk.no/nyheter/korrespondentmiddagen_-angriper-tok-bilde-av-seg-selv-med-vapen-1.17866271",
-      "category": "USA",
-      "pubDate": "Wed, 29 Apr 2026 19:54:42 GMT"
     }
   ]
 }
