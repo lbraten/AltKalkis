@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-04-29T19:59:43.947Z",
+  "updatedAt": "2026-04-29T21:15:30.188Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "45-åring pågrepet for knivstikking i Nord-London",
+      "link": "https://www.nrk.no/nyheter/45-aring-pagrepet-for-knivstikking-i-nord-london-1.17866391",
+      "category": "Storbritannia",
+      "pubDate": "Wed, 29 Apr 2026 21:06:58 GMT"
+    },
+    {
+      "title": "FN: 21 henrettet i Iran siden krigens start",
+      "link": "https://www.nrk.no/nyheter/fn_-21-henrettet-i-iran-siden-krigens-start-1.17866351",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 29 Apr 2026 20:26:24 GMT"
+    },
+    {
+      "title": "Brannen på Notodden er under kontroll",
+      "link": "https://www.nrk.no/vestfoldogtelemark/brannen-pa-notodden-er-under-kontroll-1.17866340",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 29 Apr 2026 20:04:29 GMT"
+    },
+    {
+      "title": "Nettavisen: Høiby vil slippe ut av fengsel og gå med fotlenke",
+      "link": "https://www.nrk.no/nyheter/nettavisen_-hoiby-vil-slippe-ut-av-fengsel-og-ga-med-fotlenke-1.17866345",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Wed, 29 Apr 2026 19:59:16 GMT"
+    },
     {
       "title": "Korrespondentmiddagen: Angriper tok bilde av seg selv med våpen",
       "link": "https://www.nrk.no/nyheter/korrespondentmiddagen_-angriper-tok-bilde-av-seg-selv-med-vapen-1.17866271",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/brann-blusset-opp-igjen-_-sorlandsbanen-apner-tidligst-torsdag-1.17866270",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Wed, 29 Apr 2026 18:44:28 GMT"
-    },
-    {
-      "title": "Styringsrenten i USA holdes uendret",
-      "link": "https://www.nrk.no/nyheter/styringsrenten-i-usa-holdes-uendret-1.17866238",
-      "category": "USAs økonomi",
-      "pubDate": "Wed, 29 Apr 2026 18:01:17 GMT"
-    },
-    {
-      "title": "Trump og Putin diskuterte mulig våpenhvile i telefonsamtale",
-      "link": "https://www.nrk.no/nyheter/trump-og-putin-diskuterte-mulig-vapenhvile-i-telefonsamtale-1.17866232",
-      "category": "Russland og USA",
-      "pubDate": "Wed, 29 Apr 2026 17:29:56 GMT"
-    },
-    {
-      "title": "Hegseth avviser at Iran-krigen er en hengemyr",
-      "link": "https://www.nrk.no/nyheter/hegseth-avviser-at-iran-krigen-er-en-hengemyr-1.17866103",
-      "category": "USA",
-      "pubDate": "Wed, 29 Apr 2026 17:24:19 GMT"
-    },
-    {
-      "title": "TV 2: Rettssaken etter Kampen-drapet starter 1. juni",
-      "link": "https://www.nrk.no/stor-oslo/tv-2_-rettssaken-etter-kampen-drapet-starter-1.-juni-1.17866109",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 29 Apr 2026 16:58:29 GMT"
     }
   ]
 }
