@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-29T10:58:17.362Z",
+  "updatedAt": "2026-04-29T12:20:39.818Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Nedtonet seiersparade i Moskva",
-      "link": "https://www.nrk.no/nyheter/nedtonet-seiersparade-i-moskva-1.17865312",
-      "category": "Russland",
-      "pubDate": "Wed, 29 Apr 2026 10:47:51 GMT"
+      "title": "Kongeparet på plass i Stockholm for å feire svenskekongen",
+      "link": "https://www.nrk.no/nyheter/kongeparet-pa-plass-i-stockholm-for-a-feire-svenskekongen-1.17865698",
+      "category": "Kongefamilien",
+      "pubDate": "Wed, 29 Apr 2026 12:07:41 GMT"
     },
     {
-      "title": "Mann dømt for voldtekt av flere barn",
-      "link": "https://www.nrk.no/nyheter/mann-domt-for-voldtekt-av-flere-barn--1.17865496",
+      "title": "To personer knivstukket i London",
+      "link": "https://www.nrk.no/nyheter/to-personer-knivstukket-i-london-1.17865652",
+      "category": "Terror i London",
+      "pubDate": "Wed, 29 Apr 2026 11:38:38 GMT"
+    },
+    {
+      "title": "Holmenkollen: Barnebarn siktet for drap på bestefar",
+      "link": "https://www.nrk.no/stor-oslo/holmenkollen_-barnebarn-siktet-for-drap-pa-bestefar-1.17865490",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 29 Apr 2026 11:25:32 GMT"
+    },
+    {
+      "title": "Bøndene krever 4,2 milliarder kroner i årets jordbruksoppgjør",
+      "link": "https://www.nrk.no/nyheter/bondene-krever-4_2-milliarder-kroner-i-arets-jordbruksoppgjor-1.17865534",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Wed, 29 Apr 2026 11:03:29 GMT"
+    },
+    {
+      "title": "Norgeshistoriens største vikingmyntskatt funnet i Østerdalen",
+      "link": "https://www.nrk.no/nyheter/norgeshistoriens-storste-vikingmyntskatt-funnet-i-osterdalen-1.17865553",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 29 Apr 2026 10:36:09 GMT"
+      "pubDate": "Wed, 29 Apr 2026 11:01:40 GMT"
     },
     {
-      "title": "Beredskapsplanane i Bergen stolne",
-      "link": "https://www.nrk.no/vestland/beredskapsplanane-i-bergen-stolne-1.17865234",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 29 Apr 2026 10:30:13 GMT"
-    },
-    {
-      "title": "EU tillater ekstra krisestøtte fra staten på grunn av krigen i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/eu-tillater-ekstra-krisestotte-fra-staten-pa-grunn-av-krigen-i-midtosten-1.17865501",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 29 Apr 2026 10:22:25 GMT"
-    },
-    {
-      "title": "Dieselaksjonister fikk ingen løfter i møtet hos Støre",
-      "link": "https://www.nrk.no/nyheter/dieselaksjonister-fikk-ingen-lofter-i-motet-hos-store-1.17865463",
-      "category": "Dieselbil",
-      "pubDate": "Wed, 29 Apr 2026 10:19:09 GMT"
-    },
-    {
-      "title": "Mann omkom etter fallulykke i Horten",
-      "link": "https://www.nrk.no/vestfoldogtelemark/mann-omkom-etter-fallulykke-i-horten-1.17865419",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 29 Apr 2026 10:06:52 GMT"
+      "title": "Fire uker mer varetekt i bombesaken",
+      "link": "https://www.nrk.no/ostfold/fire-uker-mer-varetekt-i-bombesaken-1.17865366",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Wed, 29 Apr 2026 10:59:43 GMT"
     }
   ]
 }
