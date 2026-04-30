@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-04-30T16:20:53.831Z",
+  "updatedAt": "2026-04-30T17:50:53.509Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Atomkraftverket i Zaporizjzja har mistet all ekstern strøm",
+      "link": "https://www.nrk.no/nyheter/atomkraftverket-i-zaporizjzja-har-mistet-all-ekstern-strom-1.17867850",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 30 Apr 2026 17:29:46 GMT"
+    },
+    {
+      "title": "Storbritannia øker trusselnivået til alvorlig",
+      "link": "https://www.nrk.no/nyheter/storbritannia-oker-trusselnivaet-til-alvorlig-1.17867748",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 30 Apr 2026 17:02:41 GMT"
+    },
+    {
+      "title": "Varmerekord i Telemark i april – slo 1993-rekorden",
+      "link": "https://www.nrk.no/vestfoldogtelemark/-varmerekord-i-telemark-i-april-_-slo-1993-rekorden-1.17867772",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 30 Apr 2026 16:42:52 GMT"
+    },
+    {
+      "title": "Brudd i lønnsforhandlingene i Oslo kommune – rundt 55.000 berørt",
+      "link": "https://www.nrk.no/stor-oslo/brudd-i-lonnsforhandlingene-i-oslo-kommune-_-rundt-55.000-berort-1.17867807",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 30 Apr 2026 16:39:47 GMT"
+    },
+    {
+      "title": "KFUM-spiller Moussa Njie utestengt i to måneder",
+      "link": "https://www.nrk.no/stor-oslo/kfum-spiller-moussa-njie-utestengt-i-to-maneder-1.17867803",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 30 Apr 2026 16:32:31 GMT"
+    },
     {
       "title": "Skytingen på Skjetten: Fire siktede varetektsfengslet",
       "link": "https://www.nrk.no/stor-oslo/skytingen-pa-skjetten_-fire-siktede-varetektsfengslet-1.17867633",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 30 Apr 2026 15:57:11 GMT"
-    },
-    {
-      "title": "Kraftig fordømmelse av Israels bording av Gaza-flåte",
-      "link": "https://www.nrk.no/nyheter/kraftig-fordommelse-av-israels-bording-av-gaza-flate-1.17867705",
-      "category": "Krigen i Gaza",
-      "pubDate": "Thu, 30 Apr 2026 15:37:21 GMT"
-    },
-    {
-      "title": "VG: Fritt Ord vil kjøpe Aschehoug sammen med Vigmostad & Bjørke",
-      "link": "https://www.nrk.no/nyheter/vg_-fritt-ord-vil-kjope-aschehoug-sammen-med-vigmostad-_-bjorke--1.17867601",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 30 Apr 2026 15:07:07 GMT"
-    },
-    {
-      "title": "Sørlandsbanen stengt igjen",
-      "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-stengt-igjen-1.17867679",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 30 Apr 2026 14:46:19 GMT"
-    },
-    {
-      "title": "Drapet i Holmenkollåsen – siktede plasseres på institusjon",
-      "link": "https://www.nrk.no/stor-oslo/drapet-i-holmenkollasen-_-siktede-plasseres-pa-institusjon-1.17867003",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 30 Apr 2026 13:19:54 GMT"
-    },
-    {
-      "title": "Togene går igjen på Sørlandsbanen",
-      "link": "https://www.nrk.no/vestfoldogtelemark/togene-gar-igjen-pa-sorlandsbanen-1.17867485",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 30 Apr 2026 13:12:11 GMT"
     }
   ]
 }
