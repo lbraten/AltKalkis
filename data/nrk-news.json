@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-04-30T20:40:11.516Z",
+  "updatedAt": "2026-04-30T21:57:10.869Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bedre Apple-resultat enn ventet",
+      "link": "https://www.nrk.no/nyheter/bedre-apple-resultat-enn-ventet-1.17868028",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 30 Apr 2026 21:56:21 GMT"
+    },
+    {
+      "title": "Brudd i forhandlingene i statsoppgjøret",
+      "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-i-statsoppgjoret-1.17868026",
+      "category": "high",
+      "pubDate": "Thu, 30 Apr 2026 21:13:27 GMT"
+    },
+    {
+      "title": "Livvakt skutt på kloss hold ved galla-middag",
+      "link": "https://www.nrk.no/nyheter/livvakt-skutt-pa-kloss-hold-ved-galla-middag-1.17868009",
+      "category": "USA",
+      "pubDate": "Thu, 30 Apr 2026 20:55:18 GMT"
+    },
     {
       "title": "Trump raser mot TV-kanalen ABC",
       "link": "https://www.nrk.no/nyheter/trump-raser-mot-tv-kanalen-abc-1.17868007",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/atomkraftverket-i-zaporizjzja-har-mistet-all-ekstern-strom-1.17867850",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 30 Apr 2026 17:29:46 GMT"
-    },
-    {
-      "title": "Storbritannia øker trusselnivået til alvorlig",
-      "link": "https://www.nrk.no/nyheter/storbritannia-oker-trusselnivaet-til-alvorlig-1.17867748",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 30 Apr 2026 17:02:41 GMT"
-    },
-    {
-      "title": "Varmerekord i Telemark i april – slo 1993-rekorden",
-      "link": "https://www.nrk.no/vestfoldogtelemark/-varmerekord-i-telemark-i-april-_-slo-1993-rekorden-1.17867772",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 30 Apr 2026 16:42:52 GMT"
-    },
-    {
-      "title": "Brudd i lønnsforhandlingene i Oslo kommune – rundt 55.000 berørt",
-      "link": "https://www.nrk.no/stor-oslo/brudd-i-lonnsforhandlingene-i-oslo-kommune-_-rundt-55.000-berort-1.17867807",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 30 Apr 2026 16:39:47 GMT"
     }
   ]
 }
