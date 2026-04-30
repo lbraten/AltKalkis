@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-30T19:25:57.285Z",
+  "updatedAt": "2026-04-30T20:40:11.516Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump raser mot TV-kanalen ABC",
+      "link": "https://www.nrk.no/nyheter/trump-raser-mot-tv-kanalen-abc-1.17868007",
+      "category": "USA",
+      "pubDate": "Thu, 30 Apr 2026 20:25:40 GMT"
+    },
+    {
+      "title": "Ammoniakk-lekkasje på Ørlandet",
+      "link": "https://www.nrk.no/nyheter/ammoniakk-lekkasje-pa-orlandet-1.17867872",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 30 Apr 2026 20:02:09 GMT"
+    },
     {
       "title": "Atomkraftverket i Zaporizjzja har mistet all ekstern strøm",
       "link": "https://www.nrk.no/nyheter/atomkraftverket-i-zaporizjzja-har-mistet-all-ekstern-strom-1.17867850",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/brudd-i-lonnsforhandlingene-i-oslo-kommune-_-rundt-55.000-berort-1.17867807",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 30 Apr 2026 16:39:47 GMT"
-    },
-    {
-      "title": "KFUM-spiller Moussa Njie utestengt i to måneder",
-      "link": "https://www.nrk.no/stor-oslo/kfum-spiller-moussa-njie-utestengt-i-to-maneder-1.17867803",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 30 Apr 2026 16:32:31 GMT"
-    },
-    {
-      "title": "Skytingen på Skjetten: Fire siktede varetektsfengslet",
-      "link": "https://www.nrk.no/stor-oslo/skytingen-pa-skjetten_-fire-siktede-varetektsfengslet-1.17867633",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 30 Apr 2026 15:57:11 GMT"
     }
   ]
 }
