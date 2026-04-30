@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-30T21:57:10.869Z",
+  "updatedAt": "2026-04-30T22:59:13.454Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Opphever evakueringen i Ørland",
+      "link": "https://www.nrk.no/nyheter/opphever-evakueringen-i-orland-1.17868041",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Thu, 30 Apr 2026 22:43:39 GMT"
+    },
+    {
+      "title": "Emiratene forbyr reiser til Iran",
+      "link": "https://www.nrk.no/nyheter/emiratene-forbyr-reiser-til-iran-1.17868040",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 30 Apr 2026 22:13:29 GMT"
+    },
     {
       "title": "Bedre Apple-resultat enn ventet",
       "link": "https://www.nrk.no/nyheter/bedre-apple-resultat-enn-ventet-1.17868028",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-raser-mot-tv-kanalen-abc-1.17868007",
       "category": "USA",
       "pubDate": "Thu, 30 Apr 2026 20:25:40 GMT"
-    },
-    {
-      "title": "Ammoniakk-lekkasje på Ørlandet",
-      "link": "https://www.nrk.no/nyheter/ammoniakk-lekkasje-pa-orlandet-1.17867872",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 30 Apr 2026 20:02:09 GMT"
-    },
-    {
-      "title": "Atomkraftverket i Zaporizjzja har mistet all ekstern strøm",
-      "link": "https://www.nrk.no/nyheter/atomkraftverket-i-zaporizjzja-har-mistet-all-ekstern-strom-1.17867850",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 30 Apr 2026 17:29:46 GMT"
     }
   ]
 }
