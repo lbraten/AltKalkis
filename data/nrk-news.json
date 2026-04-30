@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-04-30T10:57:02.794Z",
+  "updatedAt": "2026-04-30T12:18:14.950Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "NTB: Brudd i kommuneoppgjøret – streikefare i slutten av mai",
+      "link": "https://www.nrk.no/nyheter/ntb_-brudd-i-kommuneoppgjoret-_-streikefare-i-slutten-av-mai-1.17867235",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Thu, 30 Apr 2026 11:45:37 GMT"
+    },
+    {
+      "title": "Henlegger sak mot to personer etter babydødsfall",
+      "link": "https://www.nrk.no/nyheter/henlegger-sak-mot-to-personer-etter-babydodsfall-1.17867150",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 30 Apr 2026 11:23:49 GMT"
+    },
     {
       "title": "Enda et gassflaske-tyveri i Bergen",
       "link": "https://www.nrk.no/nyheter/enda-et-gassflaske-tyveri-i-bergen-1.17867091",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/jehovas-vitner-fikk-medhold-i-hoyesterett-1.17866614",
       "category": "Religion og livssyn",
       "pubDate": "Thu, 30 Apr 2026 09:29:45 GMT"
-    },
-    {
-      "title": "Frankrike: Buss kjørte ut i Seinen",
-      "link": "https://www.nrk.no/nyheter/frankrike_-buss-kjorte-ut-i-seinen-1.17866879",
-      "category": "Frankrike",
-      "pubDate": "Thu, 30 Apr 2026 08:41:41 GMT"
-    },
-    {
-      "title": "Økokrim: To dømt for grovt bedrageri av bistandsmidler",
-      "link": "https://www.nrk.no/nyheter/okokrim_-to-domt-for-grovt-bedrageri-av-bistandsmidler-1.17866713",
-      "category": "Økokrim",
-      "pubDate": "Thu, 30 Apr 2026 08:39:31 GMT"
     }
   ]
 }
