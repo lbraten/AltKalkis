@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-01T13:59:24.831Z",
+  "updatedAt": "2026-05-01T15:07:48.386Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brannvesenet har kontroll i Alver",
+      "link": "https://www.nrk.no/nyheter/brannvesenet-har-kontroll-i-alver-1.17868422",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 01 May 2026 14:38:29 GMT"
+    },
+    {
+      "title": "Brannene i Notodden har blusset opp igjen",
+      "link": "https://www.nrk.no/vestfoldogtelemark/brannene-i-notodden-har-blusset-opp-igjen-1.17868449",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 01 May 2026 14:21:20 GMT"
+    },
+    {
+      "title": "Ulykke i Østerdalen – person skadd",
+      "link": "https://www.nrk.no/innlandet/ulykke-i-osterdalen-_-person-skadd-1.17868444",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 01 May 2026 14:06:23 GMT"
+    },
+    {
+      "title": "Skytingen på Skjetten: Ny person fengslet",
+      "link": "https://www.nrk.no/stor-oslo/skytingen-pa-skjetten_-ny-person-fengslet-1.17868386",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 01 May 2026 14:00:01 GMT"
+    },
     {
       "title": "Terrengbrann like ved bebyggelse i Alver – Starter evakuering",
       "link": "https://www.nrk.no/nyheter/terrengbrann-like-ved-bebyggelse-i-alver-_-starter-evakuering-1.17868392",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj-varsler-_haerreform_-1.17868385",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 01 May 2026 12:58:32 GMT"
-    },
-    {
-      "title": "Ti skadet i droneangrep vest i Ukraina",
-      "link": "https://www.nrk.no/nyheter/ti-skadet-i-droneangrep-vest-i-ukraina-1.17868381",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 01 May 2026 12:47:23 GMT"
-    },
-    {
-      "title": "Frp-leder Listhaug: – Nå skal vi vokse",
-      "link": "https://www.nrk.no/nyheter/frp-leder-listhaug_-_-na-skal-vi-vokse-1.17868364",
-      "category": "Norsk politikk",
-      "pubDate": "Fri, 01 May 2026 12:46:31 GMT"
-    },
-    {
-      "title": "Tatt i 180 km/t i Sunnfjord",
-      "link": "https://www.nrk.no/nyheter/tatt-i-180-km_t-i-sunnfjord--1.17868369",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 01 May 2026 12:40:52 GMT"
-    },
-    {
-      "title": "Iran har sendt nytt forslag til USA via Pakistan",
-      "link": "https://www.nrk.no/nyheter/iran-har-sendt-nytt-forslag-til-usa-via-pakistan-1.17868355",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 01 May 2026 12:31:21 GMT"
     }
   ]
 }
