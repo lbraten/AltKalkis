@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-01T09:16:12.530Z",
+  "updatedAt": "2026-05-01T10:52:17.222Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "LO-lederen støttet hotellstreikende: – Kan streike lenge",
+      "link": "https://www.nrk.no/nyheter/lo-lederen-stottet-hotellstreikende_-_-kan-streike-lenge-1.17868277",
+      "category": "1. mai",
+      "pubDate": "Fri, 01 May 2026 10:50:05 GMT"
+    },
+    {
+      "title": "Støre besøkte gruveby 1. mai",
+      "link": "https://www.nrk.no/nyheter/store-besokte-gruveby-1.-mai-1.17868175",
+      "category": "1. mai",
+      "pubDate": "Fri, 01 May 2026 10:43:15 GMT"
+    },
+    {
+      "title": "Ulykke med flere MC-er sperrer E6",
+      "link": "https://www.nrk.no/stor-oslo/ulykke-med-flere-mc-er-sperrer-e6-1.17868208",
+      "category": "high",
+      "pubDate": "Fri, 01 May 2026 10:37:51 GMT"
+    },
+    {
+      "title": "Nord-Norge: – Ventes liten storm på kysten",
+      "link": "https://www.nrk.no/tromsogfinnmark/nord-norge_-_-ventes-liten-storm-pa-kysten-1.17868252",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Fri, 01 May 2026 10:21:34 GMT"
+    },
     {
       "title": "Seks personer omkom i trafikken i april",
       "link": "https://www.nrk.no/innlandet/seks-personer-omkom-i-trafikken-i-april-1.17868212",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/titalls-pagrepet-under-1.-mai-demonstrasjon-i-tyrkia-1.17868157",
       "category": "1. mai",
       "pubDate": "Fri, 01 May 2026 08:21:58 GMT"
-    },
-    {
-      "title": "AFP: Russland sendte rekordmange droner mot Ukraina i april",
-      "link": "https://www.nrk.no/nyheter/afp_-russland-sendte-rekordmange-droner-mot-ukraina-i-april-1.17868068",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 01 May 2026 07:45:10 GMT"
-    },
-    {
-      "title": "Nordmenn sparte 8,5 milliarder kroner med Norgespris",
-      "link": "https://www.nrk.no/innlandet/nordmenn-sparte-8_5-milliarder-kroner-med-norgespris-1.17868105",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 01 May 2026 07:44:01 GMT"
-    },
-    {
-      "title": "Sørlandsbanen er fortsatt stengt",
-      "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-er-fortsatt-stengt-1.17868134",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 01 May 2026 07:11:21 GMT"
-    },
-    {
-      "title": "45-åring siktet for drapsforsøk etter knivstikking i London",
-      "link": "https://www.nrk.no/nyheter/45-aring-siktet-for-drapsforsok-etter-knivstikking-i-london-1.17868063",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 01 May 2026 05:55:09 GMT"
     }
   ]
 }
