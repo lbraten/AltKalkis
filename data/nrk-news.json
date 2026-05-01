@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-01T15:07:48.386Z",
+  "updatedAt": "2026-05-01T16:32:02.690Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump varsler økt toll på europeiske biler",
+      "link": "https://www.nrk.no/nyheter/trump-varsler-okt-toll-pa-europeiske-biler-1.17868489",
+      "category": "USA",
+      "pubDate": "Fri, 01 May 2026 15:54:40 GMT"
+    },
+    {
+      "title": "Støre: Frp bruker teknikker som minner om ytre høyre i USA",
+      "link": "https://www.nrk.no/nyheter/store_-frp-bruker-teknikker-som-minner-om-ytre-hoyre-i-usa-1.17868473",
+      "category": "Norsk politikk",
+      "pubDate": "Fri, 01 May 2026 15:14:17 GMT"
+    },
     {
       "title": "Brannvesenet har kontroll i Alver",
       "link": "https://www.nrk.no/nyheter/brannvesenet-har-kontroll-i-alver-1.17868422",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/skytingen-pa-skjetten_-ny-person-fengslet-1.17868386",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 01 May 2026 14:00:01 GMT"
-    },
-    {
-      "title": "Terrengbrann like ved bebyggelse i Alver – Starter evakuering",
-      "link": "https://www.nrk.no/nyheter/terrengbrann-like-ved-bebyggelse-i-alver-_-starter-evakuering-1.17868392",
-      "category": "high",
-      "pubDate": "Fri, 01 May 2026 13:38:21 GMT"
-    },
-    {
-      "title": "Zelenskyj varsler «hærreform»",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-varsler-_haerreform_-1.17868385",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 01 May 2026 12:58:32 GMT"
     }
   ]
 }
