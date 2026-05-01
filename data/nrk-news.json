@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-01T04:08:47.130Z",
+  "updatedAt": "2026-05-01T07:13:08.376Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sørlandsbanen er fortsatt stengt",
+      "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-er-fortsatt-stengt-1.17868134",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 01 May 2026 07:11:21 GMT"
+    },
+    {
+      "title": "45-åring siktet for drapsforsøk etter knivstikking i London",
+      "link": "https://www.nrk.no/nyheter/45-aring-siktet-for-drapsforsok-etter-knivstikking-i-london-1.17868063",
+      "category": "Storbritannia",
+      "pubDate": "Fri, 01 May 2026 05:55:09 GMT"
+    },
+    {
+      "title": "Utested i Oslo anmeldes – serverte alkohol etter klokken 3",
+      "link": "https://www.nrk.no/nyheter/utested-i-oslo-anmeldes-_-serverte-alkohol-etter-klokken-3-1.17868060",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 01 May 2026 05:35:05 GMT"
+    },
+    {
+      "title": "Russisk droneangrep mot Odesa, ifølge guvernør",
+      "link": "https://www.nrk.no/nyheter/russisk-droneangrep-mot-odesa_-ifolge-guvernor-1.17868059",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 01 May 2026 04:54:19 GMT"
+    },
+    {
+      "title": "Fortsatt stengt på Sørlandsbanen",
+      "link": "https://www.nrk.no/nyheter/fortsatt-stengt-pa-sorlandsbanen-1.17868058",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 01 May 2026 04:20:16 GMT"
+    },
     {
       "title": "Libanesisk soldat drept i israelsk angrep",
       "link": "https://www.nrk.no/nyheter/libanesisk-soldat-drept-i-israelsk-angrep-1.17868056",
       "category": "Libanon og Israel",
       "pubDate": "Fri, 01 May 2026 03:49:31 GMT"
-    },
-    {
-      "title": "USA vil låne ut mer olje fra eget nødlager",
-      "link": "https://www.nrk.no/nyheter/usa-vil-lane-ut-mer-olje-fra-eget-nodlager-1.17868050",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 01 May 2026 03:10:25 GMT"
-    },
-    {
-      "title": "Fredsprisvinner Aung San Suu Kyi overført til husarrest",
-      "link": "https://www.nrk.no/nyheter/fredsprisvinner-aung-san-suu-kyi-overfort-til-husarrest-1.17868052",
-      "category": "Myanmar",
-      "pubDate": "Fri, 01 May 2026 01:54:39 GMT"
-    },
-    {
-      "title": "Reuters: USA mener kamphandlingene med Iran er over",
-      "link": "https://www.nrk.no/nyheter/reuters_-usa-mener-kamphandlingene-med-iran-er-over-1.17868051",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 01 May 2026 01:44:54 GMT"
-    },
-    {
-      "title": "Bolsonaro får kuttet straffen etter kupplaner",
-      "link": "https://www.nrk.no/nyheter/bolsonaro-far-kuttet-straffen-etter-kupplaner-1.17868048",
-      "category": "Brasil",
-      "pubDate": "Fri, 01 May 2026 01:42:21 GMT"
-    },
-    {
-      "title": "Person hentet opp av elv i Bærum",
-      "link": "https://www.nrk.no/nyheter/person-hentet-opp-av-elv-i-baerum-1.17868049",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 01 May 2026 01:19:58 GMT"
     }
   ]
 }
