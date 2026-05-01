@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-01T07:13:08.376Z",
+  "updatedAt": "2026-05-01T09:16:12.530Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Seks personer omkom i trafikken i april",
+      "link": "https://www.nrk.no/innlandet/seks-personer-omkom-i-trafikken-i-april-1.17868212",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 01 May 2026 09:12:28 GMT"
+    },
+    {
+      "title": "Titalls pågrepet under 1. mai-demonstrasjon i Tyrkia",
+      "link": "https://www.nrk.no/nyheter/titalls-pagrepet-under-1.-mai-demonstrasjon-i-tyrkia-1.17868157",
+      "category": "1. mai",
+      "pubDate": "Fri, 01 May 2026 08:21:58 GMT"
+    },
+    {
+      "title": "AFP: Russland sendte rekordmange droner mot Ukraina i april",
+      "link": "https://www.nrk.no/nyheter/afp_-russland-sendte-rekordmange-droner-mot-ukraina-i-april-1.17868068",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 01 May 2026 07:45:10 GMT"
+    },
+    {
+      "title": "Nordmenn sparte 8,5 milliarder kroner med Norgespris",
+      "link": "https://www.nrk.no/innlandet/nordmenn-sparte-8_5-milliarder-kroner-med-norgespris-1.17868105",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 01 May 2026 07:44:01 GMT"
+    },
     {
       "title": "Sørlandsbanen er fortsatt stengt",
       "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-er-fortsatt-stengt-1.17868134",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/45-aring-siktet-for-drapsforsok-etter-knivstikking-i-london-1.17868063",
       "category": "Storbritannia",
       "pubDate": "Fri, 01 May 2026 05:55:09 GMT"
-    },
-    {
-      "title": "Utested i Oslo anmeldes – serverte alkohol etter klokken 3",
-      "link": "https://www.nrk.no/nyheter/utested-i-oslo-anmeldes-_-serverte-alkohol-etter-klokken-3-1.17868060",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 01 May 2026 05:35:05 GMT"
-    },
-    {
-      "title": "Russisk droneangrep mot Odesa, ifølge guvernør",
-      "link": "https://www.nrk.no/nyheter/russisk-droneangrep-mot-odesa_-ifolge-guvernor-1.17868059",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 01 May 2026 04:54:19 GMT"
-    },
-    {
-      "title": "Fortsatt stengt på Sørlandsbanen",
-      "link": "https://www.nrk.no/nyheter/fortsatt-stengt-pa-sorlandsbanen-1.17868058",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 01 May 2026 04:20:16 GMT"
-    },
-    {
-      "title": "Libanesisk soldat drept i israelsk angrep",
-      "link": "https://www.nrk.no/nyheter/libanesisk-soldat-drept-i-israelsk-angrep-1.17868056",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 01 May 2026 03:49:31 GMT"
     }
   ]
 }
