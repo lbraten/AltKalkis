@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-01T19:24:05.809Z",
+  "updatedAt": "2026-05-01T20:27:45.625Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "HRS: Savnet person etter båtulykke i Hvaler er funnet",
+      "link": "https://www.nrk.no/nyheter/hrs_-savnet-person-etter-batulykke-i-hvaler-er-funnet-1.17868645",
+      "category": "high",
+      "pubDate": "Fri, 01 May 2026 19:54:17 GMT"
+    },
+    {
+      "title": "Kontroll på brannen i Raufoss",
+      "link": "https://www.nrk.no/nyheter/kontroll-pa-brannen-i-raufoss-1.17868635",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 01 May 2026 19:47:40 GMT"
+    },
+    {
+      "title": "Kritisk skadd etter ATV-ulykke",
+      "link": "https://www.nrk.no/nyheter/kritisk-skadd-etter-atv-ulykke--1.17868606",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 01 May 2026 19:30:23 GMT"
+    },
+    {
+      "title": "Leteaksjon etter turgåer",
+      "link": "https://www.nrk.no/mr/leteaksjon-etter-turgaer--1.17868380",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 01 May 2026 19:28:58 GMT"
+    },
     {
       "title": "Sørlandsbanen åpner ikke i dag",
       "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-apner-ikke-i-dag-1.17868610",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/atv-har-kjort-utfor-bru-1.17868600",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Fri, 01 May 2026 18:38:51 GMT"
-    },
-    {
-      "title": "Minst ti drept i israelske angrep mot Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/minst-ti-drept-i-israelske-angrep-mot-sor-libanon-1.17868599",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 01 May 2026 18:29:57 GMT"
-    },
-    {
-      "title": "DSB advarer mot stor skogbrannfare i Sør-Norge",
-      "link": "https://www.nrk.no/nyheter/dsb-advarer-mot-stor-skogbrannfare-i-sor-norge-1.17868589",
-      "category": "Skogbrann og skogbrannfare",
-      "pubDate": "Fri, 01 May 2026 18:20:43 GMT"
-    },
-    {
-      "title": "Brann i hus på Raufoss – fare for spredning",
-      "link": "https://www.nrk.no/innlandet/brann-i-hus-pa-raufoss-_-fare-for-spredning-1.17868588",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 01 May 2026 17:50:30 GMT"
-    },
-    {
-      "title": "Mohammadi innlagt på sykehus i Iran",
-      "link": "https://www.nrk.no/nyheter/mohammadi-innlagt-pa-sykehus-i-iran-1.17868548",
-      "category": "Nobels fredspris",
-      "pubDate": "Fri, 01 May 2026 17:15:02 GMT"
     }
   ]
 }
