@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-01T16:32:02.690Z",
+  "updatedAt": "2026-05-01T17:59:29.415Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i hus på Raufoss",
+      "link": "https://www.nrk.no/innlandet/brann-i-hus-pa-raufoss-1.17868588",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 01 May 2026 17:50:30 GMT"
+    },
+    {
+      "title": "Mohammadi innlagt på sykehus i Iran",
+      "link": "https://www.nrk.no/nyheter/mohammadi-innlagt-pa-sykehus-i-iran-1.17868548",
+      "category": "Nobels fredspris",
+      "pubDate": "Fri, 01 May 2026 17:15:02 GMT"
+    },
+    {
+      "title": "Trump: Ikke fornøyd med Irans forslag",
+      "link": "https://www.nrk.no/nyheter/trump_-ikke-fornoyd-med-irans-forslag-1.17868519",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 01 May 2026 16:33:48 GMT"
+    },
     {
       "title": "Trump varsler økt toll på europeiske biler",
       "link": "https://www.nrk.no/nyheter/trump-varsler-okt-toll-pa-europeiske-biler-1.17868489",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brannvesenet-har-kontroll-i-alver-1.17868422",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 01 May 2026 14:38:29 GMT"
-    },
-    {
-      "title": "Brannene i Notodden har blusset opp igjen",
-      "link": "https://www.nrk.no/vestfoldogtelemark/brannene-i-notodden-har-blusset-opp-igjen-1.17868449",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 01 May 2026 14:21:20 GMT"
-    },
-    {
-      "title": "Ulykke i Østerdalen – person skadd",
-      "link": "https://www.nrk.no/innlandet/ulykke-i-osterdalen-_-person-skadd-1.17868444",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 01 May 2026 14:06:23 GMT"
-    },
-    {
-      "title": "Skytingen på Skjetten: Ny person fengslet",
-      "link": "https://www.nrk.no/stor-oslo/skytingen-pa-skjetten_-ny-person-fengslet-1.17868386",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 01 May 2026 14:00:01 GMT"
     }
   ]
 }
