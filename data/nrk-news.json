@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-01T22:26:53.033Z",
+  "updatedAt": "2026-05-01T23:28:37.424Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Suu Kyis advokater planlegger å møte henne i helgen",
+      "link": "https://www.nrk.no/nyheter/suu-kyis-advokater-planlegger-a-mote-henne-i-helgen-1.17868685",
+      "category": "Myanmar",
+      "pubDate": "Fri, 01 May 2026 23:16:52 GMT"
+    },
+    {
+      "title": "Domstol i USA stanser utsending av abortpiller i posten",
+      "link": "https://www.nrk.no/nyheter/domstol-i-usa-stanser-utsending-av-abortpiller-i-posten-1.17868683",
+      "category": "USA",
+      "pubDate": "Fri, 01 May 2026 22:40:23 GMT"
+    },
+    {
+      "title": "To kvinner funnet etter leteaksjon i Strand",
+      "link": "https://www.nrk.no/nyheter/to-kvinner-funnet-etter-leteaksjon-i-strand-1.17868680",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Fri, 01 May 2026 22:38:19 GMT"
+    },
+    {
+      "title": "USA selger våpen for milliarder til Midtøsten",
+      "link": "https://www.nrk.no/nyheter/usa-selger-vapen-for-milliarder-til-midtosten-1.17868681",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 01 May 2026 22:30:14 GMT"
+    },
     {
       "title": "USA varsler våpenforsinkelser til Europa",
       "link": "https://www.nrk.no/nyheter/usa-varsler-vapenforsinkelser-til-europa-1.17868675",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-i-40-arene-dod-etter-fallulykke-pa-sunnmore-1.17868677",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Fri, 01 May 2026 22:17:08 GMT"
-    },
-    {
-      "title": "Mann i 70-årene død etter båtulykke på Hvaler",
-      "link": "https://www.nrk.no/nyheter/mann-i-70-arene-dod-etter-batulykke-pa-hvaler-1.17868673",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Fri, 01 May 2026 21:53:36 GMT"
-    },
-    {
-      "title": "Aktivister satt fri – flere skadet",
-      "link": "https://www.nrk.no/nyheter/aktivister-satt-fri-_-flere-skadet-1.17868674",
-      "category": "Krigen i Gaza",
-      "pubDate": "Fri, 01 May 2026 21:49:59 GMT"
-    },
-    {
-      "title": "USA trekker ut 5000 soldater fra Tyskland",
-      "link": "https://www.nrk.no/nyheter/usa-trekker-ut-5000-soldater-fra-tyskland-1.17868671",
-      "category": "Nato",
-      "pubDate": "Fri, 01 May 2026 21:23:21 GMT"
-    },
-    {
-      "title": "Axios: Amerikansk blokade har kostet Iran milliarder",
-      "link": "https://www.nrk.no/nyheter/axios_-amerikansk-blokade-har-kostet-iran-milliarder-1.17868666",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 01 May 2026 21:18:16 GMT"
     }
   ]
 }
