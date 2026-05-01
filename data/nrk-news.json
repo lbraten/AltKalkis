@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-05-01T17:59:29.415Z",
+  "updatedAt": "2026-05-01T19:24:05.809Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Brann i hus på Raufoss",
-      "link": "https://www.nrk.no/innlandet/brann-i-hus-pa-raufoss-1.17868588",
+      "title": "Sørlandsbanen åpner ikke i dag",
+      "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-apner-ikke-i-dag-1.17868610",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 01 May 2026 18:59:28 GMT"
+    },
+    {
+      "title": "ATV har kjørt utfor bru",
+      "link": "https://www.nrk.no/vestfoldogtelemark/atv-har-kjort-utfor-bru-1.17868600",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 01 May 2026 18:38:51 GMT"
+    },
+    {
+      "title": "Minst ti drept i israelske angrep mot Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/minst-ti-drept-i-israelske-angrep-mot-sor-libanon-1.17868599",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 01 May 2026 18:29:57 GMT"
+    },
+    {
+      "title": "DSB advarer mot stor skogbrannfare i Sør-Norge",
+      "link": "https://www.nrk.no/nyheter/dsb-advarer-mot-stor-skogbrannfare-i-sor-norge-1.17868589",
+      "category": "Skogbrann og skogbrannfare",
+      "pubDate": "Fri, 01 May 2026 18:20:43 GMT"
+    },
+    {
+      "title": "Brann i hus på Raufoss – fare for spredning",
+      "link": "https://www.nrk.no/innlandet/brann-i-hus-pa-raufoss-_-fare-for-spredning-1.17868588",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 01 May 2026 17:50:30 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mohammadi-innlagt-pa-sykehus-i-iran-1.17868548",
       "category": "Nobels fredspris",
       "pubDate": "Fri, 01 May 2026 17:15:02 GMT"
-    },
-    {
-      "title": "Trump: Ikke fornøyd med Irans forslag",
-      "link": "https://www.nrk.no/nyheter/trump_-ikke-fornoyd-med-irans-forslag-1.17868519",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 01 May 2026 16:33:48 GMT"
-    },
-    {
-      "title": "Trump varsler økt toll på europeiske biler",
-      "link": "https://www.nrk.no/nyheter/trump-varsler-okt-toll-pa-europeiske-biler-1.17868489",
-      "category": "USA",
-      "pubDate": "Fri, 01 May 2026 15:54:40 GMT"
-    },
-    {
-      "title": "Støre: Frp bruker teknikker som minner om ytre høyre i USA",
-      "link": "https://www.nrk.no/nyheter/store_-frp-bruker-teknikker-som-minner-om-ytre-hoyre-i-usa-1.17868473",
-      "category": "Norsk politikk",
-      "pubDate": "Fri, 01 May 2026 15:14:17 GMT"
-    },
-    {
-      "title": "Brannvesenet har kontroll i Alver",
-      "link": "https://www.nrk.no/nyheter/brannvesenet-har-kontroll-i-alver-1.17868422",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 01 May 2026 14:38:29 GMT"
     }
   ]
 }
