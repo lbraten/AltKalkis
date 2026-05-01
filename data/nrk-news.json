@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-01T20:27:45.625Z",
+  "updatedAt": "2026-05-01T21:27:46.281Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA henter hjem 5000 soldater fra Tyskland",
+      "link": "https://www.nrk.no/nyheter/usa-henter-hjem-5000-soldater-fra-tyskland-1.17868671",
+      "category": "Nato",
+      "pubDate": "Fri, 01 May 2026 21:23:21 GMT"
+    },
+    {
+      "title": "Axios: Amerikansk blokade har kostet Iran milliarder",
+      "link": "https://www.nrk.no/nyheter/axios_-amerikansk-blokade-har-kostet-iran-milliarder-1.17868666",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 01 May 2026 21:18:16 GMT"
+    },
+    {
+      "title": "Trump: USA blir værende i konflikten med Iran",
+      "link": "https://www.nrk.no/nyheter/trump_-usa-blir-vaerende-i-konflikten-med-iran-1.17868665",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 01 May 2026 20:59:25 GMT"
+    },
     {
       "title": "HRS: Savnet person etter båtulykke i Hvaler er funnet",
       "link": "https://www.nrk.no/nyheter/hrs_-savnet-person-etter-batulykke-i-hvaler-er-funnet-1.17868645",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kritisk-skadd-etter-atv-ulykke--1.17868606",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 01 May 2026 19:30:23 GMT"
-    },
-    {
-      "title": "Leteaksjon etter turgåer",
-      "link": "https://www.nrk.no/mr/leteaksjon-etter-turgaer--1.17868380",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 01 May 2026 19:28:58 GMT"
-    },
-    {
-      "title": "Sørlandsbanen åpner ikke i dag",
-      "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-apner-ikke-i-dag-1.17868610",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 01 May 2026 18:59:28 GMT"
-    },
-    {
-      "title": "ATV har kjørt utfor bru",
-      "link": "https://www.nrk.no/vestfoldogtelemark/atv-har-kjort-utfor-bru-1.17868600",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 01 May 2026 18:38:51 GMT"
     }
   ]
 }
