@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-01T10:52:17.222Z",
+  "updatedAt": "2026-05-01T12:00:18.720Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet måtte gripe inn mellom demonstranter på Youngstorget",
+      "link": "https://www.nrk.no/nyheter/politiet-matte-gripe-inn-mellom-demonstranter-pa-youngstorget-1.17868285",
+      "category": "1. mai",
+      "pubDate": "Fri, 01 May 2026 11:18:39 GMT"
+    },
     {
       "title": "LO-lederen støttet hotellstreikende: – Kan streike lenge",
       "link": "https://www.nrk.no/nyheter/lo-lederen-stottet-hotellstreikende_-_-kan-streike-lenge-1.17868277",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/innlandet/seks-personer-omkom-i-trafikken-i-april-1.17868212",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Fri, 01 May 2026 09:12:28 GMT"
-    },
-    {
-      "title": "Titalls pågrepet under 1. mai-demonstrasjon i Tyrkia",
-      "link": "https://www.nrk.no/nyheter/titalls-pagrepet-under-1.-mai-demonstrasjon-i-tyrkia-1.17868157",
-      "category": "1. mai",
-      "pubDate": "Fri, 01 May 2026 08:21:58 GMT"
     }
   ]
 }
