@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-02T13:52:54.730Z",
+  "updatedAt": "2026-05-02T14:50:41.163Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nobelkomiteen: Mohammadi trenger umiddelbar helsehjelp",
+      "link": "https://www.nrk.no/nyheter/nobelkomiteen_-mohammadi-trenger-umiddelbar-helsehjelp-1.17869079",
+      "category": "Nobels fredspris",
+      "pubDate": "Sat, 02 May 2026 14:46:37 GMT"
+    },
+    {
+      "title": "Terrorsiktet 18-åring fra Stavanger er løslatt",
+      "link": "https://www.nrk.no/nyheter/terrorsiktet-18-aring-fra-stavanger-er-loslatt-1.17869051",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 02 May 2026 14:40:50 GMT"
+    },
+    {
+      "title": "Tankskip kapret utenfor Jemen",
+      "link": "https://www.nrk.no/nyheter/tankskip-kapret-utenfor-jemen-1.17869036",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 02 May 2026 14:09:38 GMT"
+    },
     {
       "title": "Frp etter Økern-pågripelser: Dette er alvorlig",
       "link": "https://www.nrk.no/nyheter/frp-etter-okern-pagripelser_-dette-er-alvorlig-1.17869028",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/har-igangsatt-begjaering-om-utlevering-1.17868975",
       "category": "Drapet på Økern",
       "pubDate": "Sat, 02 May 2026 13:02:03 GMT"
-    },
-    {
-      "title": "Emiratene: Flytrafikken tilbake til normalen",
-      "link": "https://www.nrk.no/nyheter/emiratene_-flytrafikken-tilbake-til-normalen-1.17868970",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 02 May 2026 12:36:54 GMT"
-    },
-    {
-      "title": "To svensker siktet for drapet på Økern",
-      "link": "https://www.nrk.no/nyheter/to-svensker-siktet-for-drapet-pa-okern-1.17868966",
-      "category": "Drapet på Økern",
-      "pubDate": "Sat, 02 May 2026 12:31:17 GMT"
-    },
-    {
-      "title": "Streiken trappes opp søndag",
-      "link": "https://www.nrk.no/nyheter/streiken-trappes-opp-sondag--1.17868824",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sat, 02 May 2026 12:13:59 GMT"
     }
   ]
 }
