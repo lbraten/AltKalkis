@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-01T23:28:37.424Z",
+  "updatedAt": "2026-05-02T01:13:11.417Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zayn Malik avlyser turné etter sykehusinnleggelse",
+      "link": "https://www.nrk.no/nyheter/zayn-malik-avlyser-turne-etter-sykehusinnleggelse-1.17868687",
+      "category": "Musikk",
+      "pubDate": "Sat, 02 May 2026 01:09:26 GMT"
+    },
+    {
+      "title": "Opprørere har inntatt militærbase i Mali",
+      "link": "https://www.nrk.no/nyheter/opprorere-har-inntatt-militaerbase-i-mali-1.17868686",
+      "category": "Mali",
+      "pubDate": "Sat, 02 May 2026 00:07:50 GMT"
+    },
     {
       "title": "Suu Kyis advokater planlegger å møte henne i helgen",
       "link": "https://www.nrk.no/nyheter/suu-kyis-advokater-planlegger-a-mote-henne-i-helgen-1.17868685",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-selger-vapen-for-milliarder-til-midtosten-1.17868681",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 01 May 2026 22:30:14 GMT"
-    },
-    {
-      "title": "USA varsler våpenforsinkelser til Europa",
-      "link": "https://www.nrk.no/nyheter/usa-varsler-vapenforsinkelser-til-europa-1.17868675",
-      "category": "Nato",
-      "pubDate": "Fri, 01 May 2026 22:17:32 GMT"
-    },
-    {
-      "title": "Mann i 40-årene død etter fallulykke på Sunnmøre",
-      "link": "https://www.nrk.no/nyheter/mann-i-40-arene-dod-etter-fallulykke-pa-sunnmore-1.17868677",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 01 May 2026 22:17:08 GMT"
     }
   ]
 }
