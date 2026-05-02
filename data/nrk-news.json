@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-02T21:08:15.354Z",
+  "updatedAt": "2026-05-02T22:06:14.975Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Jordanske styrker angrep mål i Syria",
+      "link": "https://www.nrk.no/nyheter/jordanske-styrker-angrep-mal-i-syria-1.17869251",
+      "category": "Syria",
+      "pubDate": "Sat, 02 May 2026 21:32:46 GMT"
+    },
     {
       "title": "Person til sykehus etter ulykke med elsparkesykkel i Oslo",
       "link": "https://www.nrk.no/nyheter/person-til-sykehus-etter-ulykke-med-elsparkesykkel-i-oslo-1.17869202",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/barn-fant-granat-i-gamvik-1.17869112",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 02 May 2026 17:52:03 GMT"
-    },
-    {
-      "title": "Tok seg inn til eldre beboere og hevdet å komme fra hjemmesykepleien",
-      "link": "https://www.nrk.no/sorlandet/tok-seg-inn-til-eldre-beboere-og-hevdet-a-komme-fra-hjemmesykepleien-1.17869182",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 02 May 2026 17:37:10 GMT"
     }
   ]
 }
