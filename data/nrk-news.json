@@ -1,12 +1,18 @@
 {
-  "updatedAt": "2026-05-02T20:04:17.501Z",
+  "updatedAt": "2026-05-02T21:08:15.354Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Politiet: Bevisstløs etter ulykke med elsparkesykkel",
-      "link": "https://www.nrk.no/nyheter/politiet_-bevisstlos-etter-ulykke-med-elsparkesykkel-1.17869202",
-      "category": "NRK Nyheter",
+      "title": "Person til sykehus etter ulykke med elsparkesykkel i Oslo",
+      "link": "https://www.nrk.no/nyheter/person-til-sykehus-etter-ulykke-med-elsparkesykkel-i-oslo-1.17869202",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 02 May 2026 19:55:57 GMT"
+    },
+    {
+      "title": "Brann i kunstgjødsel i Grimstad – sendte ut nødvarsel",
+      "link": "https://www.nrk.no/sorlandet/brann-i-kunstgjodsel-i-grimstad-_-sendte-ut-nodvarsel-1.17869201",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 02 May 2026 19:30:33 GMT"
     },
     {
       "title": "Person funnet død på Sunnmøre",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/tok-seg-inn-til-eldre-beboere-og-hevdet-a-komme-fra-hjemmesykepleien-1.17869182",
       "category": "Nyheter fra Agder",
       "pubDate": "Sat, 02 May 2026 17:37:10 GMT"
-    },
-    {
-      "title": "Sørlandsbanen åpner igjen med redusert trafikk fra klokken 19.30",
-      "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-apner-igjen-med-redusert-trafikk-fra-klokken-19.30-1.17869156",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 02 May 2026 16:54:18 GMT"
     }
   ]
 }
