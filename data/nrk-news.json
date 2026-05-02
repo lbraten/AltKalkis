@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-02T08:49:11.260Z",
+  "updatedAt": "2026-05-02T09:59:19.238Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nytt jordskjelv i Japan",
+      "link": "https://www.nrk.no/nyheter/nytt-jordskjelv-i-japan-1.17868696",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 02 May 2026 09:48:00 GMT"
+    },
+    {
+      "title": "Minst tre personer skadet etter eksplosjon på motortreff i Sverige",
+      "link": "https://www.nrk.no/nyheter/minst-tre-personer-skadet-etter-eksplosjon-pa-motortreff-i-sverige-1.17868694",
+      "category": "Sverige",
+      "pubDate": "Sat, 02 May 2026 09:23:34 GMT"
+    },
     {
       "title": "To menn henrettet i Iran",
       "link": "https://www.nrk.no/nyheter/to-menn-henrettet-i-iran-1.17868781",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/starmer-apner-for-a-forby-enkelte-palestina-demonstrasjoner-1.17868757",
       "category": "Storbritannia",
       "pubDate": "Sat, 02 May 2026 07:26:35 GMT"
-    },
-    {
-      "title": "Flyselskapet Spirit Airlines konkurs",
-      "link": "https://www.nrk.no/nyheter/flyselskapet-spirit-airlines-konkurs-1.17868695",
-      "category": "Luftfart",
-      "pubDate": "Sat, 02 May 2026 06:37:50 GMT"
-    },
-    {
-      "title": "Sju bortvist fra Landstreffet",
-      "link": "https://www.nrk.no/rogaland/sju-bortvist-fra-landstreffet-1.17868714",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 02 May 2026 06:02:09 GMT"
     }
   ]
 }
