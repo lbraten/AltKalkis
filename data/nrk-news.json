@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-02T07:01:46.741Z",
+  "updatedAt": "2026-05-02T08:49:11.260Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To menn henrettet i Iran",
+      "link": "https://www.nrk.no/nyheter/to-menn-henrettet-i-iran-1.17868781",
+      "category": "Iran",
+      "pubDate": "Sat, 02 May 2026 08:29:30 GMT"
+    },
+    {
+      "title": "Brann i Bærum har spredt seg: – Flammene står gjennom taket",
+      "link": "https://www.nrk.no/stor-oslo/brann-i-baerum-har-spredt-seg_-_-flammene-star-gjennom-taket-1.17868777",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 02 May 2026 07:52:59 GMT"
+    },
+    {
+      "title": "Stenger deler av Kirkeveien etter brann på Majorstua",
+      "link": "https://www.nrk.no/stor-oslo/stenger-deler-av-kirkeveien-etter-brann-pa-majorstua-1.17868783",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 02 May 2026 07:32:00 GMT"
+    },
+    {
+      "title": "Starmer åpner for å forby enkelte Palestina-demonstrasjoner",
+      "link": "https://www.nrk.no/nyheter/starmer-apner-for-a-forby-enkelte-palestina-demonstrasjoner-1.17868757",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 02 May 2026 07:26:35 GMT"
+    },
     {
       "title": "Flyselskapet Spirit Airlines konkurs",
       "link": "https://www.nrk.no/nyheter/flyselskapet-spirit-airlines-konkurs-1.17868695",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/rogaland/sju-bortvist-fra-landstreffet-1.17868714",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sat, 02 May 2026 06:02:09 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke i Froland",
-      "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-froland-1.17868693",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 02 May 2026 04:54:57 GMT"
-    },
-    {
-      "title": "Canadiske separatister vil kreve folkeavstemning",
-      "link": "https://www.nrk.no/nyheter/canadiske-separatister-vil-kreve-folkeavstemning-1.17868691",
-      "category": "Canada",
-      "pubDate": "Sat, 02 May 2026 03:53:24 GMT"
-    },
-    {
-      "title": "Full fyr i bolighus i Modum",
-      "link": "https://www.nrk.no/nyheter/full-fyr-i-bolighus-i-modum-1.17868689",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 02 May 2026 03:41:26 GMT"
-    },
-    {
-      "title": "Flere drept i nye angrep i Libanon",
-      "link": "https://www.nrk.no/nyheter/flere-drept-i-nye-angrep-i-libanon-1.17868682",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 02 May 2026 02:08:42 GMT"
     }
   ]
 }
