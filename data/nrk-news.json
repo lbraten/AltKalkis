@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-02T17:45:39.374Z",
+  "updatedAt": "2026-05-02T19:03:05.604Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann døde etter å ha falt i elv i Halden",
+      "link": "https://www.nrk.no/nyheter/mann-dode-etter-a-ha-falt-i-elv-i-halden-1.17869162",
+      "category": "high",
+      "pubDate": "Sat, 02 May 2026 18:38:09 GMT"
+    },
+    {
+      "title": "Barn fant granat i Gamvik",
+      "link": "https://www.nrk.no/nyheter/barn-fant-granat-i-gamvik-1.17869112",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 02 May 2026 17:52:03 GMT"
+    },
+    {
+      "title": "Tok seg inn til eldre beboere og hevdet å komme fra hjemmesykepleien",
+      "link": "https://www.nrk.no/sorlandet/tok-seg-inn-til-eldre-beboere-og-hevdet-a-komme-fra-hjemmesykepleien-1.17869182",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 02 May 2026 17:37:10 GMT"
+    },
     {
       "title": "Sørlandsbanen åpner igjen med redusert trafikk fra klokken 19.30",
       "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-apner-igjen-med-redusert-trafikk-fra-klokken-19.30-1.17869156",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/ostfold/mann-falt-i-elv-i-halden-1.17869123",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sat, 02 May 2026 15:30:49 GMT"
-    },
-    {
-      "title": "Frp krever strøm-redegjørelse",
-      "link": "https://www.nrk.no/nyheter/frp-krever-strom-redegjorelse-1.17869088",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 02 May 2026 15:15:25 GMT"
-    },
-    {
-      "title": "Nobelkomiteen: Mohammadi trenger umiddelbar helsehjelp",
-      "link": "https://www.nrk.no/nyheter/nobelkomiteen_-mohammadi-trenger-umiddelbar-helsehjelp-1.17869079",
-      "category": "Nobels fredspris",
-      "pubDate": "Sat, 02 May 2026 14:46:37 GMT"
-    },
-    {
-      "title": "Terrorsiktet 18-åring fra Stavanger er løslatt",
-      "link": "https://www.nrk.no/nyheter/terrorsiktet-18-aring-fra-stavanger-er-loslatt-1.17869051",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 02 May 2026 14:40:50 GMT"
     }
   ]
 }
