@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-02T01:13:11.417Z",
+  "updatedAt": "2026-05-02T04:41:29.588Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Canadiske separatister vil kreve folkeavstemning",
+      "link": "https://www.nrk.no/nyheter/canadiske-separatister-vil-kreve-folkeavstemning-1.17868691",
+      "category": "Canada",
+      "pubDate": "Sat, 02 May 2026 03:53:24 GMT"
+    },
+    {
+      "title": "Full fyr i bolighus i Modum",
+      "link": "https://www.nrk.no/nyheter/full-fyr-i-bolighus-i-modum-1.17868689",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 02 May 2026 03:41:26 GMT"
+    },
+    {
+      "title": "Flere drept i nye angrep i Libanon",
+      "link": "https://www.nrk.no/nyheter/flere-drept-i-nye-angrep-i-libanon-1.17868682",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 02 May 2026 02:08:42 GMT"
+    },
+    {
+      "title": "Qatars flygave til Trump skal være klar til å ta av i sommer",
+      "link": "https://www.nrk.no/nyheter/qatars-flygave-til-trump-skal-vaere-klar-til-a-ta-av-i-sommer-1.17868688",
+      "category": "USA",
+      "pubDate": "Sat, 02 May 2026 01:21:52 GMT"
+    },
     {
       "title": "Zayn Malik avlyser turné etter sykehusinnleggelse",
       "link": "https://www.nrk.no/nyheter/zayn-malik-avlyser-turne-etter-sykehusinnleggelse-1.17868687",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/opprorere-har-inntatt-militaerbase-i-mali-1.17868686",
       "category": "Mali",
       "pubDate": "Sat, 02 May 2026 00:07:50 GMT"
-    },
-    {
-      "title": "Suu Kyis advokater planlegger å møte henne i helgen",
-      "link": "https://www.nrk.no/nyheter/suu-kyis-advokater-planlegger-a-mote-henne-i-helgen-1.17868685",
-      "category": "Myanmar",
-      "pubDate": "Fri, 01 May 2026 23:16:52 GMT"
-    },
-    {
-      "title": "Domstol i USA stanser utsending av abortpiller i posten",
-      "link": "https://www.nrk.no/nyheter/domstol-i-usa-stanser-utsending-av-abortpiller-i-posten-1.17868683",
-      "category": "USA",
-      "pubDate": "Fri, 01 May 2026 22:40:23 GMT"
-    },
-    {
-      "title": "To kvinner funnet etter leteaksjon i Strand",
-      "link": "https://www.nrk.no/nyheter/to-kvinner-funnet-etter-leteaksjon-i-strand-1.17868680",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Fri, 01 May 2026 22:38:19 GMT"
-    },
-    {
-      "title": "USA selger våpen for milliarder til Midtøsten",
-      "link": "https://www.nrk.no/nyheter/usa-selger-vapen-for-milliarder-til-midtosten-1.17868681",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 01 May 2026 22:30:14 GMT"
     }
   ]
 }
