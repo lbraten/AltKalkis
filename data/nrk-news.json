@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-02T14:50:41.163Z",
+  "updatedAt": "2026-05-02T15:50:00.900Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Falt i elv i Halden – livreddende førstehjelp pågår",
+      "link": "https://www.nrk.no/ostfold/falt-i-elv-i-halden-_-livreddende-forstehjelp-pagar-1.17869123",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 02 May 2026 15:30:49 GMT"
+    },
+    {
+      "title": "Frp krever strøm-redegjørelse",
+      "link": "https://www.nrk.no/nyheter/frp-krever-strom-redegjorelse-1.17869088",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 02 May 2026 15:15:25 GMT"
+    },
     {
       "title": "Nobelkomiteen: Mohammadi trenger umiddelbar helsehjelp",
       "link": "https://www.nrk.no/nyheter/nobelkomiteen_-mohammadi-trenger-umiddelbar-helsehjelp-1.17869079",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/frp-etter-okern-pagripelser_-dette-er-alvorlig-1.17869028",
       "category": "Drapet på Økern",
       "pubDate": "Sat, 02 May 2026 13:49:25 GMT"
-    },
-    {
-      "title": "Justisministeren fornøyd med pågripelser",
-      "link": "https://www.nrk.no/nyheter/justisministeren-fornoyd-med-pagripelser-1.17868998",
-      "category": "Drapet på Økern",
-      "pubDate": "Sat, 02 May 2026 13:40:02 GMT"
-    },
-    {
-      "title": "Har igangsatt begjæring om utlevering",
-      "link": "https://www.nrk.no/nyheter/har-igangsatt-begjaering-om-utlevering-1.17868975",
-      "category": "Drapet på Økern",
-      "pubDate": "Sat, 02 May 2026 13:02:03 GMT"
     }
   ]
 }
