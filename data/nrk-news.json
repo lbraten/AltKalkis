@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-02T19:03:05.604Z",
+  "updatedAt": "2026-05-02T20:04:17.501Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Bevisstløs etter ulykke med elsparkesykkel",
+      "link": "https://www.nrk.no/nyheter/politiet_-bevisstlos-etter-ulykke-med-elsparkesykkel-1.17869202",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 02 May 2026 19:55:57 GMT"
+    },
+    {
+      "title": "Person funnet død på Sunnmøre",
+      "link": "https://www.nrk.no/mr/person-funnet-dod-pa-sunnmore-1.17869102",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 02 May 2026 19:02:40 GMT"
+    },
     {
       "title": "Mann døde etter å ha falt i elv i Halden",
       "link": "https://www.nrk.no/nyheter/mann-dode-etter-a-ha-falt-i-elv-i-halden-1.17869162",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-apner-igjen-med-redusert-trafikk-fra-klokken-19.30-1.17869156",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 02 May 2026 16:54:18 GMT"
-    },
-    {
-      "title": "Iran: Ballen ligger hos USA",
-      "link": "https://www.nrk.no/nyheter/iran_-ballen-ligger-hos-usa-1.17869114",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 02 May 2026 16:46:59 GMT"
-    },
-    {
-      "title": "Mann falt i elv i Halden",
-      "link": "https://www.nrk.no/ostfold/mann-falt-i-elv-i-halden-1.17869123",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 02 May 2026 15:30:49 GMT"
     }
   ]
 }
