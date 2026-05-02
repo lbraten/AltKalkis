@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-02T11:00:19.503Z",
+  "updatedAt": "2026-05-02T12:07:18.867Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge skal lede IMO-møter",
+      "link": "https://www.nrk.no/nyheter/norge-skal-lede-imo-moter-1.17868697",
+      "category": "Klima og miljø",
+      "pubDate": "Sat, 02 May 2026 11:35:14 GMT"
+    },
+    {
+      "title": "Politiet kaller inn til pressekonferanse etter drapet på Økern",
+      "link": "https://www.nrk.no/nyheter/politiet-kaller-inn-til-pressekonferanse-etter-drapet-pa-okern-1.17868854",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 02 May 2026 11:16:21 GMT"
+    },
     {
       "title": "Nytt jordskjelv i Japan",
       "link": "https://www.nrk.no/nyheter/nytt-jordskjelv-i-japan-1.17868696",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/brann-i-baerum-har-spredt-seg_-_-flammene-star-gjennom-taket-1.17868777",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 02 May 2026 07:52:59 GMT"
-    },
-    {
-      "title": "Flere leiligheter ubeboelige etter brann på Majorstua",
-      "link": "https://www.nrk.no/stor-oslo/flere-leiligheter-ubeboelige-etter-brann-pa-majorstua-1.17868783",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 02 May 2026 07:32:00 GMT"
-    },
-    {
-      "title": "Starmer åpner for å forby enkelte Palestina-demonstrasjoner",
-      "link": "https://www.nrk.no/nyheter/starmer-apner-for-a-forby-enkelte-palestina-demonstrasjoner-1.17868757",
-      "category": "Storbritannia",
-      "pubDate": "Sat, 02 May 2026 07:26:35 GMT"
     }
   ]
 }
