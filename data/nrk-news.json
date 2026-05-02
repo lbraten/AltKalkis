@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-02T16:52:09.876Z",
+  "updatedAt": "2026-05-02T17:45:39.374Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sørlandsbanen åpner igjen med redusert trafikk fra klokken 19.30",
+      "link": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-apner-igjen-med-redusert-trafikk-fra-klokken-19.30-1.17869156",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 02 May 2026 16:54:18 GMT"
+    },
     {
       "title": "Iran: Ballen ligger hos USA",
       "link": "https://www.nrk.no/nyheter/iran_-ballen-ligger-hos-usa-1.17869114",
@@ -9,8 +15,8 @@
       "pubDate": "Sat, 02 May 2026 16:46:59 GMT"
     },
     {
-      "title": "Falt i elv i Halden – livreddende førstehjelp pågår",
-      "link": "https://www.nrk.no/ostfold/falt-i-elv-i-halden-_-livreddende-forstehjelp-pagar-1.17869123",
+      "title": "Mann falt i elv i Halden",
+      "link": "https://www.nrk.no/ostfold/mann-falt-i-elv-i-halden-1.17869123",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sat, 02 May 2026 15:30:49 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/terrorsiktet-18-aring-fra-stavanger-er-loslatt-1.17869051",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 02 May 2026 14:40:50 GMT"
-    },
-    {
-      "title": "Tankskip kapret utenfor Jemen",
-      "link": "https://www.nrk.no/nyheter/tankskip-kapret-utenfor-jemen-1.17869036",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 02 May 2026 14:09:38 GMT"
     }
   ]
 }
