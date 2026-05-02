@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-02T15:50:00.900Z",
+  "updatedAt": "2026-05-02T16:52:09.876Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Ballen ligger hos USA",
+      "link": "https://www.nrk.no/nyheter/iran_-ballen-ligger-hos-usa-1.17869114",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 02 May 2026 16:46:59 GMT"
+    },
     {
       "title": "Falt i elv i Halden – livreddende førstehjelp pågår",
       "link": "https://www.nrk.no/ostfold/falt-i-elv-i-halden-_-livreddende-forstehjelp-pagar-1.17869123",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tankskip-kapret-utenfor-jemen-1.17869036",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 02 May 2026 14:09:38 GMT"
-    },
-    {
-      "title": "Frp etter Økern-pågripelser: Dette er alvorlig",
-      "link": "https://www.nrk.no/nyheter/frp-etter-okern-pagripelser_-dette-er-alvorlig-1.17869028",
-      "category": "Drapet på Økern",
-      "pubDate": "Sat, 02 May 2026 13:49:25 GMT"
     }
   ]
 }
