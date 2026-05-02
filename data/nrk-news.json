@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-02T22:06:14.975Z",
+  "updatedAt": "2026-05-02T23:09:45.810Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En til sykehus etter MC-ulykke i Stad",
+      "link": "https://www.nrk.no/nyheter/en-til-sykehus-etter-mc-ulykke-i-stad-1.17869256",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 02 May 2026 22:47:16 GMT"
+    },
+    {
+      "title": "Trump varsler større kutt i Tyskland",
+      "link": "https://www.nrk.no/nyheter/trump-varsler-storre-kutt-i-tyskland-1.17869255",
+      "category": "USA",
+      "pubDate": "Sat, 02 May 2026 22:43:08 GMT"
+    },
+    {
+      "title": "Danser på gamle bomber i Frankrike",
+      "link": "https://www.nrk.no/nyheter/danser-pa-gamle-bomber-i-frankrike-1.17869252",
+      "category": "Frankrike",
+      "pubDate": "Sat, 02 May 2026 22:36:59 GMT"
+    },
     {
       "title": "Jordanske styrker angrep mål i Syria",
       "link": "https://www.nrk.no/nyheter/jordanske-styrker-angrep-mal-i-syria-1.17869251",
@@ -15,28 +33,10 @@
       "pubDate": "Sat, 02 May 2026 19:55:57 GMT"
     },
     {
-      "title": "Brann i kunstgjødsel i Grimstad – sendte ut nødvarsel",
-      "link": "https://www.nrk.no/sorlandet/brann-i-kunstgjodsel-i-grimstad-_-sendte-ut-nodvarsel-1.17869201",
+      "title": "Brann i kunstgjødsel i Grimstad slukket",
+      "link": "https://www.nrk.no/sorlandet/brann-i-kunstgjodsel-i-grimstad-slukket--1.17869201",
       "category": "Nyheter fra Agder",
       "pubDate": "Sat, 02 May 2026 19:30:33 GMT"
-    },
-    {
-      "title": "Person funnet død på Sunnmøre",
-      "link": "https://www.nrk.no/mr/person-funnet-dod-pa-sunnmore-1.17869102",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 02 May 2026 19:02:40 GMT"
-    },
-    {
-      "title": "Mann døde etter å ha falt i elv i Halden",
-      "link": "https://www.nrk.no/nyheter/mann-dode-etter-a-ha-falt-i-elv-i-halden-1.17869162",
-      "category": "high",
-      "pubDate": "Sat, 02 May 2026 18:38:09 GMT"
-    },
-    {
-      "title": "Barn fant granat i Gamvik",
-      "link": "https://www.nrk.no/nyheter/barn-fant-granat-i-gamvik-1.17869112",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 02 May 2026 17:52:03 GMT"
     }
   ]
 }
