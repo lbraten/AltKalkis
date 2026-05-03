@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-03T21:44:07.348Z",
+  "updatedAt": "2026-05-03T22:45:15.378Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Merz vil fortsatt samarbeide med Trump",
+      "link": "https://www.nrk.no/nyheter/merz-vil-fortsatt-samarbeide-med-trump-1.17869848",
+      "category": "USA",
+      "pubDate": "Sun, 03 May 2026 22:06:05 GMT"
+    },
+    {
+      "title": "Storbritannia varsler nye sanksjoner mot Russland",
+      "link": "https://www.nrk.no/nyheter/storbritannia-varsler-nye-sanksjoner-mot-russland-1.17869824",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 03 May 2026 21:46:49 GMT"
+    },
     {
       "title": "Trump: USA vil begynne å hjelpe skip ut av Hormuzsstredet i morgen",
       "link": "https://www.nrk.no/nyheter/trump_-usa-vil-begynne-a-hjelpe-skip-ut-av-hormuzsstredet-i-morgen-1.17869823",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/person-omkom-etter-mc-ulykke-i-alver-1.17869661",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 03 May 2026 17:15:42 GMT"
-    },
-    {
-      "title": "Simen Velle: «Har blitt truet på livet»",
-      "link": "https://www.nrk.no/nyheter/simen-velle_-_har-blitt-truet-pa-livet_-1.17869624",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Sun, 03 May 2026 15:50:05 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Alver",
-      "link": "https://www.nrk.no/vestland/trafikkulykke-i-alver-1.17869660",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 03 May 2026 15:37:45 GMT"
     }
   ]
 }
