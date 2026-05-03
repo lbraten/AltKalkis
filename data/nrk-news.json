@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-05-03T11:44:26.908Z",
+  "updatedAt": "2026-05-03T13:15:53.666Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "3 biler involvert i trafikkulykke på E10",
-      "link": "https://www.nrk.no/nordland/3-biler-involvert-i-trafikkulykke-pa-e10-1.17869428",
+      "title": "Økern-siktede er 15 og 16 år gamle",
+      "link": "https://www.nrk.no/nyheter/okern-siktede-er-15-og-16-ar-gamle-1.17869527",
+      "category": "Drapet på Økern",
+      "pubDate": "Sun, 03 May 2026 13:09:09 GMT"
+    },
+    {
+      "title": "Støre møter Zelenskyj i dag",
+      "link": "https://www.nrk.no/nyheter/store-moter-zelenskyj-i-dag-1.17869513",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 03 May 2026 12:34:28 GMT"
+    },
+    {
+      "title": "Møre og Romsdal: Mann funnet død i veibanen",
+      "link": "https://www.nrk.no/nyheter/more-og-romsdal_-mann-funnet-dod-i-veibanen-1.17869492",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 03 May 2026 12:19:08 GMT"
+    },
+    {
+      "title": "Kilometerlange køer på E18 etter ulykke",
+      "link": "https://www.nrk.no/vestfoldogtelemark/kilometerlange-koer-pa-e18-etter-ulykke-1.17869488",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 03 May 2026 12:17:57 GMT"
+    },
+    {
+      "title": "Tre biler involvert i trafikkulykke på E10",
+      "link": "https://www.nrk.no/nordland/tre-biler-involvert-i-trafikkulykke-pa-e10-1.17869428",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sun, 03 May 2026 10:49:07 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/innlandet/varsler-sno-i-fjelltraktene-1.17869458",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sun, 03 May 2026 10:18:50 GMT"
-    },
-    {
-      "title": "Statsforvalteren: Kommunen og grunneieren har ansvar for tannbørstehaugen",
-      "link": "https://www.nrk.no/innlandet/statsforvalteren_-kommunen-og-grunneieren-har-ansvar-for-tannborstehaugen-1.17869405",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 03 May 2026 10:00:59 GMT"
-    },
-    {
-      "title": "Listhaug gjenvalgt som Frp-leder",
-      "link": "https://www.nrk.no/nyheter/listhaug-gjenvalgt-som-frp-leder-1.17869449",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Sun, 03 May 2026 09:37:25 GMT"
-    },
-    {
-      "title": "Tidligere biskop Finn Wagle er død",
-      "link": "https://www.nrk.no/nyheter/tidligere-biskop-finn-wagle-er-dod-1.17869426",
-      "category": "Den norske kirke",
-      "pubDate": "Sun, 03 May 2026 09:20:38 GMT"
-    },
-    {
-      "title": "Anmelder Frp-rådgiver for rasisme",
-      "link": "https://www.nrk.no/nyheter/anmelder-frp-radgiver-for-rasisme-1.17869404",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Sun, 03 May 2026 08:58:34 GMT"
     }
   ]
 }
