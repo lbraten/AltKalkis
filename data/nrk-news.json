@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-03T22:45:15.378Z",
+  "updatedAt": "2026-05-03T23:50:31.592Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA sender styrker til Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/usa-sender-styrker-til-hormuzstredet-1.17869852",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 03 May 2026 23:45:48 GMT"
+    },
+    {
+      "title": "Rudy Giuliani (81) innlagt på sykehus",
+      "link": "https://www.nrk.no/nyheter/rudy-giuliani-_81_-innlagt-pa-sykehus-1.17869851",
+      "category": "USA",
+      "pubDate": "Sun, 03 May 2026 23:15:26 GMT"
+    },
+    {
+      "title": "Iran advarer USA: – Brudd på våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/iran-advarer-usa_-_-brudd-pa-vapenhvilen-1.17869850",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 03 May 2026 22:51:30 GMT"
+    },
     {
       "title": "Merz vil fortsatt samarbeide med Trump",
       "link": "https://www.nrk.no/nyheter/merz-vil-fortsatt-samarbeide-med-trump-1.17869848",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-usa-vil-begynne-a-hjelpe-skip-ut-av-hormuzsstredet-i-morgen-1.17869823",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 03 May 2026 20:41:32 GMT"
-    },
-    {
-      "title": "Analyser viser at gjerningsmannen skjøt først ved korrespondentmiddagen",
-      "link": "https://www.nrk.no/nyheter/analyser-viser-at-gjerningsmannen-skjot-forst-ved-korrespondentmiddagen-1.17869743",
-      "category": "Donald Trump",
-      "pubDate": "Sun, 03 May 2026 19:48:06 GMT"
-    },
-    {
-      "title": "Tre døde av virus på cruise i Atlanterhavet",
-      "link": "https://www.nrk.no/nyheter/tre-dode-av-virus-pa-cruise-i-atlanterhavet--1.17869672",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 03 May 2026 17:56:06 GMT"
-    },
-    {
-      "title": "Person omkom etter MC-ulykke i Alver",
-      "link": "https://www.nrk.no/vestland/person-omkom-etter-mc-ulykke-i-alver-1.17869661",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 03 May 2026 17:15:42 GMT"
     }
   ]
 }
