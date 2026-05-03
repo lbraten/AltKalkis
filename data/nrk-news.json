@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-03T19:33:34.775Z",
+  "updatedAt": "2026-05-03T20:47:41.965Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump: USA vil begynne å hjelpe skip ut av Hormuz i morgen",
+      "link": "https://www.nrk.no/nyheter/trump_-usa-vil-begynne-a-hjelpe-skip-ut-av-hormuz-i-morgen-1.17869823",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 03 May 2026 20:41:32 GMT"
+    },
+    {
+      "title": "Analyser viser at gjerningsmannen skjøt først ved korrespondentmiddagen",
+      "link": "https://www.nrk.no/nyheter/analyser-viser-at-gjerningsmannen-skjot-forst-ved-korrespondentmiddagen-1.17869743",
+      "category": "Donald Trump",
+      "pubDate": "Sun, 03 May 2026 19:48:06 GMT"
+    },
     {
       "title": "Tre døde av virus på cruise i Atlanterhavet",
       "link": "https://www.nrk.no/nyheter/tre-dode-av-virus-pa-cruise-i-atlanterhavet--1.17869672",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/trafikkulykke-i-alver-1.17869660",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 03 May 2026 15:37:45 GMT"
-    },
-    {
-      "title": "Ulykke på Solsiden – person har falt to etasjer",
-      "link": "https://www.nrk.no/trondelag/ulykke-pa-solsiden-_-person-har-falt-to-etasjer-1.17869599",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 03 May 2026 15:12:46 GMT"
-    },
-    {
-      "title": "Skyting i London",
-      "link": "https://www.nrk.no/nyheter/skyting-i-london-1.17869579",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 03 May 2026 14:43:36 GMT"
     }
   ]
 }
