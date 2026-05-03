@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-05-03T15:23:03.588Z",
+  "updatedAt": "2026-05-03T16:09:08.248Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ulykke på Solsiden - person har falt to etasjer",
-      "link": "https://www.nrk.no/trondelag/ulykke-pa-solsiden---person-har-falt-to-etasjer-1.17869599",
+      "title": "Simen Velle: «Har blitt truet på livet»",
+      "link": "https://www.nrk.no/nyheter/simen-velle_-_har-blitt-truet-pa-livet_-1.17869624",
+      "category": "Fremskrittspartiet",
+      "pubDate": "Sun, 03 May 2026 15:50:05 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Alver",
+      "link": "https://www.nrk.no/vestland/trafikkulykke-i-alver-1.17869660",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 03 May 2026 15:37:45 GMT"
+    },
+    {
+      "title": "Ulykke på Solsiden – person har falt to etasjer",
+      "link": "https://www.nrk.no/trondelag/ulykke-pa-solsiden-_-person-har-falt-to-etasjer-1.17869599",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 03 May 2026 15:12:46 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sveriges-kystvakt-har-stanset-tankskip-_-mistenkes-a-tilhore-skyggeflaten-1.17869559",
       "category": "Russland",
       "pubDate": "Sun, 03 May 2026 13:46:51 GMT"
-    },
-    {
-      "title": "Økern-siktede er 15 og 16 år gamle",
-      "link": "https://www.nrk.no/nyheter/okern-siktede-er-15-og-16-ar-gamle-1.17869527",
-      "category": "Drapet på Økern",
-      "pubDate": "Sun, 03 May 2026 13:09:09 GMT"
-    },
-    {
-      "title": "Støre møter Zelenskyj i dag",
-      "link": "https://www.nrk.no/nyheter/store-moter-zelenskyj-i-dag-1.17869513",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 03 May 2026 12:34:28 GMT"
     }
   ]
 }
