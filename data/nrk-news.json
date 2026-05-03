@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-03T14:28:37.120Z",
+  "updatedAt": "2026-05-03T15:23:03.588Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ulykke på Solsiden - person har falt to etasjer",
+      "link": "https://www.nrk.no/trondelag/ulykke-pa-solsiden---person-har-falt-to-etasjer-1.17869599",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 03 May 2026 15:12:46 GMT"
+    },
+    {
+      "title": "Skyting i London",
+      "link": "https://www.nrk.no/nyheter/skyting-i-london-1.17869579",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 03 May 2026 14:43:36 GMT"
+    },
+    {
+      "title": "Fikk gjenstand inn frontruta - kvinne er kjørt til sykehus",
+      "link": "https://www.nrk.no/vestfoldogtelemark/fikk-gjenstand-inn-frontruta---kvinne-er-kjort-til-sykehus-1.17869585",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 03 May 2026 14:29:11 GMT"
+    },
     {
       "title": "Sveriges kystvakt har stanset tankskip – mistenkes å tilhøre skyggeflåten",
       "link": "https://www.nrk.no/nyheter/sveriges-kystvakt-har-stanset-tankskip-_-mistenkes-a-tilhore-skyggeflaten-1.17869559",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store-moter-zelenskyj-i-dag-1.17869513",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 03 May 2026 12:34:28 GMT"
-    },
-    {
-      "title": "Møre og Romsdal: Mann funnet død i veibanen",
-      "link": "https://www.nrk.no/nyheter/more-og-romsdal_-mann-funnet-dod-i-veibanen-1.17869492",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 03 May 2026 12:19:08 GMT"
-    },
-    {
-      "title": "Kilometerlange køer på E18 etter ulykke",
-      "link": "https://www.nrk.no/vestfoldogtelemark/kilometerlange-koer-pa-e18-etter-ulykke-1.17869488",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 03 May 2026 12:17:57 GMT"
-    },
-    {
-      "title": "Tre biler involvert i trafikkulykke på E10",
-      "link": "https://www.nrk.no/nordland/tre-biler-involvert-i-trafikkulykke-pa-e10-1.17869428",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sun, 03 May 2026 10:49:07 GMT"
     }
   ]
 }
