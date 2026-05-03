@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-03T17:24:30.960Z",
+  "updatedAt": "2026-05-03T18:11:11.987Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tre døde av virus på cruise i Atlanterhavet",
+      "link": "https://www.nrk.no/nyheter/tre-dode-av-virus-pa-cruise-i-atlanterhavet--1.17869672",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 03 May 2026 17:56:06 GMT"
+    },
     {
       "title": "Person omkom etter MC-ulykke i Alver",
       "link": "https://www.nrk.no/vestland/person-omkom-etter-mc-ulykke-i-alver-1.17869661",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skyting-i-london-1.17869579",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 03 May 2026 14:43:36 GMT"
-    },
-    {
-      "title": "Fikk gjenstand inn frontruta - kvinne er kjørt til sykehus",
-      "link": "https://www.nrk.no/vestfoldogtelemark/fikk-gjenstand-inn-frontruta---kvinne-er-kjort-til-sykehus-1.17869585",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 03 May 2026 14:29:11 GMT"
     }
   ]
 }
