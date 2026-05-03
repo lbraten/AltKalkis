@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-03T04:27:33.653Z",
+  "updatedAt": "2026-05-03T07:05:49.157Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann død etter skyting i Sverige - kobles til drapet på Økern",
+      "link": "https://www.nrk.no/nyheter/mann-dod-etter-skyting-i-sverige---kobles-til-drapet-pa-okern-1.17869270",
+      "category": "Drapet på Økern",
+      "pubDate": "Sun, 03 May 2026 06:47:21 GMT"
+    },
+    {
+      "title": "Ukrainske angrep mot russisk havneby og russiske skip",
+      "link": "https://www.nrk.no/nyheter/ukrainske-angrep-mot-russisk-havneby-og-russiske-skip-1.17869292",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 03 May 2026 06:34:11 GMT"
+    },
+    {
+      "title": "Hotellstreiken utvidet",
+      "link": "https://www.nrk.no/nyheter/hotellstreiken-utvidet-1.17869277",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 03 May 2026 06:01:29 GMT"
+    },
+    {
+      "title": "Mistenkt for å ha forgiftet barnemat",
+      "link": "https://www.nrk.no/nyheter/mistenkt-for-a-ha-forgiftet-barnemat-1.17869272",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 03 May 2026 05:11:48 GMT"
+    },
     {
       "title": "Shakira-fans fylte Copacabana",
       "link": "https://www.nrk.no/nyheter/shakira-fans-fylte-copacabana-1.17869263",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-eksplosjon-i-malmo-1.17869265",
       "category": "Voldsbølge i Sverige",
       "pubDate": "Sun, 03 May 2026 02:20:48 GMT"
-    },
-    {
-      "title": "Rolig landstreff for russen",
-      "link": "https://www.nrk.no/nyheter/rolig-landstreff-for-russen-1.17869264",
-      "category": "Russefeiring",
-      "pubDate": "Sun, 03 May 2026 02:14:35 GMT"
-    },
-    {
-      "title": "Stones bekrefter nytt album",
-      "link": "https://www.nrk.no/nyheter/stones-bekrefter-nytt-album-1.17869262",
-      "category": "Musikk",
-      "pubDate": "Sun, 03 May 2026 01:21:27 GMT"
-    },
-    {
-      "title": "Enebolig tapt i brann i Troms",
-      "link": "https://www.nrk.no/nyheter/enebolig-tapt-i-brann-i-troms-1.17869260",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 03 May 2026 01:09:57 GMT"
-    },
-    {
-      "title": "Trump sier USA neppe vil godta Irans fredsforslag",
-      "link": "https://www.nrk.no/nyheter/trump-sier-usa-neppe-vil-godta-irans-fredsforslag-1.17869259",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 03 May 2026 00:41:51 GMT"
     }
   ]
 }
