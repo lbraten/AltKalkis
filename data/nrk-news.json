@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-05-03T09:03:31.111Z",
+  "updatedAt": "2026-05-03T10:31:02.268Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Listhaug gjenvalgt som Frp-leder",
+      "link": "https://www.nrk.no/nyheter/listhaug-gjenvalgt-som-frp-leder-1.17869449",
+      "category": "Fremskrittspartiet",
+      "pubDate": "Sun, 03 May 2026 09:37:25 GMT"
+    },
+    {
+      "title": "Tidligere biskop Finn Wagle er død",
+      "link": "https://www.nrk.no/nyheter/tidligere-biskop-finn-wagle-er-dod-1.17869426",
+      "category": "Den norske kirke",
+      "pubDate": "Sun, 03 May 2026 09:20:38 GMT"
+    },
+    {
       "title": "Anmelder Frp-rådgiver for rasisme",
       "link": "https://www.nrk.no/nyheter/anmelder-frp-radgiver-for-rasisme-1.17869404",
-      "category": "NRK Nyheter",
+      "category": "Fremskrittspartiet",
       "pubDate": "Sun, 03 May 2026 08:58:34 GMT"
     },
     {
@@ -23,20 +35,8 @@
     {
       "title": "To døde da migrantbåt kantret",
       "link": "https://www.nrk.no/nyheter/to-dode-da-migrantbat-kantret-1.17869387",
-      "category": "NRK Nyheter",
+      "category": "Den engelske kanal",
       "pubDate": "Sun, 03 May 2026 08:08:35 GMT"
-    },
-    {
-      "title": "Person døde etter båtulykke i Møre og Romsdal",
-      "link": "https://www.nrk.no/nyheter/person-dode-etter-batulykke-i-more-og-romsdal-1.17869385",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 03 May 2026 08:04:56 GMT"
-    },
-    {
-      "title": "Støre tar avstand fra uttalelser til Frp-rådgiver",
-      "link": "https://www.nrk.no/nyheter/store-tar-avstand-fra-uttalelser-til-frp-radgiver--1.17869356",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Sun, 03 May 2026 07:10:05 GMT"
     }
   ]
 }
