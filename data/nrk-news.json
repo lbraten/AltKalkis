@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-03T13:15:53.666Z",
+  "updatedAt": "2026-05-03T14:28:37.120Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sveriges kystvakt har stanset tankskip – mistenkes å tilhøre skyggeflåten",
+      "link": "https://www.nrk.no/nyheter/sveriges-kystvakt-har-stanset-tankskip-_-mistenkes-a-tilhore-skyggeflaten-1.17869559",
+      "category": "Russland",
+      "pubDate": "Sun, 03 May 2026 13:46:51 GMT"
+    },
     {
       "title": "Økern-siktede er 15 og 16 år gamle",
       "link": "https://www.nrk.no/nyheter/okern-siktede-er-15-og-16-ar-gamle-1.17869527",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nordland/tre-biler-involvert-i-trafikkulykke-pa-e10-1.17869428",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sun, 03 May 2026 10:49:07 GMT"
-    },
-    {
-      "title": "Varsler snø i fjelltraktene",
-      "link": "https://www.nrk.no/innlandet/varsler-sno-i-fjelltraktene-1.17869458",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 03 May 2026 10:18:50 GMT"
     }
   ]
 }
