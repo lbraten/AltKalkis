@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-04T21:10:25.254Z",
+  "updatedAt": "2026-05-04T22:32:25.963Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fem pågrepet etter ran ved Oslo S",
+      "link": "https://www.nrk.no/nyheter/fem-pagrepet-etter-ran-ved-oslo-s-1.17871307",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 04 May 2026 21:45:08 GMT"
+    },
+    {
+      "title": "Gustav Magnar Witzøe på Met-gallaen i New York",
+      "link": "https://www.nrk.no/nyheter/gustav-magnar-witzoe-pa-met-gallaen-i-new-york-1.17871290",
+      "category": "Design og mote",
+      "pubDate": "Mon, 04 May 2026 21:38:22 GMT"
+    },
     {
       "title": "Ungdommer stanset på sparkesykkel som kunne gå opp mot 100 km/t",
       "link": "https://www.nrk.no/nyheter/ungdommer-stanset-pa-sparkesykkel-som-kunne-ga-opp-mot-100-km_t-1.17871271",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/mr/tre-personer-pagrepet-etter-voldshendelse-1.17871205",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Mon, 04 May 2026 19:55:06 GMT"
-    },
-    {
-      "title": "Personran på Oslo S – sier han ble truet med skytevåpen",
-      "link": "https://www.nrk.no/stor-oslo/personran-pa-oslo-s-_-sier-han-ble-truet-med-skytevapen-1.17871168",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 04 May 2026 19:33:22 GMT"
-    },
-    {
-      "title": "Zelenskyj kunngjør våpenhvile",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-kunngjor-vapenhvile-1.17871093",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 04 May 2026 19:05:47 GMT"
     }
   ]
 }
