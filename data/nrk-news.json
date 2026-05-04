@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-03T23:50:31.592Z",
+  "updatedAt": "2026-05-04T03:27:28.181Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Gamestop vil kjøpe Ebay",
+      "link": "https://www.nrk.no/nyheter/gamestop-vil-kjope-ebay-1.17869859",
+      "category": "USA",
+      "pubDate": "Mon, 04 May 2026 03:08:51 GMT"
+    },
+    {
+      "title": "Tre menn henrettet i Iran",
+      "link": "https://www.nrk.no/nyheter/tre-menn-henrettet-i-iran-1.17869856",
+      "category": "Iran",
+      "pubDate": "Mon, 04 May 2026 03:04:30 GMT"
+    },
+    {
+      "title": "To skip angrepet i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/to-skip-angrepet-i-hormuzstredet-1.17869855",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 04 May 2026 01:24:49 GMT"
+    },
+    {
+      "title": "Tre førerkort røk i Rogaland",
+      "link": "https://www.nrk.no/nyheter/tre-forerkort-rok-i-rogaland-1.17869854",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 04 May 2026 00:33:13 GMT"
+    },
     {
       "title": "USA sender styrker til Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/usa-sender-styrker-til-hormuzstredet-1.17869852",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rudy-giuliani-_81_-innlagt-pa-sykehus-1.17869851",
       "category": "USA",
       "pubDate": "Sun, 03 May 2026 23:15:26 GMT"
-    },
-    {
-      "title": "Iran advarer USA: – Brudd på våpenhvilen",
-      "link": "https://www.nrk.no/nyheter/iran-advarer-usa_-_-brudd-pa-vapenhvilen-1.17869850",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 03 May 2026 22:51:30 GMT"
-    },
-    {
-      "title": "Merz vil fortsatt samarbeide med Trump",
-      "link": "https://www.nrk.no/nyheter/merz-vil-fortsatt-samarbeide-med-trump-1.17869848",
-      "category": "USA",
-      "pubDate": "Sun, 03 May 2026 22:06:05 GMT"
-    },
-    {
-      "title": "Storbritannia varsler nye sanksjoner mot Russland",
-      "link": "https://www.nrk.no/nyheter/storbritannia-varsler-nye-sanksjoner-mot-russland-1.17869824",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 03 May 2026 21:46:49 GMT"
-    },
-    {
-      "title": "Trump: USA vil begynne å hjelpe skip ut av Hormuzsstredet i morgen",
-      "link": "https://www.nrk.no/nyheter/trump_-usa-vil-begynne-a-hjelpe-skip-ut-av-hormuzsstredet-i-morgen-1.17869823",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 03 May 2026 20:41:32 GMT"
     }
   ]
 }
