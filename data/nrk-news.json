@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-04T03:27:28.181Z",
+  "updatedAt": "2026-05-04T06:26:34.086Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Gamestop vil kjøpe Ebay",
-      "link": "https://www.nrk.no/nyheter/gamestop-vil-kjope-ebay-1.17869859",
+      "title": "Minst 18 personer døde i flom i Kenya",
+      "link": "https://www.nrk.no/nyheter/minst-18-personer-dode-i-flom-i-kenya-1.17869983",
+      "category": "Kenya",
+      "pubDate": "Mon, 04 May 2026 06:15:03 GMT"
+    },
+    {
+      "title": "Matprisene faller i Sverige",
+      "link": "https://www.nrk.no/nyheter/matprisene-faller-i-sverige-1.17869967",
+      "category": "Sverige",
+      "pubDate": "Mon, 04 May 2026 06:13:00 GMT"
+    },
+    {
+      "title": "Politiet varsler trening i Oslo sentrum",
+      "link": "https://www.nrk.no/stor-oslo/politiet-varsler-trening-i-oslo-sentrum-1.17869965",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 04 May 2026 06:06:21 GMT"
+    },
+    {
+      "title": "Frivilligheten får 200 milloioner for å styrke integrering",
+      "link": "https://www.nrk.no/nyheter/frivilligheten-far-200-milloioner-for-a-styrke-integrering-1.17869930",
+      "category": "Innvandring til Norge",
+      "pubDate": "Mon, 04 May 2026 06:04:45 GMT"
+    },
+    {
+      "title": "Seks personer døde i trafikken i april",
+      "link": "https://www.nrk.no/nyheter/seks-personer-dode-i-trafikken-i-april--1.17869925",
+      "category": "Trafikkulykker",
+      "pubDate": "Mon, 04 May 2026 05:15:26 GMT"
+    },
+    {
+      "title": "USA: Masseskyting i Oklahoma – minst ti skadd",
+      "link": "https://www.nrk.no/nyheter/usa_-masseskyting-i-oklahoma-_-minst-ti-skadd-1.17869900",
       "category": "USA",
-      "pubDate": "Mon, 04 May 2026 03:08:51 GMT"
-    },
-    {
-      "title": "Tre menn henrettet i Iran",
-      "link": "https://www.nrk.no/nyheter/tre-menn-henrettet-i-iran-1.17869856",
-      "category": "Iran",
-      "pubDate": "Mon, 04 May 2026 03:04:30 GMT"
-    },
-    {
-      "title": "To skip angrepet i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/to-skip-angrepet-i-hormuzstredet-1.17869855",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 04 May 2026 01:24:49 GMT"
-    },
-    {
-      "title": "Tre førerkort røk i Rogaland",
-      "link": "https://www.nrk.no/nyheter/tre-forerkort-rok-i-rogaland-1.17869854",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 04 May 2026 00:33:13 GMT"
-    },
-    {
-      "title": "USA sender styrker til Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/usa-sender-styrker-til-hormuzstredet-1.17869852",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 03 May 2026 23:45:48 GMT"
-    },
-    {
-      "title": "Rudy Giuliani (81) innlagt på sykehus",
-      "link": "https://www.nrk.no/nyheter/rudy-giuliani-_81_-innlagt-pa-sykehus-1.17869851",
-      "category": "USA",
-      "pubDate": "Sun, 03 May 2026 23:15:26 GMT"
+      "pubDate": "Mon, 04 May 2026 05:11:22 GMT"
     }
   ]
 }
