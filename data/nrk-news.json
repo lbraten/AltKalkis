@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-04T22:32:25.963Z",
+  "updatedAt": "2026-05-04T23:55:36.441Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Starmer fordømmer iranske angrep mot Emiratene",
+      "link": "https://www.nrk.no/nyheter/starmer-fordommer-iranske-angrep-mot-emiratene-1.17871319",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 04 May 2026 23:42:28 GMT"
+    },
+    {
+      "title": "Eksplosjon i gruve i Colombia",
+      "link": "https://www.nrk.no/nyheter/eksplosjon-i-gruve-i-colombia--1.17871316",
+      "category": "Colombia",
+      "pubDate": "Mon, 04 May 2026 23:39:18 GMT"
+    },
+    {
+      "title": "Skader på Europas største atomkraftverk etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/skader-pa-europas-storste-atomkraftverk-etter-droneangrep-1.17871308",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 04 May 2026 23:07:32 GMT"
+    },
     {
       "title": "Fem pågrepet etter ran ved Oslo S",
       "link": "https://www.nrk.no/nyheter/fem-pagrepet-etter-ran-ved-oslo-s-1.17871307",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ungdommer-stanset-pa-sparkesykkel-som-kunne-ga-opp-mot-100-km_t-1.17871271",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Mon, 04 May 2026 20:58:50 GMT"
-    },
-    {
-      "title": "Secret Service: En person er skutt av politiet i Washington",
-      "link": "https://www.nrk.no/nyheter/secret-service_-en-person-er-skutt-av-politiet-i-washington-1.17871270",
-      "category": "USA",
-      "pubDate": "Mon, 04 May 2026 20:28:36 GMT"
-    },
-    {
-      "title": "Krasjet i politibil under biljakt",
-      "link": "https://www.nrk.no/sorlandet/krasjet-i-politibil-under-biljakt--1.17871255",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 04 May 2026 20:14:40 GMT"
-    },
-    {
-      "title": "Tre personer pågrepet etter voldshendelse",
-      "link": "https://www.nrk.no/mr/tre-personer-pagrepet-etter-voldshendelse-1.17871205",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 04 May 2026 19:55:06 GMT"
     }
   ]
 }
