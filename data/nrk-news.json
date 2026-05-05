@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-05T16:25:36.154Z",
+  "updatedAt": "2026-05-05T17:58:54.690Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Guvernør: Minst 12 drept i Zaporizjzja",
-      "link": "https://www.nrk.no/nyheter/guvernor_-minst-12-drept-i-zaporizjzja-1.17872534",
+      "title": "Stemmen holdt for Jonas Lovv",
+      "link": "https://www.nrk.no/kultur/stemmen-holdt-for-jonas-lovv-1.17872696",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Tue, 05 May 2026 17:46:03 GMT"
+    },
+    {
+      "title": "Utenriksministrene i Russland og USA snakket på telefon",
+      "link": "https://www.nrk.no/nyheter/utenriksministrene-i-russland-og-usa-snakket-pa-telefon-1.17872668",
+      "category": "Russland og USA",
+      "pubDate": "Tue, 05 May 2026 17:13:52 GMT"
+    },
+    {
+      "title": "To personer døde etter trafikkulykke på Karmøy",
+      "link": "https://www.nrk.no/rogaland/to-personer-dode-etter-trafikkulykke-pa-karmoy-1.17872667",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Tue, 05 May 2026 17:07:02 GMT"
+    },
+    {
+      "title": "Minst ni døde i eksplosjon i kullgruve i Colombia",
+      "link": "https://www.nrk.no/nyheter/minst-ni-dode-i-eksplosjon-i-kullgruve-i-colombia-1.17872622",
+      "category": "Colombia",
+      "pubDate": "Tue, 05 May 2026 16:52:29 GMT"
+    },
+    {
+      "title": "Guvernør: Minst tolv drept i Zaporizjzja",
+      "link": "https://www.nrk.no/nyheter/guvernor_-minst-tolv-drept-i-zaporizjzja-1.17872534",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 05 May 2026 16:11:45 GMT"
     },
     {
-      "title": "Brann i Namdalseid",
-      "link": "https://www.nrk.no/trondelag/brann-i-namdalseid-1.17872490",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Tue, 05 May 2026 15:04:48 GMT"
-    },
-    {
-      "title": "Brann i Teheran – uklart om det er angrep",
-      "link": "https://www.nrk.no/nyheter/brann-i-teheran-_-uklart-om-det-er-angrep-1.17872426",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 05 May 2026 14:54:30 GMT"
-    },
-    {
-      "title": "Ulykke mellom MC og syklist i Færder",
-      "link": "https://www.nrk.no/vestfoldogtelemark/ulykke-mellom-mc-og-syklist-i-faerder-1.17872439",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 05 May 2026 14:53:18 GMT"
-    },
-    {
-      "title": "Emiratene: Håndterer rakett- og droneangrep fra Iran",
-      "link": "https://www.nrk.no/nyheter/emiratene_-handterer-rakett--og-droneangrep-fra-iran-1.17872336",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 05 May 2026 14:19:52 GMT"
-    },
-    {
-      "title": "Den norske kirke sier ja til kino i kirketiden",
-      "link": "https://www.nrk.no/nyheter/den-norske-kirke-sier-ja-til-kino-i-kirketiden-1.17872422",
-      "category": "Den norske kirke",
-      "pubDate": "Tue, 05 May 2026 13:57:02 GMT"
+      "title": "133.000 innbyggere i Oslo vest bes om å spare på vannet",
+      "link": "https://www.nrk.no/stor-oslo/133.000-innbyggere-i-oslo-vest-bes-om-a-spare-pa-vannet-1.17872481",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 05 May 2026 15:31:12 GMT"
     }
   ]
 }
