@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-05T14:31:29.705Z",
+  "updatedAt": "2026-05-05T16:25:36.154Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Guvernør: Minst 12 drept i Zaporizjzja",
+      "link": "https://www.nrk.no/nyheter/guvernor_-minst-12-drept-i-zaporizjzja-1.17872534",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 05 May 2026 16:11:45 GMT"
+    },
+    {
+      "title": "Brann i Namdalseid",
+      "link": "https://www.nrk.no/trondelag/brann-i-namdalseid-1.17872490",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Tue, 05 May 2026 15:04:48 GMT"
+    },
+    {
+      "title": "Brann i Teheran – uklart om det er angrep",
+      "link": "https://www.nrk.no/nyheter/brann-i-teheran-_-uklart-om-det-er-angrep-1.17872426",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 05 May 2026 14:54:30 GMT"
+    },
+    {
+      "title": "Ulykke mellom MC og syklist i Færder",
+      "link": "https://www.nrk.no/vestfoldogtelemark/ulykke-mellom-mc-og-syklist-i-faerder-1.17872439",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 05 May 2026 14:53:18 GMT"
+    },
     {
       "title": "Emiratene: Håndterer rakett- og droneangrep fra Iran",
       "link": "https://www.nrk.no/nyheter/emiratene_-handterer-rakett--og-droneangrep-fra-iran-1.17872336",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/den-norske-kirke-sier-ja-til-kino-i-kirketiden-1.17872422",
       "category": "Den norske kirke",
       "pubDate": "Tue, 05 May 2026 13:57:02 GMT"
-    },
-    {
-      "title": "Turgåer fant 1500 år gammel gullskatt",
-      "link": "https://www.nrk.no/nyheter/turgaer-fant-1500-ar-gammel-gullskatt-1.17872380",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 05 May 2026 13:54:40 GMT"
-    },
-    {
-      "title": "Nav-skandalen skal behandles i Den europeiske menneskerettighetsdomstolen",
-      "link": "https://www.nrk.no/nyheter/nav-skandalen-skal-behandles-i-den-europeiske-menneskerettighetsdomstolen-1.17872307",
-      "category": "Nav-skandalen",
-      "pubDate": "Tue, 05 May 2026 13:21:20 GMT"
-    },
-    {
-      "title": "Epstein-høring utsettes",
-      "link": "https://www.nrk.no/nyheter/epstein-horing-utsettes-1.17872227",
-      "category": "Jeffrey Epstein-saken",
-      "pubDate": "Tue, 05 May 2026 12:42:43 GMT"
-    },
-    {
-      "title": "USA hevder de har kontroll over Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/usa-hevder-de-har-kontroll-over-hormuzstredet-1.17872206",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 05 May 2026 12:11:56 GMT"
     }
   ]
 }
