@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-05T17:58:54.690Z",
+  "updatedAt": "2026-05-05T19:47:09.679Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "26 drept i flere russiske angrep",
+      "link": "https://www.nrk.no/nyheter/26-drept-i-flere-russiske-angrep-1.17872754",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 05 May 2026 18:54:23 GMT"
+    },
+    {
+      "title": "Masseslagsmål ved T-banestasjon i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/masseslagsmal-ved-t-banestasjon-i-oslo-1.17872768",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 05 May 2026 18:49:39 GMT"
+    },
+    {
+      "title": "WHO sporer opp flypassasjerer etter at kvinne døde av hantavirus",
+      "link": "https://www.nrk.no/nyheter/who-sporer-opp-flypassasjerer-etter-at-kvinne-dode-av-hantavirus-1.17872746",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 05 May 2026 18:36:16 GMT"
+    },
+    {
+      "title": "Sametinget la ut ansattes personalsaker på nett",
+      "link": "https://www.nrk.no/nyheter/sametinget-la-ut-ansattes-personalsaker-pa-nett-1.17872742",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 05 May 2026 18:25:05 GMT"
+    },
+    {
+      "title": "Tre syke cruise-turister evakueres til Nederland",
+      "link": "https://www.nrk.no/nyheter/tre-syke-cruise-turister-evakueres-til-nederland-1.17872658",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 05 May 2026 18:19:09 GMT"
+    },
     {
       "title": "Stemmen holdt for Jonas Lovv",
       "link": "https://www.nrk.no/kultur/stemmen-holdt-for-jonas-lovv-1.17872696",
       "category": "MGP og Eurovision Song Contest 2026",
       "pubDate": "Tue, 05 May 2026 17:46:03 GMT"
-    },
-    {
-      "title": "Utenriksministrene i Russland og USA snakket på telefon",
-      "link": "https://www.nrk.no/nyheter/utenriksministrene-i-russland-og-usa-snakket-pa-telefon-1.17872668",
-      "category": "Russland og USA",
-      "pubDate": "Tue, 05 May 2026 17:13:52 GMT"
-    },
-    {
-      "title": "To personer døde etter trafikkulykke på Karmøy",
-      "link": "https://www.nrk.no/rogaland/to-personer-dode-etter-trafikkulykke-pa-karmoy-1.17872667",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Tue, 05 May 2026 17:07:02 GMT"
-    },
-    {
-      "title": "Minst ni døde i eksplosjon i kullgruve i Colombia",
-      "link": "https://www.nrk.no/nyheter/minst-ni-dode-i-eksplosjon-i-kullgruve-i-colombia-1.17872622",
-      "category": "Colombia",
-      "pubDate": "Tue, 05 May 2026 16:52:29 GMT"
-    },
-    {
-      "title": "Guvernør: Minst tolv drept i Zaporizjzja",
-      "link": "https://www.nrk.no/nyheter/guvernor_-minst-tolv-drept-i-zaporizjzja-1.17872534",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 05 May 2026 16:11:45 GMT"
-    },
-    {
-      "title": "133.000 innbyggere i Oslo vest bes om å spare på vannet",
-      "link": "https://www.nrk.no/stor-oslo/133.000-innbyggere-i-oslo-vest-bes-om-a-spare-pa-vannet-1.17872481",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 05 May 2026 15:31:12 GMT"
     }
   ]
 }
