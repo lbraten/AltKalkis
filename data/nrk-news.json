@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-05T19:47:09.679Z",
+  "updatedAt": "2026-05-05T21:05:00.759Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Spania vil ta imot cruiseskipet «MV Hondius» på Kanariøyene",
+      "link": "https://www.nrk.no/nyheter/spania-vil-ta-imot-cruiseskipet-_mv-hondius_--pa-kanarioyene-1.17872835",
+      "category": "Spania",
+      "pubDate": "Tue, 05 May 2026 20:57:44 GMT"
+    },
+    {
+      "title": "Handelsskip truffet av ukjent prosjektil i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/handelsskip-truffet-av-ukjent-prosjektil-i-hormuzstredet-1.17872773",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 05 May 2026 19:47:03 GMT"
+    },
     {
       "title": "26 drept i flere russiske angrep",
       "link": "https://www.nrk.no/nyheter/26-drept-i-flere-russiske-angrep-1.17872754",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sametinget-la-ut-ansattes-personalsaker-pa-nett-1.17872742",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 05 May 2026 18:25:05 GMT"
-    },
-    {
-      "title": "Tre syke cruise-turister evakueres til Nederland",
-      "link": "https://www.nrk.no/nyheter/tre-syke-cruise-turister-evakueres-til-nederland-1.17872658",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 05 May 2026 18:19:09 GMT"
-    },
-    {
-      "title": "Stemmen holdt for Jonas Lovv",
-      "link": "https://www.nrk.no/kultur/stemmen-holdt-for-jonas-lovv-1.17872696",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Tue, 05 May 2026 17:46:03 GMT"
     }
   ]
 }
