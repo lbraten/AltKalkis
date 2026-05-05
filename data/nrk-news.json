@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-05T22:30:34.262Z",
+  "updatedAt": "2026-05-05T23:50:41.224Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iranske medier: Fem døde i brann på kjøpesenter",
+      "link": "https://www.nrk.no/nyheter/iranske-medier_-fem-dode-i-brann-pa-kjopesenter-1.17872859",
+      "category": "Iran",
+      "pubDate": "Tue, 05 May 2026 23:36:24 GMT"
+    },
+    {
+      "title": "Det hvite hus: Trump tar imot Lula på torsdag",
+      "link": "https://www.nrk.no/nyheter/det-hvite-hus_-trump-tar-imot-lula-pa-torsdag-1.17872865",
+      "category": "USA",
+      "pubDate": "Tue, 05 May 2026 23:23:15 GMT"
+    },
+    {
+      "title": "Trump setter «Project Freedom» på pause",
+      "link": "https://www.nrk.no/nyheter/trump-setter-_project-freedom_-pa-pause-1.17872864",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 05 May 2026 23:20:37 GMT"
+    },
+    {
+      "title": "Terrengbrann i Sør-Varanger slukket",
+      "link": "https://www.nrk.no/nyheter/terrengbrann-i-sor-varanger-slukket--1.17872863",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 05 May 2026 23:11:20 GMT"
+    },
+    {
+      "title": "En person påkjørt i Oslo",
+      "link": "https://www.nrk.no/nyheter/en-person-pakjort-i-oslo--1.17872862",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 05 May 2026 22:49:08 GMT"
+    },
     {
       "title": "Meklingen i varehandelen fortsetter på overtid",
       "link": "https://www.nrk.no/nyheter/meklingen-i-varehandelen-fortsetter-pa-overtid-1.17872855",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Tue, 05 May 2026 22:28:36 GMT"
-    },
-    {
-      "title": "Mellom 25 og 30 gravstøtter meid ned av bil på kirkegård",
-      "link": "https://www.nrk.no/nyheter/mellom-25-og-30-gravstotter-meid-ned-av-bil-pa-kirkegard-1.17872857",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 05 May 2026 22:24:30 GMT"
-    },
-    {
-      "title": "Russland sier fem er drept i ukrainsk droneangrep på Krym",
-      "link": "https://www.nrk.no/nyheter/russland-sier-fem-er-drept-i-ukrainsk-droneangrep-pa-krym-1.17872856",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 05 May 2026 22:06:47 GMT"
-    },
-    {
-      "title": "Rubio i samtale med Lavrov",
-      "link": "https://www.nrk.no/nyheter/rubio-i-samtale-med-lavrov--1.17872854",
-      "category": "Russland og USA",
-      "pubDate": "Tue, 05 May 2026 21:51:29 GMT"
-    },
-    {
-      "title": "13-åring skjøt to ansatte på skole i Brasil",
-      "link": "https://www.nrk.no/nyheter/13-aring-skjot-to-ansatte-pa-skole-i-brasil-1.17872853",
-      "category": "Brasil",
-      "pubDate": "Tue, 05 May 2026 21:42:31 GMT"
-    },
-    {
-      "title": "Brann i flermannsbolig i Drammen",
-      "link": "https://www.nrk.no/nyheter/brann-i-flermannsbolig-i-drammen-1.17872846",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Tue, 05 May 2026 21:37:00 GMT"
     }
   ]
 }
