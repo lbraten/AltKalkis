@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-04T23:55:36.441Z",
+  "updatedAt": "2026-05-05T03:19:52.595Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "21 personer er drept i eksplosjon i Kina",
+      "link": "https://www.nrk.no/nyheter/21-personer-er-drept-i-eksplosjon-i-kina-1.17871328",
+      "category": "Kina",
+      "pubDate": "Tue, 05 May 2026 03:13:30 GMT"
+    },
+    {
+      "title": "Semafor: USA vil kunngjøre Norge som 15. medlem i Kina-motvekten Pax Silica",
+      "link": "https://www.nrk.no/nyheter/semafor_-usa-vil-kunngjore-norge-som-15.-medlem-i-kina-motvekten-pax-silica-1.17871324",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 05 May 2026 02:37:17 GMT"
+    },
+    {
+      "title": "Frykter gass-eksplosjon etter brann i garasje på Leka",
+      "link": "https://www.nrk.no/nyheter/frykter-gass-eksplosjon-etter-brann-i-garasje-pa-leka--1.17871320",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Tue, 05 May 2026 01:58:02 GMT"
+    },
+    {
+      "title": "Maersk-eid skip har seilt gjennom Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/maersk-eid-skip-har-seilt-gjennom-hormuzstredet-1.17871322",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 05 May 2026 01:50:33 GMT"
+    },
+    {
+      "title": "Tre døde i flystyrt - to hardt skadd på sykehus",
+      "link": "https://www.nrk.no/nyheter/tre-dode-i-flystyrt---to-hardt-skadd-pa-sykehus--1.17871321",
+      "category": "Brasil",
+      "pubDate": "Tue, 05 May 2026 00:09:28 GMT"
+    },
     {
       "title": "Starmer fordømmer iranske angrep mot Emiratene",
       "link": "https://www.nrk.no/nyheter/starmer-fordommer-iranske-angrep-mot-emiratene-1.17871319",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 04 May 2026 23:42:28 GMT"
-    },
-    {
-      "title": "Eksplosjon i gruve i Colombia",
-      "link": "https://www.nrk.no/nyheter/eksplosjon-i-gruve-i-colombia--1.17871316",
-      "category": "Colombia",
-      "pubDate": "Mon, 04 May 2026 23:39:18 GMT"
-    },
-    {
-      "title": "Skader på Europas største atomkraftverk etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/skader-pa-europas-storste-atomkraftverk-etter-droneangrep-1.17871308",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 04 May 2026 23:07:32 GMT"
-    },
-    {
-      "title": "Fem pågrepet etter ran ved Oslo S",
-      "link": "https://www.nrk.no/nyheter/fem-pagrepet-etter-ran-ved-oslo-s-1.17871307",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 04 May 2026 21:45:08 GMT"
-    },
-    {
-      "title": "Gustav Magnar Witzøe på Met-gallaen i New York",
-      "link": "https://www.nrk.no/nyheter/gustav-magnar-witzoe-pa-met-gallaen-i-new-york-1.17871290",
-      "category": "Design og mote",
-      "pubDate": "Mon, 04 May 2026 21:38:22 GMT"
-    },
-    {
-      "title": "Ungdommer stanset på sparkesykkel som kunne gå opp mot 100 km/t",
-      "link": "https://www.nrk.no/nyheter/ungdommer-stanset-pa-sparkesykkel-som-kunne-ga-opp-mot-100-km_t-1.17871271",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Mon, 04 May 2026 20:58:50 GMT"
     }
   ]
 }
