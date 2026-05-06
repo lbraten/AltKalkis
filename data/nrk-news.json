@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-05-06T21:12:20.194Z",
+  "updatedAt": "2026-05-06T22:24:28.693Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Evakuering fra virusrammet cruiseskip vil trolig starte lørdag",
-      "link": "https://www.nrk.no/nyheter/evakuering-fra-virusrammet-cruiseskip-vil-trolig-starte-lordag-1.17874309",
+      "title": "Nord-Korea kritiserer USA og andre land – Vår status som atommakt er udiskutabel",
+      "link": "https://www.nrk.no/nyheter/nord-korea-kritiserer-usa-og-andre-land-_-var-status-som-atommakt-er-udiskutabel-1.17874328",
+      "category": "Nord-Korea",
+      "pubDate": "Wed, 06 May 2026 21:55:29 GMT"
+    },
+    {
+      "title": "Evakuering fra virusrammet cruiseskip vil trolig starte mandag",
+      "link": "https://www.nrk.no/nyheter/evakuering-fra-virusrammet-cruiseskip-vil-trolig-starte-mandag-1.17874309",
       "category": "Utbrudd av hantavirus",
       "pubDate": "Wed, 06 May 2026 20:53:04 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brudd-i-vekterforhandlingene-1.17874205",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Wed, 06 May 2026 18:11:09 GMT"
-    },
-    {
-      "title": "Trump: USA vil få anriket uran fra Iran",
-      "link": "https://www.nrk.no/nyheter/trump_-usa-vil-fa-anriket-uran-fra-iran-1.17874186",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 06 May 2026 17:38:23 GMT"
     }
   ]
 }
