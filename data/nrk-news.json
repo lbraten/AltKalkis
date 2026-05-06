@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-06T03:24:39.693Z",
+  "updatedAt": "2026-05-06T06:16:50.104Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Røykutvikling i firemannsbolig",
-      "link": "https://www.nrk.no/vestfoldogtelemark/roykutvikling-i-firemannsbolig-1.17872882",
+      "title": "Kraftig inflasjonsfall i Sverige – konsumprisindeksen på 0,8 prosent i april",
+      "link": "https://www.nrk.no/nyheter/kraftig-inflasjonsfall-i-sverige-_-konsumprisindeksen-pa-0_8-prosent-i-april-1.17872999",
+      "category": "Sverige",
+      "pubDate": "Wed, 06 May 2026 06:05:34 GMT"
+    },
+    {
+      "title": "Bekymret over drukningstall",
+      "link": "https://www.nrk.no/vestfoldogtelemark/bekymret-over-drukningstall-1.17872981",
       "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 06 May 2026 03:21:40 GMT"
+      "pubDate": "Wed, 06 May 2026 05:52:20 GMT"
     },
     {
-      "title": "Rykker ut til låvebrann",
-      "link": "https://www.nrk.no/vestfoldogtelemark/rykker-ut-til-lavebrann-1.17872880",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 06 May 2026 03:14:52 GMT"
+      "title": "Nord-Korea har fjernet henvisning til gjenforening fra grunnloven",
+      "link": "https://www.nrk.no/nyheter/nord-korea-har-fjernet-henvisning-til-gjenforening-fra-grunnloven-1.17872993",
+      "category": "Nord-Korea",
+      "pubDate": "Wed, 06 May 2026 05:39:05 GMT"
     },
     {
-      "title": "Irans utenriksminister er i Kina",
-      "link": "https://www.nrk.no/nyheter/irans-utenriksminister-er-i-kina-1.17872861",
-      "category": "Kina",
-      "pubDate": "Wed, 06 May 2026 02:20:17 GMT"
+      "title": "Tysk politi til aksjon mot høyreekstremister i åtte byer",
+      "link": "https://www.nrk.no/nyheter/tysk-politi-til-aksjon-mot-hoyreekstremister-i-atte-byer-1.17872982",
+      "category": "Tyskland",
+      "pubDate": "Wed, 06 May 2026 05:37:34 GMT"
     },
     {
-      "title": "Boligbrann i Sandnes – brenner i to bygninger",
-      "link": "https://www.nrk.no/nyheter/boligbrann-i-sandnes-_-brenner-i-to-bygninger--1.17872866",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 06 May 2026 01:13:23 GMT"
+      "title": "Antallet krefttilfeller passerer for første gang 40.000 i løpet av et år",
+      "link": "https://www.nrk.no/nyheter/antallet-krefttilfeller-passerer-for-forste-gang-40.000-i-lopet-av-et-ar-1.17872966",
+      "category": "Kreft",
+      "pubDate": "Wed, 06 May 2026 05:27:12 GMT"
     },
     {
-      "title": "Iranske medier: Fem døde i brann på kjøpesenter",
-      "link": "https://www.nrk.no/nyheter/iranske-medier_-fem-dode-i-brann-pa-kjopesenter-1.17872859",
-      "category": "Iran",
-      "pubDate": "Tue, 05 May 2026 23:36:24 GMT"
-    },
-    {
-      "title": "Det hvite hus: Trump tar imot Lula på torsdag",
-      "link": "https://www.nrk.no/nyheter/det-hvite-hus_-trump-tar-imot-lula-pa-torsdag-1.17872865",
-      "category": "USA",
-      "pubDate": "Tue, 05 May 2026 23:23:15 GMT"
+      "title": "Kongsberg Gruppens inntekter økte med 26 prosent til 9,2 milliarder kroner i første kvartal 2026",
+      "link": "https://www.nrk.no/nyheter/kongsberg-gruppens-inntekter-okte-med-26-prosent-til-9_2-milliarder-kroner-i-forste-kvartal-2026-1.17872951",
+      "category": "Norsk våpenindustri",
+      "pubDate": "Wed, 06 May 2026 05:15:11 GMT"
     }
   ]
 }
