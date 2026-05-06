@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-06T19:48:32.018Z",
+  "updatedAt": "2026-05-06T21:12:20.194Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Evakuering fra virusrammet cruiseskip vil trolig starte lørdag",
+      "link": "https://www.nrk.no/nyheter/evakuering-fra-virusrammet-cruiseskip-vil-trolig-starte-lordag-1.17874309",
+      "category": "Utbrudd av hantavirus",
+      "pubDate": "Wed, 06 May 2026 20:53:04 GMT"
+    },
+    {
+      "title": "Nye Wall Street-rekorder etter håp om fredssamtaler",
+      "link": "https://www.nrk.no/nyheter/nye-wall-street-rekorder-etter-hap-om-fredssamtaler-1.17874286",
+      "category": "Bank og finans",
+      "pubDate": "Wed, 06 May 2026 20:11:18 GMT"
+    },
+    {
+      "title": "Argentina skal teste gnagere etter hanta-utbrudd",
+      "link": "https://www.nrk.no/nyheter/argentina-skal-teste-gnagere-etter-hanta-utbrudd-1.17874232",
+      "category": "Utbrudd av hantavirus",
+      "pubDate": "Wed, 06 May 2026 20:06:39 GMT"
+    },
     {
       "title": "Ung mann omkom i trafikkulykke i Nordre Follo",
       "link": "https://www.nrk.no/stor-oslo/ung-mann-omkom-i-trafikkulykke-i-nordre-follo-1.17874241",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-usa-vil-fa-anriket-uran-fra-iran-1.17874186",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 06 May 2026 17:38:23 GMT"
-    },
-    {
-      "title": "Israel sier de har angrepet Beirut for første gang på uker",
-      "link": "https://www.nrk.no/nyheter/israel-sier-de-har-angrepet-beirut-for-forste-gang-pa-uker-1.17874179",
-      "category": "Libanon og Israel",
-      "pubDate": "Wed, 06 May 2026 17:24:05 GMT"
-    },
-    {
-      "title": "Aftenpostens Russland-korrespondent fikk Den store journalistprisen 2026",
-      "link": "https://www.nrk.no/nyheter/aftenpostens-russland-korrespondent-fikk-den-store-journalistprisen-2026-1.17874176",
-      "category": "Journalister",
-      "pubDate": "Wed, 06 May 2026 17:20:18 GMT"
-    },
-    {
-      "title": "USAs sentralkommando: Brukte jagerfly til å stoppe iransk skip",
-      "link": "https://www.nrk.no/nyheter/usas-sentralkommando_-brukte-jagerfly-til-a-stoppe-iransk-skip-1.17874137",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 06 May 2026 17:17:53 GMT"
     }
   ]
 }
