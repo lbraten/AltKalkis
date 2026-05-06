@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-06T17:42:44.752Z",
+  "updatedAt": "2026-05-06T19:48:32.018Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ung mann omkom i trafikkulykke i Nordre Follo",
+      "link": "https://www.nrk.no/stor-oslo/ung-mann-omkom-i-trafikkulykke-i-nordre-follo-1.17874241",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 06 May 2026 18:56:19 GMT"
+    },
+    {
+      "title": "Brudd i vekterforhandlingene",
+      "link": "https://www.nrk.no/nyheter/brudd-i-vekterforhandlingene-1.17874205",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Wed, 06 May 2026 18:11:09 GMT"
+    },
     {
       "title": "Trump: USA vil få anriket uran fra Iran",
       "link": "https://www.nrk.no/nyheter/trump_-usa-vil-fa-anriket-uran-fra-iran-1.17874186",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usas-sentralkommando_-brukte-jagerfly-til-a-stoppe-iransk-skip-1.17874137",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 06 May 2026 17:17:53 GMT"
-    },
-    {
-      "title": "Macron: Har nettopp snakket med Irans president",
-      "link": "https://www.nrk.no/nyheter/macron_-har-nettopp-snakket-med-irans-president-1.17874001",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 06 May 2026 16:56:11 GMT"
-    },
-    {
-      "title": "Hantavirus-smittet passasjer tatt av fly",
-      "link": "https://www.nrk.no/nyheter/hantavirus-smittet-passasjer-tatt-av-fly-1.17874002",
-      "category": "Utbrudd av hantavirus",
-      "pubDate": "Wed, 06 May 2026 15:51:02 GMT"
     }
   ]
 }
