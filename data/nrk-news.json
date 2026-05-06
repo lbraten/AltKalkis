@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-05T23:50:41.224Z",
+  "updatedAt": "2026-05-06T03:24:39.693Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Røykutvikling i firemannsbolig",
+      "link": "https://www.nrk.no/vestfoldogtelemark/roykutvikling-i-firemannsbolig-1.17872882",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 06 May 2026 03:21:40 GMT"
+    },
+    {
+      "title": "Rykker ut til låvebrann",
+      "link": "https://www.nrk.no/vestfoldogtelemark/rykker-ut-til-lavebrann-1.17872880",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 06 May 2026 03:14:52 GMT"
+    },
+    {
+      "title": "Irans utenriksminister er i Kina",
+      "link": "https://www.nrk.no/nyheter/irans-utenriksminister-er-i-kina-1.17872861",
+      "category": "Kina",
+      "pubDate": "Wed, 06 May 2026 02:20:17 GMT"
+    },
+    {
+      "title": "Boligbrann i Sandnes – brenner i to bygninger",
+      "link": "https://www.nrk.no/nyheter/boligbrann-i-sandnes-_-brenner-i-to-bygninger--1.17872866",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 06 May 2026 01:13:23 GMT"
+    },
     {
       "title": "Iranske medier: Fem døde i brann på kjøpesenter",
       "link": "https://www.nrk.no/nyheter/iranske-medier_-fem-dode-i-brann-pa-kjopesenter-1.17872859",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/det-hvite-hus_-trump-tar-imot-lula-pa-torsdag-1.17872865",
       "category": "USA",
       "pubDate": "Tue, 05 May 2026 23:23:15 GMT"
-    },
-    {
-      "title": "Trump setter «Project Freedom» på pause",
-      "link": "https://www.nrk.no/nyheter/trump-setter-_project-freedom_-pa-pause-1.17872864",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 05 May 2026 23:20:37 GMT"
-    },
-    {
-      "title": "Terrengbrann i Sør-Varanger slukket",
-      "link": "https://www.nrk.no/nyheter/terrengbrann-i-sor-varanger-slukket--1.17872863",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 05 May 2026 23:11:20 GMT"
-    },
-    {
-      "title": "En person påkjørt i Oslo",
-      "link": "https://www.nrk.no/nyheter/en-person-pakjort-i-oslo--1.17872862",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 05 May 2026 22:49:08 GMT"
-    },
-    {
-      "title": "Meklingen i varehandelen fortsetter på overtid",
-      "link": "https://www.nrk.no/nyheter/meklingen-i-varehandelen-fortsetter-pa-overtid-1.17872855",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 05 May 2026 22:28:36 GMT"
     }
   ]
 }
