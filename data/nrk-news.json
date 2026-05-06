@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-06T22:24:28.693Z",
+  "updatedAt": "2026-05-06T23:26:36.767Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Personbiler frontkolliderte",
+      "link": "https://www.nrk.no/nyheter/personbiler-frontkolliderte--1.17874333",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 06 May 2026 23:23:23 GMT"
+    },
+    {
+      "title": "Zelenskyj: – Tiden er inne for å avslutte krigen",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-_-tiden-er-inne-for-a-avslutte-krigen-1.17874322",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 06 May 2026 22:40:29 GMT"
+    },
     {
       "title": "Nord-Korea kritiserer USA og andre land – Vår status som atommakt er udiskutabel",
       "link": "https://www.nrk.no/nyheter/nord-korea-kritiserer-usa-og-andre-land-_-var-status-som-atommakt-er-udiskutabel-1.17874328",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/argentina-skal-teste-gnagere-etter-hanta-utbrudd-1.17874232",
       "category": "Utbrudd av hantavirus",
       "pubDate": "Wed, 06 May 2026 20:06:39 GMT"
-    },
-    {
-      "title": "Ung mann omkom i trafikkulykke i Nordre Follo",
-      "link": "https://www.nrk.no/stor-oslo/ung-mann-omkom-i-trafikkulykke-i-nordre-follo-1.17874241",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 06 May 2026 18:56:19 GMT"
-    },
-    {
-      "title": "Brudd i vekterforhandlingene",
-      "link": "https://www.nrk.no/nyheter/brudd-i-vekterforhandlingene-1.17874205",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Wed, 06 May 2026 18:11:09 GMT"
     }
   ]
 }
