@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-07T04:57:06.826Z",
+  "updatedAt": "2026-05-07T07:45:58.989Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sverige holder styringsrenten uendret",
+      "link": "https://www.nrk.no/nyheter/sverige-holder-styringsrenten-uendret-1.17874405",
+      "category": "Økonomi",
+      "pubDate": "Thu, 07 May 2026 07:30:41 GMT"
+    },
+    {
+      "title": "Valutastrateg tror det kan bli renteheving",
+      "link": "https://www.nrk.no/nyheter/valutastrateg-tror-det-kan-bli-renteheving-1.17874428",
+      "category": "Økonomi",
+      "pubDate": "Thu, 07 May 2026 06:42:25 GMT"
+    },
+    {
+      "title": "Tidligere Nav-direktør Hans Christian Holte blir sjef for KI Norge",
+      "link": "https://www.nrk.no/nyheter/tidligere-nav-direktor-hans-christian-holte-blir-sjef-for-ki-norge-1.17874417",
+      "category": "Kunstig intelligens",
+      "pubDate": "Thu, 07 May 2026 05:04:10 GMT"
+    },
     {
       "title": "Aker BP tjente 2,65 milliarder dollar i første kvartal",
       "link": "https://www.nrk.no/nyheter/aker-bp-tjente-2_65-milliarder-dollar-i-forste-kvartal-1.17874406",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/masseslagsmal-i-larvik_-to-skadet-og-to-siktet--1.17874346",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Thu, 07 May 2026 03:20:52 GMT"
-    },
-    {
-      "title": "Naken mann i restaurant i Stavanger",
-      "link": "https://www.nrk.no/rogaland/naken-mann-i-restaurant-i-stavanger-1.17874353",
-      "category": "Politi- og brannlogg (Rogaland)",
-      "pubDate": "Thu, 07 May 2026 03:20:03 GMT"
-    },
-    {
-      "title": "Flere skal være såret i ukrainsk angrep i Russland, ifølge lokale myndigheter",
-      "link": "https://www.nrk.no/nyheter/flere-skal-vaere-saret-i-ukrainsk-angrep-i-russland_-ifolge-lokale-myndigheter-1.17874342",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 07 May 2026 03:15:44 GMT"
-    },
-    {
-      "title": "Bilbrann i Konnerudgata i Drammen",
-      "link": "https://www.nrk.no/buskerud/bilbrann-i-konnerudgata-i-drammen--1.17874351",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 07 May 2026 03:08:20 GMT"
     }
   ]
 }
