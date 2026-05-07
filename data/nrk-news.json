@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-07T17:16:30.298Z",
+  "updatedAt": "2026-05-07T19:14:15.061Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eksplosjoner hørt flere steder i Iran",
+      "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-flere-steder-i-iran-1.17875770",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 07 May 2026 18:57:16 GMT"
+    },
     {
       "title": "Over 75 kvinner får erstatning for overgrep begått av tidligere Harrods-eier",
       "link": "https://www.nrk.no/nyheter/over-75-kvinner-far-erstatning-for-overgrep-begatt-av-tidligere-harrods-eier-1.17875612",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/demonstrasjonar-mot-russland-i-venezia-1.17875585",
       "category": "Pussy Riot",
       "pubDate": "Thu, 07 May 2026 14:19:55 GMT"
-    },
-    {
-      "title": "Simen Velle har vært i avhør hos PST om trusler etter rasisme-sak",
-      "link": "https://www.nrk.no/nyheter/simen-velle-har-vaert-i-avhor-hos-pst-om-trusler-etter-rasisme-sak-1.17875566",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 07 May 2026 14:04:11 GMT"
     }
   ]
 }
