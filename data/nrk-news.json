@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-07T20:47:33.047Z",
+  "updatedAt": "2026-05-07T22:00:49.935Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA sier de angrep Iran i selvforsvar",
+      "link": "https://www.nrk.no/nyheter/usa-sier-de-angrep-iran-i-selvforsvar-1.17875963",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 07 May 2026 21:44:20 GMT"
+    },
+    {
+      "title": "Iran: USA har brutt våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/iran_-usa-har-brutt-vapenhvilen-1.17875939",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 07 May 2026 21:11:04 GMT"
+    },
+    {
+      "title": "Kilde til Fox News: Amerikanske militærangrep i Iran",
+      "link": "https://www.nrk.no/nyheter/kilde-til-fox-news_-amerikanske-militaerangrep-i-iran--1.17875940",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 07 May 2026 20:50:00 GMT"
+    },
     {
       "title": "Myndighetene i Libanon: Minst 12 personer drept i angrep",
       "link": "https://www.nrk.no/nyheter/myndighetene-i-libanon_-minst-12-personer-drept-i-angrep-1.17875935",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-flere-steder-i-iran-1.17875770",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 07 May 2026 18:57:16 GMT"
-    },
-    {
-      "title": "Over 75 kvinner får erstatning for overgrep begått av tidligere Harrods-eier",
-      "link": "https://www.nrk.no/nyheter/over-75-kvinner-far-erstatning-for-overgrep-begatt-av-tidligere-harrods-eier-1.17875612",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 07 May 2026 16:59:02 GMT"
-    },
-    {
-      "title": "Rekordstort kokainbeslag i Spania",
-      "link": "https://www.nrk.no/nyheter/rekordstort-kokainbeslag-i-spania-1.17875629",
-      "category": "Narkotikasmugling",
-      "pubDate": "Thu, 07 May 2026 15:02:30 GMT"
-    },
-    {
-      "title": "Mann pågrepet med våpen nær hjemmet til britisk eksprins",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-med-vapen-naer-hjemmet-til-britisk-eksprins-1.17875578",
-      "category": "Andrew Mountbatten-Windsor",
-      "pubDate": "Thu, 07 May 2026 14:51:03 GMT"
     }
   ]
 }
