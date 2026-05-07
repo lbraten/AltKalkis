@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-07T19:14:15.061Z",
+  "updatedAt": "2026-05-07T20:47:33.047Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Myndighetene i Libanon: Minst 12 personer drept i angrep",
+      "link": "https://www.nrk.no/nyheter/myndighetene-i-libanon_-minst-12-personer-drept-i-angrep-1.17875935",
+      "category": "Krig og konflikt i Midtøsten",
+      "pubDate": "Thu, 07 May 2026 20:38:35 GMT"
+    },
+    {
+      "title": "Trump truer EU med toll om handelsavtale ikke går i havn",
+      "link": "https://www.nrk.no/nyheter/trump-truer-eu-med-toll-om-handelsavtale-ikke-gar-i-havn-1.17875867",
+      "category": "Handelsavtaler og toll",
+      "pubDate": "Thu, 07 May 2026 19:39:15 GMT"
+    },
     {
       "title": "Eksplosjoner hørt flere steder i Iran",
       "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-flere-steder-i-iran-1.17875770",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-med-vapen-naer-hjemmet-til-britisk-eksprins-1.17875578",
       "category": "Andrew Mountbatten-Windsor",
       "pubDate": "Thu, 07 May 2026 14:51:03 GMT"
-    },
-    {
-      "title": "Hårek Hansen mister jobben og medlemskapet i Frp",
-      "link": "https://www.nrk.no/nyheter/harek-hansen-mister-jobben-og-medlemskapet-i-frp--1.17875582",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Thu, 07 May 2026 14:34:00 GMT"
-    },
-    {
-      "title": "Demonstrasjonar mot Russland i Venezia",
-      "link": "https://www.nrk.no/nyheter/demonstrasjonar-mot-russland-i-venezia-1.17875585",
-      "category": "Pussy Riot",
-      "pubDate": "Thu, 07 May 2026 14:19:55 GMT"
     }
   ]
 }
