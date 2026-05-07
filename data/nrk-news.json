@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-05-06T23:26:36.767Z",
+  "updatedAt": "2026-05-07T01:16:47.800Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Brann i bolighus i Gjesdal",
+      "link": "https://www.nrk.no/nyheter/brann-i-bolighus-i-gjesdal-1.17874334",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 06 May 2026 23:42:37 GMT"
+    },
+    {
       "title": "Personbiler frontkolliderte",
       "link": "https://www.nrk.no/nyheter/personbiler-frontkolliderte--1.17874333",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Wed, 06 May 2026 23:23:23 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nye-wall-street-rekorder-etter-hap-om-fredssamtaler-1.17874286",
       "category": "Bank og finans",
       "pubDate": "Wed, 06 May 2026 20:11:18 GMT"
-    },
-    {
-      "title": "Argentina skal teste gnagere etter hanta-utbrudd",
-      "link": "https://www.nrk.no/nyheter/argentina-skal-teste-gnagere-etter-hanta-utbrudd-1.17874232",
-      "category": "Utbrudd av hantavirus",
-      "pubDate": "Wed, 06 May 2026 20:06:39 GMT"
     }
   ]
 }
