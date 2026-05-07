@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-05-07T22:00:49.935Z",
+  "updatedAt": "2026-05-07T23:27:32.327Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "USA sier de angrep Iran i selvforsvar",
-      "link": "https://www.nrk.no/nyheter/usa-sier-de-angrep-iran-i-selvforsvar-1.17875963",
+      "title": "Våpenhvilen med Iran gjelder fortsatt, sier Trump til ABC News",
+      "link": "https://www.nrk.no/nyheter/vapenhvilen-med-iran-gjelder-fortsatt_-sier-trump-til-abc-news-1.17875971",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 07 May 2026 22:28:35 GMT"
+    },
+    {
+      "title": "USA bekrefter angrep mot Iran, men hevder Iran angrep først",
+      "link": "https://www.nrk.no/nyheter/usa-bekrefter-angrep-mot-iran_-men-hevder-iran-angrep-forst-1.17875963",
       "category": "Krigen i Midtøsten",
       "pubDate": "Thu, 07 May 2026 21:44:20 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-truer-eu-med-toll-om-handelsavtale-ikke-gar-i-havn-1.17875867",
       "category": "Handelsavtaler og toll",
       "pubDate": "Thu, 07 May 2026 19:39:15 GMT"
-    },
-    {
-      "title": "Eksplosjoner hørt flere steder i Iran",
-      "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-flere-steder-i-iran-1.17875770",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 07 May 2026 18:57:16 GMT"
     }
   ]
 }
