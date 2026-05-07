@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-07T15:12:38.523Z",
+  "updatedAt": "2026-05-07T17:16:30.298Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 75 kvinner får erstatning for overgrep begått av tidligere Harrods-eier",
+      "link": "https://www.nrk.no/nyheter/over-75-kvinner-far-erstatning-for-overgrep-begatt-av-tidligere-harrods-eier-1.17875612",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 07 May 2026 16:59:02 GMT"
+    },
     {
       "title": "Rekordstort kokainbeslag i Spania",
       "link": "https://www.nrk.no/nyheter/rekordstort-kokainbeslag-i-spania-1.17875629",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/simen-velle-har-vaert-i-avhor-hos-pst-om-trusler-etter-rasisme-sak-1.17875566",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 07 May 2026 14:04:11 GMT"
-    },
-    {
-      "title": "Politiet åtvarar mot svindel før cupfinalen",
-      "link": "https://www.nrk.no/vestland/politiet-atvarar-mot-svindel-for-cupfinalen-1.17875572",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 07 May 2026 14:03:41 GMT"
     }
   ]
 }
