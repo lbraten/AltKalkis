@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-07T10:26:06.353Z",
+  "updatedAt": "2026-05-07T12:17:18.071Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "PST: Kinesisk borger pågrepet for medvirkning til forsøk på grov etterretningsvirksomhet",
+      "link": "https://www.nrk.no/nyheter/pst_-kinesisk-borger-pagrepet-for-medvirkning-til-forsok-pa-grov-etterretningsvirksomhet-1.17874472",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Thu, 07 May 2026 12:10:39 GMT"
+    },
+    {
+      "title": "Stein Erik Hagens familie takker for støtten",
+      "link": "https://www.nrk.no/nyheter/stein-erik-hagens-familie-takker-for-stotten-1.17874821",
+      "category": "Stein Erik Hagen (69) er død",
+      "pubDate": "Thu, 07 May 2026 11:37:42 GMT"
+    },
+    {
+      "title": "To siktet for alvorlig miljøkriminalitet – nekter straffskyld",
+      "link": "https://www.nrk.no/nordland/to-siktet-for-alvorlig-miljokriminalitet-_-nekter-straffskyld-1.17875167",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Thu, 07 May 2026 11:09:31 GMT"
+    },
     {
       "title": "Kritisk til renteøkningen: – Skuffende",
       "link": "https://www.nrk.no/nyheter/kritisk-til-renteokningen_-_-skuffende-1.17874978",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ingen-personer-med-symptomer-igjen-pa-hantavirus-rammet-cruiseskip_-ifolge-operatoren-1.17874699",
       "category": "Utbrudd av hantavirus",
       "pubDate": "Thu, 07 May 2026 09:50:41 GMT"
-    },
-    {
-      "title": "Arbeidsulykke i Oslo: Pågår livreddende førstehjelp",
-      "link": "https://www.nrk.no/stor-oslo/arbeidsulykke-i-oslo_-pagar-livreddende-forstehjelp-1.17874926",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 07 May 2026 09:33:29 GMT"
-    },
-    {
-      "title": "Norgeshistoriens største myntskatt teller over 4100 mynter",
-      "link": "https://www.nrk.no/innlandet/norgeshistoriens-storste-myntskatt-teller-over-4100-mynter-1.17874904",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Thu, 07 May 2026 09:05:26 GMT"
-    },
-    {
-      "title": "Fare for skogbrann på Sørlandet",
-      "link": "https://www.nrk.no/sorlandet/fare-for-skogbrann-pa-sorlandet-1.17874823",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 07 May 2026 08:46:33 GMT"
     }
   ]
 }
