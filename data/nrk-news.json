@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-07T23:27:32.327Z",
+  "updatedAt": "2026-05-08T01:18:57.159Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Moskvas ordfører: Over 50 droner skutt ned på vei mot byen",
+      "link": "https://www.nrk.no/nyheter/moskvas-ordforer_-over-50-droner-skutt-ned-pa-vei-mot-byen-1.17875950",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 08 May 2026 00:34:12 GMT"
+    },
     {
       "title": "Våpenhvilen med Iran gjelder fortsatt, sier Trump til ABC News",
       "link": "https://www.nrk.no/nyheter/vapenhvilen-med-iran-gjelder-fortsatt_-sier-trump-til-abc-news-1.17875971",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/myndighetene-i-libanon_-minst-12-personer-drept-i-angrep-1.17875935",
       "category": "Krig og konflikt i Midtøsten",
       "pubDate": "Thu, 07 May 2026 20:38:35 GMT"
-    },
-    {
-      "title": "Trump truer EU med toll om handelsavtale ikke går i havn",
-      "link": "https://www.nrk.no/nyheter/trump-truer-eu-med-toll-om-handelsavtale-ikke-gar-i-havn-1.17875867",
-      "category": "Handelsavtaler og toll",
-      "pubDate": "Thu, 07 May 2026 19:39:15 GMT"
     }
   ]
 }
