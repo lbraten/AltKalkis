@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-08T22:30:23.404Z",
+  "updatedAt": "2026-05-08T23:56:49.221Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA innfører Iran-sanksjoner mot kinesiske selskaper",
+      "link": "https://www.nrk.no/nyheter/usa-innforer-iran-sanksjoner-mot-kinesiske-selskaper-1.17877597",
+      "category": "USA og Kina",
+      "pubDate": "Fri, 08 May 2026 23:48:05 GMT"
+    },
+    {
+      "title": "Kraftig brann ved campingplass i Bodø",
+      "link": "https://www.nrk.no/nyheter/kraftig-brann-ved-campingplass-i-bodo--1.17877564",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 08 May 2026 23:26:52 GMT"
+    },
+    {
+      "title": "Brudd i meklingen for renholdere",
+      "link": "https://www.nrk.no/nyheter/brudd-i-meklingen-for-renholdere--1.17877563",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 08 May 2026 22:35:22 GMT"
+    },
     {
       "title": "Tolv personer har mistet livet på jobb så langt i år",
       "link": "https://www.nrk.no/nyheter/tolv-personer-har-mistet-livet-pa-jobb-sa-langt-i-ar-1.17877562",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kvinne-til-sykehus-etter-pakjorsel-av-bil-i-bergen-1.17877515",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Fri, 08 May 2026 20:59:47 GMT"
-    },
-    {
-      "title": "Venstre-leder utpekt som ny forhandlingsleder til å danne ny regjering i Danmark",
-      "link": "https://www.nrk.no/nyheter/venstre-leder-utpekt-som-ny-forhandlingsleder-til-a-danne-ny-regjering-i-danmark-1.17877513",
-      "category": "Danmark",
-      "pubDate": "Fri, 08 May 2026 20:29:33 GMT"
-    },
-    {
-      "title": "Hellstrøm fikk hedersprisen på Gullruten",
-      "link": "https://www.nrk.no/nyheter/hellstrom-fikk-hedersprisen-pa-gullruten-1.17877420",
-      "category": "Gullruten",
-      "pubDate": "Fri, 08 May 2026 19:20:15 GMT"
-    },
-    {
-      "title": "Zelenskyj bekrefter tre dagers våpenhvile mellom Russland og Ukraina",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-tre-dagers-vapenhvile-mellom-russland-og-ukraina-1.17877380",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 08 May 2026 18:24:43 GMT"
     }
   ]
 }
