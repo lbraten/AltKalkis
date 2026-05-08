@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-05-08T15:25:15.913Z",
+  "updatedAt": "2026-05-08T16:51:48.465Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "USA har angrepet flere iranske tankskip som forsøke å bryte den amerikanske blokaden",
-      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-flere-iranske-tankskip-som-forsoke-a-bryte-den-amerikanske-blokaden-1.17877157",
+      "title": "FHI følger utbruddet av andesvirus på cruiseskip",
+      "link": "https://www.nrk.no/nyheter/fhi-folger-utbruddet-av-andesvirus-pa-cruiseskip-1.17877179",
+      "category": "Hantavirus",
+      "pubDate": "Fri, 08 May 2026 16:21:29 GMT"
+    },
+    {
+      "title": "USA har angrepet flere iranske tankskip som forsøkte å bryte den amerikanske blokaden",
+      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-flere-iranske-tankskip-som-forsokte-a-bryte-den-amerikanske-blokaden-1.17877157",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 08 May 2026 14:23:56 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/danmark_-lokke-peker-pa-poulsen-som-ny-forhandlingsleder-1.17877023",
       "category": "Danmark",
       "pubDate": "Fri, 08 May 2026 13:25:24 GMT"
-    },
-    {
-      "title": "Grove ran i Oslo: Framstår som planlagt",
-      "link": "https://www.nrk.no/stor-oslo/grove-ran-i-oslo_-framstar-som-planlagt-1.17876663",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 08 May 2026 13:09:37 GMT"
     }
   ]
 }
