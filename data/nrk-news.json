@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-08T21:03:12.332Z",
+  "updatedAt": "2026-05-08T22:30:23.404Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tolv personer har mistet livet på jobb så langt i år",
+      "link": "https://www.nrk.no/nyheter/tolv-personer-har-mistet-livet-pa-jobb-sa-langt-i-ar-1.17877562",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 08 May 2026 22:25:41 GMT"
+    },
+    {
+      "title": "Mekling på overtid i renholdsoverenskomsten",
+      "link": "https://www.nrk.no/nyheter/mekling-pa-overtid-i-renholdsoverenskomsten-1.17877530",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 08 May 2026 22:20:32 GMT"
+    },
     {
       "title": "Kvinne til sykehus etter påkjørsel av bil i Bergen",
       "link": "https://www.nrk.no/nyheter/kvinne-til-sykehus-etter-pakjorsel-av-bil-i-bergen-1.17877515",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-tre-dagers-vapenhvile-mellom-russland-og-ukraina-1.17877380",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 08 May 2026 18:24:43 GMT"
-    },
-    {
-      "title": "Labour taper makt i Wales",
-      "link": "https://www.nrk.no/nyheter/labour-taper-makt-i-wales-1.17877321",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 08 May 2026 17:23:37 GMT"
-    },
-    {
-      "title": "FHI følger utbruddet av andesvirus på cruiseskip",
-      "link": "https://www.nrk.no/nyheter/fhi-folger-utbruddet-av-andesvirus-pa-cruiseskip-1.17877179",
-      "category": "Hantavirus",
-      "pubDate": "Fri, 08 May 2026 16:21:29 GMT"
     }
   ]
 }
