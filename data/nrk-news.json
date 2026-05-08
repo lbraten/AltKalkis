@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-08T16:51:48.465Z",
+  "updatedAt": "2026-05-08T18:11:54.738Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Labour taper makt i Wales",
+      "link": "https://www.nrk.no/nyheter/labour-taper-makt-i-wales-1.17877321",
+      "category": "Storbritannia",
+      "pubDate": "Fri, 08 May 2026 17:23:37 GMT"
+    },
     {
       "title": "FHI følger utbruddet av andesvirus på cruiseskip",
       "link": "https://www.nrk.no/nyheter/fhi-folger-utbruddet-av-andesvirus-pa-cruiseskip-1.17877179",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/smafly-haverert-pa-ski-flyplass-1.17877111",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 08 May 2026 13:46:18 GMT"
-    },
-    {
-      "title": "Danmark: Løkke peker på Poulsen som ny forhandlingsleder",
-      "link": "https://www.nrk.no/nyheter/danmark_-lokke-peker-pa-poulsen-som-ny-forhandlingsleder-1.17877023",
-      "category": "Danmark",
-      "pubDate": "Fri, 08 May 2026 13:25:24 GMT"
     }
   ]
 }
