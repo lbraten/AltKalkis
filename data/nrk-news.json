@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-08T13:54:19.006Z",
+  "updatedAt": "2026-05-08T15:25:15.913Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA har angrepet flere iranske tankskip som forsøke å bryte den amerikanske blokaden",
+      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-flere-iranske-tankskip-som-forsoke-a-bryte-den-amerikanske-blokaden-1.17877157",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 08 May 2026 14:23:56 GMT"
+    },
+    {
+      "title": "Kongen markerte frigjøringsdagen på Akershus festning",
+      "link": "https://www.nrk.no/nyheter/kongen-markerte-frigjoringsdagen-pa-akershus-festning-1.17877063",
+      "category": "Kongefamilien",
+      "pubDate": "Fri, 08 May 2026 14:06:45 GMT"
+    },
+    {
+      "title": "Person påkjørt av trikken på Jernbanetorget",
+      "link": "https://www.nrk.no/stor-oslo/person-pakjort-av-trikken-pa-jernbanetorget-1.17877132",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 08 May 2026 13:59:03 GMT"
+    },
     {
       "title": "Småfly haverert på Ski flyplass",
       "link": "https://www.nrk.no/stor-oslo/smafly-haverert-pa-ski-flyplass-1.17877111",
@@ -9,8 +27,8 @@
       "pubDate": "Fri, 08 May 2026 13:46:18 GMT"
     },
     {
-      "title": "44 dager uten ny regjering i Danmark",
-      "link": "https://www.nrk.no/nyheter/44-dager-uten-ny-regjering-i-danmark-1.17877023",
+      "title": "Danmark: Løkke peker på Poulsen som ny forhandlingsleder",
+      "link": "https://www.nrk.no/nyheter/danmark_-lokke-peker-pa-poulsen-som-ny-forhandlingsleder-1.17877023",
       "category": "Danmark",
       "pubDate": "Fri, 08 May 2026 13:25:24 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/grove-ran-i-oslo_-framstar-som-planlagt-1.17876663",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 08 May 2026 13:09:37 GMT"
-    },
-    {
-      "title": "Gisselsituasjon i tysk bank over",
-      "link": "https://www.nrk.no/nyheter/gisselsituasjon-i-tysk-bank-over-1.17876905",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 08 May 2026 13:02:19 GMT"
-    },
-    {
-      "title": "Funn av mulige eksplosiver i Gjøvik",
-      "link": "https://www.nrk.no/innlandet/funn-av-mulige-eksplosiver-i-gjovik-1.17876785",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Fri, 08 May 2026 12:11:04 GMT"
-    },
-    {
-      "title": "Spionsiktet kinesisk kvinne varetektsfengsles i fire uker",
-      "link": "https://www.nrk.no/nyheter/spionsiktet-kinesisk-kvinne-varetektsfengsles-i-fire-uker-1.17876877",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 08 May 2026 12:07:49 GMT"
     }
   ]
 }
