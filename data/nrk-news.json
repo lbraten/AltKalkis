@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-08T19:54:16.512Z",
+  "updatedAt": "2026-05-08T21:03:12.332Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kvinne til sykehus etter påkjørsel av bil i Bergen",
+      "link": "https://www.nrk.no/nyheter/kvinne-til-sykehus-etter-pakjorsel-av-bil-i-bergen-1.17877515",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 08 May 2026 20:59:47 GMT"
+    },
+    {
+      "title": "Venstre-leder utpekt som ny forhandlingsleder til å danne ny regjering i Danmark",
+      "link": "https://www.nrk.no/nyheter/venstre-leder-utpekt-som-ny-forhandlingsleder-til-a-danne-ny-regjering-i-danmark-1.17877513",
+      "category": "Danmark",
+      "pubDate": "Fri, 08 May 2026 20:29:33 GMT"
+    },
     {
       "title": "Hellstrøm fikk hedersprisen på Gullruten",
       "link": "https://www.nrk.no/nyheter/hellstrom-fikk-hedersprisen-pa-gullruten-1.17877420",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fhi-folger-utbruddet-av-andesvirus-pa-cruiseskip-1.17877179",
       "category": "Hantavirus",
       "pubDate": "Fri, 08 May 2026 16:21:29 GMT"
-    },
-    {
-      "title": "USA har angrepet flere iranske tankskip som forsøkte å bryte den amerikanske blokaden",
-      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-flere-iranske-tankskip-som-forsokte-a-bryte-den-amerikanske-blokaden-1.17877157",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 08 May 2026 14:23:56 GMT"
-    },
-    {
-      "title": "Kongen markerte frigjøringsdagen på Akershus festning",
-      "link": "https://www.nrk.no/nyheter/kongen-markerte-frigjoringsdagen-pa-akershus-festning-1.17877063",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 08 May 2026 14:06:45 GMT"
     }
   ]
 }
