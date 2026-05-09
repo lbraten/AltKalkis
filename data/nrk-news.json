@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-09T13:38:00.463Z",
+  "updatedAt": "2026-05-09T14:52:52.734Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "«Sønnavind»-forfatter Frid Ingulstad (90) er død",
+      "link": "https://www.nrk.no/nyheter/_sonnavind_-forfatter-frid-ingulstad-_90_-er-dod-1.17878058",
+      "category": "Litteratur",
+      "pubDate": "Sat, 09 May 2026 14:44:01 GMT"
+    },
     {
       "title": "Russisk seiersmarkering på Svalbard vekker reaksjoner",
       "link": "https://www.nrk.no/tromsogfinnmark/russisk-seiersmarkering-pa-svalbard-vekker-reaksjoner-1.17877988",
@@ -21,8 +27,8 @@
       "pubDate": "Sat, 09 May 2026 12:31:57 GMT"
     },
     {
-      "title": "To mindreårige pågrepet etter voldshendelse mot mann på Hauketo",
-      "link": "https://www.nrk.no/stor-oslo/to-mindrearige-pagrepet-etter-voldshendelse-mot-mann-pa-hauketo-1.17877891",
+      "title": "To mindreårige innbragt etter voldshendelse på Hauketo",
+      "link": "https://www.nrk.no/stor-oslo/to-mindrearige-innbragt-etter-voldshendelse-pa-hauketo-1.17877891",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 09 May 2026 12:25:01 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/flere-kommuner-far-tilgang-til-legehjelp-pa-nett-1.17877812",
       "category": "Nyheter fra Agder",
       "pubDate": "Sat, 09 May 2026 12:10:27 GMT"
-    },
-    {
-      "title": "WHO: Liten smittefare",
-      "link": "https://www.nrk.no/nyheter/who_-liten-smittefare-1.17877852",
-      "category": "Hantavirus",
-      "pubDate": "Sat, 09 May 2026 12:03:21 GMT"
     }
   ]
 }
