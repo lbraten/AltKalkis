@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-09T08:16:38.390Z",
+  "updatedAt": "2026-05-09T09:52:20.124Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "WHO-sjefen til Kanariøyene for å ta imot virus-rammet skip",
+      "link": "https://www.nrk.no/nyheter/who-sjefen-til-kanarioyene-for-a-ta-imot-virus-rammet-skip-1.17877789",
+      "category": "Hantavirus",
+      "pubDate": "Sat, 09 May 2026 09:40:50 GMT"
+    },
+    {
+      "title": "To menn siktet for antisemittisme på sosiale medier",
+      "link": "https://www.nrk.no/nyheter/to-menn-siktet-for-antisemittisme-pa-sosiale-medier-1.17877777",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 09 May 2026 09:34:04 GMT"
+    },
+    {
+      "title": "Over 40 arrestert i Bahrain mistenkt for forbindelser til Iran",
+      "link": "https://www.nrk.no/nyheter/over-40-arrestert-i-bahrain-mistenkt-for-forbindelser-til-iran-1.17877747",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 09 May 2026 09:28:33 GMT"
+    },
+    {
+      "title": "Tre menn sikta for kroppsskade",
+      "link": "https://www.nrk.no/mr/tre-menn-sikta-for-kroppsskade-1.17877738",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 09 May 2026 08:44:02 GMT"
+    },
+    {
+      "title": "Topprådgiver i Iran sammenligner kontroll over Hormuzstredet med «atombombe»",
+      "link": "https://www.nrk.no/nyheter/toppradgiver-i-iran-sammenligner-kontroll-over-hormuzstredet-med-_atombombe_-1.17877740",
+      "category": "Iran",
+      "pubDate": "Sat, 09 May 2026 08:25:29 GMT"
+    },
     {
       "title": "«Mot i brøstet»-skaperen Tore Ryen er død",
       "link": "https://www.nrk.no/nyheter/_mot-i-brostet_-skaperen-tore-ryen-er-dod-1.17877728",
       "category": "TV-serier",
       "pubDate": "Sat, 09 May 2026 08:10:14 GMT"
-    },
-    {
-      "title": "Putin sier russiske soldater kjemper mot en aggressiv styrke støttet av Nato",
-      "link": "https://www.nrk.no/nyheter/putin-sier-russiske-soldater-kjemper-mot-en-aggressiv-styrke-stottet-av-nato-1.17877714",
-      "category": "Russland",
-      "pubDate": "Sat, 09 May 2026 07:56:45 GMT"
-    },
-    {
-      "title": "Oslo: Utløste falsk melding til nødetatene",
-      "link": "https://www.nrk.no/stor-oslo/oslo_-utloste-falsk-melding-til-nodetatene--1.17877681",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 09 May 2026 07:56:19 GMT"
-    },
-    {
-      "title": "Fotgjenger påkjørt av fly på rullebanen",
-      "link": "https://www.nrk.no/nyheter/fotgjenger-pakjort-av-fly-pa-rullebanen-1.17877707",
-      "category": "Flysikkerhet",
-      "pubDate": "Sat, 09 May 2026 07:37:33 GMT"
-    },
-    {
-      "title": "Seiersdagsparaden i gang i Moskva",
-      "link": "https://www.nrk.no/nyheter/seiersdagsparaden-i-gang-i-moskva--1.17877684",
-      "category": "Russland",
-      "pubDate": "Sat, 09 May 2026 07:14:41 GMT"
-    },
-    {
-      "title": "Funn av savnede etter vulkanutbrudd i Indonesia",
-      "link": "https://www.nrk.no/nyheter/funn-av-savnede-etter-vulkanutbrudd-i-indonesia-1.17877665",
-      "category": "Indonesia",
-      "pubDate": "Sat, 09 May 2026 06:46:37 GMT"
     }
   ]
 }
