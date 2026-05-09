@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-09T03:40:03.472Z",
+  "updatedAt": "2026-05-09T06:18:13.578Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lav magasinfylling ga høyere strømpriser i Sør-Norge i april",
+      "link": "https://www.nrk.no/nyheter/lav-magasinfylling-ga-hoyere-strompriser-i-sor-norge-i-april-1.17877618",
+      "category": "Strømpriser",
+      "pubDate": "Sat, 09 May 2026 05:37:43 GMT"
+    },
+    {
+      "title": "Oljeflak observert utenfor Kharg-øya i Iran",
+      "link": "https://www.nrk.no/nyheter/oljeflak-observert-utenfor-kharg-oya-i-iran-1.17877614",
+      "category": "Iran",
+      "pubDate": "Sat, 09 May 2026 04:44:09 GMT"
+    },
+    {
+      "title": "Kontroll på brannen ved avfallsanlegget i Søndre Land",
+      "link": "https://www.nrk.no/nyheter/kontroll-pa-brannen-ved-avfallsanlegget-i-sondre-land-1.17877604",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 09 May 2026 04:37:49 GMT"
+    },
+    {
+      "title": "WHO: Seks hantavirus-tilfeller bekreftet til nå",
+      "link": "https://www.nrk.no/nyheter/who_-seks-hantavirus-tilfeller-bekreftet-til-na-1.17877613",
+      "category": "Hantavirus",
+      "pubDate": "Sat, 09 May 2026 04:13:59 GMT"
+    },
+    {
+      "title": "USA sier to er drept i båtangrep mot antatte narkosmuglere",
+      "link": "https://www.nrk.no/nyheter/usa-sier-to-er-drept-i-batangrep-mot-antatte-narkosmuglere-1.17877591",
+      "category": "USA",
+      "pubDate": "Sat, 09 May 2026 03:55:49 GMT"
+    },
     {
       "title": "En person anmeldt for ulovlig våpenbruk ved skole i Trondheim",
       "link": "https://www.nrk.no/nyheter/en-person-anmeldt-for-ulovlig-vapenbruk-ved-skole-i-trondheim-1.17877602",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sat, 09 May 2026 01:23:15 GMT"
-    },
-    {
-      "title": "Trump sier han venter svar fra Iran innen kort tid",
-      "link": "https://www.nrk.no/nyheter/trump-sier-han-venter-svar-fra-iran-innen-kort-tid-1.17877601",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 09 May 2026 00:29:03 GMT"
-    },
-    {
-      "title": "Kraftig brann ved avfallsanlegg i Søndre Land",
-      "link": "https://www.nrk.no/nyheter/kraftig-brann-ved-avfallsanlegg-i-sondre-land-1.17877600",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 08 May 2026 23:58:35 GMT"
-    },
-    {
-      "title": "USA innfører Iran-sanksjoner mot kinesiske selskaper",
-      "link": "https://www.nrk.no/nyheter/usa-innforer-iran-sanksjoner-mot-kinesiske-selskaper-1.17877597",
-      "category": "USA og Kina",
-      "pubDate": "Fri, 08 May 2026 23:48:05 GMT"
-    },
-    {
-      "title": "Kraftig brann ved campingplass i Bodø",
-      "link": "https://www.nrk.no/nyheter/kraftig-brann-ved-campingplass-i-bodo--1.17877564",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 08 May 2026 23:26:52 GMT"
-    },
-    {
-      "title": "Brudd i meklingen for renholdere",
-      "link": "https://www.nrk.no/nyheter/brudd-i-meklingen-for-renholdere--1.17877563",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Fri, 08 May 2026 22:35:22 GMT"
     }
   ]
 }
