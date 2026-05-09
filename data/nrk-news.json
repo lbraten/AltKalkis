@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-09T14:52:52.734Z",
+  "updatedAt": "2026-05-09T15:54:54.511Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skogbrann i Vestby under kontroll",
+      "link": "https://www.nrk.no/stor-oslo/skogbrann-i-vestby-under-kontroll-1.17878037",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 09 May 2026 15:21:49 GMT"
+    },
+    {
+      "title": "Libanon sier israelsk angrep tok livet av et barn",
+      "link": "https://www.nrk.no/nyheter/libanon-sier-israelsk-angrep-tok-livet-av-et-barn-1.17878067",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 09 May 2026 15:04:35 GMT"
+    },
     {
       "title": "«Sønnavind»-forfatter Frid Ingulstad (90) er død",
       "link": "https://www.nrk.no/nyheter/_sonnavind_-forfatter-frid-ingulstad-_90_-er-dod-1.17878058",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/storbritannia-vil-sende-krigsskip-til-midtosten-1.17877910",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 09 May 2026 12:31:57 GMT"
-    },
-    {
-      "title": "To mindreårige innbragt etter voldshendelse på Hauketo",
-      "link": "https://www.nrk.no/stor-oslo/to-mindrearige-innbragt-etter-voldshendelse-pa-hauketo-1.17877891",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 09 May 2026 12:25:01 GMT"
-    },
-    {
-      "title": "Flere kommuner får tilgang til legehjelp på nett",
-      "link": "https://www.nrk.no/sorlandet/flere-kommuner-far-tilgang-til-legehjelp-pa-nett-1.17877812",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 09 May 2026 12:10:27 GMT"
     }
   ]
 }
