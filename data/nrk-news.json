@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-08T23:56:49.221Z",
+  "updatedAt": "2026-05-09T03:40:03.472Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En person anmeldt for ulovlig våpenbruk ved skole i Trondheim",
+      "link": "https://www.nrk.no/nyheter/en-person-anmeldt-for-ulovlig-vapenbruk-ved-skole-i-trondheim-1.17877602",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 09 May 2026 01:23:15 GMT"
+    },
+    {
+      "title": "Trump sier han venter svar fra Iran innen kort tid",
+      "link": "https://www.nrk.no/nyheter/trump-sier-han-venter-svar-fra-iran-innen-kort-tid-1.17877601",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 09 May 2026 00:29:03 GMT"
+    },
+    {
+      "title": "Kraftig brann ved avfallsanlegg i Søndre Land",
+      "link": "https://www.nrk.no/nyheter/kraftig-brann-ved-avfallsanlegg-i-sondre-land-1.17877600",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 08 May 2026 23:58:35 GMT"
+    },
     {
       "title": "USA innfører Iran-sanksjoner mot kinesiske selskaper",
       "link": "https://www.nrk.no/nyheter/usa-innforer-iran-sanksjoner-mot-kinesiske-selskaper-1.17877597",
@@ -11,7 +29,7 @@
     {
       "title": "Kraftig brann ved campingplass i Bodø",
       "link": "https://www.nrk.no/nyheter/kraftig-brann-ved-campingplass-i-bodo--1.17877564",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Nordland",
       "pubDate": "Fri, 08 May 2026 23:26:52 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brudd-i-meklingen-for-renholdere--1.17877563",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Fri, 08 May 2026 22:35:22 GMT"
-    },
-    {
-      "title": "Tolv personer har mistet livet på jobb så langt i år",
-      "link": "https://www.nrk.no/nyheter/tolv-personer-har-mistet-livet-pa-jobb-sa-langt-i-ar-1.17877562",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 08 May 2026 22:25:41 GMT"
-    },
-    {
-      "title": "Mekling på overtid i renholdsoverenskomsten",
-      "link": "https://www.nrk.no/nyheter/mekling-pa-overtid-i-renholdsoverenskomsten-1.17877530",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Fri, 08 May 2026 22:20:32 GMT"
-    },
-    {
-      "title": "Kvinne til sykehus etter påkjørsel av bil i Bergen",
-      "link": "https://www.nrk.no/nyheter/kvinne-til-sykehus-etter-pakjorsel-av-bil-i-bergen-1.17877515",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 08 May 2026 20:59:47 GMT"
     }
   ]
 }
