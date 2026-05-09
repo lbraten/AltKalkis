@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-09T15:54:54.511Z",
+  "updatedAt": "2026-05-09T16:57:54.396Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina og Russland anklager hverandre for våpenhvilebrudd",
+      "link": "https://www.nrk.no/nyheter/ukraina-og-russland-anklager-hverandre-for-vapenhvilebrudd-1.17878171",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 09 May 2026 16:54:23 GMT"
+    },
+    {
+      "title": "Melding om brann i Oslo-leilighet",
+      "link": "https://www.nrk.no/nyheter/melding-om-brann-i-oslo-leilighet-1.17878089",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 09 May 2026 16:43:31 GMT"
+    },
     {
       "title": "Skogbrann i Vestby under kontroll",
       "link": "https://www.nrk.no/stor-oslo/skogbrann-i-vestby-under-kontroll-1.17878037",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/russisk-seiersmarkering-pa-svalbard-vekker-reaksjoner-1.17877988",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sat, 09 May 2026 13:25:39 GMT"
-    },
-    {
-      "title": "Magyar formelt tatt i ed som statsminister i Ungarn",
-      "link": "https://www.nrk.no/nyheter/magyar-formelt-tatt-i-ed-som-statsminister-i-ungarn-1.17877943",
-      "category": "Ungarn",
-      "pubDate": "Sat, 09 May 2026 12:41:35 GMT"
-    },
-    {
-      "title": "Storbritannia vil sende krigsskip til Midtøsten",
-      "link": "https://www.nrk.no/nyheter/storbritannia-vil-sende-krigsskip-til-midtosten-1.17877910",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 09 May 2026 12:31:57 GMT"
     }
   ]
 }
