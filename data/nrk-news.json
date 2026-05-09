@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-09T17:56:29.437Z",
+  "updatedAt": "2026-05-09T19:11:31.738Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Leo Ajkic skal bli far: – Vi gleder oss maks",
+      "link": "https://www.nrk.no/nyheter/leo-ajkic-skal-bli-far_-_-vi-gleder-oss-maks-1.17878235",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 09 May 2026 19:09:42 GMT"
+    },
+    {
+      "title": "Putin: Kan møte Zelenskyj, men bare hvis fredsavtale inngås",
+      "link": "https://www.nrk.no/nyheter/putin_-kan-mote-zelenskyj_-men-bare-hvis-fredsavtale-inngas-1.17878229",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 09 May 2026 18:35:16 GMT"
+    },
+    {
+      "title": "Sverige: Sykehus i lockdown etter drap",
+      "link": "https://www.nrk.no/nyheter/sverige_-sykehus-i-lockdown-etter-drap-1.17878191",
+      "category": "Sverige",
+      "pubDate": "Sat, 09 May 2026 18:17:38 GMT"
+    },
     {
       "title": "Høye smell trolig fyrverkeri",
       "link": "https://www.nrk.no/stor-oslo/hoye-smell-trolig-fyrverkeri-1.17878121",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina-og-russland-anklager-hverandre-for-vapenhvilebrudd-1.17878171",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 09 May 2026 16:54:23 GMT"
-    },
-    {
-      "title": "Så på TV: Beboer anmeldt for uaktsom brann",
-      "link": "https://www.nrk.no/nyheter/sa-pa-tv_-beboer-anmeldt-for-uaktsom-brann-1.17878089",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 09 May 2026 16:43:31 GMT"
-    },
-    {
-      "title": "Skogbrann i Vestby under kontroll",
-      "link": "https://www.nrk.no/stor-oslo/skogbrann-i-vestby-under-kontroll-1.17878037",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 09 May 2026 15:21:49 GMT"
-    },
-    {
-      "title": "Libanon sier israelsk angrep tok livet av et barn",
-      "link": "https://www.nrk.no/nyheter/libanon-sier-israelsk-angrep-tok-livet-av-et-barn-1.17878067",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 09 May 2026 15:04:35 GMT"
     }
   ]
 }
