@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-09T10:58:54.946Z",
+  "updatedAt": "2026-05-09T11:56:24.950Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Buss for tog på Østfoldbanen",
+      "link": "https://www.nrk.no/stor-oslo/buss-for-tog-pa-ostfoldbanen-1.17877818",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 09 May 2026 11:47:38 GMT"
+    },
+    {
+      "title": "Støre om AUF-lederens voldsalarm: – Det opprører meg sterkt",
+      "link": "https://www.nrk.no/nyheter/store-om-auf-lederens-voldsalarm_-_-det-opprorer-meg-sterkt-1.17877883",
+      "category": "AUF",
+      "pubDate": "Sat, 09 May 2026 11:32:17 GMT"
+    },
+    {
+      "title": "Israel sier fengslede Gaza-aktivister skal løslates",
+      "link": "https://www.nrk.no/nyheter/israel-sier-fengslede-gaza-aktivister-skal-loslates-1.17877865",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sat, 09 May 2026 11:31:12 GMT"
+    },
+    {
+      "title": "Gressbrann under supportertog: – Trolig pyroteknikk",
+      "link": "https://www.nrk.no/ostfold/gressbrann-under-supportertog_-_-trolig-pyroteknikk-1.17877869",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 09 May 2026 11:15:31 GMT"
+    },
     {
       "title": "Nye regjeringsforhandlinger i Danmark starter på mandag",
       "link": "https://www.nrk.no/nyheter/nye-regjeringsforhandlinger-i-danmark-starter-pa-mandag-1.17877835",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/planer-for-a-hente-hjem-cruise-passasjerer--1.17877815",
       "category": "Hantavirus",
       "pubDate": "Sat, 09 May 2026 10:43:54 GMT"
-    },
-    {
-      "title": "Eurovision har gitt advarsel til Israel: – Følger ikke reglene",
-      "link": "https://www.nrk.no/nyheter/eurovision-har-gitt-advarsel-til-israel_-_-folger-ikke-reglene-1.17877827",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Sat, 09 May 2026 10:28:29 GMT"
-    },
-    {
-      "title": "VG: AUF har anmeldt flere hatefulle meldinger – leder Gaute Skjervø har voldsalarm",
-      "link": "https://www.nrk.no/nyheter/vg_-auf-har-anmeldt-flere-hatefulle-meldinger-_-leder-gaute-skjervo-har-voldsalarm-1.17877801",
-      "category": "Rasisme i Norge",
-      "pubDate": "Sat, 09 May 2026 10:21:23 GMT"
-    },
-    {
-      "title": "Gjenganger-tyv tatt på Oslo lufthavn",
-      "link": "https://www.nrk.no/stor-oslo/gjenganger-tyv-tatt-pa-oslo-lufthavn-1.17877724",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 09 May 2026 10:07:53 GMT"
-    },
-    {
-      "title": "– Langt fram til russisk-ukrainsk fredsavtale",
-      "link": "https://www.nrk.no/nyheter/_-langt-fram-til-russisk-ukrainsk-fredsavtale--1.17877809",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 09 May 2026 09:58:30 GMT"
     }
   ]
 }
