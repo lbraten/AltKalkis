@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-09T22:07:25.214Z",
+  "updatedAt": "2026-05-09T23:24:47.727Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Reitan med superrunde – kjemper om seieren i storturnering",
+      "link": "https://www.nrk.no/nyheter/reitan-med-superrunde-_-kjemper-om-seieren-i-storturnering-1.17878324",
+      "category": "Golf",
+      "pubDate": "Sat, 09 May 2026 23:09:41 GMT"
+    },
+    {
+      "title": "Rubio i møte med Qatars utenriksminister",
+      "link": "https://www.nrk.no/nyheter/rubio-i-mote-med-qatars-utenriksminister-1.17878322",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 09 May 2026 23:07:16 GMT"
+    },
+    {
+      "title": "Bilfører målt i 169 km/t i 80-sone i tunnel i Stavanger",
+      "link": "https://www.nrk.no/nyheter/bilforer-malt-i-169-km_t-i-80-sone-i-tunnel-i-stavanger-1.17878321",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 09 May 2026 22:51:58 GMT"
+    },
+    {
+      "title": "Minst 69 drept i militsangrep øst i Kongo",
+      "link": "https://www.nrk.no/nyheter/minst-69-drept-i-militsangrep-ost-i-kongo-1.17878302",
+      "category": "DR Kongo",
+      "pubDate": "Sat, 09 May 2026 22:32:20 GMT"
+    },
     {
       "title": "Kvinne pågrepet – mistenkt for flere påsatte branner",
       "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-_-mistenkt-for-flere-pasatte-branner-1.17878274",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/who-sjefen-pa-tenerife-_-skal-ta-imot-skip-med-hantavirus-1.17878250",
       "category": "Hantavirus",
       "pubDate": "Sat, 09 May 2026 19:30:09 GMT"
-    },
-    {
-      "title": "Leo Ajkic skal bli far: – Vi gleder oss maks",
-      "link": "https://www.nrk.no/nyheter/leo-ajkic-skal-bli-far_-_-vi-gleder-oss-maks-1.17878235",
-      "category": "Kjendiser og underholdning",
-      "pubDate": "Sat, 09 May 2026 19:09:42 GMT"
-    },
-    {
-      "title": "Putin: Kan møte Zelenskyj, men bare hvis fredsavtale inngås",
-      "link": "https://www.nrk.no/nyheter/putin_-kan-mote-zelenskyj_-men-bare-hvis-fredsavtale-inngas-1.17878229",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 09 May 2026 18:35:16 GMT"
-    },
-    {
-      "title": "Sverige: Sykehus i lockdown etter drap",
-      "link": "https://www.nrk.no/nyheter/sverige_-sykehus-i-lockdown-etter-drap-1.17878191",
-      "category": "Sverige",
-      "pubDate": "Sat, 09 May 2026 18:17:38 GMT"
-    },
-    {
-      "title": "Høye smell trolig fyrverkeri",
-      "link": "https://www.nrk.no/stor-oslo/hoye-smell-trolig-fyrverkeri-1.17878121",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 09 May 2026 17:36:36 GMT"
     }
   ]
 }
