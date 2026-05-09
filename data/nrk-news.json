@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-09T16:57:54.396Z",
+  "updatedAt": "2026-05-09T17:56:29.437Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Høye smell trolig fyrverkeri",
+      "link": "https://www.nrk.no/stor-oslo/hoye-smell-trolig-fyrverkeri-1.17878121",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 09 May 2026 17:36:36 GMT"
+    },
+    {
+      "title": "NFF om nasjonalsangen: – Enige i at dette ikke fungerte",
+      "link": "https://www.nrk.no/nyheter/nff-om-nasjonalsangen_-_-enige-i-at-dette-ikke-fungerte-1.17878179",
+      "category": "Sportsnyheter",
+      "pubDate": "Sat, 09 May 2026 17:20:09 GMT"
+    },
     {
       "title": "Ukraina og Russland anklager hverandre for våpenhvilebrudd",
       "link": "https://www.nrk.no/nyheter/ukraina-og-russland-anklager-hverandre-for-vapenhvilebrudd-1.17878171",
@@ -9,8 +21,8 @@
       "pubDate": "Sat, 09 May 2026 16:54:23 GMT"
     },
     {
-      "title": "Melding om brann i Oslo-leilighet",
-      "link": "https://www.nrk.no/nyheter/melding-om-brann-i-oslo-leilighet-1.17878089",
+      "title": "Så på TV: Beboer anmeldt for uaktsom brann",
+      "link": "https://www.nrk.no/nyheter/sa-pa-tv_-beboer-anmeldt-for-uaktsom-brann-1.17878089",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 09 May 2026 16:43:31 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon-sier-israelsk-angrep-tok-livet-av-et-barn-1.17878067",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 09 May 2026 15:04:35 GMT"
-    },
-    {
-      "title": "«Sønnavind»-forfatter Frid Ingulstad (90) er død",
-      "link": "https://www.nrk.no/nyheter/_sonnavind_-forfatter-frid-ingulstad-_90_-er-dod-1.17878058",
-      "category": "Litteratur",
-      "pubDate": "Sat, 09 May 2026 14:44:01 GMT"
-    },
-    {
-      "title": "Russisk seiersmarkering på Svalbard vekker reaksjoner",
-      "link": "https://www.nrk.no/tromsogfinnmark/russisk-seiersmarkering-pa-svalbard-vekker-reaksjoner-1.17877988",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 09 May 2026 13:25:39 GMT"
     }
   ]
 }
