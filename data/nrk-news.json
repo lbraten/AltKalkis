@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-10T10:45:01.486Z",
+  "updatedAt": "2026-05-10T11:53:44.429Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kuslipp på Bygdøy kongsgård",
+      "link": "https://www.nrk.no/nyheter/kuslipp-pa-bygdoy-kongsgard-1.17878559",
+      "category": "Landbruk",
+      "pubDate": "Sun, 10 May 2026 11:48:14 GMT"
+    },
+    {
+      "title": "Jordbruket går i forhandlinger med staten",
+      "link": "https://www.nrk.no/nyheter/jordbruket-gar-i-forhandlinger-med-staten-1.17878553",
+      "category": "Jordbruksoppgjøret",
+      "pubDate": "Sun, 10 May 2026 11:26:02 GMT"
+    },
+    {
+      "title": "Avsluttet redningsaksjon i Drammensfjorden",
+      "link": "https://www.nrk.no/buskerud/avsluttet-redningsaksjon-i-drammensfjorden-1.17878546",
+      "category": "Politi og hendelser i Buskerud",
+      "pubDate": "Sun, 10 May 2026 11:09:44 GMT"
+    },
+    {
+      "title": "Funn av død person etter bustadbrann på Øygarden",
+      "link": "https://www.nrk.no/vestland/funn-av-dod-person-etter-bustadbrann-pa-oygarden-1.17878515",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 10 May 2026 11:08:26 GMT"
+    },
+    {
+      "title": "Fly med evakuerte har forlatt Tenerife",
+      "link": "https://www.nrk.no/nyheter/fly-med-evakuerte-har-forlatt-tenerife---1.17878539",
+      "category": "Hantavirus",
+      "pubDate": "Sun, 10 May 2026 11:04:48 GMT"
+    },
     {
       "title": "Kuwait melder om fiendtlige droner i landets luftrom",
       "link": "https://www.nrk.no/nyheter/kuwait-melder-om-fiendtlige-droner-i-landets-luftrom-1.17878516",
       "category": "Iran",
       "pubDate": "Sun, 10 May 2026 09:55:15 GMT"
-    },
-    {
-      "title": "Russland og Ukraina anklager hverandre for brudd på våpenhvilen",
-      "link": "https://www.nrk.no/nyheter/russland-og-ukraina-anklager-hverandre-for-brudd-pa-vapenhvilen-1.17878508",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 10 May 2026 09:37:48 GMT"
-    },
-    {
-      "title": "Voldshendelse i Oslo sentrum",
-      "link": "https://www.nrk.no/stor-oslo/voldshendelse-i-oslo-sentrum-1.17878513",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 10 May 2026 09:33:11 GMT"
-    },
-    {
-      "title": "Fallskjermjegere brakte medisinsk hjelp til britisk borger",
-      "link": "https://www.nrk.no/nyheter/fallskjermjegere-brakte-medisinsk-hjelp-til-britisk-borger-1.17878477",
-      "category": "Hantavirus",
-      "pubDate": "Sun, 10 May 2026 09:21:11 GMT"
-    },
-    {
-      "title": "Sp vil prioritere byggebransjen i budsjettforhandlingene",
-      "link": "https://www.nrk.no/nyheter/sp-vil-prioritere-byggebransjen-i-budsjettforhandlingene-1.17878466",
-      "category": "Senterpartiet",
-      "pubDate": "Sun, 10 May 2026 09:14:38 GMT"
-    },
-    {
-      "title": "200.000 migranter har krysset Den engelske kanal",
-      "link": "https://www.nrk.no/nyheter/200.000-migranter-har-krysset-den-engelske-kanal--1.17878456",
-      "category": "Storbritannia",
-      "pubDate": "Sun, 10 May 2026 09:11:40 GMT"
     }
   ]
 }
