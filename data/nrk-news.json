@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-10T20:59:11.854Z",
+  "updatedAt": "2026-05-10T21:57:16.039Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "PC eksploderte og førte til branntilløp i Bergen",
+      "link": "https://www.nrk.no/nyheter/pc-eksploderte-og-forte-til-branntillop-i-bergen-1.17878951",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 10 May 2026 21:56:48 GMT"
+    },
+    {
+      "title": "Storbritannia og Frankrike kaller inn til krisemøte om Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/storbritannia-og-frankrike-kaller-inn-til-krisemote-om-hormuzstredet-1.17878931",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 10 May 2026 21:50:38 GMT"
+    },
     {
       "title": "Trump om Iran-forslag: – Fullstendig uakseptabelt",
       "link": "https://www.nrk.no/nyheter/trump-om-iran-forslag_-_-fullstendig-uakseptabelt-1.17878607",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-utsatt-for-vold-av-fire-personer-i-trondheim-_-fremstar-uprovosert-1.17878805",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 10 May 2026 19:50:22 GMT"
-    },
-    {
-      "title": "Norges ESC-bidrag har fått advarsel: - For sexy",
-      "link": "https://www.nrk.no/nyheter/norges-esc-bidrag-har-fatt-advarsel_---for-sexy-1.17878817",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Sun, 10 May 2026 18:46:23 GMT"
-    },
-    {
-      "title": "Fyrte opp bål i nødutgang",
-      "link": "https://www.nrk.no/ostfold/fyrte-opp-bal-i-nodutgang-1.17878819",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 10 May 2026 17:43:10 GMT"
     }
   ]
 }
