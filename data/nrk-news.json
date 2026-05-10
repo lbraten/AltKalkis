@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-05-10T19:58:40.896Z",
+  "updatedAt": "2026-05-10T20:59:11.854Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Trump om Iran-forslag: – Fullstendig uakseptabelt",
+      "link": "https://www.nrk.no/nyheter/trump-om-iran-forslag_-_-fullstendig-uakseptabelt-1.17878607",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 10 May 2026 20:17:49 GMT"
+    },
+    {
+      "title": "Tasnim: Iran krever midlertidig stans av sanksjoner mot iransk oljeeksport",
+      "link": "https://www.nrk.no/nyheter/tasnim_-iran-krever-midlertidig-stans-av-sanksjoner-mot-iransk-oljeeksport-1.17878924",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 10 May 2026 20:11:20 GMT"
+    },
+    {
+      "title": "Hantavirus: 22 britiske statsborgere har landet i Manchester",
+      "link": "https://www.nrk.no/nyheter/hantavirus_-22-britiske-statsborgere-har-landet-i-manchester-1.17878915",
+      "category": "Hantavirus",
+      "pubDate": "Sun, 10 May 2026 20:02:13 GMT"
+    },
+    {
       "title": "Mann utsatt for vold av fire personer i Trondheim – fremstår uprovosert",
       "link": "https://www.nrk.no/nyheter/mann-utsatt-for-vold-av-fire-personer-i-trondheim-_-fremstar-uprovosert-1.17878805",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 10 May 2026 19:50:22 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/ostfold/fyrte-opp-bal-i-nodutgang-1.17878819",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sun, 10 May 2026 17:43:10 GMT"
-    },
-    {
-      "title": "Fredsprisvinner Narges Mohammadi (54) er overført til sykehus i Teheran",
-      "link": "https://www.nrk.no/nyheter/fredsprisvinner-narges-mohammadi-_54_-er-overfort-til-sykehus-i-teheran-1.17878814",
-      "category": "Iran",
-      "pubDate": "Sun, 10 May 2026 17:24:55 GMT"
-    },
-    {
-      "title": "Latvias forsvarsminister går av etter at ukrainsk drone traff oljeanlegg",
-      "link": "https://www.nrk.no/nyheter/latvias-forsvarsminister-gar-av-etter-at-ukrainsk-drone-traff-oljeanlegg-1.17878743",
-      "category": "Latvia",
-      "pubDate": "Sun, 10 May 2026 17:19:26 GMT"
-    },
-    {
-      "title": "Kriminelt nettverk tiltalt for byggeplass-tyverier",
-      "link": "https://www.nrk.no/stor-oslo/kriminelt-nettverk-tiltalt-for-byggeplass-tyverier-1.17878735",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 10 May 2026 17:10:32 GMT"
     }
   ]
 }
