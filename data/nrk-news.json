@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-10T15:56:29.577Z",
+  "updatedAt": "2026-05-10T17:01:42.719Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyj anklager Russland for brudd på våpenhvile",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-anklager-russland-for-brudd-pa-vapenhvile-1.17878770",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 10 May 2026 16:38:50 GMT"
+    },
+    {
+      "title": "Hantavirus: Fransk passasjer fra Hondius med symptomer",
+      "link": "https://www.nrk.no/nyheter/hantavirus_-fransk-passasjer-fra-hondius-med-symptomer-1.17878608",
+      "category": "Hantavirus",
+      "pubDate": "Sun, 10 May 2026 16:22:58 GMT"
+    },
     {
       "title": "Pakistan: Irans svar på fredsplan har blitt sendt til USA",
       "link": "https://www.nrk.no/nyheter/pakistan_-irans-svar-pa-fredsplan-har-blitt-sendt-til-usa-1.17878730",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/rogaland/bilforer-stanset-pa-e39_-hadde-luftgevaer-ut-vinduet-1.17878385",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sun, 10 May 2026 13:39:34 GMT"
-    },
-    {
-      "title": "2800 var uten strøm i Stavanger",
-      "link": "https://www.nrk.no/rogaland/2800-var-uten-strom-i-stavanger-1.17878648",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 10 May 2026 13:25:44 GMT"
-    },
-    {
-      "title": "Hantavirus: Evakuerte passasjerer har ankommet Madrid",
-      "link": "https://www.nrk.no/nyheter/hantavirus_-evakuerte-passasjerer-har-ankommet-madrid-1.17878596",
-      "category": "Hantavirus",
-      "pubDate": "Sun, 10 May 2026 13:20:25 GMT"
     }
   ]
 }
