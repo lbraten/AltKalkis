@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-10T13:23:26.326Z",
+  "updatedAt": "2026-05-10T14:35:50.852Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bilfører stanset på E39: Hadde luftgevær ut vinduet",
+      "link": "https://www.nrk.no/rogaland/bilforer-stanset-pa-e39_-hadde-luftgevaer-ut-vinduet-1.17878385",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 10 May 2026 13:39:34 GMT"
+    },
+    {
+      "title": "2800 var uten strøm i Stavanger",
+      "link": "https://www.nrk.no/rogaland/2800-var-uten-strom-i-stavanger-1.17878648",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 10 May 2026 13:25:44 GMT"
+    },
     {
       "title": "Hantavirus: Evakuerte passasjerer har ankommet Madrid",
       "link": "https://www.nrk.no/nyheter/hantavirus_-evakuerte-passasjerer-har-ankommet-madrid-1.17878596",
@@ -9,8 +21,8 @@
       "pubDate": "Sun, 10 May 2026 13:20:25 GMT"
     },
     {
-      "title": "Hund sit fast i myr i Bergen",
-      "link": "https://www.nrk.no/vestland/hund-sit-fast-i-myr-i-bergen-1.17878611",
+      "title": "Hund fri etter å ha sete fast i myr i Bergen",
+      "link": "https://www.nrk.no/vestland/hund-fri-etter-a-ha-sete-fast-i-myr-i-bergen-1.17878611",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 10 May 2026 13:18:39 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/trafikkulykke-i-nes-1.17878612",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 10 May 2026 13:13:45 GMT"
-    },
-    {
-      "title": "Elg på bytur på Bjølsen",
-      "link": "https://www.nrk.no/stor-oslo/elg-pa-bytur-pa-bjolsen-1.17878603",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 10 May 2026 12:41:32 GMT"
-    },
-    {
-      "title": "Iran har svart på USAs fredsforslag",
-      "link": "https://www.nrk.no/nyheter/iran-har-svart-pa-usas-fredsforslag-1.17878599",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 10 May 2026 12:39:29 GMT"
     }
   ]
 }
