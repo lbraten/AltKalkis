@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-10T18:31:12.150Z",
+  "updatedAt": "2026-05-10T19:58:40.896Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann utsatt for vold av fire personer i Trondheim – fremstår uprovosert",
+      "link": "https://www.nrk.no/nyheter/mann-utsatt-for-vold-av-fire-personer-i-trondheim-_-fremstar-uprovosert-1.17878805",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 10 May 2026 19:50:22 GMT"
+    },
+    {
+      "title": "Norges ESC-bidrag har fått advarsel: - For sexy",
+      "link": "https://www.nrk.no/nyheter/norges-esc-bidrag-har-fatt-advarsel_---for-sexy-1.17878817",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Sun, 10 May 2026 18:46:23 GMT"
+    },
     {
       "title": "Fyrte opp bål i nødutgang",
       "link": "https://www.nrk.no/ostfold/fyrte-opp-bal-i-nodutgang-1.17878819",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/kriminelt-nettverk-tiltalt-for-byggeplass-tyverier-1.17878735",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 10 May 2026 17:10:32 GMT"
-    },
-    {
-      "title": "90 personer skal evakueres fra M/S Hondius i dag",
-      "link": "https://www.nrk.no/nyheter/90-personer-skal-evakueres-fra-m_s-hondius-i-dag-1.17878800",
-      "category": "Hantavirus",
-      "pubDate": "Sun, 10 May 2026 17:08:33 GMT"
-    },
-    {
-      "title": "Jonas Lovv på plass på ESC-åpning i Wien",
-      "link": "https://www.nrk.no/nyheter/jonas-lovv-pa-plass-pa-esc-apning-i-wien-1.17878784",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Sun, 10 May 2026 17:03:52 GMT"
     }
   ]
 }
