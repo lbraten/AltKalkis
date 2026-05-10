@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-05-10T00:11:35.878Z",
+  "updatedAt": "2026-05-10T04:31:58.623Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Antallet drepte øker sentralt i Mali",
-      "link": "https://www.nrk.no/nyheter/antallet-drepte-oker-sentralt-i-mali-1.17878329",
+      "title": "Jordskjelv med styrke 5,8 i Chile",
+      "link": "https://www.nrk.no/nyheter/jordskjelv-med-styrke-5_8-i-chile-1.17878328",
+      "category": "Chile",
+      "pubDate": "Sun, 10 May 2026 03:30:53 GMT"
+    },
+    {
+      "title": "Tyskland og Canada drøfter tettere samarbeid",
+      "link": "https://www.nrk.no/nyheter/tyskland-og-canada-drofter-tettere-samarbeid-1.17878330",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 10 May 2026 02:14:11 GMT"
+    },
+    {
+      "title": "80 drepte i jihadist-angrep sentralt i Mali",
+      "link": "https://www.nrk.no/nyheter/80-drepte-i-jihadist-angrep-sentralt-i-mali-1.17878329",
       "category": "Mali",
       "pubDate": "Sat, 09 May 2026 23:57:37 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rubio-i-mote-med-qatars-statsminister--1.17878322",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 09 May 2026 23:07:16 GMT"
-    },
-    {
-      "title": "Bilfører målt i 169 km/t i 80-sone i tunnel i Stavanger",
-      "link": "https://www.nrk.no/nyheter/bilforer-malt-i-169-km_t-i-80-sone-i-tunnel-i-stavanger-1.17878321",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 09 May 2026 22:51:58 GMT"
-    },
-    {
-      "title": "Minst 69 drept i militsangrep øst i Kongo",
-      "link": "https://www.nrk.no/nyheter/minst-69-drept-i-militsangrep-ost-i-kongo-1.17878302",
-      "category": "DR Kongo",
-      "pubDate": "Sat, 09 May 2026 22:32:20 GMT"
     }
   ]
 }
