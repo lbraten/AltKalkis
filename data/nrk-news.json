@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-10T09:13:24.581Z",
+  "updatedAt": "2026-05-10T10:45:01.486Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kuwait melder om fiendtlige droner i landets luftrom",
+      "link": "https://www.nrk.no/nyheter/kuwait-melder-om-fiendtlige-droner-i-landets-luftrom-1.17878516",
+      "category": "Iran",
+      "pubDate": "Sun, 10 May 2026 09:55:15 GMT"
+    },
+    {
+      "title": "Russland og Ukraina anklager hverandre for brudd på våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/russland-og-ukraina-anklager-hverandre-for-brudd-pa-vapenhvilen-1.17878508",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 10 May 2026 09:37:48 GMT"
+    },
+    {
+      "title": "Voldshendelse i Oslo sentrum",
+      "link": "https://www.nrk.no/stor-oslo/voldshendelse-i-oslo-sentrum-1.17878513",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 10 May 2026 09:33:11 GMT"
+    },
+    {
+      "title": "Fallskjermjegere brakte medisinsk hjelp til britisk borger",
+      "link": "https://www.nrk.no/nyheter/fallskjermjegere-brakte-medisinsk-hjelp-til-britisk-borger-1.17878477",
+      "category": "Hantavirus",
+      "pubDate": "Sun, 10 May 2026 09:21:11 GMT"
+    },
+    {
+      "title": "Sp vil prioritere byggebransjen i budsjettforhandlingene",
+      "link": "https://www.nrk.no/nyheter/sp-vil-prioritere-byggebransjen-i-budsjettforhandlingene-1.17878466",
+      "category": "Senterpartiet",
+      "pubDate": "Sun, 10 May 2026 09:14:38 GMT"
+    },
     {
       "title": "200.000 migranter har krysset Den engelske kanal",
       "link": "https://www.nrk.no/nyheter/200.000-migranter-har-krysset-den-engelske-kanal--1.17878456",
       "category": "Storbritannia",
       "pubDate": "Sun, 10 May 2026 09:11:40 GMT"
-    },
-    {
-      "title": "Tre palestinere drept i israelske angrep på Gaza",
-      "link": "https://www.nrk.no/nyheter/tre-palestinere-drept-i-israelske-angrep-pa-gaza-1.17878407",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sun, 10 May 2026 08:49:31 GMT"
-    },
-    {
-      "title": "E6 i Nordland stengt etter ulykke",
-      "link": "https://www.nrk.no/nyheter/e6-i-nordland-stengt-etter-ulykke-1.17878460",
-      "category": "Trafikkulykker",
-      "pubDate": "Sun, 10 May 2026 08:33:45 GMT"
-    },
-    {
-      "title": "Analyse: Iranske angrep forårsaket omfattende skader på amerikanske baser",
-      "link": "https://www.nrk.no/nyheter/analyse_-iranske-angrep-forarsaket-omfattende-skader-pa-amerikanske-baser-1.17878457",
-      "category": "Iran",
-      "pubDate": "Sun, 10 May 2026 08:24:59 GMT"
-    },
-    {
-      "title": "Ukraina melder om russiske angrep til tross for våpenhvilen",
-      "link": "https://www.nrk.no/nyheter/ukraina-melder-om-russiske-angrep-til-tross-for-vapenhvilen-1.17878448",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 10 May 2026 08:15:29 GMT"
-    },
-    {
-      "title": "Vestbredden: bosettere angrep 20 ganger",
-      "link": "https://www.nrk.no/nyheter/vestbredden_-bosettere-angrep-20-ganger-1.17878440",
-      "category": "Israels bosettinger på Vestbredden",
-      "pubDate": "Sun, 10 May 2026 08:14:51 GMT"
     }
   ]
 }
