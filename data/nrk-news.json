@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-10T22:56:22.000Z",
+  "updatedAt": "2026-05-10T23:57:25.997Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Leteaksjon på Smøla",
+      "link": "https://www.nrk.no/nyheter/leteaksjon-pa-smola--1.17878972",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 10 May 2026 23:56:51 GMT"
+    },
     {
       "title": "PC eksploderte og førte til branntilløp i Bergen",
       "link": "https://www.nrk.no/nyheter/pc-eksploderte-og-forte-til-branntillop-i-bergen-1.17878951",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hantavirus_-22-britiske-statsborgere-har-landet-i-manchester-1.17878915",
       "category": "Hantavirus",
       "pubDate": "Sun, 10 May 2026 20:02:13 GMT"
-    },
-    {
-      "title": "Mann utsatt for vold av fire personer i Trondheim – fremstår uprovosert",
-      "link": "https://www.nrk.no/nyheter/mann-utsatt-for-vold-av-fire-personer-i-trondheim-_-fremstar-uprovosert-1.17878805",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 10 May 2026 19:50:22 GMT"
     }
   ]
 }
