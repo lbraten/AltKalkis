@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-10T14:35:50.852Z",
+  "updatedAt": "2026-05-10T15:56:29.577Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Pakistan: Irans svar på fredsplan har blitt sendt til USA",
+      "link": "https://www.nrk.no/nyheter/pakistan_-irans-svar-pa-fredsplan-har-blitt-sendt-til-usa-1.17878730",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 10 May 2026 15:44:40 GMT"
+    },
+    {
+      "title": "Bærumsordfører tar ikke gjenvalg",
+      "link": "https://www.nrk.no/stor-oslo/baerumsordforer-tar-ikke-gjenvalg-1.17878679",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 10 May 2026 15:28:03 GMT"
+    },
+    {
+      "title": "Regissør Anja Breien (85) er død",
+      "link": "https://www.nrk.no/nyheter/regissor-anja-breien-_85_-er-dod-1.17878644",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 10 May 2026 15:15:00 GMT"
+    },
     {
       "title": "Bilfører stanset på E39: Hadde luftgevær ut vinduet",
       "link": "https://www.nrk.no/rogaland/bilforer-stanset-pa-e39_-hadde-luftgevaer-ut-vinduet-1.17878385",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hantavirus_-evakuerte-passasjerer-har-ankommet-madrid-1.17878596",
       "category": "Hantavirus",
       "pubDate": "Sun, 10 May 2026 13:20:25 GMT"
-    },
-    {
-      "title": "Hund fri etter å ha sete fast i myr i Bergen",
-      "link": "https://www.nrk.no/vestland/hund-fri-etter-a-ha-sete-fast-i-myr-i-bergen-1.17878611",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 10 May 2026 13:18:39 GMT"
-    },
-    {
-      "title": "Hoppeslott tatt av vinden - fire barn skadet",
-      "link": "https://www.nrk.no/sorlandet/hoppeslott-tatt-av-vinden---fire-barn-skadet--1.17878610",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 10 May 2026 13:17:42 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Nes",
-      "link": "https://www.nrk.no/stor-oslo/trafikkulykke-i-nes-1.17878612",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 10 May 2026 13:13:45 GMT"
     }
   ]
 }
