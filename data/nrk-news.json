@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-11T19:16:33.247Z",
+  "updatedAt": "2026-05-11T21:00:41.363Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere ber Keir Starmer gå av",
+      "link": "https://www.nrk.no/nyheter/flere-ber-keir-starmer-ga-av-1.17880317",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 11 May 2026 20:46:32 GMT"
+    },
+    {
+      "title": "Kraftig eksplosjon i São Paulo i Brasil",
+      "link": "https://www.nrk.no/nyheter/kraftig-eksplosjon-i-sao-paulo-i-brasil-1.17880297",
+      "category": "Brasil",
+      "pubDate": "Mon, 11 May 2026 20:09:20 GMT"
+    },
+    {
+      "title": "Eide: Norge tar sikte på å utvide sanksjonene mot voldelige israelske bosettere",
+      "link": "https://www.nrk.no/nyheter/eide_-norge-tar-sikte-pa-a-utvide-sanksjonene-mot-voldelige-israelske-bosettere-1.17880286",
+      "category": "Israels bosettinger på Vestbredden",
+      "pubDate": "Mon, 11 May 2026 19:40:18 GMT"
+    },
+    {
+      "title": "Var i karantene: Spansk borger har fått påvist hantavirus",
+      "link": "https://www.nrk.no/nyheter/var-i-karantene_-spansk-borger-har-fatt-pavist-hantavirus-1.17880217",
+      "category": "Hantavirus",
+      "pubDate": "Mon, 11 May 2026 19:25:28 GMT"
+    },
     {
       "title": "Zelenskyjs tidligere stabssjef siktet for korrupsjon",
       "link": "https://www.nrk.no/nyheter/zelenskyjs-tidligere-stabssjef-siktet-for-korrupsjon-1.17880161",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/virusrammet-skip-setter-kursen-mot-nederland-1.17880198",
       "category": "Hantavirus",
       "pubDate": "Mon, 11 May 2026 18:14:46 GMT"
-    },
-    {
-      "title": "Brann i trevarefabrikk",
-      "link": "https://www.nrk.no/trondelag/brann-i-trevarefabrikk-1.17880134",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Mon, 11 May 2026 18:14:02 GMT"
-    },
-    {
-      "title": "Kjemperubin funnet i Myanmar",
-      "link": "https://www.nrk.no/nyheter/kjemperubin-funnet-i-myanmar-1.17880169",
-      "category": "Myanmar",
-      "pubDate": "Mon, 11 May 2026 17:49:43 GMT"
-    },
-    {
-      "title": "Amnesty: Over 100 drept i flyangrep mot marked i Nigeria",
-      "link": "https://www.nrk.no/nyheter/amnesty_-over-100-drept-i-flyangrep-mot-marked-i-nigeria-1.17880136",
-      "category": "Nigeria",
-      "pubDate": "Mon, 11 May 2026 17:28:39 GMT"
-    },
-    {
-      "title": "Trump lover billigere biff og bensin",
-      "link": "https://www.nrk.no/nyheter/trump-lover-billigere-biff-og-bensin-1.17880158",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 11 May 2026 17:16:09 GMT"
     }
   ]
 }
