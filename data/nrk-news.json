@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-11T17:28:23.851Z",
+  "updatedAt": "2026-05-11T19:16:33.247Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyjs tidligere stabssjef siktet for korrupsjon",
+      "link": "https://www.nrk.no/nyheter/zelenskyjs-tidligere-stabssjef-siktet-for-korrupsjon-1.17880161",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 11 May 2026 18:40:08 GMT"
+    },
+    {
+      "title": "Virusrammet skip setter kursen mot Nederland",
+      "link": "https://www.nrk.no/nyheter/virusrammet-skip-setter-kursen-mot-nederland-1.17880198",
+      "category": "Hantavirus",
+      "pubDate": "Mon, 11 May 2026 18:14:46 GMT"
+    },
+    {
+      "title": "Brann i trevarefabrikk",
+      "link": "https://www.nrk.no/trondelag/brann-i-trevarefabrikk-1.17880134",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 11 May 2026 18:14:02 GMT"
+    },
+    {
+      "title": "Kjemperubin funnet i Myanmar",
+      "link": "https://www.nrk.no/nyheter/kjemperubin-funnet-i-myanmar-1.17880169",
+      "category": "Myanmar",
+      "pubDate": "Mon, 11 May 2026 17:49:43 GMT"
+    },
+    {
+      "title": "Amnesty: Over 100 drept i flyangrep mot marked i Nigeria",
+      "link": "https://www.nrk.no/nyheter/amnesty_-over-100-drept-i-flyangrep-mot-marked-i-nigeria-1.17880136",
+      "category": "Nigeria",
+      "pubDate": "Mon, 11 May 2026 17:28:39 GMT"
+    },
     {
       "title": "Trump lover billigere biff og bensin",
       "link": "https://www.nrk.no/nyheter/trump-lover-billigere-biff-og-bensin-1.17880158",
       "category": "Donald Trump",
       "pubDate": "Mon, 11 May 2026 17:16:09 GMT"
-    },
-    {
-      "title": "Dårlig vær tvinger virusrammet skip til å legge til kai ved Tenerife",
-      "link": "https://www.nrk.no/nyheter/darlig-vaer-tvinger-virusrammet-skip-til-a-legge-til-kai-ved-tenerife-1.17880121",
-      "category": "Hantavirus",
-      "pubDate": "Mon, 11 May 2026 16:39:22 GMT"
-    },
-    {
-      "title": "Person omkom etter togpåkjørsel",
-      "link": "https://www.nrk.no/vestfoldogtelemark/person-omkom-etter-togpakjorsel-1.17879983",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 11 May 2026 16:20:19 GMT"
-    },
-    {
-      "title": "Trump om Irans våpenhvileforslag: «Dumt»",
-      "link": "https://www.nrk.no/nyheter/trump-om-irans-vapenhvileforslag_-_dumt_-1.17880085",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 11 May 2026 16:13:35 GMT"
-    },
-    {
-      "title": "Lørenskog kommune har satt krisestab etter alvorlig IT-hendelse",
-      "link": "https://www.nrk.no/stor-oslo/lorenskog-kommune-har-satt-krisestab-etter-alvorlig-it-hendelse-1.17879636",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 11 May 2026 15:58:36 GMT"
-    },
-    {
-      "title": "Mobiloperatøren Ice melder om driftsproblemer",
-      "link": "https://www.nrk.no/nyheter/mobiloperatoren-ice-melder-om-driftsproblemer--1.17879938",
-      "category": "Telefontrøbbel",
-      "pubDate": "Mon, 11 May 2026 15:56:10 GMT"
     }
   ]
 }
