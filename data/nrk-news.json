@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-11T04:15:17.222Z",
+  "updatedAt": "2026-05-11T08:00:15.745Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Amerikansk cruisepassasjer testet positivt på hantavirus",
-      "link": "https://www.nrk.no/nyheter/amerikansk-cruisepassasjer-testet-positivt-pa-hantavirus-1.17878986",
+      "title": "Tre personar funne omkomne",
+      "link": "https://www.nrk.no/mr/tre-personar-funne-omkomne-1.17879119",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Mon, 11 May 2026 07:23:23 GMT"
+    },
+    {
+      "title": "Franskmann har testet positivt for hantavirus",
+      "link": "https://www.nrk.no/nyheter/franskmann-har-testet-positivt-for-hantavirus-1.17879113",
       "category": "Hantavirus",
-      "pubDate": "Mon, 11 May 2026 03:01:52 GMT"
+      "pubDate": "Mon, 11 May 2026 06:50:38 GMT"
     },
     {
-      "title": "Briller for store verdier stjålet fra butikk i Stokke",
-      "link": "https://www.nrk.no/nyheter/briller-for-store-verdier-stjalet-fra-butikk-i-stokke--1.17878985",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 11 May 2026 02:03:17 GMT"
+      "title": "Prishopp på matvarer",
+      "link": "https://www.nrk.no/nyheter/prishopp-pa-matvarer-1.17879108",
+      "category": "Norsk økonomi",
+      "pubDate": "Mon, 11 May 2026 06:00:16 GMT"
     },
     {
-      "title": "Gutt i tenårene utsatt for ran og voldshendelse i Fredrikstad",
-      "link": "https://www.nrk.no/nyheter/gutt-i-tenarene-utsatt-for-ran-og-voldshendelse-i-fredrikstad-1.17878984",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Mon, 11 May 2026 01:49:17 GMT"
+      "title": "Streikene trappes opp mandag og tirsdag",
+      "link": "https://www.nrk.no/nyheter/streikene-trappes-opp-mandag-og-tirsdag-1.17879034",
+      "category": "Arbeidsliv",
+      "pubDate": "Mon, 11 May 2026 05:50:27 GMT"
     },
     {
-      "title": "Thailands eksstatsminister prøveløslatt fra fengsel",
-      "link": "https://www.nrk.no/nyheter/thailands-eksstatsminister-proveloslatt-fra-fengsel-1.17878983",
-      "category": "Thailand",
-      "pubDate": "Mon, 11 May 2026 01:38:55 GMT"
+      "title": "Salget av allergimedisin øker",
+      "link": "https://www.nrk.no/nordland/salget-av-allergimedisin-oker-1.17879070",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Mon, 11 May 2026 05:35:50 GMT"
     },
     {
-      "title": "Kina bekrefter at Trump kommer til Kina denne uken",
-      "link": "https://www.nrk.no/nyheter/kina-bekrefter-at-trump-kommer-til-kina-denne-uken-1.17878981",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 11 May 2026 01:27:59 GMT"
-    },
-    {
-      "title": "Netanyahu vil at Israel skal klare seg uten USAs militærhjelp",
-      "link": "https://www.nrk.no/nyheter/netanyahu-vil-at-israel-skal-klare-seg-uten-usas-militaerhjelp-1.17878979",
-      "category": "Israel",
-      "pubDate": "Mon, 11 May 2026 00:52:26 GMT"
+      "title": "Høyere terskel for 100 prosent sykemelding",
+      "link": "https://www.nrk.no/nyheter/hoyere-terskel-for-100-prosent-sykemelding-1.17879032",
+      "category": "Helse og livsstil",
+      "pubDate": "Mon, 11 May 2026 05:00:16 GMT"
     }
   ]
 }
