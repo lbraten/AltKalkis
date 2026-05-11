@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-11T21:00:41.363Z",
+  "updatedAt": "2026-05-11T22:32:37.781Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i leilighetskompleks i Holmestrand",
+      "link": "https://www.nrk.no/nyheter/brann-i-leilighetskompleks-i-holmestrand-1.17880328",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 11 May 2026 21:30:37 GMT"
+    },
     {
       "title": "Flere ber Keir Starmer gå av",
       "link": "https://www.nrk.no/nyheter/flere-ber-keir-starmer-ga-av-1.17880317",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyjs-tidligere-stabssjef-siktet-for-korrupsjon-1.17880161",
       "category": "Krigen i Ukraina",
       "pubDate": "Mon, 11 May 2026 18:40:08 GMT"
-    },
-    {
-      "title": "Virusrammet skip setter kursen mot Nederland",
-      "link": "https://www.nrk.no/nyheter/virusrammet-skip-setter-kursen-mot-nederland-1.17880198",
-      "category": "Hantavirus",
-      "pubDate": "Mon, 11 May 2026 18:14:46 GMT"
     }
   ]
 }
