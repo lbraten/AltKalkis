@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-11T22:32:37.781Z",
+  "updatedAt": "2026-05-11T23:59:59.231Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Taxi for tog mellom Skien og Porsgrunn",
+      "link": "https://www.nrk.no/nyheter/taxi-for-tog-mellom-skien-og-porsgrunn-1.17880338",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 11 May 2026 23:10:07 GMT"
+    },
     {
       "title": "Brann i leilighetskompleks i Holmestrand",
       "link": "https://www.nrk.no/nyheter/brann-i-leilighetskompleks-i-holmestrand-1.17880328",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/var-i-karantene_-spansk-borger-har-fatt-pavist-hantavirus-1.17880217",
       "category": "Hantavirus",
       "pubDate": "Mon, 11 May 2026 19:25:28 GMT"
-    },
-    {
-      "title": "Zelenskyjs tidligere stabssjef siktet for korrupsjon",
-      "link": "https://www.nrk.no/nyheter/zelenskyjs-tidligere-stabssjef-siktet-for-korrupsjon-1.17880161",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 11 May 2026 18:40:08 GMT"
     }
   ]
 }
