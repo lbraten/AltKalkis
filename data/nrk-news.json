@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-12T19:56:00.873Z",
+  "updatedAt": "2026-05-12T21:22:32.627Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Stortinget stopper henteekteskap etter vold i nære relasjoner",
+      "link": "https://www.nrk.no/nyheter/stortinget-stopper-henteekteskap-etter-vold-i-naere-relasjoner-1.17882153",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 12 May 2026 20:57:28 GMT"
+    },
+    {
+      "title": "Både buing og applaus for Israel sin Bettan",
+      "link": "https://www.nrk.no/nyheter/bade-buing-og-applaus-for-israel-sin-bettan-1.17882126",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Tue, 12 May 2026 19:51:39 GMT"
+    },
     {
       "title": "Konsumet av vin i verden går ned",
       "link": "https://www.nrk.no/nyheter/konsumet-av-vin-i-verden-gar-ned--1.17882096",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vg_-mistenker-at-en-av-sjaforene-var-pavirket-av-rus--1.17882030",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 12 May 2026 18:25:13 GMT"
-    },
-    {
-      "title": "YS: Enighet i sentrale lønnsforhandlinger for sykehusansatte",
-      "link": "https://www.nrk.no/nyheter/ys_-enighet-i-sentrale-lonnsforhandlinger-for-sykehusansatte-1.17881919",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 12 May 2026 18:17:25 GMT"
-    },
-    {
-      "title": "Trump sier han ikke trenger Xis hjelp",
-      "link": "https://www.nrk.no/nyheter/trump-sier-han-ikke-trenger-xis-hjelp--1.17881701",
-      "category": "Donald Trump",
-      "pubDate": "Tue, 12 May 2026 18:03:05 GMT"
     }
   ]
 }
