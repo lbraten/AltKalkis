@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-12T10:03:43.928Z",
+  "updatedAt": "2026-05-12T12:23:50.965Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Astrup om regjeringens reviderte budsjett: – Nå må Arbeiderpartiet sette foten ned",
-      "link": "https://www.nrk.no/nyheter/astrup-om-regjeringens-reviderte-budsjett_-_-na-ma-arbeiderpartiet-sette-foten-ned-1.17880955",
+      "title": "Trump sier han skal snakke med Cuba",
+      "link": "https://www.nrk.no/nyheter/trump-sier-han-skal-snakke-med-cuba-1.17881376",
+      "category": "Donald Trump",
+      "pubDate": "Tue, 12 May 2026 12:19:35 GMT"
+    },
+    {
+      "title": "Nær 400 mennesker drept i Libanon siden våpenhvilen startet",
+      "link": "https://www.nrk.no/nyheter/naer-400-mennesker-drept-i-libanon-siden-vapenhvilen-startet-1.17881248",
+      "category": "Libanon",
+      "pubDate": "Tue, 12 May 2026 11:57:00 GMT"
+    },
+    {
+      "title": "Oslo: 16-åringer fengslet etter voldshendelse",
+      "link": "https://www.nrk.no/stor-oslo/oslo_-16-aringer-fengslet-etter-voldshendelse-1.17881291",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 12 May 2026 11:38:47 GMT"
+    },
+    {
+      "title": "Auka utgifter til AAP og uføretrygd",
+      "link": "https://www.nrk.no/nyheter/auka-utgifter-til-aap-og-uforetrygd-1.17881275",
       "category": "Statsbudsjettet 2026",
-      "pubDate": "Tue, 12 May 2026 10:01:26 GMT"
+      "pubDate": "Tue, 12 May 2026 11:31:51 GMT"
     },
     {
-      "title": "De største endringene i revidert nasjonalbudsjett",
-      "link": "https://www.nrk.no/nyheter/de-storste-endringene-i-revidert-nasjonalbudsjett-1.17880859",
+      "title": "Kuwait sier de stanset iransk gruppe som forsøkte å gå i land",
+      "link": "https://www.nrk.no/nyheter/kuwait-sier-de-stanset-iransk-gruppe-som-forsokte-a-ga-i-land-1.17880468",
+      "category": "Kuwait",
+      "pubDate": "Tue, 12 May 2026 11:17:04 GMT"
+    },
+    {
+      "title": "Senker forventningene til boliginvesteringer kraftig",
+      "link": "https://www.nrk.no/nyheter/senker-forventningene-til-boliginvesteringer-kraftig-1.17881183",
       "category": "Statsbudsjettet 2026",
-      "pubDate": "Tue, 12 May 2026 10:01:19 GMT"
-    },
-    {
-      "title": "Stenseng-svar på streiken: Øker støtten til Nav",
-      "link": "https://www.nrk.no/nyheter/stenseng-svar-pa-streiken_-oker-stotten-til-nav-1.17880922",
-      "category": "Statsbudsjettet 2026",
-      "pubDate": "Tue, 12 May 2026 09:45:42 GMT"
-    },
-    {
-      "title": "MDG om klimakutt: Vi er i boks",
-      "link": "https://www.nrk.no/nyheter/mdg-om-klimakutt_-vi-er-i-boks-1.17880815",
-      "category": "Statsbudsjettet 2026",
-      "pubDate": "Tue, 12 May 2026 09:45:10 GMT"
-    },
-    {
-      "title": "Kreml kommenterer Putins uttalelse om at krigen i Ukraina «går mot slutten»",
-      "link": "https://www.nrk.no/nyheter/kreml-kommenterer-putins-uttalelse-om-at-krigen-i-ukraina-_gar-mot-slutten_-1.17880942",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 12 May 2026 09:44:54 GMT"
-    },
-    {
-      "title": "UD: Norsk diplomat i Teheran for samtaler",
-      "link": "https://www.nrk.no/nyheter/ud_-norsk-diplomat-i-teheran-for-samtaler-1.17880940",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 12 May 2026 09:36:26 GMT"
+      "pubDate": "Tue, 12 May 2026 11:04:13 GMT"
     }
   ]
 }
