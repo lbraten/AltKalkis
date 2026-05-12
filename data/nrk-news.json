@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-12T15:20:47.097Z",
+  "updatedAt": "2026-05-12T17:32:16.796Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Storbritannia sender droner, fly og krigsskip til Hormuzstredet, melder Sky News",
+      "link": "https://www.nrk.no/nyheter/storbritannia-sender-droner_-fly-og-krigsskip-til-hormuzstredet_-melder-sky-news-1.17881944",
+      "category": "Storbritannia",
+      "pubDate": "Tue, 12 May 2026 17:14:15 GMT"
+    },
+    {
+      "title": "Serbia og Nato har holdt sin første felles militærøvelse",
+      "link": "https://www.nrk.no/nyheter/serbia-og-nato-har-holdt-sin-forste-felles-militaerovelse-1.17881816",
+      "category": "Nato",
+      "pubDate": "Tue, 12 May 2026 16:51:49 GMT"
+    },
+    {
+      "title": "Alvorlig trafikkulykke i Enebakk",
+      "link": "https://www.nrk.no/stor-oslo/alvorlig-trafikkulykke-i-enebakk-1.17881911",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 12 May 2026 16:35:50 GMT"
+    },
+    {
+      "title": "Ukraina har angrepet gassanlegg i Russland",
+      "link": "https://www.nrk.no/nyheter/ukraina-har-angrepet-gassanlegg-i-russland-1.17881839",
+      "category": "Russland",
+      "pubDate": "Tue, 12 May 2026 16:18:55 GMT"
+    },
     {
       "title": "Brudd i forhandlingene for asfaltarbeid- og veivedlikeholdssektoren",
       "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-for-asfaltarbeid--og-veivedlikeholdssektoren-1.17881833",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/over-hundre-labour-parlamentarikere-har-undertegnet-brev-med-stotte-til-stamer-1.17881721",
       "category": "Storbritannia",
       "pubDate": "Tue, 12 May 2026 14:41:52 GMT"
-    },
-    {
-      "title": "Far dømt til forvaring for å ha filmet egne overgrep på sine to små døtre",
-      "link": "https://www.nrk.no/vestfoldogtelemark/far-domt-til-forvaring-for-a-ha-filmet-egne-overgrep-pa-sine-to-sma-dotre-1.17881782",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 12 May 2026 14:40:12 GMT"
-    },
-    {
-      "title": "Russland har gjennomført test av interkontinentalt missil",
-      "link": "https://www.nrk.no/nyheter/russland-har-gjennomfort-test-av-interkontinentalt-missil-1.17881662",
-      "category": "Russland",
-      "pubDate": "Tue, 12 May 2026 13:42:28 GMT"
-    },
-    {
-      "title": "Mann dømt etter å ha skutt inne på Nav-kontor",
-      "link": "https://www.nrk.no/stor-oslo/mann-domt-etter-a-ha-skutt-inne-pa-nav-kontor-1.17881690",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 12 May 2026 13:33:42 GMT"
-    },
-    {
-      "title": "Italiener innlagt på sykehus med mistenkt hantavirus",
-      "link": "https://www.nrk.no/nyheter/italiener-innlagt-pa-sykehus-med-mistenkt-hantavirus-1.17881599",
-      "category": "Hantavirus",
-      "pubDate": "Tue, 12 May 2026 13:08:59 GMT"
     }
   ]
 }
