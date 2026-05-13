@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-13T21:41:13.179Z",
+  "updatedAt": "2026-05-13T23:06:03.972Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Partene i bryggerinæringen mekler på overtid",
+      "link": "https://www.nrk.no/nyheter/partene-i-bryggerinaeringen-mekler-pa-overtid-1.17883763",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Wed, 13 May 2026 22:06:56 GMT"
+    },
     {
       "title": "Libanon: Ti mennesker drept i nye israelske angrep i sør – 22 drepte på én dag",
       "link": "https://www.nrk.no/nyheter/libanon_-ti-mennesker-drept-i-nye-israelske-angrep-i-sor-_-22-drepte-pa-en-dag-1.17883762",
@@ -15,8 +21,8 @@
       "pubDate": "Wed, 13 May 2026 20:59:58 GMT"
     },
     {
-      "title": "Jonas Lovv avslutta juryprøven",
-      "link": "https://www.nrk.no/nyheter/jonas-lovv-avslutta-juryproven-1.17883562",
+      "title": "Jonas Lovv avslutta juryprøven: – Trur eg fekk litt overtenning",
+      "link": "https://www.nrk.no/nyheter/jonas-lovv-avslutta-juryproven_-_-trur-eg-fekk-litt-overtenning-1.17883562",
       "category": "MGP og Eurovision Song Contest 2026",
       "pubDate": "Wed, 13 May 2026 20:40:55 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/mr/ankar-forvaringsdom-etter-pastandar-om-fleire-valdtekter-av-barn-1.17883741",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Wed, 13 May 2026 20:19:47 GMT"
-    },
-    {
-      "title": "Ungarn innkaller russisk ambassadør etter droneangrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/ungarn-innkaller-russisk-ambassador-etter-droneangrep-i-ukraina-1.17883721",
-      "category": "Ungarn",
-      "pubDate": "Wed, 13 May 2026 20:07:39 GMT"
     }
   ]
 }
