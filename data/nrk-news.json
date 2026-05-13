@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-13T04:29:28.136Z",
+  "updatedAt": "2026-05-13T07:38:19.867Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge og Romania til kamp mot desinformasjon",
+      "link": "https://www.nrk.no/nyheter/norge-og-romania-til-kamp-mot-desinformasjon-1.17882316",
+      "category": "EØS-avtalen",
+      "pubDate": "Wed, 13 May 2026 06:53:37 GMT"
+    },
+    {
+      "title": "Tvinger regjeringen til å fortsette flystøtte",
+      "link": "https://www.nrk.no/nyheter/tvinger-regjeringen-til-a-fortsette-flystotte-1.17882293",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Wed, 13 May 2026 06:07:35 GMT"
+    },
+    {
+      "title": "Russland: har skutt ned 286 ukrainske droner",
+      "link": "https://www.nrk.no/nyheter/russland_-har-skutt-ned-286-ukrainske-droner-1.17882241",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 13 May 2026 05:42:01 GMT"
+    },
+    {
+      "title": "Enighet i treforedlingsindustrien",
+      "link": "https://www.nrk.no/nyheter/enighet-i-treforedlingsindustrien-1.17882231",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 13 May 2026 04:34:03 GMT"
+    },
     {
       "title": "Tek-topper på Trumps presidentfly",
       "link": "https://www.nrk.no/nyheter/tek-topper-pa-trumps-presidentfly-1.17882184",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-to-drept-i-angrep-mot-zelenskyjs-hjemby-1.17882186",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 13 May 2026 02:15:29 GMT"
-    },
-    {
-      "title": "Australia skal delta i Hormuz-innsats",
-      "link": "https://www.nrk.no/nyheter/australia-skal-delta-i-hormuz-innsats-1.17882185",
-      "category": "Australia",
-      "pubDate": "Wed, 13 May 2026 01:23:55 GMT"
-    },
-    {
-      "title": "Fransk kvinne får pustehjelp etter hantavirussmitte",
-      "link": "https://www.nrk.no/nyheter/fransk-kvinne-far-pustehjelp-etter-hantavirussmitte-1.17882181",
-      "category": "Hantavirus",
-      "pubDate": "Wed, 13 May 2026 01:16:21 GMT"
-    },
-    {
-      "title": "Tredje Oscar-fest på rad for Conan O'Brien",
-      "link": "https://www.nrk.no/nyheter/tredje-oscar-fest-pa-rad-for-conan-o_brien-1.17882162",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 12 May 2026 23:25:29 GMT"
-    },
-    {
-      "title": "Stortinget stopper henteekteskap etter vold i nære relasjoner",
-      "link": "https://www.nrk.no/nyheter/stortinget-stopper-henteekteskap-etter-vold-i-naere-relasjoner-1.17882153",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 12 May 2026 20:57:28 GMT"
     }
   ]
 }
