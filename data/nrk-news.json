@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-13T17:35:31.189Z",
+  "updatedAt": "2026-05-13T19:58:02.768Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israels regjeringskoalisjon foreslår å oppløse parlamentet for å skrive ut nyvalg",
+      "link": "https://www.nrk.no/nyheter/israels-regjeringskoalisjon-foreslar-a-opplose-parlamentet-for-a-skrive-ut-nyvalg-1.17883703",
+      "category": "Israel",
+      "pubDate": "Wed, 13 May 2026 19:47:15 GMT"
+    },
+    {
+      "title": "Netflix øker prisene i Norge med 20 kroner",
+      "link": "https://www.nrk.no/nyheter/netflix-oker-prisene-i-norge-med-20-kroner-1.17883688",
+      "category": "Strømmetjenester",
+      "pubDate": "Wed, 13 May 2026 19:10:32 GMT"
+    },
+    {
+      "title": "Senatet godkjenner Kevin Warsh som ny sentralbanksjef",
+      "link": "https://www.nrk.no/nyheter/senatet-godkjenner-kevin-warsh-som-ny-sentralbanksjef-1.17883576",
+      "category": "USA",
+      "pubDate": "Wed, 13 May 2026 18:53:14 GMT"
+    },
     {
       "title": "Netanyahu besøkte Emiratene under Iran-krigen, ifølge statsministerens kontor",
       "link": "https://www.nrk.no/nyheter/netanyahu-besokte-emiratene-under-iran-krigen_-ifolge-statsministerens-kontor-1.17883572",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tysk-barnelege-anklaget-for-130-overgrep-mot-barn-1.17883516",
       "category": "Tyskland",
       "pubDate": "Wed, 13 May 2026 17:05:17 GMT"
-    },
-    {
-      "title": "Putin bytter ut guvernørene i to fylker på grensa til Ukraina",
-      "link": "https://www.nrk.no/nyheter/putin-bytter-ut-guvernorene-i-to-fylker-pa-grensa-til-ukraina-1.17883560",
-      "category": "Russland",
-      "pubDate": "Wed, 13 May 2026 16:57:10 GMT"
-    },
-    {
-      "title": "Over 10 000 hjem ødelagt i Libanon siden våpenhvilen med Israel",
-      "link": "https://www.nrk.no/nyheter/over-10-000-hjem-odelagt-i-libanon-siden-vapenhvilen-med-israel-1.17883548",
-      "category": "Libanon og Israel",
-      "pubDate": "Wed, 13 May 2026 16:54:30 GMT"
-    },
-    {
-      "title": "Ungarn avsto da østlige Nato-land ble enige om å styrke samarbeidet",
-      "link": "https://www.nrk.no/nyheter/ungarn-avsto-da-ostlige-nato-land-ble-enige-om-a-styrke-samarbeidet-1.17883428",
-      "category": "Nato",
-      "pubDate": "Wed, 13 May 2026 16:46:30 GMT"
     }
   ]
 }
