@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-13T00:00:59.847Z",
+  "updatedAt": "2026-05-13T04:29:28.136Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tek-topper på Trumps presidentfly",
+      "link": "https://www.nrk.no/nyheter/tek-topper-pa-trumps-presidentfly-1.17882184",
+      "category": "USA",
+      "pubDate": "Wed, 13 May 2026 02:30:48 GMT"
+    },
+    {
+      "title": "Minst to drept i angrep mot Zelenskyjs hjemby",
+      "link": "https://www.nrk.no/nyheter/minst-to-drept-i-angrep-mot-zelenskyjs-hjemby-1.17882186",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 13 May 2026 02:15:29 GMT"
+    },
+    {
+      "title": "Australia skal delta i Hormuz-innsats",
+      "link": "https://www.nrk.no/nyheter/australia-skal-delta-i-hormuz-innsats-1.17882185",
+      "category": "Australia",
+      "pubDate": "Wed, 13 May 2026 01:23:55 GMT"
+    },
+    {
+      "title": "Fransk kvinne får pustehjelp etter hantavirussmitte",
+      "link": "https://www.nrk.no/nyheter/fransk-kvinne-far-pustehjelp-etter-hantavirussmitte-1.17882181",
+      "category": "Hantavirus",
+      "pubDate": "Wed, 13 May 2026 01:16:21 GMT"
+    },
     {
       "title": "Tredje Oscar-fest på rad for Conan O'Brien",
       "link": "https://www.nrk.no/nyheter/tredje-oscar-fest-pa-rad-for-conan-o_brien-1.17882162",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/stortinget-stopper-henteekteskap-etter-vold-i-naere-relasjoner-1.17882153",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 12 May 2026 20:57:28 GMT"
-    },
-    {
-      "title": "Både buing og applaus for Israel sin Bettan",
-      "link": "https://www.nrk.no/nyheter/bade-buing-og-applaus-for-israel-sin-bettan-1.17882126",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Tue, 12 May 2026 19:51:39 GMT"
-    },
-    {
-      "title": "Konsumet av vin i verden går ned",
-      "link": "https://www.nrk.no/nyheter/konsumet-av-vin-i-verden-gar-ned--1.17882096",
-      "category": "Alkohol",
-      "pubDate": "Tue, 12 May 2026 19:24:50 GMT"
-    },
-    {
-      "title": "Brudd i oljeserviceoppgjøret – kan bli streik på norsk sokkel",
-      "link": "https://www.nrk.no/nyheter/brudd-i-oljeserviceoppgjoret-_-kan-bli-streik-pa-norsk-sokkel-1.17882059",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 12 May 2026 19:10:19 GMT"
-    },
-    {
-      "title": "To russebusser avskiltet i Ålesund – brøt bruksforbud samme dag",
-      "link": "https://www.nrk.no/mr/to-russebusser-avskiltet-i-alesund-_-brot-bruksforbud-samme-dag-1.17881775",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 12 May 2026 18:30:07 GMT"
     }
   ]
 }
