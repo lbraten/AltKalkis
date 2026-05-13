@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-12T22:40:52.279Z",
+  "updatedAt": "2026-05-13T00:00:59.847Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tredje Oscar-fest på rad for Conan O'Brien",
+      "link": "https://www.nrk.no/nyheter/tredje-oscar-fest-pa-rad-for-conan-o_brien-1.17882162",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 12 May 2026 23:25:29 GMT"
+    },
     {
       "title": "Stortinget stopper henteekteskap etter vold i nære relasjoner",
       "link": "https://www.nrk.no/nyheter/stortinget-stopper-henteekteskap-etter-vold-i-naere-relasjoner-1.17882153",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/mr/to-russebusser-avskiltet-i-alesund-_-brot-bruksforbud-samme-dag-1.17881775",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Tue, 12 May 2026 18:30:07 GMT"
-    },
-    {
-      "title": "VG: Mistenker at en av sjåførene var påvirket av rus",
-      "link": "https://www.nrk.no/nyheter/vg_-mistenker-at-en-av-sjaforene-var-pavirket-av-rus--1.17882030",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 12 May 2026 18:25:13 GMT"
     }
   ]
 }
