@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-14T05:08:39.270Z",
+  "updatedAt": "2026-05-14T08:08:07.102Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "To drepne i russiske angrep mot Ukraina",
-      "link": "https://www.nrk.no/nyheter/to-drepne-i-russiske-angrep-mot-ukraina-1.17883788",
+      "title": "To trafikkulykker på kort tid: – Krevende kjøreforhold",
+      "link": "https://www.nrk.no/innlandet/to-trafikkulykker-pa-kort-tid_-_-krevende-kjoreforhold-1.17883868",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Thu, 14 May 2026 07:27:01 GMT"
+    },
+    {
+      "title": "Skip tatt i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/skip-tatt-i-persiabukta-1.17883875",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 14 May 2026 07:26:48 GMT"
+    },
+    {
+      "title": "Ukraina: Store øydeleggingar etter russiske luftangrep",
+      "link": "https://www.nrk.no/nyheter/ukraina_-store-oydeleggingar-etter-russiske-luftangrep-1.17883821",
       "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 14 May 2026 04:53:53 GMT"
+      "pubDate": "Thu, 14 May 2026 07:22:26 GMT"
     },
     {
-      "title": "Nær 90 menneske drepne i storm i India",
-      "link": "https://www.nrk.no/nyheter/naer-90-menneske-drepne-i-storm-i-india-1.17883787",
-      "category": "India",
-      "pubDate": "Thu, 14 May 2026 04:39:10 GMT"
-    },
-    {
-      "title": "USA stanser utplassering av 4000 soldater i Europa",
-      "link": "https://www.nrk.no/nyheter/usa-stanser-utplassering-av-4000-soldater-i-europa-1.17883786",
-      "category": "USA",
-      "pubDate": "Thu, 14 May 2026 04:29:39 GMT"
-    },
-    {
-      "title": "Toppmøtet mellom Trump og Xi har startet",
-      "link": "https://www.nrk.no/nyheter/toppmotet-mellom-trump-og-xi-har-startet-1.17883779",
-      "category": "USA og Kina",
-      "pubDate": "Thu, 14 May 2026 03:25:08 GMT"
-    },
-    {
-      "title": "Tre skadet i brann i Bamble",
-      "link": "https://www.nrk.no/nyheter/tre-skadet-i-brann-i-bamble-1.17883777",
+      "title": "To på sykehus etter brann i Bamble: Skal avhøres",
+      "link": "https://www.nrk.no/vestfoldogtelemark/to-pa-sykehus-etter-brann-i-bamble_-skal-avhores-1.17883801",
       "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 14 May 2026 01:30:17 GMT"
+      "pubDate": "Thu, 14 May 2026 06:28:14 GMT"
     },
     {
-      "title": "Kyiv-ordfører: Eksplosjoner i hovedstaden",
-      "link": "https://www.nrk.no/nyheter/kyiv-ordforer_-eksplosjoner-i-hovedstaden-1.17883773",
+      "title": "Reuters: Zelenskyjs tidligere stabssjef Andrij Jermak er pågrepet – siktet for hvitvasking",
+      "link": "https://www.nrk.no/nyheter/reuters_-zelenskyjs-tidligere-stabssjef-andrij-jermak-er-pagrepet-_-siktet-for-hvitvasking-1.17883795",
       "category": "Ukraina",
-      "pubDate": "Thu, 14 May 2026 00:43:41 GMT"
+      "pubDate": "Thu, 14 May 2026 06:18:54 GMT"
+    },
+    {
+      "title": "Madonna, Shakira og BTS spelar under VM-finalen",
+      "link": "https://www.nrk.no/nyheter/madonna_-shakira-og-bts-spelar-under-vm-finalen-1.17883790",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Thu, 14 May 2026 05:23:25 GMT"
     }
   ]
 }
