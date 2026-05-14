@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-14T01:25:30.652Z",
+  "updatedAt": "2026-05-14T05:08:39.270Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To drepne i russiske angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/to-drepne-i-russiske-angrep-mot-ukraina-1.17883788",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 14 May 2026 04:53:53 GMT"
+    },
+    {
+      "title": "Nær 90 menneske drepne i storm i India",
+      "link": "https://www.nrk.no/nyheter/naer-90-menneske-drepne-i-storm-i-india-1.17883787",
+      "category": "India",
+      "pubDate": "Thu, 14 May 2026 04:39:10 GMT"
+    },
+    {
+      "title": "USA stanser utplassering av 4000 soldater i Europa",
+      "link": "https://www.nrk.no/nyheter/usa-stanser-utplassering-av-4000-soldater-i-europa-1.17883786",
+      "category": "USA",
+      "pubDate": "Thu, 14 May 2026 04:29:39 GMT"
+    },
+    {
+      "title": "Toppmøtet mellom Trump og Xi har startet",
+      "link": "https://www.nrk.no/nyheter/toppmotet-mellom-trump-og-xi-har-startet-1.17883779",
+      "category": "USA og Kina",
+      "pubDate": "Thu, 14 May 2026 03:25:08 GMT"
+    },
+    {
+      "title": "Tre skadet i brann i Bamble",
+      "link": "https://www.nrk.no/nyheter/tre-skadet-i-brann-i-bamble-1.17883777",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 14 May 2026 01:30:17 GMT"
+    },
     {
       "title": "Kyiv-ordfører: Eksplosjoner i hovedstaden",
       "link": "https://www.nrk.no/nyheter/kyiv-ordforer_-eksplosjoner-i-hovedstaden-1.17883773",
       "category": "Ukraina",
       "pubDate": "Thu, 14 May 2026 00:43:41 GMT"
-    },
-    {
-      "title": "Alle reddet etter flystyrt i havet utenfor Florida-kysten",
-      "link": "https://www.nrk.no/nyheter/alle-reddet-etter-flystyrt-i-havet-utenfor-florida-kysten-1.17883772",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 14 May 2026 00:20:39 GMT"
-    },
-    {
-      "title": "Enighet mellom partene i bryggerinæringen",
-      "link": "https://www.nrk.no/nyheter/enighet-mellom-partene-i-bryggerinaeringen-1.17883771",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Wed, 13 May 2026 23:46:12 GMT"
-    },
-    {
-      "title": "Mann dømt for overgrep mot over 40 barn i Sverige",
-      "link": "https://www.nrk.no/nyheter/mann-domt-for-overgrep-mot-over-40-barn-i-sverige-1.17883770",
-      "category": "Sverige",
-      "pubDate": "Wed, 13 May 2026 23:27:04 GMT"
-    },
-    {
-      "title": "Partene i bryggerinæringen mekler på overtid",
-      "link": "https://www.nrk.no/nyheter/partene-i-bryggerinaeringen-mekler-pa-overtid-1.17883763",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Wed, 13 May 2026 22:06:56 GMT"
-    },
-    {
-      "title": "Libanon: Ti mennesker drept i nye israelske angrep i sør – 22 drepte på én dag",
-      "link": "https://www.nrk.no/nyheter/libanon_-ti-mennesker-drept-i-nye-israelske-angrep-i-sor-_-22-drepte-pa-en-dag-1.17883762",
-      "category": "Libanon",
-      "pubDate": "Wed, 13 May 2026 21:03:23 GMT"
     }
   ]
 }
