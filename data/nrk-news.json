@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-14T19:18:04.127Z",
+  "updatedAt": "2026-05-14T20:53:07.553Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Murray ny helseminister i Storbritannia",
+      "link": "https://www.nrk.no/nyheter/murray-ny-helseminister-i-storbritannia-1.17884368",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 14 May 2026 19:50:37 GMT"
+    },
     {
       "title": "Varetektsfengslet i fire uker etter Økern-drapet",
       "link": "https://www.nrk.no/nyheter/varetektsfengslet-i-fire-uker-etter-okern-drapet-1.17884361",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-ti-drept-i-russisk-angrepsbolge-mot-kyiv-1.17884254",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 14 May 2026 18:05:04 GMT"
-    },
-    {
-      "title": "Nå gjelder det for Norge: – Jeg har jobbet ræven av meg",
-      "link": "https://www.nrk.no/kultur/na-gjelder-det-for-norge_-_-jeg-har-jobbet-raeven-av-meg-1.17884288",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Thu, 14 May 2026 17:20:02 GMT"
     }
   ]
 }
