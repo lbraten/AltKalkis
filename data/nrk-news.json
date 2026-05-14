@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-13T23:06:03.972Z",
+  "updatedAt": "2026-05-14T01:25:30.652Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kyiv-ordfører: Eksplosjoner i hovedstaden",
+      "link": "https://www.nrk.no/nyheter/kyiv-ordforer_-eksplosjoner-i-hovedstaden-1.17883773",
+      "category": "Ukraina",
+      "pubDate": "Thu, 14 May 2026 00:43:41 GMT"
+    },
+    {
+      "title": "Alle reddet etter flystyrt i havet utenfor Florida-kysten",
+      "link": "https://www.nrk.no/nyheter/alle-reddet-etter-flystyrt-i-havet-utenfor-florida-kysten-1.17883772",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 14 May 2026 00:20:39 GMT"
+    },
+    {
+      "title": "Enighet mellom partene i bryggerinæringen",
+      "link": "https://www.nrk.no/nyheter/enighet-mellom-partene-i-bryggerinaeringen-1.17883771",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Wed, 13 May 2026 23:46:12 GMT"
+    },
+    {
+      "title": "Mann dømt for overgrep mot over 40 barn i Sverige",
+      "link": "https://www.nrk.no/nyheter/mann-domt-for-overgrep-mot-over-40-barn-i-sverige-1.17883770",
+      "category": "Sverige",
+      "pubDate": "Wed, 13 May 2026 23:27:04 GMT"
+    },
     {
       "title": "Partene i bryggerinæringen mekler på overtid",
       "link": "https://www.nrk.no/nyheter/partene-i-bryggerinaeringen-mekler-pa-overtid-1.17883763",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon_-ti-mennesker-drept-i-nye-israelske-angrep-i-sor-_-22-drepte-pa-en-dag-1.17883762",
       "category": "Libanon",
       "pubDate": "Wed, 13 May 2026 21:03:23 GMT"
-    },
-    {
-      "title": "Emiratene benekter at Netanyahu var på besøk",
-      "link": "https://www.nrk.no/nyheter/emiratene-benekter-at-netanyahu-var-pa-besok-1.17883707",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 13 May 2026 20:59:58 GMT"
-    },
-    {
-      "title": "Jonas Lovv avslutta juryprøven: – Trur eg fekk litt overtenning",
-      "link": "https://www.nrk.no/nyheter/jonas-lovv-avslutta-juryproven_-_-trur-eg-fekk-litt-overtenning-1.17883562",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Wed, 13 May 2026 20:40:55 GMT"
-    },
-    {
-      "title": "Politiet stoppet bil med russ i bagasjerommet",
-      "link": "https://www.nrk.no/nyheter/politiet-stoppet-bil-med-russ-i-bagasjerommet--1.17883737",
-      "category": "Russefeiring",
-      "pubDate": "Wed, 13 May 2026 20:27:23 GMT"
-    },
-    {
-      "title": "Ankar forvaringsdom etter påstandar om fleire valdtekter av barn",
-      "link": "https://www.nrk.no/mr/ankar-forvaringsdom-etter-pastandar-om-fleire-valdtekter-av-barn-1.17883741",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 13 May 2026 20:19:47 GMT"
     }
   ]
 }
