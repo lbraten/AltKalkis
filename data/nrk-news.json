@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-14T22:12:46.878Z",
+  "updatedAt": "2026-05-14T23:28:31.509Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ny runde med samtaler mellom Israel og Libanon",
+      "link": "https://www.nrk.no/nyheter/ny-runde-med-samtaler-mellom-israel-og-libanon-1.17884424",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 14 May 2026 22:39:13 GMT"
+    },
     {
       "title": "Norge er med i ESC-finalen",
       "link": "https://www.nrk.no/nyheter/norge-er-med-i-esc-finalen-1.17884420",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hizbollah-sier-de-har-angrepet-israelske-soldater-1.17884319",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 14 May 2026 19:07:18 GMT"
-    },
-    {
-      "title": "Mann knivstukken i Stavanger",
-      "link": "https://www.nrk.no/rogaland/mann-knivstukken-i-stavanger-1.17884320",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Thu, 14 May 2026 18:06:53 GMT"
     }
   ]
 }
