@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-14T20:53:07.553Z",
+  "updatedAt": "2026-05-14T22:12:46.878Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge er med i ESC-finalen",
+      "link": "https://www.nrk.no/nyheter/norge-er-med-i-esc-finalen-1.17884420",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Thu, 14 May 2026 21:10:17 GMT"
+    },
+    {
+      "title": "Cuba: Fikk besøk av CIA-sjefen",
+      "link": "https://www.nrk.no/nyheter/cuba_-fikk-besok-av-cia-sjefen-1.17884404",
+      "category": "Cuba",
+      "pubDate": "Thu, 14 May 2026 21:01:52 GMT"
+    },
     {
       "title": "Murray ny helseminister i Storbritannia",
       "link": "https://www.nrk.no/nyheter/murray-ny-helseminister-i-storbritannia-1.17884368",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/rogaland/mann-knivstukken-i-stavanger-1.17884320",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Thu, 14 May 2026 18:06:53 GMT"
-    },
-    {
-      "title": "41 personer i USA undersøkes for hantavirus",
-      "link": "https://www.nrk.no/nyheter/41-personer-i-usa-undersokes-for-hantavirus-1.17884317",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 14 May 2026 18:06:25 GMT"
-    },
-    {
-      "title": "Minst ti drept i russisk angrepsbølge mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/minst-ti-drept-i-russisk-angrepsbolge-mot-kyiv-1.17884254",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 14 May 2026 18:05:04 GMT"
     }
   ]
 }
