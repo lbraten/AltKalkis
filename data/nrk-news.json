@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-14T10:56:21.276Z",
+  "updatedAt": "2026-05-14T12:56:22.897Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dronning Margrethe innlagt på sykehus",
+      "link": "https://www.nrk.no/nyheter/dronning-margrethe-innlagt-pa-sykehus-1.17884072",
+      "category": "high",
+      "pubDate": "Thu, 14 May 2026 12:45:18 GMT"
+    },
+    {
+      "title": "Storbritannias helseminister går av",
+      "link": "https://www.nrk.no/nyheter/storbritannias-helseminister-gar-av-1.17883792",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 14 May 2026 12:08:55 GMT"
+    },
+    {
+      "title": "Færre fangar i russiske fengsel",
+      "link": "https://www.nrk.no/nyheter/faerre-fangar-i-russiske-fengsel-1.17884030",
+      "category": "Russland",
+      "pubDate": "Thu, 14 May 2026 11:52:02 GMT"
+    },
+    {
+      "title": "Frykta tak ville blåse vekk – sperra av gate",
+      "link": "https://www.nrk.no/vestland/frykta-tak-ville-blase-vekk-_-sperra-av-gate--1.17884042",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 14 May 2026 11:11:45 GMT"
+    },
     {
       "title": "Trump inviterer Xi til USA i september",
       "link": "https://www.nrk.no/nyheter/trump-inviterer-xi-til-usa-i-september-1.17884008",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/russlands-generalkonsulat-markerer-grensesettingen-1.17883997",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Thu, 14 May 2026 10:32:10 GMT"
-    },
-    {
-      "title": "Ny mann siktet etter Økern-drapet",
-      "link": "https://www.nrk.no/stor-oslo/ny-mann-siktet-etter-okern-drapet-1.17883982",
-      "category": "Drapet på Økern",
-      "pubDate": "Thu, 14 May 2026 10:18:33 GMT"
-    },
-    {
-      "title": "Dødstala etter russisk luftangrep stig",
-      "link": "https://www.nrk.no/nyheter/dodstala-etter-russisk-luftangrep-stig-1.17883977",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 14 May 2026 10:17:40 GMT"
-    },
-    {
-      "title": "Russland: Putin skal besøke Kina",
-      "link": "https://www.nrk.no/nyheter/russland_-putin-skal-besoke-kina-1.17883918",
-      "category": "Kina og Russland",
-      "pubDate": "Thu, 14 May 2026 09:42:01 GMT"
-    },
-    {
-      "title": "Kritisk skadd etter brann i Bamble",
-      "link": "https://www.nrk.no/vestfoldogtelemark/kritisk-skadd-etter-brann-i-bamble-1.17883909",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 14 May 2026 09:26:48 GMT"
     }
   ]
 }
