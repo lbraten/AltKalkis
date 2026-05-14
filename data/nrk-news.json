@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-14T12:56:22.897Z",
+  "updatedAt": "2026-05-14T15:23:13.165Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Fare for hungersnød i Somalia, advarer FN-eksperter",
+      "link": "https://www.nrk.no/nyheter/fare-for-hungersnod-i-somalia_-advarer-fn-eksperter-1.17884196",
+      "category": "Somalia",
+      "pubDate": "Thu, 14 May 2026 14:34:47 GMT"
+    },
+    {
+      "title": "Iran har åpnet Hormuzstredet for kinesiske skip",
+      "link": "https://www.nrk.no/nyheter/iran-har-apnet-hormuzstredet-for-kinesiske-skip-1.17884170",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 14 May 2026 14:14:02 GMT"
+    },
+    {
+      "title": "Luftambulanse til arbeidsulukke i Bergen",
+      "link": "https://www.nrk.no/vestland/luftambulanse-til-arbeidsulukke-i-bergen-1.17884182",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 14 May 2026 13:57:32 GMT"
+    },
+    {
+      "title": "Cuba vurderer hjelp fra USA",
+      "link": "https://www.nrk.no/nyheter/cuba-vurderer-hjelp-fra-usa-1.17884123",
+      "category": "Cuba",
+      "pubDate": "Thu, 14 May 2026 13:27:45 GMT"
+    },
+    {
+      "title": "Snøskred i Røldal stenger fv. 520",
+      "link": "https://www.nrk.no/rogaland/snoskred-i-roldal-stenger-fv.-520-1.17884061",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Thu, 14 May 2026 13:17:48 GMT"
+    },
+    {
       "title": "Dronning Margrethe innlagt på sykehus",
       "link": "https://www.nrk.no/nyheter/dronning-margrethe-innlagt-pa-sykehus-1.17884072",
-      "category": "high",
+      "category": "Danmark",
       "pubDate": "Thu, 14 May 2026 12:45:18 GMT"
-    },
-    {
-      "title": "Storbritannias helseminister går av",
-      "link": "https://www.nrk.no/nyheter/storbritannias-helseminister-gar-av-1.17883792",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 14 May 2026 12:08:55 GMT"
-    },
-    {
-      "title": "Færre fangar i russiske fengsel",
-      "link": "https://www.nrk.no/nyheter/faerre-fangar-i-russiske-fengsel-1.17884030",
-      "category": "Russland",
-      "pubDate": "Thu, 14 May 2026 11:52:02 GMT"
-    },
-    {
-      "title": "Frykta tak ville blåse vekk – sperra av gate",
-      "link": "https://www.nrk.no/vestland/frykta-tak-ville-blase-vekk-_-sperra-av-gate--1.17884042",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 14 May 2026 11:11:45 GMT"
-    },
-    {
-      "title": "Trump inviterer Xi til USA i september",
-      "link": "https://www.nrk.no/nyheter/trump-inviterer-xi-til-usa-i-september-1.17884008",
-      "category": "USA og Kina",
-      "pubDate": "Thu, 14 May 2026 10:47:09 GMT"
-    },
-    {
-      "title": "Russlands generalkonsulat markerer grensesettingen",
-      "link": "https://www.nrk.no/tromsogfinnmark/russlands-generalkonsulat-markerer-grensesettingen-1.17883997",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 14 May 2026 10:32:10 GMT"
     }
   ]
 }
