@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-15T22:00:53.634Z",
+  "updatedAt": "2026-05-15T23:28:42.191Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Båtbrann i Eigersund",
+      "link": "https://www.nrk.no/nyheter/batbrann-i-eigersund-1.17885863",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Fri, 15 May 2026 22:32:02 GMT"
+    },
     {
       "title": "AFP: Boeing bekrefter 200 fly til Kina",
       "link": "https://www.nrk.no/nyheter/afp_-boeing-bekrefter-200-fly-til-kina-1.17885862",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/innlandet/turgaer-i-jotunheimen-omkom-1.17885669",
       "category": "high",
       "pubDate": "Fri, 15 May 2026 19:12:06 GMT"
-    },
-    {
-      "title": "Libanon: Tre helsearbeidere drept",
-      "link": "https://www.nrk.no/nyheter/libanon_-tre-helsearbeidere-drept-1.17885805",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 15 May 2026 19:09:44 GMT"
     }
   ]
 }
