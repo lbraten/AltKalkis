@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-15T19:05:34.222Z",
+  "updatedAt": "2026-05-15T20:39:49.816Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Turgåer i Jotunheimen omkom",
+      "link": "https://www.nrk.no/innlandet/turgaer-i-jotunheimen-omkom-1.17885669",
+      "category": "high",
+      "pubDate": "Fri, 15 May 2026 19:12:06 GMT"
+    },
+    {
+      "title": "Libanon: Tre helsearbeidere drept",
+      "link": "https://www.nrk.no/nyheter/libanon_-tre-helsearbeidere-drept-1.17885805",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 15 May 2026 19:09:44 GMT"
+    },
     {
       "title": "Våpenhvilen mellom Israel og Libanon forlenges",
       "link": "https://www.nrk.no/nyheter/vapenhvilen-mellom-israel-og-libanon-forlenges--1.17885726",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/tapte-soksmal-mot-viggo-kristiansen-1.17885548",
       "category": "Nyheter fra Agder",
       "pubDate": "Fri, 15 May 2026 17:10:50 GMT"
-    },
-    {
-      "title": "Ebola-utbrudd har spredd seg til Uganda",
-      "link": "https://www.nrk.no/nyheter/ebola-utbrudd-har-spredd-seg-til-uganda-1.17885699",
-      "category": "Ebola",
-      "pubDate": "Fri, 15 May 2026 17:08:16 GMT"
-    },
-    {
-      "title": "Tilbakegang i russisk økonomi",
-      "link": "https://www.nrk.no/nyheter/tilbakegang-i-russisk-okonomi-1.17885657",
-      "category": "Russland",
-      "pubDate": "Fri, 15 May 2026 17:06:06 GMT"
     }
   ]
 }
