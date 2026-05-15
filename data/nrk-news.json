@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-15T17:09:13.861Z",
+  "updatedAt": "2026-05-15T19:05:34.222Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Våpenhvilen mellom Israel og Libanon forlenges",
+      "link": "https://www.nrk.no/nyheter/vapenhvilen-mellom-israel-og-libanon-forlenges--1.17885726",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 15 May 2026 18:16:44 GMT"
+    },
+    {
+      "title": "Weinstein-rettssak erklært ugyldig",
+      "link": "https://www.nrk.no/nyheter/weinstein-rettssak-erklaert-ugyldig-1.17885723",
+      "category": "Harvey Weinstein-saken",
+      "pubDate": "Fri, 15 May 2026 17:26:11 GMT"
+    },
+    {
+      "title": "Ærespris til Travolta i Cannes",
+      "link": "https://www.nrk.no/nyheter/aerespris-til-travolta-i-cannes-1.17885703",
+      "category": "Film og serier",
+      "pubDate": "Fri, 15 May 2026 17:23:55 GMT"
+    },
+    {
+      "title": "Tapte søksmål mot Viggo Kristiansen",
+      "link": "https://www.nrk.no/sorlandet/tapte-soksmal-mot-viggo-kristiansen-1.17885548",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 15 May 2026 17:10:50 GMT"
+    },
     {
       "title": "Ebola-utbrudd har spredd seg til Uganda",
       "link": "https://www.nrk.no/nyheter/ebola-utbrudd-har-spredd-seg-til-uganda-1.17885699",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tilbakegang-i-russisk-okonomi-1.17885657",
       "category": "Russland",
       "pubDate": "Fri, 15 May 2026 17:06:06 GMT"
-    },
-    {
-      "title": "Ulykke i Eidsvåg - uavklart skadeomfang",
-      "link": "https://www.nrk.no/mr/ulykke-i-eidsvag---uavklart-skadeomfang-1.17885600",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 15 May 2026 16:40:56 GMT"
-    },
-    {
-      "title": "Xi Jinping til USA til høsten",
-      "link": "https://www.nrk.no/nyheter/xi-jinping-til-usa-til-hosten-1.17885598",
-      "category": "USA og Kina",
-      "pubDate": "Fri, 15 May 2026 16:21:48 GMT"
-    },
-    {
-      "title": "Turgåer reddet opp fra bresprekk i Jotunheimen",
-      "link": "https://www.nrk.no/innlandet/turgaer-reddet-opp-fra-bresprekk-i-jotunheimen-1.17885566",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 15 May 2026 15:39:52 GMT"
-    },
-    {
-      "title": "Etablerer spesialtribunal for Ukraina",
-      "link": "https://www.nrk.no/nyheter/etablerer-spesialtribunal-for-ukraina-1.17885584",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 15 May 2026 15:23:42 GMT"
     }
   ]
 }
