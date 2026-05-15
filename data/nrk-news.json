@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-15T20:39:49.816Z",
+  "updatedAt": "2026-05-15T22:00:53.634Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "AFP: Boeing bekrefter 200 fly til Kina",
+      "link": "https://www.nrk.no/nyheter/afp_-boeing-bekrefter-200-fly-til-kina-1.17885862",
+      "category": "Boeing",
+      "pubDate": "Fri, 15 May 2026 21:58:58 GMT"
+    },
+    {
+      "title": "Minst seks skal være drept i Libanon",
+      "link": "https://www.nrk.no/nyheter/minst-seks-skal-vaere-drept-i-libanon-1.17885861",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 15 May 2026 21:52:24 GMT"
+    },
+    {
+      "title": "Israel: Hamas-topp var mål for angrep på Gaza",
+      "link": "https://www.nrk.no/nyheter/israel_-hamas-topp-var-mal-for-angrep-pa-gaza-1.17885850",
+      "category": "Krigen i Gaza",
+      "pubDate": "Fri, 15 May 2026 21:43:57 GMT"
+    },
+    {
+      "title": "Oslo: Sigarett antente sengetøy",
+      "link": "https://www.nrk.no/stor-oslo/oslo_-sigarett-antente-sengetoy--1.17885836",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 15 May 2026 20:25:40 GMT"
+    },
     {
       "title": "Turgåer i Jotunheimen omkom",
       "link": "https://www.nrk.no/innlandet/turgaer-i-jotunheimen-omkom-1.17885669",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon_-tre-helsearbeidere-drept-1.17885805",
       "category": "Libanon og Israel",
       "pubDate": "Fri, 15 May 2026 19:09:44 GMT"
-    },
-    {
-      "title": "Våpenhvilen mellom Israel og Libanon forlenges",
-      "link": "https://www.nrk.no/nyheter/vapenhvilen-mellom-israel-og-libanon-forlenges--1.17885726",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 15 May 2026 18:16:44 GMT"
-    },
-    {
-      "title": "Weinstein-rettssak erklært ugyldig",
-      "link": "https://www.nrk.no/nyheter/weinstein-rettssak-erklaert-ugyldig-1.17885723",
-      "category": "Harvey Weinstein-saken",
-      "pubDate": "Fri, 15 May 2026 17:26:11 GMT"
-    },
-    {
-      "title": "Ærespris til Travolta i Cannes",
-      "link": "https://www.nrk.no/nyheter/aerespris-til-travolta-i-cannes-1.17885703",
-      "category": "Film og serier",
-      "pubDate": "Fri, 15 May 2026 17:23:55 GMT"
-    },
-    {
-      "title": "Tapte søksmål mot Viggo Kristiansen",
-      "link": "https://www.nrk.no/sorlandet/tapte-soksmal-mot-viggo-kristiansen-1.17885548",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Fri, 15 May 2026 17:10:50 GMT"
     }
   ]
 }
