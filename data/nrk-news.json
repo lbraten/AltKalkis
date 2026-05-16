@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-16T10:45:56.748Z",
+  "updatedAt": "2026-05-16T11:52:53.594Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kvinne og mann involvert i ulykke i Åre",
+      "link": "https://www.nrk.no/trondelag/kvinne-og-mann-involvert-i-ulykke-i-are-1.17886074",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 16 May 2026 11:22:13 GMT"
+    },
+    {
+      "title": "SV om jordbruksoppgjeret",
+      "link": "https://www.nrk.no/nyheter/sv-om-jordbruksoppgjeret-1.17886096",
+      "category": "Sosialistisk venstreparti (SV)",
+      "pubDate": "Sat, 16 May 2026 11:18:04 GMT"
+    },
+    {
+      "title": "Tusenvis av politifolk er på plass i Londons gater",
+      "link": "https://www.nrk.no/nyheter/tusenvis-av-politifolk-er-pa-plass-i-londons-gater-1.17886082",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 16 May 2026 11:06:43 GMT"
+    },
+    {
+      "title": "Tog traff buss i Thailand",
+      "link": "https://www.nrk.no/nyheter/tog-traff-buss-i-thailand-1.17886076",
+      "category": "Thailand",
+      "pubDate": "Sat, 16 May 2026 10:55:32 GMT"
+    },
+    {
+      "title": "Hamas-leder drept i israelske luftangrep",
+      "link": "https://www.nrk.no/nyheter/hamas-leder-drept-i-israelske-luftangrep-1.17886069",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 16 May 2026 10:50:27 GMT"
+    },
     {
       "title": "Rødt om jordbruksoppgjøret",
       "link": "https://www.nrk.no/nyheter/rodt-om-jordbruksoppgjoret-1.17886066",
       "category": "Partiet Rødt",
       "pubDate": "Sat, 16 May 2026 10:38:39 GMT"
-    },
-    {
-      "title": "MDG om jordbruksoppgjøret",
-      "link": "https://www.nrk.no/nyheter/mdg-om-jordbruksoppgjoret-1.17886060",
-      "category": "Miljøpartiet De Grønne",
-      "pubDate": "Sat, 16 May 2026 10:33:22 GMT"
-    },
-    {
-      "title": "Senterpartiet om jordbruksoppgjøret",
-      "link": "https://www.nrk.no/nyheter/senterpartiet-om-jordbruksoppgjoret-1.17886032",
-      "category": "Jordbruksoppgjøret",
-      "pubDate": "Sat, 16 May 2026 10:15:51 GMT"
-    },
-    {
-      "title": "Tenåring pågripen for planlegging av drap",
-      "link": "https://www.nrk.no/vestland/tenaring-pagripen-for-planlegging-av-drap-1.17885966",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 16 May 2026 09:19:11 GMT"
-    },
-    {
-      "title": "Enighet i jordbruksoppgjøret",
-      "link": "https://www.nrk.no/nyheter/enighet-i-jordbruksoppgjoret---1.17886004",
-      "category": "Jordbruksoppgjøret",
-      "pubDate": "Sat, 16 May 2026 09:04:31 GMT"
-    },
-    {
-      "title": "Nordre Follo: Kraftig brann i leilighet – slukket",
-      "link": "https://www.nrk.no/stor-oslo/nordre-follo_-kraftig-brann-i-leilighet-_-slukket-1.17886016",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 16 May 2026 08:34:45 GMT"
     }
   ]
 }
