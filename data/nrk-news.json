@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-16T14:40:25.232Z",
+  "updatedAt": "2026-05-16T15:59:24.680Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Storbritannias tidligere helseminister Wes Streeting vil utfordre Starmer om ledervervet i Labour",
+      "link": "https://www.nrk.no/nyheter/storbritannias-tidligere-helseminister-wes-streeting-vil-utfordre-starmer-om-ledervervet-i-labour-1.17886319",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 16 May 2026 15:09:36 GMT"
+    },
+    {
+      "title": "Stjal smykker for 100.000 kroner",
+      "link": "https://www.nrk.no/buskerud/-stjal-smykker-for-100.000-kroner-1.17886312",
+      "category": "Politi og hendelser i Buskerud",
+      "pubDate": "Sat, 16 May 2026 15:00:45 GMT"
+    },
+    {
+      "title": "27 pågrepet i aksjon mot kriminelt MC-miljø i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/27-pagrepet-i-aksjon-mot-kriminelt-mc-miljo-i-oslo-1.17886286",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 16 May 2026 14:56:32 GMT"
+    },
     {
       "title": "Kvinne dømt for uaktsomt bildrap i Asker",
       "link": "https://www.nrk.no/stor-oslo/kvinne-domt-for-uaktsomt-bildrap-i-asker-1.17886219",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/lovv_-_-det-gar-fint-med-stemmen-1.17886255",
       "category": "MGP og Eurovision Song Contest 2026",
       "pubDate": "Sat, 16 May 2026 14:09:43 GMT"
-    },
-    {
-      "title": "Frankrike skal etterforske drapet på Khashoggi",
-      "link": "https://www.nrk.no/nyheter/frankrike-skal-etterforske-drapet-pa-khashoggi-1.17886213",
-      "category": "Drapet på Jamal Khashoggi",
-      "pubDate": "Sat, 16 May 2026 13:58:12 GMT"
-    },
-    {
-      "title": "Kvinne og mann involvert i ulykke i Åre",
-      "link": "https://www.nrk.no/trondelag/kvinne-og-mann-involvert-i-ulykke-i-are-1.17886074",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 16 May 2026 11:22:13 GMT"
-    },
-    {
-      "title": "SV om jordbruksoppgjeret",
-      "link": "https://www.nrk.no/nyheter/sv-om-jordbruksoppgjeret-1.17886096",
-      "category": "Sosialistisk venstreparti (SV)",
-      "pubDate": "Sat, 16 May 2026 11:18:04 GMT"
     }
   ]
 }
