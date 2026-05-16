@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-16T20:01:34.440Z",
+  "updatedAt": "2026-05-16T21:23:13.922Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "43 pågrepet under demonstrasjoner i London",
+      "link": "https://www.nrk.no/nyheter/43-pagrepet-under-demonstrasjoner-i-london-1.17886563",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 16 May 2026 20:46:49 GMT"
+    },
+    {
+      "title": "USA forlenger ikke sanksjonsunntak for russisk olje",
+      "link": "https://www.nrk.no/nyheter/usa-forlenger-ikke-sanksjonsunntak-for-russisk-olje-1.17886485",
+      "category": "Russisk olje og gass",
+      "pubDate": "Sat, 16 May 2026 20:17:03 GMT"
+    },
     {
       "title": "Hovedmistenkt etter folkemordet i Rwanda er død",
       "link": "https://www.nrk.no/nyheter/hovedmistenkt-etter-folkemordet-i-rwanda-er-dod-1.17886410",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/storbritannias-tidligere-helseminister-wes-streeting-vil-utfordre-starmer-om-ledervervet-i-labour-1.17886319",
       "category": "Storbritannia",
       "pubDate": "Sat, 16 May 2026 15:09:36 GMT"
-    },
-    {
-      "title": "Stjal smykker for 100.000 kroner",
-      "link": "https://www.nrk.no/buskerud/-stjal-smykker-for-100.000-kroner-1.17886312",
-      "category": "Politi og hendelser i Buskerud",
-      "pubDate": "Sat, 16 May 2026 15:00:45 GMT"
-    },
-    {
-      "title": "27 pågrepet i aksjon mot kriminelt MC-miljø i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/27-pagrepet-i-aksjon-mot-kriminelt-mc-miljo-i-oslo-1.17886286",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 16 May 2026 14:56:32 GMT"
     }
   ]
 }
