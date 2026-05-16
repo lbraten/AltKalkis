@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-16T01:18:27.011Z",
+  "updatedAt": "2026-05-16T04:53:51.175Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person funnet kritisk skadet i Stange",
+      "link": "https://www.nrk.no/nyheter/person-funnet-kritisk-skadet-i-stange-1.17885897",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 16 May 2026 03:46:50 GMT"
+    },
+    {
+      "title": "Donald Trump sier IS-topp er «eliminert»",
+      "link": "https://www.nrk.no/nyheter/donald-trump-sier-is-topp-er-_eliminert_-1.17885870",
+      "category": "Terrorgruppa IS",
+      "pubDate": "Sat, 16 May 2026 03:39:35 GMT"
+    },
+    {
+      "title": "Mann funnet død i leteaksjon i Jevnaker",
+      "link": "https://www.nrk.no/nyheter/mann-funnet-dod-i-leteaksjon-i-jevnaker-1.17885874",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 16 May 2026 03:25:00 GMT"
+    },
+    {
+      "title": "Person lettere skadet i knivstikking ved Oslo S",
+      "link": "https://www.nrk.no/nyheter/person-lettere-skadet-i-knivstikking-ved-oslo-s-1.17885873",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 16 May 2026 02:18:51 GMT"
+    },
+    {
+      "title": "Savnet mann funnet etter fisketur – bekreftet omkommet",
+      "link": "https://www.nrk.no/nyheter/savnet-mann-funnet-etter-fisketur-_-bekreftet-omkommet-1.17885867",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 16 May 2026 01:38:07 GMT"
+    },
     {
       "title": "Politiet: Alle skal være ute av brennende russebuss",
       "link": "https://www.nrk.no/nyheter/politiet_-alle-skal-vaere-ute-av-brennende-russebuss-1.17885869",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 16 May 2026 01:05:55 GMT"
-    },
-    {
-      "title": "Brann i russebuss på Eidsvoll",
-      "link": "https://www.nrk.no/nyheter/brann-i-russebuss-pa-eidsvoll-1.17885866",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 16 May 2026 00:49:26 GMT"
-    },
-    {
-      "title": "Trump etter Xi-møte: Vil ikke at noen skal «go independent»",
-      "link": "https://www.nrk.no/nyheter/trump-etter-xi-mote_-vil-ikke-at-noen-skal-_go-independent_-1.17885864",
-      "category": "Taiwan",
-      "pubDate": "Fri, 15 May 2026 23:34:57 GMT"
-    },
-    {
-      "title": "Båtbrann i Eigersund",
-      "link": "https://www.nrk.no/nyheter/batbrann-i-eigersund-1.17885863",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Fri, 15 May 2026 22:32:02 GMT"
-    },
-    {
-      "title": "AFP: Boeing bekrefter 200 fly til Kina",
-      "link": "https://www.nrk.no/nyheter/afp_-boeing-bekrefter-200-fly-til-kina-1.17885862",
-      "category": "Boeing",
-      "pubDate": "Fri, 15 May 2026 21:58:58 GMT"
-    },
-    {
-      "title": "Minst seks skal være drept i Libanon",
-      "link": "https://www.nrk.no/nyheter/minst-seks-skal-vaere-drept-i-libanon-1.17885861",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 15 May 2026 21:52:24 GMT"
     }
   ]
 }
