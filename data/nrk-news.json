@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-16T07:16:20.652Z",
+  "updatedAt": "2026-05-16T09:11:15.078Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Enighet i jordbruksoppgjøret",
+      "link": "https://www.nrk.no/nyheter/enighet-i-jordbruksoppgjoret---1.17886004",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sat, 16 May 2026 09:04:31 GMT"
+    },
+    {
+      "title": "Nordre Follo: Brann i leilighet – spredningsfare",
+      "link": "https://www.nrk.no/stor-oslo/nordre-follo_-brann-i-leilighet-_-spredningsfare-1.17886016",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 16 May 2026 08:34:45 GMT"
+    },
+    {
+      "title": "Mann død etter haiangrep i Australia",
+      "link": "https://www.nrk.no/nyheter/mann-dod-etter-haiangrep-i-australia-1.17885969",
+      "category": "Australia",
+      "pubDate": "Sat, 16 May 2026 07:58:43 GMT"
+    },
+    {
+      "title": "Brann under kontroll på Voss",
+      "link": "https://www.nrk.no/vestland/brann-under-kontroll-pa-voss-1.17885994",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 16 May 2026 07:25:26 GMT"
+    },
     {
       "title": "Putin reiser til Kina tirsdag",
       "link": "https://www.nrk.no/nyheter/putin-reiser-til-kina-tirsdag-1.17885968",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/gi-hunden-en-rolig-17.-mai-1.17885927",
       "category": "17. mai-feiring",
       "pubDate": "Sat, 16 May 2026 06:46:40 GMT"
-    },
-    {
-      "title": "Avklaring i jordbruksoppgjøret",
-      "link": "https://www.nrk.no/nyheter/avklaring-i-jordbruksoppgjoret-1.17885922",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sat, 16 May 2026 06:01:00 GMT"
-    },
-    {
-      "title": "16. mai verste bulkedag i fjor",
-      "link": "https://www.nrk.no/nyheter/16.-mai-verste-bulkedag-i-fjor-1.17885920",
-      "category": "Trafikk i Norge",
-      "pubDate": "Sat, 16 May 2026 05:53:08 GMT"
-    },
-    {
-      "title": "Drake slapp tre album på samme dag",
-      "link": "https://www.nrk.no/nyheter/drake-slapp-tre-album-pa-samme-dag-1.17885911",
-      "category": "Musikk",
-      "pubDate": "Sat, 16 May 2026 05:42:37 GMT"
-    },
-    {
-      "title": "Taiwan sier USAs våpensalg er avgjørende for fred i regionen",
-      "link": "https://www.nrk.no/nyheter/taiwan-sier-usas-vapensalg-er-avgjorende-for-fred-i-regionen-1.17885905",
-      "category": "Taiwan",
-      "pubDate": "Sat, 16 May 2026 05:19:56 GMT"
     }
   ]
 }
