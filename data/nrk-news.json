@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-16T09:11:15.078Z",
+  "updatedAt": "2026-05-16T10:45:56.748Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Rødt om jordbruksoppgjøret",
+      "link": "https://www.nrk.no/nyheter/rodt-om-jordbruksoppgjoret-1.17886066",
+      "category": "Partiet Rødt",
+      "pubDate": "Sat, 16 May 2026 10:38:39 GMT"
+    },
+    {
+      "title": "MDG om jordbruksoppgjøret",
+      "link": "https://www.nrk.no/nyheter/mdg-om-jordbruksoppgjoret-1.17886060",
+      "category": "Miljøpartiet De Grønne",
+      "pubDate": "Sat, 16 May 2026 10:33:22 GMT"
+    },
+    {
+      "title": "Senterpartiet om jordbruksoppgjøret",
+      "link": "https://www.nrk.no/nyheter/senterpartiet-om-jordbruksoppgjoret-1.17886032",
+      "category": "Jordbruksoppgjøret",
+      "pubDate": "Sat, 16 May 2026 10:15:51 GMT"
+    },
+    {
+      "title": "Tenåring pågripen for planlegging av drap",
+      "link": "https://www.nrk.no/vestland/tenaring-pagripen-for-planlegging-av-drap-1.17885966",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 16 May 2026 09:19:11 GMT"
+    },
+    {
       "title": "Enighet i jordbruksoppgjøret",
       "link": "https://www.nrk.no/nyheter/enighet-i-jordbruksoppgjoret---1.17886004",
-      "category": "Lønnsoppgjøret 2026",
+      "category": "Jordbruksoppgjøret",
       "pubDate": "Sat, 16 May 2026 09:04:31 GMT"
     },
     {
-      "title": "Nordre Follo: Brann i leilighet – spredningsfare",
-      "link": "https://www.nrk.no/stor-oslo/nordre-follo_-brann-i-leilighet-_-spredningsfare-1.17886016",
+      "title": "Nordre Follo: Kraftig brann i leilighet – slukket",
+      "link": "https://www.nrk.no/stor-oslo/nordre-follo_-kraftig-brann-i-leilighet-_-slukket-1.17886016",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 16 May 2026 08:34:45 GMT"
-    },
-    {
-      "title": "Mann død etter haiangrep i Australia",
-      "link": "https://www.nrk.no/nyheter/mann-dod-etter-haiangrep-i-australia-1.17885969",
-      "category": "Australia",
-      "pubDate": "Sat, 16 May 2026 07:58:43 GMT"
-    },
-    {
-      "title": "Brann under kontroll på Voss",
-      "link": "https://www.nrk.no/vestland/brann-under-kontroll-pa-voss-1.17885994",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 16 May 2026 07:25:26 GMT"
-    },
-    {
-      "title": "Putin reiser til Kina tirsdag",
-      "link": "https://www.nrk.no/nyheter/putin-reiser-til-kina-tirsdag-1.17885968",
-      "category": "Kina og Russland",
-      "pubDate": "Sat, 16 May 2026 06:49:34 GMT"
-    },
-    {
-      "title": "Gi hunden en rolig 17. mai",
-      "link": "https://www.nrk.no/nyheter/gi-hunden-en-rolig-17.-mai-1.17885927",
-      "category": "17. mai-feiring",
-      "pubDate": "Sat, 16 May 2026 06:46:40 GMT"
     }
   ]
 }
