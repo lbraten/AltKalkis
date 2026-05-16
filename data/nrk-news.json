@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-16T15:59:24.680Z",
+  "updatedAt": "2026-05-16T17:10:15.859Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Masseslagsmål med kniv på Økern",
+      "link": "https://www.nrk.no/stor-oslo/masseslagsmal-med-kniv-pa-okern-1.17886320",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 16 May 2026 16:20:40 GMT"
+    },
+    {
+      "title": "Bil kjørte inn i folkemengde i Italia",
+      "link": "https://www.nrk.no/nyheter/bil-kjorte-inn-i-folkemengde-i-italia-1.17886333",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 16 May 2026 16:16:41 GMT"
+    },
     {
       "title": "Storbritannias tidligere helseminister Wes Streeting vil utfordre Starmer om ledervervet i Labour",
       "link": "https://www.nrk.no/nyheter/storbritannias-tidligere-helseminister-wes-streeting-vil-utfordre-starmer-om-ledervervet-i-labour-1.17886319",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/kvinne-domt-for-uaktsomt-bildrap-i-asker-1.17886219",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 16 May 2026 14:12:55 GMT"
-    },
-    {
-      "title": "Fengsla i ei veke for drapsplanlegging",
-      "link": "https://www.nrk.no/vestland/fengsla-i-ei-veke-for-drapsplanlegging-1.17886280",
-      "category": "Krim og hendingar i Vestland",
-      "pubDate": "Sat, 16 May 2026 14:10:45 GMT"
-    },
-    {
-      "title": "Lovv: – Det går fint med stemmen",
-      "link": "https://www.nrk.no/nyheter/lovv_-_-det-gar-fint-med-stemmen-1.17886255",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Sat, 16 May 2026 14:09:43 GMT"
     }
   ]
 }
