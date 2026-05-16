@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-15T23:28:42.191Z",
+  "updatedAt": "2026-05-16T01:18:27.011Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Alle skal være ute av brennende russebuss",
+      "link": "https://www.nrk.no/nyheter/politiet_-alle-skal-vaere-ute-av-brennende-russebuss-1.17885869",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 16 May 2026 01:05:55 GMT"
+    },
+    {
+      "title": "Brann i russebuss på Eidsvoll",
+      "link": "https://www.nrk.no/nyheter/brann-i-russebuss-pa-eidsvoll-1.17885866",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 16 May 2026 00:49:26 GMT"
+    },
+    {
+      "title": "Trump etter Xi-møte: Vil ikke at noen skal «go independent»",
+      "link": "https://www.nrk.no/nyheter/trump-etter-xi-mote_-vil-ikke-at-noen-skal-_go-independent_-1.17885864",
+      "category": "Taiwan",
+      "pubDate": "Fri, 15 May 2026 23:34:57 GMT"
+    },
     {
       "title": "Båtbrann i Eigersund",
       "link": "https://www.nrk.no/nyheter/batbrann-i-eigersund-1.17885863",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-seks-skal-vaere-drept-i-libanon-1.17885861",
       "category": "Libanon og Israel",
       "pubDate": "Fri, 15 May 2026 21:52:24 GMT"
-    },
-    {
-      "title": "Israel: Hamas-topp var mål for angrep på Gaza",
-      "link": "https://www.nrk.no/nyheter/israel_-hamas-topp-var-mal-for-angrep-pa-gaza-1.17885850",
-      "category": "Krigen i Gaza",
-      "pubDate": "Fri, 15 May 2026 21:43:57 GMT"
-    },
-    {
-      "title": "Oslo: Sigarett antente sengetøy",
-      "link": "https://www.nrk.no/stor-oslo/oslo_-sigarett-antente-sengetoy--1.17885836",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 15 May 2026 20:25:40 GMT"
-    },
-    {
-      "title": "Turgåer i Jotunheimen omkom",
-      "link": "https://www.nrk.no/innlandet/turgaer-i-jotunheimen-omkom-1.17885669",
-      "category": "high",
-      "pubDate": "Fri, 15 May 2026 19:12:06 GMT"
     }
   ]
 }
