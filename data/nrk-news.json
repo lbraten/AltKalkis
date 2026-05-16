@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-16T22:11:49.328Z",
+  "updatedAt": "2026-05-16T23:26:58.986Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bulgaria har vunnet Eurovision",
+      "link": "https://www.nrk.no/nyheter/bulgaria-har-vunnet-eurovision-1.17886599",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Sat, 16 May 2026 23:05:12 GMT"
+    },
+    {
+      "title": "Noreg fekk 12 poeng frå Frankrike",
+      "link": "https://www.nrk.no/kultur/noreg-fekk-12-poeng-fra-frankrike-1.17886601",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Sat, 16 May 2026 22:33:09 GMT"
+    },
+    {
+      "title": "Sikkerhetssone ved brann i Øygarden",
+      "link": "https://www.nrk.no/nyheter/sikkerhetssone-ved-brann-i-oygarden-1.17886598",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 16 May 2026 22:14:50 GMT"
+    },
     {
       "title": "43 pågrepet under demonstrasjoner i London",
       "link": "https://www.nrk.no/nyheter/43-pagrepet-under-demonstrasjoner-i-london-1.17886563",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hovedmistenkt-etter-folkemordet-i-rwanda-er-dod-1.17886410",
       "category": "Rwanda",
       "pubDate": "Sat, 16 May 2026 17:49:10 GMT"
-    },
-    {
-      "title": "Masseslagsmål med kniv på Økern",
-      "link": "https://www.nrk.no/stor-oslo/masseslagsmal-med-kniv-pa-okern-1.17886320",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 16 May 2026 16:20:40 GMT"
-    },
-    {
-      "title": "Bil kjørte inn i folkemengde i Italia",
-      "link": "https://www.nrk.no/nyheter/bil-kjorte-inn-i-folkemengde-i-italia-1.17886333",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 16 May 2026 16:16:41 GMT"
-    },
-    {
-      "title": "Storbritannias tidligere helseminister Wes Streeting vil utfordre Starmer om ledervervet i Labour",
-      "link": "https://www.nrk.no/nyheter/storbritannias-tidligere-helseminister-wes-streeting-vil-utfordre-starmer-om-ledervervet-i-labour-1.17886319",
-      "category": "Storbritannia",
-      "pubDate": "Sat, 16 May 2026 15:09:36 GMT"
     }
   ]
 }
