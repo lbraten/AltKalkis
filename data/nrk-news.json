@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-17T15:37:24.929Z",
+  "updatedAt": "2026-05-17T16:58:40.972Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ti drept i væpnet angrep i Mexico",
+      "link": "https://www.nrk.no/nyheter/ti-drept-i-vaepnet-angrep-i-mexico-1.17887024",
+      "category": "Mexico",
+      "pubDate": "Sun, 17 May 2026 16:52:34 GMT"
+    },
+    {
+      "title": "Tunnel mellom Danmark og Tyskland utsatt",
+      "link": "https://www.nrk.no/nyheter/tunnel-mellom-danmark-og-tyskland-utsatt_-1.17886965",
+      "category": "Danmark",
+      "pubDate": "Sun, 17 May 2026 16:26:40 GMT"
+    },
     {
       "title": "Masseslagsmål i Tromsø sentrum",
       "link": "https://www.nrk.no/tromsogfinnmark/masseslagsmal-i-tromso-sentrum-1.17886992",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dr-hook-vokalisten-er-dod-1.17886933",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 17 May 2026 14:48:01 GMT"
-    },
-    {
-      "title": "Samanstøyt mellom to russebussar - tre til legevakt",
-      "link": "https://www.nrk.no/trondelag/samanstoyt-mellom-to-russebussar---tre-til-legevakt-1.17886924",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 17 May 2026 14:13:35 GMT"
-    },
-    {
-      "title": "FN slår sultalarm i Sudan",
-      "link": "https://www.nrk.no/nyheter/fn-slar-sultalarm-i-sudan-1.17886885",
-      "category": "Sudan",
-      "pubDate": "Sun, 17 May 2026 14:04:20 GMT"
     }
   ]
 }
