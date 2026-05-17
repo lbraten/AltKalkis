@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-17T19:44:26.363Z",
+  "updatedAt": "2026-05-17T20:55:36.965Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To kampfly kolliderte under flyshow i USA",
+      "link": "https://www.nrk.no/nyheter/to-kampfly-kolliderte-under-flyshow-i-usa-1.17887094",
+      "category": "USA",
+      "pubDate": "Sun, 17 May 2026 19:54:43 GMT"
+    },
     {
       "title": "Mann skal ha truet med kniv i Oslo",
       "link": "https://www.nrk.no/stor-oslo/mann-skal-ha-truet-med-kniv-i-oslo-1.17887105",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ti-drept-i-vaepnet-angrep-i-mexico-1.17887024",
       "category": "Mexico",
       "pubDate": "Sun, 17 May 2026 16:52:34 GMT"
-    },
-    {
-      "title": "Tunnel mellom Danmark og Tyskland utsatt",
-      "link": "https://www.nrk.no/nyheter/tunnel-mellom-danmark-og-tyskland-utsatt_-1.17886965",
-      "category": "Danmark",
-      "pubDate": "Sun, 17 May 2026 16:26:40 GMT"
     }
   ]
 }
