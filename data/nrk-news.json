@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-17T09:50:03.936Z",
+  "updatedAt": "2026-05-17T11:08:49.366Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lula ønsker respekt fra Trump",
+      "link": "https://www.nrk.no/nyheter/lula-onsker-respekt-fra-trump--1.17886809",
+      "category": "Brasil",
+      "pubDate": "Sun, 17 May 2026 11:05:58 GMT"
+    },
+    {
+      "title": "Kinesisk statsborger siktet for forsøk på spionasje i Nordland",
+      "link": "https://www.nrk.no/nyheter/kinesisk-statsborger-siktet-for-forsok-pa-spionasje-i-nordland-1.17886800",
+      "category": "PST",
+      "pubDate": "Sun, 17 May 2026 10:42:08 GMT"
+    },
+    {
+      "title": "Droneangrep ved kjernekraftverk i Abu Dhabi",
+      "link": "https://www.nrk.no/nyheter/droneangrep-ved-kjernekraftverk-i-abu-dhabi--1.17886775",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 17 May 2026 10:25:50 GMT"
+    },
     {
       "title": "Hoppet med flagg på 300 kvadratmeter",
       "link": "https://www.nrk.no/vestfoldogtelemark/hoppet-med-flagg-pa-300-kvadratmeter--1.17886781",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fellesaksjon-mot-telekomsvindel-i-dubai-1.17886744",
       "category": "Svindel",
       "pubDate": "Sun, 17 May 2026 09:12:48 GMT"
-    },
-    {
-      "title": "Fotgjenger påkjørt av sparkesykkel",
-      "link": "https://www.nrk.no/sorlandet/fotgjenger-pakjort-av-sparkesykkel-1.17886757",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 17 May 2026 08:39:26 GMT"
-    },
-    {
-      "title": "Kjølesystemet i kok på den gamle brannbilen i Stavanger",
-      "link": "https://www.nrk.no/rogaland/kjolesystemet-i-kok-pa-den-gamle-brannbilen-i-stavanger-1.17886749",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 17 May 2026 08:34:13 GMT"
-    },
-    {
-      "title": "En person til legevakt etter å ha blitt ranet og slått ned i Oslo",
-      "link": "https://www.nrk.no/nyheter/en-person-til-legevakt-etter-a-ha-blitt-ranet-og-slatt-ned-i-oslo--1.17886730",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 17 May 2026 08:16:40 GMT"
     }
   ]
 }
