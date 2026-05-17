@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-17T16:58:40.972Z",
+  "updatedAt": "2026-05-17T18:03:19.505Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig trafikkulykke i Nittedal",
+      "link": "https://www.nrk.no/stor-oslo/alvorlig-trafikkulykke-i-nittedal--1.17886999",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 17 May 2026 17:12:25 GMT"
+    },
     {
       "title": "Ti drept i væpnet angrep i Mexico",
       "link": "https://www.nrk.no/nyheter/ti-drept-i-vaepnet-angrep-i-mexico-1.17887024",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/politiet-i-bergen_-_-me-har-ikkje-kapasitet-til-a-koyre-berusa-ungdom-heim-1.17886887",
       "category": "Krim og hendingar i Vestland",
       "pubDate": "Sun, 17 May 2026 14:50:06 GMT"
-    },
-    {
-      "title": "Dr Hook-vokalisten er død",
-      "link": "https://www.nrk.no/nyheter/dr-hook-vokalisten-er-dod-1.17886933",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 17 May 2026 14:48:01 GMT"
     }
   ]
 }
