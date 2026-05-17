@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-16T23:26:58.986Z",
+  "updatedAt": "2026-05-17T01:25:17.004Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Maduro-alliert utlevert til USA",
+      "link": "https://www.nrk.no/nyheter/maduro-alliert-utlevert-til-usa-1.17886611",
+      "category": "Venezuela og USA",
+      "pubDate": "Sun, 17 May 2026 00:08:44 GMT"
+    },
     {
       "title": "Bulgaria har vunnet Eurovision",
       "link": "https://www.nrk.no/nyheter/bulgaria-har-vunnet-eurovision-1.17886599",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-forlenger-ikke-sanksjonsunntak-for-russisk-olje-1.17886485",
       "category": "Russisk olje og gass",
       "pubDate": "Sat, 16 May 2026 20:17:03 GMT"
-    },
-    {
-      "title": "Hovedmistenkt etter folkemordet i Rwanda er død",
-      "link": "https://www.nrk.no/nyheter/hovedmistenkt-etter-folkemordet-i-rwanda-er-dod-1.17886410",
-      "category": "Rwanda",
-      "pubDate": "Sat, 16 May 2026 17:49:10 GMT"
     }
   ]
 }
