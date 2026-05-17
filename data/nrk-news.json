@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-17T21:57:58.397Z",
+  "updatedAt": "2026-05-17T23:00:55.951Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Guvernør: Droneangrep i Odesa i Ukraina",
+      "link": "https://www.nrk.no/nyheter/guvernor_-droneangrep-i-odesa-i-ukraina-1.17887158",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 17 May 2026 22:51:33 GMT"
+    },
+    {
+      "title": "To personer pågrepet i Stavanger",
+      "link": "https://www.nrk.no/nyheter/to-personer-pagrepet-i-stavanger-1.17887157",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 17 May 2026 22:42:35 GMT"
+    },
+    {
+      "title": "Politiet: Siktelse etter MC-aksjon kan bli utvidet",
+      "link": "https://www.nrk.no/nyheter/politiet_-siktelse-etter-mc-aksjon-kan-bli-utvidet-1.17887156",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 17 May 2026 22:31:08 GMT"
+    },
+    {
+      "title": "To personer skadet i Stavanger",
+      "link": "https://www.nrk.no/nyheter/to-personer-skadet-i-stavanger-1.17887139",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 17 May 2026 22:16:44 GMT"
+    },
     {
       "title": "Medier: Alle fire i jagerfly overlevde",
       "link": "https://www.nrk.no/nyheter/medier_-alle-fire-i-jagerfly-overlevde-1.17887131",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/elsparkesyklist-i-ulykke-i-trondheim-1.17887045",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 17 May 2026 20:55:36 GMT"
-    },
-    {
-      "title": "To kampfly kolliderte under flyshow i USA",
-      "link": "https://www.nrk.no/nyheter/to-kampfly-kolliderte-under-flyshow-i-usa-1.17887094",
-      "category": "USA",
-      "pubDate": "Sun, 17 May 2026 19:54:43 GMT"
-    },
-    {
-      "title": "Mann skal ha truet med kniv i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/mann-skal-ha-truet-med-kniv-i-oslo-1.17887105",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 17 May 2026 19:21:24 GMT"
-    },
-    {
-      "title": "Trump kaller inn sikkerhetsrådgivere",
-      "link": "https://www.nrk.no/nyheter/trump-kaller-inn-sikkerhetsradgivere-1.17887081",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 17 May 2026 18:39:21 GMT"
-    },
-    {
-      "title": "USAs spesialutsending fremme på Grønland",
-      "link": "https://www.nrk.no/nyheter/usas-spesialutsending-fremme-pa-gronland-1.17887035",
-      "category": "Grønland",
-      "pubDate": "Sun, 17 May 2026 18:11:45 GMT"
     }
   ]
 }
