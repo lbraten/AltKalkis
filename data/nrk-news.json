@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-17T11:08:49.366Z",
+  "updatedAt": "2026-05-17T12:11:08.628Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mahmoud Abbas gjenvalgt som Fatah-leder – sønnen inn i partiledelsen",
+      "link": "https://www.nrk.no/nyheter/mahmoud-abbas-gjenvalgt-som-fatah-leder-_-sonnen-inn-i-partiledelsen-1.17886839",
+      "category": "Palestina",
+      "pubDate": "Sun, 17 May 2026 11:38:21 GMT"
+    },
+    {
+      "title": "Minst to drept i russisk angrep i Ukraina det siste døgnet",
+      "link": "https://www.nrk.no/nyheter/minst-to-drept-i-russisk-angrep-i-ukraina-det-siste-dognet-1.17886828",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 17 May 2026 11:30:01 GMT"
+    },
+    {
+      "title": "Netanyahu sier han skal snakke med Trump i dag",
+      "link": "https://www.nrk.no/nyheter/netanyahu-sier-han-skal-snakke-med-trump-i-dag-1.17886823",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 17 May 2026 11:13:23 GMT"
+    },
     {
       "title": "Lula ønsker respekt fra Trump",
       "link": "https://www.nrk.no/nyheter/lula-onsker-respekt-fra-trump--1.17886809",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/droneangrep-ved-kjernekraftverk-i-abu-dhabi--1.17886775",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 17 May 2026 10:25:50 GMT"
-    },
-    {
-      "title": "Hoppet med flagg på 300 kvadratmeter",
-      "link": "https://www.nrk.no/vestfoldogtelemark/hoppet-med-flagg-pa-300-kvadratmeter--1.17886781",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 17 May 2026 09:38:50 GMT"
-    },
-    {
-      "title": "Zelenskyj bekrefter droneangrep mot Moskva",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-droneangrep-mot-moskva-1.17886773",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 17 May 2026 09:26:30 GMT"
-    },
-    {
-      "title": "Fellesaksjon mot telekomsvindel i Dubai",
-      "link": "https://www.nrk.no/nyheter/fellesaksjon-mot-telekomsvindel-i-dubai-1.17886744",
-      "category": "Svindel",
-      "pubDate": "Sun, 17 May 2026 09:12:48 GMT"
     }
   ]
 }
