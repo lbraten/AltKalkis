@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-18T22:03:46.332Z",
+  "updatedAt": "2026-05-18T23:35:45.746Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump tror en Iran-avtale kan være nær",
+      "link": "https://www.nrk.no/nyheter/trump-tror-en-iran-avtale-kan-vaere-naer-1.17888489",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 18 May 2026 23:10:44 GMT"
+    },
+    {
+      "title": "Person til sykehus etter voldshendelse i Larvik",
+      "link": "https://www.nrk.no/nyheter/person-til-sykehus-etter-voldshendelse-i-larvik-1.17888488",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 18 May 2026 22:19:48 GMT"
+    },
+    {
+      "title": "To skadet i voldshendelse under fotballkamp i Trondheim",
+      "link": "https://www.nrk.no/nyheter/to-skadet-i-voldshendelse-under-fotballkamp-i-trondheim-1.17888487",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 18 May 2026 22:07:21 GMT"
+    },
     {
       "title": "Streik ved PostNord-terminaler avverget",
       "link": "https://www.nrk.no/nyheter/streik-ved-postnord-terminaler-avverget-1.17888481",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/kultur/10-minutter-staende-applaus-for-reinsve-film-i-cannes-1.17888459",
       "category": "Filmfestivalen i Cannes",
       "pubDate": "Mon, 18 May 2026 20:25:16 GMT"
-    },
-    {
-      "title": "USA: Politiet sier de har \"nøytralisert\" situasjonen i San Diego-skyting",
-      "link": "https://www.nrk.no/nyheter/usa_-politiet-sier-de-har-_noytralisert_-situasjonen-i-san-diego-skyting-1.17888405",
-      "category": "USA",
-      "pubDate": "Mon, 18 May 2026 19:38:24 GMT"
-    },
-    {
-      "title": "Trump sier han dropper et planlagt angrep mot Iran tirsdag",
-      "link": "https://www.nrk.no/nyheter/trump-sier-han-dropper-et-planlagt-angrep-mot-iran-tirsdag-1.17888399",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 18 May 2026 19:05:55 GMT"
-    },
-    {
-      "title": "WHO-sjefen om virusutbruddene: – bare de siste krisene i vår herjede verden",
-      "link": "https://www.nrk.no/nyheter/who-sjefen-om-virusutbruddene_-_-bare-de-siste-krisene-i-var-herjede-verden-1.17888374",
-      "category": "Verdens helseorganisasjon WHO",
-      "pubDate": "Mon, 18 May 2026 19:02:30 GMT"
     }
   ]
 }
