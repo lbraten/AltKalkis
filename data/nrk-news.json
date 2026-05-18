@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-18T20:52:02.783Z",
+  "updatedAt": "2026-05-18T22:03:46.332Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Streik ved PostNord-terminaler avverget",
+      "link": "https://www.nrk.no/nyheter/streik-ved-postnord-terminaler-avverget-1.17888481",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Mon, 18 May 2026 21:43:43 GMT"
+    },
+    {
+      "title": "Fem døde etter skying i San Diego",
+      "link": "https://www.nrk.no/nyheter/fem-dode-etter-skying-i-san-diego-1.17888477",
+      "category": "USA",
+      "pubDate": "Mon, 18 May 2026 21:11:27 GMT"
+    },
     {
       "title": "10 minutter stående applaus for Reinsve-film i Cannes",
       "link": "https://www.nrk.no/kultur/10-minutter-staende-applaus-for-reinsve-film-i-cannes-1.17888459",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/who-sjefen-om-virusutbruddene_-_-bare-de-siste-krisene-i-var-herjede-verden-1.17888374",
       "category": "Verdens helseorganisasjon WHO",
       "pubDate": "Mon, 18 May 2026 19:02:30 GMT"
-    },
-    {
-      "title": "Amerikansk lege smittet av ebola",
-      "link": "https://www.nrk.no/nyheter/amerikansk-lege-smittet-av-ebola-1.17888354",
-      "category": "Ebola",
-      "pubDate": "Mon, 18 May 2026 18:40:31 GMT"
-    },
-    {
-      "title": "Etterforsker hendelse der russ ble delvis blind av laser",
-      "link": "https://www.nrk.no/sorlandet/etterforsker-hendelse-der-russ-ble-delvis-blind-av-laser-1.17888361",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 18 May 2026 18:12:14 GMT"
     }
   ]
 }
