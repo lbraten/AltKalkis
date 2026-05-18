@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-05-18T19:12:06.150Z",
+  "updatedAt": "2026-05-18T20:52:02.783Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trump sier han dropper planlagt angrep mot Iran tirsdag",
-      "link": "https://www.nrk.no/nyheter/trump-sier-han-dropper-planlagt-angrep-mot-iran-tirsdag-1.17888399",
+      "title": "10 minutter stående applaus for Reinsve-film i Cannes",
+      "link": "https://www.nrk.no/kultur/10-minutter-staende-applaus-for-reinsve-film-i-cannes-1.17888459",
+      "category": "Filmfestivalen i Cannes",
+      "pubDate": "Mon, 18 May 2026 20:25:16 GMT"
+    },
+    {
+      "title": "USA: Politiet sier de har \"nøytralisert\" situasjonen i San Diego-skyting",
+      "link": "https://www.nrk.no/nyheter/usa_-politiet-sier-de-har-_noytralisert_-situasjonen-i-san-diego-skyting-1.17888405",
+      "category": "USA",
+      "pubDate": "Mon, 18 May 2026 19:38:24 GMT"
+    },
+    {
+      "title": "Trump sier han dropper et planlagt angrep mot Iran tirsdag",
+      "link": "https://www.nrk.no/nyheter/trump-sier-han-dropper-et-planlagt-angrep-mot-iran-tirsdag-1.17888399",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 18 May 2026 19:05:55 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/etterforsker-hendelse-der-russ-ble-delvis-blind-av-laser-1.17888361",
       "category": "Nyheter fra Agder",
       "pubDate": "Mon, 18 May 2026 18:12:14 GMT"
-    },
-    {
-      "title": "Aqua gir seg som liveband",
-      "link": "https://www.nrk.no/nyheter/aqua-gir-seg-som-liveband-1.17888331",
-      "category": "Musikk",
-      "pubDate": "Mon, 18 May 2026 17:59:03 GMT"
-    },
-    {
-      "title": "Elon Musk tapte søksmål mot OpenAI",
-      "link": "https://www.nrk.no/nyheter/elon-musk-tapte-soksmal-mot-openai-1.17888312",
-      "category": "Elon Musk",
-      "pubDate": "Mon, 18 May 2026 17:39:19 GMT"
     }
   ]
 }
