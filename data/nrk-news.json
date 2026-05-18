@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-18T05:49:18.598Z",
+  "updatedAt": "2026-05-18T10:08:44.150Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ukraina: 11 mennesker såret i russiske luftangrep",
-      "link": "https://www.nrk.no/nyheter/ukraina_-11-mennesker-saret-i-russiske-luftangrep-1.17887208",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 18 May 2026 03:51:33 GMT"
-    },
-    {
-      "title": "Taxisjåfør knivskadd av passasjer",
-      "link": "https://www.nrk.no/vestland/taxisjafor-knivskadd-av-passasjer--1.17887174",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 18 May 2026 03:10:07 GMT"
-    },
-    {
-      "title": "Flere tusen evakuert etter jordskjelv i Kina",
-      "link": "https://www.nrk.no/nyheter/flere-tusen-evakuert-etter-jordskjelv-i-kina-1.17887168",
-      "category": "Kina",
-      "pubDate": "Mon, 18 May 2026 03:05:40 GMT"
-    },
-    {
-      "title": "USA henter ut amerikanere fra ebola-rammede Kongo",
-      "link": "https://www.nrk.no/nyheter/usa-henter-ut-amerikanere-fra-ebola-rammede-kongo-1.17887165",
-      "category": "Ebola",
-      "pubDate": "Mon, 18 May 2026 02:40:45 GMT"
-    },
-    {
-      "title": "Slåssing ved stort russetreff på Jessheim",
-      "link": "https://www.nrk.no/nyheter/slassing-ved-stort-russetreff-pa-jessheim-1.17887167",
+      "title": "Seks svensker og dansker pågrepet i lørdagens MC-aksjon",
+      "link": "https://www.nrk.no/stor-oslo/seks-svensker-og-dansker-pagrepet-i-lordagens-mc-aksjon-1.17887615",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 18 May 2026 02:13:41 GMT"
+      "pubDate": "Mon, 18 May 2026 09:47:17 GMT"
     },
     {
-      "title": "Ukrainske myndigheter: Flere såret i russiske luftangrep",
-      "link": "https://www.nrk.no/nyheter/ukrainske-myndigheter_-flere-saret-i-russiske-luftangrep-1.17887166",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 18 May 2026 01:54:49 GMT"
+      "title": "Mann siktet for overgrep mot barn",
+      "link": "https://www.nrk.no/vestfoldogtelemark/mann-siktet-for-overgrep-mot-barn-1.17887180",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 18 May 2026 09:45:41 GMT"
+    },
+    {
+      "title": "Stiftelse: Fredsprisvinner Narges Mohammadi utskrevet fra sykehus i Teheran",
+      "link": "https://www.nrk.no/nyheter/stiftelse_-fredsprisvinner-narges-mohammadi-utskrevet-fra-sykehus-i-teheran-1.17887455",
+      "category": "Nobels fredspris",
+      "pubDate": "Mon, 18 May 2026 09:22:35 GMT"
+    },
+    {
+      "title": "Iran har svart på USAs siste forslag til avtale",
+      "link": "https://www.nrk.no/nyheter/iran-har-svart-pa-usas-siste-forslag-til-avtale-1.17887416",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 18 May 2026 08:18:23 GMT"
+    },
+    {
+      "title": "Cruiseskipet Hondius ankommer Rotterdam",
+      "link": "https://www.nrk.no/nyheter/cruiseskipet-hondius-ankommer-rotterdam-1.17887393",
+      "category": "Hantavirus",
+      "pubDate": "Mon, 18 May 2026 07:57:48 GMT"
+    },
+    {
+      "title": "Nordmenn tjente mer i fjor",
+      "link": "https://www.nrk.no/nyheter/nordmenn-tjente-mer-i-fjor-1.17887364",
+      "category": "Norsk økonomi",
+      "pubDate": "Mon, 18 May 2026 07:45:07 GMT"
     }
   ]
 }
