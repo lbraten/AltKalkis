@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-19T19:25:55.315Z",
+  "updatedAt": "2026-05-19T21:01:23.526Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ti drept i israelsk angrep i Sør-Libanon",
+      "link": "https://www.nrk.no/nyheter/ti-drept-i-israelsk-angrep-i-sor-libanon-1.17890027",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 19 May 2026 20:44:17 GMT"
+    },
+    {
+      "title": "Staten anker ikke historisk endometriose-dom",
+      "link": "https://www.nrk.no/nyheter/staten-anker-ikke-historisk-endometriose-dom-1.17889962",
+      "category": "Kvinnehelse",
+      "pubDate": "Tue, 19 May 2026 19:51:10 GMT"
+    },
     {
       "title": "Nortura varsler høyere priser på kjøtt og egg",
       "link": "https://www.nrk.no/nyheter/nortura-varsler-hoyere-priser-pa-kjott-og-egg-1.17889925",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ektepar-loslatt-etter-anklager-om-mishandling-av-barn-_2_-1.17889874",
       "category": "Vold mot barn",
       "pubDate": "Tue, 19 May 2026 17:18:22 GMT"
-    },
-    {
-      "title": "175 drept i luftangrep mot IS i Nigeria",
-      "link": "https://www.nrk.no/nyheter/175-drept-i-luftangrep-mot-is-i-nigeria-1.17889869",
-      "category": "Nigeria",
-      "pubDate": "Tue, 19 May 2026 17:02:56 GMT"
-    },
-    {
-      "title": "Tilstår drap på Emilie Meng i 2016",
-      "link": "https://www.nrk.no/nyheter/tilstar-drap-pa-emilie-meng-i-2016-1.17889770",
-      "category": "Drapet på Emilie Meng (17)",
-      "pubDate": "Tue, 19 May 2026 16:58:25 GMT"
     }
   ]
 }
