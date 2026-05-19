@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-19T21:01:23.526Z",
+  "updatedAt": "2026-05-19T22:44:30.716Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Droneangrep mot industriområde i Russland",
+      "link": "https://www.nrk.no/nyheter/droneangrep-mot-industriomrade-i-russland-1.17890069",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 19 May 2026 22:37:08 GMT"
+    },
+    {
+      "title": "FBI: Moskéangripere i San Diego møttes på nettet",
+      "link": "https://www.nrk.no/nyheter/fbi_-moskeangripere-i-san-diego-mottes-pa-nettet-1.17890067",
+      "category": "USA",
+      "pubDate": "Tue, 19 May 2026 22:13:23 GMT"
+    },
     {
       "title": "Ti drept i israelsk angrep i Sør-Libanon",
       "link": "https://www.nrk.no/nyheter/ti-drept-i-israelsk-angrep-i-sor-libanon-1.17890027",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-mc-ulykke-i-larvik-1.17889910",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Tue, 19 May 2026 18:20:44 GMT"
-    },
-    {
-      "title": "Rubio kommer til Natos utenriksministermøte i Sverige",
-      "link": "https://www.nrk.no/nyheter/rubio-kommer-til-natos-utenriksministermote-i-sverige-1.17889890",
-      "category": "Nato",
-      "pubDate": "Tue, 19 May 2026 17:47:11 GMT"
-    },
-    {
-      "title": "Ektepar løslatt etter anklager om mishandling av barn (2)",
-      "link": "https://www.nrk.no/nyheter/ektepar-loslatt-etter-anklager-om-mishandling-av-barn-_2_-1.17889874",
-      "category": "Vold mot barn",
-      "pubDate": "Tue, 19 May 2026 17:18:22 GMT"
     }
   ]
 }
