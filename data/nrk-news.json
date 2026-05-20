@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-20T14:07:53.543Z",
+  "updatedAt": "2026-05-20T17:39:14.361Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ukraina ruster opp for russisk offensiv i nord",
-      "link": "https://www.nrk.no/nyheter/ukraina-ruster-opp-for-russisk-offensiv-i-nord-1.17891185",
+      "title": "Trump sier olje fra Venezuela er på vei til USA",
+      "link": "https://www.nrk.no/nyheter/trump-sier-olje-fra-venezuela-er-pa-vei-til-usa-1.17891630",
+      "category": "Venezuela og USA",
+      "pubDate": "Wed, 20 May 2026 17:35:15 GMT"
+    },
+    {
+      "title": "Coop Norge / Tilbakekaller Coop Sandwich 12-pakning",
+      "link": "https://www.nrk.no/nyheter/coop-norge-_-tilbakekaller-coop-sandwich-12-pakning-1.17891578",
+      "category": "Mattrygghet",
+      "pubDate": "Wed, 20 May 2026 17:17:31 GMT"
+    },
+    {
+      "title": "Eide om de arresterte aktivistene i Israel",
+      "link": "https://www.nrk.no/nyheter/eide-om-de-arresterte-aktivistene-i-israel-1.17891484",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 20 May 2026 13:44:37 GMT"
+      "pubDate": "Wed, 20 May 2026 16:31:39 GMT"
     },
     {
-      "title": "Tobias Santelmann har trekt seg frå «The White Lotus»",
-      "link": "https://www.nrk.no/kultur/tobias-santelmann-har-trekt-seg-fra-_the-white-lotus_-1.17891236",
-      "category": "Film og serier",
-      "pubDate": "Wed, 20 May 2026 13:08:20 GMT"
+      "title": "Rykket ut til fallulykke i Trondheim – gutt fikk skrubbsår",
+      "link": "https://www.nrk.no/trondelag/rykket-ut-til-fallulykke-i-trondheim-_-gutt-fikk-skrubbsar-1.17891515",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Wed, 20 May 2026 16:21:26 GMT"
     },
     {
-      "title": "Over 400 Palestina-aktivister pågrepet og holdt i Israel",
-      "link": "https://www.nrk.no/nyheter/over-400-palestina-aktivister-pagrepet-og-holdt-i-israel-1.17891117",
-      "category": "Gaza-aktivister arrestert i Israel",
-      "pubDate": "Wed, 20 May 2026 12:45:22 GMT"
+      "title": "Barn fall frå vindauge i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/barn-fall-fra-vindauge-i-oslo-1.17891535",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 20 May 2026 16:17:32 GMT"
     },
     {
-      "title": "Israel et skritt nærmere valg",
-      "link": "https://www.nrk.no/nyheter/israel-et-skritt-naermere-valg-1.17891087",
-      "category": "Israel",
-      "pubDate": "Wed, 20 May 2026 12:18:27 GMT"
-    },
-    {
-      "title": "Drepte eldre ektepar i 2022: Mener domfelte ikke kan slippes fri enda",
-      "link": "https://www.nrk.no/innlandet/drepte-eldre-ektepar-i-2022_-mener-domfelte-ikke-kan-slippes-fri-enda-1.17891001",
-      "category": "Dobbeltdrapet på Otta",
-      "pubDate": "Wed, 20 May 2026 11:53:09 GMT"
-    },
-    {
-      "title": "Scandinavian Star-overlevende tapte søksmål mot danske myndigheter",
-      "link": "https://www.nrk.no/nyheter/scandinavian-star-overlevende-tapte-soksmal-mot-danske-myndigheter-1.17890730",
-      "category": "Brannen på «Scandinavian Star»",
-      "pubDate": "Wed, 20 May 2026 11:35:41 GMT"
+      "title": "Motorsyklist til sykehus etter trafikkulykke på E6",
+      "link": "https://www.nrk.no/trondelag/motorsyklist-til-sykehus-etter-trafikkulykke-pa-e6-1.17890998",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Wed, 20 May 2026 15:42:02 GMT"
     }
   ]
 }
