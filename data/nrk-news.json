@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-20T20:20:19.608Z",
+  "updatedAt": "2026-05-20T22:10:23.377Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brudd i forhandlingene for fiskeindustrien",
+      "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-for-fiskeindustrien-1.17891827",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Wed, 20 May 2026 21:15:00 GMT"
+    },
     {
       "title": "Staten gir 2,2 milliarder i lån til datasenter",
       "link": "https://www.nrk.no/tromsogfinnmark/staten-gir-2_2-milliarder-i-lan-til-datasenter-1.17891790",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-bordet-iransk-oljetanker-1.17891657",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 20 May 2026 18:03:04 GMT"
-    },
-    {
-      "title": "Trump sier olje fra Venezuela er på vei til USA",
-      "link": "https://www.nrk.no/nyheter/trump-sier-olje-fra-venezuela-er-pa-vei-til-usa-1.17891630",
-      "category": "Venezuela og USA",
-      "pubDate": "Wed, 20 May 2026 17:35:15 GMT"
     }
   ]
 }
