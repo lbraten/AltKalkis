@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-20T22:10:23.377Z",
+  "updatedAt": "2026-05-20T23:48:17.010Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fortsatt fare for elektrikerstreik",
+      "link": "https://www.nrk.no/nyheter/fortsatt-fare-for-elektrikerstreik-1.17891839",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Wed, 20 May 2026 23:44:35 GMT"
+    },
+    {
+      "title": "Xi kan besøke Nord-Korea neste uke",
+      "link": "https://www.nrk.no/nyheter/xi-kan-besoke-nord-korea-neste-uke-1.17891837",
+      "category": "Nord-Korea",
+      "pubDate": "Wed, 20 May 2026 23:24:23 GMT"
+    },
+    {
+      "title": "Ny Frp-rådgiver slutter i partiet",
+      "link": "https://www.nrk.no/nyheter/ny-frp-radgiver-slutter-i-partiet-1.17891828",
+      "category": "Fremskrittspartiet",
+      "pubDate": "Wed, 20 May 2026 22:11:20 GMT"
+    },
     {
       "title": "Brudd i forhandlingene for fiskeindustrien",
       "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-for-fiskeindustrien-1.17891827",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/innlandet/forsvarsansatt-mistet-synet-pa-ett-oye-1.17891750",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Wed, 20 May 2026 19:00:19 GMT"
-    },
-    {
-      "title": "Øvelseskjørte med promille",
-      "link": "https://www.nrk.no/vestfoldogtelemark/ovelseskjorte-med-promille-1.17891566",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 20 May 2026 18:45:35 GMT"
-    },
-    {
-      "title": "Cubas ekspresident Raul Castro tiltalt i USA",
-      "link": "https://www.nrk.no/nyheter/cubas-ekspresident-raul-castro-tiltalt-i-usa--1.17891681",
-      "category": "Cuba",
-      "pubDate": "Wed, 20 May 2026 18:23:42 GMT"
-    },
-    {
-      "title": "USA bordet iransk oljetanker",
-      "link": "https://www.nrk.no/nyheter/usa-bordet-iransk-oljetanker-1.17891657",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 20 May 2026 18:03:04 GMT"
     }
   ]
 }
