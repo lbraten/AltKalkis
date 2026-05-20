@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-19T22:44:30.716Z",
+  "updatedAt": "2026-05-20T00:08:34.310Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trumps-støttet kandidat vant republikanernes valg i Kentucky",
+      "link": "https://www.nrk.no/nyheter/trumps-stottet-kandidat-vant-republikanernes-valg-i-kentucky-1.17890074",
+      "category": "USA",
+      "pubDate": "Wed, 20 May 2026 00:04:39 GMT"
+    },
+    {
+      "title": "Avis: USA og Israel skal ha vurdert Ahmadinejad som ny leder i Iran",
+      "link": "https://www.nrk.no/nyheter/avis_-usa-og-israel-skal-ha-vurdert-ahmadinejad-som-ny-leder-i-iran-1.17890073",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 20 May 2026 00:01:26 GMT"
+    },
+    {
+      "title": "Senatet åpner for avstemning om å tvinge Trump til å avslutte Iran-krigen",
+      "link": "https://www.nrk.no/nyheter/senatet-apner-for-avstemning-om-a-tvinge-trump-til-a-avslutte-iran-krigen-1.17890070",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 19 May 2026 22:51:08 GMT"
+    },
     {
       "title": "Droneangrep mot industriområde i Russland",
       "link": "https://www.nrk.no/nyheter/droneangrep-mot-industriomrade-i-russland-1.17890069",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ti-drept-i-israelsk-angrep-i-sor-libanon-1.17890027",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 19 May 2026 20:44:17 GMT"
-    },
-    {
-      "title": "Staten anker ikke historisk endometriose-dom",
-      "link": "https://www.nrk.no/nyheter/staten-anker-ikke-historisk-endometriose-dom-1.17889962",
-      "category": "Kvinnehelse",
-      "pubDate": "Tue, 19 May 2026 19:51:10 GMT"
-    },
-    {
-      "title": "Nortura varsler høyere priser på kjøtt og egg",
-      "link": "https://www.nrk.no/nyheter/nortura-varsler-hoyere-priser-pa-kjott-og-egg-1.17889925",
-      "category": "Matpriser",
-      "pubDate": "Tue, 19 May 2026 18:23:35 GMT"
-    },
-    {
-      "title": "Alvorlig MC-ulykke i Larvik",
-      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-mc-ulykke-i-larvik-1.17889910",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 19 May 2026 18:20:44 GMT"
     }
   ]
 }
