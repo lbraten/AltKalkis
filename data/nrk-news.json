@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-21T20:19:24.694Z",
+  "updatedAt": "2026-05-21T21:57:22.392Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Økokrim: Epstein-etterforskninger ikke ferdige i år",
+      "link": "https://www.nrk.no/nyheter/okokrim_-epstein-etterforskninger-ikke-ferdige-i-ar-1.17893235",
+      "category": "Epsteins norske forbindelser",
+      "pubDate": "Thu, 21 May 2026 21:51:27 GMT"
+    },
+    {
+      "title": "Tyrkisk opposisjonsparti anker dom",
+      "link": "https://www.nrk.no/nyheter/tyrkisk-opposisjonsparti-anker-dom-1.17893234",
+      "category": "Tyrkia",
+      "pubDate": "Thu, 21 May 2026 21:28:48 GMT"
+    },
+    {
+      "title": "USA strammer inn innreiseregler",
+      "link": "https://www.nrk.no/nyheter/usa-strammer-inn-innreiseregler--1.17893217",
+      "category": "Ebola",
+      "pubDate": "Thu, 21 May 2026 21:19:42 GMT"
+    },
+    {
+      "title": "Trump: USA sender 5000 soldater til Polen likevel",
+      "link": "https://www.nrk.no/nyheter/trump_-usa-sender-5000-soldater-til-polen-likevel-1.17893207",
+      "category": "Nato",
+      "pubDate": "Thu, 21 May 2026 20:33:12 GMT"
+    },
+    {
+      "title": "Minst 16 drept i angrep i Honduras",
+      "link": "https://www.nrk.no/nyheter/minst-16-drept-i-angrep-i-honduras-1.17893206",
+      "category": "Honduras",
+      "pubDate": "Thu, 21 May 2026 20:22:34 GMT"
+    },
     {
       "title": "Slankemedisin bremsar ikkje Alzheimers sjukdom",
       "link": "https://www.nrk.no/nyheter/slankemedisin-bremsar-ikkje-alzheimers-sjukdom-1.17893172",
       "category": "Alzheimer og demens",
       "pubDate": "Thu, 21 May 2026 19:27:13 GMT"
-    },
-    {
-      "title": "Dette er Norges tropp til VM i fotball",
-      "link": "https://www.nrk.no/nyheter/dette-er-norges-tropp-til-vm-i-fotball-1.17893109",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Thu, 21 May 2026 18:39:16 GMT"
-    },
-    {
-      "title": "Ambassadør avviser maktbruk mot Grønland",
-      "link": "https://www.nrk.no/nyheter/ambassador-avviser-maktbruk-mot-gronland-1.17893107",
-      "category": "Grønland",
-      "pubDate": "Thu, 21 May 2026 17:42:46 GMT"
-    },
-    {
-      "title": "Skoleelev dømt for millionsvindel",
-      "link": "https://www.nrk.no/nyheter/skoleelev-domt-for-millionsvindel-1.17893052",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 21 May 2026 17:39:41 GMT"
-    },
-    {
-      "title": "Tor Magne Nesvik er valgt som ny biskop",
-      "link": "https://www.nrk.no/rogaland/tor-magne-nesvik-er-valgt-som-ny-biskop-1.17893050",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Thu, 21 May 2026 17:00:08 GMT"
-    },
-    {
-      "title": "Mann tiltalt for hatytringer mot norske profiler",
-      "link": "https://www.nrk.no/nyheter/mann-tiltalt-for-hatytringer-mot-norske-profiler-1.17893015",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 21 May 2026 16:33:49 GMT"
     }
   ]
 }
