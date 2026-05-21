@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-21T18:00:56.476Z",
+  "updatedAt": "2026-05-21T20:19:24.694Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Slankemedisin bremsar ikkje Alzheimers sjukdom",
+      "link": "https://www.nrk.no/nyheter/slankemedisin-bremsar-ikkje-alzheimers-sjukdom-1.17893172",
+      "category": "Alzheimer og demens",
+      "pubDate": "Thu, 21 May 2026 19:27:13 GMT"
+    },
+    {
+      "title": "Dette er Norges tropp til VM i fotball",
+      "link": "https://www.nrk.no/nyheter/dette-er-norges-tropp-til-vm-i-fotball-1.17893109",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Thu, 21 May 2026 18:39:16 GMT"
+    },
     {
       "title": "Ambassadør avviser maktbruk mot Grønland",
       "link": "https://www.nrk.no/nyheter/ambassador-avviser-maktbruk-mot-gronland-1.17893107",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-tiltalt-for-hatytringer-mot-norske-profiler-1.17893015",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 21 May 2026 16:33:49 GMT"
-    },
-    {
-      "title": "VG: Enighet om RS-beskyttelse på Stortinget",
-      "link": "https://www.nrk.no/nyheter/vg_-enighet-om-rs-beskyttelse-pa-stortinget-1.17892988",
-      "category": "RS-virus",
-      "pubDate": "Thu, 21 May 2026 16:10:47 GMT"
-    },
-    {
-      "title": "Brudd mellom EL og IT og Fornybar Norge",
-      "link": "https://www.nrk.no/nyheter/brudd-mellom-el-og-it-og-fornybar-norge-1.17892794",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Thu, 21 May 2026 15:42:45 GMT"
     }
   ]
 }
