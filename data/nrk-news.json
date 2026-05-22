@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-05-22T15:34:40.515Z",
+  "updatedAt": "2026-05-22T17:53:33.822Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Utvider siktelse etter dobbeltdrap",
+      "link": "https://www.nrk.no/nyheter/utvider-siktelse-etter-dobbeltdrap-1.17894384",
+      "category": "To personer funnet døde på Karmøy",
+      "pubDate": "Fri, 22 May 2026 17:45:28 GMT"
+    },
+    {
+      "title": "USAs etterretningsdirektør går av",
+      "link": "https://www.nrk.no/nyheter/usas-etterretningsdirektor-gar-av--1.17894513",
+      "category": "USA",
+      "pubDate": "Fri, 22 May 2026 17:07:06 GMT"
+    },
+    {
+      "title": "USAs nye sentralbanksjef tatt i ed",
+      "link": "https://www.nrk.no/nyheter/usas-nye-sentralbanksjef-tatt-i-ed-1.17894471",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 22 May 2026 16:12:20 GMT"
+    },
+    {
+      "title": "Gir opp forsøket på borgerlig regjering i Danmark",
+      "link": "https://www.nrk.no/nyheter/gir-opp-forsoket-pa-borgerlig-regjering-i-danmark-1.17894459",
+      "category": "Danmark",
+      "pubDate": "Fri, 22 May 2026 15:35:35 GMT"
+    },
+    {
       "title": "Putin lover hevn etter angrep i okkuperte områder",
       "link": "https://www.nrk.no/nyheter/putin-lover-hevn-etter-angrep-i-okkuperte-omrader-1.17894436",
-      "category": "NRK Nyheter",
+      "category": "Krigen i Ukraina",
       "pubDate": "Fri, 22 May 2026 15:09:48 GMT"
     },
     {
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eide_-skal-ha-faste-moter-i-a7-gruppen-i-nato-1.17894399",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 22 May 2026 14:43:31 GMT"
-    },
-    {
-      "title": "Pinsetrafikken: Lange køer ut av Oslo",
-      "link": "https://www.nrk.no/stor-oslo/pinsetrafikken_-lange-koer-ut-av-oslo-1.17894394",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 22 May 2026 14:14:33 GMT"
-    },
-    {
-      "title": "Rubio: Målet er et sterkere Nato",
-      "link": "https://www.nrk.no/nyheter/rubio_-malet-er-et-sterkere-nato-1.17894338",
-      "category": "Nato",
-      "pubDate": "Fri, 22 May 2026 14:04:38 GMT"
-    },
-    {
-      "title": "Zelenskyj skal delta på Nato-toppmøte i juli",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-skal-delta-pa-nato-toppmote-i-juli-1.17894284",
-      "category": "Nato",
-      "pubDate": "Fri, 22 May 2026 13:32:45 GMT"
-    },
-    {
-      "title": "Nato-sjef: USAs forsvar starter i Norge",
-      "link": "https://www.nrk.no/nyheter/nato-sjef_-usas-forsvar-starter-i-norge-1.17894209",
-      "category": "Nato",
-      "pubDate": "Fri, 22 May 2026 13:06:26 GMT"
     }
   ]
 }
