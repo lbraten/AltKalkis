@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-22T17:53:33.822Z",
+  "updatedAt": "2026-05-22T19:49:30.948Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tror Mette Frederiksen blir statsminister igjen",
+      "link": "https://www.nrk.no/nyheter/tror-mette-frederiksen-blir-statsminister-igjen-1.17894584",
+      "category": "Danmark",
+      "pubDate": "Fri, 22 May 2026 18:39:42 GMT"
+    },
+    {
+      "title": "Amerikanske senatorer til Svalbard i helga",
+      "link": "https://www.nrk.no/tromsogfinnmark/amerikanske-senatorer-til-svalbard-i-helga-1.17894616",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Fri, 22 May 2026 18:03:20 GMT"
+    },
     {
       "title": "Utvider siktelse etter dobbeltdrap",
       "link": "https://www.nrk.no/nyheter/utvider-siktelse-etter-dobbeltdrap-1.17894384",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/gir-opp-forsoket-pa-borgerlig-regjering-i-danmark-1.17894459",
       "category": "Danmark",
       "pubDate": "Fri, 22 May 2026 15:35:35 GMT"
-    },
-    {
-      "title": "Putin lover hevn etter angrep i okkuperte områder",
-      "link": "https://www.nrk.no/nyheter/putin-lover-hevn-etter-angrep-i-okkuperte-omrader-1.17894436",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 22 May 2026 15:09:48 GMT"
-    },
-    {
-      "title": "Eide: Skal ha faste møter i A7-gruppen i Nato",
-      "link": "https://www.nrk.no/nyheter/eide_-skal-ha-faste-moter-i-a7-gruppen-i-nato-1.17894399",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 22 May 2026 14:43:31 GMT"
     }
   ]
 }
