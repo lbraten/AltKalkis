@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-22T19:49:30.948Z",
+  "updatedAt": "2026-05-22T21:12:49.467Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump drar ikke i sønnens bryllup",
+      "link": "https://www.nrk.no/nyheter/trump-drar-ikke-i-sonnens-bryllup-1.17894709",
+      "category": "Donald Trump",
+      "pubDate": "Fri, 22 May 2026 21:00:21 GMT"
+    },
+    {
+      "title": "Isbjørn Is kaller tilbake sandwich-pakker",
+      "link": "https://www.nrk.no/nyheter/isbjorn-is-kaller-tilbake-sandwich-pakker-1.17894663",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 22 May 2026 20:16:52 GMT"
+    },
     {
       "title": "Tror Mette Frederiksen blir statsminister igjen",
       "link": "https://www.nrk.no/nyheter/tror-mette-frederiksen-blir-statsminister-igjen-1.17894584",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usas-etterretningsdirektor-gar-av--1.17894513",
       "category": "USA",
       "pubDate": "Fri, 22 May 2026 17:07:06 GMT"
-    },
-    {
-      "title": "USAs nye sentralbanksjef tatt i ed",
-      "link": "https://www.nrk.no/nyheter/usas-nye-sentralbanksjef-tatt-i-ed-1.17894471",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 22 May 2026 16:12:20 GMT"
-    },
-    {
-      "title": "Gir opp forsøket på borgerlig regjering i Danmark",
-      "link": "https://www.nrk.no/nyheter/gir-opp-forsoket-pa-borgerlig-regjering-i-danmark-1.17894459",
-      "category": "Danmark",
-      "pubDate": "Fri, 22 May 2026 15:35:35 GMT"
     }
   ]
 }
