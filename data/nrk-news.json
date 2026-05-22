@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-22T21:12:49.467Z",
+  "updatedAt": "2026-05-22T22:34:06.953Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i tomannsbolig i Nannestad slukket",
+      "link": "https://www.nrk.no/nyheter/brann-i-tomannsbolig-i-nannestad-slukket-1.17894710",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 22 May 2026 21:29:52 GMT"
+    },
     {
       "title": "Trump drar ikke i sønnens bryllup",
       "link": "https://www.nrk.no/nyheter/trump-drar-ikke-i-sonnens-bryllup-1.17894709",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/utvider-siktelse-etter-dobbeltdrap-1.17894384",
       "category": "To personer funnet døde på Karmøy",
       "pubDate": "Fri, 22 May 2026 17:45:28 GMT"
-    },
-    {
-      "title": "USAs etterretningsdirektør går av",
-      "link": "https://www.nrk.no/nyheter/usas-etterretningsdirektor-gar-av--1.17894513",
-      "category": "USA",
-      "pubDate": "Fri, 22 May 2026 17:07:06 GMT"
     }
   ]
 }
