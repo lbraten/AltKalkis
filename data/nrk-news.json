@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-23T20:06:51.539Z",
+  "updatedAt": "2026-05-23T21:26:36.610Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump: Iran-avtale er stort sett forhandlet frem",
+      "link": "https://www.nrk.no/nyheter/trump_-iran-avtale-er-stort-sett-forhandlet-frem-1.17895266",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 23 May 2026 20:38:01 GMT"
+    },
     {
       "title": "Norsk-rumenske «Fjord» vant Gullpalmen i Cannes",
       "link": "https://www.nrk.no/nyheter/norsk-rumenske-_fjord_-vant-gullpalmen-i-cannes-1.17895259",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-siktet-for-drapsforsok-etter-voldshendelse-i-stavanger-1.17895173",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 23 May 2026 17:52:36 GMT"
-    },
-    {
-      "title": "Arresterte for truslar i Ålesund",
-      "link": "https://www.nrk.no/mr/arresterte-for-truslar-i-alesund-1.17895146",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 23 May 2026 16:57:14 GMT"
     }
   ]
 }
