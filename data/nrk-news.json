@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-05-23T18:33:39.605Z",
+  "updatedAt": "2026-05-23T20:06:51.539Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Tap for Hegerberg og Lyon",
-      "link": "https://www.nrk.no/mr/tap-for-hegerberg-og-lyon-1.17895176",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 23 May 2026 17:59:13 GMT"
+      "title": "Norsk-rumenske «Fjord» vant Gullpalmen i Cannes",
+      "link": "https://www.nrk.no/nyheter/norsk-rumenske-_fjord_-vant-gullpalmen-i-cannes-1.17895259",
+      "category": "Film og serier",
+      "pubDate": "Sat, 23 May 2026 19:39:13 GMT"
+    },
+    {
+      "title": "Titusener i protest mot regjeringen i Serbia",
+      "link": "https://www.nrk.no/nyheter/titusener-i-protest-mot-regjeringen-i-serbia-1.17895249",
+      "category": "Serbia",
+      "pubDate": "Sat, 23 May 2026 19:21:23 GMT"
+    },
+    {
+      "title": "Alvorlig voldshendelse i Asker",
+      "link": "https://www.nrk.no/stor-oslo/alvorlig-voldshendelse-i-asker-1.17895077",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 23 May 2026 19:02:05 GMT"
+    },
+    {
+      "title": "Barcelona og Graham Hansen vant mesterligafinalen på Ullevaal",
+      "link": "https://www.nrk.no/nyheter/barcelona-og-graham-hansen-vant-mesterligafinalen-pa-ullevaal-1.17895233",
+      "category": "Fotball",
+      "pubDate": "Sat, 23 May 2026 18:37:14 GMT"
     },
     {
       "title": "Mann siktet for drapsforsøk etter voldshendelse i Stavanger",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/mr/arresterte-for-truslar-i-alesund-1.17895146",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sat, 23 May 2026 16:57:14 GMT"
-    },
-    {
-      "title": "Over 50 skadet i trikkeulykke i Tyskland",
-      "link": "https://www.nrk.no/nyheter/over-50-skadet-i-trikkeulykke-i-tyskland-1.17895153",
-      "category": "Tyskland",
-      "pubDate": "Sat, 23 May 2026 16:54:36 GMT"
-    },
-    {
-      "title": "Jan Petter Bratsberg er død",
-      "link": "https://www.nrk.no/vestfoldogtelemark/jan-petter-bratsberg-er-dod-1.17895166",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 23 May 2026 16:41:04 GMT"
-    },
-    {
-      "title": "Trump: USA nærmer seg en avtale med Iran",
-      "link": "https://www.nrk.no/nyheter/trump_-usa-naermer-seg-en-avtale-med-iran-1.17895110",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 23 May 2026 16:14:55 GMT"
     }
   ]
 }
