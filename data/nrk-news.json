@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-23T21:26:36.610Z",
+  "updatedAt": "2026-05-23T22:26:27.882Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kongo: Over 200 ebola-dødsfall",
+      "link": "https://www.nrk.no/nyheter/kongo_-over-200-ebola-dodsfall-1.17895317",
+      "category": "Ebola",
+      "pubDate": "Sat, 23 May 2026 22:19:00 GMT"
+    },
+    {
+      "title": "Iran sier de fortsatt skal kontrollere Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran-sier-de-fortsatt-skal-kontrollere-hormuzstredet-1.17895314",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 23 May 2026 21:39:15 GMT"
+    },
     {
       "title": "Trump: Iran-avtale er stort sett forhandlet frem",
       "link": "https://www.nrk.no/nyheter/trump_-iran-avtale-er-stort-sett-forhandlet-frem-1.17895266",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/alvorlig-voldshendelse-i-asker-1.17895077",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 23 May 2026 19:02:05 GMT"
-    },
-    {
-      "title": "Barcelona og Graham Hansen vant mesterligafinalen på Ullevaal",
-      "link": "https://www.nrk.no/nyheter/barcelona-og-graham-hansen-vant-mesterligafinalen-pa-ullevaal-1.17895233",
-      "category": "Fotball",
-      "pubDate": "Sat, 23 May 2026 18:37:14 GMT"
-    },
-    {
-      "title": "Mann siktet for drapsforsøk etter voldshendelse i Stavanger",
-      "link": "https://www.nrk.no/nyheter/mann-siktet-for-drapsforsok-etter-voldshendelse-i-stavanger-1.17895173",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 23 May 2026 17:52:36 GMT"
     }
   ]
 }
