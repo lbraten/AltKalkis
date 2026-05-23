@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-23T09:21:01.846Z",
+  "updatedAt": "2026-05-23T10:53:00.760Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Russisk drone traff gravfølge: én drept og ni skadd",
+      "link": "https://www.nrk.no/nyheter/russisk-drone-traff-gravfolge_-en-drept-og-ni-skadd-1.17894862",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 23 May 2026 10:20:37 GMT"
+    },
+    {
+      "title": "Deler av Styrkeprøven kan gjennomføres",
+      "link": "https://www.nrk.no/innlandet/deler-av-styrkeproven-kan-gjennomfores-1.17894910",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 23 May 2026 10:18:28 GMT"
+    },
+    {
+      "title": "Zelenskyj bekrefter angrep mot russisk anlegg",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-angrep-mot-russisk-anlegg-1.17894886",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 23 May 2026 09:34:25 GMT"
+    },
+    {
+      "title": "Tre personer skutt i Stockholm",
+      "link": "https://www.nrk.no/nyheter/tre-personer-skutt-i-stockholm-1.17894877",
+      "category": "Sverige",
+      "pubDate": "Sat, 23 May 2026 09:28:46 GMT"
+    },
     {
       "title": "Dansk regjeringsdannelse starter på nytt for tredje gang",
       "link": "https://www.nrk.no/nyheter/dansk-regjeringsdannelse-starter-pa-nytt-for-tredje-gang-1.17894761",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestland/e16-stengt-pa-voss-etter-oversymjing-1.17894778",
       "category": "Trafikk og vêr i Vestland",
       "pubDate": "Sat, 23 May 2026 06:25:04 GMT"
-    },
-    {
-      "title": "Oljelager i brann etter droneangrep mot Russlands største eksporthavn",
-      "link": "https://www.nrk.no/nyheter/oljelager-i-brann-etter-droneangrep-mot-russlands-storste-eksporthavn-1.17894746",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 23 May 2026 05:59:26 GMT"
-    },
-    {
-      "title": "Minst 90 døde i gruveulykke i Kina",
-      "link": "https://www.nrk.no/nyheter/minst-90-dode-i-gruveulykke-i-kina-1.17894734",
-      "category": "Kina",
-      "pubDate": "Sat, 23 May 2026 03:44:41 GMT"
-    },
-    {
-      "title": "Kritisk for motorsyklist etter ulykke i Indre Østfold",
-      "link": "https://www.nrk.no/nyheter/kritisk-for-motorsyklist-etter-ulykke-i-indre-ostfold-1.17894731",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 23 May 2026 03:12:47 GMT"
-    },
-    {
-      "title": "40 russebusser bortvist fra Ullensaker – høy musikk utløste bilalarmer",
-      "link": "https://www.nrk.no/nyheter/40-russebusser-bortvist-fra-ullensaker-_-hoy-musikk-utloste-bilalarmer-1.17894733",
-      "category": "Russefeiring",
-      "pubDate": "Sat, 23 May 2026 02:28:35 GMT"
     }
   ]
 }
