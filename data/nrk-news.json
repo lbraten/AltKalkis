@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-23T10:53:00.760Z",
+  "updatedAt": "2026-05-23T12:00:28.061Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "TV2: Dømt til 21 års forvaring for dobbeltdrapet i Gjerdrum – anker straffeutmålingen",
+      "link": "https://www.nrk.no/nyheter/tv2_-domt-til-21-ars-forvaring-for-dobbeltdrapet-i-gjerdrum-_-anker-straffeutmalingen-1.17894948",
+      "category": "Drap i Gjerdrum",
+      "pubDate": "Sat, 23 May 2026 11:45:36 GMT"
+    },
+    {
+      "title": "Fem politifolk drept i israelsk angrep nord i Gaza",
+      "link": "https://www.nrk.no/nyheter/fem-politifolk-drept-i-israelsk-angrep-nord-i-gaza-1.17894930",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sat, 23 May 2026 11:36:39 GMT"
+    },
+    {
+      "title": "Mette Frederiksen bedt om å danne regjering, igjen",
+      "link": "https://www.nrk.no/nyheter/mette-frederiksen-bedt-om-a-danne-regjering_-igjen-1.17894912",
+      "category": "Danmark",
+      "pubDate": "Sat, 23 May 2026 10:56:21 GMT"
+    },
     {
       "title": "Russisk drone traff gravfølge: én drept og ni skadd",
       "link": "https://www.nrk.no/nyheter/russisk-drone-traff-gravfolge_-en-drept-og-ni-skadd-1.17894862",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-angrep-mot-russisk-anlegg-1.17894886",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 23 May 2026 09:34:25 GMT"
-    },
-    {
-      "title": "Tre personer skutt i Stockholm",
-      "link": "https://www.nrk.no/nyheter/tre-personer-skutt-i-stockholm-1.17894877",
-      "category": "Sverige",
-      "pubDate": "Sat, 23 May 2026 09:28:46 GMT"
-    },
-    {
-      "title": "Dansk regjeringsdannelse starter på nytt for tredje gang",
-      "link": "https://www.nrk.no/nyheter/dansk-regjeringsdannelse-starter-pa-nytt-for-tredje-gang-1.17894761",
-      "category": "Danmark",
-      "pubDate": "Sat, 23 May 2026 08:55:32 GMT"
-    },
-    {
-      "title": "E16 stengt på Voss etter oversymjing",
-      "link": "https://www.nrk.no/vestland/e16-stengt-pa-voss-etter-oversymjing-1.17894778",
-      "category": "Trafikk og vêr i Vestland",
-      "pubDate": "Sat, 23 May 2026 06:25:04 GMT"
     }
   ]
 }
