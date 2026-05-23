@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-23T15:42:06.958Z",
+  "updatedAt": "2026-05-23T17:01:45.864Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 50 skadet i trikkeulykke i Tyskland",
+      "link": "https://www.nrk.no/nyheter/over-50-skadet-i-trikkeulykke-i-tyskland-1.17895153",
+      "category": "Tyskland",
+      "pubDate": "Sat, 23 May 2026 16:54:36 GMT"
+    },
+    {
+      "title": "Jan Petter Bratsberg er død",
+      "link": "https://www.nrk.no/vestfoldogtelemark/jan-petter-bratsberg-er-dod-1.17895166",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 23 May 2026 16:41:04 GMT"
+    },
+    {
+      "title": "Trump: USA nærmer seg en avtale med Iran",
+      "link": "https://www.nrk.no/nyheter/trump_-usa-naermer-seg-en-avtale-med-iran-1.17895110",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 23 May 2026 16:14:55 GMT"
+    },
     {
       "title": "Kina nedjusterer dødstallet etter gruveulykke",
       "link": "https://www.nrk.no/nyheter/kina-nedjusterer-dodstallet-etter-gruveulykke-1.17895084",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/frykter-ebola-smitte-i-ti-afrikanske-land-1.17895079",
       "category": "Ebola",
       "pubDate": "Sat, 23 May 2026 14:52:36 GMT"
-    },
-    {
-      "title": "Mer enn 500 barn døde i meslingutbrudd i Bangladesh",
-      "link": "https://www.nrk.no/nyheter/mer-enn-500-barn-dode-i-meslingutbrudd-i-bangladesh-1.17895052",
-      "category": "Bangladesh",
-      "pubDate": "Sat, 23 May 2026 14:11:18 GMT"
-    },
-    {
-      "title": "Mann frakta til sjukehus etter alvorleg valdshending i Stavanger",
-      "link": "https://www.nrk.no/rogaland/mann-frakta-til-sjukehus-etter-alvorleg-valdshending-i-stavanger--1.17895045",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 23 May 2026 14:05:43 GMT"
-    },
-    {
-      "title": "Rubio tror Iran-avtale kan landes snart",
-      "link": "https://www.nrk.no/nyheter/rubio-tror-iran-avtale-kan-landes-snart-1.17894985",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 23 May 2026 13:52:17 GMT"
     }
   ]
 }
