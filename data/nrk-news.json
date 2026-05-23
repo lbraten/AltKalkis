@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-23T17:01:45.864Z",
+  "updatedAt": "2026-05-23T18:33:39.605Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tap for Hegerberg og Lyon",
+      "link": "https://www.nrk.no/mr/tap-for-hegerberg-og-lyon-1.17895176",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 23 May 2026 17:59:13 GMT"
+    },
+    {
+      "title": "Mann siktet for drapsforsøk etter voldshendelse i Stavanger",
+      "link": "https://www.nrk.no/nyheter/mann-siktet-for-drapsforsok-etter-voldshendelse-i-stavanger-1.17895173",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 23 May 2026 17:52:36 GMT"
+    },
+    {
+      "title": "Arresterte for truslar i Ålesund",
+      "link": "https://www.nrk.no/mr/arresterte-for-truslar-i-alesund-1.17895146",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 23 May 2026 16:57:14 GMT"
+    },
     {
       "title": "Over 50 skadet i trikkeulykke i Tyskland",
       "link": "https://www.nrk.no/nyheter/over-50-skadet-i-trikkeulykke-i-tyskland-1.17895153",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-usa-naermer-seg-en-avtale-med-iran-1.17895110",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sat, 23 May 2026 16:14:55 GMT"
-    },
-    {
-      "title": "Kina nedjusterer dødstallet etter gruveulykke",
-      "link": "https://www.nrk.no/nyheter/kina-nedjusterer-dodstallet-etter-gruveulykke-1.17895084",
-      "category": "Kina",
-      "pubDate": "Sat, 23 May 2026 15:25:06 GMT"
-    },
-    {
-      "title": "Innbrudd hos Finansavisen – datamaskiner og fotoutstyr stjålet",
-      "link": "https://www.nrk.no/stor-oslo/innbrudd-hos-finansavisen-_-datamaskiner-og-fotoutstyr-stjalet-1.17895074",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 23 May 2026 15:24:30 GMT"
-    },
-    {
-      "title": "Frykter ebola-smitte i ti afrikanske land",
-      "link": "https://www.nrk.no/nyheter/frykter-ebola-smitte-i-ti-afrikanske-land-1.17895079",
-      "category": "Ebola",
-      "pubDate": "Sat, 23 May 2026 14:52:36 GMT"
     }
   ]
 }
