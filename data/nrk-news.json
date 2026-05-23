@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-23T12:00:28.061Z",
+  "updatedAt": "2026-05-23T14:08:44.391Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rubio tror Iran-avtale kan landes snart",
+      "link": "https://www.nrk.no/nyheter/rubio-tror-iran-avtale-kan-landes-snart-1.17894985",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 23 May 2026 13:52:17 GMT"
+    },
+    {
+      "title": "Røykutvikling frå bygg i Sandnes – nabohus blir evakuert",
+      "link": "https://www.nrk.no/rogaland/roykutvikling-fra-bygg-i-sandnes-_-nabohus-blir-evakuert-1.17894933",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 23 May 2026 13:39:41 GMT"
+    },
+    {
+      "title": "Bilbrann stenger E6 i Rana",
+      "link": "https://www.nrk.no/nordland/bilbrann-stenger-e6-i-rana-1.17895005",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 23 May 2026 13:15:28 GMT"
+    },
+    {
+      "title": "Israels sikkerhetsminister utestengt fra Frankrike",
+      "link": "https://www.nrk.no/nyheter/israels-sikkerhetsminister-utestengt-fra-frankrike-1.17894984",
+      "category": "Israel",
+      "pubDate": "Sat, 23 May 2026 12:24:25 GMT"
+    },
     {
       "title": "TV2: Dømt til 21 års forvaring for dobbeltdrapet i Gjerdrum – anker straffeutmålingen",
       "link": "https://www.nrk.no/nyheter/tv2_-domt-til-21-ars-forvaring-for-dobbeltdrapet-i-gjerdrum-_-anker-straffeutmalingen-1.17894948",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fem-politifolk-drept-i-israelsk-angrep-nord-i-gaza-1.17894930",
       "category": "Krigen i Gaza",
       "pubDate": "Sat, 23 May 2026 11:36:39 GMT"
-    },
-    {
-      "title": "Mette Frederiksen bedt om å danne regjering, igjen",
-      "link": "https://www.nrk.no/nyheter/mette-frederiksen-bedt-om-a-danne-regjering_-igjen-1.17894912",
-      "category": "Danmark",
-      "pubDate": "Sat, 23 May 2026 10:56:21 GMT"
-    },
-    {
-      "title": "Russisk drone traff gravfølge: én drept og ni skadd",
-      "link": "https://www.nrk.no/nyheter/russisk-drone-traff-gravfolge_-en-drept-og-ni-skadd-1.17894862",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 23 May 2026 10:20:37 GMT"
-    },
-    {
-      "title": "Deler av Styrkeprøven kan gjennomføres",
-      "link": "https://www.nrk.no/innlandet/deler-av-styrkeproven-kan-gjennomfores-1.17894910",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 23 May 2026 10:18:28 GMT"
-    },
-    {
-      "title": "Zelenskyj bekrefter angrep mot russisk anlegg",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-angrep-mot-russisk-anlegg-1.17894886",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 23 May 2026 09:34:25 GMT"
     }
   ]
 }
