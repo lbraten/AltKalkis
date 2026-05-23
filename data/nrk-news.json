@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-05-23T04:24:52.977Z",
+  "updatedAt": "2026-05-23T07:15:27.425Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Minst åtte døde i gruveulykke i Kina",
-      "link": "https://www.nrk.no/nyheter/minst-atte-dode-i-gruveulykke-i-kina-1.17894734",
+      "title": "Oljelager i brann etter droneangrep mot Russlands største eksporthavn",
+      "link": "https://www.nrk.no/nyheter/oljelager-i-brann-etter-droneangrep-mot-russlands-storste-eksporthavn-1.17894746",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 23 May 2026 05:59:26 GMT"
+    },
+    {
+      "title": "Minst 90 døde i gruveulykke i Kina",
+      "link": "https://www.nrk.no/nyheter/minst-90-dode-i-gruveulykke-i-kina-1.17894734",
       "category": "Kina",
       "pubDate": "Sat, 23 May 2026 03:44:41 GMT"
     },
     {
-      "title": "Alvorlig MC-ulykke i Indre Østfold",
-      "link": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-indre-ostfold-1.17894731",
+      "title": "Kritisk for motorsyklist etter ulykke i Indre Østfold",
+      "link": "https://www.nrk.no/nyheter/kritisk-for-motorsyklist-etter-ulykke-i-indre-ostfold-1.17894731",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sat, 23 May 2026 03:12:47 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-dod-etter-eksplosjon-pa-skipsverft-i-new-york-1.17894714",
       "category": "USA",
       "pubDate": "Sat, 23 May 2026 01:49:25 GMT"
-    },
-    {
-      "title": "USA strammer inn innreiseregler for å stoppe ebola",
-      "link": "https://www.nrk.no/nyheter/usa-strammer-inn-innreiseregler-for-a-stoppe-ebola-1.17894730",
-      "category": "Ebola",
-      "pubDate": "Sat, 23 May 2026 01:34:01 GMT"
     }
   ]
 }
