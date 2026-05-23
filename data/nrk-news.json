@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-23T07:15:27.425Z",
+  "updatedAt": "2026-05-23T09:21:01.846Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dansk regjeringsdannelse starter på nytt for tredje gang",
+      "link": "https://www.nrk.no/nyheter/dansk-regjeringsdannelse-starter-pa-nytt-for-tredje-gang-1.17894761",
+      "category": "Danmark",
+      "pubDate": "Sat, 23 May 2026 08:55:32 GMT"
+    },
+    {
+      "title": "E16 stengt på Voss etter oversymjing",
+      "link": "https://www.nrk.no/vestland/e16-stengt-pa-voss-etter-oversymjing-1.17894778",
+      "category": "Trafikk og vêr i Vestland",
+      "pubDate": "Sat, 23 May 2026 06:25:04 GMT"
+    },
     {
       "title": "Oljelager i brann etter droneangrep mot Russlands største eksporthavn",
       "link": "https://www.nrk.no/nyheter/oljelager-i-brann-etter-droneangrep-mot-russlands-storste-eksporthavn-1.17894746",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/40-russebusser-bortvist-fra-ullensaker-_-hoy-musikk-utloste-bilalarmer-1.17894733",
       "category": "Russefeiring",
       "pubDate": "Sat, 23 May 2026 02:28:35 GMT"
-    },
-    {
-      "title": "Titusener evakueres etter kjemikaliefare i California",
-      "link": "https://www.nrk.no/nyheter/titusener-evakueres-etter-kjemikaliefare-i-california-1.17894732",
-      "category": "USA",
-      "pubDate": "Sat, 23 May 2026 02:17:18 GMT"
-    },
-    {
-      "title": "Én død etter eksplosjon på skipsverft i New York",
-      "link": "https://www.nrk.no/nyheter/en-dod-etter-eksplosjon-pa-skipsverft-i-new-york-1.17894714",
-      "category": "USA",
-      "pubDate": "Sat, 23 May 2026 01:49:25 GMT"
     }
   ]
 }
