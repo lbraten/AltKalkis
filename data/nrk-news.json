@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-24T10:56:25.727Z",
+  "updatedAt": "2026-05-24T12:03:23.775Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tyrkisk opprørspoliti bruker tåregass mot opposisjonspartiets hovedkvarter",
+      "link": "https://www.nrk.no/nyheter/tyrkisk-opprorspoliti-bruker-taregass-mot-opposisjonspartiets-hovedkvarter-1.17895599",
+      "category": "Tyrkia",
+      "pubDate": "Sun, 24 May 2026 11:41:44 GMT"
+    },
+    {
+      "title": "Regjeringsforhandlingene i Danmark har startet",
+      "link": "https://www.nrk.no/nyheter/regjeringsforhandlingene-i-danmark-har-startet-1.17895566",
+      "category": "Danmark",
+      "pubDate": "Sun, 24 May 2026 11:18:59 GMT"
+    },
     {
       "title": "Støre fordømmer Russlands angrep mot Ukraina i natt: – Totalt fravær av vilje til fred",
       "link": "https://www.nrk.no/nyheter/store-fordommer-russlands-angrep-mot-ukraina-i-natt_-_-totalt-fravaer-av-vilje-til-fred-1.17895539",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russland-bekrefter-bruk-av-det-fryktede-_oresjnik_-missilet-i-nattens-storangrep-1.17895446",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 24 May 2026 08:41:55 GMT"
-    },
-    {
-      "title": "Skudd avfyrt i Asker: Mann siktet for grov kroppsskade",
-      "link": "https://www.nrk.no/stor-oslo/skudd-avfyrt-i-asker_-mann-siktet-for-grov-kroppsskade-1.17895404",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 24 May 2026 07:57:50 GMT"
-    },
-    {
-      "title": "Rubio: Iran-avtale kan komme i dag",
-      "link": "https://www.nrk.no/nyheter/rubio_-iran-avtale-kan-komme-i-dag-1.17895428",
-      "category": "Iran",
-      "pubDate": "Sun, 24 May 2026 07:49:48 GMT"
     }
   ]
 }
