@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-23T23:30:45.856Z",
+  "updatedAt": "2026-05-24T03:50:49.541Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet fant skarpladd våpen i tom bil – tre pågrepet",
+      "link": "https://www.nrk.no/nyheter/politiet-fant-skarpladd-vapen-i-tom-bil-_-tre-pagrepet-1.17895332",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 24 May 2026 02:55:20 GMT"
+    },
+    {
+      "title": "Minst én drept i rakettangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/minst-en-drept-i-rakettangrep-mot-kyiv-1.17895322",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 24 May 2026 02:05:53 GMT"
+    },
+    {
+      "title": "Kvinne falt åtte meter ned i en sjakt – ukjent skadeomfang",
+      "link": "https://www.nrk.no/nyheter/kvinne-falt-atte-meter-ned-i-en-sjakt-_-ukjent-skadeomfang-1.17895330",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 24 May 2026 01:29:49 GMT"
+    },
+    {
+      "title": "Melding om båtulykke i Bergen",
+      "link": "https://www.nrk.no/nyheter/melding-om-batulykke-i-bergen-1.17895327",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 24 May 2026 00:49:02 GMT"
+    },
+    {
+      "title": "Gjerningsperson død etter skyting ved Det hvite hus",
+      "link": "https://www.nrk.no/nyheter/gjerningsperson-dod-etter-skyting-ved-det-hvite-hus-1.17895324",
+      "category": "USA",
+      "pubDate": "Sun, 24 May 2026 00:14:51 GMT"
+    },
     {
       "title": "Melding om skudd nær Det hvite hus",
       "link": "https://www.nrk.no/nyheter/melding-om-skudd-naer-det-hvite-hus-1.17895323",
       "category": "USA",
       "pubDate": "Sat, 23 May 2026 22:41:56 GMT"
-    },
-    {
-      "title": "Kvinne til sykehus etter sparkesykkelulykke i Holmestrand",
-      "link": "https://www.nrk.no/nyheter/kvinne-til-sykehus-etter-sparkesykkelulykke-i-holmestrand-1.17895320",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 23 May 2026 22:28:57 GMT"
-    },
-    {
-      "title": "Massivt rakettangrep mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/massivt-rakettangrep-mot-kyiv-1.17895321",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 23 May 2026 22:26:29 GMT"
-    },
-    {
-      "title": "Kongo: Over 200 ebola-dødsfall",
-      "link": "https://www.nrk.no/nyheter/kongo_-over-200-ebola-dodsfall-1.17895317",
-      "category": "Ebola",
-      "pubDate": "Sat, 23 May 2026 22:19:00 GMT"
-    },
-    {
-      "title": "Iran sier de fortsatt skal kontrollere Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran-sier-de-fortsatt-skal-kontrollere-hormuzstredet-1.17895314",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 23 May 2026 21:39:15 GMT"
-    },
-    {
-      "title": "Trump: Iran-avtale er stort sett forhandlet frem",
-      "link": "https://www.nrk.no/nyheter/trump_-iran-avtale-er-stort-sett-forhandlet-frem-1.17895266",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 23 May 2026 20:38:01 GMT"
     }
   ]
 }
