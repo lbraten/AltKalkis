@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-24T15:43:14.146Z",
+  "updatedAt": "2026-05-24T17:04:06.648Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Omfattende leteaksjon etter to-åring i Sverige",
+      "link": "https://www.nrk.no/nyheter/omfattende-leteaksjon-etter-to-aring-i-sverige-1.17895844",
+      "category": "Sverige",
+      "pubDate": "Sun, 24 May 2026 16:58:31 GMT"
+    },
+    {
+      "title": "Amedias nettsider er nede",
+      "link": "https://www.nrk.no/innlandet/amedias-nettsider-er-nede-1.17895769",
+      "category": "Mediekonsernet Amedia",
+      "pubDate": "Sun, 24 May 2026 15:35:56 GMT"
+    },
     {
       "title": "Dronning Sonja sykemeldt",
       "link": "https://www.nrk.no/nyheter/dronning-sonja-sykemeldt--1.17895722",
@@ -15,28 +27,16 @@
       "pubDate": "Sun, 24 May 2026 14:30:29 GMT"
     },
     {
+      "title": "Mann pågrepet for laksetyveri",
+      "link": "https://www.nrk.no/stor-oslo/mann-pagrepet-for-laksetyveri-1.17895731",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 24 May 2026 14:24:45 GMT"
+    },
+    {
       "title": "Kjørte nesten 100 kilometer i timen over fartsgrensen",
       "link": "https://www.nrk.no/sorlandet/kjorte-nesten-100-kilometer-i-timen-over-fartsgrensen-1.17895705",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 24 May 2026 13:48:26 GMT"
-    },
-    {
-      "title": "Fire drept på Gaza søndag",
-      "link": "https://www.nrk.no/nyheter/fire-drept-pa-gaza-sondag-1.17895659",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sun, 24 May 2026 13:33:22 GMT"
-    },
-    {
-      "title": "Hengte opp plakatar med namn og bilde av mistenkte",
-      "link": "https://www.nrk.no/vestland/hengte-opp-plakatar-med-namn-og-bilde-av-mistenkte-1.17895681",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 24 May 2026 13:26:48 GMT"
-    },
-    {
-      "title": "Stor leteaksjon etter to-åring i Sverige",
-      "link": "https://www.nrk.no/nyheter/stor-leteaksjon-etter-to-aring-i-sverige-1.17895651",
-      "category": "Sverige",
-      "pubDate": "Sun, 24 May 2026 12:53:02 GMT"
     }
   ]
 }
