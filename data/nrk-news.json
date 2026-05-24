@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-24T09:27:52.854Z",
+  "updatedAt": "2026-05-24T10:56:25.727Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Støre fordømmer Russlands angrep mot Ukraina i natt: – Totalt fravær av vilje til fred",
+      "link": "https://www.nrk.no/nyheter/store-fordommer-russlands-angrep-mot-ukraina-i-natt_-_-totalt-fravaer-av-vilje-til-fred-1.17895539",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 24 May 2026 10:22:56 GMT"
+    },
+    {
+      "title": "Von der Leyen: Ønsker fremgang mellom USA og Iran velkommen",
+      "link": "https://www.nrk.no/nyheter/von-der-leyen_-onsker-fremgang-mellom-usa-og-iran-velkommen-1.17895479",
+      "category": "Iran",
+      "pubDate": "Sun, 24 May 2026 09:42:53 GMT"
+    },
+    {
+      "title": "Fisketyver i Eidsvoll stjal flere tonn laks",
+      "link": "https://www.nrk.no/stor-oslo/fisketyver-i-eidsvoll-stjal-flere-tonn-laks-1.17895449",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 24 May 2026 09:38:34 GMT"
+    },
     {
       "title": "Russland bekrefter bruk av det fryktede «Oresjnik»-missilet i nattens storangrep",
       "link": "https://www.nrk.no/nyheter/russland-bekrefter-bruk-av-det-fryktede-_oresjnik_-missilet-i-nattens-storangrep-1.17895446",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rubio_-iran-avtale-kan-komme-i-dag-1.17895428",
       "category": "Iran",
       "pubDate": "Sun, 24 May 2026 07:49:48 GMT"
-    },
-    {
-      "title": "Ukrainske medier: Russland brukte hypersonisk rakett i angrep",
-      "link": "https://www.nrk.no/nyheter/ukrainske-medier_-russland-brukte-hypersonisk-rakett-i-angrep--1.17895399",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 24 May 2026 07:09:22 GMT"
-    },
-    {
-      "title": "Bombeangrep mot tog i Pakistan – minst 24 skal være drept",
-      "link": "https://www.nrk.no/nyheter/bombeangrep-mot-tog-i-pakistan-_-minst-24-skal-vaere-drept-1.17895360",
-      "category": "Pakistan",
-      "pubDate": "Sun, 24 May 2026 06:43:32 GMT"
-    },
-    {
-      "title": "Ny person siktet etter voldshendelsen på Tjensvoll i Stavanger",
-      "link": "https://www.nrk.no/rogaland/ny-person-siktet-etter-voldshendelsen-pa-tjensvoll-i-stavanger-1.17895366",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 24 May 2026 06:12:58 GMT"
     }
   ]
 }
