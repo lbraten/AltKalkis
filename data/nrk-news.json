@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-24T17:04:06.648Z",
+  "updatedAt": "2026-05-24T18:38:01.206Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amedias nettsider var nede: Uvisst hva årsaken var",
+      "link": "https://www.nrk.no/innlandet/amedias-nettsider-var-nede_-uvisst-hva-arsaken-var-1.17895859",
+      "category": "Mediekonsernet Amedia",
+      "pubDate": "Sun, 24 May 2026 18:29:04 GMT"
+    },
+    {
+      "title": "Turister drept på safari i Sør-Afrika",
+      "link": "https://www.nrk.no/nyheter/turister-drept-pa-safari-i-sor-afrika-1.17895736",
+      "category": "Sør-Afrika",
+      "pubDate": "Sun, 24 May 2026 18:09:45 GMT"
+    },
+    {
+      "title": "Luftambulanse på vei etter mopedulykke: – Fremstår alvorlig",
+      "link": "https://www.nrk.no/sorlandet/luftambulanse-pa-vei-etter-mopedulykke_-_-fremstar-alvorlig-1.17895875",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 24 May 2026 17:54:58 GMT"
+    },
+    {
+      "title": "Strømproblemer på Sørlandsbanen",
+      "link": "https://www.nrk.no/sorlandet/stromproblemer-pa-sorlandsbanen--1.17895829",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 24 May 2026 17:30:54 GMT"
+    },
     {
       "title": "Omfattende leteaksjon etter to-åring i Sverige",
       "link": "https://www.nrk.no/nyheter/omfattende-leteaksjon-etter-to-aring-i-sverige-1.17895844",
@@ -9,34 +33,10 @@
       "pubDate": "Sun, 24 May 2026 16:58:31 GMT"
     },
     {
-      "title": "Amedias nettsider er nede",
-      "link": "https://www.nrk.no/innlandet/amedias-nettsider-er-nede-1.17895769",
+      "title": "Amedias nettsider var nede",
+      "link": "https://www.nrk.no/innlandet/amedias-nettsider-var-nede-1.17895769",
       "category": "Mediekonsernet Amedia",
       "pubDate": "Sun, 24 May 2026 15:35:56 GMT"
-    },
-    {
-      "title": "Dronning Sonja sykemeldt",
-      "link": "https://www.nrk.no/nyheter/dronning-sonja-sykemeldt--1.17895722",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 24 May 2026 15:06:06 GMT"
-    },
-    {
-      "title": "Minst elleve drept i israelske angrep lørdag",
-      "link": "https://www.nrk.no/nyheter/minst-elleve-drept-i-israelske-angrep-lordag-1.17895702",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 24 May 2026 14:30:29 GMT"
-    },
-    {
-      "title": "Mann pågrepet for laksetyveri",
-      "link": "https://www.nrk.no/stor-oslo/mann-pagrepet-for-laksetyveri-1.17895731",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 24 May 2026 14:24:45 GMT"
-    },
-    {
-      "title": "Kjørte nesten 100 kilometer i timen over fartsgrensen",
-      "link": "https://www.nrk.no/sorlandet/kjorte-nesten-100-kilometer-i-timen-over-fartsgrensen-1.17895705",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 24 May 2026 13:48:26 GMT"
     }
   ]
 }
