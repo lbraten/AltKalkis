@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-24T14:07:19.929Z",
+  "updatedAt": "2026-05-24T15:43:14.146Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dronning Sonja sykemeldt",
+      "link": "https://www.nrk.no/nyheter/dronning-sonja-sykemeldt--1.17895722",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 24 May 2026 15:06:06 GMT"
+    },
+    {
+      "title": "Minst elleve drept i israelske angrep lørdag",
+      "link": "https://www.nrk.no/nyheter/minst-elleve-drept-i-israelske-angrep-lordag-1.17895702",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 24 May 2026 14:30:29 GMT"
+    },
     {
       "title": "Kjørte nesten 100 kilometer i timen over fartsgrensen",
       "link": "https://www.nrk.no/sorlandet/kjorte-nesten-100-kilometer-i-timen-over-fartsgrensen-1.17895705",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/stor-leteaksjon-etter-to-aring-i-sverige-1.17895651",
       "category": "Sverige",
       "pubDate": "Sun, 24 May 2026 12:53:02 GMT"
-    },
-    {
-      "title": "Iran: 33 skip har passert gjennom Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran_-33-skip-har-passert-gjennom-hormuzstredet-1.17895644",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 24 May 2026 12:46:57 GMT"
-    },
-    {
-      "title": "Dyreparkens «far» har gått bort",
-      "link": "https://www.nrk.no/sorlandet/dyreparkens-_far_-har-gatt-bort-1.17895642",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 24 May 2026 12:40:37 GMT"
     }
   ]
 }
