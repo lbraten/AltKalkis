@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-24T18:38:01.206Z",
+  "updatedAt": "2026-05-24T20:06:43.452Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Advarer om betydelig snøskredfare i Jotunheimen – flere store skred søndag",
+      "link": "https://www.nrk.no/innlandet/advarer-om-betydelig-snoskredfare-i-jotunheimen-_-flere-store-skred-sondag-1.17895944",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sun, 24 May 2026 19:26:27 GMT"
+    },
+    {
+      "title": "Etterlyst ukrainsk banksjef pågrepet i Kristiansan",
+      "link": "https://www.nrk.no/nyheter/etterlyst-ukrainsk-banksjef-pagrepet-i-kristiansan-1.17895907",
+      "category": "Ukraina",
+      "pubDate": "Sun, 24 May 2026 19:24:24 GMT"
+    },
     {
       "title": "Amedias nettsider var nede: Uvisst hva årsaken var",
       "link": "https://www.nrk.no/innlandet/amedias-nettsider-var-nede_-uvisst-hva-arsaken-var-1.17895859",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/stromproblemer-pa-sorlandsbanen--1.17895829",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 24 May 2026 17:30:54 GMT"
-    },
-    {
-      "title": "Omfattende leteaksjon etter to-åring i Sverige",
-      "link": "https://www.nrk.no/nyheter/omfattende-leteaksjon-etter-to-aring-i-sverige-1.17895844",
-      "category": "Sverige",
-      "pubDate": "Sun, 24 May 2026 16:58:31 GMT"
-    },
-    {
-      "title": "Amedias nettsider var nede",
-      "link": "https://www.nrk.no/innlandet/amedias-nettsider-var-nede-1.17895769",
-      "category": "Mediekonsernet Amedia",
-      "pubDate": "Sun, 24 May 2026 15:35:56 GMT"
     }
   ]
 }
