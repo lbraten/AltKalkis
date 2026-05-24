@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-24T20:06:43.452Z",
+  "updatedAt": "2026-05-24T21:29:01.364Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "WHO: Over 900 mistenkte ebola-tilfeller i Kongo",
+      "link": "https://www.nrk.no/nyheter/who_-over-900-mistenkte-ebola-tilfeller-i-kongo-1.17895985",
+      "category": "Ebola",
+      "pubDate": "Sun, 24 May 2026 21:19:07 GMT"
+    },
+    {
+      "title": "En omkommet i mopedulykke i Vennesla",
+      "link": "https://www.nrk.no/nyheter/en-omkommet-i-mopedulykke-i-vennesla-1.17895942",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 24 May 2026 20:05:57 GMT"
+    },
     {
       "title": "Advarer om betydelig snøskredfare i Jotunheimen – flere store skred søndag",
       "link": "https://www.nrk.no/innlandet/advarer-om-betydelig-snoskredfare-i-jotunheimen-_-flere-store-skred-sondag-1.17895944",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/turister-drept-pa-safari-i-sor-afrika-1.17895736",
       "category": "Sør-Afrika",
       "pubDate": "Sun, 24 May 2026 18:09:45 GMT"
-    },
-    {
-      "title": "Luftambulanse på vei etter mopedulykke: – Fremstår alvorlig",
-      "link": "https://www.nrk.no/sorlandet/luftambulanse-pa-vei-etter-mopedulykke_-_-fremstar-alvorlig-1.17895875",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 24 May 2026 17:54:58 GMT"
-    },
-    {
-      "title": "Strømproblemer på Sørlandsbanen",
-      "link": "https://www.nrk.no/sorlandet/stromproblemer-pa-sorlandsbanen--1.17895829",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 24 May 2026 17:30:54 GMT"
     }
   ]
 }
