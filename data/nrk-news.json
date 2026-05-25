@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-25T05:05:14.060Z",
+  "updatedAt": "2026-05-25T09:10:58.874Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Elg på E6 avlivet",
+      "link": "https://www.nrk.no/stor-oslo/elg-pa-e6-avlivet-1.17896021",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 25 May 2026 07:58:17 GMT"
+    },
+    {
+      "title": "Iran sier de kan diskutere sitt atomprogram med USA",
+      "link": "https://www.nrk.no/nyheter/iran-sier-de-kan-diskutere-sitt-atomprogram-med-usa--1.17896055",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 25 May 2026 07:18:24 GMT"
+    },
+    {
+      "title": "Vet ikke når veien kan åpnes etter ras",
+      "link": "https://www.nrk.no/vestfoldogtelemark/vet-ikke-nar-veien-kan-apnes-etter-ras-1.17896026",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 25 May 2026 07:17:25 GMT"
+    },
+    {
+      "title": "Opposisjonsleder i Belarus på besøk i Kyiv",
+      "link": "https://www.nrk.no/nyheter/opposisjonsleder-i-belarus-pa-besok-i-kyiv-1.17896012",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 25 May 2026 06:53:21 GMT"
+    },
     {
       "title": "Rubio: Iran-avtale kan være innen rekkevidde i dag",
       "link": "https://www.nrk.no/nyheter/rubio_-iran-avtale-kan-vaere-innen-rekkevidde-i-dag-1.17896009",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dodstallet-stiger-etter-bygningskollaps-pa-filippinene-1.17896008",
       "category": "Filippinene",
       "pubDate": "Mon, 25 May 2026 03:04:35 GMT"
-    },
-    {
-      "title": "430 bensinstasjoner er lagt ned siden 2020",
-      "link": "https://www.nrk.no/nyheter/430-bensinstasjoner-er-lagt-ned-siden-2020-1.17896006",
-      "category": "Sikkerhet og beredskap i Norge",
-      "pubDate": "Mon, 25 May 2026 02:55:34 GMT"
-    },
-    {
-      "title": "Savnet svensk toåring funnet i god behold",
-      "link": "https://www.nrk.no/nyheter/savnet-svensk-toaring-funnet-i-god-behold-1.17895998",
-      "category": "Sverige",
-      "pubDate": "Sun, 24 May 2026 23:55:57 GMT"
-    },
-    {
-      "title": "Oljeprisen faller etter Iran-meldinger",
-      "link": "https://www.nrk.no/nyheter/oljeprisen-faller-etter-iran-meldinger-1.17895997",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 24 May 2026 22:54:50 GMT"
-    },
-    {
-      "title": "WHO: Over 900 mistenkte ebola-tilfeller i Kongo",
-      "link": "https://www.nrk.no/nyheter/who_-over-900-mistenkte-ebola-tilfeller-i-kongo-1.17895985",
-      "category": "Ebola",
-      "pubDate": "Sun, 24 May 2026 21:19:07 GMT"
     }
   ]
 }
