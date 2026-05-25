@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-25T21:10:31.069Z",
+  "updatedAt": "2026-05-25T22:34:58.241Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sverige setter ned prisen på kollektivtransport",
+      "link": "https://www.nrk.no/nyheter/sverige-setter-ned-prisen-pa-kollektivtransport-1.17896628",
+      "category": "Sverige",
+      "pubDate": "Mon, 25 May 2026 22:21:13 GMT"
+    },
+    {
+      "title": "Trump foreslår to løsninger for Irans uran",
+      "link": "https://www.nrk.no/nyheter/trump-foreslar-to-losninger-for-irans-uran-1.17896625",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 25 May 2026 22:15:55 GMT"
+    },
+    {
+      "title": "MC-fører til sykehus",
+      "link": "https://www.nrk.no/nyheter/mc-forer-til-sykehus--1.17896618",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Mon, 25 May 2026 21:39:32 GMT"
+    },
     {
       "title": "IDF har angrepet over 70 mål i Libanon",
       "link": "https://www.nrk.no/nyheter/idf-har-angrepet-over-70-mal-i-libanon-1.17896615",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/tre-menn-varetektsfengslet-for-grovt-ran-i-bergen-1.17896589",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Mon, 25 May 2026 19:46:40 GMT"
-    },
-    {
-      "title": "Brann i enebolig på Askøy: – Åpne flammer",
-      "link": "https://www.nrk.no/vestland/brann-i-enebolig-pa-askoy_-_-apne-flammer-1.17896542",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 25 May 2026 19:36:52 GMT"
-    },
-    {
-      "title": "Oslo: Person truet med kniv inne på trikken",
-      "link": "https://www.nrk.no/stor-oslo/oslo_-person-truet-med-kniv-inne-pa-trikken-1.17896452",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 25 May 2026 18:48:19 GMT"
-    },
-    {
-      "title": "Netanyahu varsler opptrapping av angrepene i Libanon",
-      "link": "https://www.nrk.no/nyheter/netanyahu-varsler-opptrapping-av-angrepene-i-libanon-1.17896534",
-      "category": "Libanon og Israel",
-      "pubDate": "Mon, 25 May 2026 18:22:27 GMT"
     }
   ]
 }
