@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-25T19:43:23.464Z",
+  "updatedAt": "2026-05-25T21:10:31.069Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IDF har angrepet over 70 mål i Libanon",
+      "link": "https://www.nrk.no/nyheter/idf-har-angrepet-over-70-mal-i-libanon-1.17896615",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 25 May 2026 20:54:24 GMT"
+    },
+    {
+      "title": "Hund drepte en mindre hund i Stavanger - Person bitt i hånden",
+      "link": "https://www.nrk.no/nyheter/hund-drepte-en-mindre-hund-i-stavanger---person-bitt-i-handen-1.17896605",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 25 May 2026 20:34:41 GMT"
+    },
+    {
+      "title": "Tre menn varetektsfengslet for grovt ran i Bergen",
+      "link": "https://www.nrk.no/vestland/tre-menn-varetektsfengslet-for-grovt-ran-i-bergen-1.17896589",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 25 May 2026 19:46:40 GMT"
+    },
+    {
+      "title": "Brann i enebolig på Askøy: – Åpne flammer",
+      "link": "https://www.nrk.no/vestland/brann-i-enebolig-pa-askoy_-_-apne-flammer-1.17896542",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 25 May 2026 19:36:52 GMT"
+    },
     {
       "title": "Oslo: Person truet med kniv inne på trikken",
       "link": "https://www.nrk.no/stor-oslo/oslo_-person-truet-med-kniv-inne-pa-trikken-1.17896452",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/netanyahu-varsler-opptrapping-av-angrepene-i-libanon-1.17896534",
       "category": "Libanon og Israel",
       "pubDate": "Mon, 25 May 2026 18:22:27 GMT"
-    },
-    {
-      "title": "Ordfører i Bergen om 17. mai-vold: – Gapestokk",
-      "link": "https://www.nrk.no/vestland/ordforer-i-bergen-om-17.-mai-vold_-_-gapestokk--1.17896328",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 25 May 2026 18:05:57 GMT"
-    },
-    {
-      "title": "Iran sier de vil åpne internasjonal tilgang til internett",
-      "link": "https://www.nrk.no/nyheter/iran-sier-de-vil-apne-internasjonal-tilgang-til-internett-1.17896519",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 25 May 2026 17:51:07 GMT"
-    },
-    {
-      "title": "Dronning Margrethe lagt inn på sykehus",
-      "link": "https://www.nrk.no/nyheter/dronning-margrethe-lagt-inn-pa-sykehus-1.17896394",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 25 May 2026 15:41:10 GMT"
-    },
-    {
-      "title": "Brasils president Lula har fått hudkreft",
-      "link": "https://www.nrk.no/nyheter/brasils-president-lula-har-fatt-hudkreft-1.17896365",
-      "category": "Brasil",
-      "pubDate": "Mon, 25 May 2026 14:46:32 GMT"
     }
   ]
 }
