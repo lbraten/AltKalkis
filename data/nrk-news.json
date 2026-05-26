@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-26T22:21:07.996Z",
+  "updatedAt": "2026-05-26T23:40:41.686Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN fordømmer angrep på atomkraftverk",
+      "link": "https://www.nrk.no/nyheter/fn-fordommer-angrep-pa-atomkraftverk-1.17897938",
+      "category": "De forente arabiske emirater",
+      "pubDate": "Tue, 26 May 2026 23:22:52 GMT"
+    },
+    {
+      "title": "Tenåring målt i 71 km/t på elsparkesykkel i Drammen",
+      "link": "https://www.nrk.no/nyheter/tenaring-malt-i-71-km_t-pa-elsparkesykkel-i-drammen-1.17897936",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Tue, 26 May 2026 22:41:44 GMT"
+    },
     {
       "title": "Nye våpentester i Nord-Korea",
       "link": "https://www.nrk.no/nyheter/nye-vapentester-i-nord-korea-1.17897931",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/31-drept-i-israelske-angrep-ved-libanon--1.17897926",
       "category": "Libanon og Israel",
       "pubDate": "Tue, 26 May 2026 21:18:36 GMT"
-    },
-    {
-      "title": "Trump-administrasjonen sletter justisdepartementets nettsider om 6. januar-opprøret",
-      "link": "https://www.nrk.no/nyheter/trump-administrasjonen-sletter-justisdepartementets-nettsider-om-6.-januar-opproret-1.17897911",
-      "category": "Storming av Kongressen",
-      "pubDate": "Tue, 26 May 2026 20:27:42 GMT"
-    },
-    {
-      "title": "Musk skal sikre internett til USAs romforsvar",
-      "link": "https://www.nrk.no/nyheter/musk-skal-sikre-internett-til-usas-romforsvar-1.17897871",
-      "category": "USA",
-      "pubDate": "Tue, 26 May 2026 20:19:13 GMT"
     }
   ]
 }
