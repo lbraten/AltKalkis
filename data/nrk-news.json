@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-26T00:07:28.658Z",
+  "updatedAt": "2026-05-26T04:44:10.142Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rubio: USA vil fortsatt mekle mellom Russland og Ukraina",
+      "link": "https://www.nrk.no/nyheter/rubio_-usa-vil-fortsatt-mekle-mellom-russland-og-ukraina-1.17896706",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 26 May 2026 04:42:27 GMT"
+    },
+    {
+      "title": "Rubio tror på avtale med Iran",
+      "link": "https://www.nrk.no/nyheter/rubio-tror-pa-avtale-med-iran-1.17896650",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 26 May 2026 02:51:11 GMT"
+    },
+    {
+      "title": "Saksofonisten Sonny Rollins er død",
+      "link": "https://www.nrk.no/nyheter/saksofonisten-sonny-rollins-er-dod--1.17896648",
+      "category": "Musikk",
+      "pubDate": "Tue, 26 May 2026 02:42:26 GMT"
+    },
+    {
+      "title": "Minst en drept og flere såret i Ukraina",
+      "link": "https://www.nrk.no/nyheter/minst-en-drept-og-flere-saret-i-ukraina-1.17896642",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 26 May 2026 02:27:15 GMT"
+    },
     {
       "title": "USA sier de har gjennomført angrep i Iran",
       "link": "https://www.nrk.no/nyheter/usa-sier-de-har-gjennomfort-angrep-i-iran-1.17896638",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rubio-i-samtale-med-lavrov--1.17896636",
       "category": "Russland og USA",
       "pubDate": "Mon, 25 May 2026 22:58:04 GMT"
-    },
-    {
-      "title": "Ulv observert ved Hurumlandet – ber husdyreiere følge ekstra med",
-      "link": "https://www.nrk.no/nyheter/ulv-observert-ved-hurumlandet-_-ber-husdyreiere-folge-ekstra-med-1.17896635",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Mon, 25 May 2026 22:46:33 GMT"
-    },
-    {
-      "title": "Hizbollah sier de har angrepet flere israelske mål",
-      "link": "https://www.nrk.no/nyheter/hizbollah-sier-de-har-angrepet-flere-israelske-mal--1.17896629",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 25 May 2026 22:40:11 GMT"
-    },
-    {
-      "title": "Prisen på kollektivtransport i Sverige kan bli halvert",
-      "link": "https://www.nrk.no/nyheter/prisen-pa-kollektivtransport-i-sverige-kan-bli-halvert-1.17896628",
-      "category": "Sverige",
-      "pubDate": "Mon, 25 May 2026 22:21:13 GMT"
-    },
-    {
-      "title": "Trump foreslår to løsninger for Irans uran",
-      "link": "https://www.nrk.no/nyheter/trump-foreslar-to-losninger-for-irans-uran-1.17896625",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 25 May 2026 22:15:55 GMT"
     }
   ]
 }
