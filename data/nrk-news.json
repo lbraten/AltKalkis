@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-05-26T18:42:12.394Z",
+  "updatedAt": "2026-05-26T20:54:37.359Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "NRK erfarer: Stortinget vil forenkle reglene for snøskuter til hytta",
-      "link": "https://www.nrk.no/nyheter/nrk-erfarer_-stortinget-vil-forenkle-reglene-for-snoskuter-til-hytta-1.17897795",
+      "title": "Trump-administrasjonen sletter justisdepartementets nettsider om 6. januar-opprøret",
+      "link": "https://www.nrk.no/nyheter/trump-administrasjonen-sletter-justisdepartementets-nettsider-om-6.-januar-opproret-1.17897911",
+      "category": "Storming av Kongressen",
+      "pubDate": "Tue, 26 May 2026 20:27:42 GMT"
+    },
+    {
+      "title": "Musk skal sikre internett til USAs romforsvar",
+      "link": "https://www.nrk.no/nyheter/musk-skal-sikre-internett-til-usas-romforsvar-1.17897871",
+      "category": "USA",
+      "pubDate": "Tue, 26 May 2026 20:19:13 GMT"
+    },
+    {
+      "title": "Venstre om ny motorferdselslov: norsk natur er ikke uendelig",
+      "link": "https://www.nrk.no/nyheter/venstre-om-ny-motorferdselslov_-norsk-natur-er-ikke-uendelig-1.17897830",
+      "category": "Norsk politikk",
+      "pubDate": "Tue, 26 May 2026 19:15:02 GMT"
+    },
+    {
+      "title": "Ap og Frp enige om ny motorferdselslov – vil at kommune skal bestemme selv",
+      "link": "https://www.nrk.no/nyheter/ap-og-frp-enige-om-ny-motorferdselslov-_-vil-at-kommune-skal-bestemme-selv-1.17897795",
       "category": "Norsk politikk",
       "pubDate": "Tue, 26 May 2026 18:26:54 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-trapper-opp-i-libanon-1.17897733",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 26 May 2026 17:20:59 GMT"
-    },
-    {
-      "title": "Uenigheter om tolkning av bro-regning på Stortinget",
-      "link": "https://www.nrk.no/innlandet/uenigheter-om-tolkning-av-bro-regning-pa-stortinget-1.17897746",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Tue, 26 May 2026 17:04:51 GMT"
-    },
-    {
-      "title": "Avvikler normprisrådet: – Nå blir lakseskatten bedre for kysten",
-      "link": "https://www.nrk.no/nyheter/avvikler-normprisradet_-_-na-blir-lakseskatten-bedre-for-kysten-1.17897645",
-      "category": "Lakseskatt",
-      "pubDate": "Tue, 26 May 2026 15:09:26 GMT"
-    },
-    {
-      "title": "Syria: Rester av Assads lagre for kjemiske våpen funnet – 18 pågrepet",
-      "link": "https://www.nrk.no/nyheter/syria_-rester-av-assads-lagre-for-kjemiske-vapen-funnet-_-18-pagrepet-1.17897641",
-      "category": "Syria",
-      "pubDate": "Tue, 26 May 2026 15:02:44 GMT"
     }
   ]
 }
