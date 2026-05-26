@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-26T20:54:37.359Z",
+  "updatedAt": "2026-05-26T22:21:07.996Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nye våpentester i Nord-Korea",
+      "link": "https://www.nrk.no/nyheter/nye-vapentester-i-nord-korea-1.17897931",
+      "category": "Nord-Korea",
+      "pubDate": "Tue, 26 May 2026 22:14:34 GMT"
+    },
+    {
+      "title": "FN fordømmer droneangrep mot kjernekraftverket i Abu Dhabi",
+      "link": "https://www.nrk.no/nyheter/fn-fordommer-droneangrep-mot-kjernekraftverket-i-abu-dhabi--1.17897930",
+      "category": "De forente arabiske emirater",
+      "pubDate": "Tue, 26 May 2026 22:10:09 GMT"
+    },
+    {
+      "title": "Brudd i forhandlingene mellom HK Norge og NHO",
+      "link": "https://www.nrk.no/nyheter/-brudd-i-forhandlingene-mellom-hk-norge-og-nho-1.17897929",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 26 May 2026 21:20:21 GMT"
+    },
+    {
+      "title": "31 drept i israelske angrep ved Libanon",
+      "link": "https://www.nrk.no/nyheter/31-drept-i-israelske-angrep-ved-libanon--1.17897926",
+      "category": "Libanon og Israel",
+      "pubDate": "Tue, 26 May 2026 21:18:36 GMT"
+    },
     {
       "title": "Trump-administrasjonen sletter justisdepartementets nettsider om 6. januar-opprøret",
       "link": "https://www.nrk.no/nyheter/trump-administrasjonen-sletter-justisdepartementets-nettsider-om-6.-januar-opproret-1.17897911",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/musk-skal-sikre-internett-til-usas-romforsvar-1.17897871",
       "category": "USA",
       "pubDate": "Tue, 26 May 2026 20:19:13 GMT"
-    },
-    {
-      "title": "Venstre om ny motorferdselslov: norsk natur er ikke uendelig",
-      "link": "https://www.nrk.no/nyheter/venstre-om-ny-motorferdselslov_-norsk-natur-er-ikke-uendelig-1.17897830",
-      "category": "Norsk politikk",
-      "pubDate": "Tue, 26 May 2026 19:15:02 GMT"
-    },
-    {
-      "title": "Ap og Frp enige om ny motorferdselslov – vil at kommune skal bestemme selv",
-      "link": "https://www.nrk.no/nyheter/ap-og-frp-enige-om-ny-motorferdselslov-_-vil-at-kommune-skal-bestemme-selv-1.17897795",
-      "category": "Norsk politikk",
-      "pubDate": "Tue, 26 May 2026 18:26:54 GMT"
-    },
-    {
-      "title": "To siktet for å ha kastet håndgranat i Danmark – mann livstruende skadet",
-      "link": "https://www.nrk.no/nyheter/to-siktet-for-a-ha-kastet-handgranat-i-danmark-_-mann-livstruende-skadet-1.17897653",
-      "category": "Danmark",
-      "pubDate": "Tue, 26 May 2026 17:41:14 GMT"
-    },
-    {
-      "title": "Israel trapper opp i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-trapper-opp-i-libanon-1.17897733",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 26 May 2026 17:20:59 GMT"
     }
   ]
 }
