@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-05-25T22:34:58.241Z",
+  "updatedAt": "2026-05-26T00:07:28.658Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Sverige setter ned prisen på kollektivtransport",
-      "link": "https://www.nrk.no/nyheter/sverige-setter-ned-prisen-pa-kollektivtransport-1.17896628",
+      "title": "USA sier de har gjennomført angrep i Iran",
+      "link": "https://www.nrk.no/nyheter/usa-sier-de-har-gjennomfort-angrep-i-iran-1.17896638",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 25 May 2026 23:15:09 GMT"
+    },
+    {
+      "title": "Rubio i samtale med Lavrov",
+      "link": "https://www.nrk.no/nyheter/rubio-i-samtale-med-lavrov--1.17896636",
+      "category": "Russland og USA",
+      "pubDate": "Mon, 25 May 2026 22:58:04 GMT"
+    },
+    {
+      "title": "Ulv observert ved Hurumlandet – ber husdyreiere følge ekstra med",
+      "link": "https://www.nrk.no/nyheter/ulv-observert-ved-hurumlandet-_-ber-husdyreiere-folge-ekstra-med-1.17896635",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Mon, 25 May 2026 22:46:33 GMT"
+    },
+    {
+      "title": "Hizbollah sier de har angrepet flere israelske mål",
+      "link": "https://www.nrk.no/nyheter/hizbollah-sier-de-har-angrepet-flere-israelske-mal--1.17896629",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 25 May 2026 22:40:11 GMT"
+    },
+    {
+      "title": "Prisen på kollektivtransport i Sverige kan bli halvert",
+      "link": "https://www.nrk.no/nyheter/prisen-pa-kollektivtransport-i-sverige-kan-bli-halvert-1.17896628",
       "category": "Sverige",
       "pubDate": "Mon, 25 May 2026 22:21:13 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-foreslar-to-losninger-for-irans-uran-1.17896625",
       "category": "Forholdet Iran – USA",
       "pubDate": "Mon, 25 May 2026 22:15:55 GMT"
-    },
-    {
-      "title": "MC-fører til sykehus",
-      "link": "https://www.nrk.no/nyheter/mc-forer-til-sykehus--1.17896618",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Mon, 25 May 2026 21:39:32 GMT"
-    },
-    {
-      "title": "IDF har angrepet over 70 mål i Libanon",
-      "link": "https://www.nrk.no/nyheter/idf-har-angrepet-over-70-mal-i-libanon-1.17896615",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 25 May 2026 20:54:24 GMT"
-    },
-    {
-      "title": "Hund drepte en mindre hund i Stavanger - Person bitt i hånden",
-      "link": "https://www.nrk.no/nyheter/hund-drepte-en-mindre-hund-i-stavanger---person-bitt-i-handen-1.17896605",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 25 May 2026 20:34:41 GMT"
-    },
-    {
-      "title": "Tre menn varetektsfengslet for grovt ran i Bergen",
-      "link": "https://www.nrk.no/vestland/tre-menn-varetektsfengslet-for-grovt-ran-i-bergen-1.17896589",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 25 May 2026 19:46:40 GMT"
     }
   ]
 }
