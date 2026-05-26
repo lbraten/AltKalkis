@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-26T16:24:26.599Z",
+  "updatedAt": "2026-05-26T18:42:12.394Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "NRK erfarer: Stortinget vil forenkle reglene for snøskuter til hytta",
+      "link": "https://www.nrk.no/nyheter/nrk-erfarer_-stortinget-vil-forenkle-reglene-for-snoskuter-til-hytta-1.17897795",
+      "category": "Norsk politikk",
+      "pubDate": "Tue, 26 May 2026 18:26:54 GMT"
+    },
+    {
+      "title": "To siktet for å ha kastet håndgranat i Danmark – mann livstruende skadet",
+      "link": "https://www.nrk.no/nyheter/to-siktet-for-a-ha-kastet-handgranat-i-danmark-_-mann-livstruende-skadet-1.17897653",
+      "category": "Danmark",
+      "pubDate": "Tue, 26 May 2026 17:41:14 GMT"
+    },
+    {
+      "title": "Israel trapper opp i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-trapper-opp-i-libanon-1.17897733",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 26 May 2026 17:20:59 GMT"
+    },
+    {
+      "title": "Uenigheter om tolkning av bro-regning på Stortinget",
+      "link": "https://www.nrk.no/innlandet/uenigheter-om-tolkning-av-bro-regning-pa-stortinget-1.17897746",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Tue, 26 May 2026 17:04:51 GMT"
+    },
     {
       "title": "Avvikler normprisrådet: – Nå blir lakseskatten bedre for kysten",
       "link": "https://www.nrk.no/nyheter/avvikler-normprisradet_-_-na-blir-lakseskatten-bedre-for-kysten-1.17897645",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/syria_-rester-av-assads-lagre-for-kjemiske-vapen-funnet-_-18-pagrepet-1.17897641",
       "category": "Syria",
       "pubDate": "Tue, 26 May 2026 15:02:44 GMT"
-    },
-    {
-      "title": "Norge og EU med millionavtale – skal sikre Ukrainas strømnett før vinteren",
-      "link": "https://www.nrk.no/nyheter/norge-og-eu-med-millionavtale-_-skal-sikre-ukrainas-stromnett-for-vinteren-1.17897587",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 26 May 2026 15:00:01 GMT"
-    },
-    {
-      "title": "Trump vil ha taushetsplikt for føderalt ansatte",
-      "link": "https://www.nrk.no/nyheter/trump-vil-ha-taushetsplikt-for-foderalt-ansatte-1.17897572",
-      "category": "USA",
-      "pubDate": "Tue, 26 May 2026 14:13:28 GMT"
-    },
-    {
-      "title": "Israel utvider bakkeoperasjonene i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-utvider-bakkeoperasjonene-i-sor-libanon-1.17897530",
-      "category": "Libanon og Israel",
-      "pubDate": "Tue, 26 May 2026 14:09:06 GMT"
-    },
-    {
-      "title": "Ikke flertall for å skrote Helseplattformen",
-      "link": "https://www.nrk.no/nyheter/ikke-flertall-for-a-skrote-helseplattformen-1.17897396",
-      "category": "Norsk politikk",
-      "pubDate": "Tue, 26 May 2026 13:41:38 GMT"
     }
   ]
 }
