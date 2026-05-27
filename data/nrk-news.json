@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-27T18:27:56.903Z",
+  "updatedAt": "2026-05-27T20:34:52.531Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Støre om dronningen: – Håper hun blir fort frisk",
+      "link": "https://www.nrk.no/nyheter/store-om-dronningen_-_-haper-hun-blir-fort-frisk-1.17899232",
+      "category": "Kongefamilien",
+      "pubDate": "Wed, 27 May 2026 19:47:28 GMT"
+    },
+    {
+      "title": "Macron om Noreg: – Ein verdifull og uunnverleg partnar",
+      "link": "https://www.nrk.no/nyheter/macron-om-noreg_-_-ein-verdifull-og-uunnverleg-partnar-1.17899094",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 27 May 2026 19:31:36 GMT"
+    },
+    {
+      "title": "Dømt for Matthew Perrys overdose",
+      "link": "https://www.nrk.no/nyheter/domt-for-matthew-perrys-overdose-1.17899190",
+      "category": "Kjendiser og underholdning",
+      "pubDate": "Wed, 27 May 2026 19:00:06 GMT"
+    },
     {
       "title": "Russland vil la bankansatte skyte ned droner",
       "link": "https://www.nrk.no/nyheter/russland-vil-la-bankansatte-skyte-ned-droner-1.17899168",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fifa-ma-forklare-hoye-vm-priser-_-delstater-starter-gransking-1.17899132",
       "category": "Fotball-VM 2026",
       "pubDate": "Wed, 27 May 2026 17:13:50 GMT"
-    },
-    {
-      "title": "Trump Ikke fornøyde med Iran-forhandlinger",
-      "link": "https://www.nrk.no/nyheter/trump-ikke-fornoyde-med-iran-forhandlinger-1.17899080",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 27 May 2026 16:13:48 GMT"
-    },
-    {
-      "title": "Norge og Frankrike inngår forsvarsavtale",
-      "link": "https://www.nrk.no/nyheter/norge-og-frankrike-inngar-forsvarsavtale-1.17899059",
-      "category": "Det norske Forsvaret",
-      "pubDate": "Wed, 27 May 2026 15:59:56 GMT"
-    },
-    {
-      "title": "VG: PST-topp advarer netthetsere",
-      "link": "https://www.nrk.no/nyheter/vg_-pst-topp-advarer-netthetsere--1.17899050",
-      "category": "PST",
-      "pubDate": "Wed, 27 May 2026 15:47:58 GMT"
     }
   ]
 }
