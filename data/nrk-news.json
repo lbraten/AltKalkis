@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-28T16:39:04.554Z",
+  "updatedAt": "2026-05-28T19:36:26.321Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann funnet skyldig i angrepsplaner mot Taylor Swift-konsert i Wien",
+      "link": "https://www.nrk.no/nyheter/mann-funnet-skyldig-i-angrepsplaner-mot-taylor-swift-konsert-i-wien-1.17900633",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 28 May 2026 19:04:08 GMT"
+    },
+    {
+      "title": "Island holder folkeavstemning 29. august om å gjenoppta EU-forhandlinger",
+      "link": "https://www.nrk.no/nyheter/island-holder-folkeavstemning-29.-august-om-a-gjenoppta-eu-forhandlinger-1.17900621",
+      "category": "Island",
+      "pubDate": "Thu, 28 May 2026 18:11:17 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Sandefjord",
+      "link": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-i-sandefjord-1.17900567",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 28 May 2026 17:57:53 GMT"
+    },
+    {
+      "title": "Colombia: Minst 52 geriljasoldater drept",
+      "link": "https://www.nrk.no/nyheter/colombia_-minst-52-geriljasoldater-drept-1.17900532",
+      "category": "Colombia",
+      "pubDate": "Thu, 28 May 2026 17:54:40 GMT"
+    },
+    {
+      "title": "Verdier for over 250.000 stjålet i butikk-innbrudd",
+      "link": "https://www.nrk.no/stor-oslo/verdier-for-over-250.000-stjalet-i-butikk-innbrudd-1.17900529",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 28 May 2026 17:19:43 GMT"
+    },
     {
       "title": "PST: To menn i 40-årene pågrepet for terrorstøtte i bergensområdet",
       "link": "https://www.nrk.no/nyheter/pst_-to-menn-i-40-arene-pagrepet-for-terrorstotte-i-bergensomradet-1.17900504",
       "category": "high",
       "pubDate": "Thu, 28 May 2026 16:24:58 GMT"
-    },
-    {
-      "title": "AU lover vaksine mot sjelden ebola-type i løpet av 2026",
-      "link": "https://www.nrk.no/nyheter/au-lover-vaksine-mot-sjelden-ebola-type-i-lopet-av-2026-1.17900494",
-      "category": "Ebola",
-      "pubDate": "Thu, 28 May 2026 16:02:15 GMT"
-    },
-    {
-      "title": "Andrew Tate siktet for hatefulle ytringer mot kvinner",
-      "link": "https://www.nrk.no/nyheter/andrew-tate-siktet-for-hatefulle-ytringer-mot-kvinner-1.17900452",
-      "category": "Andrew Tate",
-      "pubDate": "Thu, 28 May 2026 15:54:44 GMT"
-    },
-    {
-      "title": "BT: Tingretten vil løslate Hordvik-skyter",
-      "link": "https://www.nrk.no/vestland/bt_-tingretten-vil-loslate-hordvik-skyter-1.17900439",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 28 May 2026 15:50:59 GMT"
-    },
-    {
-      "title": "Knivstikking i Sveits etterforskes som terror",
-      "link": "https://www.nrk.no/nyheter/knivstikking-i-sveits-etterforskes-som-terror-1.17900432",
-      "category": "Sveits",
-      "pubDate": "Thu, 28 May 2026 15:11:49 GMT"
-    },
-    {
-      "title": "Jemens ekspresident er død",
-      "link": "https://www.nrk.no/nyheter/jemens-ekspresident-er-dod-1.17900425",
-      "category": "Jemen",
-      "pubDate": "Thu, 28 May 2026 14:45:02 GMT"
     }
   ]
 }
