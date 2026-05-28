@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-28T04:49:55.918Z",
+  "updatedAt": "2026-05-28T08:42:55.222Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ti elever døde i skolebrann i Kenya",
-      "link": "https://www.nrk.no/nyheter/ti-elever-dode-i-skolebrann-i-kenya-1.17899366",
+      "title": "Zelenskyj til Sverige torsdag",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-til-sverige-torsdag-1.17899639",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 28 May 2026 08:20:52 GMT"
+    },
+    {
+      "title": "Stordalen møter Skatteetaten i Høyesterett",
+      "link": "https://www.nrk.no/nyheter/stordalen-moter-skatteetaten-i-hoyesterett-1.17899603",
+      "category": "Petter Stordalen",
+      "pubDate": "Thu, 28 May 2026 08:07:32 GMT"
+    },
+    {
+      "title": "Gasslekkasjen i Halden er nå stanset",
+      "link": "https://www.nrk.no/ostfold/gasslekkasjen-i-halden-er-na-stanset-1.17899622",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 28 May 2026 08:00:56 GMT"
+    },
+    {
+      "title": "Duterte for retten i ICC i slutten av november",
+      "link": "https://www.nrk.no/nyheter/duterte-for-retten-i-icc-i-slutten-av-november-1.17899553",
+      "category": "Filippinene",
+      "pubDate": "Thu, 28 May 2026 07:52:19 GMT"
+    },
+    {
+      "title": "16 døde i skolebrann i Kenya",
+      "link": "https://www.nrk.no/nyheter/16-dode-i-skolebrann-i-kenya-1.17899507",
       "category": "Kenya",
-      "pubDate": "Thu, 28 May 2026 04:43:19 GMT"
+      "pubDate": "Thu, 28 May 2026 07:26:34 GMT"
     },
     {
-      "title": "Irans revolusjonsgarde sier at den har angrepet amerikansk flybase",
-      "link": "https://www.nrk.no/nyheter/irans-revolusjonsgarde-sier-at-den-har-angrepet-amerikansk-flybase-1.17899320",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 28 May 2026 03:34:31 GMT"
-    },
-    {
-      "title": "Meldinger om drone- og rakettangrep mot Kuwait",
-      "link": "https://www.nrk.no/nyheter/meldinger-om-drone--og-rakettangrep-mot-kuwait-1.17899316",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 28 May 2026 03:11:19 GMT"
-    },
-    {
-      "title": "IDF sier de angriper Hizbollah-mål i Tyr i Libanon",
-      "link": "https://www.nrk.no/nyheter/idf-sier-de-angriper-hizbollah-mal-i-tyr-i-libanon-1.17899309",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 28 May 2026 03:04:47 GMT"
-    },
-    {
-      "title": "Oslo får Norges høyeste hus",
-      "link": "https://www.nrk.no/nyheter/oslo-far-norges-hoyeste-hus-1.17899303",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 28 May 2026 02:35:12 GMT"
-    },
-    {
-      "title": "Australia krever erstatning fra amerikansk selskap for PFAS-forurensning",
-      "link": "https://www.nrk.no/nyheter/australia-krever-erstatning-fra-amerikansk-selskap-for-pfas-forurensning-1.17899308",
-      "category": "Australia",
-      "pubDate": "Thu, 28 May 2026 01:58:43 GMT"
+      "title": "Kronprinsparet på sykebesøk hos dronning Sonja",
+      "link": "https://www.nrk.no/nyheter/kronprinsparet-pa-sykebesok-hos-dronning-sonja-1.17899485",
+      "category": "Kongefamilien",
+      "pubDate": "Thu, 28 May 2026 07:01:56 GMT"
     }
   ]
 }
