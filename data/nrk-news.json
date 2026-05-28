@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-28T08:42:55.222Z",
+  "updatedAt": "2026-05-28T12:28:51.988Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Zelenskyj til Sverige torsdag",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-til-sverige-torsdag-1.17899639",
+      "title": "Hotell- og restaurantstreiken over også for Parat",
+      "link": "https://www.nrk.no/nyheter/hotell--og-restaurantstreiken-over-ogsa-for-parat-1.17900089",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Thu, 28 May 2026 12:15:30 GMT"
+    },
+    {
+      "title": "Riksrevisjonen med kritikk mot Nav",
+      "link": "https://www.nrk.no/nyheter/riksrevisjonen-med-kritikk-mot-nav-1.17900069",
+      "category": "Nav",
+      "pubDate": "Thu, 28 May 2026 11:31:47 GMT"
+    },
+    {
+      "title": "Israel sier de har gjennomført luftangrep mot Beirut",
+      "link": "https://www.nrk.no/nyheter/israel-sier-de-har-gjennomfort-luftangrep-mot-beirut-1.17900041",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 28 May 2026 11:25:18 GMT"
+    },
+    {
+      "title": "Zelenskyj i Sverige: Får 16 svenske jagerfly",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-i-sverige_-far-16-svenske-jagerfly-1.17899994",
       "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 28 May 2026 08:20:52 GMT"
+      "pubDate": "Thu, 28 May 2026 11:16:08 GMT"
     },
     {
-      "title": "Stordalen møter Skatteetaten i Høyesterett",
-      "link": "https://www.nrk.no/nyheter/stordalen-moter-skatteetaten-i-hoyesterett-1.17899603",
-      "category": "Petter Stordalen",
-      "pubDate": "Thu, 28 May 2026 08:07:32 GMT"
-    },
-    {
-      "title": "Gasslekkasjen i Halden er nå stanset",
-      "link": "https://www.nrk.no/ostfold/gasslekkasjen-i-halden-er-na-stanset-1.17899622",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 28 May 2026 08:00:56 GMT"
-    },
-    {
-      "title": "Duterte for retten i ICC i slutten av november",
-      "link": "https://www.nrk.no/nyheter/duterte-for-retten-i-icc-i-slutten-av-november-1.17899553",
-      "category": "Filippinene",
-      "pubDate": "Thu, 28 May 2026 07:52:19 GMT"
-    },
-    {
-      "title": "16 døde i skolebrann i Kenya",
-      "link": "https://www.nrk.no/nyheter/16-dode-i-skolebrann-i-kenya-1.17899507",
-      "category": "Kenya",
-      "pubDate": "Thu, 28 May 2026 07:26:34 GMT"
-    },
-    {
-      "title": "Kronprinsparet på sykebesøk hos dronning Sonja",
-      "link": "https://www.nrk.no/nyheter/kronprinsparet-pa-sykebesok-hos-dronning-sonja-1.17899485",
+      "title": "Kong Harald: – Dronningen er på vei hjem",
+      "link": "https://www.nrk.no/nyheter/kong-harald_-_-dronningen-er-pa-vei-hjem-1.17899841",
       "category": "Kongefamilien",
-      "pubDate": "Thu, 28 May 2026 07:01:56 GMT"
+      "pubDate": "Thu, 28 May 2026 11:01:02 GMT"
+    },
+    {
+      "title": "Tyskland og Nederland skal opprette Nato-sentral i Baltikum",
+      "link": "https://www.nrk.no/nyheter/tyskland-og-nederland-skal-opprette-nato-sentral-i-baltikum-1.17899922",
+      "category": "Nato",
+      "pubDate": "Thu, 28 May 2026 10:49:17 GMT"
     }
   ]
 }
