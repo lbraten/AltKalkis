@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-05-29T22:13:46.858Z",
+  "updatedAt": "2026-05-29T23:49:02.474Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trump gir fra seg kontroll over Kennedy Center etter ordre fra dommer",
-      "link": "https://www.nrk.no/nyheter/trump-gir-fra-seg-kontroll-over-kennedy-center-etter-ordre-fra-dommer-1.17902165",
+      "title": "Tre klatrere omkom på Nord-Amerikas høyeste fjell",
+      "link": "https://www.nrk.no/nyheter/tre-klatrere-omkom-pa-nord-amerikas-hoyeste-fjell-1.17902174",
+      "category": "USA",
+      "pubDate": "Fri, 29 May 2026 23:24:42 GMT"
+    },
+    {
+      "title": "Møte mellom militærtopper fra USA og Cuba",
+      "link": "https://www.nrk.no/nyheter/mote-mellom-militaertopper-fra-usa-og-cuba-1.17902173",
+      "category": "Cuba",
+      "pubDate": "Fri, 29 May 2026 23:15:08 GMT"
+    },
+    {
+      "title": "11 drept i etter israelske luftangrep i Libanon",
+      "link": "https://www.nrk.no/nyheter/11-drept-i-etter-israelske-luftangrep-i-libanon-1.17902169",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 29 May 2026 22:39:54 GMT"
+    },
+    {
+      "title": "Trump må gi fra seg kontroll over Kennedy Center etter ordre fra dommer",
+      "link": "https://www.nrk.no/nyheter/trump-ma-gi-fra-seg-kontroll-over-kennedy-center-etter-ordre-fra-dommer-1.17902165",
       "category": "USA",
       "pubDate": "Fri, 29 May 2026 22:05:11 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/mr/voldshendelse-i-alesund-1.17902153",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Fri, 29 May 2026 21:09:18 GMT"
-    },
-    {
-      "title": "Frykter global drivstoffmangel etter blokade i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/frykter-global-drivstoffmangel-etter-blokade-i-midtosten-1.17902104",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 29 May 2026 20:20:01 GMT"
-    },
-    {
-      "title": "Hizbollah sier de har angrepet flere mål i Nord-Israel",
-      "link": "https://www.nrk.no/nyheter/hizbollah-sier-de-har-angrepet-flere-mal-i-nord-israel-1.17902118",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 29 May 2026 20:03:38 GMT"
-    },
-    {
-      "title": "USA har beslaglagt iranske kryptoverdier for 1 milliard dollar",
-      "link": "https://www.nrk.no/nyheter/usa-har-beslaglagt-iranske-kryptoverdier-for-1-milliard-dollar-1.17901999",
-      "category": "USA",
-      "pubDate": "Fri, 29 May 2026 19:55:11 GMT"
     }
   ]
 }
