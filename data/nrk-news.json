@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-28T23:21:11.603Z",
+  "updatedAt": "2026-05-29T01:31:51.412Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To personer skadet da droner traff bygning i Romania",
+      "link": "https://www.nrk.no/nyheter/to-personer-skadet-da-droner-traff-bygning-i-romania-1.17900757",
+      "category": "Romania",
+      "pubDate": "Fri, 29 May 2026 00:57:35 GMT"
+    },
+    {
+      "title": "Russiske myndigheter: Ukrainsk droneangrep mot Volgograd",
+      "link": "https://www.nrk.no/nyheter/russiske-myndigheter_-ukrainsk-droneangrep-mot-volgograd-1.17900752",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 29 May 2026 00:08:55 GMT"
+    },
+    {
+      "title": "KS fornøyd med meklingen",
+      "link": "https://www.nrk.no/nyheter/ks-fornoyd-med-meklingen-1.17900755",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Thu, 28 May 2026 23:57:49 GMT"
+    },
+    {
+      "title": "Tre drept i droneangrep i Donetsk",
+      "link": "https://www.nrk.no/nyheter/tre-drept-i-droneangrep-i-donetsk-1.17900754",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 28 May 2026 23:51:45 GMT"
+    },
     {
       "title": "Enighet i kommuneoppgjøret – unngikk streik",
       "link": "https://www.nrk.no/nyheter/-enighet-i-kommuneoppgjoret-_-unngikk-streik-1.17900745",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russland-avviser-usa-advarsel-og-ber-diplomater-forlate-kyiv-1.17900751",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 28 May 2026 22:59:36 GMT"
-    },
-    {
-      "title": "JD Vance om Iran-forhandlinger: – Det er fremskritt",
-      "link": "https://www.nrk.no/nyheter/jd-vance-om-iran-forhandlinger_-_-det-er-fremskritt-1.17900747",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Thu, 28 May 2026 22:46:35 GMT"
-    },
-    {
-      "title": "Meklingen fortsetter på overtid - fortsatt fare for streik",
-      "link": "https://www.nrk.no/nyheter/meklingen-fortsetter-pa-overtid---fortsatt-fare-for-streik-1.17900746",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Thu, 28 May 2026 22:04:06 GMT"
-    },
-    {
-      "title": "Mekler Nordengen: God fremdrift i kommuneoppgjøret",
-      "link": "https://www.nrk.no/nyheter/mekler-nordengen_-god-fremdrift-i-kommuneoppgjoret-1.17900737",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Thu, 28 May 2026 21:45:19 GMT"
-    },
-    {
-      "title": "Riksmekleren: – Er noen spørsmål som ikke er i mål",
-      "link": "https://www.nrk.no/nyheter/riksmekleren_-_-er-noen-sporsmal-som-ikke-er-i-mal-1.17900734",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Thu, 28 May 2026 21:15:00 GMT"
     }
   ]
 }
