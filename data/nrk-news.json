@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-29T20:28:15.577Z",
+  "updatedAt": "2026-05-29T22:13:46.858Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump gir fra seg kontroll over Kennedy Center etter ordre fra dommer",
+      "link": "https://www.nrk.no/nyheter/trump-gir-fra-seg-kontroll-over-kennedy-center-etter-ordre-fra-dommer-1.17902165",
+      "category": "USA",
+      "pubDate": "Fri, 29 May 2026 22:05:11 GMT"
+    },
+    {
+      "title": "En person knivstukket på Strømmen fredag kveld",
+      "link": "https://www.nrk.no/nyheter/en-person-knivstukket-pa-strommen-fredag-kveld-1.17902154",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 29 May 2026 21:35:09 GMT"
+    },
+    {
+      "title": "Voldshendelse i Ålesund",
+      "link": "https://www.nrk.no/mr/voldshendelse-i-alesund-1.17902153",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 29 May 2026 21:09:18 GMT"
+    },
     {
       "title": "Frykter global drivstoffmangel etter blokade i Midtøsten",
       "link": "https://www.nrk.no/nyheter/frykter-global-drivstoffmangel-etter-blokade-i-midtosten-1.17902104",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-har-beslaglagt-iranske-kryptoverdier-for-1-milliard-dollar-1.17901999",
       "category": "USA",
       "pubDate": "Fri, 29 May 2026 19:55:11 GMT"
-    },
-    {
-      "title": "Donald Trumps møte om Iran-avtalen er ferdig, sier Det hvite hus",
-      "link": "https://www.nrk.no/nyheter/donald-trumps-mote-om-iran-avtalen-er-ferdig_-sier-det-hvite-hus-1.17902081",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 29 May 2026 19:18:53 GMT"
-    },
-    {
-      "title": "Dommer gir Trump pålegg om å fjerne navnet sitt",
-      "link": "https://www.nrk.no/nyheter/dommer-gir-trump-palegg-om-a-fjerne-navnet-sitt--1.17902055",
-      "category": "Donald Trump",
-      "pubDate": "Fri, 29 May 2026 19:02:14 GMT"
-    },
-    {
-      "title": "Forsvarsdepartementet bestiller ekstern gransking av Forsvarsbygg",
-      "link": "https://www.nrk.no/tromsogfinnmark/forsvarsdepartementet-bestiller-ekstern-gransking-av-forsvarsbygg-1.17902027",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 29 May 2026 18:45:15 GMT"
     }
   ]
 }
