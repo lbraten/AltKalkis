@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-05-30T17:08:33.945Z",
+  "updatedAt": "2026-05-30T18:39:49.928Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Pålegger stans i all bruk av laseranlegg knyttet til russefeiring",
-      "link": "https://www.nrk.no/nyheter/palegger-stans-i-all-bruk-av-laseranlegg-knyttet-til-russefeiring-1.17902750",
+      "title": "Alvorlig MC-ulykke i Vestland",
+      "link": "https://www.nrk.no/vestland/alvorlig-mc-ulykke-i-vestland-1.17902495",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 30 May 2026 18:09:57 GMT"
+    },
+    {
+      "title": "Pålegger stans i all bruk av laseranlegg",
+      "link": "https://www.nrk.no/nyheter/palegger-stans-i-all-bruk-av-laseranlegg-1.17902750",
       "category": "Russefeiring",
       "pubDate": "Sat, 30 May 2026 17:02:51 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tusenvis-viste-stotte-til-avsatt-partileder--1.17902650",
       "category": "Tyrkia",
       "pubDate": "Sat, 30 May 2026 15:42:48 GMT"
-    },
-    {
-      "title": "Rv. 3 åpnet igjen ved Kvikne",
-      "link": "https://www.nrk.no/innlandet/rv.-3-apnet-igjen-ved-kvikne-1.17902578",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sat, 30 May 2026 14:27:00 GMT"
     }
   ]
 }
