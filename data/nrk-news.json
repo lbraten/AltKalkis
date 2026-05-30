@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-30T03:37:19.327Z",
+  "updatedAt": "2026-05-30T06:47:34.225Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IDF ber innbyggere i syv landsbyer i Libanon evakuere",
+      "link": "https://www.nrk.no/nyheter/idf-ber-innbyggere-i-syv-landsbyer-i-libanon-evakuere-1.17902247",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 30 May 2026 06:46:46 GMT"
+    },
+    {
+      "title": "18 mennesker døde i lastebilulykke i Afghanistan",
+      "link": "https://www.nrk.no/nyheter/18-mennesker-dode-i-lastebilulykke-i-afghanistan-1.17902210",
+      "category": "Afghanistan",
+      "pubDate": "Sat, 30 May 2026 06:42:47 GMT"
+    },
+    {
+      "title": "Ghana godkjenner lov mot homofili",
+      "link": "https://www.nrk.no/nyheter/ghana-godkjenner-lov-mot-homofili-1.17902186",
+      "category": "Ghana",
+      "pubDate": "Sat, 30 May 2026 06:07:08 GMT"
+    },
+    {
+      "title": "Tre alvorlig skadd i front-mot-front-ulykke i Tynset",
+      "link": "https://www.nrk.no/nyheter/tre-alvorlig-skadd-i-front-mot-front-ulykke-i-tynset-1.17902185",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 30 May 2026 04:30:40 GMT"
+    },
     {
       "title": "USA sier Israel og Libanon har hatt gode samtaler",
       "link": "https://www.nrk.no/nyheter/usa-sier-israel-og-libanon-har-hatt-gode-samtaler-1.17902151",
@@ -9,34 +33,10 @@
       "pubDate": "Sat, 30 May 2026 03:24:10 GMT"
     },
     {
-      "title": "Boligbrann i rekkehus i Lørenskog",
-      "link": "https://www.nrk.no/nyheter/boligbrann-i-rekkehus-i-lorenskog--1.17902181",
+      "title": "Kraftig brann i leilighetsbygg i Lørenskog",
+      "link": "https://www.nrk.no/nyheter/kraftig-brann-i-leilighetsbygg-i-lorenskog--1.17902181",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 30 May 2026 03:18:04 GMT"
-    },
-    {
-      "title": "USA har gjennomført nye luftangrep mot båt i Stillehavet – tre personer drept",
-      "link": "https://www.nrk.no/nyheter/usa-har-gjennomfort-nye-luftangrep-mot-bat-i-stillehavet-_-tre-personer-drept-1.17902176",
-      "category": "USA",
-      "pubDate": "Sat, 30 May 2026 02:43:51 GMT"
-    },
-    {
-      "title": "En person til sykehus etter voldshendelse i Grimstad",
-      "link": "https://www.nrk.no/nyheter/en-person-til-sykehus-etter-voldshendelse-i-grimstad-1.17902170",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 30 May 2026 00:19:20 GMT"
-    },
-    {
-      "title": "Tre klatrere omkom på Nord-Amerikas høyeste fjell",
-      "link": "https://www.nrk.no/nyheter/tre-klatrere-omkom-pa-nord-amerikas-hoyeste-fjell-1.17902174",
-      "category": "USA",
-      "pubDate": "Fri, 29 May 2026 23:24:42 GMT"
-    },
-    {
-      "title": "Møte mellom militærtopper fra USA og Cuba",
-      "link": "https://www.nrk.no/nyheter/mote-mellom-militaertopper-fra-usa-og-cuba-1.17902173",
-      "category": "Cuba",
-      "pubDate": "Fri, 29 May 2026 23:15:08 GMT"
     }
   ]
 }
