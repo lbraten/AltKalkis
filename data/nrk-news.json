@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-30T12:08:44.271Z",
+  "updatedAt": "2026-05-30T14:13:38.229Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Hizbollah avfyrer raketter mot Nord-Israel",
+      "link": "https://www.nrk.no/nyheter/hizbollah-avfyrer-raketter-mot-nord-israel-1.17902561",
+      "category": "Libanon og Israel",
+      "pubDate": "Sat, 30 May 2026 14:12:06 GMT"
+    },
+    {
+      "title": "Riksvei 3 fortsatt stengt etter dødsulykke",
+      "link": "https://www.nrk.no/innlandet/riksvei-3-fortsatt-stengt-etter-dodsulykke-1.17902549",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 30 May 2026 13:53:48 GMT"
+    },
+    {
+      "title": "Vietnam skal løslate nær 10.000 innsatte",
+      "link": "https://www.nrk.no/nyheter/vietnam-skal-loslate-naer-10.000-innsatte-1.17902466",
+      "category": "Vietnam",
+      "pubDate": "Sat, 30 May 2026 13:45:30 GMT"
+    },
     {
       "title": "Politiet har skutt og skadet person i Fredrikstad",
       "link": "https://www.nrk.no/nyheter/politiet-har-skutt-og-skadet-person-i-fredrikstad-1.17902402",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/who-leder-har-kommet-til-ebola-utbruddets-episenter-1.17902333",
       "category": "Ebola",
       "pubDate": "Sat, 30 May 2026 10:44:05 GMT"
-    },
-    {
-      "title": "Person siktet etter beslag i forsvinnings­saken på Lørenskog",
-      "link": "https://www.nrk.no/nyheter/-person-siktet-etter-beslag-i-forsvinningssaken-pa-lorenskog-1.17902329",
-      "category": "Anne-Elisabeth Hagen savnet",
-      "pubDate": "Sat, 30 May 2026 08:55:47 GMT"
-    },
-    {
-      "title": "Fire menn reddet ut av oversvømt hule i Laos etter ti dager, ifølge redningsmannskaper",
-      "link": "https://www.nrk.no/nyheter/fire-menn-reddet-ut-av-oversvomt-hule-i-laos-etter-ti-dager_-ifolge-redningsmannskaper-1.17902283",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 30 May 2026 08:39:09 GMT"
-    },
-    {
-      "title": "Flyplassen i München var stengt etter mulig drone-observasjon",
-      "link": "https://www.nrk.no/nyheter/flyplassen-i-munchen-var-stengt-etter-mulig-drone-observasjon-1.17902275",
-      "category": "Droneobservasjoner",
-      "pubDate": "Sat, 30 May 2026 07:58:43 GMT"
     }
   ]
 }
