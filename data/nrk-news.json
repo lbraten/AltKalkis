@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-30T18:39:49.928Z",
+  "updatedAt": "2026-05-30T20:09:33.901Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "PSG vant Mesterligaen etter straffesparkkonkurranse",
+      "link": "https://www.nrk.no/nyheter/psg-vant-mesterligaen-etter-straffesparkkonkurranse-1.17902754",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 30 May 2026 19:10:15 GMT"
+    },
+    {
+      "title": "Fire skadd i eksplosjon ved bolig",
+      "link": "https://www.nrk.no/stor-oslo/fire-skadd-i-eksplosjon-ved-bolig-1.17902800",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 30 May 2026 18:53:49 GMT"
+    },
     {
       "title": "Alvorlig MC-ulykke i Vestland",
       "link": "https://www.nrk.no/vestland/alvorlig-mc-ulykke-i-vestland-1.17902495",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/artister-boikotter-jubileum----trump-stiller-1.17902612",
       "category": "Donald Trump",
       "pubDate": "Sat, 30 May 2026 16:51:43 GMT"
-    },
-    {
-      "title": "Suel Kassembo blir lauslaten",
-      "link": "https://www.nrk.no/mr/suel-kassembo-blir-lauslaten-1.17902704",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 30 May 2026 15:45:59 GMT"
-    },
-    {
-      "title": "Tusenvis viste støtte til avsatt partileder",
-      "link": "https://www.nrk.no/nyheter/tusenvis-viste-stotte-til-avsatt-partileder--1.17902650",
-      "category": "Tyrkia",
-      "pubDate": "Sat, 30 May 2026 15:42:48 GMT"
     }
   ]
 }
