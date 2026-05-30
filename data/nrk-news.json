@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-30T14:13:38.229Z",
+  "updatedAt": "2026-05-30T15:46:57.019Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tusenvis viste støtte til avsatt partileder",
+      "link": "https://www.nrk.no/nyheter/tusenvis-viste-stotte-til-avsatt-partileder--1.17902650",
+      "category": "Tyrkia",
+      "pubDate": "Sat, 30 May 2026 15:42:48 GMT"
+    },
+    {
+      "title": "Rv. 3 åpnet igjen ved Kvikne",
+      "link": "https://www.nrk.no/innlandet/rv.-3-apnet-igjen-ved-kvikne-1.17902578",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sat, 30 May 2026 14:27:00 GMT"
+    },
+    {
+      "title": "Hevder å ha truffet 23 militære mål i Russland",
+      "link": "https://www.nrk.no/nyheter/hevder-a-ha-truffet-23-militaere-mal-i-russland-1.17902603",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 30 May 2026 14:19:43 GMT"
+    },
     {
       "title": "Hizbollah avfyrer raketter mot Nord-Israel",
       "link": "https://www.nrk.no/nyheter/hizbollah-avfyrer-raketter-mot-nord-israel-1.17902561",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vietnam-skal-loslate-naer-10.000-innsatte-1.17902466",
       "category": "Vietnam",
       "pubDate": "Sat, 30 May 2026 13:45:30 GMT"
-    },
-    {
-      "title": "Politiet har skutt og skadet person i Fredrikstad",
-      "link": "https://www.nrk.no/nyheter/politiet-har-skutt-og-skadet-person-i-fredrikstad-1.17902402",
-      "category": "high",
-      "pubDate": "Sat, 30 May 2026 11:09:57 GMT"
-    },
-    {
-      "title": "Nekter enhver befatning med Lørenskog-saken",
-      "link": "https://www.nrk.no/nyheter/nekter-enhver-befatning-med-lorenskog-saken-1.17902400",
-      "category": "Anne-Elisabeth Hagen savnet",
-      "pubDate": "Sat, 30 May 2026 10:46:30 GMT"
-    },
-    {
-      "title": "WHO-leder har kommet til Ebola-utbruddets episenter",
-      "link": "https://www.nrk.no/nyheter/who-leder-har-kommet-til-ebola-utbruddets-episenter-1.17902333",
-      "category": "Ebola",
-      "pubDate": "Sat, 30 May 2026 10:44:05 GMT"
     }
   ]
 }
