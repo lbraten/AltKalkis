@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-30T09:19:49.335Z",
+  "updatedAt": "2026-05-30T10:57:22.587Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nekter enhver befatning med Lørenskog-saken",
+      "link": "https://www.nrk.no/nyheter/nekter-enhver-befatning-med-lorenskog-saken-1.17902400",
+      "category": "Anne-Elisabeth Hagen savnet",
+      "pubDate": "Sat, 30 May 2026 10:46:30 GMT"
+    },
+    {
+      "title": "WHO-leder har kommet til Ebola-utbruddets episenter",
+      "link": "https://www.nrk.no/nyheter/who-leder-har-kommet-til-ebola-utbruddets-episenter-1.17902333",
+      "category": "Ebola",
+      "pubDate": "Sat, 30 May 2026 10:44:05 GMT"
+    },
     {
       "title": "Person siktet etter beslag i forsvinnings­saken på Lørenskog",
       "link": "https://www.nrk.no/nyheter/-person-siktet-etter-beslag-i-forsvinningssaken-pa-lorenskog-1.17902329",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russisk-tankskip-angrepet-av-ukrainske-droner-1.17902250",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 30 May 2026 07:50:22 GMT"
-    },
-    {
-      "title": "IDF ber innbyggere i syv landsbyer i Libanon evakuere",
-      "link": "https://www.nrk.no/nyheter/idf-ber-innbyggere-i-syv-landsbyer-i-libanon-evakuere-1.17902247",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 30 May 2026 06:46:46 GMT"
-    },
-    {
-      "title": "18 mennesker døde i lastebilulykke i Afghanistan",
-      "link": "https://www.nrk.no/nyheter/18-mennesker-dode-i-lastebilulykke-i-afghanistan-1.17902210",
-      "category": "Afghanistan",
-      "pubDate": "Sat, 30 May 2026 06:42:47 GMT"
     }
   ]
 }
