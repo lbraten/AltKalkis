@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-30T20:09:33.901Z",
+  "updatedAt": "2026-05-30T21:33:43.904Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IAEA er bekymret etter at drone traff atomkraftverket i Zaporizjzja",
+      "link": "https://www.nrk.no/nyheter/iaea-er-bekymret-etter-at-drone-traff-atomkraftverket-i-zaporizjzja--1.17902854",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 30 May 2026 21:23:39 GMT"
+    },
+    {
+      "title": "Fritidsbåt har kjørt inn i brygge",
+      "link": "https://www.nrk.no/sorlandet/fritidsbat-har-kjort-inn-i-brygge-1.17902765",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 30 May 2026 19:19:24 GMT"
+    },
     {
       "title": "PSG vant Mesterligaen etter straffesparkkonkurranse",
       "link": "https://www.nrk.no/nyheter/psg-vant-mesterligaen-etter-straffesparkkonkurranse-1.17902754",
@@ -9,8 +21,8 @@
       "pubDate": "Sat, 30 May 2026 19:10:15 GMT"
     },
     {
-      "title": "Fire skadd i eksplosjon ved bolig",
-      "link": "https://www.nrk.no/stor-oslo/fire-skadd-i-eksplosjon-ved-bolig-1.17902800",
+      "title": "Fire skadd i eksplosjon ved bolig på Eidsvoll",
+      "link": "https://www.nrk.no/stor-oslo/fire-skadd-i-eksplosjon-ved-bolig-pa-eidsvoll-1.17902800",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 30 May 2026 18:53:49 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/palegger-stans-i-all-bruk-av-laseranlegg-1.17902750",
       "category": "Russefeiring",
       "pubDate": "Sat, 30 May 2026 17:02:51 GMT"
-    },
-    {
-      "title": "Politiet tok lasere fra russen",
-      "link": "https://www.nrk.no/stor-oslo/politiet-tok-lasere-fra-russen--1.17902622",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 30 May 2026 16:53:04 GMT"
-    },
-    {
-      "title": "Artister boikotter jubileum - Trump stiller",
-      "link": "https://www.nrk.no/nyheter/artister-boikotter-jubileum----trump-stiller-1.17902612",
-      "category": "Donald Trump",
-      "pubDate": "Sat, 30 May 2026 16:51:43 GMT"
     }
   ]
 }
