@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-30T22:59:00.359Z",
+  "updatedAt": "2026-05-31T00:10:00.888Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skilt stjålet fra politibil i Sokndal",
+      "link": "https://www.nrk.no/nyheter/skilt-stjalet-fra-politibil-i-sokndal-1.17902866",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 30 May 2026 23:03:22 GMT"
+    },
     {
       "title": "Mann omkom i MC-ulykke på Stryn i Vestland",
       "link": "https://www.nrk.no/nyheter/mann-omkom-i-mc-ulykke-pa-stryn-i-vestland-1.17902864",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/fritidsbat-har-kjort-inn-i-brygge-1.17902765",
       "category": "Nyheter fra Agder",
       "pubDate": "Sat, 30 May 2026 19:19:24 GMT"
-    },
-    {
-      "title": "PSG vant Mesterligaen etter straffesparkkonkurranse",
-      "link": "https://www.nrk.no/nyheter/psg-vant-mesterligaen-etter-straffesparkkonkurranse-1.17902754",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 30 May 2026 19:10:15 GMT"
     }
   ]
 }
