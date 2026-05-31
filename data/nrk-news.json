@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-31T17:08:47.818Z",
+  "updatedAt": "2026-05-31T18:44:05.185Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FNs sikkerhetsråd med hastemøte om Libanon mandag",
+      "link": "https://www.nrk.no/nyheter/fns-sikkerhetsrad-med-hastemote-om-libanon-mandag-1.17903371",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 31 May 2026 17:08:42 GMT"
+    },
     {
       "title": "Sprengstofflager eksploderte i Myanmar",
       "link": "https://www.nrk.no/nyheter/sprengstofflager-eksploderte-i-myanmar-1.17903258",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/valglokalene-apnet-i-colombia-1.17903187",
       "category": "Colombia",
       "pubDate": "Sun, 31 May 2026 14:45:57 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Ørsta",
-      "link": "https://www.nrk.no/mr/redningsaksjon-i-orsta-1.17903203",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 31 May 2026 13:58:35 GMT"
     }
   ]
 }
