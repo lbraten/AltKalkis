@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-31T12:12:11.845Z",
+  "updatedAt": "2026-05-31T14:17:33.483Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet rykker ut til kjedekollisjon på E18 ved Grenlandsbrua",
+      "link": "https://www.nrk.no/vestfoldogtelemark/politiet-rykker-ut-til-kjedekollisjon-pa-e18-ved-grenlandsbrua-1.17903127",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 31 May 2026 13:49:03 GMT"
+    },
+    {
+      "title": "IAEA: Ingen økt radioaktivitet i Zaporizjzja",
+      "link": "https://www.nrk.no/nyheter/iaea_-ingen-okt-radioaktivitet-i-zaporizjzja-1.17903121",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 31 May 2026 13:48:18 GMT"
+    },
+    {
+      "title": "Ulykke i svømmehall i Fredrikstad",
+      "link": "https://www.nrk.no/ostfold/ulykke-i-svommehall-i-fredrikstad-1.17903154",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 31 May 2026 13:46:31 GMT"
+    },
     {
       "title": "Redningsaksjon for andefamilie på E6",
       "link": "https://www.nrk.no/stor-oslo/redningsaksjon-for-andefamilie-pa-e6-1.17903076",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/drone-floy-for-naer-gardermoen-1.17903037",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 31 May 2026 10:26:37 GMT"
-    },
-    {
-      "title": "Barneombudet ber skoler heise pride-flagg i juni",
-      "link": "https://www.nrk.no/nyheter/barneombudet-ber-skoler-heise-pride-flagg-i-juni-1.17903027",
-      "category": "Pride",
-      "pubDate": "Sun, 31 May 2026 10:03:11 GMT"
-    },
-    {
-      "title": "Luftsportsulykke på Voss",
-      "link": "https://www.nrk.no/vestland/luftsportsulykke-pa-voss-1.17902945",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 31 May 2026 08:57:26 GMT"
-    },
-    {
-      "title": "Iran sier 28 fartøy passerte Hormuz siste døgn",
-      "link": "https://www.nrk.no/nyheter/iran-sier-28-fartoy-passerte-hormuz-siste-dogn-1.17902987",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 31 May 2026 08:46:38 GMT"
     }
   ]
 }
