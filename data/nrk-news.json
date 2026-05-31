@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-05-31T21:32:15.442Z",
+  "updatedAt": "2026-05-31T23:01:32.663Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bilfører hentet av luftambulanse etter trafikkulykke ved Sørreisa",
+      "link": "https://www.nrk.no/nyheter/bilforer-hentet-av-luftambulanse-etter-trafikkulykke-ved-sorreisa-1.17903520",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 31 May 2026 22:58:11 GMT"
+    },
+    {
+      "title": "En til legevakt etter brann i brakkerigg i Ørsta",
+      "link": "https://www.nrk.no/nyheter/en-til-legevakt-etter-brann-i-brakkerigg-i-orsta-1.17903518",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 31 May 2026 22:54:38 GMT"
+    },
+    {
+      "title": "Flere skadde etter droneangrep i Kharkiv",
+      "link": "https://www.nrk.no/nyheter/flere-skadde-etter-droneangrep-i-kharkiv-1.17903513",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 31 May 2026 22:13:53 GMT"
+    },
+    {
+      "title": "Leteaksjon etter to menn på tur ved Hjasufsknatten i Nissedal",
+      "link": "https://www.nrk.no/nyheter/leteaksjon-etter-to-menn-pa-tur-ved-hjasufsknatten-i-nissedal-1.17903512",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 31 May 2026 21:58:31 GMT"
+    },
+    {
+      "title": "Valgopptellingen i gang i Colombia",
+      "link": "https://www.nrk.no/nyheter/valgopptellingen-i-gang-i-colombia-1.17903506",
+      "category": "Colombia",
+      "pubDate": "Sun, 31 May 2026 21:47:16 GMT"
+    },
     {
       "title": "Festivalen «Tons of Rock» utsolgt for første gang",
       "link": "https://www.nrk.no/nyheter/festivalen-_tons-of-rock_-utsolgt-for-forste-gang-1.17903501",
       "category": "Musikk",
       "pubDate": "Sun, 31 May 2026 21:18:47 GMT"
-    },
-    {
-      "title": "Åtte drept i israelsk angrep, ifølge myndighetene i Libanon",
-      "link": "https://www.nrk.no/nyheter/atte-drept-i-israelsk-angrep_-ifolge-myndighetene-i-libanon-1.17903500",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 31 May 2026 21:00:14 GMT"
-    },
-    {
-      "title": "En person påkjørt av bil i Porsgrunn søndag kveld",
-      "link": "https://www.nrk.no/nyheter/en-person-pakjort-av-bil-i-porsgrunn-sondag-kveld--1.17903497",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 31 May 2026 20:55:56 GMT"
-    },
-    {
-      "title": "Mann pågrepet for voldshendelse i Porsgrunn",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-for-voldshendelse-i-porsgrunn-1.17903494",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 31 May 2026 20:35:06 GMT"
-    },
-    {
-      "title": "Ålesund kommune går til rettssak mot staten",
-      "link": "https://www.nrk.no/mr/alesund-kommune-gar-til-rettssak-mot-staten-1.17903465",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 31 May 2026 19:36:26 GMT"
-    },
-    {
-      "title": "Ber turister hjelpe til å reparere naturen på Senja",
-      "link": "https://www.nrk.no/tromsogfinnmark/ber-turister-hjelpe-til-a-reparere-naturen-pa-senja-1.17903400",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 31 May 2026 18:57:23 GMT"
     }
   ]
 }
