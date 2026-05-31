@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-31T05:03:02.763Z",
+  "updatedAt": "2026-05-31T08:26:11.884Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Krever stans i salg av tobakk og nikotin",
+      "link": "https://www.nrk.no/nyheter/krever-stans-i-salg-av-tobakk-og-nikotin-1.17902983",
+      "category": "Røyk og snus",
+      "pubDate": "Sun, 31 May 2026 07:43:00 GMT"
+    },
+    {
+      "title": "Tre tyskere døde i møteulykken i Tynset",
+      "link": "https://www.nrk.no/nyheter/tre-tyskere-dode-i-moteulykken-i-tynset-1.17902947",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sun, 31 May 2026 06:34:10 GMT"
+    },
+    {
+      "title": "Israel ber folk i Libanon evakuere sør for Zahrani-elven",
+      "link": "https://www.nrk.no/nyheter/israel-ber-folk-i-libanon-evakuere-sor-for-zahrani-elven-1.17902887",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 31 May 2026 06:25:13 GMT"
+    },
     {
       "title": "Politiet stanset 15-åring bak bilrattet i Haugesund",
       "link": "https://www.nrk.no/nyheter/politiet-stanset-15-aring-bak-bilrattet-i-haugesund-1.17902894",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kraftig-smell-over-store-deler-i-usa-skyldtes-meteor-1.17902878",
       "category": "Nasa",
       "pubDate": "Sun, 31 May 2026 02:56:21 GMT"
-    },
-    {
-      "title": "To til sykehus etter bygningsbrann i Sarpsborg sentrum",
-      "link": "https://www.nrk.no/nyheter/to-til-sykehus-etter-bygningsbrann-i-sarpsborg-sentrum--1.17902876",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 31 May 2026 01:34:43 GMT"
-    },
-    {
-      "title": "Enighet i vekteroverenskomsten",
-      "link": "https://www.nrk.no/nyheter/enighet-i-vekteroverenskomsten-1.17902875",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 31 May 2026 01:23:37 GMT"
-    },
-    {
-      "title": "En person hardt skadd i Porsgrunn - fremstår som vold",
-      "link": "https://www.nrk.no/nyheter/-en-person-hardt-skadd-i-porsgrunn---fremstar-som-vold-1.17902873",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 31 May 2026 01:14:08 GMT"
     }
   ]
 }
