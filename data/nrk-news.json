@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-31T15:49:18.347Z",
+  "updatedAt": "2026-05-31T17:08:47.818Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sprengstofflager eksploderte i Myanmar",
+      "link": "https://www.nrk.no/nyheter/sprengstofflager-eksploderte-i-myanmar-1.17903258",
+      "category": "Myanmar",
+      "pubDate": "Sun, 31 May 2026 16:45:01 GMT"
+    },
+    {
+      "title": "Fly måtte snu - passasjerer var ufin",
+      "link": "https://www.nrk.no/stor-oslo/fly-matte-snu---passasjerer-var-ufin-1.17903346",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 31 May 2026 16:29:32 GMT"
+    },
+    {
+      "title": "Kontroversiell buss-rapport får kritikk",
+      "link": "https://www.nrk.no/stor-oslo/kontroversiell-buss-rapport-far-kritikk-1.17903256",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 31 May 2026 16:13:17 GMT"
+    },
     {
       "title": "Henta ut av redningshelikopter",
       "link": "https://www.nrk.no/mr/henta-ut-av-redningshelikopter-1.17903299",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/mr/redningsaksjon-i-orsta-1.17903203",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sun, 31 May 2026 13:58:35 GMT"
-    },
-    {
-      "title": "Politiet rykker ut til kjedekollisjon på E18 ved Grenlandsbrua",
-      "link": "https://www.nrk.no/vestfoldogtelemark/politiet-rykker-ut-til-kjedekollisjon-pa-e18-ved-grenlandsbrua-1.17903127",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 31 May 2026 13:49:03 GMT"
-    },
-    {
-      "title": "Ulykke i svømmehall i Fredrikstad",
-      "link": "https://www.nrk.no/ostfold/ulykke-i-svommehall-i-fredrikstad-1.17903154",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 31 May 2026 13:46:31 GMT"
-    },
-    {
-      "title": "Redningsaksjon for andefamilie på E6",
-      "link": "https://www.nrk.no/stor-oslo/redningsaksjon-for-andefamilie-pa-e6-1.17903076",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 31 May 2026 11:03:02 GMT"
     }
   ]
 }
