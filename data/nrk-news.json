@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-01T22:11:35.420Z",
+  "updatedAt": "2026-06-01T23:50:52.910Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukrainsk avis: Eksplosjon i Kyiv",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-avis_-eksplosjon-i-kyiv-1.17904987",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 01 Jun 2026 23:20:48 GMT"
+    },
+    {
+      "title": "Flyalarm i Kyiv",
+      "link": "https://www.nrk.no/nyheter/flyalarm-i-kyiv-1.17904984",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 01 Jun 2026 22:49:41 GMT"
+    },
+    {
+      "title": "Trump: – Tror på Iran-avtale i løpet av uken",
+      "link": "https://www.nrk.no/nyheter/trump_-_-tror-pa-iran-avtale-i-lopet-av-uken-1.17904966",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 01 Jun 2026 22:14:38 GMT"
+    },
     {
       "title": "Eide: – Støtter Libanons krav om at Israel må trekke seg ut",
       "link": "https://www.nrk.no/nyheter/-eide_-_-stotter-libanons-krav-om-at-israel-ma-trekke-seg-ut-1.17904942",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-strammer-inn-migrasjonsregelverket-1.17904885",
       "category": "Den europeiske union (EU)",
       "pubDate": "Mon, 01 Jun 2026 19:19:05 GMT"
-    },
-    {
-      "title": "Isbjørn Is kjøpt opp av global gigant",
-      "link": "https://www.nrk.no/vestland/isbjorn-is-kjopt-opp-av-global-gigant-1.17904800",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 01 Jun 2026 19:11:23 GMT"
-    },
-    {
-      "title": "Enighet om ny regjering i Danmark",
-      "link": "https://www.nrk.no/nyheter/enighet-om-ny-regjering-i-danmark-1.17904819",
-      "category": "Danmark",
-      "pubDate": "Mon, 01 Jun 2026 19:04:13 GMT"
-    },
-    {
-      "title": "Bellona i akutt økonomisk krise",
-      "link": "https://www.nrk.no/nyheter/bellona-i-akutt-okonomisk-krise-1.17904815",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 01 Jun 2026 17:40:29 GMT"
     }
   ]
 }
