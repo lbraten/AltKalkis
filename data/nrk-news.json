@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-01T18:39:40.806Z",
+  "updatedAt": "2026-06-01T22:11:35.420Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eide: – Støtter Libanons krav om at Israel må trekke seg ut",
+      "link": "https://www.nrk.no/nyheter/-eide_-_-stotter-libanons-krav-om-at-israel-ma-trekke-seg-ut-1.17904942",
+      "category": "Libanon og Israel",
+      "pubDate": "Mon, 01 Jun 2026 21:08:34 GMT"
+    },
+    {
+      "title": "Boligbrann i Lillestrøm",
+      "link": "https://www.nrk.no/stor-oslo/boligbrann-i-lillestrom-1.17904843",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 01 Jun 2026 20:07:54 GMT"
+    },
+    {
+      "title": "EU strammer inn migrasjonsregelverket",
+      "link": "https://www.nrk.no/nyheter/eu-strammer-inn-migrasjonsregelverket-1.17904885",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Mon, 01 Jun 2026 19:19:05 GMT"
+    },
+    {
+      "title": "Isbjørn Is kjøpt opp av global gigant",
+      "link": "https://www.nrk.no/vestland/isbjorn-is-kjopt-opp-av-global-gigant-1.17904800",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 01 Jun 2026 19:11:23 GMT"
+    },
+    {
+      "title": "Enighet om ny regjering i Danmark",
+      "link": "https://www.nrk.no/nyheter/enighet-om-ny-regjering-i-danmark-1.17904819",
+      "category": "Danmark",
+      "pubDate": "Mon, 01 Jun 2026 19:04:13 GMT"
+    },
     {
       "title": "Bellona i akutt økonomisk krise",
       "link": "https://www.nrk.no/nyheter/bellona-i-akutt-okonomisk-krise-1.17904815",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Mon, 01 Jun 2026 17:40:29 GMT"
-    },
-    {
-      "title": "Trump hevder avtale med Israel og Hizbollah",
-      "link": "https://www.nrk.no/nyheter/trump-hevder-avtale-med-israel-og-hizbollah-1.17904801",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 01 Jun 2026 17:39:20 GMT"
-    },
-    {
-      "title": "Tre nye restauranter fikk Michelin-stjerne",
-      "link": "https://www.nrk.no/nyheter/tre-nye-restauranter-fikk-michelin-stjerne-1.17904788",
-      "category": "Michelinguiden",
-      "pubDate": "Mon, 01 Jun 2026 17:30:35 GMT"
-    },
-    {
-      "title": "Trump om stans i Iran-samtaler: – Bryr meg ikke",
-      "link": "https://www.nrk.no/nyheter/trump-om-stans-i-iran-samtaler_-_-bryr-meg-ikke-1.17904702",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 01 Jun 2026 17:20:51 GMT"
-    },
-    {
-      "title": "Advarer mot svindelpoliti",
-      "link": "https://www.nrk.no/stor-oslo/advarer-mot-svindelpoliti-1.17904737",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 01 Jun 2026 16:43:38 GMT"
-    },
-    {
-      "title": "Restauranten Mirabelle i Bekkjarvik får Michelin-stjerne",
-      "link": "https://www.nrk.no/vestland/restauranten-mirabelle-i-bekkjarvik-far-michelin-stjerne-1.17904736",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 01 Jun 2026 16:41:05 GMT"
     }
   ]
 }
