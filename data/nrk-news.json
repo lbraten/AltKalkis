@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-05-31T23:01:32.663Z",
+  "updatedAt": "2026-06-01T01:39:15.653Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Guvernør: –Barn drept i droneangrep i russiskokkupert Kherson",
+      "link": "https://www.nrk.no/nyheter/guvernor_-_barn-drept-i-droneangrep-i-russiskokkupert-kherson-1.17903525",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 01 Jun 2026 00:17:56 GMT"
+    },
+    {
+      "title": "Amnesty-rapport om propaganda i russiske klasserom",
+      "link": "https://www.nrk.no/nyheter/amnesty-rapport-om-propaganda-i-russiske-klasserom-1.17903524",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 31 May 2026 23:50:38 GMT"
+    },
+    {
+      "title": "Kandidater fra venstre og ytre høyre videre i Colombia",
+      "link": "https://www.nrk.no/nyheter/kandidater-fra-venstre-og-ytre-hoyre-videre-i-colombia-1.17903523",
+      "category": "Colombia",
+      "pubDate": "Sun, 31 May 2026 23:31:35 GMT"
+    },
     {
       "title": "Bilfører hentet av luftambulanse etter trafikkulykke ved Sørreisa",
       "link": "https://www.nrk.no/nyheter/bilforer-hentet-av-luftambulanse-etter-trafikkulykke-ved-sorreisa-1.17903520",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-skadde-etter-droneangrep-i-kharkiv-1.17903513",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 31 May 2026 22:13:53 GMT"
-    },
-    {
-      "title": "Leteaksjon etter to menn på tur ved Hjasufsknatten i Nissedal",
-      "link": "https://www.nrk.no/nyheter/leteaksjon-etter-to-menn-pa-tur-ved-hjasufsknatten-i-nissedal-1.17903512",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 31 May 2026 21:58:31 GMT"
-    },
-    {
-      "title": "Valgopptellingen i gang i Colombia",
-      "link": "https://www.nrk.no/nyheter/valgopptellingen-i-gang-i-colombia-1.17903506",
-      "category": "Colombia",
-      "pubDate": "Sun, 31 May 2026 21:47:16 GMT"
-    },
-    {
-      "title": "Festivalen «Tons of Rock» utsolgt for første gang",
-      "link": "https://www.nrk.no/nyheter/festivalen-_tons-of-rock_-utsolgt-for-forste-gang-1.17903501",
-      "category": "Musikk",
-      "pubDate": "Sun, 31 May 2026 21:18:47 GMT"
     }
   ]
 }
