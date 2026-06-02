@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-02T20:25:34.147Z",
+  "updatedAt": "2026-06-02T22:34:23.015Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA: Avfyrte missil mot oljetanker ved Iran",
+      "link": "https://www.nrk.no/nyheter/usa_-avfyrte-missil-mot-oljetanker-ved-iran-1.17906286",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 02 Jun 2026 22:20:44 GMT"
+    },
+    {
+      "title": "Brudd i forhandlinger for flyplassansatte",
+      "link": "https://www.nrk.no/nyheter/brudd-i-forhandlinger-for-flyplassansatte--1.17906272",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 02 Jun 2026 20:37:00 GMT"
+    },
     {
       "title": "Norsk Tipping utsatt for angrep – rammer flere spill",
       "link": "https://www.nrk.no/innlandet/norsk-tipping-utsatt-for-angrep-_-rammer-flere-spill-1.17906247",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/trondelag/rekordlop-i-trondheim-i-dag-1.17906122",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Tue, 02 Jun 2026 18:27:46 GMT"
-    },
-    {
-      "title": "Medier: Ingrid Alexandra på vei hjem",
-      "link": "https://www.nrk.no/nyheter/medier__ingrid-alexandra-pa-vei-hjem-1.17906118",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 02 Jun 2026 17:47:55 GMT"
-    },
-    {
-      "title": "Blue Origin-sjef David Limp lover ny oppskyting før året er omme",
-      "link": "https://www.nrk.no/nyheter/blue-origin-sjef-david-limp-lover-ny-oppskyting-for-aret-er-omme-1.17906115",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 02 Jun 2026 17:05:32 GMT"
     }
   ]
 }
