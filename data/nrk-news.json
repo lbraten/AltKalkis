@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-01T23:50:52.910Z",
+  "updatedAt": "2026-06-02T04:11:11.784Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ukrainsk avis: Eksplosjon i Kyiv",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-avis_-eksplosjon-i-kyiv-1.17904987",
+      "title": "Dødstallene stiger i Kyiv",
+      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-kyiv-1.17905009",
       "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 01 Jun 2026 23:20:48 GMT"
+      "pubDate": "Tue, 02 Jun 2026 03:24:11 GMT"
     },
     {
-      "title": "Flyalarm i Kyiv",
-      "link": "https://www.nrk.no/nyheter/flyalarm-i-kyiv-1.17904984",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 01 Jun 2026 22:49:41 GMT"
-    },
-    {
-      "title": "Trump: – Tror på Iran-avtale i løpet av uken",
-      "link": "https://www.nrk.no/nyheter/trump_-_-tror-pa-iran-avtale-i-lopet-av-uken-1.17904966",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 01 Jun 2026 22:14:38 GMT"
-    },
-    {
-      "title": "Eide: – Støtter Libanons krav om at Israel må trekke seg ut",
-      "link": "https://www.nrk.no/nyheter/-eide_-_-stotter-libanons-krav-om-at-israel-ma-trekke-seg-ut-1.17904942",
+      "title": "Israel: Har skutt ned «prosjektiler»",
+      "link": "https://www.nrk.no/nyheter/israel_-har-skutt-ned-_prosjektiler_-1.17904996",
       "category": "Libanon og Israel",
-      "pubDate": "Mon, 01 Jun 2026 21:08:34 GMT"
+      "pubDate": "Tue, 02 Jun 2026 03:15:04 GMT"
     },
     {
-      "title": "Boligbrann i Lillestrøm",
-      "link": "https://www.nrk.no/stor-oslo/boligbrann-i-lillestrom-1.17904843",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 01 Jun 2026 20:07:54 GMT"
+      "title": "Russ knivstukket i Porsgrunn",
+      "link": "https://www.nrk.no/vestfoldogtelemark/russ-knivstukket-i-porsgrunn--1.17905003",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 02 Jun 2026 02:58:30 GMT"
     },
     {
-      "title": "EU strammer inn migrasjonsregelverket",
-      "link": "https://www.nrk.no/nyheter/eu-strammer-inn-migrasjonsregelverket-1.17904885",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Mon, 01 Jun 2026 19:19:05 GMT"
+      "title": "To døde da militærfly styrtet i Taiwan",
+      "link": "https://www.nrk.no/nyheter/to-dode-da-militaerfly-styrtet-i-taiwan-1.17904985",
+      "category": "Taiwan",
+      "pubDate": "Tue, 02 Jun 2026 02:49:21 GMT"
+    },
+    {
+      "title": "Kraftig jordskjelv utenfor kysten av Italia",
+      "link": "https://www.nrk.no/nyheter/kraftig-jordskjelv-utenfor-kysten-av-italia-1.17904995",
+      "category": "Italia",
+      "pubDate": "Tue, 02 Jun 2026 02:04:51 GMT"
+    },
+    {
+      "title": "Fire skal være drept i russiske angrep",
+      "link": "https://www.nrk.no/nyheter/fire-skal-vaere-drept-i-russiske-angrep-1.17904994",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 02 Jun 2026 01:23:17 GMT"
     }
   ]
 }
