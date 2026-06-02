@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-02T17:24:37.565Z",
+  "updatedAt": "2026-06-02T20:25:34.147Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norsk Tipping utsatt for angrep – rammer flere spill",
+      "link": "https://www.nrk.no/innlandet/norsk-tipping-utsatt-for-angrep-_-rammer-flere-spill-1.17906247",
+      "category": "Norsk Tipping",
+      "pubDate": "Tue, 02 Jun 2026 19:33:23 GMT"
+    },
+    {
+      "title": "Politiet advarer: Flere eldre kvinner frastjålet gullsmykker",
+      "link": "https://www.nrk.no/stor-oslo/politiet-advarer_-flere-eldre-kvinner-frastjalet-gullsmykker-1.17906137",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 02 Jun 2026 19:11:14 GMT"
+    },
+    {
+      "title": "Mange vil eta på tostjerners Michelin-restaurant",
+      "link": "https://www.nrk.no/vestland/mange-vil-eta-pa-tostjerners-michelin-restaurant-1.17906204",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 02 Jun 2026 18:33:15 GMT"
+    },
+    {
+      "title": "Rekordløp i Trondheim i dag",
+      "link": "https://www.nrk.no/trondelag/rekordlop-i-trondheim-i-dag-1.17906122",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Tue, 02 Jun 2026 18:27:46 GMT"
+    },
+    {
+      "title": "Medier: Ingrid Alexandra på vei hjem",
+      "link": "https://www.nrk.no/nyheter/medier__ingrid-alexandra-pa-vei-hjem-1.17906118",
+      "category": "Kongefamilien",
+      "pubDate": "Tue, 02 Jun 2026 17:47:55 GMT"
+    },
     {
       "title": "Blue Origin-sjef David Limp lover ny oppskyting før året er omme",
       "link": "https://www.nrk.no/nyheter/blue-origin-sjef-david-limp-lover-ny-oppskyting-for-aret-er-omme-1.17906115",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 02 Jun 2026 17:05:32 GMT"
-    },
-    {
-      "title": "Korrespondentmiddagen i Washington blir 24. juli",
-      "link": "https://www.nrk.no/nyheter/korrespondentmiddagen-i-washington-blir_24.-juli-1.17906101",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 02 Jun 2026 17:04:17 GMT"
-    },
-    {
-      "title": "Erna Solberg får internasjonalt helseverv",
-      "link": "https://www.nrk.no/nyheter/erna-solberg-far-internasjonalt-helseverv-1.17906026",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 02 Jun 2026 16:50:56 GMT"
-    },
-    {
-      "title": "Ås: E18 stengt etter ulykke",
-      "link": "https://www.nrk.no/stor-oslo/as_-e18-stengt-etter-ulykke-1.17906083",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 02 Jun 2026 16:23:13 GMT"
-    },
-    {
-      "title": "Femåring falt ut av vindu: Ny runde i retten for barnehagelærer",
-      "link": "https://www.nrk.no/vestland/femaring-falt-ut-av-vindu_-ny-runde-i-retten-for-barnehagelaerer-1.17906029",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 02 Jun 2026 15:25:05 GMT"
-    },
-    {
-      "title": "Tidligere virusrammet cruiseskip setter kursen mot Longyearbyen",
-      "link": "https://www.nrk.no/tromsogfinnmark/tidligere-virusrammet-cruiseskip-setter-kursen-mot-longyearbyen-1.17906004",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 02 Jun 2026 15:06:41 GMT"
     }
   ]
 }
