@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-02T22:34:23.015Z",
+  "updatedAt": "2026-06-03T01:40:29.718Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Leter etter savnet mann i 70-årene",
+      "link": "https://www.nrk.no/nyheter/leter-etter-savnet-mann-i-70-arene-1.17906330",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Wed, 03 Jun 2026 01:37:16 GMT"
+    },
+    {
+      "title": "Trump støtter colombiansk presidentkandidat",
+      "link": "https://www.nrk.no/nyheter/trump-stotter-colombiansk-presidentkandidat-1.17906328",
+      "category": "Colombia",
+      "pubDate": "Wed, 03 Jun 2026 01:34:23 GMT"
+    },
+    {
+      "title": "USA: – Har avverget iranske luftangrep",
+      "link": "https://www.nrk.no/nyheter/usa_-_-har-avverget-iranske-luftangrep-1.17906325",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 02 Jun 2026 23:49:43 GMT"
+    },
+    {
+      "title": "Kuwait: Har avskåret missiler og droner",
+      "link": "https://www.nrk.no/nyheter/kuwait_-har-avskaret-missiler-og-droner-1.17906308",
+      "category": "Kuwait",
+      "pubDate": "Tue, 02 Jun 2026 23:27:49 GMT"
+    },
     {
       "title": "USA: Avfyrte missil mot oljetanker ved Iran",
       "link": "https://www.nrk.no/nyheter/usa_-avfyrte-missil-mot-oljetanker-ved-iran-1.17906286",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brudd-i-forhandlinger-for-flyplassansatte--1.17906272",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Tue, 02 Jun 2026 20:37:00 GMT"
-    },
-    {
-      "title": "Norsk Tipping utsatt for angrep – rammer flere spill",
-      "link": "https://www.nrk.no/innlandet/norsk-tipping-utsatt-for-angrep-_-rammer-flere-spill-1.17906247",
-      "category": "Norsk Tipping",
-      "pubDate": "Tue, 02 Jun 2026 19:33:23 GMT"
-    },
-    {
-      "title": "Politiet advarer: Flere eldre kvinner frastjålet gullsmykker",
-      "link": "https://www.nrk.no/stor-oslo/politiet-advarer_-flere-eldre-kvinner-frastjalet-gullsmykker-1.17906137",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 02 Jun 2026 19:11:14 GMT"
-    },
-    {
-      "title": "Mange vil eta på tostjerners Michelin-restaurant",
-      "link": "https://www.nrk.no/vestland/mange-vil-eta-pa-tostjerners-michelin-restaurant-1.17906204",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 02 Jun 2026 18:33:15 GMT"
-    },
-    {
-      "title": "Rekordløp i Trondheim i dag",
-      "link": "https://www.nrk.no/trondelag/rekordlop-i-trondheim-i-dag-1.17906122",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Tue, 02 Jun 2026 18:27:46 GMT"
     }
   ]
 }
