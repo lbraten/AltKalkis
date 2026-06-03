@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-03T20:37:07.477Z",
+  "updatedAt": "2026-06-03T23:05:19.269Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukrainsk firma testet ballistisk luftvernrakett",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-firma-testet-ballistisk-luftvernrakett-1.17907612",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 03 Jun 2026 22:30:23 GMT"
+    },
+    {
+      "title": "Ulike signaler om Iran-avtale",
+      "link": "https://www.nrk.no/nyheter/ulike-signaler-om-iran-avtale-1.17907604",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 03 Jun 2026 20:41:05 GMT"
+    },
     {
       "title": "USA snur om vaksinesamarbeid – varsler milliardutbetaling",
       "link": "https://www.nrk.no/nyheter/usa-snur-om-vaksinesamarbeid-_-varsler-milliardutbetaling-1.17907568",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/innlandet/vg_-nytt-angrep-mot-norsk-tipping-1.17907501",
       "category": "Norsk Tipping",
       "pubDate": "Wed, 03 Jun 2026 18:14:45 GMT"
-    },
-    {
-      "title": "Iran sier de ikke angrep flyplass i Kuwait",
-      "link": "https://www.nrk.no/nyheter/iran-sier-de-ikke-angrep-flyplass-i-kuwait-1.17907516",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 03 Jun 2026 18:09:08 GMT"
-    },
-    {
-      "title": "Holbergprisen i skolen til prosjekt om medienes terrordekning",
-      "link": "https://www.nrk.no/nyheter/holbergprisen-i-skolen-til-prosjekt-om-medienes-terrordekning-1.17907503",
-      "category": "Holbergprisen",
-      "pubDate": "Wed, 03 Jun 2026 17:31:37 GMT"
     }
   ]
 }
