@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-04T21:42:21.217Z",
+  "updatedAt": "2026-06-04T23:10:24.445Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mekler på overtid om sokkelavtaler",
+      "link": "https://www.nrk.no/nyheter/mekler-pa-overtid-om-sokkelavtaler-1.17909092",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Thu, 04 Jun 2026 22:21:19 GMT"
+    },
     {
       "title": "Elleve drept i israelske angrep i Gaza",
       "link": "https://www.nrk.no/nyheter/elleve-drept-i-israelske-angrep-i-gaza-1.17909081",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kunnskapsministeren-avviser-at-elever-har-rett-til-pride-fritak-i-skolen-1.17909026",
       "category": "Pride",
       "pubDate": "Thu, 04 Jun 2026 19:16:08 GMT"
-    },
-    {
-      "title": "Kraftig økning i erstatningene fra forsikringsselskaper",
-      "link": "https://www.nrk.no/nyheter/kraftig-okning-i-erstatningene-fra-forsikringsselskaper-1.17909016",
-      "category": "Forsikring",
-      "pubDate": "Thu, 04 Jun 2026 19:03:59 GMT"
     }
   ]
 }
