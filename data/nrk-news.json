@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-04T19:36:15.959Z",
+  "updatedAt": "2026-06-04T21:42:21.217Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Elleve drept i israelske angrep i Gaza",
+      "link": "https://www.nrk.no/nyheter/elleve-drept-i-israelske-angrep-i-gaza-1.17909081",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 04 Jun 2026 20:39:01 GMT"
+    },
+    {
+      "title": "Trump vil ha sin egen promenade i hovedstaden",
+      "link": "https://www.nrk.no/nyheter/trump-vil-ha-sin-egen-promenade-i-hovedstaden-1.17909068",
+      "category": "Donald Trump",
+      "pubDate": "Thu, 04 Jun 2026 20:24:23 GMT"
+    },
+    {
+      "title": "49 personer tørstet i hjel i Sahara",
+      "link": "https://www.nrk.no/nyheter/49-personer-torstet-i-hjel-i-sahara-1.17909054",
+      "category": "Niger",
+      "pubDate": "Thu, 04 Jun 2026 20:09:04 GMT"
+    },
+    {
+      "title": "Trump vil gi millioner i støtte til kullindustrien",
+      "link": "https://www.nrk.no/nyheter/trump-vil-gi-millioner-i-stotte-til-kullindustrien-1.17909035",
+      "category": "USA",
+      "pubDate": "Thu, 04 Jun 2026 19:42:25 GMT"
+    },
     {
       "title": "Kunnskapsministeren avviser at elever har rett til pride-fritak i skolen",
       "link": "https://www.nrk.no/nyheter/kunnskapsministeren-avviser-at-elever-har-rett-til-pride-fritak-i-skolen-1.17909026",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kraftig-okning-i-erstatningene-fra-forsikringsselskaper-1.17909016",
       "category": "Forsikring",
       "pubDate": "Thu, 04 Jun 2026 19:03:59 GMT"
-    },
-    {
-      "title": "Zelenskyj har skrevet åpent brev til Putin",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-har-skrevet-apent-brev-til-putin-1.17908979",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 04 Jun 2026 18:44:50 GMT"
-    },
-    {
-      "title": "Flere skal få erstatning for jobbskader – enighet på Stortinget om nye regler",
-      "link": "https://www.nrk.no/nyheter/flere-skal-fa-erstatning-for-jobbskader-_-enighet-pa-stortinget-om-nye-regler-1.17908942",
-      "category": "Yrkesskader",
-      "pubDate": "Thu, 04 Jun 2026 17:38:03 GMT"
-    },
-    {
-      "title": "Pågrepet etter truende meldinger",
-      "link": "https://www.nrk.no/vestland/pagrepet-etter-truende-meldinger-1.17908916",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 04 Jun 2026 16:19:00 GMT"
-    },
-    {
-      "title": "Foxtrot-topp sikta for fleire valdsoppdrag i Norge",
-      "link": "https://www.nrk.no/nyheter/foxtrot-topp-sikta-for-fleire-valdsoppdrag-i-norge-1.17908902",
-      "category": "Voldsbølge i Sverige",
-      "pubDate": "Thu, 04 Jun 2026 16:05:22 GMT"
     }
   ]
 }
