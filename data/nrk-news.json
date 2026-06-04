@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-04T17:16:07.824Z",
+  "updatedAt": "2026-06-04T19:36:15.959Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kunnskapsministeren avviser at elever har rett til pride-fritak i skolen",
+      "link": "https://www.nrk.no/nyheter/kunnskapsministeren-avviser-at-elever-har-rett-til-pride-fritak-i-skolen-1.17909026",
+      "category": "Pride",
+      "pubDate": "Thu, 04 Jun 2026 19:16:08 GMT"
+    },
+    {
+      "title": "Kraftig økning i erstatningene fra forsikringsselskaper",
+      "link": "https://www.nrk.no/nyheter/kraftig-okning-i-erstatningene-fra-forsikringsselskaper-1.17909016",
+      "category": "Forsikring",
+      "pubDate": "Thu, 04 Jun 2026 19:03:59 GMT"
+    },
+    {
+      "title": "Zelenskyj har skrevet åpent brev til Putin",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-har-skrevet-apent-brev-til-putin-1.17908979",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 04 Jun 2026 18:44:50 GMT"
+    },
+    {
+      "title": "Flere skal få erstatning for jobbskader – enighet på Stortinget om nye regler",
+      "link": "https://www.nrk.no/nyheter/flere-skal-fa-erstatning-for-jobbskader-_-enighet-pa-stortinget-om-nye-regler-1.17908942",
+      "category": "Yrkesskader",
+      "pubDate": "Thu, 04 Jun 2026 17:38:03 GMT"
+    },
     {
       "title": "Pågrepet etter truende meldinger",
       "link": "https://www.nrk.no/vestland/pagrepet-etter-truende-meldinger-1.17908916",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/foxtrot-topp-sikta-for-fleire-valdsoppdrag-i-norge-1.17908902",
       "category": "Voldsbølge i Sverige",
       "pubDate": "Thu, 04 Jun 2026 16:05:22 GMT"
-    },
-    {
-      "title": "Tyskland: Ber om livstid for tiltalt i angrep mot julemarked",
-      "link": "https://www.nrk.no/nyheter/tyskland_-ber-om-livstid-for-tiltalt-i-angrep-mot-julemarked-1.17908879",
-      "category": "Tyskland",
-      "pubDate": "Thu, 04 Jun 2026 16:00:09 GMT"
-    },
-    {
-      "title": "Tyrkisk politi fant 30 migranter i tankbil",
-      "link": "https://www.nrk.no/nyheter/tyrkisk-politi-fant-30-migranter-i-tankbil-1.17908863",
-      "category": "Menneskesmugling",
-      "pubDate": "Thu, 04 Jun 2026 15:42:42 GMT"
-    },
-    {
-      "title": "Flere aktører mistenkt etter laserbruk",
-      "link": "https://www.nrk.no/stor-oslo/flere-aktorer-mistenkt-etter-laserbruk-1.17908854",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 04 Jun 2026 15:28:35 GMT"
-    },
-    {
-      "title": "Märtha og Durek deltar i ny norsk dokumentarserie",
-      "link": "https://www.nrk.no/nyheter/martha-og-durek-deltar-i-ny-norsk-dokumentarserie-1.17908844",
-      "category": "Märtha Louise og Durek Verrett",
-      "pubDate": "Thu, 04 Jun 2026 15:25:26 GMT"
     }
   ]
 }
