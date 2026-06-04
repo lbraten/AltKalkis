@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-03T23:05:19.269Z",
+  "updatedAt": "2026-06-04T02:05:37.660Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA: To drept i nytt båtangrep i Stillehavet",
+      "link": "https://www.nrk.no/nyheter/usa_-to-drept-i-nytt-batangrep-i-stillehavet-1.17907645",
+      "category": "USA",
+      "pubDate": "Thu, 04 Jun 2026 01:17:01 GMT"
+    },
+    {
+      "title": "Ukraina: EU-land gir grønt lys til forhandlinger",
+      "link": "https://www.nrk.no/nyheter/ukraina_-eu-land-gir-gront-lys-til-forhandlinger-1.17907644",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 04 Jun 2026 00:48:19 GMT"
+    },
+    {
+      "title": "Russisk-innsatt leder: – Tre drept i ukrainske droneangrep",
+      "link": "https://www.nrk.no/nyheter/russisk-innsatt-leder_-_-tre-drept-i-ukrainske-droneangrep-1.17907626",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 04 Jun 2026 00:04:02 GMT"
+    },
+    {
+      "title": "USA: Israel og Libanon enige om våpenhvile",
+      "link": "https://www.nrk.no/nyheter/usa_-israel-og-libanon-enige-om-vapenhvile-1.17907635",
+      "category": "Libanon og Israel",
+      "pubDate": "Wed, 03 Jun 2026 23:05:06 GMT"
+    },
+    {
+      "title": "Presidentkandidat lovet Haaland-signering – nå slår faren tilbake",
+      "link": "https://www.nrk.no/sport/presidentkandidat-lovet-haaland-signering-_-na-slar-faren-tilbake-1.17907623",
+      "category": "Sportsnyheter",
+      "pubDate": "Wed, 03 Jun 2026 22:39:16 GMT"
+    },
     {
       "title": "Ukrainsk firma testet ballistisk luftvernrakett",
       "link": "https://www.nrk.no/nyheter/ukrainsk-firma-testet-ballistisk-luftvernrakett-1.17907612",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 03 Jun 2026 22:30:23 GMT"
-    },
-    {
-      "title": "Ulike signaler om Iran-avtale",
-      "link": "https://www.nrk.no/nyheter/ulike-signaler-om-iran-avtale-1.17907604",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 03 Jun 2026 20:41:05 GMT"
-    },
-    {
-      "title": "USA snur om vaksinesamarbeid – varsler milliardutbetaling",
-      "link": "https://www.nrk.no/nyheter/usa-snur-om-vaksinesamarbeid-_-varsler-milliardutbetaling-1.17907568",
-      "category": "USA",
-      "pubDate": "Wed, 03 Jun 2026 20:09:14 GMT"
-    },
-    {
-      "title": "Rubio: Grønland er en del av Danmark – per nå",
-      "link": "https://www.nrk.no/nyheter/rubio_-gronland-er-en-del-av-danmark-_-per-na-1.17907563",
-      "category": "Grønland",
-      "pubDate": "Wed, 03 Jun 2026 18:44:58 GMT"
-    },
-    {
-      "title": "Iran truer med kontant svar",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-kontant-svar--1.17907554",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 03 Jun 2026 18:37:53 GMT"
-    },
-    {
-      "title": "VG: Nytt angrep mot Norsk Tipping",
-      "link": "https://www.nrk.no/innlandet/vg_-nytt-angrep-mot-norsk-tipping-1.17907501",
-      "category": "Norsk Tipping",
-      "pubDate": "Wed, 03 Jun 2026 18:14:45 GMT"
     }
   ]
 }
