@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-04T23:10:24.445Z",
+  "updatedAt": "2026-06-05T01:37:08.993Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA med nye sanksjoner mot Cubas president",
+      "link": "https://www.nrk.no/nyheter/usa-med-nye-sanksjoner-mot-cubas-president-1.17909120",
+      "category": "Cuba",
+      "pubDate": "Fri, 05 Jun 2026 00:50:13 GMT"
+    },
+    {
+      "title": "Politiet: Alvorlig trafikkulykke i Orkland",
+      "link": "https://www.nrk.no/nyheter/politiet_-alvorlig-trafikkulykke-i-orkland-1.17909118",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 05 Jun 2026 00:19:58 GMT"
+    },
+    {
+      "title": "Trump dropper artister: Vil ha massemøte på 250-års markering",
+      "link": "https://www.nrk.no/nyheter/trump-dropper-artister_-vil-ha-massemote-pa-250-ars-markering-1.17909112",
+      "category": "Donald Trump",
+      "pubDate": "Thu, 04 Jun 2026 23:17:35 GMT"
+    },
     {
       "title": "Mekler på overtid om sokkelavtaler",
       "link": "https://www.nrk.no/nyheter/mekler-pa-overtid-om-sokkelavtaler-1.17909092",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-vil-ha-sin-egen-promenade-i-hovedstaden-1.17909068",
       "category": "Donald Trump",
       "pubDate": "Thu, 04 Jun 2026 20:24:23 GMT"
-    },
-    {
-      "title": "49 personer tørstet i hjel i Sahara",
-      "link": "https://www.nrk.no/nyheter/49-personer-torstet-i-hjel-i-sahara-1.17909054",
-      "category": "Niger",
-      "pubDate": "Thu, 04 Jun 2026 20:09:04 GMT"
-    },
-    {
-      "title": "Trump vil gi millioner i støtte til kullindustrien",
-      "link": "https://www.nrk.no/nyheter/trump-vil-gi-millioner-i-stotte-til-kullindustrien-1.17909035",
-      "category": "USA",
-      "pubDate": "Thu, 04 Jun 2026 19:42:25 GMT"
-    },
-    {
-      "title": "Kunnskapsministeren avviser at elever har rett til pride-fritak i skolen",
-      "link": "https://www.nrk.no/nyheter/kunnskapsministeren-avviser-at-elever-har-rett-til-pride-fritak-i-skolen-1.17909026",
-      "category": "Pride",
-      "pubDate": "Thu, 04 Jun 2026 19:16:08 GMT"
     }
   ]
 }
