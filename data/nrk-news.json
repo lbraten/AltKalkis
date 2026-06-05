@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-05T18:24:42.188Z",
+  "updatedAt": "2026-06-05T20:25:51.163Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skuespilleren Anthony Head, kjent for roller i «Buffy, vampyrenes skrekk» og «Ted Lasso», er død",
+      "link": "https://www.nrk.no/nyheter/skuespilleren-anthony-head_-kjent-for-roller-i-_buffy_-vampyrenes-skrekk_-og-_ted-lasso__-er-dod-1.17910480",
+      "category": "Film og serier",
+      "pubDate": "Fri, 05 Jun 2026 20:17:09 GMT"
+    },
+    {
+      "title": "USA: Nasdaq-børsen faller 4 prosent",
+      "link": "https://www.nrk.no/nyheter/usa_-nasdaq-borsen-faller-4-prosent-1.17910535",
+      "category": "USAs økonomi",
+      "pubDate": "Fri, 05 Jun 2026 19:11:36 GMT"
+    },
+    {
+      "title": "Den svenske statsministeren: – Håper at operasjonen går bra",
+      "link": "https://www.nrk.no/nyheter/den-svenske-statsministeren_-_-haper-at-operasjonen-gar-bra-1.17910505",
+      "category": "Kongefamilien",
+      "pubDate": "Fri, 05 Jun 2026 19:00:03 GMT"
+    },
+    {
+      "title": "Suel Kassembo er lauslaten frå Trandum",
+      "link": "https://www.nrk.no/mr/suel-kassembo-er-lauslaten-fra-trandum-1.17910507",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 05 Jun 2026 18:50:30 GMT"
+    },
+    {
+      "title": "Åpne flammer fra blokk på Grorud i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/apne-flammer-fra-blokk-pa-grorud-i-oslo-1.17910495",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 05 Jun 2026 18:28:41 GMT"
+    },
     {
       "title": "Ny EU-ambassadør til Norge",
       "link": "https://www.nrk.no/nyheter/ny-eu-ambassador-til-norge-1.17910446",
       "category": "Den europeiske union (EU)",
       "pubDate": "Fri, 05 Jun 2026 18:11:43 GMT"
-    },
-    {
-      "title": "Bodø lufthavn måtte evakueres – kan bli flere forsinkelser",
-      "link": "https://www.nrk.no/nordland/bodo-lufthavn-matte-evakueres-_-kan-bli-flere-forsinkelser-1.17910396",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 05 Jun 2026 17:52:50 GMT"
-    },
-    {
-      "title": "IAEA: Alvorlig hendelse på ukrainsk atomkraftverk",
-      "link": "https://www.nrk.no/nyheter/iaea_-alvorlig-hendelse-pa-ukrainsk-atomkraftverk-1.17910429",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 05 Jun 2026 17:23:44 GMT"
-    },
-    {
-      "title": "VG: Varetektsfengslet i to måneder i Russland",
-      "link": "https://www.nrk.no/tromsogfinnmark/vg_-varetektsfengslet-i-to-maneder-i-russland-1.17910376",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 05 Jun 2026 17:14:44 GMT"
-    },
-    {
-      "title": "Mali har dømt fransk diplomat til 20 års fengsel",
-      "link": "https://www.nrk.no/nyheter/mali-har-domt-fransk-diplomat-til-20-ars-fengsel-1.17910426",
-      "category": "Mali",
-      "pubDate": "Fri, 05 Jun 2026 17:09:33 GMT"
-    },
-    {
-      "title": "Åtte mistet lappen i aksjon mot råkjørere",
-      "link": "https://www.nrk.no/tromsogfinnmark/atte-mistet-lappen-i-aksjon-mot-rakjorere-1.17910325",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 05 Jun 2026 17:09:27 GMT"
     }
   ]
 }
