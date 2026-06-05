@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-05T21:57:32.537Z",
+  "updatedAt": "2026-06-05T23:17:48.708Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA: Har utført angrep mot iranske radaranlegg",
+      "link": "https://www.nrk.no/nyheter/usa_-har-utfort-angrep-mot-iranske-radaranlegg-1.17910620",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Fri, 05 Jun 2026 23:13:07 GMT"
+    },
+    {
+      "title": "NRK erfarer: Budsjettforhandlinger fortsetter på overtid",
+      "link": "https://www.nrk.no/nyheter/nrk-erfarer_-budsjettforhandlinger-fortsetter-pa-overtid-1.17910613",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 05 Jun 2026 22:17:46 GMT"
+    },
     {
       "title": "NRK erfarer: Ligger an til budsjettforhandlinger i natt",
       "link": "https://www.nrk.no/nyheter/nrk-erfarer_-ligger-an-til-budsjettforhandlinger-i-natt-1.17910612",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skuespilleren-anthony-head_-kjent-for-roller-i-_buffy_-vampyrenes-skrekk_-og-_ted-lasso__-er-dod-1.17910480",
       "category": "Film og serier",
       "pubDate": "Fri, 05 Jun 2026 20:17:09 GMT"
-    },
-    {
-      "title": "USA: Nasdaq-børsen faller 4 prosent",
-      "link": "https://www.nrk.no/nyheter/usa_-nasdaq-borsen-faller-4-prosent-1.17910535",
-      "category": "USAs økonomi",
-      "pubDate": "Fri, 05 Jun 2026 19:11:36 GMT"
-    },
-    {
-      "title": "Den svenske statsministeren: – Håper at operasjonen går bra",
-      "link": "https://www.nrk.no/nyheter/den-svenske-statsministeren_-_-haper-at-operasjonen-gar-bra-1.17910505",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 05 Jun 2026 19:00:03 GMT"
     }
   ]
 }
