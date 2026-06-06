@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-05T23:17:48.708Z",
+  "updatedAt": "2026-06-06T01:28:23.425Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trafikkulykke på Røros",
+      "link": "https://www.nrk.no/nyheter/trafikkulykke-pa-roros-1.17910627",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 06 Jun 2026 01:25:13 GMT"
+    },
+    {
+      "title": "Meldinger om missiler og droner mot Kuwait",
+      "link": "https://www.nrk.no/nyheter/meldinger-om-missiler-og-droner-mot-kuwait-1.17910626",
+      "category": "Kuwait",
+      "pubDate": "Sat, 06 Jun 2026 01:22:09 GMT"
+    },
+    {
+      "title": "NTB: Ingen streik blant avisbudene",
+      "link": "https://www.nrk.no/nyheter/ntb_-ingen-streik-blant-avisbudene-1.17910623",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sat, 06 Jun 2026 00:54:32 GMT"
+    },
+    {
+      "title": "NRK erfarer: Tar forhandlingspause frem til i morgen",
+      "link": "https://www.nrk.no/nyheter/nrk-erfarer_-tar-forhandlingspause-frem-til-i-morgen-1.17910621",
+      "category": "Statsbudsjettet 2026",
+      "pubDate": "Fri, 05 Jun 2026 23:17:01 GMT"
+    },
     {
       "title": "USA: Har utført angrep mot iranske radaranlegg",
       "link": "https://www.nrk.no/nyheter/usa_-har-utfort-angrep-mot-iranske-radaranlegg-1.17910620",
@@ -11,32 +35,8 @@
     {
       "title": "NRK erfarer: Budsjettforhandlinger fortsetter på overtid",
       "link": "https://www.nrk.no/nyheter/nrk-erfarer_-budsjettforhandlinger-fortsetter-pa-overtid-1.17910613",
-      "category": "NRK Nyheter",
+      "category": "Statsbudsjettet 2026",
       "pubDate": "Fri, 05 Jun 2026 22:17:46 GMT"
-    },
-    {
-      "title": "NRK erfarer: Ligger an til budsjettforhandlinger i natt",
-      "link": "https://www.nrk.no/nyheter/nrk-erfarer_-ligger-an-til-budsjettforhandlinger-i-natt-1.17910612",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 05 Jun 2026 21:17:53 GMT"
-    },
-    {
-      "title": "Nye israelske angrep i Libanon",
-      "link": "https://www.nrk.no/nyheter/nye-israelske-angrep-i-libanon---1.17910591",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 05 Jun 2026 20:40:06 GMT"
-    },
-    {
-      "title": "Dømt for råkjøring like før dødsulykke",
-      "link": "https://www.nrk.no/tromsogfinnmark/domt-for-rakjoring-like-for-dodsulykke--1.17910514",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 05 Jun 2026 20:20:06 GMT"
-    },
-    {
-      "title": "Skuespilleren Anthony Head, kjent for roller i «Buffy, vampyrenes skrekk» og «Ted Lasso», er død",
-      "link": "https://www.nrk.no/nyheter/skuespilleren-anthony-head_-kjent-for-roller-i-_buffy_-vampyrenes-skrekk_-og-_ted-lasso__-er-dod-1.17910480",
-      "category": "Film og serier",
-      "pubDate": "Fri, 05 Jun 2026 20:17:09 GMT"
     }
   ]
 }
