@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-06T21:36:59.542Z",
+  "updatedAt": "2026-06-06T23:05:44.986Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fortsetter mekling på overtid",
+      "link": "https://www.nrk.no/nyheter/fortsetter-mekling-pa-overtid-1.17911241",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sat, 06 Jun 2026 22:35:03 GMT"
+    },
     {
       "title": "Savnet etter kanovelt i Sarpsborg",
       "link": "https://www.nrk.no/nyheter/savnet-etter-kanovelt-i-sarpsborg-1.17911232",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/baby-skutt-og-drept-av-israelsk-soldat-1.17911170",
       "category": "Vestbredden",
       "pubDate": "Sat, 06 Jun 2026 18:22:02 GMT"
-    },
-    {
-      "title": "Sparkesykkelulukke i Lørenskog",
-      "link": "https://www.nrk.no/stor-oslo/sparkesykkelulukke-i-lorenskog-1.17911057",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 06 Jun 2026 18:02:33 GMT"
     }
   ]
 }
