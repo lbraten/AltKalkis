@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-06T10:54:11.951Z",
+  "updatedAt": "2026-06-06T12:05:56.540Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fløy drone i forbudssonen",
+      "link": "https://www.nrk.no/stor-oslo/floy-drone-i-forbudssonen-1.17910697",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 06 Jun 2026 11:25:55 GMT"
+    },
     {
       "title": "Kronprinsessens sykdom påvirker ikke statsbesøk fra Norge i nær framtid",
       "link": "https://www.nrk.no/nyheter/kronprinsessens-sykdom-pavirker-ikke-statsbesok-fra-norge-i-naer-framtid-1.17910857",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/revidert-forhandlinger-gjenopptas-etter-pause-1.17910758",
       "category": "Statsbudsjettet 2026",
       "pubDate": "Sat, 06 Jun 2026 08:43:53 GMT"
-    },
-    {
-      "title": "Ukraina skal ha rammet mål i nærheten av St. Petersburg",
-      "link": "https://www.nrk.no/nyheter/ukraina-skal-ha-rammet-mal-i-naerheten-av-st.-petersburg-1.17910763",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 06 Jun 2026 08:34:50 GMT"
     }
   ]
 }
