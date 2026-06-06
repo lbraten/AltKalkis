@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-06T20:10:08.390Z",
+  "updatedAt": "2026-06-06T21:36:59.542Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Savnet etter kanovelt i Sarpsborg",
+      "link": "https://www.nrk.no/nyheter/savnet-etter-kanovelt-i-sarpsborg-1.17911232",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 06 Jun 2026 21:13:34 GMT"
+    },
     {
       "title": "Truleg inga løysing i revidert-forhandlingane",
       "link": "https://www.nrk.no/nyheter/truleg-inga-loysing-i-revidert-forhandlingane-1.17911211",
@@ -9,8 +15,8 @@
       "pubDate": "Sat, 06 Jun 2026 20:06:44 GMT"
     },
     {
-      "title": "11 døde i Sudan etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/11-dode-i-sudan-etter-droneangrep-1.17911149",
+      "title": "Elleve døde i Sudan etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/elleve-dode-i-sudan-etter-droneangrep-1.17911149",
       "category": "Sudan",
       "pubDate": "Sat, 06 Jun 2026 19:39:20 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/sparkesykkelulukke-i-lorenskog-1.17911057",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 06 Jun 2026 18:02:33 GMT"
-    },
-    {
-      "title": "Israel: 150 treff mot Hizbollah dei siste 48 timane, melder luftforsvaret i landet",
-      "link": "https://www.nrk.no/nyheter/israel_-150-treff-mot-hizbollah-dei-siste-48-timane_-melder-luftforsvaret-i-landet-1.17911111",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 06 Jun 2026 17:53:56 GMT"
     }
   ]
 }
