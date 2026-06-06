@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-06T12:05:56.540Z",
+  "updatedAt": "2026-06-06T14:16:23.722Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Fløy drone i forbudssonen",
-      "link": "https://www.nrk.no/stor-oslo/floy-drone-i-forbudssonen-1.17910697",
+      "title": "Frankrike si tidlegare førstedame er død",
+      "link": "https://www.nrk.no/nyheter/frankrike-si-tidlegare-forstedame-er-dod-1.17910985",
+      "category": "Frankrike",
+      "pubDate": "Sat, 06 Jun 2026 13:56:01 GMT"
+    },
+    {
+      "title": "1800 butikktilsette kan gå ut i streik søndag morgon",
+      "link": "https://www.nrk.no/nyheter/1800-butikktilsette-kan-ga-ut-i-streik-sondag-morgon-1.17910996",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sat, 06 Jun 2026 13:50:41 GMT"
+    },
+    {
+      "title": "Amerikanar skriven ut frå sjukehuset etter Ebola-smitte",
+      "link": "https://www.nrk.no/nyheter/amerikanar-skriven-ut-fra-sjukehuset-etter-ebola-smitte-1.17910970",
+      "category": "Ebola",
+      "pubDate": "Sat, 06 Jun 2026 13:44:04 GMT"
+    },
+    {
+      "title": "Iran fordømmer amerikansk angrep på radaranlegg",
+      "link": "https://www.nrk.no/nyheter/iran-fordommer-amerikansk-angrep-pa-radaranlegg-1.17910937",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 06 Jun 2026 13:32:14 GMT"
+    },
+    {
+      "title": "Slåstkamp på fly",
+      "link": "https://www.nrk.no/stor-oslo/slastkamp-pa-fly--1.17910950",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 06 Jun 2026 11:25:55 GMT"
+      "pubDate": "Sat, 06 Jun 2026 13:29:43 GMT"
     },
     {
-      "title": "Kronprinsessens sykdom påvirker ikke statsbesøk fra Norge i nær framtid",
-      "link": "https://www.nrk.no/nyheter/kronprinsessens-sykdom-pavirker-ikke-statsbesok-fra-norge-i-naer-framtid-1.17910857",
-      "category": "Kongefamilien",
-      "pubDate": "Sat, 06 Jun 2026 10:20:02 GMT"
-    },
-    {
-      "title": "Israel undersøker angrep der libanesiske soldater ble drept",
-      "link": "https://www.nrk.no/nyheter/israel-undersoker-angrep-der-libanesiske-soldater-ble-drept-1.17910805",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 06 Jun 2026 09:47:57 GMT"
-    },
-    {
-      "title": "Båt tar inn vann i Tønsberg – har kontroll",
-      "link": "https://www.nrk.no/vestfoldogtelemark/bat-tar-inn-vann-i-tonsberg-_-har-kontroll-1.17910820",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 06 Jun 2026 09:23:09 GMT"
-    },
-    {
-      "title": "Pave Leo: – Seksuelle overgrep er fortsatt et åpent sår",
-      "link": "https://www.nrk.no/nyheter/pave-leo_-_-seksuelle-overgrep-er-fortsatt-et-apent-sar-1.17910785",
-      "category": "Overgrep i den katolske kirke",
-      "pubDate": "Sat, 06 Jun 2026 09:08:51 GMT"
-    },
-    {
-      "title": "Revidert-forhandlinger gjenopptas etter pause",
-      "link": "https://www.nrk.no/nyheter/revidert-forhandlinger-gjenopptas-etter-pause-1.17910758",
-      "category": "Statsbudsjettet 2026",
-      "pubDate": "Sat, 06 Jun 2026 08:43:53 GMT"
+      "title": "89 i livbåtar etter hending på plattform",
+      "link": "https://www.nrk.no/vestland/89-i-livbatar-etter-hending-pa-plattform-1.17910942",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 06 Jun 2026 13:05:32 GMT"
     }
   ]
 }
