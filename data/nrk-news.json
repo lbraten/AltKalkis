@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-06T15:51:10.909Z",
+  "updatedAt": "2026-06-06T17:17:08.755Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Redningshelikopter på veg til sykkelulykke i Porsgrunn",
+      "link": "https://www.nrk.no/nyheter/redningshelikopter-pa-veg-til-sykkelulykke-i-porsgrunn-1.17911047",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 06 Jun 2026 16:22:39 GMT"
+    },
     {
       "title": "Fallulukke på Bislett",
       "link": "https://www.nrk.no/stor-oslo/fallulukke-pa-bislett-1.17910984",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/frankrike-si-tidlegare-forstedame-er-dod-1.17910985",
       "category": "Frankrike",
       "pubDate": "Sat, 06 Jun 2026 13:56:01 GMT"
-    },
-    {
-      "title": "1800 butikktilsette kan gå ut i streik søndag morgon",
-      "link": "https://www.nrk.no/nyheter/1800-butikktilsette-kan-ga-ut-i-streik-sondag-morgon-1.17910996",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sat, 06 Jun 2026 13:50:41 GMT"
     }
   ]
 }
