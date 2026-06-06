@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-06-06T18:48:08.695Z",
+  "updatedAt": "2026-06-06T20:10:08.390Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Talet på nye organdonorar eksplodert i Noreg",
-      "link": "https://www.nrk.no/nyheter/talet-pa-nye-organdonorar-eksplodert-i-noreg-1.17911002",
+      "title": "Truleg inga løysing i revidert-forhandlingane",
+      "link": "https://www.nrk.no/nyheter/truleg-inga-loysing-i-revidert-forhandlingane-1.17911211",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sat, 06 Jun 2026 20:06:44 GMT"
+    },
+    {
+      "title": "11 døde i Sudan etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/11-dode-i-sudan-etter-droneangrep-1.17911149",
+      "category": "Sudan",
+      "pubDate": "Sat, 06 Jun 2026 19:39:20 GMT"
+    },
+    {
+      "title": "Talet på nye organdonorar har eksplodert i Noreg",
+      "link": "https://www.nrk.no/nyheter/talet-pa-nye-organdonorar-har-eksplodert-i-noreg-1.17911002",
       "category": "Organdonasjon",
       "pubDate": "Sat, 06 Jun 2026 18:25:59 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel_-150-treff-mot-hizbollah-dei-siste-48-timane_-melder-luftforsvaret-i-landet-1.17911111",
       "category": "Libanon og Israel",
       "pubDate": "Sat, 06 Jun 2026 17:53:56 GMT"
-    },
-    {
-      "title": "Nekter straffskyld for drap i Stavanger",
-      "link": "https://www.nrk.no/nyheter/nekter-straffskyld-for-drap-i-stavanger-1.17911132",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 06 Jun 2026 17:27:08 GMT"
-    },
-    {
-      "title": "Alvorlig MC-ulykke i Innlandet: – Har kjørt utfor skrent",
-      "link": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-innlandet_-_-har-kjort-utfor-skrent-1.17910959",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 06 Jun 2026 17:16:37 GMT"
     }
   ]
 }
