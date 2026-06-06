@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-06T05:33:54.599Z",
+  "updatedAt": "2026-06-06T08:35:40.314Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Perus presidentkandidat Sánchez må møte i retten",
-      "link": "https://www.nrk.no/nyheter/perus-presidentkandidat-sanchez-ma-mote-i-retten-1.17910640",
-      "category": "Peru",
-      "pubDate": "Sat, 06 Jun 2026 04:46:19 GMT"
-    },
-    {
-      "title": "Trafikkulykken på Røros mindre alvorlig enn først antatt",
-      "link": "https://www.nrk.no/nyheter/trafikkulykken-pa-roros-mindre-alvorlig-enn-forst-antatt-1.17910639",
-      "category": "Trafikkulykker",
-      "pubDate": "Sat, 06 Jun 2026 04:33:10 GMT"
-    },
-    {
-      "title": "Russland: Nytt ukrainsk angrep mot St. Petersburg",
-      "link": "https://www.nrk.no/nyheter/russland_-nytt-ukrainsk-angrep-mot-st.-petersburg-1.17910632",
+      "title": "Ukraina skal ha rammet mål i nærheten av St. Petersburg",
+      "link": "https://www.nrk.no/nyheter/ukraina-skal-ha-rammet-mal-i-naerheten-av-st.-petersburg-1.17910763",
       "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 06 Jun 2026 03:12:39 GMT"
+      "pubDate": "Sat, 06 Jun 2026 08:34:50 GMT"
     },
     {
-      "title": "Iran truer med å stenge Hormuzstredet igjen",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-stenge-hormuzstredet-igjen-1.17910631",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 06 Jun 2026 02:36:25 GMT"
+      "title": "Jamaica rammet av strømbrudd",
+      "link": "https://www.nrk.no/nyheter/jamaica-rammet-av-strombrudd-1.17910730",
+      "category": "Økonomi",
+      "pubDate": "Sat, 06 Jun 2026 08:29:15 GMT"
     },
     {
-      "title": "USA avviser iranske påstander om rakettreff",
-      "link": "https://www.nrk.no/nyheter/usa-avviser-iranske-pastander-om-rakettreff-1.17910622",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 06 Jun 2026 02:28:33 GMT"
+      "title": "Tangen om SpaceX: – Vi kommer nok til å kjøpe oss inn i selskapet",
+      "link": "https://www.nrk.no/nyheter/tangen-om-spacex_-_-vi-kommer-nok-til-a-kjope-oss-inn-i-selskapet-1.17910739",
+      "category": "SpaceX",
+      "pubDate": "Sat, 06 Jun 2026 08:25:54 GMT"
     },
     {
-      "title": "Flyalarm i Bahrain",
-      "link": "https://www.nrk.no/nyheter/flyalarm-i-bahrain-1.17910628",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 06 Jun 2026 02:05:21 GMT"
+      "title": "Voldshendelse i Hønefoss",
+      "link": "https://www.nrk.no/buskerud/voldshendelse-i-honefoss-1.17910734",
+      "category": "Politi og hendelser i Buskerud",
+      "pubDate": "Sat, 06 Jun 2026 08:22:48 GMT"
+    },
+    {
+      "title": "Mann pågrepet for drap i Stavanger",
+      "link": "https://www.nrk.no/rogaland/mann-pagrepet-for-drap-i-stavanger-1.17910726",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 06 Jun 2026 08:12:37 GMT"
+    },
+    {
+      "title": "Front mot front i Fyresdal",
+      "link": "https://www.nrk.no/vestfoldogtelemark/front-mot-front-i-fyresdal-1.17910717",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 06 Jun 2026 08:02:48 GMT"
     }
   ]
 }
