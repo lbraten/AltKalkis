@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-07T15:26:40.304Z",
+  "updatedAt": "2026-06-07T16:53:32.930Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Stadfesta: Trolltunga-vegen opnar måndag",
+      "link": "https://www.nrk.no/vestland/stadfesta_-trolltunga-vegen-opnar-mandag-1.17911626",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 07 Jun 2026 15:48:15 GMT"
+    },
+    {
+      "title": "Bennbar væske kastet mot bolig i Arendal",
+      "link": "https://www.nrk.no/sorlandet/bennbar-vaeske-kastet-mot-bolig-i-arendal-1.17911627",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 07 Jun 2026 15:30:04 GMT"
+    },
+    {
+      "title": "To fallskjermhopparar skadde",
+      "link": "https://www.nrk.no/vestland/to-fallskjermhopparar-skadde-1.17911601",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 07 Jun 2026 15:27:57 GMT"
+    },
     {
       "title": "Noreg har evakuert 4000 ukrainarar",
       "link": "https://www.nrk.no/nyheter/noreg-har-evakuert-4000-ukrainarar-1.17911515",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/hund-sat-fast-bak-rassikring-1.17911544",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 07 Jun 2026 14:27:40 GMT"
-    },
-    {
-      "title": "Høiby møter i retten måndag – ber igjen om lauslating frå varetekt eller fotlenke",
-      "link": "https://www.nrk.no/nyheter/hoiby-moter-i-retten-mandag-_-ber-igjen-om-lauslating-fra-varetekt-eller-fotlenke-1.17911598",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Sun, 07 Jun 2026 14:26:53 GMT"
-    },
-    {
-      "title": "Trump: Avviser kravet frå Iran om stans i israelske angrep mot Libanon",
-      "link": "https://www.nrk.no/nyheter/trump_-avviser-kravet-fra-iran-om-stans-i-israelske-angrep-mot-libanon-1.17911585",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 07 Jun 2026 14:23:23 GMT"
-    },
-    {
-      "title": "Leteaksjon i Tana",
-      "link": "https://www.nrk.no/tromsogfinnmark/leteaksjon-i-tana-1.17911577",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 07 Jun 2026 14:22:31 GMT"
     }
   ]
 }
