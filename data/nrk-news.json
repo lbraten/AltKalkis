@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-07T11:49:29.236Z",
+  "updatedAt": "2026-06-07T13:57:18.500Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "TV 2: Kronprinsesse Mette-Marit og kronprins Haakon er på besøk i Oslo fengsel",
+      "link": "https://www.nrk.no/nyheter/tv-2_-kronprinsesse-mette-marit-og-kronprins-haakon-er-pa-besok-i-oslo-fengsel-1.17911562",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 07 Jun 2026 13:32:36 GMT"
+    },
+    {
+      "title": "Revidert-forhandlingar på overtid: nytt møte mellom partia",
+      "link": "https://www.nrk.no/nyheter/revidert-forhandlingar-pa-overtid_-nytt-mote-mellom-partia-1.17911539",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 07 Jun 2026 13:16:32 GMT"
+    },
+    {
+      "title": "Israel har angripe forstad til Beirut",
+      "link": "https://www.nrk.no/nyheter/israel-har-angripe-forstad-til-beirut-1.17911514",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 07 Jun 2026 12:42:44 GMT"
+    },
     {
       "title": "Gaute Skjervø tar ikke gjenvalg som AUF-leder",
       "link": "https://www.nrk.no/nyheter/gaute-skjervo-tar-ikke-gjenvalg-som-auf-leder-1.17911490",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-ber-libanesere-evakuere-1.17911433",
       "category": "Libanon og Israel",
       "pubDate": "Sun, 07 Jun 2026 10:46:10 GMT"
-    },
-    {
-      "title": "Jordras i Troms: – E6 blir stengt i lang tid",
-      "link": "https://www.nrk.no/tromsogfinnmark/jordras-i-troms_-_-e6-blir-stengt-i-lang-tid-1.17911412",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 07 Jun 2026 10:34:46 GMT"
-    },
-    {
-      "title": "Bellona mangler 4 millioner",
-      "link": "https://www.nrk.no/nyheter/bellona-mangler-4-millioner-1.17911384",
-      "category": "Klima og miljø",
-      "pubDate": "Sun, 07 Jun 2026 09:36:49 GMT"
-    },
-    {
-      "title": "Sørlandsbanen stengt",
-      "link": "https://www.nrk.no/sorlandet/sorlandsbanen-stengt-1.17911391",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 07 Jun 2026 09:29:14 GMT"
     }
   ]
 }
