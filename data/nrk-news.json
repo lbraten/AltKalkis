@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-07T06:26:28.095Z",
+  "updatedAt": "2026-06-07T09:46:56.409Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bellona mangler 4 millioner",
+      "link": "https://www.nrk.no/nyheter/bellona-mangler-4-millioner-1.17911384",
+      "category": "Klima og miljø",
+      "pubDate": "Sun, 07 Jun 2026 09:36:49 GMT"
+    },
+    {
+      "title": "Sørlandsbanen stengt",
+      "link": "https://www.nrk.no/sorlandet/sorlandsbanen-stengt-1.17911391",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 07 Jun 2026 09:29:14 GMT"
+    },
+    {
+      "title": "Minst seks skutt i Israel",
+      "link": "https://www.nrk.no/nyheter/minst-seks-skutt-i-israel-1.17911372",
+      "category": "Israel",
+      "pubDate": "Sun, 07 Jun 2026 08:18:53 GMT"
+    },
+    {
+      "title": "Russisk drone skal ha truffet lager for atomavfall",
+      "link": "https://www.nrk.no/nyheter/russisk-drone-skal-ha-truffet-lager-for-atomavfall-1.17911282",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 07 Jun 2026 07:53:03 GMT"
+    },
+    {
+      "title": "Streik i butikkbransjen avverget",
+      "link": "https://www.nrk.no/nyheter/streik-i-butikkbransjen-avverget-1.17911356",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 07 Jun 2026 07:29:36 GMT"
+    },
     {
       "title": "Russ falt ut av russebuss i Agder",
       "link": "https://www.nrk.no/nyheter/russ-falt-ut-av-russebuss-i-agder-1.17911270",
       "category": "Russefeiring",
       "pubDate": "Sun, 07 Jun 2026 05:44:05 GMT"
-    },
-    {
-      "title": "Mekling fortsetter - fare for butikkstreik",
-      "link": "https://www.nrk.no/nyheter/mekling-fortsetter---fare-for-butikkstreik-1.17911278",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 07 Jun 2026 05:00:04 GMT"
-    },
-    {
-      "title": "To kritisk skadet etter skyting nær festival i USA",
-      "link": "https://www.nrk.no/nyheter/to-kritisk-skadet-etter-skyting-naer-festival-i-usa-1.17911265",
-      "category": "USA",
-      "pubDate": "Sun, 07 Jun 2026 02:06:38 GMT"
-    },
-    {
-      "title": "USA: Har skutt ned nye iranske droner",
-      "link": "https://www.nrk.no/nyheter/usa_-har-skutt-ned-nye-iranske-droner-1.17911263",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 07 Jun 2026 01:19:47 GMT"
-    },
-    {
-      "title": "Trafikkulykken i Skjervøy: To utenfor livsfare",
-      "link": "https://www.nrk.no/nyheter/trafikkulykken-i-skjervoy_-to-utenfor-livsfare-1.17911254",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 07 Jun 2026 01:15:32 GMT"
-    },
-    {
-      "title": "Fotball-VM: Skottland trekker seg fra Norge-kamp",
-      "link": "https://www.nrk.no/nyheter/fotball-vm_-skottland-trekker-seg-fra-norge-kamp-1.17911250",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Sun, 07 Jun 2026 00:03:56 GMT"
     }
   ]
 }
