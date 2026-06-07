@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-07T01:36:53.246Z",
+  "updatedAt": "2026-06-07T06:26:28.095Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Russ falt ut av russebuss i Agder",
+      "link": "https://www.nrk.no/nyheter/russ-falt-ut-av-russebuss-i-agder-1.17911270",
+      "category": "Russefeiring",
+      "pubDate": "Sun, 07 Jun 2026 05:44:05 GMT"
+    },
+    {
+      "title": "Mekling fortsetter - fare for butikkstreik",
+      "link": "https://www.nrk.no/nyheter/mekling-fortsetter---fare-for-butikkstreik-1.17911278",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 07 Jun 2026 05:00:04 GMT"
+    },
+    {
+      "title": "To kritisk skadet etter skyting nær festival i USA",
+      "link": "https://www.nrk.no/nyheter/to-kritisk-skadet-etter-skyting-naer-festival-i-usa-1.17911265",
+      "category": "USA",
+      "pubDate": "Sun, 07 Jun 2026 02:06:38 GMT"
+    },
     {
       "title": "USA: Har skutt ned nye iranske droner",
       "link": "https://www.nrk.no/nyheter/usa_-har-skutt-ned-nye-iranske-droner-1.17911263",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fotball-vm_-skottland-trekker-seg-fra-norge-kamp-1.17911250",
       "category": "Fotball-VM 2026",
       "pubDate": "Sun, 07 Jun 2026 00:03:56 GMT"
-    },
-    {
-      "title": "CNN: Flere skutt ved festival i Ohio",
-      "link": "https://www.nrk.no/nyheter/cnn_-flere-skutt-ved-festival-i-ohio-1.17911249",
-      "category": "USA",
-      "pubDate": "Sat, 06 Jun 2026 23:39:28 GMT"
-    },
-    {
-      "title": "Utforkjøring i Troms",
-      "link": "https://www.nrk.no/nyheter/utforkjoring-i-troms-1.17911243",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 06 Jun 2026 23:23:43 GMT"
-    },
-    {
-      "title": "Fraktes til sykehus etter kanovelt",
-      "link": "https://www.nrk.no/nyheter/fraktes-til-sykehus-etter-kanovelt-1.17911242",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 06 Jun 2026 23:23:02 GMT"
     }
   ]
 }
