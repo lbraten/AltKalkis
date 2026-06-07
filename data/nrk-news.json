@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-07T19:54:43.860Z",
+  "updatedAt": "2026-06-07T21:15:45.344Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet etterforskar eit grovt ran i Bergen",
+      "link": "https://www.nrk.no/nyheter/politiet-etterforskar-eit-grovt-ran-i-bergen-1.17911752",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 07 Jun 2026 20:00:18 GMT"
+    },
+    {
+      "title": "Trafikkstans på München-flyplass",
+      "link": "https://www.nrk.no/nyheter/trafikkstans-pa-munchen-flyplass-1.17911830",
+      "category": "Tyskland",
+      "pubDate": "Sun, 07 Jun 2026 19:59:56 GMT"
+    },
     {
       "title": "IDF seier Iran har avfyrt rakettar mot Israel",
       "link": "https://www.nrk.no/nyheter/idf-seier-iran-har-avfyrt-rakettar-mot-israel-1.17911780",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-vurderer-a-kjope-chagosoyene-1.17911717",
       "category": "USA og Storbritannia",
       "pubDate": "Sun, 07 Jun 2026 18:23:47 GMT"
-    },
-    {
-      "title": "Revidert-forhandlingane: Stadt skipstunnel skal likevel bli bygga",
-      "link": "https://www.nrk.no/nyheter/revidert-forhandlingane_-stadt-skipstunnel-skal-likevel-bli-bygga-1.17911716",
-      "category": "Stad skipstunnel",
-      "pubDate": "Sun, 07 Jun 2026 18:03:46 GMT"
-    },
-    {
-      "title": "Einigheit om revidert nasjonalbudsjett",
-      "link": "https://www.nrk.no/nyheter/einigheit-om-revidert-nasjonalbudsjett-1.17911617",
-      "category": "Statsbudsjettet 2026",
-      "pubDate": "Sun, 07 Jun 2026 17:19:57 GMT"
     }
   ]
 }
