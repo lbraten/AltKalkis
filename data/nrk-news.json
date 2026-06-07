@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-07T18:05:31.916Z",
+  "updatedAt": "2026-06-07T19:54:43.860Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "IDF seier Iran har avfyrt rakettar mot Israel",
+      "link": "https://www.nrk.no/nyheter/idf-seier-iran-har-avfyrt-rakettar-mot-israel-1.17911780",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 07 Jun 2026 19:07:45 GMT"
+    },
+    {
+      "title": "Trafikkulykke mellom elsparkesykkel og bil i Nittedal",
+      "link": "https://www.nrk.no/stor-oslo/trafikkulykke-mellom-elsparkesykkel-og-bil-i-nittedal-1.17911715",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 07 Jun 2026 19:01:32 GMT"
+    },
+    {
+      "title": "Støre om revidert nasjonalbudsjett: – Eg er glad me er einige",
+      "link": "https://www.nrk.no/nyheter/store-om-revidert-nasjonalbudsjett_-_-eg-er-glad-me-er-einige-1.17911772",
+      "category": "Statsbudsjettet 2026",
+      "pubDate": "Sun, 07 Jun 2026 18:33:49 GMT"
+    },
+    {
+      "title": "Trump vurderer å kjøpe Chagosøyene",
+      "link": "https://www.nrk.no/nyheter/trump-vurderer-a-kjope-chagosoyene-1.17911717",
+      "category": "USA og Storbritannia",
+      "pubDate": "Sun, 07 Jun 2026 18:23:47 GMT"
+    },
+    {
       "title": "Revidert-forhandlingane: Stadt skipstunnel skal likevel bli bygga",
       "link": "https://www.nrk.no/nyheter/revidert-forhandlingane_-stadt-skipstunnel-skal-likevel-bli-bygga-1.17911716",
-      "category": "Statsbudsjettet 2026",
+      "category": "Stad skipstunnel",
       "pubDate": "Sun, 07 Jun 2026 18:03:46 GMT"
     },
     {
       "title": "Einigheit om revidert nasjonalbudsjett",
       "link": "https://www.nrk.no/nyheter/einigheit-om-revidert-nasjonalbudsjett-1.17911617",
-      "category": "NRK Nyheter",
+      "category": "Statsbudsjettet 2026",
       "pubDate": "Sun, 07 Jun 2026 17:19:57 GMT"
-    },
-    {
-      "title": "Minst ti døde i forlis utanfor Malta",
-      "link": "https://www.nrk.no/nyheter/minst-ti-dode-i-forlis-utanfor-malta-1.17911707",
-      "category": "Malta",
-      "pubDate": "Sun, 07 Jun 2026 17:19:37 GMT"
-    },
-    {
-      "title": "Brann i elbil på Stenbråten",
-      "link": "https://www.nrk.no/stor-oslo/brann-i-elbil-pa-stenbraten--1.17911708",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 07 Jun 2026 17:18:39 GMT"
-    },
-    {
-      "title": "Israel: opnar etterforsking etter at baby vart drepen",
-      "link": "https://www.nrk.no/nyheter/israel_-opnar-etterforsking-etter-at-baby-vart-drepen-1.17911599",
-      "category": "Vestbredden",
-      "pubDate": "Sun, 07 Jun 2026 17:10:20 GMT"
-    },
-    {
-      "title": "Motorsyklist skal ha kollidert med elg",
-      "link": "https://www.nrk.no/trondelag/motorsyklist-skal-ha-kollidert-med-elg-1.17911682",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 07 Jun 2026 16:55:35 GMT"
     }
   ]
 }
