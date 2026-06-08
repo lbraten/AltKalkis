@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-08T05:13:28.055Z",
+  "updatedAt": "2026-06-08T10:04:34.933Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ukraina: Flere døde etter russisk angrep",
-      "link": "https://www.nrk.no/nyheter/ukraina_-flere-dode-etter-russisk-angrep-1.17911971",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 08 Jun 2026 04:37:05 GMT"
-    },
-    {
-      "title": "Nye angrep mot Israel",
-      "link": "https://www.nrk.no/nyheter/nye-angrep-mot-israel-1.17911960",
+      "title": "Trump: – Må stoppe skytingen",
+      "link": "https://www.nrk.no/nyheter/trump_-_-ma-stoppe-skytingen-1.17912356",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 08 Jun 2026 04:25:17 GMT"
+      "pubDate": "Mon, 08 Jun 2026 09:44:26 GMT"
     },
     {
-      "title": "Vitne: Flyalarmen har gått i Tel Aviv",
-      "link": "https://www.nrk.no/nyheter/vitne_-flyalarmen-har-gatt-i-tel-aviv-1.17911906",
-      "category": "Israel",
-      "pubDate": "Mon, 08 Jun 2026 03:14:05 GMT"
+      "title": "Mattilsynet innkaller til jordbærkrisemøte",
+      "link": "https://www.nrk.no/nyheter/mattilsynet-innkaller-til-jordbaerkrisemote--1.17912339",
+      "category": "Jordbær",
+      "pubDate": "Mon, 08 Jun 2026 09:34:24 GMT"
     },
     {
-      "title": "Israel: Har oppdaget et missil fra Jemen",
-      "link": "https://www.nrk.no/nyheter/israel_-har-oppdaget-et-missil-fra-jemen-1.17911902",
+      "title": "Kretsen rundt Høiby: Skal ha presset Frogner-kvinnen",
+      "link": "https://www.nrk.no/nyheter/kretsen-rundt-hoiby_-skal-ha-presset-frogner-kvinnen--1.17912323",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Mon, 08 Jun 2026 09:24:31 GMT"
+    },
+    {
+      "title": "Iran har angrepet olje- og gassanlegg i Israel",
+      "link": "https://www.nrk.no/nyheter/iran-har-angrepet-olje--og-gassanlegg-i-israel-1.17912243",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 08 Jun 2026 09:16:08 GMT"
+    },
+    {
+      "title": "Kraftige eksplosjoner i Irans hovedstad",
+      "link": "https://www.nrk.no/nyheter/kraftige-eksplosjoner-i-irans-hovedstad-1.17912189",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 08 Jun 2026 08:30:59 GMT"
+    },
+    {
+      "title": "Foreslår å videreføre heroinklinikker",
+      "link": "https://www.nrk.no/nyheter/foreslar-a-viderefore-heroinklinikker--1.17912179",
       "category": "NRK Nyheter",
-      "pubDate": "Mon, 08 Jun 2026 03:03:41 GMT"
-    },
-    {
-      "title": "Minst fem døde etter jordskjelv",
-      "link": "https://www.nrk.no/nyheter/minst-fem-dode-etter-jordskjelv-1.17911897",
-      "category": "Filippinene",
-      "pubDate": "Mon, 08 Jun 2026 02:50:36 GMT"
-    },
-    {
-      "title": "Israel: Har angrepet mål i Iran",
-      "link": "https://www.nrk.no/nyheter/israel_-har-angrepet-mal-i-iran-1.17911900",
-      "category": "high",
-      "pubDate": "Mon, 08 Jun 2026 01:32:10 GMT"
+      "pubDate": "Mon, 08 Jun 2026 08:00:49 GMT"
     }
   ]
 }
