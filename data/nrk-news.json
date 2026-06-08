@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-08T00:10:54.065Z",
+  "updatedAt": "2026-06-08T05:13:28.055Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Mann i 40-årene døde i MC-ulykke",
-      "link": "https://www.nrk.no/nyheter/mann-i-40-arene-dode-i-mc-ulykke-1.17911895",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Mon, 08 Jun 2026 00:05:44 GMT"
+      "title": "Ukraina: Flere døde etter russisk angrep",
+      "link": "https://www.nrk.no/nyheter/ukraina_-flere-dode-etter-russisk-angrep-1.17911971",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 08 Jun 2026 04:37:05 GMT"
     },
     {
-      "title": "Tsunamivarsel etter jordskjelv på Filippinene",
-      "link": "https://www.nrk.no/nyheter/tsunamivarsel-etter-jordskjelv-pa-filippinene-1.17911844",
+      "title": "Nye angrep mot Israel",
+      "link": "https://www.nrk.no/nyheter/nye-angrep-mot-israel-1.17911960",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 08 Jun 2026 04:25:17 GMT"
+    },
+    {
+      "title": "Vitne: Flyalarmen har gått i Tel Aviv",
+      "link": "https://www.nrk.no/nyheter/vitne_-flyalarmen-har-gatt-i-tel-aviv-1.17911906",
+      "category": "Israel",
+      "pubDate": "Mon, 08 Jun 2026 03:14:05 GMT"
+    },
+    {
+      "title": "Israel: Har oppdaget et missil fra Jemen",
+      "link": "https://www.nrk.no/nyheter/israel_-har-oppdaget-et-missil-fra-jemen-1.17911902",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 08 Jun 2026 03:03:41 GMT"
+    },
+    {
+      "title": "Minst fem døde etter jordskjelv",
+      "link": "https://www.nrk.no/nyheter/minst-fem-dode-etter-jordskjelv-1.17911897",
       "category": "Filippinene",
-      "pubDate": "Mon, 08 Jun 2026 00:01:53 GMT"
+      "pubDate": "Mon, 08 Jun 2026 02:50:36 GMT"
     },
     {
-      "title": "Trump: – Netanyahu må akseptere en avtale",
-      "link": "https://www.nrk.no/nyheter/trump_-_-netanyahu-ma-akseptere-en-avtale-1.17911881",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 07 Jun 2026 23:26:07 GMT"
-    },
-    {
-      "title": "Irak stenger luftrommet etter missilangrep",
-      "link": "https://www.nrk.no/nyheter/irak-stenger-luftrommet-etter-missilangrep-1.17911876",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 07 Jun 2026 21:45:47 GMT"
-    },
-    {
-      "title": "Axios: Trump ber Israel om ikke å svare Iran med nytt angrep",
-      "link": "https://www.nrk.no/nyheter/axios_-trump-ber-israel-om-ikke-a-svare-iran-med-nytt-angrep-1.17911864",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 07 Jun 2026 21:32:32 GMT"
-    },
-    {
-      "title": "Politiet etterforskar eit grovt ran i Bergen",
-      "link": "https://www.nrk.no/nyheter/politiet-etterforskar-eit-grovt-ran-i-bergen-1.17911752",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 07 Jun 2026 20:00:18 GMT"
+      "title": "Israel: Har angrepet mål i Iran",
+      "link": "https://www.nrk.no/nyheter/israel_-har-angrepet-mal-i-iran-1.17911900",
+      "category": "high",
+      "pubDate": "Mon, 08 Jun 2026 01:32:10 GMT"
     }
   ]
 }
