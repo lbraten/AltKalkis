@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-08T22:10:12.815Z",
+  "updatedAt": "2026-06-08T23:47:05.571Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "ICCs sjefanklager Karim Khan er suspendert",
+      "link": "https://www.nrk.no/nyheter/iccs-sjefanklager-karim-khan-er-suspendert-1.17913243",
+      "category": "ICC-domstolen i Haag",
+      "pubDate": "Mon, 08 Jun 2026 23:37:48 GMT"
+    },
+    {
+      "title": "Tre drept i russisk angrep i Kharkiv",
+      "link": "https://www.nrk.no/nyheter/tre-drept-i-russisk-angrep-i-kharkiv-1.17913241",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 08 Jun 2026 22:45:12 GMT"
+    },
+    {
+      "title": "Flymekling på overtid – fare for streik",
+      "link": "https://www.nrk.no/nyheter/flymekling-pa-overtid-_-fare-for-streik-1.17913221",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Mon, 08 Jun 2026 22:25:48 GMT"
+    },
     {
       "title": "Fare for streik ved flere flyplasser",
       "link": "https://www.nrk.no/nyheter/fare-for-streik-ved-flere-flyplasser-1.17913237",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-12-drept-i-israelske-angrep-i-libanon-1.17913234",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 08 Jun 2026 21:46:26 GMT"
-    },
-    {
-      "title": "Minst seks drept i israelske angrep i Gaza",
-      "link": "https://www.nrk.no/nyheter/minst-seks-drept-i-israelske-angrep-i-gaza-1.17913215",
-      "category": "Krigen i Gaza",
-      "pubDate": "Mon, 08 Jun 2026 21:11:06 GMT"
-    },
-    {
-      "title": "Hissig mann med kniv i butikk",
-      "link": "https://www.nrk.no/nyheter/hissig-mann-med-kniv-i-butikk-1.17913198",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 08 Jun 2026 20:44:58 GMT"
-    },
-    {
-      "title": "Person skal være stukket med kniv på Rjukan",
-      "link": "https://www.nrk.no/nyheter/person-skal-vaere-stukket-med-kniv-pa-rjukan-1.17913179",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 08 Jun 2026 20:31:46 GMT"
     }
   ]
 }
