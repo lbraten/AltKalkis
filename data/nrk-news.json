@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-07T22:37:58.500Z",
+  "updatedAt": "2026-06-08T00:10:54.065Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann i 40-årene døde i MC-ulykke",
+      "link": "https://www.nrk.no/nyheter/mann-i-40-arene-dode-i-mc-ulykke-1.17911895",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 08 Jun 2026 00:05:44 GMT"
+    },
+    {
+      "title": "Tsunamivarsel etter jordskjelv på Filippinene",
+      "link": "https://www.nrk.no/nyheter/tsunamivarsel-etter-jordskjelv-pa-filippinene-1.17911844",
+      "category": "Filippinene",
+      "pubDate": "Mon, 08 Jun 2026 00:01:53 GMT"
+    },
+    {
+      "title": "Trump: – Netanyahu må akseptere en avtale",
+      "link": "https://www.nrk.no/nyheter/trump_-_-netanyahu-ma-akseptere-en-avtale-1.17911881",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 07 Jun 2026 23:26:07 GMT"
+    },
     {
       "title": "Irak stenger luftrommet etter missilangrep",
       "link": "https://www.nrk.no/nyheter/irak-stenger-luftrommet-etter-missilangrep-1.17911876",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/politiet-etterforskar-eit-grovt-ran-i-bergen-1.17911752",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 07 Jun 2026 20:00:18 GMT"
-    },
-    {
-      "title": "Trafikkstans på München-flyplass",
-      "link": "https://www.nrk.no/nyheter/trafikkstans-pa-munchen-flyplass-1.17911830",
-      "category": "Tyskland",
-      "pubDate": "Sun, 07 Jun 2026 19:59:56 GMT"
-    },
-    {
-      "title": "IDF seier Iran har avfyrt rakettar mot Israel",
-      "link": "https://www.nrk.no/nyheter/idf-seier-iran-har-avfyrt-rakettar-mot-israel-1.17911780",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 07 Jun 2026 19:07:45 GMT"
-    },
-    {
-      "title": "Trafikkulykke mellom elsparkesykkel og bil i Nittedal",
-      "link": "https://www.nrk.no/stor-oslo/trafikkulykke-mellom-elsparkesykkel-og-bil-i-nittedal-1.17911715",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 07 Jun 2026 19:01:32 GMT"
     }
   ]
 }
