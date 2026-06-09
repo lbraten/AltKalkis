@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-09T21:18:32.996Z",
+  "updatedAt": "2026-06-09T22:59:00.729Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann til sykehus etter trafikkulykke på Hitra",
+      "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-trafikkulykke-pa-hitra-1.17914714",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Tue, 09 Jun 2026 22:27:59 GMT"
+    },
+    {
+      "title": "USA har iverksatt angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/usa-har-iverksatt-angrep-mot-iran-1.17914713",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 09 Jun 2026 21:22:27 GMT"
+    },
     {
       "title": "Iranske statlige medier: Iran benekter å ha skutt ned amerikansk helikopter",
       "link": "https://www.nrk.no/nyheter/iranske-statlige-medier_-iran-benekter-a-ha-skutt-ned-amerikansk-helikopter-1.17914674",
@@ -17,7 +29,7 @@
     {
       "title": "Belfast: Demonstranter har satt fyr på buss og sperret veier etter knivangrep",
       "link": "https://www.nrk.no/nyheter/belfast_-demonstranter-har-satt-fyr-pa-buss-og-sperret-veier-etter-knivangrep-1.17914581",
-      "category": "Demonstrasjon i Belfast",
+      "category": "Opptøyer i Belfast",
       "pubDate": "Tue, 09 Jun 2026 20:00:49 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/rogaland/krisemote-i-helse-stavanger-etter-knusende-dom-1.17914600",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Tue, 09 Jun 2026 19:42:45 GMT"
-    },
-    {
-      "title": "Avviser å gripe inn med detaljstyring",
-      "link": "https://www.nrk.no/mr/avviser-a-gripe-inn-med-detaljstyring-1.17914615",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 09 Jun 2026 19:34:16 GMT"
-    },
-    {
-      "title": "Seks personer plukket opp etter redningsaksjon i Jotunheimen",
-      "link": "https://www.nrk.no/innlandet/seks-personer-plukket-opp-etter-redningsaksjon-i-jotunheimen-1.17914580",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Tue, 09 Jun 2026 18:58:21 GMT"
     }
   ]
 }
