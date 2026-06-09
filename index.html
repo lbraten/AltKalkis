@@ -44,6 +44,7 @@
 
                     <div class="sidebar__category">Info & annet</div>
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="datetimeCard" checked><span>Dagens dato og klokkeslett</span></label>
+                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="weatherNowCard" checked><span>Vær</span></label>
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="weatherCard" checked><span>Temperatur</span></label>
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="timezoneCard" checked><span>Tidssoner</span></label>
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="quote" checked><span>Sitat</span></label>
@@ -64,6 +65,52 @@
                 <p id="currentDateTime"></p>
                 <!-- Analog klokke -->
                 <canvas id="analogClock" width="260" height="260" aria-label="Analog klokke"></canvas>
+            </div>
+
+            <div class="bordershadow card--wide card--m" id="weatherNowCard">
+                <div class="weather-now-header">
+                    <h2>Vær</h2>
+                    <span id="weatherNowLocationLabel" class="weather-now-location">Oslo, Norge</span>
+                </div>
+                <div class="weather-now-hero">
+                    <div class="weather-now-controls" aria-label="Sted for værboks">
+                        <label class="field-with-icon field-with-icon--city" aria-label="Søk etter sted for værboks">
+                            <i class="fa-solid fa-location-dot field-icon" aria-hidden="true"></i>
+                            <input type="text" id="weatherNowSearch" class="weather-field-control" placeholder="Bytt sted" aria-label="Søk etter sted for værboks" aria-autocomplete="list" aria-controls="weatherNowLocationResults" aria-expanded="false" autocomplete="off" />
+                        </label>
+                        <div id="weatherNowLocationResults" class="weather-location-results" role="listbox" aria-label="Forslag til steder" hidden></div>
+                    </div>
+                    <div id="weatherNowScene" class="weather-now-scene">
+                        <span class="weather-scene__sun"></span>
+                        <span class="weather-scene__cloud weather-scene__cloud--a"></span>
+                        <span class="weather-scene__cloud weather-scene__cloud--b"></span>
+                        <span class="weather-scene__cloud weather-scene__cloud--c"></span>
+                        <span class="weather-scene__cloud weather-scene__cloud--d"></span>
+                        <span class="weather-scene__cloud weather-scene__cloud--e"></span>
+                        <span class="weather-scene__cloud weather-scene__cloud--f"></span>
+                        <span class="weather-scene__rain"></span>
+                        <span class="weather-scene__lightning"></span>
+                        <div class="weather-now-main">
+                            <p id="weatherNowTemp" class="weather-now-temp">- °C</p>
+                            <p id="weatherNowCondition" class="weather-now-condition">Laster vær...</p>
+                            <div id="weatherSummaryChips" class="weather-now-stats" aria-label="Nøkkelverdier for vær">
+                                <span class="weather-now-stat"><span class="weather-now-stat__label">Temperatur:</span><span class="weather-now-stat__value">-</span></span>
+                                <span class="weather-now-stat"><span class="weather-now-stat__label">Fuktighet:</span><span class="weather-now-stat__value">-</span></span>
+                                <span class="weather-now-stat"><span class="weather-now-stat__label">UV:</span><span class="weather-now-stat__value">-</span></span>
+                                <span class="weather-now-stat"><span class="weather-now-stat__label">AQI:</span><span class="weather-now-stat__value">-</span></span>
+                            </div>
+                            <div id="weatherAlerts" class="weather-alerts" aria-live="polite" aria-label="Værvarsler"></div>
+                        </div>
+                    </div>
+                </div>
+                <section class="weather-forecast" aria-label="7-dagers værvarsel">
+                    <div class="weather-forecast__header">
+                        <h3>7-dagers varsel (Yr)</h3>
+                        <span id="weatherForecastUpdated" class="weather-forecast__updated"></span>
+                    </div>
+                    <p id="weatherForecastStatus" class="weather-forecast__status">Henter varsel...</p>
+                    <div id="weatherForecastGrid" class="weather-forecast__grid" aria-live="polite"></div>
+                </section>
             </div>
 
             

@@ -446,21 +446,185 @@ document.addEventListener("DOMContentLoaded", () => {
     const calcDisplay = document.getElementById("calcDisplay");
     const buttons = document.querySelectorAll(".calc-btn");
     let currentInput = "";
-    buttons.forEach(button => {
+
+    const isMathOperator = (token) => token === "+" || token === "-" || token === "*" || token === "/";
+    const isMathNumber = (token) => /^-?(?:\d+(?:\.\d+)?|\.\d+)$/.test(token);
+
+    const tokenizeMathExpression = (expression) => {
+        const compact = String(expression || "").replace(/\s+/g, "");
+        if (!compact) return [];
+
+        const tokens = [];
+        let numberBuffer = "";
+
+        const flushNumber = () => {
+            if (!numberBuffer) return;
+            if (!/^(?:\d+(?:\.\d+)?|\.\d+)$/.test(numberBuffer)) {
+                throw new Error("Ugyldig tall i uttrykket");
+            }
+            tokens.push(numberBuffer);
+            numberBuffer = "";
+        };
+
+        for (const char of compact) {
+            if (/\d|\./.test(char)) {
+                numberBuffer += char;
+                continue;
+            }
+
+            if (isMathOperator(char) || char === "(" || char === ")") {
+                flushNumber();
+                tokens.push(char);
+                continue;
+            }
+
+            throw new Error("Ugyldige tegn i uttrykket");
+        }
+
+        flushNumber();
+
+        const normalized = [];
+        for (let i = 0; i < tokens.length; i += 1) {
+            const token = tokens[i];
+            const prevOriginal = i > 0 ? tokens[i - 1] : null;
+            const unarySign = (token === "-" || token === "+")
+                && (i === 0 || isMathOperator(prevOriginal) || prevOriginal === "(");
+
+            if (unarySign) {
+                const next = tokens[i + 1];
+                if (next && /^(?:\d+(?:\.\d+)?|\.\d+)$/.test(next)) {
+                    const signed = token === "-" ? -Number(next) : Number(next);
+                    normalized.push(String(signed));
+                    i += 1;
+                    continue;
+                }
+
+                if (next === "(") {
+                    if (token === "-") {
+                        normalized.push("0");
+                        normalized.push("-");
+                    }
+                    continue;
+                }
+
+                throw new Error("Ugyldig uttrykk");
+            }
+
+            normalized.push(token);
+        }
+
+        return normalized;
+    };
+
+    const evaluateMathExpression = (expression) => {
+        const tokens = tokenizeMathExpression(expression);
+        if (!tokens.length) return 0;
+
+        const values = [];
+        const operators = [];
+        const precedence = { "+": 1, "-": 1, "*": 2, "/": 2 };
+
+        const applyOperator = () => {
+            const op = operators.pop();
+            const right = values.pop();
+            const left = values.pop();
+
+            if (!isMathOperator(op) || !Number.isFinite(left) || !Number.isFinite(right)) {
+                throw new Error("Ugyldig uttrykk");
+            }
+
+            let result = 0;
+            if (op === "+") result = left + right;
+            if (op === "-") result = left - right;
+            if (op === "*") result = left * right;
+            if (op === "/") {
+                if (Math.abs(right) < Number.EPSILON) {
+                    throw new Error("Kan ikke dele på 0");
+                }
+                result = left / right;
+            }
+            values.push(result);
+        };
+
+        tokens.forEach((token) => {
+            if (isMathNumber(token)) {
+                values.push(Number(token));
+                return;
+            }
+
+            if (token === "(") {
+                operators.push(token);
+                return;
+            }
+
+            if (token === ")") {
+                while (operators.length && operators[operators.length - 1] !== "(") {
+                    applyOperator();
+                }
+                if (!operators.length || operators[operators.length - 1] !== "(") {
+                    throw new Error("Mangler parentes");
+                }
+                operators.pop();
+                return;
+            }
+
+            if (isMathOperator(token)) {
+                while (
+                    operators.length
+                    && isMathOperator(operators[operators.length - 1])
+                    && precedence[operators[operators.length - 1]] >= precedence[token]
+                ) {
+                    applyOperator();
+                }
+                operators.push(token);
+                return;
+            }
+
+            throw new Error("Ugyldig uttrykk");
+        });
+
+        while (operators.length) {
+            if (operators[operators.length - 1] === "(") {
+                throw new Error("Mangler parentes");
+            }
+            applyOperator();
+        }
+
+        if (values.length !== 1 || !Number.isFinite(values[0])) {
+            throw new Error("Ugyldig uttrykk");
+        }
+
+        return values[0];
+    };
+
+    buttons.forEach((button) => {
         button.addEventListener("click", () => {
-            const value = button.textContent;
+            if (!calcDisplay) return;
+            const value = (button.textContent || "").trim();
+
             if (button.id === "clear") {
-                currentInput = ""; calcDisplay.value = "";
-            } else if (button.id === "equals") {
+                currentInput = "";
+                calcDisplay.value = "";
+                return;
+            }
+
+            if (button.id === "equals") {
                 try {
-                    currentInput = eval(currentInput).toString();
+                    const result = evaluateMathExpression(currentInput);
+                    currentInput = Number.isInteger(result)
+                        ? String(result)
+                        : String(Number(result.toFixed(10)));
                     calcDisplay.value = currentInput;
                 } catch {
-                    calcDisplay.value = "Error"; currentInput = "";
+                    calcDisplay.value = "Feil";
+                    currentInput = "";
                 }
-            } else {
-                currentInput += value; calcDisplay.value = currentInput;
+                return;
             }
+
+            if (!value) return;
+            currentInput += value;
+            calcDisplay.value = currentInput;
         });
     });
 
@@ -2353,6 +2517,33 @@ document.addEventListener("DOMContentLoaded", () => {
         ? omRangeSelector.querySelector(".range-selector__indicator")
         : null;
     const trendChartTile = document.getElementById("trendChartTile");
+    const weatherSummaryChipsEl = document.getElementById("weatherSummaryChips");
+    const weatherAlertsEl = document.getElementById("weatherAlerts");
+    const weatherForecastGridEl = document.getElementById("weatherForecastGrid");
+    const weatherForecastStatusEl = document.getElementById("weatherForecastStatus");
+    const weatherForecastUpdatedEl = document.getElementById("weatherForecastUpdated");
+    const weatherNowSceneEl = document.getElementById("weatherNowScene");
+    const weatherNowRainLayerEl = weatherNowSceneEl?.querySelector(".weather-scene__rain") || null;
+    const weatherNowTempEl = document.getElementById("weatherNowTemp");
+    const weatherNowConditionEl = document.getElementById("weatherNowCondition");
+    const weatherNowLocationLabelEl = document.getElementById("weatherNowLocationLabel");
+
+    let activeWeatherLocationLabel = "Oslo, Norge";
+
+    const formatLocationFromCoords = (lat, lon) => {
+        if (!Number.isFinite(lat) || !Number.isFinite(lon)) return "";
+        return `${Number(lat).toFixed(2)}, ${Number(lon).toFixed(2)}`;
+    };
+
+    const setWeatherLocationLabel = ({ label = "", lat = null, lon = null } = {}) => {
+        const clean = String(label || "").trim();
+        const fallbackCoords = formatLocationFromCoords(lat, lon);
+        const nextLabel = clean || fallbackCoords || activeWeatherLocationLabel || "Ukjent sted";
+        activeWeatherLocationLabel = nextLabel;
+        if (weatherNowLocationLabelEl) {
+            weatherNowLocationLabelEl.textContent = nextLabel;
+        }
+    };
 
     const setOmStatus = (msg) => {
         if (omStatusEl) omStatusEl.textContent = msg;
@@ -2420,9 +2611,779 @@ document.addEventListener("DOMContentLoaded", () => {
         trendChartTile.classList.toggle("is-loading", Boolean(isLoading));
     };
 
+    const OM_OSLO_TIMEZONE = "Europe/Oslo";
+    const OM_YR_CACHE_TTL_MS = 1000 * 60 * 15;
+    const yrForecastCache = new Map();
+    const yrForecastPending = new Map();
+    const OM_YR_NOW_CACHE_TTL_MS = 1000 * 60 * 10;
+    const OM_YR_AQI_SCALE_FACTOR = 20;
+    const yrCurrentSummaryCache = new Map();
+    const yrCurrentSummaryPending = new Map();
+
+    const formatWeatherValue = (value, suffix = "", digits = 1) => {
+        if (!Number.isFinite(value)) return "-";
+        return `${value.toLocaleString("nb-NO", {
+            minimumFractionDigits: digits,
+            maximumFractionDigits: digits,
+        })}${suffix}`;
+    };
+
+    const createEmptyWeatherSummary = () => ({
+        temp: null,
+        humidity: null,
+        uv: null,
+        aqi: null,
+        symbol: "",
+        precipMm: null,
+    });
+
+    const getYrNowCacheKey = (lat, lon) => `${Number(lat).toFixed(3)},${Number(lon).toFixed(3)}`;
+
+    const pickCurrentMetAqi = (timeEntries = []) => {
+        if (!Array.isArray(timeEntries) || !timeEntries.length) return null;
+
+        const now = Date.now();
+        let nearestFuture = null;
+
+        for (const entry of timeEntries) {
+            const value = entry?.variables?.AQI?.value;
+            if (!Number.isFinite(value)) continue;
+
+            const fromMs = Date.parse(entry?.from || "");
+            const toMs = Date.parse(entry?.to || "");
+
+            if (Number.isFinite(fromMs) && Number.isFinite(toMs) && now >= fromMs && now < toMs) {
+                return value;
+            }
+
+            if (Number.isFinite(fromMs) && fromMs >= now) {
+                if (!nearestFuture || fromMs < nearestFuture.fromMs) {
+                    nearestFuture = { fromMs, value };
+                }
+            }
+        }
+
+        if (nearestFuture) return nearestFuture.value;
+
+        for (let i = timeEntries.length - 1; i >= 0; i -= 1) {
+            const value = timeEntries[i]?.variables?.AQI?.value;
+            if (Number.isFinite(value)) return value;
+        }
+
+        return null;
+    };
+
+    const fetchYrCurrentSummaryForCoords = async (lat, lon) => {
+        const cacheKey = getYrNowCacheKey(lat, lon);
+        const cached = yrCurrentSummaryCache.get(cacheKey);
+        if (cached && Date.now() - cached.fetchedAt < OM_YR_NOW_CACHE_TTL_MS) {
+            return cached.value;
+        }
+
+        if (yrCurrentSummaryPending.has(cacheKey)) {
+            return yrCurrentSummaryPending.get(cacheKey);
+        }
+
+        const pending = (async () => {
+            const weatherUrl =
+                "https://api.met.no/weatherapi/locationforecast/2.0/complete" +
+                `?lat=${encodeURIComponent(lat)}&lon=${encodeURIComponent(lon)}`;
+
+            const aqiUrl =
+                "https://api.met.no/weatherapi/airqualityforecast/0.1/" +
+                `?lat=${encodeURIComponent(lat)}&lon=${encodeURIComponent(lon)}`;
+
+            const [weatherResult, aqiResult] = await Promise.allSettled([
+                fetch(weatherUrl, { headers: { Accept: "application/json" } })
+                    .then((response) => {
+                        if (!response.ok) throw new Error(`Yr locationforecast-feil: ${response.status}`);
+                        return response.json();
+                    }),
+                fetch(aqiUrl, { headers: { Accept: "application/json" } })
+                    .then((response) => {
+                        if (!response.ok) throw new Error(`Yr airquality-feil: ${response.status}`);
+                        return response.json();
+                    }),
+            ]);
+
+            const summary = {
+                temp: null,
+                humidity: null,
+                uv: null,
+                aqi: null,
+                symbol: "",
+                precipMm: null,
+            };
+
+            if (weatherResult.status === "fulfilled") {
+                const currentSeries = weatherResult.value?.properties?.timeseries?.[0] || null;
+                const details = currentSeries?.data?.instant?.details || {};
+                summary.temp = Number.isFinite(details.air_temperature) ? details.air_temperature : null;
+                summary.humidity = Number.isFinite(details.relative_humidity) ? details.relative_humidity : null;
+                summary.uv = Number.isFinite(details.ultraviolet_index_clear_sky)
+                    ? details.ultraviolet_index_clear_sky
+                    : null;
+                summary.symbol =
+                    currentSeries?.data?.next_1_hours?.summary?.symbol_code
+                    || currentSeries?.data?.next_6_hours?.summary?.symbol_code
+                    || currentSeries?.data?.next_12_hours?.summary?.symbol_code
+                    || "";
+
+                const precipitation1h = currentSeries?.data?.next_1_hours?.details?.precipitation_amount;
+                const precipitation6h = currentSeries?.data?.next_6_hours?.details?.precipitation_amount;
+                const precipitation12h = currentSeries?.data?.next_12_hours?.details?.precipitation_amount;
+
+                summary.precipMm = Number.isFinite(precipitation1h)
+                    ? precipitation1h
+                    : Number.isFinite(precipitation6h)
+                        ? precipitation6h / 6
+                        : Number.isFinite(precipitation12h)
+                            ? precipitation12h / 12
+                            : null;
+            }
+
+            if (aqiResult.status === "fulfilled") {
+                const entries = aqiResult.value?.data?.time || [];
+                const rawAqi = pickCurrentMetAqi(entries);
+                summary.aqi = Number.isFinite(rawAqi)
+                    ? rawAqi * OM_YR_AQI_SCALE_FACTOR
+                    : null;
+            }
+
+            yrCurrentSummaryCache.set(cacheKey, {
+                fetchedAt: Date.now(),
+                value: summary,
+            });
+
+            return summary;
+        })().finally(() => {
+            yrCurrentSummaryPending.delete(cacheKey);
+        });
+
+        yrCurrentSummaryPending.set(cacheKey, pending);
+        return pending;
+    };
+
+    const buildWeatherAlerts = ({ temp, humidity, uv, aqi }) => {
+        const alerts = [];
+
+        if (Number.isFinite(uv)) {
+            if (uv >= 8) alerts.push({ tone: "danger", text: "Svært høy UV i dag" });
+            else if (uv >= 6) alerts.push({ tone: "warn", text: "Høy UV i dag" });
+        }
+
+        if (Number.isFinite(aqi)) {
+            if (aqi >= 100) alerts.push({ tone: "danger", text: "Dårlig luftkvalitet" });
+            else if (aqi >= 50) alerts.push({ tone: "warn", text: "Moderat luftkvalitet" });
+        }
+
+        if (Number.isFinite(humidity)) {
+            if (humidity >= 85) alerts.push({ tone: "warn", text: "Høy luftfuktighet" });
+            else if (humidity <= 25) alerts.push({ tone: "warn", text: "Svært tørr luft" });
+        }
+
+        if (Number.isFinite(temp)) {
+            if (temp <= -12) alerts.push({ tone: "danger", text: "Svært kald temperatur" });
+            else if (temp <= -5) alerts.push({ tone: "warn", text: "Kald temperatur" });
+            else if (temp >= 28) alerts.push({ tone: "warn", text: "Høy temperatur" });
+        }
+
+        return alerts;
+    };
+
+    const renderWeatherSummary = ({ temp, humidity, uv, aqi }) => {
+        if (weatherSummaryChipsEl) {
+            const chips = [
+                { label: "Temperatur", value: formatWeatherValue(temp, " °C", 1) },
+                { label: "Fuktighet", value: formatWeatherValue(humidity, "%", 0) },
+                { label: "UV", value: formatWeatherValue(uv, "", 1) },
+                { label: "AQI", value: formatWeatherValue(aqi, "", 0) },
+            ];
+
+            weatherSummaryChipsEl.innerHTML = chips
+                .map((chip) => `
+                    <span class="weather-now-stat">
+                        <span class="weather-now-stat__label">${chip.label}:</span>
+                        <span class="weather-now-stat__value">${chip.value}</span>
+                    </span>
+                `)
+                .join("");
+        }
+
+        if (!weatherAlertsEl) return;
+        const alerts = buildWeatherAlerts({ temp, humidity, uv, aqi });
+
+        if (!alerts.length) {
+            weatherAlertsEl.innerHTML = "<span class=\"weather-alert weather-alert--ok\">Forholdene ser stabile ut.</span>";
+            return;
+        }
+
+        weatherAlertsEl.innerHTML = alerts
+            .map((alert) => `<span class="weather-alert weather-alert--${alert.tone}">${alert.text}</span>`)
+            .join("");
+    };
+
+    const toOsloDayKey = (isoDate) => {
+        const date = new Date(isoDate);
+        if (Number.isNaN(date.getTime())) return "";
+        return date.toLocaleDateString("sv-SE", { timeZone: OM_OSLO_TIMEZONE });
+    };
+
+    const toOsloHour = (isoDate) => {
+        const date = new Date(isoDate);
+        if (Number.isNaN(date.getTime())) return null;
+        const hourText = date.toLocaleTimeString("en-GB", {
+            hour: "2-digit",
+            hourCycle: "h23",
+            timeZone: OM_OSLO_TIMEZONE,
+        });
+        const hour = Number(hourText);
+        return Number.isInteger(hour) ? hour : null;
+    };
+
+    const formatForecastUpdatedAt = (isoDate) => {
+        if (!isoDate) return "";
+        const date = new Date(isoDate);
+        if (Number.isNaN(date.getTime())) return "";
+        const datePart = date.toLocaleDateString("nb-NO", {
+            day: "2-digit",
+            month: "2-digit",
+        });
+        const timePart = date.toLocaleTimeString("nb-NO", {
+            hour: "2-digit",
+            minute: "2-digit",
+        });
+        return `Oppdatert ${datePart} kl. ${timePart}`;
+    };
+
+    const normalizeYrSymbolLabel = (symbolCode) => {
+        const raw = String(symbolCode || "").trim().toLowerCase();
+        if (!raw) return "Ukjent";
+        const key = raw.replace(/_(day|night|polartwilight)$/g, "");
+
+        const symbolLabels = [
+            ["thunder", "Torden"],
+            ["heavyrain", "Kraftig regn"],
+            ["lightrain", "Lett regn"],
+            ["rainshowers", "Regnbyger"],
+            ["rain", "Regn"],
+            ["heavysleet", "Kraftig sludd"],
+            ["lightsleet", "Lett sludd"],
+            ["sleet", "Sludd"],
+            ["heavysnow", "Kraftig snø"],
+            ["lightsnow", "Lett snø"],
+            ["snowshowers", "Snøbyger"],
+            ["snow", "Snø"],
+            ["partlycloudy", "Delvis skyet"],
+            ["clearsky", "Klar himmel"],
+            ["fair", "Lettskyet"],
+            ["cloudy", "Skyet"],
+            ["fog", "Tåke"],
+        ];
+
+        const matched = symbolLabels.find(([token]) => key.includes(token));
+        if (matched) return matched[1];
+
+        return key
+            .replace(/_/g, " ")
+            .replace(/\s+/g, " ")
+            .trim();
+    };
+
+    const resolveWeatherSceneMode = (symbolCode) => {
+        const key = String(symbolCode || "").toLowerCase();
+        if (!key) return "cloudy";
+        if (key.includes("thunder")) return "thunder";
+        if (key.includes("snow")) return "snow";
+        if (key.includes("rain") || key.includes("sleet")) return "rain";
+        if (key.includes("partlycloudy")) return "partly";
+        if (key.includes("clearsky") || key.includes("fair")) return "sunny";
+        if (key.includes("fog") || key.includes("cloudy")) return "cloudy";
+        return "cloudy";
+    };
+
+    const resolveWeatherScenePeriod = (symbolCode) => {
+        const key = String(symbolCode || "").trim().toLowerCase();
+        if (key.endsWith("_day")) return "day";
+        if (key.endsWith("_night")) return "night";
+        if (key.endsWith("_polartwilight")) return "twilight";
+
+        const osloHour = toOsloHour(new Date().toISOString());
+        if (!Number.isInteger(osloHour)) return "day";
+        if (osloHour >= 8 && osloHour < 17) return "day";
+        if ((osloHour >= 5 && osloHour < 8) || (osloHour >= 17 && osloHour < 22)) return "twilight";
+        return "night";
+    };
+
+    const isRainLikeSymbol = (symbolCode) => {
+        const key = String(symbolCode || "").toLowerCase();
+        return key.includes("rain") || key.includes("sleet") || key.includes("thunder");
+    };
+
+    const setSceneRainLevel = (level = "none") => {
+        if (!weatherNowSceneEl) return;
+        weatherNowSceneEl.dataset.rainLevel = level;
+    };
+
+    const resolveRainLevel = (precipMm) => {
+        if (!Number.isFinite(precipMm)) return "light";
+        const mm = Math.max(precipMm, 0);
+        if (mm <= 0.01) return "none";
+        if (mm < 0.4) return "light";
+        if (mm < 1.2) return "moderate";
+        return "heavy";
+    };
+
+    const randomBetween = (min, max) => min + Math.random() * (max - min);
+
+    const resolveRainProfile = (precipMm) => {
+        const mm = Number.isFinite(precipMm) ? Math.max(precipMm, 0) : 0.35;
+        if (mm < 0.05) {
+            return {
+                count: 8,
+                durationMin: 1.45,
+                durationMax: 2.05,
+                widthMin: 1.0,
+                widthMax: 1.5,
+                heightMin: 7,
+                heightMax: 10,
+                opacityMin: 0.32,
+                opacityMax: 0.5,
+                driftMin: -3,
+                driftMax: 3,
+            };
+        }
+        if (mm < 0.4) {
+            return {
+                count: 14,
+                durationMin: 1.2,
+                durationMax: 1.75,
+                widthMin: 1.1,
+                widthMax: 1.7,
+                heightMin: 8,
+                heightMax: 12,
+                opacityMin: 0.38,
+                opacityMax: 0.6,
+                driftMin: -4,
+                driftMax: 4,
+            };
+        }
+        if (mm < 1.2) {
+            return {
+                count: 22,
+                durationMin: 1,
+                durationMax: 1.45,
+                widthMin: 1.2,
+                widthMax: 2,
+                heightMin: 9,
+                heightMax: 14,
+                opacityMin: 0.45,
+                opacityMax: 0.7,
+                driftMin: -5,
+                driftMax: 5,
+            };
+        }
+        if (mm < 3.5) {
+            return {
+                count: 34,
+                durationMin: 0.82,
+                durationMax: 1.2,
+                widthMin: 1.4,
+                widthMax: 2.3,
+                heightMin: 11,
+                heightMax: 16,
+                opacityMin: 0.5,
+                opacityMax: 0.78,
+                driftMin: -6,
+                driftMax: 6,
+            };
+        }
+        return {
+            count: 46,
+            durationMin: 0.68,
+            durationMax: 1.02,
+            widthMin: 1.6,
+            widthMax: 2.6,
+            heightMin: 12,
+            heightMax: 18,
+            opacityMin: 0.55,
+            opacityMax: 0.85,
+            driftMin: -7,
+            driftMax: 7,
+        };
+    };
+
+    const renderRainDrops = ({ symbol = "", precipMm = null } = {}) => {
+        if (!weatherNowRainLayerEl) return;
+
+        if (!isRainLikeSymbol(symbol)) {
+            weatherNowRainLayerEl.innerHTML = "";
+            setSceneRainLevel("none");
+            return;
+        }
+
+        const numericRain = Number.isFinite(precipMm) ? Math.max(precipMm, 0) : null;
+        const rainLevel = resolveRainLevel(numericRain);
+        setSceneRainLevel(rainLevel);
+
+        if (rainLevel === "none") {
+            weatherNowRainLayerEl.innerHTML = "";
+            return;
+        }
+
+        const profile = resolveRainProfile(numericRain);
+        const fragment = document.createDocumentFragment();
+        const rainLayerHeight = weatherNowRainLayerEl.clientHeight || 140;
+        const travelMin = Math.max(96, rainLayerHeight + 14);
+        const travelMax = Math.max(travelMin + 24, rainLayerHeight + 72);
+
+        for (let i = 0; i < profile.count; i += 1) {
+            const drop = document.createElement("span");
+            drop.className = "weather-drop";
+            drop.style.left = `${randomBetween(2, 98).toFixed(2)}%`;
+            drop.style.setProperty("--drop-width", `${randomBetween(profile.widthMin, profile.widthMax).toFixed(2)}px`);
+            drop.style.setProperty("--drop-height", `${randomBetween(profile.heightMin, profile.heightMax).toFixed(2)}px`);
+            drop.style.setProperty("--drop-opacity", randomBetween(profile.opacityMin, profile.opacityMax).toFixed(2));
+
+            const duration = randomBetween(profile.durationMin, profile.durationMax);
+            drop.style.setProperty("--drop-duration", `${duration.toFixed(2)}s`);
+            drop.style.setProperty("--drop-delay", `${(-randomBetween(0, duration)).toFixed(2)}s`);
+            drop.style.setProperty("--drop-drift", `${randomBetween(profile.driftMin, profile.driftMax).toFixed(2)}px`);
+            drop.style.setProperty("--drop-start-y", `${randomBetween(-52, -18).toFixed(2)}px`);
+            drop.style.setProperty("--drop-travel", `${randomBetween(travelMin, travelMax).toFixed(2)}px`);
+
+            fragment.appendChild(drop);
+        }
+
+        weatherNowRainLayerEl.innerHTML = "";
+        weatherNowRainLayerEl.appendChild(fragment);
+    };
+
+    const renderWeatherNow = ({ temp = null, symbol = "", precipMm = null } = {}) => {
+        const sceneMode = resolveWeatherSceneMode(symbol);
+        const scenePeriod = resolveWeatherScenePeriod(symbol);
+
+        if (weatherNowTempEl) {
+            weatherNowTempEl.textContent = Number.isFinite(temp)
+                ? formatWeatherValue(temp, " °C", 1)
+                : "- °C";
+        }
+
+        if (weatherNowConditionEl) {
+            const label = normalizeYrSymbolLabel(symbol);
+            const conditionText = label === "Ukjent"
+                ? "Nåværende forhold"
+                : label;
+
+            if ((sceneMode === "rain" || sceneMode === "thunder") && Number.isFinite(precipMm)) {
+                weatherNowConditionEl.textContent = `${conditionText} · ${formatWeatherValue(precipMm, " mm/t", 1)}`;
+            } else {
+                weatherNowConditionEl.textContent = conditionText;
+            }
+        }
+
+        if (weatherNowSceneEl) {
+            weatherNowSceneEl.dataset.mode = sceneMode;
+            weatherNowSceneEl.dataset.period = scenePeriod;
+        }
+
+        renderRainDrops({ symbol, precipMm });
+    };
+
+    const yrSymbolToEmoji = (symbolCode) => {
+        const key = String(symbolCode || "").toLowerCase();
+        if (!key) return "🌡️";
+        if (key.includes("thunder")) return "⛈️";
+        if (key.includes("snow")) return "❄️";
+        if (key.includes("sleet")) return "🌨️";
+        if (key.includes("rain")) return "🌧️";
+        if (key.includes("fog")) return "🌫️";
+        if (key.includes("partlycloudy")) return "⛅";
+        if (key.includes("cloudy")) return "☁️";
+        if (key.includes("clearsky") || key.includes("fair")) return "☀️";
+        return "🌡️";
+    };
+
+    const aggregateYrForecastDays = (timeseries = []) => {
+        const byDay = new Map();
+
+        timeseries.forEach((entry) => {
+            const isoTime = entry?.time;
+            const details = entry?.data?.instant?.details || {};
+            if (!isoTime) return;
+
+            const key = toOsloDayKey(isoTime);
+            if (!key) return;
+
+            const temperature = details.air_temperature;
+            const windSpeed = details.wind_speed;
+            const precipitation1h = entry?.data?.next_1_hours?.details?.precipitation_amount;
+            const precipitation6h = entry?.data?.next_6_hours?.details?.precipitation_amount;
+            const precipitation = Number.isFinite(precipitation1h)
+                ? precipitation1h
+                : Number.isFinite(precipitation6h)
+                    ? precipitation6h / 6
+                    : 0;
+
+            const symbolCode =
+                entry?.data?.next_1_hours?.summary?.symbol_code
+                || entry?.data?.next_6_hours?.summary?.symbol_code
+                || entry?.data?.next_12_hours?.summary?.symbol_code
+                || "";
+
+            if (!byDay.has(key)) {
+                byDay.set(key, {
+                    key,
+                    min: Infinity,
+                    max: -Infinity,
+                    precip: 0,
+                    windMax: null,
+                    symbol: "",
+                });
+            }
+
+            const day = byDay.get(key);
+
+            if (Number.isFinite(temperature)) {
+                if (temperature < day.min) day.min = temperature;
+                if (temperature > day.max) day.max = temperature;
+            }
+
+            if (Number.isFinite(windSpeed)) {
+                day.windMax = Number.isFinite(day.windMax)
+                    ? Math.max(day.windMax, windSpeed)
+                    : windSpeed;
+            }
+
+            day.precip += Number.isFinite(precipitation) ? precipitation : 0;
+
+            const osloHour = toOsloHour(isoTime);
+            if (!day.symbol || (Number.isInteger(osloHour) && osloHour >= 10 && osloHour <= 15)) {
+                if (symbolCode) day.symbol = symbolCode;
+            }
+        });
+
+        const todayKey = toOsloDayKey(new Date().toISOString());
+
+        return Array.from(byDay.values())
+            .filter((day) => day.key >= todayKey)
+            .sort((a, b) => a.key.localeCompare(b.key))
+            .slice(0, 7)
+            .map((day) => ({
+                key: day.key,
+                min: Number.isFinite(day.min) ? day.min : null,
+                max: Number.isFinite(day.max) ? day.max : null,
+                precip: Number.isFinite(day.precip) ? day.precip : null,
+                windMax: Number.isFinite(day.windMax) ? day.windMax : null,
+                symbol: day.symbol || "",
+            }));
+    };
+
+    const getYrForecastCacheKey = (lat, lon) => `${Number(lat).toFixed(3)},${Number(lon).toFixed(3)}`;
+
+    const fetchYrForecastForCoords = async (lat, lon) => {
+        const cacheKey = getYrForecastCacheKey(lat, lon);
+        const now = Date.now();
+        const cached = yrForecastCache.get(cacheKey);
+        if (cached && now - cached.fetchedAt < OM_YR_CACHE_TTL_MS) {
+            return cached.value;
+        }
+
+        if (yrForecastPending.has(cacheKey)) {
+            return yrForecastPending.get(cacheKey);
+        }
+
+        const pending = (async () => {
+            const url =
+                "https://api.met.no/weatherapi/locationforecast/2.0/compact" +
+                `?lat=${encodeURIComponent(lat)}&lon=${encodeURIComponent(lon)}`;
+
+            const response = await fetch(url, {
+                headers: {
+                    Accept: "application/json",
+                },
+            });
+
+            if (!response.ok) {
+                throw new Error(`Yr API-feil: ${response.status} ${response.statusText}`);
+            }
+
+            const payload = await response.json();
+            const timeseries = Array.isArray(payload?.properties?.timeseries)
+                ? payload.properties.timeseries
+                : [];
+
+            const value = {
+                updatedAt: payload?.properties?.meta?.updated_at || null,
+                days: aggregateYrForecastDays(timeseries),
+            };
+
+            yrForecastCache.set(cacheKey, {
+                fetchedAt: Date.now(),
+                value,
+            });
+
+            return value;
+        })().finally(() => {
+            yrForecastPending.delete(cacheKey);
+        });
+
+        yrForecastPending.set(cacheKey, pending);
+        return pending;
+    };
+
+    const openMeteoCodeToSummary = (code) => {
+        const numeric = Number(code);
+        if (numeric === 0) return { symbol: "clearsky", icon: "☀️" };
+        if (numeric === 1 || numeric === 2) return { symbol: "partlycloudy", icon: "⛅" };
+        if (numeric === 3) return { symbol: "cloudy", icon: "☁️" };
+        if (numeric === 45 || numeric === 48) return { symbol: "fog", icon: "🌫️" };
+        if ((numeric >= 51 && numeric <= 67) || (numeric >= 80 && numeric <= 82)) return { symbol: "rain", icon: "🌧️" };
+        if ((numeric >= 71 && numeric <= 77) || numeric === 85 || numeric === 86) return { symbol: "snow", icon: "❄️" };
+        if (numeric >= 95) return { symbol: "thunder", icon: "⛈️" };
+        return { symbol: "weather", icon: "🌡️" };
+    };
+
+    const fetchOpenMeteoForecastForCoords = async (lat, lon) => {
+        const url =
+            "https://api.open-meteo.com/v1/forecast" +
+            `?latitude=${encodeURIComponent(lat)}` +
+            `&longitude=${encodeURIComponent(lon)}` +
+            "&daily=temperature_2m_min,temperature_2m_max,precipitation_sum,wind_speed_10m_max,weather_code" +
+            "&forecast_days=7" +
+            "&timezone=Europe%2FOslo";
+
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Open-Meteo forecast-feil: ${response.status} ${response.statusText}`);
+        }
+
+        const payload = await response.json();
+        const daily = payload?.daily || {};
+        const days = Array.isArray(daily.time) ? daily.time : [];
+        const min = Array.isArray(daily.temperature_2m_min) ? daily.temperature_2m_min : [];
+        const max = Array.isArray(daily.temperature_2m_max) ? daily.temperature_2m_max : [];
+        const precip = Array.isArray(daily.precipitation_sum) ? daily.precipitation_sum : [];
+        const wind = Array.isArray(daily.wind_speed_10m_max) ? daily.wind_speed_10m_max : [];
+        const weatherCodes = Array.isArray(daily.weather_code) ? daily.weather_code : [];
+
+        return {
+            updatedAt: new Date().toISOString(),
+            days: days.slice(0, 7).map((day, idx) => {
+                const summary = openMeteoCodeToSummary(weatherCodes[idx]);
+                return {
+                    key: day,
+                    min: Number.isFinite(min[idx]) ? min[idx] : null,
+                    max: Number.isFinite(max[idx]) ? max[idx] : null,
+                    precip: Number.isFinite(precip[idx]) ? precip[idx] : null,
+                    windMax: Number.isFinite(wind[idx]) ? wind[idx] : null,
+                    symbol: summary.symbol,
+                    icon: summary.icon,
+                };
+            }),
+        };
+    };
+
+    const renderWeatherForecast = ({ updatedAt, days, sourceLabel = "Yr" }) => {
+        if (!weatherForecastGridEl || !weatherForecastStatusEl) return;
+
+        if (weatherForecastUpdatedEl) {
+            const updatedText = formatForecastUpdatedAt(updatedAt);
+            weatherForecastUpdatedEl.textContent = updatedText
+                ? `${sourceLabel} · ${updatedText}`
+                : `Kilde: ${sourceLabel}`;
+        }
+
+        if (!Array.isArray(days) || !days.length) {
+            weatherForecastGridEl.innerHTML = "";
+            weatherForecastStatusEl.textContent = "Fant ikke varsel for valgt sted akkurat nå.";
+            return;
+        }
+
+        const dayNameFormatter = new Intl.DateTimeFormat("nb-NO", { weekday: "short", timeZone: OM_OSLO_TIMEZONE });
+        const dayDateFormatter = new Intl.DateTimeFormat("nb-NO", { day: "2-digit", month: "2-digit", timeZone: OM_OSLO_TIMEZONE });
+
+        weatherForecastGridEl.innerHTML = days
+            .map((day) => {
+                const date = new Date(`${day.key}T12:00:00`);
+                const dayName = dayNameFormatter.format(date);
+                const dateLabel = dayDateFormatter.format(date);
+                const symbolText = normalizeYrSymbolLabel(day.symbol);
+                const icon = day.icon || yrSymbolToEmoji(day.symbol);
+
+                return `
+                    <article class="weather-day" aria-label="${dayName} ${dateLabel}">
+                        <div class="weather-day__top">
+                            <span class="weather-day__name">${dayName} ${dateLabel}</span>
+                            <span class="weather-day__icon" aria-hidden="true">${icon}</span>
+                        </div>
+                        <div class="weather-day__temp">${formatWeatherValue(day.min, " °C", 0)} / ${formatWeatherValue(day.max, " °C", 0)}</div>
+                        <div class="weather-day__meta">Nedbør: ${formatWeatherValue(day.precip, " mm", 1)}</div>
+                        <div class="weather-day__meta">Vind: ${formatWeatherValue(day.windMax, " m/s", 1)}</div>
+                        <div class="weather-day__symbol">${symbolText}</div>
+                    </article>
+                `;
+            })
+            .join("");
+
+        weatherForecastStatusEl.textContent = "";
+    };
+
+    const updateWeatherForecast = async (lat, lon) => {
+        if (!weatherForecastStatusEl || !weatherForecastGridEl) return;
+        weatherForecastStatusEl.textContent = "Henter Yr-varsel...";
+
+        try {
+            const forecast = await fetchYrForecastForCoords(lat, lon);
+            renderWeatherForecast({ ...forecast, sourceLabel: "Yr" });
+        } catch (error) {
+            console.error(error);
+
+            try {
+                const fallback = await fetchOpenMeteoForecastForCoords(lat, lon);
+                renderWeatherForecast({ ...fallback, sourceLabel: "Open-Meteo" });
+                weatherForecastStatusEl.textContent = "Yr utilgjengelig nå. Viser Open-Meteo-varsel.";
+            } catch (fallbackError) {
+                console.error(fallbackError);
+                weatherForecastGridEl.innerHTML = "";
+                weatherForecastStatusEl.textContent = "Kunne ikke hente værvarsel akkurat nå.";
+                if (weatherForecastUpdatedEl) weatherForecastUpdatedEl.textContent = "";
+            }
+        }
+    };
+
+    const handleRangeSelectorKeyboard = (event, buttons, onSelect) => {
+        if (!Array.isArray(buttons) || buttons.length < 2) return;
+        const key = event.key;
+        const navKeys = ["ArrowRight", "ArrowLeft", "ArrowDown", "ArrowUp", "Home", "End"];
+        if (!navKeys.includes(key)) return;
+
+        event.preventDefault();
+        const activeElement = document.activeElement;
+        const focusedIndex = buttons.findIndex((btn) => btn === activeElement);
+        const currentIndex = focusedIndex >= 0
+            ? focusedIndex
+            : buttons.findIndex((btn) => btn.classList.contains("is-active"));
+        let nextIndex = currentIndex >= 0 ? currentIndex : 0;
+
+        if (key === "ArrowRight" || key === "ArrowDown") {
+            nextIndex = (nextIndex + 1) % buttons.length;
+        } else if (key === "ArrowLeft" || key === "ArrowUp") {
+            nextIndex = (nextIndex - 1 + buttons.length) % buttons.length;
+        } else if (key === "Home") {
+            nextIndex = 0;
+        } else if (key === "End") {
+            nextIndex = buttons.length - 1;
+        }
+
+        const nextButton = buttons[nextIndex];
+        if (!nextButton) return;
+        nextButton.focus();
+        onSelect(nextButton);
+    };
+
     let omSelectedRange = "30d";
     let omPrevToggleState = null;
-    let omPrevTempGradient = null;
     let omPrevSeries = null;
     let omPrevSeriesKey = null;
     let omPrevGradientAllowed = null;
@@ -2458,17 +3419,18 @@ document.addEventListener("DOMContentLoaded", () => {
             return;
         }
         setTrendChartLoading(true);
+        void updateWeatherForecast(lat, lon);
         try {
             setOmStatus("Henter grafdata…");
             const { labels, values, humidity, days } = await fetchTemperaturesForRange(lat, lon, omSelectedRange);
             const yearToDateExtremesPromise = getYearToDateExtremesForLocation(lat, lon);
+            const yrCurrentSummaryPromise = fetchYrCurrentSummaryForCoords(lat, lon);
             const includeTemp = omTempToggle ? omTempToggle.checked : true;
             const includeHumidity = !!omHumidityToggle?.checked;
             const includeUv = !!omUvToggle?.checked;
             const includeAqi = !!omAqiToggle?.checked;
             const disableGradient = includeUv || includeAqi;
             const gradientAllowed = !disableGradient;
-            const tempGradient = includeTemp && gradientAllowed;
             const animateGradient = omPrevGradientAllowed !== null && omPrevGradientAllowed !== gradientAllowed;
 
             const fetchKey = `${lat},${lon},${omSelectedRange}`;
@@ -2495,8 +3457,9 @@ document.addEventListener("DOMContentLoaded", () => {
                 includeUv ? fetchUvIndexForRange(lat, lon, omSelectedRange, days) : Promise.resolve(null),
                 includeAqi ? fetchAqiForRange(lat, lon, omSelectedRange, days) : Promise.resolve(null),
                 yearToDateExtremesPromise,
+                yrCurrentSummaryPromise,
             ];
-            const [uvResult, aqiResult, yearToDateExtremesResult] = await Promise.allSettled(extraRequests);
+            const [uvResult, aqiResult, yearToDateExtremesResult, yrCurrentSummaryResult] = await Promise.allSettled(extraRequests);
             const warnings = [];
 
             const yearToDateStats =
@@ -2510,6 +3473,10 @@ document.addEventListener("DOMContentLoaded", () => {
             const aqiRawValues = aqiResult.status === "fulfilled" ? aqiResult.value : null;
             const aqiValues = hasNonZeroSeries(aqiRawValues) ? aqiRawValues : null;
             if (aqiResult.status === "rejected" || !aqiValues) warnings.push("AQI");
+
+            const yrCurrentSummary = yrCurrentSummaryResult.status === "fulfilled"
+                ? yrCurrentSummaryResult.value
+                : null;
 
             const tempValues = includeTemp ? values : values.map(() => null);
 
@@ -2577,7 +3544,6 @@ document.addEventListener("DOMContentLoaded", () => {
             });
 
             omPrevToggleState = nextToggleState;
-            omPrevTempGradient = tempGradient;
             omPrevSeries = {
                 labels,
                 tempValues: values,
@@ -2588,6 +3554,18 @@ document.addEventListener("DOMContentLoaded", () => {
             omPrevSeriesKey = fetchKey;
             omPrevGradientAllowed = gradientAllowed;
 
+            const nowSummary = {
+                temp: Number.isFinite(yrCurrentSummary?.temp) ? yrCurrentSummary.temp : null,
+                humidity: Number.isFinite(yrCurrentSummary?.humidity) ? yrCurrentSummary.humidity : null,
+                uv: Number.isFinite(yrCurrentSummary?.uv) ? yrCurrentSummary.uv : null,
+                aqi: Number.isFinite(yrCurrentSummary?.aqi) ? yrCurrentSummary.aqi : null,
+                symbol: yrCurrentSummary?.symbol || "",
+                precipMm: Number.isFinite(yrCurrentSummary?.precipMm) ? yrCurrentSummary.precipMm : null,
+            };
+
+            renderWeatherSummary(nowSummary);
+            renderWeatherNow(nowSummary);
+
             if (warnings.length) {
                 setOmStatus(`Delvis feil: ${warnings.join(", ")} utilgjengelig.`);
             } else {
@@ -2595,6 +3573,9 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         } catch (err) {
             console.error(err);
+            const emptySummary = createEmptyWeatherSummary();
+            renderWeatherSummary(emptySummary);
+            renderWeatherNow(emptySummary);
             setOmStatus(`Feil: ${err.message}`);
         } finally {
             setTrendChartLoading(false);
@@ -2605,6 +3586,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const omLonInput = document.getElementById("omLon");
     const geocodingSearchInput = document.getElementById("geocodingSearch");
     const omLocationResults = document.getElementById("omLocationResults");
+    const weatherNowSearchInput = document.getElementById("weatherNowSearch");
+    const weatherNowLocationResults = document.getElementById("weatherNowLocationResults");
     const omTempToggle = document.getElementById("omTempToggle");
     const omHumidityToggle = document.getElementById("omHumidityToggle");
     const omUvToggle = document.getElementById("omUvToggle");
@@ -2619,9 +3602,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (omLatInput && omLonInput) {
         const searchField = geocodingSearchInput?.closest(".field-with-icon--city") || null;
+        const weatherNowSearchField = weatherNowSearchInput?.closest(".field-with-icon--city") || null;
         let omLocationSearchTimer = null;
+        let weatherNowSearchTimer = null;
         let omLocationResultsData = [];
+        let weatherNowLocationResultsData = [];
         let omLocationActiveIndex = -1;
+        let weatherNowLocationActiveIndex = -1;
 
         const closeLocationOverlay = () => {
             if (!omLocationResults || !geocodingSearchInput) return;
@@ -2630,9 +3617,45 @@ document.addEventListener("DOMContentLoaded", () => {
             omLocationActiveIndex = -1;
         };
 
+        const closeWeatherNowOverlay = () => {
+            if (!weatherNowLocationResults || !weatherNowSearchInput) return;
+            weatherNowLocationResults.hidden = true;
+            weatherNowSearchInput.setAttribute("aria-expanded", "false");
+            weatherNowLocationActiveIndex = -1;
+        };
+
+        const closeAllLocationOverlays = () => {
+            closeLocationOverlay();
+            closeWeatherNowOverlay();
+        };
+
         const formatLocationLabel = (entry) => {
             const parts = [entry.name, entry.admin1, entry.country].filter(Boolean);
             return parts.join(", ");
+        };
+
+        const applySelectedLocation = ({ lat, lon, label }) => {
+            if (!Number.isFinite(lat) || !Number.isFinite(lon)) return;
+            const nextLabel = String(label || "").trim();
+            omLatInput.value = lat.toFixed(4);
+            omLonInput.value = lon.toFixed(4);
+
+            if (geocodingSearchInput && nextLabel) {
+                geocodingSearchInput.value = nextLabel;
+            }
+
+            if (weatherNowSearchInput) {
+                weatherNowSearchInput.value = nextLabel || geocodingSearchInput?.value || "";
+            }
+
+            setWeatherLocationLabel({
+                label: nextLabel || geocodingSearchInput?.value || weatherNowSearchInput?.value,
+                lat,
+                lon,
+            });
+
+            closeAllLocationOverlays();
+            updateTrendChartForCoords(lat, lon);
         };
 
         const setActiveLocationResult = (nextIndex) => {
@@ -2646,15 +3669,15 @@ document.addEventListener("DOMContentLoaded", () => {
             omLocationActiveIndex = nextIndex;
         };
 
-        const selectLocationResult = (entry) => {
-            if (!entry || !Number.isFinite(Number(entry.latitude)) || !Number.isFinite(Number(entry.longitude))) return;
-            const lat = Number(entry.latitude);
-            const lon = Number(entry.longitude);
-            omLatInput.value = lat.toFixed(4);
-            omLonInput.value = lon.toFixed(4);
-            if (geocodingSearchInput) geocodingSearchInput.value = formatLocationLabel(entry);
-            closeLocationOverlay();
-            updateTrendChartForCoords(lat, lon);
+        const setActiveWeatherNowResult = (nextIndex) => {
+            if (!weatherNowLocationResults) return;
+            const nodes = Array.from(weatherNowLocationResults.querySelectorAll(".weather-location-results__item"));
+            nodes.forEach((node, idx) => {
+                const isActive = idx === nextIndex;
+                node.classList.toggle("is-active", isActive);
+                node.setAttribute("aria-selected", isActive ? "true" : "false");
+            });
+            weatherNowLocationActiveIndex = nextIndex;
         };
 
         const renderLocationResults = (results = []) => {
@@ -2683,7 +3706,14 @@ document.addEventListener("DOMContentLoaded", () => {
                 meta.textContent = [entry.admin1, entry.country].filter(Boolean).join(", ");
 
                 button.append(name, meta);
-                button.addEventListener("click", () => selectLocationResult(entry));
+                button.addEventListener("click", () => {
+                    if (!Number.isFinite(Number(entry.latitude)) || !Number.isFinite(Number(entry.longitude))) return;
+                    applySelectedLocation({
+                        lat: Number(entry.latitude),
+                        lon: Number(entry.longitude),
+                        label: formatLocationLabel(entry),
+                    });
+                });
                 button.addEventListener("mouseenter", () => setActiveLocationResult(index));
                 omLocationResults.appendChild(button);
             });
@@ -2693,12 +3723,54 @@ document.addEventListener("DOMContentLoaded", () => {
             setActiveLocationResult(-1);
         };
 
+        const renderWeatherNowLocationResults = (results = []) => {
+            if (!weatherNowLocationResults || !weatherNowSearchInput) return;
+            weatherNowLocationResults.innerHTML = "";
+            weatherNowLocationResultsData = results;
+
+            if (!results.length) {
+                closeWeatherNowOverlay();
+                return;
+            }
+
+            results.forEach((entry, index) => {
+                const button = document.createElement("button");
+                button.type = "button";
+                button.className = "weather-location-results__item";
+                button.setAttribute("role", "option");
+                button.setAttribute("aria-selected", "false");
+
+                const name = document.createElement("span");
+                name.className = "weather-location-results__name";
+                name.textContent = entry.name || "Ukjent sted";
+
+                const meta = document.createElement("span");
+                meta.className = "weather-location-results__meta";
+                meta.textContent = [entry.admin1, entry.country].filter(Boolean).join(", ");
+
+                button.append(name, meta);
+                button.addEventListener("click", () => {
+                    if (!Number.isFinite(Number(entry.latitude)) || !Number.isFinite(Number(entry.longitude))) return;
+                    applySelectedLocation({
+                        lat: Number(entry.latitude),
+                        lon: Number(entry.longitude),
+                        label: formatLocationLabel(entry),
+                    });
+                });
+                button.addEventListener("mouseenter", () => setActiveWeatherNowResult(index));
+                weatherNowLocationResults.appendChild(button);
+            });
+
+            weatherNowLocationResults.hidden = false;
+            weatherNowSearchInput.setAttribute("aria-expanded", "true");
+            setActiveWeatherNowResult(-1);
+        };
+
         const fetchLocationResults = async (queryText) => {
             const query = (queryText || "").trim();
             if (query.length < 2) {
-                renderLocationResults([]);
                 setOmStatus("");
-                return;
+                return [];
             }
 
             const params = new URLSearchParams({
@@ -2715,16 +3787,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
                 const data = await response.json();
                 const results = Array.isArray(data?.results) ? data.results : [];
-                renderLocationResults(results);
-                if (!results.length) {
-                    setOmStatus("Ingen treff på sted.");
-                } else {
-                    setOmStatus("");
-                }
+                if (!results.length) setOmStatus("Ingen treff på sted.");
+                else setOmStatus("");
+                return results;
             } catch (error) {
                 console.error(error);
-                renderLocationResults([]);
                 setOmStatus("Klarte ikke hente stedsforslag.");
+                return [];
             }
         };
 
@@ -2736,6 +3805,17 @@ document.addEventListener("DOMContentLoaded", () => {
                     updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
                 });
             });
+
+            if (omRangeSelector) {
+                omRangeSelector.addEventListener("keydown", (event) => {
+                    handleRangeSelectorKeyboard(event, omRangeButtons, (btn) => {
+                        const nextRange = btn.dataset.range;
+                        setActiveRange(nextRange);
+                        updateTrendChartForCoords(Number(omLatInput.value), Number(omLonInput.value));
+                    });
+                });
+            }
+
             requestAnimationFrame(positionRangeIndicator);
             window.addEventListener("resize", positionRangeIndicator);
         }
@@ -2745,6 +3825,15 @@ document.addEventListener("DOMContentLoaded", () => {
         if (geocodingSearchInput && !geocodingSearchInput.value.trim()) {
             geocodingSearchInput.value = "Oslo, Norge";
         }
+        if (weatherNowSearchInput && !weatherNowSearchInput.value.trim()) {
+            weatherNowSearchInput.value = geocodingSearchInput?.value?.trim() || "Oslo, Norge";
+        }
+
+        setWeatherLocationLabel({
+            label: weatherNowSearchInput?.value || geocodingSearchInput?.value,
+            lat: Number(omLatInput.value),
+            lon: Number(omLonInput.value),
+        });
 
         let omInputTimer = null;
         const scheduleOmUpdate = () => {
@@ -2752,7 +3841,15 @@ document.addEventListener("DOMContentLoaded", () => {
             omInputTimer = setTimeout(() => {
                 const lat = Number(omLatInput.value);
                 const lon = Number(omLonInput.value);
-                closeLocationOverlay();
+                closeAllLocationOverlays();
+
+                const explicitLabel = geocodingSearchInput?.value?.trim() || weatherNowSearchInput?.value?.trim() || "";
+                setWeatherLocationLabel({ label: explicitLabel, lat, lon });
+
+                if (weatherNowSearchInput && geocodingSearchInput?.value?.trim()) {
+                    weatherNowSearchInput.value = geocodingSearchInput.value;
+                }
+
                 updateTrendChartForCoords(lat, lon);
             }, 400);
         };
@@ -2768,15 +3865,20 @@ document.addEventListener("DOMContentLoaded", () => {
             event.preventDefault();
             omLatInput.value = lat;
             omLonInput.value = lon;
-            closeLocationOverlay();
+            const coordLabel = formatLocationFromCoords(lat, lon);
+            if (geocodingSearchInput) geocodingSearchInput.value = coordLabel;
+            if (weatherNowSearchInput) weatherNowSearchInput.value = coordLabel;
+            setWeatherLocationLabel({ label: coordLabel, lat, lon });
+            closeAllLocationOverlays();
             updateTrendChartForCoords(lat, lon);
         };
 
         if (geocodingSearchInput) {
             geocodingSearchInput.addEventListener("input", () => {
                 if (omLocationSearchTimer) clearTimeout(omLocationSearchTimer);
-                omLocationSearchTimer = setTimeout(() => {
-                    fetchLocationResults(geocodingSearchInput.value);
+                omLocationSearchTimer = setTimeout(async () => {
+                    const results = await fetchLocationResults(geocodingSearchInput.value);
+                    renderLocationResults(results);
                 }, 250);
             });
 
@@ -2803,7 +3905,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
                 if (event.key === "Enter" && omLocationActiveIndex >= 0) {
                     event.preventDefault();
-                    selectLocationResult(omLocationResultsData[omLocationActiveIndex]);
+                    const entry = omLocationResultsData[omLocationActiveIndex];
+                    if (!entry) return;
+                    applySelectedLocation({
+                        lat: Number(entry.latitude),
+                        lon: Number(entry.longitude),
+                        label: formatLocationLabel(entry),
+                    });
                     return;
                 }
                 if (event.key === "Escape") {
@@ -2812,10 +3920,59 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         }
 
+        if (weatherNowSearchInput) {
+            weatherNowSearchInput.addEventListener("input", () => {
+                if (weatherNowSearchTimer) clearTimeout(weatherNowSearchTimer);
+                weatherNowSearchTimer = setTimeout(async () => {
+                    const results = await fetchLocationResults(weatherNowSearchInput.value);
+                    renderWeatherNowLocationResults(results);
+                }, 250);
+            });
+
+            weatherNowSearchInput.addEventListener("focus", () => {
+                if (weatherNowLocationResultsData.length && weatherNowLocationResults) {
+                    weatherNowLocationResults.hidden = false;
+                    weatherNowSearchInput.setAttribute("aria-expanded", "true");
+                }
+            });
+
+            weatherNowSearchInput.addEventListener("keydown", (event) => {
+                if (weatherNowLocationResults?.hidden || !weatherNowLocationResultsData.length) return;
+                if (event.key === "ArrowDown") {
+                    event.preventDefault();
+                    const next = Math.min(weatherNowLocationActiveIndex + 1, weatherNowLocationResultsData.length - 1);
+                    setActiveWeatherNowResult(next);
+                    return;
+                }
+                if (event.key === "ArrowUp") {
+                    event.preventDefault();
+                    const next = Math.max(weatherNowLocationActiveIndex - 1, 0);
+                    setActiveWeatherNowResult(next);
+                    return;
+                }
+                if (event.key === "Enter" && weatherNowLocationActiveIndex >= 0) {
+                    event.preventDefault();
+                    const entry = weatherNowLocationResultsData[weatherNowLocationActiveIndex];
+                    if (!entry) return;
+                    applySelectedLocation({
+                        lat: Number(entry.latitude),
+                        lon: Number(entry.longitude),
+                        label: formatLocationLabel(entry),
+                    });
+                    return;
+                }
+                if (event.key === "Escape") {
+                    closeWeatherNowOverlay();
+                }
+            });
+        }
+
         document.addEventListener("click", (event) => {
-            if (!searchField) return;
-            if (!searchField.contains(event.target)) {
+            if (searchField && !searchField.contains(event.target)) {
                 closeLocationOverlay();
+            }
+            if (weatherNowSearchField && !weatherNowSearchField.contains(event.target)) {
+                closeWeatherNowOverlay();
             }
         });
 
@@ -3189,6 +4346,17 @@ document.addEventListener("DOMContentLoaded", () => {
                 updateMarketChart();
             });
         });
+
+        if (marketRangeSelector) {
+            marketRangeSelector.addEventListener("keydown", (event) => {
+                handleRangeSelectorKeyboard(event, marketRangeButtons, (btn) => {
+                    const nextRange = btn.dataset.range;
+                    setMarketRange(nextRange);
+                    updateMarketChart();
+                });
+            });
+        }
+
         requestAnimationFrame(positionMarketRangeIndicator);
         window.addEventListener("resize", positionMarketRangeIndicator);
     }
@@ -3352,116 +4520,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
         updateDisplay();
     }
-
-
-        //vær: prøv data fra data/weather.json, ellers fallback til met.no (med user-agent)
-        async function getWeather() {
-        const el = {
-            temp: document.querySelector(".temp"),
-            feels: document.querySelector(".feelslike"),
-            wind: document.querySelector(".wind"),
-            humidity: document.querySelector(".humidity"),
-            clouds: document.querySelector(".clouds"),
-            pressure: document.querySelector(".pressure"),
-            precip: document.querySelector(".precip"),
-            symbol: document.querySelector(".symbol"),
-        };
-
-        //hjelpere
-        const degToDir = (deg) => {
-            //16-sektors kompass
-            const dirs = ["N","NØ","Ø","SØ","S","SV","V","NV","N"]; //kort variant
-            const idx = Math.round(((deg % 360) / 45));
-            return dirs[idx];
-        };
-
-        //enkel vindkjøling (metodisk ikke 100% offisiell; gir “ok” indikator ved lave temp)
-        const feelsLike = (tC, windMs) => {
-            if (tC === undefined || windMs === undefined) return undefined;
-            //konverter til km/t for en enkel formel (ikke offisiell wci)
-            const v = windMs * 3.6;
-            //grov tilnærming: føles = t - k * v, lavere k når varmere
-            const k = tC <= 5 ? 0.1 : 0.03;
-            return Math.round((tC - k * v) * 10) / 10;
-        };
-
-        const render = (data) => {
-            const ts = data?.properties?.timeseries?.[0];
-            if (!ts) throw new Error("Mangler timeseries[0]");
-
-            const now = ts.data?.instant?.details || {};
-            const next1h = ts.data?.next_1_hours;
-            //next_6_hours finnes ofte også: ts.data?.next_6_hours
-
-            const temp = now.air_temperature;
-            const wind = now.wind_speed; //m/s
-            const gust = now.wind_speed_of_gust; //m/s
-            const windDir = now.wind_from_direction; //grader
-            const rh = now.relative_humidity; //%
-            const clouds = now.cloud_area_fraction; //%
-            const pressure = now.air_pressure_at_sea_level; //hpa
-
-            const feels = feelsLike(temp, wind);
-
-            //oppdater dom – legg inn kun hvis felt finnes
-            if (typeof temp === "number" && el.temp) el.temp.textContent = `${temp} °C`;
-            if (typeof feels === "number" && el.feels) el.feels.textContent = `Føles som: ${feels} °C`;
-
-            if (typeof wind === "number" && typeof windDir === "number" && el.wind) {
-            const dirTxt = degToDir(windDir);
-            const gustTxt = typeof gust === "number" ? ` (kast: ${gust.toFixed(1)} m/s)` : "";
-            el.wind.textContent = `Vind: ${wind.toFixed(1)} m/s ${dirTxt}${gustTxt}`;
-            }
-
-            if (typeof rh === "number" && el.humidity) el.humidity.textContent = `Luftfuktighet: ${Math.round(rh)}%`;
-            if (typeof clouds === "number" && el.clouds) el.clouds.textContent = `Skydekke: ${Math.round(clouds)}%`;
-            if (typeof pressure === "number" && el.pressure) el.pressure.textContent = `Trykk: ${Math.round(pressure)} hPa`;
-
-            if (next1h) {
-            const precip = next1h?.details?.precipitation_amount;
-            const sym = next1h?.summary?.symbol_code;
-            if (typeof precip === "number" && el.precip) el.precip.textContent = `Nedbør (neste 1t): ${precip.toFixed(1)} mm`;
-            if (sym && el.symbol) {
-                //du kan senere mappe symbol_code -> ikonfil (f.eks. 'partlycloudy_day' -> /icons/partlycloudy_day.svg)
-                el.symbol.textContent = `Værsymbol: ${sym}`;
-                //eksempel for ikon:
-                //el.symbol.innerHTML = `<img src="/icons/${sym}.svg" alt="${sym}" width="28" height="28">`;
-            }
-            }
-        };
-
-        //1) prøv same-origin json (actions) først
-        try {
-            const res = await fetch("data/weather.json", { cache: "no-cache" });
-            if (!res.ok) throw new Error("weather.json mangler");
-            const data = await res.json();
-            render(data);
-            return;
-        } catch (err) {
-            console.warn("Bruker ikke weather.json:", err);
-        }
-
-        //2) fallback: direkte met.no (med user-agent)
-        try {
-            const url = "https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=59.91&lon=10.75";
-            const res2 = await fetch(url, {
-            headers: {
-                //sett din egen identifikator/kontaktinfo i ua i produksjon (se met.no guidelines)
-                "User-Agent": "LeandersVærWidget/1.0 (kontakt: example@example.com)"
-            }
-            });
-            if (!res2.ok) throw new Error(`MET.no ${res2.status}`);
-            const data2 = await res2.json();
-            render(data2);
-        } catch (err2) {
-            console.error("Klarte ikke hente værdata:", err2);
-            if (el.temp) el.temp.textContent = "Klarte ikke hente værdata";
-        }
-        }
+        //Værinnhold håndteres av weatherCard-modulen over (Open-Meteo + Yr).
 
         //vis/skjul bokser fra sidebar
         const cardToggles = document.querySelectorAll("[data-toggle-card]");
-        const storedVisibility = JSON.parse(localStorage.getItem("altkalkis-card-visibility") || "{}");
+        let storedVisibility = {};
+        try {
+            const rawVisibility = localStorage.getItem("altkalkis-card-visibility");
+            const parsedVisibility = rawVisibility ? JSON.parse(rawVisibility) : {};
+            if (parsedVisibility && typeof parsedVisibility === "object") {
+                storedVisibility = parsedVisibility;
+            }
+        } catch {
+            storedVisibility = {};
+        }
         let requestMasonryLayout = null;
         const applyVisibility = (cardId, isVisible) => {
             const card = document.getElementById(cardId);
