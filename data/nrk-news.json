@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-09T22:59:00.729Z",
+  "updatedAt": "2026-06-10T00:21:01.526Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann til sykehus etter MC-ulykke i Trondheim",
+      "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-mc-ulykke-i-trondheim-1.17914727",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Wed, 10 Jun 2026 00:01:37 GMT"
+    },
     {
       "title": "Mann til sykehus etter trafikkulykke på Hitra",
       "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-trafikkulykke-pa-hitra-1.17914714",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/belfast_-demonstranter-har-satt-fyr-pa-buss-og-sperret-veier-etter-knivangrep-1.17914581",
       "category": "Opptøyer i Belfast",
       "pubDate": "Tue, 09 Jun 2026 20:00:49 GMT"
-    },
-    {
-      "title": "Krisemøte i Helse Stavanger etter knusende dom",
-      "link": "https://www.nrk.no/rogaland/krisemote-i-helse-stavanger-etter-knusende-dom-1.17914600",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Tue, 09 Jun 2026 19:42:45 GMT"
     }
   ]
 }
