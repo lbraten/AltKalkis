@@ -2231,6 +2231,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const OM_UV_CACHE_PREFIX = "omUvDailyCacheV1";
     const OM_UV_CACHE_MAX_DAYS = 365 * 6;
     const OM_UV_SHARED_URL = "data/uv-history.json";
+    const OM_UV_SHARED_MAX_DISTANCE_KM = 350;
     let sharedUvHistoryPromise = null;
     let sharedUvUpdatedAt = null;
     let sharedUvSource = null;
@@ -2241,6 +2242,38 @@ document.addEventListener("DOMContentLoaded", () => {
         const safeLat = Number(lat);
         const safeLon = Number(lon);
         return `${safeLat.toFixed(4)},${safeLon.toFixed(4)}`;
+    };
+
+    const toRadians = (degrees) => (Number(degrees) * Math.PI) / 180;
+
+    const getDistanceKm = (lat1, lon1, lat2, lon2) => {
+        const aLat = Number(lat1);
+        const aLon = Number(lon1);
+        const bLat = Number(lat2);
+        const bLon = Number(lon2);
+        if (![aLat, aLon, bLat, bLon].every((v) => Number.isFinite(v))) return Infinity;
+
+        const earthRadiusKm = 6371;
+        const dLat = toRadians(bLat - aLat);
+        const dLon = toRadians(bLon - aLon);
+        const h =
+            Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+            Math.cos(toRadians(aLat)) * Math.cos(toRadians(bLat)) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
+
+        return earthRadiusKm * 2 * Math.atan2(Math.sqrt(h), Math.sqrt(1 - h));
+    };
+
+    const toUvValueMap = (valuesObj) => {
+        const map = new Map();
+        if (!valuesObj || typeof valuesObj !== "object") return map;
+
+        Object.entries(valuesObj).forEach(([day, value]) => {
+            if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) return;
+            if (!Number.isFinite(value)) return;
+            map.set(day, value);
+        });
+
+        return map;
     };
 
     const getUvCacheKey = (lat, lon) => {
@@ -2263,18 +2296,46 @@ document.addEventListener("DOMContentLoaded", () => {
         const shared = await loadSharedUvHistory();
         sharedUvUpdatedAt = shared?.updatedAt || null;
         sharedUvSource = shared?.source || null;
-        const values = shared?.locations?.[toUvLocationKey(lat, lon)] || null;
-        if (!values || typeof values !== "object") {
+        const locations = shared?.locations;
+        if (!locations || typeof locations !== "object") {
             return { map: new Map(), updatedAt: sharedUvUpdatedAt };
         }
 
-        const map = new Map();
-        Object.entries(values).forEach(([day, value]) => {
-            if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) return;
-            if (!Number.isFinite(value)) return;
-            map.set(day, value);
+        const exactValues = locations[toUvLocationKey(lat, lon)] || null;
+        const exactMap = toUvValueMap(exactValues);
+        if (exactMap.size) {
+            return { map: exactMap, updatedAt: sharedUvUpdatedAt };
+        }
+
+        let nearest = null;
+        Object.entries(locations).forEach(([locationKey, locationValues]) => {
+            if (!locationValues || typeof locationValues !== "object") return;
+            const [rawLat, rawLon] = locationKey.split(",");
+            const distanceKm = getDistanceKm(lat, lon, Number(rawLat), Number(rawLon));
+            if (!Number.isFinite(distanceKm) || distanceKm > OM_UV_SHARED_MAX_DISTANCE_KM) return;
+
+            if (!nearest || distanceKm < nearest.distanceKm) {
+                nearest = {
+                    key: locationKey,
+                    values: locationValues,
+                    distanceKm,
+                };
+            }
         });
-        return { map, updatedAt: sharedUvUpdatedAt };
+
+        if (!nearest) {
+            return { map: new Map(), updatedAt: sharedUvUpdatedAt };
+        }
+
+        const nearestMap = toUvValueMap(nearest.values);
+        if (!nearestMap.size) {
+            return { map: new Map(), updatedAt: sharedUvUpdatedAt };
+        }
+
+        const nearestLabel = `${nearest.key} (${nearest.distanceKm.toFixed(0)} km)`;
+        sharedUvSource = sharedUvSource ? `${sharedUvSource};nearest:${nearestLabel}` : `nearest:${nearestLabel}`;
+
+        return { map: nearestMap, updatedAt: sharedUvUpdatedAt };
     };
 
     const loadUvCacheMap = (lat, lon) => {
@@ -2527,8 +2588,36 @@ document.addEventListener("DOMContentLoaded", () => {
     const weatherNowTempEl = document.getElementById("weatherNowTemp");
     const weatherNowConditionEl = document.getElementById("weatherNowCondition");
     const weatherNowLocationLabelEl = document.getElementById("weatherNowLocationLabel");
+    const weatherNowLoadingOverlayEl = document.getElementById("weatherNowLoadingOverlay");
+
+    const applyLucideIcons = () => {
+        if (typeof window === "undefined") return;
+        if (!window.lucide || typeof window.lucide.createIcons !== "function") return;
+        window.lucide.createIcons();
+    };
+
+    applyLucideIcons();
 
     let activeWeatherLocationLabel = "Oslo, Norge";
+    let weatherNowLoadingRequestCount = 0;
+
+    const setWeatherNowLocationLoading = (isLoading) => {
+        weatherNowLoadingRequestCount = isLoading
+            ? weatherNowLoadingRequestCount + 1
+            : Math.max(0, weatherNowLoadingRequestCount - 1);
+
+        const active = weatherNowLoadingRequestCount > 0;
+        if (weatherNowSceneEl) {
+            weatherNowSceneEl.classList.toggle("is-updating", active);
+            weatherNowSceneEl.setAttribute("aria-busy", active ? "true" : "false");
+        }
+        if (weatherNowLocationLabelEl) {
+            weatherNowLocationLabelEl.classList.toggle("is-updating", active);
+        }
+        if (weatherNowLoadingOverlayEl) {
+            weatherNowLoadingOverlayEl.setAttribute("aria-hidden", active ? "false" : "true");
+        }
+    };
 
     const formatLocationFromCoords = (lat, lon) => {
         if (!Number.isFinite(lat) || !Number.isFinite(lon)) return "";
@@ -2567,11 +2656,28 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const formatSharedUvSource = (source) => {
         if (!source) return "Hentet fra Open-Meteo";
-        if (source.includes("open-meteo")) {
-            if (source.includes("forecast")) return "Hentet fra Open-Meteo (forecast)";
-            return "Hentet fra Open-Meteo";
+
+        const raw = String(source);
+        const [baseSource, ...metaParts] = raw.split(";");
+        const nearestMeta = metaParts.find((part) => part.trim().startsWith("nearest:"));
+        const nearestText = nearestMeta
+            ? `, bruker naermeste delte punkt (${nearestMeta.replace(/^\s*nearest:/, "").trim()})`
+            : "";
+
+        if (baseSource.includes("open-meteo")) {
+            if (baseSource.includes("archive") && baseSource.includes("forecast")) {
+                return `Hentet fra Open-Meteo (archive + forecast)${nearestText}`;
+            }
+            if (baseSource.includes("forecast")) {
+                return `Hentet fra Open-Meteo (forecast)${nearestText}`;
+            }
+            if (baseSource.includes("archive")) {
+                return `Hentet fra Open-Meteo (archive)${nearestText}`;
+            }
+            return `Hentet fra Open-Meteo${nearestText}`;
         }
-        return `Hentet fra: ${source}`;
+
+        return `Hentet fra: ${baseSource}${nearestText}`;
     };
 
     const formatMetricValue = (value, unit = "", digits = 1) => {
@@ -2794,20 +2900,22 @@ document.addEventListener("DOMContentLoaded", () => {
     const renderWeatherSummary = ({ temp, humidity, uv, aqi }) => {
         if (weatherSummaryChipsEl) {
             const chips = [
-                { label: "Temperatur", value: formatWeatherValue(temp, " °C", 1) },
-                { label: "Fuktighet", value: formatWeatherValue(humidity, "%", 0) },
-                { label: "UV", value: formatWeatherValue(uv, "", 1) },
-                { label: "AQI", value: formatWeatherValue(aqi, "", 0) },
+                { label: "Temperatur", icon: "thermometer", value: formatWeatherValue(temp, " °C", 1) },
+                { label: "Fuktighet", icon: "droplets", value: formatWeatherValue(humidity, "%", 0) },
+                { label: "UV", icon: "sun", value: formatWeatherValue(uv, "", 1) },
+                { label: "AQI", icon: "wind", value: formatWeatherValue(aqi, "", 0) },
             ];
 
             weatherSummaryChipsEl.innerHTML = chips
                 .map((chip) => `
                     <span class="weather-now-stat">
-                        <span class="weather-now-stat__label">${chip.label}:</span>
+                        <span class="weather-now-stat__label"><i data-lucide="${chip.icon}" class="weather-now-stat__icon" aria-hidden="true"></i>${chip.label}:</span>
                         <span class="weather-now-stat__value">${chip.value}</span>
                     </span>
                 `)
                 .join("");
+
+            applyLucideIcons();
         }
 
         if (!weatherAlertsEl) return;
@@ -3382,7 +3490,7 @@ document.addEventListener("DOMContentLoaded", () => {
         onSelect(nextButton);
     };
 
-    let omSelectedRange = "30d";
+    let omSelectedRange = "ytd";
     let omPrevToggleState = null;
     let omPrevSeries = null;
     let omPrevSeriesKey = null;
@@ -3412,11 +3520,15 @@ document.addEventListener("DOMContentLoaded", () => {
         positionRangeIndicator();
     };
 
-    async function updateTrendChartForCoords(lat, lon) {
+    async function updateTrendChartForCoords(lat, lon, options = {}) {
+        const showWeatherNowLoader = options.showWeatherNowLoader === true;
         if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
             setOmStatus("Skriv inn gyldige koordinater.");
             setTrendChartLoading(false);
             return;
+        }
+        if (showWeatherNowLoader) {
+            setWeatherNowLocationLoading(true);
         }
         setTrendChartLoading(true);
         void updateWeatherForecast(lat, lon);
@@ -3579,6 +3691,9 @@ document.addEventListener("DOMContentLoaded", () => {
             setOmStatus(`Feil: ${err.message}`);
         } finally {
             setTrendChartLoading(false);
+            if (showWeatherNowLoader) {
+                setWeatherNowLocationLoading(false);
+            }
         }
     }
 
@@ -3655,7 +3770,7 @@ document.addEventListener("DOMContentLoaded", () => {
             });
 
             closeAllLocationOverlays();
-            updateTrendChartForCoords(lat, lon);
+            updateTrendChartForCoords(lat, lon, { showWeatherNowLoader: true });
         };
 
         const setActiveLocationResult = (nextIndex) => {
@@ -3850,7 +3965,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     weatherNowSearchInput.value = geocodingSearchInput.value;
                 }
 
-                updateTrendChartForCoords(lat, lon);
+                updateTrendChartForCoords(lat, lon, { showWeatherNowLoader: true });
             }, 400);
         };
 
@@ -3870,7 +3985,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (weatherNowSearchInput) weatherNowSearchInput.value = coordLabel;
             setWeatherLocationLabel({ label: coordLabel, lat, lon });
             closeAllLocationOverlays();
-            updateTrendChartForCoords(lat, lon);
+            updateTrendChartForCoords(lat, lon, { showWeatherNowLoader: true });
         };
 
         if (geocodingSearchInput) {
@@ -4016,12 +4131,14 @@ document.addEventListener("DOMContentLoaded", () => {
         : null;
     const marketChartTile = document.getElementById("marketChartTile");
     const marketFields = Array.from(document.querySelectorAll("[data-market-field]"));
-    const DEFAULT_STOCK_SYMBOL = "aapl.us";
+    const DEFAULT_STOCK_SYMBOL = "AAPL";
     let marketSelectedRange = "30d";
     let marketAutoFetchTimer = null;
 
-    const setMarketStatus = (msg) => {
-        if (marketStatusEl) marketStatusEl.textContent = msg;
+    const setMarketStatus = (msg, tone = "info") => {
+        if (!marketStatusEl) return;
+        marketStatusEl.textContent = msg;
+        marketStatusEl.classList.toggle("is-error", tone === "error" && Boolean(msg));
     };
 
     const setMarketChartLoading = (isLoading) => {
@@ -4043,6 +4160,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const normalizeUpper = (value) => (value || "").trim().toUpperCase();
     const normalizeLower = (value) => (value || "").trim().toLowerCase();
+
+    const stockInputAliases = {
+        eqnr: "EQNR.OL",
+        nhy: "NHY.OL",
+        yara: "YAR.OL",
+        dnb: "DNB.OL",
+        akrbp: "AKRBP.OL",
+    };
 
     const coinGeckoIds = {
         btc: "bitcoin",
@@ -4115,19 +4240,226 @@ document.addEventListener("DOMContentLoaded", () => {
         return { labels, values };
     };
 
+    const extractCsvSegment = (text) => {
+        const raw = String(text || "").trim();
+        if (!raw) return "";
+        const lines = raw
+            .split(/\r?\n/)
+            .map((line) => line.trim())
+            .filter(Boolean);
+        if (!lines.length) return "";
+
+        const csvHeaderIndex = lines.findIndex((line) => /^date[,;]/i.test(line));
+        if (csvHeaderIndex >= 0) {
+            return lines.slice(csvHeaderIndex).join("\n");
+        }
+
+        const firstDataRow = lines.findIndex((line) => /^\d{4}-\d{2}-\d{2}[,;]/.test(line));
+        if (firstDataRow >= 0) {
+            return ["Date,Open,High,Low,Close,Volume", ...lines.slice(firstDataRow)].join("\n");
+        }
+
+        return "";
+    };
+
+    const extractJsonObject = (text) => {
+        const raw = String(text || "");
+        const startIndex = raw.indexOf("{");
+        const endIndex = raw.lastIndexOf("}");
+        if (startIndex < 0 || endIndex <= startIndex) return null;
+
+        const jsonSlice = raw.slice(startIndex, endIndex + 1);
+        try {
+            return JSON.parse(jsonSlice);
+        } catch {
+            return null;
+        }
+    };
+
+    const getYahooRange = (rangeKey) => {
+        if (rangeKey === "1y") return "1y";
+        if (rangeKey === "5y") return "5y";
+        if (rangeKey === "ytd") return "ytd";
+        return "1mo";
+    };
+
+    const normalizeStockInput = (rawSymbol) => {
+        const compact = normalizeUpper(rawSymbol).replace(/\s+/g, "");
+        if (!compact) return "";
+        const alias = stockInputAliases[normalizeLower(compact)];
+        return alias || compact;
+    };
+
+    const buildStockCandidates = (rawSymbol) => {
+        const normalized = normalizeStockInput(rawSymbol);
+        if (!normalized) return [];
+
+        const candidates = [];
+        const seen = new Set();
+        const addCandidate = (display, yahoo, stooq) => {
+            const key = `${display}|${yahoo}|${stooq}`;
+            if (!display || !yahoo || !stooq || seen.has(key)) return;
+            seen.add(key);
+            candidates.push({ display, yahoo, stooq });
+        };
+
+        if (normalized.includes(".")) {
+            const [baseRaw, suffixRaw = ""] = normalized.split(".");
+            const base = normalizeUpper(baseRaw);
+            const suffix = normalizeUpper(suffixRaw);
+            const yahooSymbol = suffix === "US" ? base : `${base}.${suffix}`;
+            const stooqSymbol = `${normalizeLower(base)}.${normalizeLower(suffix)}`;
+            addCandidate(normalized, yahooSymbol, stooqSymbol);
+            if (suffix === "US") {
+                addCandidate(base, base, `${normalizeLower(base)}.us`);
+            }
+        } else {
+            const base = normalized;
+            addCandidate(base, base, `${normalizeLower(base)}.us`);
+            addCandidate(`${base}.OL`, `${base}.OL`, `${normalizeLower(base)}.ol`);
+        }
+
+        return candidates;
+    };
+
+    async function fetchYahooHistory(symbol, rangeKey) {
+        const cleanSymbol = normalizeUpper(symbol);
+        const range = getYahooRange(rangeKey);
+        const queryPath =
+            `/v8/finance/chart/${encodeURIComponent(cleanSymbol)}` +
+            `?range=${encodeURIComponent(range)}&interval=1d`;
+        const directUrl = `https://query1.finance.yahoo.com${queryPath}`;
+
+        const proxyUrls = [
+            `https://r.jina.ai/http://query1.finance.yahoo.com${queryPath}`,
+            `https://r.jina.ai/http://query2.finance.yahoo.com${queryPath}`,
+            `https://api.allorigins.win/raw?url=${encodeURIComponent(directUrl)}`,
+        ];
+
+        let lastError = null;
+        for (const proxyUrl of proxyUrls) {
+            try {
+                const responseText = await fetchWithTimeout(proxyUrl, 9000);
+                const json = extractJsonObject(responseText);
+                if (!json) {
+                    lastError = new Error("Yahoo-proxy returnerte ugyldig JSON.");
+                    continue;
+                }
+
+                const apiError = json?.chart?.error;
+                if (apiError) {
+                    lastError = new Error(apiError.description || "Yahoo Finance fant ikke symbolet.");
+                    continue;
+                }
+
+                const result = json?.chart?.result?.[0];
+                const timestamps = Array.isArray(result?.timestamp) ? result.timestamp : [];
+                const closes = Array.isArray(result?.indicators?.quote?.[0]?.close)
+                    ? result.indicators.quote[0].close
+                    : [];
+
+                if (!timestamps.length || !closes.length) {
+                    lastError = new Error("Yahoo Finance returnerte ingen historikk.");
+                    continue;
+                }
+
+                const { start, end } = getRangeForKey(rangeKey);
+                const labels = [];
+                const values = [];
+
+                for (let i = 0; i < timestamps.length; i++) {
+                    const ts = Number(timestamps[i]);
+                    const close = Number(closes[i]);
+                    if (!Number.isFinite(ts) || !Number.isFinite(close)) continue;
+
+                    const date = new Date(ts * 1000);
+                    if (!Number.isFinite(date.getTime())) continue;
+                    if (date < start || date > end) continue;
+
+                    labels.push(dayFormatter.format(date));
+                    values.push(close);
+                }
+
+                if (!labels.length) {
+                    lastError = new Error("Yahoo Finance ga ingen datapunkter i valgt periode.");
+                    continue;
+                }
+
+                return { labels, values, source: "Yahoo Finance" };
+            } catch (err) {
+                lastError = err;
+            }
+        }
+
+        throw lastError || new Error("Yahoo Finance er utilgjengelig akkurat nå.");
+    }
+
     async function fetchStooqHistory(symbol, rangeKey) {
         const cleanSymbol = normalizeLower(symbol);
-        const baseUrl = `https://stooq.com/q/d/l/?s=${encodeURIComponent(cleanSymbol)}&i=d`;
+        const dataUrl = `https://stooq.com/q/d/l/?s=${encodeURIComponent(cleanSymbol)}&i=d`;
         const proxyUrls = [
+            `https://api.allorigins.win/raw?url=${encodeURIComponent(dataUrl)}`,
+            `https://cors.isomorphic-git.org/${dataUrl}`,
             `https://r.jina.ai/http://stooq.com/q/d/l/?s=${encodeURIComponent(cleanSymbol)}&i=d`,
             `https://r.jina.ai/http://www.stooq.com/q/d/l/?s=${encodeURIComponent(cleanSymbol)}&i=d`,
         ];
-        const csvText = await fetchTextWithFallback(proxyUrls);
-        const parsed = parseStooqCsv(csvText, rangeKey);
-        if (!parsed.labels.length) {
-            throw new Error("Fant ingen data (sjekk Stooq-symbol).");
+
+        let lastError = null;
+        for (const proxyUrl of proxyUrls) {
+            try {
+                const rawText = await fetchWithTimeout(proxyUrl, 9000);
+                const csvText = extractCsvSegment(rawText);
+                if (!csvText) {
+                    lastError = new Error("Stooq-proxy svarte uten CSV-data.");
+                    continue;
+                }
+                const parsed = parseStooqCsv(csvText, rangeKey);
+                if (parsed.labels.length) {
+                    return { ...parsed, source: "Stooq" };
+                }
+                lastError = new Error("Stooq returnerte ingen data i valgt periode.");
+            } catch (err) {
+                lastError = err;
+            }
         }
-        return parsed;
+
+        throw lastError || new Error("Fant ingen data hos Stooq.");
+    }
+
+    async function fetchStockHistory(rawSymbol, rangeKey) {
+        const candidates = buildStockCandidates(rawSymbol);
+        if (!candidates.length) {
+            throw new Error("Skriv inn ticker (f.eks. AAPL eller EQNR.OL).");
+        }
+
+        let lastError = null;
+        for (const candidate of candidates) {
+            try {
+                const yahoo = await fetchYahooHistory(candidate.yahoo, rangeKey);
+                return { ...yahoo, resolvedSymbol: candidate.display };
+            } catch (yahooErr) {
+                lastError = yahooErr;
+            }
+
+            try {
+                const stooq = await fetchStooqHistory(candidate.stooq, rangeKey);
+                return { ...stooq, resolvedSymbol: candidate.display };
+            } catch (stooqErr) {
+                lastError = stooqErr;
+            }
+        }
+
+        const lastMessage = String(lastError?.message || "");
+        const sourceIssue = /fetch|timeout|proxy|http\s*\d+|utilgjengelig/i.test(lastMessage);
+        if (sourceIssue) {
+            throw new Error("Kunne ikke hente fra gratis datakilder akkurat nå. Prøv igjen senere.");
+        }
+
+        const normalized = normalizeStockInput(rawSymbol);
+        const hint = normalized && !normalized.includes(".")
+            ? `Prøv ${normalized} eller ${normalized}.OL.`
+            : "Sjekk ticker-formatet (f.eks. AAPL, AAPL.US eller EQNR.OL).";
+        throw new Error(`Fant ingen data for symbolet. ${hint}`);
     }
 
     const isIsin = (value) => /^NO\d{10}$/i.test((value || "").trim());
@@ -4262,14 +4594,14 @@ document.addEventListener("DOMContentLoaded", () => {
             if (type === "stock") {
                 const rawSymbol = (marketSymbolInput?.value || "").trim();
                 if (!rawSymbol) {
-                    setMarketStatus("Skriv inn Stooq-symbol (f.eks. aapl.us).");
-                    setMarketChartInvalid("Ugyldig symbol/ISIN");
+                    setMarketStatus("Skriv inn ticker (f.eks. AAPL eller EQNR.OL).", "error");
+                    setMarketChartInvalid("Mangler ticker");
                     return;
                 }
 
                 let labels = [];
                 let values = [];
-                let chartLabel = normalizeUpper(rawSymbol);
+                let chartLabel = normalizeStockInput(rawSymbol);
 
                 if (isIsin(rawSymbol)) {
                     try {
@@ -4277,15 +4609,21 @@ document.addEventListener("DOMContentLoaded", () => {
                         labels = fundResult.labels;
                         values = fundResult.values;
                         chartLabel = fundResult.symbol || chartLabel;
-                    } catch {
-                        setMarketStatus("Ugyldig symbol/ISIN.");
-                        setMarketChartInvalid("Ugyldig symbol/ISIN");
+                    } catch (err) {
+                        console.error(err);
+                        setMarketStatus(
+                            "ISIN-oppslag krever backend (f.eks. Netlify Functions). På GitHub Pages: bruk ticker som AAPL eller EQNR.OL.",
+                            "error"
+                        );
+                        setMarketChartInvalid("ISIN krever backend");
                         return;
                     }
                 } else {
-                    const stooqResult = await fetchStooqHistory(rawSymbol, marketSelectedRange);
-                    labels = stooqResult.labels;
-                    values = stooqResult.values;
+                    const stockResult = await fetchStockHistory(rawSymbol, marketSelectedRange);
+                    labels = stockResult.labels;
+                    values = stockResult.values;
+                    chartLabel = stockResult.resolvedSymbol || chartLabel;
+                    setMarketStatus(`Viser ${chartLabel} fra ${stockResult.source}.`);
                 }
 
                 replaceAndDrawMarketChart(labels, values, {
@@ -4294,12 +4632,14 @@ document.addEventListener("DOMContentLoaded", () => {
                     primaryFormatter: new Intl.NumberFormat("no-NO", { maximumFractionDigits: 2 }),
                 });
                 clearMarketChartInvalid();
-                setMarketStatus("");
+                if (isIsin(rawSymbol)) {
+                    setMarketStatus(`Viser ${chartLabel}.`);
+                }
             } else {
                 const baseAsset = normalizeUpper(marketBaseInput?.value);
                 const quoteAsset = normalizeUpper(marketQuoteInput?.value);
                 if (!baseAsset || !quoteAsset) {
-                    setMarketStatus("Skriv inn basis og motvaluta.");
+                    setMarketStatus("Skriv inn basis og motvaluta.", "error");
                     return;
                 }
                 const { labels, values } = await fetchCoinGeckoHistory(baseAsset, quoteAsset, marketSelectedRange);
@@ -4309,14 +4649,16 @@ document.addEventListener("DOMContentLoaded", () => {
                     primaryFormatter: new Intl.NumberFormat("no-NO", { maximumFractionDigits: 6 }),
                 });
                 clearMarketChartInvalid();
-                setMarketStatus("");
+                setMarketStatus(`Viser ${baseAsset}/${quoteAsset} fra CoinGecko.`);
             }
         } catch (err) {
             console.error(err);
             if (type === "stock") {
-                setMarketChartInvalid("Ugyldig symbol/ISIN");
+                const errorMessage = String(err?.message || "");
+                const sourceIssue = /gratis datakilder|fetch|timeout|proxy|http\s*\d+|utilgjengelig/i.test(errorMessage);
+                setMarketChartInvalid(sourceIssue ? "Datakilde utilgjengelig" : "Ingen data for symbolet");
             }
-            setMarketStatus(`Feil: ${err.message}`);
+            setMarketStatus(`Feil: ${err.message}`, "error");
         } finally {
             setMarketChartLoading(false);
         }
@@ -4383,7 +4725,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     document.addEventListener("open-meteo:forecast", (evt) => {
         const { lat, lon } = evt?.detail || {};
-        updateTrendChartForCoords(Number(lat), Number(lon));
+        updateTrendChartForCoords(Number(lat), Number(lon), { showWeatherNowLoader: true });
     });
 
     //nedtelling-widget
@@ -4572,18 +4914,42 @@ document.addEventListener("DOMContentLoaded", () => {
         if (grid && window.Masonry) {
             const cards = Array.from(grid.querySelectorAll(".bordershadow"));
             let resizeTimer;
+            let masonry = null;
+            const mobileLayoutQuery = window.matchMedia("(max-width: 640px)");
             const isWideCard = (card) => card.classList.contains("card--wide") || card.classList.contains("card--wide-auto");
-            const masonry = new Masonry(grid, {
-                itemSelector: ".bordershadow",
-                columnWidth: ".grid-sizer",
-                gutter: ".gutter-sizer",
-                percentPosition: true,
-                horizontalOrder: false,
-                transitionDuration: "0.2s",
-            });
+
+            const clearMasonryInlineStyles = () => {
+                grid.style.height = "";
+                cards.forEach((card) => {
+                    card.style.position = "";
+                    card.style.left = "";
+                    card.style.top = "";
+                });
+            };
+
+            const ensureMasonry = () => {
+                if (masonry) return masonry;
+                masonry = new Masonry(grid, {
+                    itemSelector: ".bordershadow",
+                    columnWidth: ".grid-sizer",
+                    gutter: ".gutter-sizer",
+                    percentPosition: true,
+                    horizontalOrder: false,
+                    transitionDuration: "0.2s",
+                });
+                return masonry;
+            };
+
+            const disableMasonryForMobile = () => {
+                if (masonry) {
+                    masonry.destroy();
+                    masonry = null;
+                }
+                clearMasonryInlineStyles();
+            };
 
             const reorderCardsForPacking = () => {
-                if (window.matchMedia("(max-width: 1100px)").matches) return;
+                if (mobileLayoutQuery.matches || window.matchMedia("(max-width: 1100px)").matches) return;
 
                 const visibleCards = cards.filter((card) => !card.classList.contains("is-hidden"));
                 if (visibleCards.length < 4) return;
@@ -4631,9 +4997,15 @@ document.addEventListener("DOMContentLoaded", () => {
             };
 
             const requestLayout = () => {
+                if (mobileLayoutQuery.matches) {
+                    disableMasonryForMobile();
+                    return;
+                }
+
+                const activeMasonry = ensureMasonry();
                 reorderCardsForPacking();
-                masonry.reloadItems();
-                masonry.layout();
+                activeMasonry.reloadItems();
+                activeMasonry.layout();
             };
 
             requestMasonryLayout = () => window.requestAnimationFrame(requestLayout);
@@ -4644,7 +5016,16 @@ document.addEventListener("DOMContentLoaded", () => {
                 resizeTimer = setTimeout(requestMasonryLayout, 120);
             });
 
-            const observer = new ResizeObserver(requestMasonryLayout);
+            const handleMobileLayoutChange = () => requestMasonryLayout();
+            if (typeof mobileLayoutQuery.addEventListener === "function") {
+                mobileLayoutQuery.addEventListener("change", handleMobileLayoutChange);
+            } else if (typeof mobileLayoutQuery.addListener === "function") {
+                mobileLayoutQuery.addListener(handleMobileLayoutChange);
+            }
+
+            const observer = new ResizeObserver(() => {
+                if (!mobileLayoutQuery.matches) requestMasonryLayout();
+            });
             cards.forEach((card) => observer.observe(card));
 
             requestMasonryLayout();

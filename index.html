@@ -8,6 +8,7 @@
     <link href="https://fonts.cdnfonts.com/css/satoshi" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/js/all.min.js"></script>
+    <script defer src="https://unpkg.com/lucide@latest"></script>
     <link rel="icon" href="images/ny2.sort.altkalkis.svg" media="(prefers-color-scheme: light)">
     <link rel="icon" href="images/ny2.hvit.altkalkis.svg" media="(prefers-color-scheme: dark)">
 </head>
@@ -61,7 +62,6 @@
                     <div class="gutter-sizer" aria-hidden="true"></div>
             <!-- Dagens dato og klokkeslett -->
             <div class="bordershadow card--m" id="datetimeCard">
-                <h2>Dagens dato og klokkeslett</h2>
                 <p id="currentDateTime"></p>
                 <!-- Analog klokke -->
                 <canvas id="analogClock" width="260" height="260" aria-label="Analog klokke"></canvas>
@@ -90,14 +90,18 @@
                         <span class="weather-scene__cloud weather-scene__cloud--f"></span>
                         <span class="weather-scene__rain"></span>
                         <span class="weather-scene__lightning"></span>
+                        <div id="weatherNowLoadingOverlay" class="weather-now-loading" aria-hidden="true">
+                            <span class="weather-now-loading__spinner" aria-hidden="true"></span>
+                            <span class="weather-now-loading__text">Oppdaterer værdata...</span>
+                        </div>
                         <div class="weather-now-main">
                             <p id="weatherNowTemp" class="weather-now-temp">- °C</p>
                             <p id="weatherNowCondition" class="weather-now-condition">Laster vær...</p>
                             <div id="weatherSummaryChips" class="weather-now-stats" aria-label="Nøkkelverdier for vær">
-                                <span class="weather-now-stat"><span class="weather-now-stat__label">Temperatur:</span><span class="weather-now-stat__value">-</span></span>
-                                <span class="weather-now-stat"><span class="weather-now-stat__label">Fuktighet:</span><span class="weather-now-stat__value">-</span></span>
-                                <span class="weather-now-stat"><span class="weather-now-stat__label">UV:</span><span class="weather-now-stat__value">-</span></span>
-                                <span class="weather-now-stat"><span class="weather-now-stat__label">AQI:</span><span class="weather-now-stat__value">-</span></span>
+                                <span class="weather-now-stat"><span class="weather-now-stat__label"><i data-lucide="thermometer" class="weather-now-stat__icon" aria-hidden="true"></i>Temperatur:</span><span class="weather-now-stat__value">-</span></span>
+                                <span class="weather-now-stat"><span class="weather-now-stat__label"><i data-lucide="droplets" class="weather-now-stat__icon" aria-hidden="true"></i>Fuktighet:</span><span class="weather-now-stat__value">-</span></span>
+                                <span class="weather-now-stat"><span class="weather-now-stat__label"><i data-lucide="sun" class="weather-now-stat__icon" aria-hidden="true"></i>UV:</span><span class="weather-now-stat__value">-</span></span>
+                                <span class="weather-now-stat"><span class="weather-now-stat__label"><i data-lucide="wind" class="weather-now-stat__icon" aria-hidden="true"></i>AQI:</span><span class="weather-now-stat__value">-</span></span>
                             </div>
                             <div id="weatherAlerts" class="weather-alerts" aria-live="polite" aria-label="Værvarsler"></div>
                         </div>
@@ -129,7 +133,7 @@
                         <path fill="rgb(255, 255, 255)" d="M320 576C461.4 576 576 461.4 576 320C576 178.6 461.4 64 320 64C178.6 64 64 178.6 64 320C64 461.4 178.6 576 320 576zM288 224C288 206.3 302.3 192 320 192C337.7 192 352 206.3 352 224C352 241.7 337.7 256 320 256C302.3 256 288 241.7 288 224zM280 288L328 288C341.3 288 352 298.7 352 312L352 400L360 400C373.3 400 384 410.7 384 424C384 437.3 373.3 448 360 448L280 448C266.7 448 256 437.3 256 424C256 410.7 266.7 400 280 400L304 400L304 336L280 336C266.7 336 256 325.3 256 312C256 298.7 266.7 288 280 288z"/>
                     </svg>
                 </button>
-                <div class="converter weather-controls" style="gap:8px; margin-bottom:10px;">
+                <div class="converter weather-controls">
                     <div class="weather-controls-row" aria-label="Værkontroller">
                         <div class="location-controls" aria-label="Sted og koordinater">
                             <label class="field-with-icon field-with-icon--city" aria-label="Søk etter sted">
@@ -173,9 +177,9 @@
                     </div>
                     <div id="omRangeSelector" class="range-selector" role="tablist" aria-label="Velg periode">
                         <span class="range-selector__indicator" aria-hidden="true"></span>
-                        <button type="button" class="range-selector__btn is-active" data-range="30d" role="tab" aria-selected="true">30 D</button>
+                        <button type="button" class="range-selector__btn" data-range="30d" role="tab" aria-selected="false">30 D</button>
                         <button type="button" class="range-selector__btn" data-range="1y" role="tab" aria-selected="false">1 ÅR</button>
-                        <button type="button" class="range-selector__btn" data-range="ytd" role="tab" aria-selected="false">YTD</button>
+                        <button type="button" class="range-selector__btn is-active" data-range="ytd" role="tab" aria-selected="true">YTD</button>
                         <button type="button" class="range-selector__btn" data-range="5y" role="tab" aria-selected="false">5 ÅR</button>
                     </div>
                     <div id="omStatus" class="sr-only" aria-live="polite"></div>
@@ -411,7 +415,7 @@
 
             <div class="bordershadow card--wide card--m" id="marketCard">
                 <h2>Aksjer og krypto (gratis)</h2>
-                <div class="converter market-controls" style="display:flex; gap:10px; flex-wrap:nowrap; align-items:flex-end; margin-bottom:10px; overflow-x:auto;">
+                <div class="converter market-controls">
                     <label class="market-field">
                         <span>Markedstype</span>
                         <select id="marketType" class="lysereboks" aria-label="Velg markedstype">
@@ -421,7 +425,7 @@
                     </label>
                     <label class="market-field" data-market-field="stock">
                         <span>Symbol / ISIN</span>
-                        <input id="marketSymbol" class="lysereboks" type="text" value="aapl.us" placeholder="f.eks. NO0012445404 eller aapl.us" />
+                        <input id="marketSymbol" class="lysereboks" type="text" value="AAPL" placeholder="f.eks. AAPL, EQNR.OL eller AAPL.US" />
                     </label>
                     <label class="market-field is-hidden" data-market-field="crypto">
                         <span>Basis (symbol/ID)</span>
@@ -439,7 +443,8 @@
                     <button type="button" class="range-selector__btn" data-range="ytd" role="tab" aria-selected="false">YTD</button>
                     <button type="button" class="range-selector__btn" data-range="5y" role="tab" aria-selected="false">5 ÅR</button>
                 </div>
-                <div id="marketStatus" class="sr-only" aria-live="polite"></div>
+                <p class="market-help">Gratis uten API-nøkkel: bruk ticker (AAPL, EQNR.OL). ISIN krever backend-funksjon.</p>
+                <div id="marketStatus" class="market-status" aria-live="polite"></div>
                 <div class="chart-grid">
                     <div class="chart-tile chart-tile--market" id="marketChartTile">
                         <canvas id="marketChart" class="chart-canvas" aria-label="Markedsdiagram"></canvas>

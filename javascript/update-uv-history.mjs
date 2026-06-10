@@ -114,6 +114,8 @@ async function main() {
     doc.locations = {};
   }
 
+  doc.source = "open-meteo-archive+forecast-daily-uv-index-max";
+
   let successCount = 0;
 
   for (const location of LOCATIONS) {
