@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-06-11T19:36:21.548Z",
+  "updatedAt": "2026-06-11T22:03:27.760Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Ny forsvarsminister i Storbritannia",
+      "link": "https://www.nrk.no/nyheter/ny-forsvarsminister-i-storbritannia-1.17918010",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 11 Jun 2026 21:03:50 GMT"
+    },
+    {
+      "title": "Svensker kastet stein på Russland",
+      "link": "https://www.nrk.no/nyheter/svensker-kastet-stein-pa-russland-1.17918006",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 11 Jun 2026 20:59:50 GMT"
+    },
+    {
+      "title": "Iran avviser enighet om fredsavtale",
+      "link": "https://www.nrk.no/nyheter/iran-avviser-enighet-om-fredsavtale-1.17917990",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Thu, 11 Jun 2026 20:37:24 GMT"
+    },
+    {
+      "title": "Amerikanske medier: SpaceX blir verdens største børsnotering",
+      "link": "https://www.nrk.no/nyheter/amerikanske-medier_-spacex-blir-verdens-storste-borsnotering-1.17917971",
+      "category": "Elon Musk",
+      "pubDate": "Thu, 11 Jun 2026 19:53:00 GMT"
+    },
+    {
       "title": "Trump: Avtale kan være signert over helgen",
       "link": "https://www.nrk.no/nyheter/trump_-avtale-kan-vaere-signert-over-helgen-1.17917962",
-      "category": "high",
+      "category": "Forholdet Iran – USA",
       "pubDate": "Thu, 11 Jun 2026 19:34:50 GMT"
     },
     {
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/britiske-medier_-nok-en-minister-gar-av-i-protest-mot-starmer-1.17917950",
       "category": "Storbritannia",
       "pubDate": "Thu, 11 Jun 2026 19:29:39 GMT"
-    },
-    {
-      "title": "Iranske Fars: Sannsynligheten for at Iran godtar fredsavtalen er høy",
-      "link": "https://www.nrk.no/nyheter/iranske-fars_-sannsynligheten-for-at-iran-godtar-fredsavtalen-er-hoy-1.17917892",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Thu, 11 Jun 2026 19:16:24 GMT"
-    },
-    {
-      "title": "Enighet om bydelsreformen i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/-enighet-om-bydelsreformen-i-oslo-1.17917819",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 11 Jun 2026 18:43:38 GMT"
-    },
-    {
-      "title": "Trump nominerer ny nasjonal etterretningssjef",
-      "link": "https://www.nrk.no/nyheter/trump-nominerer-ny-nasjonal-etterretningssjef-1.17917833",
-      "category": "USA",
-      "pubDate": "Thu, 11 Jun 2026 18:19:34 GMT"
-    },
-    {
-      "title": "Trump avlyser planlagte angrep mot Iran – hevder enighet er nådd",
-      "link": "https://www.nrk.no/nyheter/trump-avlyser-planlagte-angrep-mot-iran-_-hevder-enighet-er-nadd-1.17917824",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Thu, 11 Jun 2026 17:30:14 GMT"
     }
   ]
 }
