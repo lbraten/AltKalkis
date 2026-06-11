@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-11T16:55:21.784Z",
+  "updatedAt": "2026-06-11T19:36:21.548Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "El Niño har startet: Forskere advarer om ekstremvær",
-      "link": "https://www.nrk.no/nyheter/el-nino-har-startet_-forskere-advarer-om-ekstremvaer-1.17917617",
-      "category": "Klima og miljø",
-      "pubDate": "Thu, 11 Jun 2026 16:41:08 GMT"
+      "title": "Trump: Avtale kan være signert over helgen",
+      "link": "https://www.nrk.no/nyheter/trump_-avtale-kan-vaere-signert-over-helgen-1.17917962",
+      "category": "high",
+      "pubDate": "Thu, 11 Jun 2026 19:34:50 GMT"
     },
     {
-      "title": "FN-sjefen: Dypt bekymret for eskalering i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/fn-sjefen_-dypt-bekymret-for-eskalering-i-midtosten-1.17917738",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 11 Jun 2026 16:27:08 GMT"
+      "title": "Britiske medier: Nok en minister går av i protest mot Starmer",
+      "link": "https://www.nrk.no/nyheter/britiske-medier_-nok-en-minister-gar-av-i-protest-mot-starmer-1.17917950",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 11 Jun 2026 19:29:39 GMT"
     },
     {
-      "title": "CNN: Falsk alarm i Pentagon",
-      "link": "https://www.nrk.no/nyheter/cnn_-falsk-alarm-i-pentagon--1.17917735",
-      "category": "USA",
-      "pubDate": "Thu, 11 Jun 2026 15:59:29 GMT"
+      "title": "Iranske Fars: Sannsynligheten for at Iran godtar fredsavtalen er høy",
+      "link": "https://www.nrk.no/nyheter/iranske-fars_-sannsynligheten-for-at-iran-godtar-fredsavtalen-er-hoy-1.17917892",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Thu, 11 Jun 2026 19:16:24 GMT"
     },
     {
-      "title": "Flertall for jordbruksavtalen – Høyre og Frp støtter ikke avtalen",
-      "link": "https://www.nrk.no/innlandet/flertall-for-jordbruksavtalen-_-hoyre-og-frp-stotter-ikke-avtalen-1.17917662",
-      "category": "Jordbruksoppgjøret",
-      "pubDate": "Thu, 11 Jun 2026 15:31:07 GMT"
-    },
-    {
-      "title": "CNN: Flere evakuert fra Pentagon grunnet «hendelse med farlige stoffer»",
-      "link": "https://www.nrk.no/nyheter/cnn_-flere-evakuert-fra-pentagon-grunnet-_hendelse-med-farlige-stoffer_-1.17917388",
-      "category": "USA",
-      "pubDate": "Thu, 11 Jun 2026 15:06:16 GMT"
-    },
-    {
-      "title": "Brann i parkeringshus på Oslo S – iverksatt berging",
-      "link": "https://www.nrk.no/stor-oslo/brann-i-parkeringshus-pa-oslo-s-_-iverksatt-berging-1.17917605",
+      "title": "Enighet om bydelsreformen i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/-enighet-om-bydelsreformen-i-oslo-1.17917819",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 11 Jun 2026 15:03:49 GMT"
+      "pubDate": "Thu, 11 Jun 2026 18:43:38 GMT"
+    },
+    {
+      "title": "Trump nominerer ny nasjonal etterretningssjef",
+      "link": "https://www.nrk.no/nyheter/trump-nominerer-ny-nasjonal-etterretningssjef-1.17917833",
+      "category": "USA",
+      "pubDate": "Thu, 11 Jun 2026 18:19:34 GMT"
+    },
+    {
+      "title": "Trump avlyser planlagte angrep mot Iran – hevder enighet er nådd",
+      "link": "https://www.nrk.no/nyheter/trump-avlyser-planlagte-angrep-mot-iran-_-hevder-enighet-er-nadd-1.17917824",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Thu, 11 Jun 2026 17:30:14 GMT"
     }
   ]
 }
