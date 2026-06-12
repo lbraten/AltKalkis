@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-12T20:34:38.712Z",
+  "updatedAt": "2026-06-12T22:25:48.364Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politico: Gigantkjøp i Hollywood godkjent",
+      "link": "https://www.nrk.no/nyheter/politico_-gigantkjop-i-hollywood-godkjent-1.17919529",
+      "category": "USA",
+      "pubDate": "Fri, 12 Jun 2026 21:41:18 GMT"
+    },
+    {
+      "title": "En til sykehus etter trafikkulykke i Rana",
+      "link": "https://www.nrk.no/nyheter/en-til-sykehus-etter-trafikkulykke-i-rana-1.17919526",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 12 Jun 2026 21:39:15 GMT"
+    },
+    {
+      "title": "Iranske medier: Høye smell i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iranske-medier_-hoye-smell-i-hormuzstredet-1.17919525",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 12 Jun 2026 21:22:43 GMT"
+    },
     {
       "title": "Irans utenriksminister: Iran har vunnet krigen",
       "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-iran-har-vunnet-krigen-1.17919479",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/dodsulykke-i-laerdal-1.17919433",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 12 Jun 2026 17:42:10 GMT"
-    },
-    {
-      "title": "Pakistans statsminister: USA og Iran enige om endelig avtaletekst",
-      "link": "https://www.nrk.no/nyheter/pakistans-statsminister_-usa-og-iran-enige-om-endelig-avtaletekst-1.17919330",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 12 Jun 2026 16:29:33 GMT"
-    },
-    {
-      "title": "Streik på Kastrup rammer norske reisende",
-      "link": "https://www.nrk.no/nyheter/streik-pa-kastrup-rammer-norske-reisende--1.17919312",
-      "category": "Luftfart",
-      "pubDate": "Fri, 12 Jun 2026 16:00:32 GMT"
-    },
-    {
-      "title": "Oslo: Bombegruppa rykket ut etter funn av granat",
-      "link": "https://www.nrk.no/stor-oslo/oslo_-bombegruppa-rykket-ut-etter-funn-av-granat-1.17919308",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 12 Jun 2026 15:48:19 GMT"
     }
   ]
 }
