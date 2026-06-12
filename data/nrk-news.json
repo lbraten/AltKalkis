@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-12T16:20:11.186Z",
+  "updatedAt": "2026-06-12T18:23:10.508Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dødsulykke i Lærdal",
+      "link": "https://www.nrk.no/vestland/dodsulykke-i-laerdal-1.17919433",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 12 Jun 2026 17:42:10 GMT"
+    },
+    {
+      "title": "Pakistans statsminister: USA og Iran enige om endelig avtaletekst",
+      "link": "https://www.nrk.no/nyheter/pakistans-statsminister_-usa-og-iran-enige-om-endelig-avtaletekst-1.17919330",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 12 Jun 2026 16:29:33 GMT"
+    },
     {
       "title": "Streik på Kastrup rammer norske reisende",
       "link": "https://www.nrk.no/nyheter/streik-pa-kastrup-rammer-norske-reisende--1.17919312",
@@ -9,8 +21,8 @@
       "pubDate": "Fri, 12 Jun 2026 16:00:32 GMT"
     },
     {
-      "title": "Oslo: Bombegruppa rykker ut etter funn av mulig granat",
-      "link": "https://www.nrk.no/stor-oslo/oslo_-bombegruppa-rykker-ut-etter-funn-av-mulig-granat-1.17919308",
+      "title": "Oslo: Bombegruppa rykket ut etter funn av granat",
+      "link": "https://www.nrk.no/stor-oslo/oslo_-bombegruppa-rykket-ut-etter-funn-av-granat-1.17919308",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 12 Jun 2026 15:48:19 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/putin-innrommer-at-ukrainske-angrep-skader-okonomien-1.17919217",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 12 Jun 2026 14:28:29 GMT"
-    },
-    {
-      "title": "Facebook er oppe igjen",
-      "link": "https://www.nrk.no/nyheter/facebook-er-oppe-igjen-1.17919164",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 12 Jun 2026 14:16:12 GMT"
-    },
-    {
-      "title": "Marius Borg Høiby møter ikke i retten mandag - følger domsavsigelsen via videolenke",
-      "link": "https://www.nrk.no/nyheter/marius-borg-hoiby-moter-ikke-i-retten-mandag---folger-domsavsigelsen-via-videolenke-1.17919125",
-      "category": "high",
-      "pubDate": "Fri, 12 Jun 2026 13:52:07 GMT"
     }
   ]
 }
