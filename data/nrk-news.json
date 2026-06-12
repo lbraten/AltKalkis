@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-12T18:23:10.508Z",
+  "updatedAt": "2026-06-12T20:34:38.712Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Irans utenriksminister: Iran har vunnet krigen",
+      "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-iran-har-vunnet-krigen-1.17919479",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 12 Jun 2026 19:20:26 GMT"
+    },
+    {
+      "title": "EU-landene enige om flypassasjerers rettigheter",
+      "link": "https://www.nrk.no/nyheter/eu-landene-enige-om-flypassasjerers-rettigheter-1.17919355",
+      "category": "Reiseliv",
+      "pubDate": "Fri, 12 Jun 2026 18:50:51 GMT"
+    },
     {
       "title": "Dødsulykke i Lærdal",
       "link": "https://www.nrk.no/vestland/dodsulykke-i-laerdal-1.17919433",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/oslo_-bombegruppa-rykket-ut-etter-funn-av-granat-1.17919308",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 12 Jun 2026 15:48:19 GMT"
-    },
-    {
-      "title": "Irans utenriksminister sier en avtale aldri har vært nærmere",
-      "link": "https://www.nrk.no/nyheter/irans-utenriksminister-sier-en-avtale-aldri-har-vaert-naermere-1.17919229",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 12 Jun 2026 15:29:57 GMT"
-    },
-    {
-      "title": "Putin innrømmer at ukrainske angrep skader økonomien",
-      "link": "https://www.nrk.no/nyheter/putin-innrommer-at-ukrainske-angrep-skader-okonomien-1.17919217",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 12 Jun 2026 14:28:29 GMT"
     }
   ]
 }
