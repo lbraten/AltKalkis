@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-11T22:03:27.760Z",
+  "updatedAt": "2026-06-12T00:02:21.161Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Enighet i kirkeoppgjøret",
+      "link": "https://www.nrk.no/nyheter/enighet-i-kirkeoppgjoret-1.17918012",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Thu, 11 Jun 2026 23:34:18 GMT"
+    },
+    {
+      "title": "Russland: To drept i angrep i Brjansk",
+      "link": "https://www.nrk.no/nyheter/russland_-to-drept-i-angrep-i-brjansk-1.17918030",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 11 Jun 2026 22:34:32 GMT"
+    },
+    {
+      "title": "Brudd i helikopteroppgjøret offshore",
+      "link": "https://www.nrk.no/nyheter/brudd-i-helikopteroppgjoret-offshore-1.17918026",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Thu, 11 Jun 2026 22:33:56 GMT"
+    },
+    {
+      "title": "Iran stanset tankskip i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran-stanset-tankskip-i-hormuzstredet-1.17918025",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 11 Jun 2026 22:19:26 GMT"
+    },
     {
       "title": "Ny forsvarsminister i Storbritannia",
       "link": "https://www.nrk.no/nyheter/ny-forsvarsminister-i-storbritannia-1.17918010",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/svensker-kastet-stein-pa-russland-1.17918006",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 11 Jun 2026 20:59:50 GMT"
-    },
-    {
-      "title": "Iran avviser enighet om fredsavtale",
-      "link": "https://www.nrk.no/nyheter/iran-avviser-enighet-om-fredsavtale-1.17917990",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Thu, 11 Jun 2026 20:37:24 GMT"
-    },
-    {
-      "title": "Amerikanske medier: SpaceX blir verdens største børsnotering",
-      "link": "https://www.nrk.no/nyheter/amerikanske-medier_-spacex-blir-verdens-storste-borsnotering-1.17917971",
-      "category": "Elon Musk",
-      "pubDate": "Thu, 11 Jun 2026 19:53:00 GMT"
-    },
-    {
-      "title": "Trump: Avtale kan være signert over helgen",
-      "link": "https://www.nrk.no/nyheter/trump_-avtale-kan-vaere-signert-over-helgen-1.17917962",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Thu, 11 Jun 2026 19:34:50 GMT"
-    },
-    {
-      "title": "Britiske medier: Nok en minister går av i protest mot Starmer",
-      "link": "https://www.nrk.no/nyheter/britiske-medier_-nok-en-minister-gar-av-i-protest-mot-starmer-1.17917950",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 11 Jun 2026 19:29:39 GMT"
     }
   ]
 }
