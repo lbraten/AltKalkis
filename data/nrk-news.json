@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-13T21:46:31.749Z",
+  "updatedAt": "2026-06-13T23:07:33.561Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nord-Korea: Atomnedrustning er uaktuelt",
+      "link": "https://www.nrk.no/nyheter/nord-korea_-atomnedrustning-er-uaktuelt-1.17920236",
+      "category": "Nord-Korea",
+      "pubDate": "Sat, 13 Jun 2026 23:00:13 GMT"
+    },
+    {
+      "title": "47 ungdommer bortvist fra Rådhusplassen i Oslo",
+      "link": "https://www.nrk.no/nyheter/47-ungdommer-bortvist-fra-radhusplassen-i-oslo-1.17920215",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 13 Jun 2026 22:33:18 GMT"
+    },
     {
       "title": "Ordfører drept i Mexico",
       "link": "https://www.nrk.no/nyheter/ordforer-drept-i-mexico-1.17920130",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/reuters_-trump-kan-mote-zelenskyj-under-g7-1.17920093",
       "category": "USA",
       "pubDate": "Sat, 13 Jun 2026 16:30:18 GMT"
-    },
-    {
-      "title": "Mann omkom etter å ha kome i klem under hjullastar",
-      "link": "https://www.nrk.no/mr/mann-omkom-etter-a-ha-kome-i-klem-under-hjullastar-1.17920020",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 13 Jun 2026 16:23:49 GMT"
-    },
-    {
-      "title": "Nordbytunnelen åpnet igjen – fortsatt lange køer i området",
-      "link": "https://www.nrk.no/nyheter/nordbytunnelen-apnet-igjen-_-fortsatt-lange-koer-i-omradet-1.17920052",
-      "category": "Trafikk i Norge",
-      "pubDate": "Sat, 13 Jun 2026 16:07:22 GMT"
     }
   ]
 }
