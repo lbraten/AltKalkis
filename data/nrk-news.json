@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-12T22:25:48.364Z",
+  "updatedAt": "2026-06-13T00:00:30.916Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Til sykehus etter å ha falt ut av russebuss i fart i Haugesund",
+      "link": "https://www.nrk.no/nyheter/til-sykehus-etter-a-ha-falt-ut-av-russebuss-i-fart-i-haugesund-1.17919530",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Fri, 12 Jun 2026 23:29:14 GMT"
+    },
+    {
+      "title": "FN: Høyeste antall sivile drept på én måned i Ukraina",
+      "link": "https://www.nrk.no/nyheter/fn_-hoyeste-antall-sivile-drept-pa-en-maned-i-ukraina-1.17919543",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 12 Jun 2026 22:58:20 GMT"
+    },
     {
       "title": "Politico: Gigantkjøp i Hollywood godkjent",
       "link": "https://www.nrk.no/nyheter/politico_-gigantkjop-i-hollywood-godkjent-1.17919529",
@@ -17,7 +29,7 @@
     {
       "title": "Iranske medier: Høye smell i Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/iranske-medier_-hoye-smell-i-hormuzstredet-1.17919525",
-      "category": "Krigen i Ukraina",
+      "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 12 Jun 2026 21:22:43 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/irans-utenriksminister_-iran-har-vunnet-krigen-1.17919479",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 12 Jun 2026 19:20:26 GMT"
-    },
-    {
-      "title": "EU-landene enige om flypassasjerers rettigheter",
-      "link": "https://www.nrk.no/nyheter/eu-landene-enige-om-flypassasjerers-rettigheter-1.17919355",
-      "category": "Reiseliv",
-      "pubDate": "Fri, 12 Jun 2026 18:50:51 GMT"
-    },
-    {
-      "title": "Dødsulykke i Lærdal",
-      "link": "https://www.nrk.no/vestland/dodsulykke-i-laerdal-1.17919433",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 12 Jun 2026 17:42:10 GMT"
     }
   ]
 }
