@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-06-13T11:15:27.947Z",
+  "updatedAt": "2026-06-13T13:05:21.044Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Evakuerte i Kåfjord får flytte tilbake",
+      "link": "https://www.nrk.no/tromsogfinnmark/evakuerte-i-kafjord-far-flytte-tilbake-1.17919812",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 13 Jun 2026 11:52:10 GMT"
+    },
+    {
       "title": "Pakistan tror på fredsavtale mellom USA og Iran innen et døgn",
       "link": "https://www.nrk.no/nyheter/pakistan-tror-pa-fredsavtale-mellom-usa-og-iran-innen-et-dogn-1.17919843",
-      "category": "Forholdet Iran – USA",
+      "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 13 Jun 2026 11:07:44 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/beckham-fikk-hollywood-stjerne-1.17919710",
       "category": "Kjendiser og underholdning",
       "pubDate": "Sat, 13 Jun 2026 08:43:53 GMT"
-    },
-    {
-      "title": "Funn av død person i Mosken",
-      "link": "https://www.nrk.no/nordland/funn-av-dod-person-i-mosken-1.17919662",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 13 Jun 2026 08:13:25 GMT"
     }
   ]
 }
