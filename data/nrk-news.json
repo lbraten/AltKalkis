@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-13T15:17:27.851Z",
+  "updatedAt": "2026-06-13T16:56:29.859Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Reuters: Trump kan møte Zelenskyj under G7",
+      "link": "https://www.nrk.no/nyheter/reuters_-trump-kan-mote-zelenskyj-under-g7-1.17920093",
+      "category": "USA",
+      "pubDate": "Sat, 13 Jun 2026 16:30:18 GMT"
+    },
+    {
+      "title": "Mann omkom etter å ha kome i klem under hjullastar",
+      "link": "https://www.nrk.no/mr/mann-omkom-etter-a-ha-kome-i-klem-under-hjullastar-1.17920020",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 13 Jun 2026 16:23:49 GMT"
+    },
+    {
+      "title": "Nordbytunnelen åpnet igjen – fortsatt lange køer i området",
+      "link": "https://www.nrk.no/nyheter/nordbytunnelen-apnet-igjen-_-fortsatt-lange-koer-i-omradet-1.17920052",
+      "category": "Trafikk i Norge",
+      "pubDate": "Sat, 13 Jun 2026 16:07:22 GMT"
+    },
+    {
+      "title": "Bussjåfør truet med kniv",
+      "link": "https://www.nrk.no/stor-oslo/bussjafor-truet-med-kniv-1.17920055",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 13 Jun 2026 15:19:02 GMT"
+    },
     {
       "title": "Viktor Orbán gjenvalgt som partileder",
       "link": "https://www.nrk.no/nyheter/viktor-orban-gjenvalgt-som-partileder-1.17920042",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/innlandet/drapsikta-fengsla-i-atte-nye-veker-1.17920033",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sat, 13 Jun 2026 14:51:55 GMT"
-    },
-    {
-      "title": "To barn til sykehus etter voldshendelse i Sverige",
-      "link": "https://www.nrk.no/nyheter/to-barn-til-sykehus-etter-voldshendelse-i-sverige-1.17920036",
-      "category": "Sverige",
-      "pubDate": "Sat, 13 Jun 2026 14:37:38 GMT"
-    },
-    {
-      "title": "Politiet grep inn mot antirasistisk demonstrasjon i Oslo sentrum",
-      "link": "https://www.nrk.no/nyheter/politiet-grep-inn-mot-antirasistisk-demonstrasjon-i-oslo-sentrum-1.17920024",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 13 Jun 2026 14:33:11 GMT"
-    },
-    {
-      "title": "Tusenvis demonstrerte mot rasisme i Belfast lørdag",
-      "link": "https://www.nrk.no/nyheter/tusenvis-demonstrerte-mot-rasisme-i-belfast-lordag-1.17919974",
-      "category": "Opptøyer i Belfast etter knivangrep",
-      "pubDate": "Sat, 13 Jun 2026 14:17:11 GMT"
-    },
-    {
-      "title": "Strømsåstunnelen stengt etter trafikkulykke",
-      "link": "https://www.nrk.no/buskerud/stromsastunnelen-stengt-etter-trafikkulykke-1.17919937",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 13 Jun 2026 14:11:24 GMT"
     }
   ]
 }
