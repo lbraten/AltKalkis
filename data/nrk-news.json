@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-13T20:01:57.638Z",
+  "updatedAt": "2026-06-13T21:46:31.749Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ordfører drept i Mexico",
+      "link": "https://www.nrk.no/nyheter/ordforer-drept-i-mexico-1.17920130",
+      "category": "Mexico",
+      "pubDate": "Sat, 13 Jun 2026 20:02:55 GMT"
+    },
     {
       "title": "Politibil i trafikkulykke",
       "link": "https://www.nrk.no/stor-oslo/politibil-i-trafikkulykke-1.17920056",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nordbytunnelen-apnet-igjen-_-fortsatt-lange-koer-i-omradet-1.17920052",
       "category": "Trafikk i Norge",
       "pubDate": "Sat, 13 Jun 2026 16:07:22 GMT"
-    },
-    {
-      "title": "Bussjåfør truet med kniv",
-      "link": "https://www.nrk.no/stor-oslo/bussjafor-truet-med-kniv-1.17920055",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 13 Jun 2026 15:19:02 GMT"
     }
   ]
 }
