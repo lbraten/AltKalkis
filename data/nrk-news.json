@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-14T14:41:25.977Z",
+  "updatedAt": "2026-06-14T16:23:56.053Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump har snakket med Zelenskyj og Putin",
+      "link": "https://www.nrk.no/nyheter/trump-har-snakket-med-zelenskyj-og-putin-1.17920694",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 14 Jun 2026 16:04:33 GMT"
+    },
+    {
+      "title": "Heddaprisens ærespris til dramatiker Arne Lygre",
+      "link": "https://www.nrk.no/nyheter/heddaprisens-aerespris-til-dramatiker-arne-lygre-1.17920674",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 14 Jun 2026 15:53:07 GMT"
+    },
+    {
+      "title": "Mann mistet livet i drukningsulykke i Hvaler",
+      "link": "https://www.nrk.no/nyheter/mann-mistet-livet-i-drukningsulykke-i-hvaler-1.17920641",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 14 Jun 2026 15:29:04 GMT"
+    },
+    {
+      "title": "Trump: Søndagens angrep mot Beirut burde ikke ha skjedd",
+      "link": "https://www.nrk.no/nyheter/trump_-sondagens-angrep-mot-beirut-burde-ikke-ha-skjedd-1.17920615",
+      "category": "USA",
+      "pubDate": "Sun, 14 Jun 2026 14:49:42 GMT"
+    },
+    {
+      "title": "Vegvesenet om køkaoset: – Vi bommet",
+      "link": "https://www.nrk.no/stor-oslo/vegvesenet-om-kokaoset_-_-vi-bommet-1.17920570",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 14 Jun 2026 14:46:32 GMT"
+    },
     {
       "title": "Seks døde i helikopterkollisjon i Rio de Janeiro",
       "link": "https://www.nrk.no/nyheter/seks-dode-i-helikopterkollisjon-i-rio-de-janeiro-1.17920563",
       "category": "Brasil",
       "pubDate": "Sun, 14 Jun 2026 14:13:13 GMT"
-    },
-    {
-      "title": "Libanon: Tre drept i israelsk angrep mot Beirut",
-      "link": "https://www.nrk.no/nyheter/libanon_-tre-drept-i-israelsk-angrep-mot-beirut-1.17920549",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 14 Jun 2026 12:38:56 GMT"
-    },
-    {
-      "title": "Australia vil endre reglar etter haiangrep",
-      "link": "https://www.nrk.no/nyheter/australia-vil-endre-reglar-etter-haiangrep-1.17920497",
-      "category": "Australia",
-      "pubDate": "Sun, 14 Jun 2026 11:05:28 GMT"
-    },
-    {
-      "title": "Israel med luftangrep mot Beirut",
-      "link": "https://www.nrk.no/nyheter/israel-med-luftangrep-mot-beirut-1.17920488",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 14 Jun 2026 10:50:54 GMT"
-    },
-    {
-      "title": "Prognose: Fleirtal for å skrote forslag om tak i Sveits",
-      "link": "https://www.nrk.no/nyheter/prognose_-fleirtal-for-a-skrote-forslag-om-tak-i-sveits-1.17920426",
-      "category": "Sveits",
-      "pubDate": "Sun, 14 Jun 2026 10:28:12 GMT"
-    },
-    {
-      "title": "Person syklet inn i autovern i Gjesdal - flydd til sykehus",
-      "link": "https://www.nrk.no/rogaland/person-syklet-inn-i-autovern-i-gjesdal---flydd-til-sykehus-1.17920351",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 14 Jun 2026 10:05:36 GMT"
     }
   ]
 }
