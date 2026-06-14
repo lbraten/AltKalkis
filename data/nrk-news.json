@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-14T12:23:37.457Z",
+  "updatedAt": "2026-06-14T14:41:25.977Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Seks døde i helikopterkollisjon i Rio de Janeiro",
+      "link": "https://www.nrk.no/nyheter/seks-dode-i-helikopterkollisjon-i-rio-de-janeiro-1.17920563",
+      "category": "Brasil",
+      "pubDate": "Sun, 14 Jun 2026 14:13:13 GMT"
+    },
+    {
+      "title": "Libanon: Tre drept i israelsk angrep mot Beirut",
+      "link": "https://www.nrk.no/nyheter/libanon_-tre-drept-i-israelsk-angrep-mot-beirut-1.17920549",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 14 Jun 2026 12:38:56 GMT"
+    },
     {
       "title": "Australia vil endre reglar etter haiangrep",
       "link": "https://www.nrk.no/nyheter/australia-vil-endre-reglar-etter-haiangrep-1.17920497",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/rogaland/person-syklet-inn-i-autovern-i-gjesdal---flydd-til-sykehus-1.17920351",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sun, 14 Jun 2026 10:05:36 GMT"
-    },
-    {
-      "title": "Søker etter den sakna med undervassdrone",
-      "link": "https://www.nrk.no/innlandet/soker-etter-den-sakna-med-undervassdrone-1.17920439",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 14 Jun 2026 09:30:40 GMT"
-    },
-    {
-      "title": "Ukraina med flere angrep mot russiske industrianlegg",
-      "link": "https://www.nrk.no/nyheter/ukraina-med-flere-angrep-mot-russiske-industrianlegg-1.17920399",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 14 Jun 2026 09:01:59 GMT"
     }
   ]
 }
