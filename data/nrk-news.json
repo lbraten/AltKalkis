@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-14T06:43:00.636Z",
+  "updatedAt": "2026-06-14T10:25:54.151Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Travel natt for Oslo-politiet – men ikke på grunn av VM",
-      "link": "https://www.nrk.no/stor-oslo/travel-natt-for-oslo-politiet-_-men-ikke-pa-grunn-av-vm-1.17920323",
+      "title": "Person syklet inn i autovern i Gjesdal - luftambulanse på stedet",
+      "link": "https://www.nrk.no/rogaland/person-syklet-inn-i-autovern-i-gjesdal---luftambulanse-pa-stedet-1.17920351",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 14 Jun 2026 10:05:36 GMT"
+    },
+    {
+      "title": "Søker etter den sakna med undervassdrone",
+      "link": "https://www.nrk.no/innlandet/soker-etter-den-sakna-med-undervassdrone-1.17920439",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sun, 14 Jun 2026 09:30:40 GMT"
+    },
+    {
+      "title": "Ukraina med flere angrep mot russiske industrianlegg",
+      "link": "https://www.nrk.no/nyheter/ukraina-med-flere-angrep-mot-russiske-industrianlegg-1.17920399",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 14 Jun 2026 09:01:59 GMT"
+    },
+    {
+      "title": "Rykker ut til drukningsulykke i Østfold",
+      "link": "https://www.nrk.no/ostfold/rykker-ut-til-drukningsulykke-i-ostfold-1.17920337",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 14 Jun 2026 08:58:25 GMT"
+    },
+    {
+      "title": "Skadeverk på syv biler",
+      "link": "https://www.nrk.no/stor-oslo/skadeverk-pa-syv-biler-1.17920342",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 14 Jun 2026 06:35:58 GMT"
+      "pubDate": "Sun, 14 Jun 2026 08:09:30 GMT"
     },
     {
-      "title": "Storbritannia har stoppa tankskip i Den engelske kanalen",
-      "link": "https://www.nrk.no/nyheter/storbritannia-har-stoppa-tankskip-i-den-engelske-kanalen-1.17920332",
-      "category": "Storbritannia",
-      "pubDate": "Sun, 14 Jun 2026 06:35:18 GMT"
-    },
-    {
-      "title": "Skular må dele informasjon om elevar med valdshistorikk",
-      "link": "https://www.nrk.no/nyheter/skular-ma-dele-informasjon-om-elevar-med-valdshistorikk-1.17920277",
-      "category": "Skole",
-      "pubDate": "Sun, 14 Jun 2026 06:25:25 GMT"
-    },
-    {
-      "title": "New York Knicks tok etterlengtet NBA-tittel",
-      "link": "https://www.nrk.no/sport/new-york-knicks-tok-etterlengtet-nba-tittel-1.17920254",
-      "category": "Sportsnyheter",
-      "pubDate": "Sun, 14 Jun 2026 03:58:44 GMT"
-    },
-    {
-      "title": "Flyalarmer utløst i Jordan",
-      "link": "https://www.nrk.no/nyheter/flyalarmer-utlost-i-jordan-1.17920250",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 14 Jun 2026 02:49:21 GMT"
-    },
-    {
-      "title": "Motorsyklist til sykehus etter utforkjøring på Sunnmøre",
-      "link": "https://www.nrk.no/nyheter/motorsyklist-til-sykehus-etter-utforkjoring-pa-sunnmore-1.17920262",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 14 Jun 2026 02:35:27 GMT"
+      "title": "Ein person flogen til Haukeland etter MC-ulykke i Aurland",
+      "link": "https://www.nrk.no/vestland/ein-person-flogen-til-haukeland-etter-mc-ulykke-i-aurland-1.17920388",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 14 Jun 2026 08:06:58 GMT"
     }
   ]
 }
