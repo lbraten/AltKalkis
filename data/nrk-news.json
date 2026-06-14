@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-14T19:47:46.887Z",
+  "updatedAt": "2026-06-14T21:14:37.438Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump har snakket med Netanyahu om Iran-avtale",
+      "link": "https://www.nrk.no/nyheter/trump-har-snakket-med-netanyahu-om-iran-avtale-1.17920820",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 14 Jun 2026 20:43:16 GMT"
+    },
+    {
+      "title": "Motstridende meldinger om luftromsrestriksjoner i Iran",
+      "link": "https://www.nrk.no/nyheter/motstridende-meldinger-om-luftromsrestriksjoner-i-iran-1.17920818",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 14 Jun 2026 20:29:27 GMT"
+    },
     {
       "title": "Medier: Den amerikanske artisten Oliver Tree omkom i helikopterstyrten i Rio de Janeiro",
       "link": "https://www.nrk.no/nyheter/medier_-den-amerikanske-artisten-oliver-tree-omkom-i-helikopterstyrten-i-rio-de-janeiro-1.17920772",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/tre-hentet-uskadde-opp-av-vannet-etter-kanovelt--1.17920706",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 14 Jun 2026 16:56:42 GMT"
-    },
-    {
-      "title": "Sveits sier nei til befolkningstak",
-      "link": "https://www.nrk.no/nyheter/sveits-sier-nei-til-befolkningstak-1.17920702",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 14 Jun 2026 16:35:20 GMT"
-    },
-    {
-      "title": "Trump har snakket med Zelenskyj og Putin",
-      "link": "https://www.nrk.no/nyheter/trump-har-snakket-med-zelenskyj-og-putin-1.17920694",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 14 Jun 2026 16:04:33 GMT"
     }
   ]
 }
