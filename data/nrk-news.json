@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-13T23:07:33.561Z",
+  "updatedAt": "2026-06-14T01:54:57.049Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tommy Robinson holdt tilbake på Heathrow",
+      "link": "https://www.nrk.no/nyheter/tommy-robinson-holdt-tilbake-pa-heathrow-1.17920249",
+      "category": "Storbritannia",
+      "pubDate": "Sun, 14 Jun 2026 00:40:37 GMT"
+    },
+    {
+      "title": "Ebola-utbruddet i Kongo øker",
+      "link": "https://www.nrk.no/nyheter/ebola-utbruddet-i-kongo-oker-1.17920237",
+      "category": "Ebola",
+      "pubDate": "Sun, 14 Jun 2026 00:02:10 GMT"
+    },
     {
       "title": "Nord-Korea: Atomnedrustning er uaktuelt",
       "link": "https://www.nrk.no/nyheter/nord-korea_-atomnedrustning-er-uaktuelt-1.17920236",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/politibil-i-trafikkulykke-1.17920056",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 13 Jun 2026 17:03:55 GMT"
-    },
-    {
-      "title": "Trump sier Iran-avtale skal signeres i morgen",
-      "link": "https://www.nrk.no/nyheter/trump-sier-iran-avtale-skal-signeres-i-morgen-1.17920111",
-      "category": "Iran",
-      "pubDate": "Sat, 13 Jun 2026 16:58:03 GMT"
-    },
-    {
-      "title": "Reuters: Trump kan møte Zelenskyj under G7",
-      "link": "https://www.nrk.no/nyheter/reuters_-trump-kan-mote-zelenskyj-under-g7-1.17920093",
-      "category": "USA",
-      "pubDate": "Sat, 13 Jun 2026 16:30:18 GMT"
     }
   ]
 }
