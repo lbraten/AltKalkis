@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-14T17:57:10.162Z",
+  "updatedAt": "2026-06-14T19:47:46.887Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Medier: Den amerikanske artisten Oliver Tree omkom i helikopterstyrten i Rio de Janeiro",
+      "link": "https://www.nrk.no/nyheter/medier_-den-amerikanske-artisten-oliver-tree-omkom-i-helikopterstyrten-i-rio-de-janeiro-1.17920772",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 14 Jun 2026 18:23:58 GMT"
+    },
+    {
+      "title": "Tolv trolig døde etter flystyrt i Missouri",
+      "link": "https://www.nrk.no/nyheter/tolv-trolig-dode-etter-flystyrt-i-missouri-1.17920722",
+      "category": "USA",
+      "pubDate": "Sun, 14 Jun 2026 17:59:48 GMT"
+    },
     {
       "title": "Brann i Bergen sentrum",
       "link": "https://www.nrk.no/vestland/brann-i-bergen-sentrum-1.17920742",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-har-snakket-med-zelenskyj-og-putin-1.17920694",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 14 Jun 2026 16:04:33 GMT"
-    },
-    {
-      "title": "Heddaprisens ærespris til dramatiker Arne Lygre",
-      "link": "https://www.nrk.no/nyheter/heddaprisens-aerespris-til-dramatiker-arne-lygre-1.17920674",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 14 Jun 2026 15:53:07 GMT"
-    },
-    {
-      "title": "Mann mistet livet i drukningsulykke i Hvaler",
-      "link": "https://www.nrk.no/nyheter/mann-mistet-livet-i-drukningsulykke-i-hvaler-1.17920641",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 14 Jun 2026 15:29:04 GMT"
     }
   ]
 }
