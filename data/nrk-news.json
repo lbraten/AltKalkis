@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-06-14T10:25:54.151Z",
+  "updatedAt": "2026-06-14T12:23:37.457Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Person syklet inn i autovern i Gjesdal - luftambulanse på stedet",
-      "link": "https://www.nrk.no/rogaland/person-syklet-inn-i-autovern-i-gjesdal---luftambulanse-pa-stedet-1.17920351",
+      "title": "Australia vil endre reglar etter haiangrep",
+      "link": "https://www.nrk.no/nyheter/australia-vil-endre-reglar-etter-haiangrep-1.17920497",
+      "category": "Australia",
+      "pubDate": "Sun, 14 Jun 2026 11:05:28 GMT"
+    },
+    {
+      "title": "Israel med luftangrep mot Beirut",
+      "link": "https://www.nrk.no/nyheter/israel-med-luftangrep-mot-beirut-1.17920488",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 14 Jun 2026 10:50:54 GMT"
+    },
+    {
+      "title": "Prognose: Fleirtal for å skrote forslag om tak i Sveits",
+      "link": "https://www.nrk.no/nyheter/prognose_-fleirtal-for-a-skrote-forslag-om-tak-i-sveits-1.17920426",
+      "category": "Sveits",
+      "pubDate": "Sun, 14 Jun 2026 10:28:12 GMT"
+    },
+    {
+      "title": "Person syklet inn i autovern i Gjesdal - flydd til sykehus",
+      "link": "https://www.nrk.no/rogaland/person-syklet-inn-i-autovern-i-gjesdal---flydd-til-sykehus-1.17920351",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sun, 14 Jun 2026 10:05:36 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina-med-flere-angrep-mot-russiske-industrianlegg-1.17920399",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 14 Jun 2026 09:01:59 GMT"
-    },
-    {
-      "title": "Rykker ut til drukningsulykke i Østfold",
-      "link": "https://www.nrk.no/ostfold/rykker-ut-til-drukningsulykke-i-ostfold-1.17920337",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 14 Jun 2026 08:58:25 GMT"
-    },
-    {
-      "title": "Skadeverk på syv biler",
-      "link": "https://www.nrk.no/stor-oslo/skadeverk-pa-syv-biler-1.17920342",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 14 Jun 2026 08:09:30 GMT"
-    },
-    {
-      "title": "Ein person flogen til Haukeland etter MC-ulykke i Aurland",
-      "link": "https://www.nrk.no/vestland/ein-person-flogen-til-haukeland-etter-mc-ulykke-i-aurland-1.17920388",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 14 Jun 2026 08:06:58 GMT"
     }
   ]
 }
