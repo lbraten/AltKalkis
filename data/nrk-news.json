@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-06-15T20:56:59.147Z",
+  "updatedAt": "2026-06-15T23:05:42.887Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "B-52-fly styrtet etter avgang i USA",
-      "link": "https://www.nrk.no/nyheter/b-52-fly-styrtet-etter-avgang-i-usa-1.17922242",
-      "category": "NRK Nyheter",
+      "title": "Vance: Atominspektører skal tilbake til Iran",
+      "link": "https://www.nrk.no/nyheter/vance_-atominspektorer-skal-tilbake-til-iran-1.17922313",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 15 Jun 2026 22:58:49 GMT"
+    },
+    {
+      "title": "18 demonstranter henrettet i Iran",
+      "link": "https://www.nrk.no/nyheter/18-demonstranter-henrettet-i-iran-1.17922307",
+      "category": "Iran",
+      "pubDate": "Mon, 15 Jun 2026 21:51:48 GMT"
+    },
+    {
+      "title": "Hizbollah-angrep mot israelske styrker i Libanon",
+      "link": "https://www.nrk.no/nyheter/hizbollah-angrep-mot-israelske-styrker-i-libanon-1.17922306",
+      "category": "Libanon og Israel",
+      "pubDate": "Mon, 15 Jun 2026 21:16:49 GMT"
+    },
+    {
+      "title": "Åtte fryktes omkommet etter at B-52-fly styrtet i USA",
+      "link": "https://www.nrk.no/nyheter/atte-fryktes-omkommet-etter-at-b-52-fly-styrtet-i-usa-1.17922242",
+      "category": "high",
       "pubDate": "Mon, 15 Jun 2026 19:17:17 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj-vil-mote-putin-i-usa-1.17922229",
       "category": "Krigen i Ukraina",
       "pubDate": "Mon, 15 Jun 2026 19:07:56 GMT"
-    },
-    {
-      "title": "Netanyahu: Israelske styrker blir i Libanon, Syria og Gaza «så lenge det er nødvendig»",
-      "link": "https://www.nrk.no/nyheter/netanyahu_-israelske-styrker-blir-i-libanon_-syria-og-gaza-_sa-lenge-det-er-nodvendig_-1.17922228",
-      "category": "Israel",
-      "pubDate": "Mon, 15 Jun 2026 18:51:54 GMT"
-    },
-    {
-      "title": "California-guvernør Gavin Newsom sier Trump har instruert justisdepartementet til å etterforske ham",
-      "link": "https://www.nrk.no/nyheter/california-guvernor-gavin-newsom-sier-trump-har-instruert-justisdepartementet-til-a-etterforske-ham-1.17922199",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 15 Jun 2026 18:28:31 GMT"
-    },
-    {
-      "title": "Grunnlovsendring i Ungarn – Orban kan ikke bli statsminister igjen",
-      "link": "https://www.nrk.no/nyheter/grunnlovsendring-i-ungarn-_-orban-kan-ikke-bli-statsminister-igjen-1.17922197",
-      "category": "Ungarn",
-      "pubDate": "Mon, 15 Jun 2026 18:02:26 GMT"
     }
   ]
 }
