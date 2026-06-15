@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-14T22:41:47.286Z",
+  "updatedAt": "2026-06-15T00:13:06.547Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fem drept i angrep mot Kharkiv",
+      "link": "https://www.nrk.no/nyheter/fem-drept-i-angrep-mot-kharkiv-1.17920859",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 15 Jun 2026 00:03:16 GMT"
+    },
+    {
+      "title": "Oljeprisen raser etter Iran-avtale",
+      "link": "https://www.nrk.no/nyheter/oljeprisen-raser-etter-iran-avtale-1.17920857",
+      "category": "Oljeprisen",
+      "pubDate": "Sun, 14 Jun 2026 23:48:41 GMT"
+    },
+    {
+      "title": "Polen sender opp kampfly etter angrep på Ukraina",
+      "link": "https://www.nrk.no/nyheter/polen-sender-opp-kampfly-etter-angrep-pa-ukraina-1.17920852",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 14 Jun 2026 23:29:46 GMT"
+    },
+    {
+      "title": "Europeiske ledere: Klar til å heve sanksjoner mot Iran",
+      "link": "https://www.nrk.no/nyheter/europeiske-ledere_-klar-til-a-heve-sanksjoner-mot-iran-1.17920843",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 14 Jun 2026 23:01:32 GMT"
+    },
+    {
+      "title": "Historisk kloster i brann etter angrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/historisk-kloster-i-brann-etter-angrep-mot-kyiv-1.17920851",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 14 Jun 2026 22:57:13 GMT"
+    },
     {
       "title": "Luftangrep stanset over Kyiv - boligblokk i brann",
       "link": "https://www.nrk.no/nyheter/luftangrep-stanset-over-kyiv---boligblokk-i-brann-1.17920850",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 14 Jun 2026 22:16:32 GMT"
-    },
-    {
-      "title": "Iran: Avtalen gjelder fra fredag",
-      "link": "https://www.nrk.no/nyheter/iran_-avtalen-gjelder-fra-fredag-1.17920838",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 14 Jun 2026 22:06:59 GMT"
-    },
-    {
-      "title": "Iran bekrefter avtale med USA",
-      "link": "https://www.nrk.no/nyheter/iran-bekrefter-avtale-med-usa-1.17920834",
-      "category": "high",
-      "pubDate": "Sun, 14 Jun 2026 21:51:56 GMT"
-    },
-    {
-      "title": "Trump: Avtalen med Iran er fullført",
-      "link": "https://www.nrk.no/nyheter/trump_-avtalen-med-iran-er-fullfort-1.17920832",
-      "category": "high",
-      "pubDate": "Sun, 14 Jun 2026 21:33:33 GMT"
-    },
-    {
-      "title": "Pakistan: USA og Iran enige om avtale",
-      "link": "https://www.nrk.no/nyheter/pakistan_-usa-og-iran-enige-om-avtale-1.17920830",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 14 Jun 2026 21:17:47 GMT"
-    },
-    {
-      "title": "WSJ: Trump planlegger snarlig uttalelse om avtale med Iran",
-      "link": "https://www.nrk.no/nyheter/wsj_-trump-planlegger-snarlig-uttalelse-om-avtale-med-iran-1.17920825",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 14 Jun 2026 21:11:33 GMT"
     }
   ]
 }
