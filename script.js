@@ -218,6 +218,95 @@ document.addEventListener("DOMContentLoaded", () => {
             .trim();
     };
 
+    const estimateTextCleanerChanges = (before, after) => {
+        if (!before && !after) return 0;
+        if (!before || !after) return Math.max(before.length, after.length);
+
+        let i = 0;
+        let j = 0;
+        let changes = 0;
+        const lookahead = 12;
+
+        while (i < before.length && j < after.length) {
+            if (before[i] === after[j]) {
+                i += 1;
+                j += 1;
+                continue;
+            }
+
+            changes += 1;
+            let aligned = false;
+
+            for (let step = 1; step <= lookahead; step += 1) {
+                if (i + step < before.length && before[i + step] === after[j]) {
+                    i += step;
+                    aligned = true;
+                    break;
+                }
+                if (j + step < after.length && before[i] === after[j + step]) {
+                    j += step;
+                    aligned = true;
+                    break;
+                }
+                if (
+                    i + step < before.length
+                    && j + step < after.length
+                    && before[i + step] === after[j + step]
+                ) {
+                    i += step;
+                    j += step;
+                    aligned = true;
+                    break;
+                }
+            }
+
+            if (!aligned) {
+                i += 1;
+                j += 1;
+            }
+        }
+
+        changes += (before.length - i) + (after.length - j);
+        return changes;
+    };
+
+    const countTextCleanerChanges = (before, after) => {
+        if (before === after) return 0;
+
+        // Guard against quadratic work on very large input.
+        const maxExactLength = 3500;
+        if (before.length > maxExactLength || after.length > maxExactLength) {
+            return estimateTextCleanerChanges(before, after);
+        }
+
+        const previous = new Array(after.length + 1);
+        const current = new Array(after.length + 1);
+
+        for (let j = 0; j <= after.length; j += 1) {
+            previous[j] = j;
+        }
+
+        for (let i = 1; i <= before.length; i += 1) {
+            current[0] = i;
+            const beforeChar = before[i - 1];
+
+            for (let j = 1; j <= after.length; j += 1) {
+                const substitutionCost = beforeChar === after[j - 1] ? 0 : 1;
+                const deletion = previous[j] + 1;
+                const insertion = current[j - 1] + 1;
+                const substitution = previous[j - 1] + substitutionCost;
+
+                current[j] = Math.min(deletion, insertion, substitution);
+            }
+
+            for (let j = 0; j <= after.length; j += 1) {
+                previous[j] = current[j];
+            }
+        }
+
+        return previous[after.length];
+    };
+
     const copyCleanerOutput = async () => {
         if (!textCleanerOutput || !textCleanerStatus) return;
         const value = textCleanerOutput.value;
@@ -249,10 +338,12 @@ document.addEventListener("DOMContentLoaded", () => {
         const strictMode = Boolean(textCleanerStrictToggle?.checked);
         const baseCleaned = normalizeCleanText(rawCleanerText);
         const cleaned = strictMode ? applyStrictMode(baseCleaned) : baseCleaned;
+        const cleanedCount = countTextCleanerChanges(rawCleanerText, cleaned);
+        const cleanedText = `${cleanedCount.toLocaleString("nb-NO")} tegn renset`;
         textCleanerOutput.value = cleaned;
         textCleanerStatus.innerText = cleaned
-            ? `Tekst renset automatisk${strictMode ? " (streng modus)" : ""}.`
-            : "Ingen tekst igjen etter rensing.";
+            ? `Tekst renset automatisk${strictMode ? " (streng modus)" : ""}. ${cleanedText}.`
+            : `Ingen tekst igjen etter rensing. ${cleanedText}.`;
     };
 
     if (textCleanerInput) {
