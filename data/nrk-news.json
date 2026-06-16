@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-15T23:05:42.887Z",
+  "updatedAt": "2026-06-16T02:08:04.210Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Vance: Trump kan offentliggjøre Iran-avtalen før fredag",
+      "link": "https://www.nrk.no/nyheter/vance_-trump-kan-offentliggjore-iran-avtalen-for-fredag-1.17922343",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 16 Jun 2026 01:22:18 GMT"
+    },
+    {
+      "title": "Oljelager i brann i Russland",
+      "link": "https://www.nrk.no/nyheter/oljelager-i-brann-i-russland-1.17922340",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 16 Jun 2026 00:46:36 GMT"
+    },
+    {
+      "title": "Putin-kritiker skutt og drept i Polen",
+      "link": "https://www.nrk.no/nyheter/putin-kritiker-skutt-og-drept-i-polen-1.17922331",
+      "category": "Polen",
+      "pubDate": "Tue, 16 Jun 2026 00:23:42 GMT"
+    },
+    {
+      "title": "Nye britiske Russland-sanksjoner",
+      "link": "https://www.nrk.no/nyheter/nye-britiske-russland-sanksjoner-1.17922330",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 16 Jun 2026 00:02:52 GMT"
+    },
+    {
+      "title": "Stadig flere nordmenn unngår nyheter",
+      "link": "https://www.nrk.no/nyheter/stadig-flere-nordmenn-unngar-nyheter-1.17922324",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 15 Jun 2026 23:37:01 GMT"
+    },
     {
       "title": "Vance: Atominspektører skal tilbake til Iran",
       "link": "https://www.nrk.no/nyheter/vance_-atominspektorer-skal-tilbake-til-iran-1.17922313",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 15 Jun 2026 22:58:49 GMT"
-    },
-    {
-      "title": "18 demonstranter henrettet i Iran",
-      "link": "https://www.nrk.no/nyheter/18-demonstranter-henrettet-i-iran-1.17922307",
-      "category": "Iran",
-      "pubDate": "Mon, 15 Jun 2026 21:51:48 GMT"
-    },
-    {
-      "title": "Hizbollah-angrep mot israelske styrker i Libanon",
-      "link": "https://www.nrk.no/nyheter/hizbollah-angrep-mot-israelske-styrker-i-libanon-1.17922306",
-      "category": "Libanon og Israel",
-      "pubDate": "Mon, 15 Jun 2026 21:16:49 GMT"
-    },
-    {
-      "title": "Åtte fryktes omkommet etter at B-52-fly styrtet i USA",
-      "link": "https://www.nrk.no/nyheter/atte-fryktes-omkommet-etter-at-b-52-fly-styrtet-i-usa-1.17922242",
-      "category": "high",
-      "pubDate": "Mon, 15 Jun 2026 19:17:17 GMT"
-    },
-    {
-      "title": "Utset teaterstykke om kongefamilien",
-      "link": "https://www.nrk.no/vestland/utset-teaterstykke-om-kongefamilien-1.17922218",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 15 Jun 2026 19:10:26 GMT"
-    },
-    {
-      "title": "Zelenskyj vil møte Putin i USA",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-vil-mote-putin-i-usa-1.17922229",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 15 Jun 2026 19:07:56 GMT"
     }
   ]
 }
