@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-16T02:08:04.210Z",
+  "updatedAt": "2026-06-16T08:27:00.211Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Vance: Trump kan offentliggjøre Iran-avtalen før fredag",
-      "link": "https://www.nrk.no/nyheter/vance_-trump-kan-offentliggjore-iran-avtalen-for-fredag-1.17922343",
+      "title": "Kommunene skal øve på krig: Alle regioner får egne scenarioer",
+      "link": "https://www.nrk.no/nyheter/kommunene-skal-ove-pa-krig_-alle-regioner-far-egne-scenarioer-1.17922624",
+      "category": "Sikkerhet og beredskap i Norge",
+      "pubDate": "Tue, 16 Jun 2026 08:20:39 GMT"
+    },
+    {
+      "title": "Iran: Forhandlinger om endelig USA-avtale starter trolig fredag",
+      "link": "https://www.nrk.no/nyheter/iran_-forhandlinger-om-endelig-usa-avtale-starter-trolig-fredag-1.17922607",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 16 Jun 2026 01:22:18 GMT"
+      "pubDate": "Tue, 16 Jun 2026 07:33:22 GMT"
     },
     {
-      "title": "Oljelager i brann i Russland",
-      "link": "https://www.nrk.no/nyheter/oljelager-i-brann-i-russland-1.17922340",
+      "title": "Zelenskiy: Traff oljeraffineri i Moskva",
+      "link": "https://www.nrk.no/nyheter/zelenskiy_-traff-oljeraffineri-i-moskva-1.17922590",
       "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 16 Jun 2026 00:46:36 GMT"
+      "pubDate": "Tue, 16 Jun 2026 07:20:57 GMT"
     },
     {
-      "title": "Putin-kritiker skutt og drept i Polen",
-      "link": "https://www.nrk.no/nyheter/putin-kritiker-skutt-og-drept-i-polen-1.17922331",
-      "category": "Polen",
-      "pubDate": "Tue, 16 Jun 2026 00:23:42 GMT"
-    },
-    {
-      "title": "Nye britiske Russland-sanksjoner",
-      "link": "https://www.nrk.no/nyheter/nye-britiske-russland-sanksjoner-1.17922330",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 16 Jun 2026 00:02:52 GMT"
-    },
-    {
-      "title": "Stadig flere nordmenn unngår nyheter",
-      "link": "https://www.nrk.no/nyheter/stadig-flere-nordmenn-unngar-nyheter-1.17922324",
+      "title": "Feil hos DNB viste minus på konto for flere kunder",
+      "link": "https://www.nrk.no/nyheter/feil-hos-dnb-viste-minus-pa-konto-for-flere-kunder-1.17922517",
       "category": "NRK Nyheter",
-      "pubDate": "Mon, 15 Jun 2026 23:37:01 GMT"
+      "pubDate": "Tue, 16 Jun 2026 07:08:00 GMT"
     },
     {
-      "title": "Vance: Atominspektører skal tilbake til Iran",
-      "link": "https://www.nrk.no/nyheter/vance_-atominspektorer-skal-tilbake-til-iran-1.17922313",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 15 Jun 2026 22:58:49 GMT"
+      "title": "Kunnskapsministeren åpner for senere skolestart etter VM-kamp",
+      "link": "https://www.nrk.no/nyheter/kunnskapsministeren-apner-for-senere-skolestart-etter-vm-kamp-1.17922567",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 16 Jun 2026 07:04:37 GMT"
+    },
+    {
+      "title": "Stanset russebuss: Russ hang ut av dørene",
+      "link": "https://www.nrk.no/stor-oslo/stanset-russebuss_-russ-hang-ut-av-dorene-1.17922478",
+      "category": "Russen i Oslo og Akershus",
+      "pubDate": "Tue, 16 Jun 2026 06:43:50 GMT"
     }
   ]
 }
