@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-16T18:16:08.840Z",
+  "updatedAt": "2026-06-16T21:25:37.326Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Israel tar kontroll over hellig sted på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/israel-tar-kontroll-over-hellig-sted-pa-vestbredden-1.17923792",
+      "category": "Vestbredden",
+      "pubDate": "Tue, 16 Jun 2026 20:29:15 GMT"
+    },
+    {
+      "title": "Tusenvis på fotballfest på Ullevål",
+      "link": "https://www.nrk.no/nyheter/tusenvis-pa-fotballfest-pa-ulleval-1.17924026",
+      "category": "VM-folkefesten 2026",
+      "pubDate": "Tue, 16 Jun 2026 20:03:00 GMT"
+    },
+    {
+      "title": "Iran truer med gjengjeldelse etter israelsk angrep mot Libanon",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-gjengjeldelse-etter-israelsk-angrep-mot-libanon-1.17923937",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 16 Jun 2026 19:04:34 GMT"
+    },
+    {
       "title": "Russland bekrefter å ha skutt varselskudd mot fritidsbåt",
       "link": "https://www.nrk.no/nyheter/russland-bekrefter-a-ha-skutt-varselskudd-mot-fritidsbat-1.17923679",
-      "category": "NRK Nyheter",
+      "category": "Russland",
       "pubDate": "Tue, 16 Jun 2026 18:13:59 GMT"
     },
     {
-      "title": "Sirkusartist har falt ned fra en trapes",
-      "link": "https://www.nrk.no/trondelag/sirkusartist-har-falt-ned-fra-en-trapes-1.17923708",
+      "title": "FBI: Avverget planlagt angrep mot Trump-arrangement",
+      "link": "https://www.nrk.no/nyheter/fbi_-avverget-planlagt-angrep-mot-trump-arrangement-1.17923863",
+      "category": "Donald Trump",
+      "pubDate": "Tue, 16 Jun 2026 17:45:32 GMT"
+    },
+    {
+      "title": "Sirkusartist falt ned fra en trapes",
+      "link": "https://www.nrk.no/trondelag/sirkusartist-falt-ned-fra-en-trapes-1.17923708",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Tue, 16 Jun 2026 17:02:04 GMT"
-    },
-    {
-      "title": "Har rykket ut til ulykke i Kongsvinger",
-      "link": "https://www.nrk.no/innlandet/har-rykket-ut-til-ulykke-i-kongsvinger-1.17923502",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Tue, 16 Jun 2026 16:21:18 GMT"
-    },
-    {
-      "title": "Stortinget sier ja til at Ingrid Alexandra kan lede statsråd",
-      "link": "https://www.nrk.no/nyheter/stortinget-sier-ja-til-at-ingrid-alexandra-kan-lede-statsrad-1.17923727",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 16 Jun 2026 16:20:42 GMT"
-    },
-    {
-      "title": "Russisk marinefartøy skal ha avfyrt varselskudd mot fritidsbåt i Den engelske kanal",
-      "link": "https://www.nrk.no/nyheter/russisk-marinefartoy-skal-ha-avfyrt-varselskudd-mot-fritidsbat-i-den-engelske-kanal-1.17923392",
-      "category": "Storbritannia",
-      "pubDate": "Tue, 16 Jun 2026 15:20:57 GMT"
-    },
-    {
-      "title": "Fire drept i nye droneangrep mot Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/fire-drept-i-nye-droneangrep-mot-sor-libanon-1.17923711",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 16 Jun 2026 15:13:40 GMT"
     }
   ]
 }
