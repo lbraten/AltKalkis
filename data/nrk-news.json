@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-17T18:41:45.521Z",
+  "updatedAt": "2026-06-17T21:09:09.974Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iranske medier: Iran gjentar at de ikke vil produsere eller anskaffe atomvåpen.",
+      "link": "https://www.nrk.no/nyheter/iranske-medier_-iran-gjentar-at-de-ikke-vil-produsere-eller-anskaffe-atomvapen.-1.17925772",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 17 Jun 2026 19:14:44 GMT"
+    },
+    {
+      "title": "«The Ring»-stjerne død",
+      "link": "https://www.nrk.no/nyheter/_the-ring_-stjerne-dod-1.17925731",
+      "category": "Kjendiser og underholdning",
+      "pubDate": "Wed, 17 Jun 2026 18:47:35 GMT"
+    },
     {
       "title": "USAs sentralbank holder renta uendret",
       "link": "https://www.nrk.no/nyheter/usas-sentralbank-holder-renta-uendret-1.17925663",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/brann-i-gjenvinningsstasjon-1.17925278",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Wed, 17 Jun 2026 16:59:34 GMT"
-    },
-    {
-      "title": "Trump: –Iran-avtale vil bli signert torsdag eller fredag",
-      "link": "https://www.nrk.no/nyheter/trump_-_iran-avtale-vil-bli-signert-torsdag-eller-fredag-1.17925644",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 17 Jun 2026 16:42:28 GMT"
-    },
-    {
-      "title": "OpenAI-sjefen ber G7-ledere om å regulere KI: – Ikke stol blindt på oss",
-      "link": "https://www.nrk.no/nyheter/openai-sjefen-ber-g7-ledere-om-a-regulere-ki_-_-ikke-stol-blindt-pa-oss-1.17925553",
-      "category": "Kunstig intelligens",
-      "pubDate": "Wed, 17 Jun 2026 16:37:40 GMT"
     }
   ]
 }
