@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-17T21:09:09.974Z",
+  "updatedAt": "2026-06-17T22:58:16.949Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tre personer skadet etter kollisjon med mopedbil",
+      "link": "https://www.nrk.no/nyheter/tre-personer-skadet-etter-kollisjon-med-mopedbil-1.17925913",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 17 Jun 2026 22:55:39 GMT"
+    },
+    {
+      "title": "Rakettangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/rakettangrep-mot-kyiv--1.17925895",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 17 Jun 2026 22:50:50 GMT"
+    },
+    {
+      "title": "Axios: USA og Iran har elektronisk signert en intensjonsavtale",
+      "link": "https://www.nrk.no/nyheter/axios_-usa-og-iran-har-elektronisk-signert-en-intensjonsavtale-1.17925890",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 17 Jun 2026 21:31:54 GMT"
+    },
+    {
+      "title": "Brann i Emirates Financial Towers i Dubai",
+      "link": "https://www.nrk.no/nyheter/brann-i-emirates-financial--towers-i-dubai-1.17925883",
+      "category": "De forente arabiske emirater",
+      "pubDate": "Wed, 17 Jun 2026 21:27:11 GMT"
+    },
     {
       "title": "Iranske medier: Iran gjentar at de ikke vil produsere eller anskaffe atomvåpen.",
       "link": "https://www.nrk.no/nyheter/iranske-medier_-iran-gjentar-at-de-ikke-vil-produsere-eller-anskaffe-atomvapen.-1.17925772",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/_the-ring_-stjerne-dod-1.17925731",
       "category": "Kjendiser og underholdning",
       "pubDate": "Wed, 17 Jun 2026 18:47:35 GMT"
-    },
-    {
-      "title": "USAs sentralbank holder renta uendret",
-      "link": "https://www.nrk.no/nyheter/usas-sentralbank-holder-renta-uendret-1.17925663",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 17 Jun 2026 18:03:51 GMT"
-    },
-    {
-      "title": "Bilsjåfør stoppa med spikarmatte etter villkøyring i Fana",
-      "link": "https://www.nrk.no/vestland/bilsjafor-stoppa-med-spikarmatte-etter-villkoyring-i-fana-1.17925727",
-      "category": "Krim og hendingar i Vestland",
-      "pubDate": "Wed, 17 Jun 2026 18:01:49 GMT"
-    },
-    {
-      "title": "Finland åpner for atomvåpen på finsk jord",
-      "link": "https://www.nrk.no/nyheter/finland-apner-for-atomvapen-pa-finsk-jord-1.17925648",
-      "category": "Atomvåpen",
-      "pubDate": "Wed, 17 Jun 2026 17:01:14 GMT"
-    },
-    {
-      "title": "Brann i gjenvinningsstasjon",
-      "link": "https://www.nrk.no/vestfoldogtelemark/brann-i-gjenvinningsstasjon-1.17925278",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 17 Jun 2026 16:59:34 GMT"
     }
   ]
 }
