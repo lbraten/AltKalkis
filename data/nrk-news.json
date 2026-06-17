@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-17T12:18:08.509Z",
+  "updatedAt": "2026-06-17T16:12:19.548Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Kronprinsen avlyser oppdrag på torsdag",
-      "link": "https://www.nrk.no/nyheter/kronprinsen-avlyser-oppdrag-pa-torsdag-1.17924976",
+      "title": "Dronning Mary hilser til Mette-Marit etter operasjon",
+      "link": "https://www.nrk.no/nyheter/dronning-mary-hilser-til-mette-marit-etter-operasjon-1.17925477",
       "category": "Mette-Marit lungetransplantert",
-      "pubDate": "Wed, 17 Jun 2026 12:09:04 GMT"
+      "pubDate": "Wed, 17 Jun 2026 15:19:11 GMT"
     },
     {
-      "title": "30.000 MC-eiere får varsler fra Vegvesenet",
-      "link": "https://www.nrk.no/nyheter/30.000-mc-eiere-far-varsler-fra-vegvesenet-1.17925028",
-      "category": "Trafikksikkerhet",
-      "pubDate": "Wed, 17 Jun 2026 11:59:13 GMT"
+      "title": "Luigi Mangione vil begjære seg utilregnelig",
+      "link": "https://www.nrk.no/nyheter/luigi-mangione-vil-begjaere-seg-utilregnelig-1.17925428",
+      "category": "USA",
+      "pubDate": "Wed, 17 Jun 2026 14:43:40 GMT"
     },
     {
-      "title": "Dataangrep mot Norsk Tjenestemannslag",
-      "link": "https://www.nrk.no/nyheter/dataangrep-mot-norsk-tjenestemannslag-1.17925083",
+      "title": "Høgsterett: Gruveløyvet i Førdefjorden er ugyldig",
+      "link": "https://www.nrk.no/vestland/hogsterett_-gruveloyvet-i-fordefjorden-er-ugyldig-1.17925440",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 17 Jun 2026 14:37:00 GMT"
+    },
+    {
+      "title": "Stadig flere barn blir til ved hjelp av donor",
+      "link": "https://www.nrk.no/nyheter/stadig-flere-barn-blir-til-ved-hjelp-av-donor-1.17925350",
+      "category": "Assistert befruktning",
+      "pubDate": "Wed, 17 Jun 2026 14:01:53 GMT"
+    },
+    {
+      "title": "Haaland-scoringer fikk Bergen til å riste – slo ut på seismometeret",
+      "link": "https://www.nrk.no/sport/haaland-scoringer-fikk-bergen-til-a-riste-_-slo-ut-pa-seismometeret-1.17925055",
+      "category": "Sportsnyheter",
+      "pubDate": "Wed, 17 Jun 2026 13:34:26 GMT"
+    },
+    {
+      "title": "Datatilsynet åpner tilsyn med Schibsted",
+      "link": "https://www.nrk.no/nyheter/datatilsynet-apner-tilsyn-med-schibsted-1.17925239",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 17 Jun 2026 11:18:38 GMT"
-    },
-    {
-      "title": "Trump: Ikke sanksjonslettelser i avtalen",
-      "link": "https://www.nrk.no/nyheter/trump_-ikke-sanksjonslettelser-i-avtalen-1.17924948",
-      "category": "Iran",
-      "pubDate": "Wed, 17 Jun 2026 11:03:03 GMT"
-    },
-    {
-      "title": "MDG-leder alvorlig kreftsyk",
-      "link": "https://www.nrk.no/nyheter/mdg-leder-alvorlig-kreftsyk-1.17924904",
-      "category": "Miljøpartiet De Grønne",
-      "pubDate": "Wed, 17 Jun 2026 10:30:25 GMT"
-    },
-    {
-      "title": "EU med ebola-støtte",
-      "link": "https://www.nrk.no/nyheter/eu-med-ebola-stotte-1.17924783",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 17 Jun 2026 10:13:03 GMT"
+      "pubDate": "Wed, 17 Jun 2026 13:05:37 GMT"
     }
   ]
 }
