@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-16T23:04:38.384Z",
+  "updatedAt": "2026-06-17T02:01:45.088Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Folkehav følger oppgjøret mellom Norge og Irak i Oslo",
-      "link": "https://www.nrk.no/nyheter/folkehav-folger-oppgjoret-mellom-norge-og-irak-i-oslo-1.17924149",
+      "title": "Norge vant åpningskampen i VM",
+      "link": "https://www.nrk.no/sport/norge-vant-apningskampen-i-vm-1.17924216",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 17 Jun 2026 01:29:38 GMT"
+    },
+    {
+      "title": "En person utsatt for vold i Tønsberg",
+      "link": "https://www.nrk.no/nyheter/en-person-utsatt-for-vold-i-tonsberg--1.17924205",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 17 Jun 2026 01:21:29 GMT"
+    },
+    {
+      "title": "Minst én person drept i russisk droneangrep i Zaporizjzja",
+      "link": "https://www.nrk.no/nyheter/minst-en_person-drept-i-russisk-droneangrep-i-zaporizjzja--1.17924200",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 17 Jun 2026 00:41:33 GMT"
+    },
+    {
+      "title": "Jubel i Oslo etter fotballseier til Norge i VM",
+      "link": "https://www.nrk.no/nyheter/jubel-i-oslo-etter-fotballseier-til-norge-i-vm-1.17924192",
       "category": "VM-folkefesten 2026",
-      "pubDate": "Tue, 16 Jun 2026 22:31:59 GMT"
+      "pubDate": "Wed, 17 Jun 2026 00:20:43 GMT"
     },
     {
-      "title": "Enighet om Asfalt- og veivedlikeholdsoverenskomsten",
-      "link": "https://www.nrk.no/nyheter/enighet-om-asfalt--og-veivedlikeholdsoverenskomsten-1.17924142",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 16 Jun 2026 22:22:34 GMT"
+      "title": "G7 øker presset på Russland og trapper opp våpenstøtten til Ukraina",
+      "link": "https://www.nrk.no/nyheter/g7-oker-presset-pa-russland-og-trapper-opp-vapenstotten-til-ukraina-1.17924185",
+      "category": "G7-landene",
+      "pubDate": "Tue, 16 Jun 2026 23:58:09 GMT"
     },
     {
-      "title": "Brudd i forhandlingene for jernbane – fare for streik etter sommeren",
-      "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-for-jernbane-_-fare-for-streik-etter-sommeren-1.17924133",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 16 Jun 2026 22:05:28 GMT"
-    },
-    {
-      "title": "God stemning i Trondheim før avspark",
-      "link": "https://www.nrk.no/trondelag/god-stemning-i-trondheim-for-avspark-1.17924134",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Tue, 16 Jun 2026 21:50:34 GMT"
-    },
-    {
-      "title": "Haaland-feber på Bryne",
-      "link": "https://www.nrk.no/nyheter/haaland-feber-pa-bryne---1.17924116",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Tue, 16 Jun 2026 21:43:27 GMT"
-    },
-    {
-      "title": "Alfie Haalands spådom: – 4–1 til Norge",
-      "link": "https://www.nrk.no/fotballvm2026/alfie-haalands-spadom_-_-4_1-til-norge-1.17924104",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Tue, 16 Jun 2026 21:13:32 GMT"
+      "title": "Drone styrtet i bakken under folkemengde i Arendal",
+      "link": "https://www.nrk.no/nyheter/drone-styrtet-i-bakken-under-folkemengde-i-arendal-1.17924180",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Tue, 16 Jun 2026 23:47:50 GMT"
     }
   ]
 }
