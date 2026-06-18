@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-18T16:35:28.758Z",
+  "updatedAt": "2026-06-18T19:30:26.913Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "USA: Israelerne må respektere fredsprosessen",
-      "link": "https://www.nrk.no/nyheter/usa_-israelerne-ma-respektere-fredsprosessen-1.17927310",
+      "title": "– Oslo-sykehus kan koste 64 milliarder",
+      "link": "https://www.nrk.no/stor-oslo/_-oslo-sykehus-kan-koste-64-milliarder-1.17927600",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 18 Jun 2026 19:17:56 GMT"
+    },
+    {
+      "title": "Over 200 døde i Ebola-utbruddet i Kongo",
+      "link": "https://www.nrk.no/nyheter/over-200-dode-i-ebola-utbruddet-i-kongo-1.17927502",
+      "category": "DR Kongo",
+      "pubDate": "Thu, 18 Jun 2026 18:37:57 GMT"
+    },
+    {
+      "title": "Paraglider-ulykke på Kjerag – alvorlige skader",
+      "link": "https://www.nrk.no/rogaland/paraglider-ulykke-pa-kjerag-_-alvorlige-skader-1.17927507",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Thu, 18 Jun 2026 18:08:17 GMT"
+    },
+    {
+      "title": "Irans leder uttaler seg om en potensiell fredsavtale med USA",
+      "link": "https://www.nrk.no/nyheter/irans-leder-uttaler-seg-om-en-potensiell-fredsavtale-med-usa-1.17927482",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 18 Jun 2026 15:56:13 GMT"
+      "pubDate": "Thu, 18 Jun 2026 18:04:03 GMT"
     },
     {
-      "title": "Alvorlig trafikkulykke i Harstad",
-      "link": "https://www.nrk.no/tromsogfinnmark/alvorlig-trafikkulykke-i-harstad--1.17927253",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 18 Jun 2026 15:41:54 GMT"
+      "title": "Norge frykter massive overgrep i Sudan: – 500.000 sivile i fare",
+      "link": "https://www.nrk.no/nyheter/norge-frykter-massive-overgrep-i-sudan_-_-500.000-sivile-i-fare-1.17927382",
+      "category": "Sudan",
+      "pubDate": "Thu, 18 Jun 2026 17:40:17 GMT"
     },
     {
-      "title": "Riksvei 7 stengt etter ulykke",
-      "link": "https://www.nrk.no/buskerud/riksvei-7-stengt-etter-ulykke-1.17927323",
-      "category": "Trafikk i Buskerud",
-      "pubDate": "Thu, 18 Jun 2026 15:28:34 GMT"
-    },
-    {
-      "title": "Strømmestiftelsen er tildelt NRK TV-aksjonen for 2027",
-      "link": "https://www.nrk.no/nyheter/strommestiftelsen-er-tildelt-nrk-tv-aksjonen-for-2027-1.17927226",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 18 Jun 2026 15:21:02 GMT"
-    },
-    {
-      "title": "Aftenposten: Norsk 19-åring må i ny rettssak i Storbritannia – juryen ble ikke enige",
-      "link": "https://www.nrk.no/nyheter/aftenposten_-norsk-19-aring-ma-i-ny-rettssak-i-storbritannia-_-juryen-ble-ikke-enige-1.17927112",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 18 Jun 2026 14:00:04 GMT"
-    },
-    {
-      "title": "Stortinget øker egen lønn",
-      "link": "https://www.nrk.no/nyheter/stortinget-oker-egen-lonn-1.17927103",
-      "category": "Stortinget",
-      "pubDate": "Thu, 18 Jun 2026 13:22:13 GMT"
+      "title": "Politiet ute på dyreoppdrag",
+      "link": "https://www.nrk.no/innlandet/politiet-ute-pa-dyreoppdrag-1.17927309",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Thu, 18 Jun 2026 16:54:29 GMT"
     }
   ]
 }
