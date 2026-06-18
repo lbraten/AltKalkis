@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-18T09:54:10.873Z",
+  "updatedAt": "2026-06-18T12:55:32.408Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Psykolog dømt for overgrep mot datter gjennom syv år",
+      "link": "https://www.nrk.no/nyheter/psykolog-domt-for-overgrep-mot-datter-gjennom-syv-ar-1.17926849",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 18 Jun 2026 12:00:04 GMT"
+    },
+    {
+      "title": "Tono gjør endringer etter krisemøte",
+      "link": "https://www.nrk.no/nyheter/tono-gjor-endringer-etter-krisemote-1.17926638",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 18 Jun 2026 11:03:53 GMT"
+    },
+    {
+      "title": "Nora Haukland: klar for ankebehandling etter Høiby-dommen",
+      "link": "https://www.nrk.no/nyheter/nora-haukland_-klar-for-ankebehandling-etter-hoiby-dommen-1.17926588",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Thu, 18 Jun 2026 10:42:19 GMT"
+    },
+    {
+      "title": "Israel: trekker seg ikke ut av okkuperte områder i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel_-trekker-seg-ikke-ut-av-okkuperte-omrader-i-libanon-1.17926531",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 18 Jun 2026 10:21:06 GMT"
+    },
     {
       "title": "Tono-styret har kalt inn til ekstraordinært krisemøte",
       "link": "https://www.nrk.no/nyheter/tono-styret-har-kalt-inn-til-ekstraordinaert-krisemote-1.17926478",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nordmann-domt-til-fengsel-i-taiwan-1.17926428",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 18 Jun 2026 09:29:36 GMT"
-    },
-    {
-      "title": "Foxtrot-topp dømt til livstid i Sverige",
-      "link": "https://www.nrk.no/nyheter/foxtrot-topp-domt-til-livstid-i-sverige-1.17926353",
-      "category": "Kriminelle gjenger",
-      "pubDate": "Thu, 18 Jun 2026 09:05:45 GMT"
-    },
-    {
-      "title": "Israel kutter all kontakt med EUs utenrikssjef",
-      "link": "https://www.nrk.no/nyheter/israel-kutter-all-kontakt-med-eus-utenrikssjef-1.17926282",
-      "category": "Israel",
-      "pubDate": "Thu, 18 Jun 2026 08:40:15 GMT"
-    },
-    {
-      "title": "Mann pågrepet etter grovt tyveri fra Elkjøp-butikk",
-      "link": "https://www.nrk.no/stor-oslo/mann-pagrepet-etter-grovt-tyveri-fra-elkjop-butikk-1.17926081",
-      "category": "Oslo politidistrikt",
-      "pubDate": "Thu, 18 Jun 2026 08:13:38 GMT"
-    },
-    {
-      "title": "Morten Wold (Frp) dømt til fengsel",
-      "link": "https://www.nrk.no/nyheter/morten-wold-_frp_-domt-til-fengsel-1.17926274",
-      "category": "high",
-      "pubDate": "Thu, 18 Jun 2026 08:05:03 GMT"
     }
   ]
 }
