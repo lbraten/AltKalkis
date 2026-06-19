@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-19T19:02:06.996Z",
+  "updatedAt": "2026-06-19T20:51:17.656Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Én person omkom i en togkollisjon i Storbritannia",
+      "link": "https://www.nrk.no/nyheter/en-person-omkom-i-en-togkollisjon-i-storbritannia-1.17929148",
+      "category": "Storbritannia",
+      "pubDate": "Fri, 19 Jun 2026 20:28:49 GMT"
+    },
+    {
+      "title": "Trump sier han vil reise til Kina igjen",
+      "link": "https://www.nrk.no/nyheter/trump-sier-han-vil-reise-til-kina-igjen-1.17929145",
+      "category": "USA",
+      "pubDate": "Fri, 19 Jun 2026 20:27:10 GMT"
+    },
+    {
+      "title": "Volvo tilbakekaller over 2000 biler i Norge",
+      "link": "https://www.nrk.no/nyheter/volvo-tilbakekaller-over-2000-biler-i-norge-1.17929102",
+      "category": "Bilbransjen",
+      "pubDate": "Fri, 19 Jun 2026 19:30:37 GMT"
+    },
+    {
+      "title": "Departementet snur: Ingen pause i hyttebygging i Bykle",
+      "link": "https://www.nrk.no/sorlandet/departementet-snur_-ingen-pause-i-hyttebygging-i-bykle-1.17928762",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 19 Jun 2026 19:22:25 GMT"
+    },
     {
       "title": "Hormuzstredet: Største trafikk på to måneder",
       "link": "https://www.nrk.no/nyheter/hormuzstredet_-storste-trafikk-pa-to-maneder-1.17929048",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/the-telegraph_-tog-kollidert-naer-bedford-i-england-1.17929020",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 19 Jun 2026 17:36:57 GMT"
-    },
-    {
-      "title": "Etterretningslegende Trond Johansen (102) er død: – Hedersmann",
-      "link": "https://www.nrk.no/nyheter/etterretningslegende-trond-johansen-_102_-er-dod_-_-hedersmann-1.17928907",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 19 Jun 2026 17:09:16 GMT"
-    },
-    {
-      "title": "VG: Politiet har oppretta sak mot lege",
-      "link": "https://www.nrk.no/mr/vg_-politiet-har-oppretta-sak-mot-lege--1.17928768",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Fri, 19 Jun 2026 16:21:49 GMT"
-    },
-    {
-      "title": "Anker dom etter drap på åpen gate",
-      "link": "https://www.nrk.no/nyheter/anker-dom-etter-drap-pa-apen-gate-1.17928866",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 19 Jun 2026 15:45:28 GMT"
-    },
-    {
-      "title": "Unngikk streik for flytankere",
-      "link": "https://www.nrk.no/nyheter/unngikk-streik-for-flytankere-1.17928857",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 19 Jun 2026 15:15:08 GMT"
     }
   ]
 }
