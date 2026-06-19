@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-06-19T16:58:02.221Z",
+  "updatedAt": "2026-06-19T19:02:06.996Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Politiet har oppretta sak mot lege",
-      "link": "https://www.nrk.no/mr/politiet-har-oppretta-sak-mot-lege--1.17928768",
+      "title": "Hormuzstredet: Største trafikk på to måneder",
+      "link": "https://www.nrk.no/nyheter/hormuzstredet_-storste-trafikk-pa-to-maneder-1.17929048",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 19 Jun 2026 18:43:40 GMT"
+    },
+    {
+      "title": "The Telegraph: Tog kollidert nær Bedford i England",
+      "link": "https://www.nrk.no/nyheter/the-telegraph_-tog-kollidert-naer-bedford-i-england-1.17929020",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 19 Jun 2026 17:36:57 GMT"
+    },
+    {
+      "title": "Etterretningslegende Trond Johansen (102) er død: – Hedersmann",
+      "link": "https://www.nrk.no/nyheter/etterretningslegende-trond-johansen-_102_-er-dod_-_-hedersmann-1.17928907",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 19 Jun 2026 17:09:16 GMT"
+    },
+    {
+      "title": "VG: Politiet har oppretta sak mot lege",
+      "link": "https://www.nrk.no/mr/vg_-politiet-har-oppretta-sak-mot-lege--1.17928768",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Fri, 19 Jun 2026 16:21:49 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/unngikk-streik-for-flytankere-1.17928857",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 19 Jun 2026 15:15:08 GMT"
-    },
-    {
-      "title": "Angrep mot Sør-Libanon tross erklæring om våpenhvile",
-      "link": "https://www.nrk.no/nyheter/angrep-mot-sor-libanon-tross-erklaering-om-vapenhvile-1.17928853",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 19 Jun 2026 15:03:10 GMT"
-    },
-    {
-      "title": "Israel og Hizbollah enige om våpenhvile",
-      "link": "https://www.nrk.no/nyheter/israel-og-hizbollah-enige-om-vapenhvile-1.17928655",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 19 Jun 2026 13:29:35 GMT"
-    },
-    {
-      "title": "Eide reagerer på uttalelse fra israelsk minister",
-      "link": "https://www.nrk.no/nyheter/eide-reagerer-pa-uttalelse-fra-israelsk-minister-1.17928605",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 19 Jun 2026 12:45:51 GMT"
     }
   ]
 }
