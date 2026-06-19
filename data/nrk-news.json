@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-18T22:10:55.002Z",
+  "updatedAt": "2026-06-19T00:09:04.014Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EU vil ha diplomatisk kanal til Russland",
+      "link": "https://www.nrk.no/nyheter/eu-vil-ha-diplomatisk-kanal-til-russland-1.17927740",
+      "category": "Russland og EU",
+      "pubDate": "Thu, 18 Jun 2026 23:42:46 GMT"
+    },
+    {
+      "title": "MC-fører kjørte på hjort",
+      "link": "https://www.nrk.no/nyheter/mc-forer-kjorte-pa-hjort-1.17927738",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 18 Jun 2026 23:23:15 GMT"
+    },
+    {
+      "title": "Ukraina ønsker Russland til forhandlingsbordet før vinteren",
+      "link": "https://www.nrk.no/nyheter/ukraina-onsker-russland-til-forhandlingsbordet-for-vinteren-1.17927732",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 18 Jun 2026 23:11:08 GMT"
+    },
+    {
+      "title": "Mekling på overtid for grossistbransjen",
+      "link": "https://www.nrk.no/nyheter/mekling-pa-overtid-for-grossistbransjen-1.17927731",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Thu, 18 Jun 2026 22:20:38 GMT"
+    },
+    {
+      "title": "Ukraina og Russland har utvekslet falne soldater",
+      "link": "https://www.nrk.no/nyheter/ukraina-og-russland-har-utvekslet-falne-soldater-1.17927727",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 18 Jun 2026 22:12:06 GMT"
+    },
     {
       "title": "Fotgjenger til sykehus etter påkjørsel på Andøy",
       "link": "https://www.nrk.no/nyheter/fotgjenger-til-sykehus-etter-pakjorsel-pa-andoy-1.17927720",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Thu, 18 Jun 2026 22:04:52 GMT"
-    },
-    {
-      "title": "USA varsler gjennomgang av militærstyrkene i Europa",
-      "link": "https://www.nrk.no/nyheter/usa-varsler-gjennomgang-av-militaerstyrkene-i-europa-1.17927717",
-      "category": "Nato",
-      "pubDate": "Thu, 18 Jun 2026 21:48:13 GMT"
-    },
-    {
-      "title": "Mann pågrepet etter at treåring havnet hos krokodiller",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-at-trearing-havnet-hos-krokodiller-1.17927672",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 18 Jun 2026 21:31:44 GMT"
-    },
-    {
-      "title": "kraftig Låvebrann i Rakkestad",
-      "link": "https://www.nrk.no/ostfold/kraftig-lavebrann-i-rakkestad--1.17927450",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Thu, 18 Jun 2026 20:24:18 GMT"
-    },
-    {
-      "title": "Rykker ut til påkjørsel",
-      "link": "https://www.nrk.no/nordland/rykker-ut-til-pakjorsel-1.17927579",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Thu, 18 Jun 2026 20:18:28 GMT"
-    },
-    {
-      "title": "Mann i 70-åra døydde – funnen livlaus i sjøen i Bjørnafjorden",
-      "link": "https://www.nrk.no/vestland/mann-i-70-ara-doydde-_-funnen-livlaus-i-sjoen-i-bjornafjorden-1.17927296",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 18 Jun 2026 19:43:44 GMT"
     }
   ]
 }
