@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-06-19T20:51:17.656Z",
+  "updatedAt": "2026-06-19T22:05:06.716Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Én person omkom i en togkollisjon i Storbritannia",
-      "link": "https://www.nrk.no/nyheter/en-person-omkom-i-en-togkollisjon-i-storbritannia-1.17929148",
+      "title": "To personer skadd etter å ha blitt angrepet av en ku i Molde",
+      "link": "https://www.nrk.no/nyheter/to-personer-skadd-etter-a-ha-blitt-angrepet-av-en-ku-i-molde-1.17929158",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 19 Jun 2026 20:54:39 GMT"
+    },
+    {
+      "title": "Én person omkom i en togkollisjon i Storbritannia - flere alvorlig skadd",
+      "link": "https://www.nrk.no/nyheter/en-person-omkom-i-en-togkollisjon-i-storbritannia---flere-alvorlig-skadd-1.17929148",
       "category": "Storbritannia",
       "pubDate": "Fri, 19 Jun 2026 20:28:49 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hormuzstredet_-storste-trafikk-pa-to-maneder-1.17929048",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 19 Jun 2026 18:43:40 GMT"
-    },
-    {
-      "title": "The Telegraph: Tog kollidert nær Bedford i England",
-      "link": "https://www.nrk.no/nyheter/the-telegraph_-tog-kollidert-naer-bedford-i-england-1.17929020",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 19 Jun 2026 17:36:57 GMT"
     }
   ]
 }
