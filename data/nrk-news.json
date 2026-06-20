@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-20T16:20:31.508Z",
+  "updatedAt": "2026-06-20T17:54:02.871Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Foreldrepar fengsla for vald mot barnet sitt",
+      "link": "https://www.nrk.no/nyheter/foreldrepar-fengsla-for-vald-mot-barnet-sitt-1.17929672",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 20 Jun 2026 16:47:40 GMT"
+    },
     {
       "title": "Flere drept i russiske angrep",
       "link": "https://www.nrk.no/nyheter/flere-drept-i-russiske-angrep-1.17929642",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sender-ut-rodt-farevarsel-i-frankrike-1.17929594",
       "category": "Frankrike",
       "pubDate": "Sat, 20 Jun 2026 14:28:44 GMT"
-    },
-    {
-      "title": "Pakistan: Samtaler skjer søndag",
-      "link": "https://www.nrk.no/nyheter/pakistan_-samtaler-skjer-sondag-1.17929590",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 20 Jun 2026 14:24:17 GMT"
     }
   ]
 }
