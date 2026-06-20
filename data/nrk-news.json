@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-20T03:54:12.304Z",
+  "updatedAt": "2026-06-20T07:51:54.760Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Pakistans innenriksminister på vei til Iran for samtaler",
+      "link": "https://www.nrk.no/nyheter/pakistans-innenriksminister-pa-vei-til-iran-for-samtaler-1.17929248",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 20 Jun 2026 07:06:28 GMT"
+    },
+    {
+      "title": "Erklærer nødssituasjon i Bolivia",
+      "link": "https://www.nrk.no/nyheter/erklaerer-nodssituasjon-i-bolivia-1.17929242",
+      "category": "Bolivia",
+      "pubDate": "Sat, 20 Jun 2026 05:51:34 GMT"
+    },
+    {
+      "title": "Nyhetsbyrå: Fem drept i israelske angrep mot Libanon",
+      "link": "https://www.nrk.no/nyheter/nyhetsbyra_-fem-drept-i-israelske-angrep-mot-libanon-1.17929227",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 20 Jun 2026 05:11:53 GMT"
+    },
+    {
+      "title": "Tre drept i russiske angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/tre-drept-i-russiske-angrep-mot-ukraina-1.17929225",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 20 Jun 2026 04:12:09 GMT"
+    },
     {
       "title": "En drept i droneangrep mot skip i Svartehavet",
       "link": "https://www.nrk.no/nyheter/en-drept-i-droneangrep-mot-skip-i-svartehavet-1.17929212",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-drapstrussel-mot-costa-ricas-president-1.17929211",
       "category": "Costa Rica",
       "pubDate": "Sat, 20 Jun 2026 01:22:08 GMT"
-    },
-    {
-      "title": "Avtale i havn etter seks uker med uro i Bolivia",
-      "link": "https://www.nrk.no/nyheter/avtale-i-havn-etter-seks-uker-med-uro-i-bolivia-1.17929206",
-      "category": "Bolivia",
-      "pubDate": "Sat, 20 Jun 2026 01:16:50 GMT"
-    },
-    {
-      "title": "Båt har kjørt på en holme ved Haram",
-      "link": "https://www.nrk.no/nyheter/bat-har-kjort-pa-en-holme-ved-haram-1.17929194",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 20 Jun 2026 00:25:33 GMT"
-    },
-    {
-      "title": "Australia har påvist sitt første tilfelle av H5-fugleinfluensa",
-      "link": "https://www.nrk.no/nyheter/australia-har-pavist-sitt-forste-tilfelle-av-h5-fugleinfluensa-1.17929203",
-      "category": "Australia",
-      "pubDate": "Sat, 20 Jun 2026 00:09:38 GMT"
-    },
-    {
-      "title": "Én død og rundt 1700 turister evakuert etter brann på hotell",
-      "link": "https://www.nrk.no/nyheter/en-dod-og-rundt-1700-turister-evakuert-etter-brann-pa-hotell--1.17929191",
-      "category": "Den dominikanske republikk",
-      "pubDate": "Sat, 20 Jun 2026 00:05:26 GMT"
     }
   ]
 }
