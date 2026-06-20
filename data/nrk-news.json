@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-20T07:51:54.760Z",
+  "updatedAt": "2026-06-20T10:33:48.416Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "16 skal være drept i israelske angrep mot Libanon",
+      "link": "https://www.nrk.no/nyheter/16-skal-vaere-drept-i-israelske-angrep-mot-libanon-1.17929303",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 20 Jun 2026 09:20:39 GMT"
+    },
+    {
+      "title": "Mann død etter drukningsulykke ved Nøklevann i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/mann-dod-etter-drukningsulykke-ved-noklevann-i-oslo-1.17929319",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 20 Jun 2026 08:50:02 GMT"
+    },
+    {
+      "title": "Reddet hest i myr",
+      "link": "https://www.nrk.no/rogaland/reddet-hest-i-myr-1.17929337",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 20 Jun 2026 08:31:15 GMT"
+    },
     {
       "title": "Pakistans innenriksminister på vei til Iran for samtaler",
       "link": "https://www.nrk.no/nyheter/pakistans-innenriksminister-pa-vei-til-iran-for-samtaler-1.17929248",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nyhetsbyra_-fem-drept-i-israelske-angrep-mot-libanon-1.17929227",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 20 Jun 2026 05:11:53 GMT"
-    },
-    {
-      "title": "Tre drept i russiske angrep mot Ukraina",
-      "link": "https://www.nrk.no/nyheter/tre-drept-i-russiske-angrep-mot-ukraina-1.17929225",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 20 Jun 2026 04:12:09 GMT"
-    },
-    {
-      "title": "En drept i droneangrep mot skip i Svartehavet",
-      "link": "https://www.nrk.no/nyheter/en-drept-i-droneangrep-mot-skip-i-svartehavet-1.17929212",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 20 Jun 2026 01:42:12 GMT"
-    },
-    {
-      "title": "Mann pågrepet etter drapstrussel mot Costa Ricas president",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-drapstrussel-mot-costa-ricas-president-1.17929211",
-      "category": "Costa Rica",
-      "pubDate": "Sat, 20 Jun 2026 01:22:08 GMT"
     }
   ]
 }
