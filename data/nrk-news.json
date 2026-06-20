@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-20T14:53:22.296Z",
+  "updatedAt": "2026-06-20T16:20:31.508Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere drept i russiske angrep",
+      "link": "https://www.nrk.no/nyheter/flere-drept-i-russiske-angrep-1.17929642",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 20 Jun 2026 16:11:18 GMT"
+    },
+    {
+      "title": "Dronning Sonja om kronprinsessens operasjon: – Helt fantastisk",
+      "link": "https://www.nrk.no/sorlandet/dronning-sonja-om-kronprinsessens-operasjon_-_-helt-fantastisk-1.17929647",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 20 Jun 2026 16:00:22 GMT"
+    },
+    {
+      "title": "Nicolai Østeby ny Unge Høyre-leder",
+      "link": "https://www.nrk.no/nyheter/nicolai-osteby-ny-unge-hoyre-leder-1.17929628",
+      "category": "Partiet Høyre",
+      "pubDate": "Sat, 20 Jun 2026 15:36:04 GMT"
+    },
+    {
+      "title": "Zelenskyj sender tilbake polsk medalje",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-sender-tilbake-polsk-medalje-1.17929601",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 20 Jun 2026 15:05:48 GMT"
+    },
     {
       "title": "Sender ut rødt farevarsel i Frankrike",
       "link": "https://www.nrk.no/nyheter/sender-ut-rodt-farevarsel-i-frankrike-1.17929594",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/pakistan_-samtaler-skjer-sondag-1.17929590",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 20 Jun 2026 14:24:17 GMT"
-    },
-    {
-      "title": "41-åring dømt for drap på egen mor",
-      "link": "https://www.nrk.no/nyheter/41-aring-domt-for-drap-pa-egen-mor-1.17929538",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 20 Jun 2026 14:21:52 GMT"
-    },
-    {
-      "title": "Irans militærledelse: Stenger Hormuzstredet etter israelske angrep",
-      "link": "https://www.nrk.no/nyheter/irans-militaerledelse_-stenger-hormuzstredet-etter-israelske-angrep-1.17929534",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 20 Jun 2026 13:11:00 GMT"
-    },
-    {
-      "title": "Trøbbel hos Digidir – påvirker Norsk Helsenett",
-      "link": "https://www.nrk.no/nyheter/trobbel-hos-digidir-_-pavirker-norsk-helsenett-1.17929502",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 20 Jun 2026 13:04:41 GMT"
-    },
-    {
-      "title": "Grovt tyveri fra bedrift på Rudshøgda: Anslår én million kroner i verdier",
-      "link": "https://www.nrk.no/innlandet/grovt-tyveri-fra-bedrift-pa-rudshogda_-anslar-en-million-kroner-i-verdier-1.17929439",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sat, 20 Jun 2026 12:37:42 GMT"
     }
   ]
 }
