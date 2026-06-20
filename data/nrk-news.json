@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-20T10:33:48.416Z",
+  "updatedAt": "2026-06-20T12:26:43.075Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Møteulykke i Indre Østfold",
+      "link": "https://www.nrk.no/ostfold/moteulykke-i-indre-ostfold-1.17929348",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 20 Jun 2026 12:03:20 GMT"
+    },
+    {
+      "title": "El-sparkesykkel beslaglagt i Eidsvoll",
+      "link": "https://www.nrk.no/stor-oslo/el-sparkesykkel-beslaglagt-i-eidsvoll-1.17929345",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 20 Jun 2026 11:58:47 GMT"
+    },
+    {
+      "title": "Ni kritisk skadd etter togulykke i England fredag",
+      "link": "https://www.nrk.no/nyheter/ni-kritisk-skadd-etter-togulykke-i-england-fredag-1.17929431",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 20 Jun 2026 11:51:36 GMT"
+    },
+    {
+      "title": "W.A.S.P. avlyser på Tons of Rock – Accept stepper inn i stedet",
+      "link": "https://www.nrk.no/nyheter/w.a.s.p.-avlyser-pa-tons-of-rock-_-accept-stepper-inn-i-stedet-1.17929363",
+      "category": "Musikk",
+      "pubDate": "Sat, 20 Jun 2026 11:00:32 GMT"
+    },
     {
       "title": "16 skal være drept i israelske angrep mot Libanon",
       "link": "https://www.nrk.no/nyheter/16-skal-vaere-drept-i-israelske-angrep-mot-libanon-1.17929303",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/mann-dod-etter-drukningsulykke-ved-noklevann-i-oslo-1.17929319",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 20 Jun 2026 08:50:02 GMT"
-    },
-    {
-      "title": "Reddet hest i myr",
-      "link": "https://www.nrk.no/rogaland/reddet-hest-i-myr-1.17929337",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 20 Jun 2026 08:31:15 GMT"
-    },
-    {
-      "title": "Pakistans innenriksminister på vei til Iran for samtaler",
-      "link": "https://www.nrk.no/nyheter/pakistans-innenriksminister-pa-vei-til-iran-for-samtaler-1.17929248",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 20 Jun 2026 07:06:28 GMT"
-    },
-    {
-      "title": "Erklærer nødssituasjon i Bolivia",
-      "link": "https://www.nrk.no/nyheter/erklaerer-nodssituasjon-i-bolivia-1.17929242",
-      "category": "Bolivia",
-      "pubDate": "Sat, 20 Jun 2026 05:51:34 GMT"
-    },
-    {
-      "title": "Nyhetsbyrå: Fem drept i israelske angrep mot Libanon",
-      "link": "https://www.nrk.no/nyheter/nyhetsbyra_-fem-drept-i-israelske-angrep-mot-libanon-1.17929227",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 20 Jun 2026 05:11:53 GMT"
     }
   ]
 }
