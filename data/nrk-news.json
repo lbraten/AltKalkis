@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-20T19:39:38.208Z",
+  "updatedAt": "2026-06-20T21:19:18.426Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Vance på vei til Sveits for Iran-samtaler – iransk delegasjon har ankommet",
+      "link": "https://www.nrk.no/nyheter/vance-pa-vei-til-sveits-for-iran-samtaler-_-iransk-delegasjon-har-ankommet-1.17929848",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 20 Jun 2026 20:44:33 GMT"
+    },
+    {
+      "title": "Etterforsker voldshendelse på Youngstorget",
+      "link": "https://www.nrk.no/stor-oslo/etterforsker-voldshendelse-pa-youngstorget-1.17929835",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 20 Jun 2026 19:58:06 GMT"
+    },
     {
       "title": "FN frykter massive overgrep mot befolkning i Sudan",
       "link": "https://www.nrk.no/nyheter/fn-frykter-massive-overgrep-mot-befolkning-i-sudan-1.17929773",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/foreldrepar-fengsla-for-vald-mot-barnet-sitt-1.17929672",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 20 Jun 2026 16:47:40 GMT"
-    },
-    {
-      "title": "Flere drept i russiske angrep",
-      "link": "https://www.nrk.no/nyheter/flere-drept-i-russiske-angrep-1.17929642",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 20 Jun 2026 16:11:18 GMT"
-    },
-    {
-      "title": "Dronning Sonja om kronprinsessens operasjon: – Helt fantastisk",
-      "link": "https://www.nrk.no/sorlandet/dronning-sonja-om-kronprinsessens-operasjon_-_-helt-fantastisk-1.17929647",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 20 Jun 2026 16:00:22 GMT"
     }
   ]
 }
