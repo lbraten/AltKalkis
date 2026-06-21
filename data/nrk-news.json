@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-21T09:07:48.239Z",
+  "updatedAt": "2026-06-21T11:58:44.394Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Qatar: Iran-samtaler har startet i Sveits",
+      "link": "https://www.nrk.no/nyheter/qatar_-iran-samtaler-har-startet-i-sveits-1.17930068",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 21 Jun 2026 11:27:33 GMT"
+    },
+    {
+      "title": "Full fyr i bolig i Oslo – mulig eksplosjon",
+      "link": "https://www.nrk.no/stor-oslo/full-fyr-i-bolig-i-oslo-_-mulig-eksplosjon-1.17930133",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 21 Jun 2026 11:06:53 GMT"
+    },
+    {
+      "title": "Sakna mann i Kvam funnen død",
+      "link": "https://www.nrk.no/vestland/sakna-mann-i-kvam-funnen-dod---1.17930045",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 21 Jun 2026 09:07:37 GMT"
+    },
     {
       "title": "Alle fergeavganger mellom Bodø og Lofoten innstilt søndag og mandag",
       "link": "https://www.nrk.no/nordland/alle-fergeavganger-mellom-bodo-og-lofoten-innstilt-sondag-og-mandag-1.17930064",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/offentlige-tjenester-var-nede-_-losninger-tilgjengelig-igjen-1.17930026",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 21 Jun 2026 08:28:50 GMT"
-    },
-    {
-      "title": "Zelenskyj bekrefter angrep mot russisk oljedepot",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-angrep-mot-russisk-oljedepot-1.17929931",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 21 Jun 2026 07:46:13 GMT"
-    },
-    {
-      "title": "Pakistans statsminister har kommet til Sveits for Iran-samtaler",
-      "link": "https://www.nrk.no/nyheter/pakistans-statsminister-har-kommet-til-sveits-for-iran-samtaler-1.17929993",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 21 Jun 2026 07:06:02 GMT"
-    },
-    {
-      "title": "Bygning overtent på Tolga – mulig spredningsfare",
-      "link": "https://www.nrk.no/innlandet/bygning-overtent-pa-tolga-_-mulig-spredningsfare-1.17929967",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sun, 21 Jun 2026 06:43:03 GMT"
     }
   ]
 }
