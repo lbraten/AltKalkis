@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-21T11:58:44.394Z",
+  "updatedAt": "2026-06-21T14:28:08.102Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fredssamtalene: – Jeg tror vi får gode diskusjoner",
+      "link": "https://www.nrk.no/nyheter/fredssamtalene_-_-jeg-tror-vi-far-gode-diskusjoner-1.17930172",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 21 Jun 2026 12:48:58 GMT"
+    },
     {
       "title": "Qatar: Iran-samtaler har startet i Sveits",
       "link": "https://www.nrk.no/nyheter/qatar_-iran-samtaler-har-startet-i-sveits-1.17930068",
@@ -21,8 +27,8 @@
       "pubDate": "Sun, 21 Jun 2026 09:07:37 GMT"
     },
     {
-      "title": "Alle fergeavganger mellom Bodø og Lofoten innstilt søndag og mandag",
-      "link": "https://www.nrk.no/nordland/alle-fergeavganger-mellom-bodo-og-lofoten-innstilt-sondag-og-mandag-1.17930064",
+      "title": "Flere fergeavganger mellom Bodø og Lofoten innstilt søndag og mandag",
+      "link": "https://www.nrk.no/nordland/flere-fergeavganger-mellom-bodo-og-lofoten-innstilt-sondag-og-mandag-1.17930064",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sun, 21 Jun 2026 08:56:24 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/medier_-starmer-kan-trekke-seg-allerede-mandag-1.17930062",
       "category": "Storbritannia",
       "pubDate": "Sun, 21 Jun 2026 08:39:59 GMT"
-    },
-    {
-      "title": "Offentlige tjenester var nede – løsninger tilgjengelig igjen",
-      "link": "https://www.nrk.no/nyheter/offentlige-tjenester-var-nede-_-losninger-tilgjengelig-igjen-1.17930026",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 21 Jun 2026 08:28:50 GMT"
     }
   ]
 }
