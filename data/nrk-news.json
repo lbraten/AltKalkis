@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-21T16:15:49.671Z",
+  "updatedAt": "2026-06-21T18:04:51.355Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tasnim: Den iranske delegasjonen har forlatt samtalene",
+      "link": "https://www.nrk.no/nyheter/tasnim_-den-iranske-delegasjonen-har-forlatt-samtalene-1.17930389",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 21 Jun 2026 16:56:36 GMT"
+    },
+    {
+      "title": "Leteaksjon i Gloppen: Går over til søk etter antatt omkommet",
+      "link": "https://www.nrk.no/nyheter/leteaksjon-i-gloppen_-gar-over-til-sok-etter-antatt-omkommet-1.17930198",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 21 Jun 2026 16:18:44 GMT"
+    },
     {
       "title": "Fredssamtalene: – Jeg tror vi får gode diskusjoner",
       "link": "https://www.nrk.no/nyheter/fredssamtalene_-_-jeg-tror-vi-far-gode-diskusjoner-1.17930172",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/sakna-mann-i-kvam-funnen-dod---1.17930045",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 21 Jun 2026 09:07:37 GMT"
-    },
-    {
-      "title": "Flere fergeavganger mellom Bodø og Lofoten innstilt søndag og mandag",
-      "link": "https://www.nrk.no/nordland/flere-fergeavganger-mellom-bodo-og-lofoten-innstilt-sondag-og-mandag-1.17930064",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sun, 21 Jun 2026 08:56:24 GMT"
-    },
-    {
-      "title": "Medier: Starmer kan trekke seg allerede mandag",
-      "link": "https://www.nrk.no/nyheter/medier_-starmer-kan-trekke-seg-allerede-mandag-1.17930062",
-      "category": "Storbritannia",
-      "pubDate": "Sun, 21 Jun 2026 08:39:59 GMT"
     }
   ]
 }
