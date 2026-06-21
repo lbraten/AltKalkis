@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-21T18:04:51.355Z",
+  "updatedAt": "2026-06-21T20:11:48.042Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump med nytt stikk mot Meloni",
+      "link": "https://www.nrk.no/nyheter/trump-med-nytt-stikk-mot-meloni-1.17930425",
+      "category": "USA",
+      "pubDate": "Sun, 21 Jun 2026 19:49:17 GMT"
+    },
     {
       "title": "Tasnim: Den iranske delegasjonen har forlatt samtalene",
       "link": "https://www.nrk.no/nyheter/tasnim_-den-iranske-delegasjonen-har-forlatt-samtalene-1.17930389",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/full-fyr-i-bolig-i-oslo-_-mulig-eksplosjon-1.17930133",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 21 Jun 2026 11:06:53 GMT"
-    },
-    {
-      "title": "Sakna mann i Kvam funnen død",
-      "link": "https://www.nrk.no/vestland/sakna-mann-i-kvam-funnen-dod---1.17930045",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 21 Jun 2026 09:07:37 GMT"
     }
   ]
 }
