@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-20T22:42:05.773Z",
+  "updatedAt": "2026-06-21T00:09:03.721Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Svensk kokainsmugler arrestert i Colombia",
+      "link": "https://www.nrk.no/nyheter/svensk-kokainsmugler-arrestert-i-colombia-1.17929896",
+      "category": "Sverige",
+      "pubDate": "Sat, 20 Jun 2026 23:45:45 GMT"
+    },
+    {
+      "title": "Fransk politi lette etter narko – fant Picasso-verk",
+      "link": "https://www.nrk.no/nyheter/fransk-politi-lette-etter-narko-_-fant-picasso-verk-1.17929894",
+      "category": "Frankrike",
+      "pubDate": "Sat, 20 Jun 2026 23:33:41 GMT"
+    },
+    {
+      "title": "Fleire tenåringsgutar bortviste frå Slinningsbålet",
+      "link": "https://www.nrk.no/mr/fleire-tenaringsgutar-bortviste-fra-slinningsbalet-1.17929889",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 20 Jun 2026 22:59:08 GMT"
+    },
     {
       "title": "Tre personer omkom i brann i London",
       "link": "https://www.nrk.no/nyheter/tre-personer-omkom-i-brann-i-london-1.17929883",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/mr/batulykke-i-hog-fart-1.17929876",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sat, 20 Jun 2026 21:58:17 GMT"
-    },
-    {
-      "title": "Myndighetene i Libanon: Syv personer drept i israelske angrep",
-      "link": "https://www.nrk.no/nyheter/myndighetene-i-libanon_-syv-personer-drept-i-israelske-angrep-1.17929872",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 20 Jun 2026 21:50:08 GMT"
-    },
-    {
-      "title": "Ingen løsning på nettverksproblemer – en rekke offentlige tjenester nede",
-      "link": "https://www.nrk.no/nyheter/ingen-losning-pa-nettverksproblemer-_-en-rekke-offentlige-tjenester-nede-1.17929869",
-      "category": "Digitale løsninger",
-      "pubDate": "Sat, 20 Jun 2026 21:44:42 GMT"
-    },
-    {
-      "title": "Historisk grep: Kong Charles vil offentliggjøre egne skattetall",
-      "link": "https://www.nrk.no/nyheter/historisk-grep_-kong-charles-vil-offentliggjore-egne-skattetall-1.17929852",
-      "category": "Det britiske kongehuset",
-      "pubDate": "Sat, 20 Jun 2026 21:31:02 GMT"
     }
   ]
 }
