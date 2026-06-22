@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-22T21:31:26.051Z",
+  "updatedAt": "2026-06-22T23:21:00.467Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Reuters: Flyalarm i Kyiv",
+      "link": "https://www.nrk.no/nyheter/reuters_-flyalarm-i-kyiv-1.17931938",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 22 Jun 2026 22:36:44 GMT"
+    },
+    {
+      "title": "Andreomgang i VM-kamp utsatt",
+      "link": "https://www.nrk.no/nyheter/andreomgang-i-vm-kamp-utsatt-1.17931923",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Mon, 22 Jun 2026 22:10:44 GMT"
+    },
+    {
+      "title": "Politiet: Brann i Asker slukket",
+      "link": "https://www.nrk.no/nyheter/politiet_-brann-i-asker-slukket-1.17931902",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 22 Jun 2026 21:34:36 GMT"
+    },
     {
       "title": "Brann i Asker: – Ikke kontroll",
       "link": "https://www.nrk.no/stor-oslo/brann-i-asker_-_-ikke-kontroll-1.17931805",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-sier-hormuzstredet-er-_helt-apent_-1.17931708",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 22 Jun 2026 19:55:24 GMT"
-    },
-    {
-      "title": "Brudd i forhandlingene om Grossistavtalen NHO",
-      "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-om-grossistavtalen-nho-1.17931766",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Mon, 22 Jun 2026 19:16:31 GMT"
-    },
-    {
-      "title": "Stanser stevning fra Trump-administrasjonen – mener den framstår som hevn",
-      "link": "https://www.nrk.no/nyheter/stanser-stevning-fra-trump-administrasjonen-_-mener-den-framstar-som-hevn-1.17931599",
-      "category": "Uro i Minneapolis etter ICE-drap",
-      "pubDate": "Mon, 22 Jun 2026 17:38:44 GMT"
-    },
-    {
-      "title": "Funn av død person i Hustadvika",
-      "link": "https://www.nrk.no/mr/funn-av-dod-person-i-hustadvika--1.17931740",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 22 Jun 2026 17:20:38 GMT"
     }
   ]
 }
