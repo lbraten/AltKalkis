@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-22T18:46:46.680Z",
+  "updatedAt": "2026-06-22T21:31:26.051Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i Asker: – Ikke kontroll",
+      "link": "https://www.nrk.no/stor-oslo/brann-i-asker_-_-ikke-kontroll-1.17931805",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 22 Jun 2026 20:26:45 GMT"
+    },
+    {
+      "title": "SpaceX-aksjen falt over 16 prosent på børs",
+      "link": "https://www.nrk.no/nyheter/spacex-aksjen-falt-over-16-prosent-pa-bors-1.17931872",
+      "category": "SpaceX",
+      "pubDate": "Mon, 22 Jun 2026 20:01:26 GMT"
+    },
+    {
+      "title": "Trump sier Hormuzstredet er «helt åpent»",
+      "link": "https://www.nrk.no/nyheter/trump-sier-hormuzstredet-er-_helt-apent_-1.17931708",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 22 Jun 2026 19:55:24 GMT"
+    },
+    {
+      "title": "Brudd i forhandlingene om Grossistavtalen NHO",
+      "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-om-grossistavtalen-nho-1.17931766",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Mon, 22 Jun 2026 19:16:31 GMT"
+    },
     {
       "title": "Stanser stevning fra Trump-administrasjonen – mener den framstår som hevn",
       "link": "https://www.nrk.no/nyheter/stanser-stevning-fra-trump-administrasjonen-_-mener-den-framstar-som-hevn-1.17931599",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/mr/funn-av-dod-person-i-hustadvika--1.17931740",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Mon, 22 Jun 2026 17:20:38 GMT"
-    },
-    {
-      "title": "Frankrike med ny rekord for gjennomsnittsvarme i juni",
-      "link": "https://www.nrk.no/nyheter/frankrike-med-ny-rekord-for-gjennomsnittsvarme-i-juni-1.17931663",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Mon, 22 Jun 2026 16:24:05 GMT"
-    },
-    {
-      "title": "Tsjekkia vil ha mobilforbud i skolen",
-      "link": "https://www.nrk.no/nyheter/tsjekkia-vil-ha-mobilforbud-i-skolen-1.17931405",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 22 Jun 2026 16:10:35 GMT"
-    },
-    {
-      "title": "Kongefamilien får utvida «påskehytta»",
-      "link": "https://www.nrk.no/innlandet/kongefamilien-far-utvida-_paskehytta_-1.17931654",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Mon, 22 Jun 2026 15:45:30 GMT"
-    },
-    {
-      "title": "Arbeidstilsynet reagerer: Jobbet ni søndager på rad på restaurant",
-      "link": "https://www.nrk.no/sorlandet/arbeidstilsynet-reagerer_-jobbet-ni-sondager-pa-rad-pa-restaurant--1.17931653",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 22 Jun 2026 15:44:41 GMT"
     }
   ]
 }
