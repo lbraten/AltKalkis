@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-22T08:38:08.397Z",
+  "updatedAt": "2026-06-22T14:42:12.919Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Brann i enebolig i Larvik",
-      "link": "https://www.nrk.no/vestfoldogtelemark/brann-i-enebolig-i-larvik-1.17930853",
+      "title": "SpaceX-aksjen ligger an til nedgang tredje dag på rad",
+      "link": "https://www.nrk.no/nyheter/spacex-aksjen-ligger-an-til-nedgang-tredje-dag-pa-rad-1.17931446",
+      "category": "SpaceX",
+      "pubDate": "Mon, 22 Jun 2026 14:37:36 GMT"
+    },
+    {
+      "title": "To barn funnet omkommet i bil i Frankrike – settes i forbindelse med hetebølge",
+      "link": "https://www.nrk.no/nyheter/to-barn-funnet-omkommet-i-bil-i-frankrike-_-settes-i-forbindelse-med-hetebolge-1.17931520",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Mon, 22 Jun 2026 13:51:55 GMT"
+    },
+    {
+      "title": "USA fjerner sanksjoner mot iransk olje midlertidig",
+      "link": "https://www.nrk.no/nyheter/usa-fjerner-sanksjoner-mot-iransk-olje-midlertidig-1.17931451",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 22 Jun 2026 13:47:40 GMT"
+    },
+    {
+      "title": "Vegar (28) omkom i drukningsulykke",
+      "link": "https://www.nrk.no/trondelag/vegar-_28_-omkom-i-drukningsulykke--1.17931470",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 22 Jun 2026 13:25:55 GMT"
+    },
+    {
+      "title": "Politiet: Hadde ikke lovhjemmel til å spore omkommet mor",
+      "link": "https://www.nrk.no/vestfoldogtelemark/politiet_-hadde-ikke-lovhjemmel-til-a-spore-omkommet-mor-1.17931414",
       "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 22 Jun 2026 08:21:38 GMT"
+      "pubDate": "Mon, 22 Jun 2026 13:18:07 GMT"
     },
     {
-      "title": "– Klart undervurdert risiko",
-      "link": "https://www.nrk.no/mr/_-klart-undervurdert-risiko-1.17930896",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 22 Jun 2026 08:11:49 GMT"
-    },
-    {
-      "title": "Irans delegasjon har forlatt Sveits etter forhandlinger",
-      "link": "https://www.nrk.no/nyheter/irans-delegasjon-har-forlatt-sveits-etter-forhandlinger-1.17930791",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 22 Jun 2026 08:10:39 GMT"
-    },
-    {
-      "title": "For høge verdiar av aluminium i drikkevatn i 15 år",
-      "link": "https://www.nrk.no/vestland/for-hoge-verdiar-av-aluminium-i-drikkevatn-i-15-ar-1.17930766",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 22 Jun 2026 07:38:40 GMT"
-    },
-    {
-      "title": "Død person funnet i båt – skal ha vært død i lang tid",
-      "link": "https://www.nrk.no/rogaland/dod-person-funnet-i-bat-_-skal-ha-vaert-dod-i-lang-tid-1.17930758",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 22 Jun 2026 07:37:17 GMT"
-    },
-    {
-      "title": "Sørkoreansk eksminister idømt 25 års fengsel",
-      "link": "https://www.nrk.no/nyheter/sorkoreansk-eksminister-idomt-25-ars-fengsel-1.17930709",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 22 Jun 2026 06:44:27 GMT"
+      "title": "13 drept i eksplosjon ved gassanlegg i Qatar",
+      "link": "https://www.nrk.no/nyheter/13-drept-i-eksplosjon-ved-gassanlegg-i-qatar-1.17931354",
+      "category": "Qatar",
+      "pubDate": "Mon, 22 Jun 2026 13:12:55 GMT"
     }
   ]
 }
