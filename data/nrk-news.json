@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-22T02:02:36.070Z",
+  "updatedAt": "2026-06-22T08:38:08.397Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Første runde med samtaler mellom Iran og USA er ferdig",
-      "link": "https://www.nrk.no/nyheter/forste-runde-med-samtaler-mellom-iran-og-usa-er-ferdig-1.17930605",
+      "title": "Brann i enebolig i Larvik",
+      "link": "https://www.nrk.no/vestfoldogtelemark/brann-i-enebolig-i-larvik-1.17930853",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 22 Jun 2026 08:21:38 GMT"
+    },
+    {
+      "title": "– Klart undervurdert risiko",
+      "link": "https://www.nrk.no/mr/_-klart-undervurdert-risiko-1.17930896",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Mon, 22 Jun 2026 08:11:49 GMT"
+    },
+    {
+      "title": "Irans delegasjon har forlatt Sveits etter forhandlinger",
+      "link": "https://www.nrk.no/nyheter/irans-delegasjon-har-forlatt-sveits-etter-forhandlinger-1.17930791",
       "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 22 Jun 2026 01:42:33 GMT"
+      "pubDate": "Mon, 22 Jun 2026 08:10:39 GMT"
     },
     {
-      "title": "MC-fører til sykehus etter ulykke i Rakkestad",
-      "link": "https://www.nrk.no/nyheter/mc-forer-til-sykehus-etter-ulykke-i-rakkestad-1.17930606",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Mon, 22 Jun 2026 01:14:02 GMT"
+      "title": "For høge verdiar av aluminium i drikkevatn i 15 år",
+      "link": "https://www.nrk.no/vestland/for-hoge-verdiar-av-aluminium-i-drikkevatn-i-15-ar-1.17930766",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 22 Jun 2026 07:38:40 GMT"
     },
     {
-      "title": "Rubio gratulerte De La Espriella med valgseiren i Colombia",
-      "link": "https://www.nrk.no/nyheter/rubio-gratulerte-de-la-espriella-med-valgseiren-i-colombia-1.17930586",
-      "category": "USA",
-      "pubDate": "Mon, 22 Jun 2026 00:54:19 GMT"
+      "title": "Død person funnet i båt – skal ha vært død i lang tid",
+      "link": "https://www.nrk.no/rogaland/dod-person-funnet-i-bat-_-skal-ha-vaert-dod-i-lang-tid-1.17930758",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 22 Jun 2026 07:37:17 GMT"
     },
     {
-      "title": "Grønland invitert til å bli USAs 51. delstat",
-      "link": "https://www.nrk.no/nyheter/gronland-invitert-til-a-bli-usas-51.-delstat-1.17930600",
-      "category": "Grønland",
-      "pubDate": "Mon, 22 Jun 2026 00:32:35 GMT"
-    },
-    {
-      "title": "AFP: USA og Iran forhandler gjennom natten",
-      "link": "https://www.nrk.no/nyheter/afp_-usa-og-iran-forhandler-gjennom-natten-1.17930585",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 21 Jun 2026 23:22:30 GMT"
-    },
-    {
-      "title": "En drept og flere såret i russisk angrep mot Odesa",
-      "link": "https://www.nrk.no/nyheter/en-drept-og-flere-saret-i-russisk-angrep-mot-odesa-1.17930583",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 21 Jun 2026 23:14:20 GMT"
+      "title": "Sørkoreansk eksminister idømt 25 års fengsel",
+      "link": "https://www.nrk.no/nyheter/sorkoreansk-eksminister-idomt-25-ars-fengsel-1.17930709",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 22 Jun 2026 06:44:27 GMT"
     }
   ]
 }
