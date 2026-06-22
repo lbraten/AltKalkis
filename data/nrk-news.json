@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-21T23:16:13.408Z",
+  "updatedAt": "2026-06-22T02:02:36.070Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Første runde med samtaler mellom Iran og USA er ferdig",
+      "link": "https://www.nrk.no/nyheter/forste-runde-med-samtaler-mellom-iran-og-usa-er-ferdig-1.17930605",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 22 Jun 2026 01:42:33 GMT"
+    },
+    {
+      "title": "MC-fører til sykehus etter ulykke i Rakkestad",
+      "link": "https://www.nrk.no/nyheter/mc-forer-til-sykehus-etter-ulykke-i-rakkestad-1.17930606",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Mon, 22 Jun 2026 01:14:02 GMT"
+    },
+    {
+      "title": "Rubio gratulerte De La Espriella med valgseiren i Colombia",
+      "link": "https://www.nrk.no/nyheter/rubio-gratulerte-de-la-espriella-med-valgseiren-i-colombia-1.17930586",
+      "category": "USA",
+      "pubDate": "Mon, 22 Jun 2026 00:54:19 GMT"
+    },
+    {
+      "title": "Grønland invitert til å bli USAs 51. delstat",
+      "link": "https://www.nrk.no/nyheter/gronland-invitert-til-a-bli-usas-51.-delstat-1.17930600",
+      "category": "Grønland",
+      "pubDate": "Mon, 22 Jun 2026 00:32:35 GMT"
+    },
+    {
+      "title": "AFP: USA og Iran forhandler gjennom natten",
+      "link": "https://www.nrk.no/nyheter/afp_-usa-og-iran-forhandler-gjennom-natten-1.17930585",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 21 Jun 2026 23:22:30 GMT"
+    },
     {
       "title": "En drept og flere såret i russisk angrep mot Odesa",
       "link": "https://www.nrk.no/nyheter/en-drept-og-flere-saret-i-russisk-angrep-mot-odesa-1.17930583",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 21 Jun 2026 23:14:20 GMT"
-    },
-    {
-      "title": "Hus overtent i Arendal",
-      "link": "https://www.nrk.no/nyheter/hus-overtent-i-arendal--1.17930581",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 21 Jun 2026 22:54:21 GMT"
-    },
-    {
-      "title": "Trump-favoritt vant thriller-valg i Colombia",
-      "link": "https://www.nrk.no/nyheter/trump-favoritt-vant-thriller-valg-i-colombia-1.17930577",
-      "category": "Colombia",
-      "pubDate": "Sun, 21 Jun 2026 22:33:22 GMT"
-    },
-    {
-      "title": "Bilfører kjørte i 156 km/t i 90-sone på E6",
-      "link": "https://www.nrk.no/nyheter/bilforer-kjorte-i-156-km_t-i-90-sone-pa-e6-1.17930576",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 21 Jun 2026 22:22:21 GMT"
-    },
-    {
-      "title": "Politiet ber foreldre ta en alvorsprat med barna etter forsøk på brannstiftelse ved barnehage",
-      "link": "https://www.nrk.no/nyheter/politiet-ber-foreldre-ta-en-alvorsprat-med-barna-etter-forsok-pa-brannstiftelse-ved-barnehage-1.17930569",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 21 Jun 2026 22:16:24 GMT"
-    },
-    {
-      "title": "Boligblokker truffet i droneangrep mot Kharkiv",
-      "link": "https://www.nrk.no/nyheter/boligblokker-truffet-i-droneangrep-mot-kharkiv-1.17930567",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 21 Jun 2026 21:56:04 GMT"
     }
   ]
 }
