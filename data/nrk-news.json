@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-23T20:33:18.227Z",
+  "updatedAt": "2026-06-23T22:15:36.737Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Togstans i hele Tyskland",
+      "link": "https://www.nrk.no/nyheter/togstans-i-hele-tyskland-1.17933332",
+      "category": "Tyskland",
+      "pubDate": "Tue, 23 Jun 2026 21:41:34 GMT"
+    },
+    {
+      "title": "Riksmekleren: – Ligger an til å bli en lang natt",
+      "link": "https://www.nrk.no/nyheter/riksmekleren_-_-ligger-an-til-a-bli-en-lang-natt-1.17933324",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 23 Jun 2026 21:35:46 GMT"
+    },
     {
       "title": "Kongressen vedtok å stoppe Trumps Iran-krig",
       "link": "https://www.nrk.no/nyheter/kongressen-vedtok-a-stoppe-trumps-iran-krig-1.17933277",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ueinigheit-om-atominspeksjon-i-iran-1.17933187",
       "category": "Donald Trump",
       "pubDate": "Tue, 23 Jun 2026 17:53:39 GMT"
-    },
-    {
-      "title": "Stor redningsaksjon etter nedkjølt mann på Voss – helikopter på vei",
-      "link": "https://www.nrk.no/vestland/stor-redningsaksjon-etter-nedkjolt-mann-pa-voss-_-helikopter-pa-vei--1.17933195",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 23 Jun 2026 17:46:19 GMT"
-    },
-    {
-      "title": "Over 250 millionar barn får skulegangen avbroten av krig og konflikt",
-      "link": "https://www.nrk.no/nyheter/over-250-millionar-barn-far-skulegangen-avbroten-av-krig-og-konflikt-1.17933131",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 23 Jun 2026 17:32:37 GMT"
     }
   ]
 }
