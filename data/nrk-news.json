@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-23T10:09:57.061Z",
+  "updatedAt": "2026-06-23T13:21:20.438Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "FN-granskning: Israelske styrker gjennomførte målrettede angrep mot barn i Gaza",
-      "link": "https://www.nrk.no/nyheter/fn-granskning_-israelske-styrker-gjennomforte-malrettede-angrep-mot-barn-i-gaza-1.17932391",
+      "title": "Stenger Eiffeltårnet på grunn av hetebølgen",
+      "link": "https://www.nrk.no/nyheter/stenger-eiffeltarnet-pa-grunn-av-hetebolgen-1.17932850",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Tue, 23 Jun 2026 13:17:44 GMT"
+    },
+    {
+      "title": "To livstruende skadd etter knivstikking i Sverige",
+      "link": "https://www.nrk.no/nyheter/to-livstruende-skadd-etter-knivstikking-i-sverige-1.17932484",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 23 Jun 2026 13:00:07 GMT"
+    },
+    {
+      "title": "Taliban invitert til Brussel – skal diskutere migrasjon",
+      "link": "https://www.nrk.no/nyheter/taliban-invitert-til-brussel-_-skal-diskutere-migrasjon-1.17932576",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 23 Jun 2026 11:59:59 GMT"
+    },
+    {
+      "title": "FN-kommisjon mener Israel gjennomførte målrettede angrep mot barn",
+      "link": "https://www.nrk.no/nyheter/fn-kommisjon-mener-israel-gjennomforte-malrettede-angrep-mot-barn-1.17932517",
       "category": "Krigen i Gaza",
-      "pubDate": "Tue, 23 Jun 2026 10:00:52 GMT"
+      "pubDate": "Tue, 23 Jun 2026 10:42:41 GMT"
+    },
+    {
+      "title": "Høyanger kommune meld til politiet i drikkevatn-saka",
+      "link": "https://www.nrk.no/vestland/hoyanger-kommune-meld-til-politiet-i-drikkevatn-saka-1.17932249",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 23 Jun 2026 09:58:12 GMT"
     },
     {
       "title": "Mann tiltalt for tre drapsforsøk etter skytingen på Tveita",
       "link": "https://www.nrk.no/stor-oslo/mann-tiltalt-for-tre-drapsforsok-etter-skytingen-pa-tveita--1.17932312",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 23 Jun 2026 08:58:44 GMT"
-    },
-    {
-      "title": "Styrket tilbud i Lofoten gir dyrere flybilletter",
-      "link": "https://www.nrk.no/nordland/styrket-tilbud-i-lofoten-gir-dyrere-flybilletter-1.17932394",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Tue, 23 Jun 2026 08:49:37 GMT"
-    },
-    {
-      "title": "Kortere ventetid i spesialisthelsetjenesten",
-      "link": "https://www.nrk.no/nyheter/kortere-ventetid-i-spesialisthelsetjenesten-1.17932318",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 23 Jun 2026 08:14:14 GMT"
-    },
-    {
-      "title": "Digidir ble utsatt for hackerangrep",
-      "link": "https://www.nrk.no/nyheter/digidir-ble-utsatt-for-hackerangrep-1.17932313",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 23 Jun 2026 07:56:38 GMT"
-    },
-    {
-      "title": "Iran sier nei til nye atominspeksjoner",
-      "link": "https://www.nrk.no/nyheter/iran-sier-nei-til-nye-atominspeksjoner-1.17932276",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 23 Jun 2026 07:50:53 GMT"
     }
   ]
 }
