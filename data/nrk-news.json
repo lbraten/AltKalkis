@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-06-23T18:20:28.113Z",
+  "updatedAt": "2026-06-23T20:33:18.227Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Alvorlig skadet etter at motorsykkel kolliderte med elg",
-      "link": "https://www.nrk.no/stor-oslo/alvorlig-skadet-etter-at-motorsykkel-kolliderte-med-elg-1.17932935",
+      "title": "Kongressen vedtok å stoppe Trumps Iran-krig",
+      "link": "https://www.nrk.no/nyheter/kongressen-vedtok-a-stoppe-trumps-iran-krig-1.17933277",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 23 Jun 2026 19:55:11 GMT"
+    },
+    {
+      "title": "Advokatfullmektig har fått autorisasjonen sin tilbakekalt",
+      "link": "https://www.nrk.no/tromsogfinnmark/advokatfullmektig-har-fatt-autorisasjonen-sin-tilbakekalt-1.17933157",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 23 Jun 2026 19:23:31 GMT"
+    },
+    {
+      "title": "Motorsyklist omkom etter å ha kollidert med elg",
+      "link": "https://www.nrk.no/stor-oslo/motorsyklist-omkom-etter-a-ha-kollidert-med-elg-1.17932935",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 23 Jun 2026 17:53:49 GMT"
     },
@@ -15,28 +27,16 @@
       "pubDate": "Tue, 23 Jun 2026 17:53:39 GMT"
     },
     {
-      "title": "Redningsaksjon sett i verk for å hjelpe nedkjølt turgåar på Vossevangen",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-sett-i-verk-for-a-hjelpe-nedkjolt-turgaar-pa-vossevangen-1.17932841",
+      "title": "Stor redningsaksjon etter nedkjølt mann på Voss – helikopter på vei",
+      "link": "https://www.nrk.no/vestland/stor-redningsaksjon-etter-nedkjolt-mann-pa-voss-_-helikopter-pa-vei--1.17933195",
       "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 23 Jun 2026 17:48:53 GMT"
+      "pubDate": "Tue, 23 Jun 2026 17:46:19 GMT"
     },
     {
       "title": "Over 250 millionar barn får skulegangen avbroten av krig og konflikt",
       "link": "https://www.nrk.no/nyheter/over-250-millionar-barn-far-skulegangen-avbroten-av-krig-og-konflikt-1.17933131",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 23 Jun 2026 17:32:37 GMT"
-    },
-    {
-      "title": "Må heie på avstand når Norge spiller mot Frankrike",
-      "link": "https://www.nrk.no/nyheter/ma-heie-pa-avstand-nar-norge-spiller-mot-frankrike-1.17932764",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 23 Jun 2026 16:53:53 GMT"
-    },
-    {
-      "title": "Noreg og fleire europeiske land med utsegn om Sudan",
-      "link": "https://www.nrk.no/nyheter/noreg-og-fleire-europeiske-land-med-utsegn-om-sudan-1.17933080",
-      "category": "Sudan",
-      "pubDate": "Tue, 23 Jun 2026 16:26:29 GMT"
     }
   ]
 }
