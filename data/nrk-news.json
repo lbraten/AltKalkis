@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-23T01:30:45.268Z",
+  "updatedAt": "2026-06-23T06:09:01.348Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: tekniske samtaler med USA er avsluttet",
+      "link": "https://www.nrk.no/nyheter/iran_-tekniske-samtaler-med-usa-er-avsluttet-1.17932151",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 23 Jun 2026 05:42:26 GMT"
+    },
+    {
+      "title": "Russiske luftangrep natt til tirsdag",
+      "link": "https://www.nrk.no/nyheter/russiske-luftangrep-natt-til-tirsdag--1.17932106",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 23 Jun 2026 05:26:04 GMT"
+    },
+    {
+      "title": "Dronepilot anmeldt etter flyging ved Oslo lufthavn",
+      "link": "https://www.nrk.no/stor-oslo/dronepilot-anmeldt-etter-flyging-ved-oslo-lufthavn-1.17932045",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 23 Jun 2026 03:30:26 GMT"
+    },
+    {
+      "title": "Trump truer nok en gang med å svikte Nato-allierte",
+      "link": "https://www.nrk.no/nyheter/trump-truer-nok-en-gang-med-a-svikte-nato-allierte-1.17931990",
+      "category": "Nato",
+      "pubDate": "Tue, 23 Jun 2026 01:42:02 GMT"
+    },
+    {
+      "title": "VM-kamp i gang igjen",
+      "link": "https://www.nrk.no/nyheter/vm-kamp-i-gang-igjen-1.17931945",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Tue, 23 Jun 2026 00:19:02 GMT"
+    },
     {
       "title": "Reuters: Flyalarm i Kyiv",
       "link": "https://www.nrk.no/nyheter/reuters_-flyalarm-i-kyiv-1.17931938",
       "category": "Krigen i Ukraina",
       "pubDate": "Mon, 22 Jun 2026 22:36:44 GMT"
-    },
-    {
-      "title": "Andreomgang i VM-kamp utsatt",
-      "link": "https://www.nrk.no/nyheter/andreomgang-i-vm-kamp-utsatt-1.17931923",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Mon, 22 Jun 2026 22:10:44 GMT"
-    },
-    {
-      "title": "Politiet: Brann i Asker slukket",
-      "link": "https://www.nrk.no/nyheter/politiet_-brann-i-asker-slukket-1.17931902",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 22 Jun 2026 21:34:36 GMT"
-    },
-    {
-      "title": "Brann i Asker: – Ikke kontroll",
-      "link": "https://www.nrk.no/stor-oslo/brann-i-asker_-_-ikke-kontroll-1.17931805",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 22 Jun 2026 20:26:45 GMT"
-    },
-    {
-      "title": "SpaceX-aksjen falt over 16 prosent på børs",
-      "link": "https://www.nrk.no/nyheter/spacex-aksjen-falt-over-16-prosent-pa-bors-1.17931872",
-      "category": "SpaceX",
-      "pubDate": "Mon, 22 Jun 2026 20:01:26 GMT"
-    },
-    {
-      "title": "Trump sier Hormuzstredet er «helt åpent»",
-      "link": "https://www.nrk.no/nyheter/trump-sier-hormuzstredet-er-_helt-apent_-1.17931708",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 22 Jun 2026 19:55:24 GMT"
     }
   ]
 }
