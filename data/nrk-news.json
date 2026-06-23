@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-23T22:15:36.737Z",
+  "updatedAt": "2026-06-23T23:35:10.298Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "SAS-mekling: Mekler på overtid",
+      "link": "https://www.nrk.no/nyheter/sas-mekling_-mekler-pa-overtid-1.17933331",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 23 Jun 2026 22:18:40 GMT"
+    },
+    {
+      "title": "Antallet smittede og døde av ebola øker i Kongo",
+      "link": "https://www.nrk.no/nyheter/antallet-smittede-og-dode-av-ebola-oker-i-kongo-1.17933335",
+      "category": "Ebola",
+      "pubDate": "Tue, 23 Jun 2026 22:16:44 GMT"
+    },
     {
       "title": "Togstans i hele Tyskland",
       "link": "https://www.nrk.no/nyheter/togstans-i-hele-tyskland-1.17933332",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/advokatfullmektig-har-fatt-autorisasjonen-sin-tilbakekalt-1.17933157",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Tue, 23 Jun 2026 19:23:31 GMT"
-    },
-    {
-      "title": "Motorsyklist omkom etter å ha kollidert med elg",
-      "link": "https://www.nrk.no/stor-oslo/motorsyklist-omkom-etter-a-ha-kollidert-med-elg-1.17932935",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 23 Jun 2026 17:53:49 GMT"
-    },
-    {
-      "title": "Ueinigheit om atominspeksjon i Iran",
-      "link": "https://www.nrk.no/nyheter/ueinigheit-om-atominspeksjon-i-iran-1.17933187",
-      "category": "Donald Trump",
-      "pubDate": "Tue, 23 Jun 2026 17:53:39 GMT"
     }
   ]
 }
