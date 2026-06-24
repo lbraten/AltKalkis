@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-23T23:35:10.298Z",
+  "updatedAt": "2026-06-24T03:47:43.892Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "SAS-mekling: Mekler på overtid",
-      "link": "https://www.nrk.no/nyheter/sas-mekling_-mekler-pa-overtid-1.17933331",
+      "title": "Mekler på overtid i SAS-meklingen",
+      "link": "https://www.nrk.no/nyheter/mekler-pa-overtid-i-sas-meklingen-1.17933347",
       "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 23 Jun 2026 22:18:40 GMT"
+      "pubDate": "Wed, 24 Jun 2026 03:10:17 GMT"
     },
     {
-      "title": "Antallet smittede og døde av ebola øker i Kongo",
-      "link": "https://www.nrk.no/nyheter/antallet-smittede-og-dode-av-ebola-oker-i-kongo-1.17933335",
-      "category": "Ebola",
-      "pubDate": "Tue, 23 Jun 2026 22:16:44 GMT"
+      "title": "Strømbrudd etter droneangrep på Krym",
+      "link": "https://www.nrk.no/nyheter/strombrudd-etter-droneangrep-pa-krym-1.17933354",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 24 Jun 2026 01:49:43 GMT"
     },
     {
-      "title": "Togstans i hele Tyskland",
-      "link": "https://www.nrk.no/nyheter/togstans-i-hele-tyskland-1.17933332",
+      "title": "Vogntogsjåfør pågrepet etter 14 brudd på hvilebestemmelser",
+      "link": "https://www.nrk.no/nyheter/vogntogsjafor-pagrepet-etter-14-brudd-pa-hvilebestemmelser-1.17933353",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 24 Jun 2026 01:41:26 GMT"
+    },
+    {
+      "title": "YouTube inngår forlik etter søksmål fra 16-åring",
+      "link": "https://www.nrk.no/nyheter/youtube-inngar-forlik-etter-soksmal-fra-16-aring-1.17933338",
+      "category": "Sosiale medier",
+      "pubDate": "Wed, 24 Jun 2026 01:37:10 GMT"
+    },
+    {
+      "title": "Nord-Korea: – Skal ha atomvåpen på krigsskip",
+      "link": "https://www.nrk.no/nyheter/nord-korea_-_-skal-ha-atomvapen-pa-krigsskip-1.17933346",
+      "category": "Nord-Korea",
+      "pubDate": "Tue, 23 Jun 2026 23:53:58 GMT"
+    },
+    {
+      "title": "Togtrafikken i Tyskland i gang igjen",
+      "link": "https://www.nrk.no/nyheter/togtrafikken-i-tyskland-i-gang-igjen-1.17933341",
       "category": "Tyskland",
-      "pubDate": "Tue, 23 Jun 2026 21:41:34 GMT"
-    },
-    {
-      "title": "Riksmekleren: – Ligger an til å bli en lang natt",
-      "link": "https://www.nrk.no/nyheter/riksmekleren_-_-ligger-an-til-a-bli-en-lang-natt-1.17933324",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 23 Jun 2026 21:35:46 GMT"
-    },
-    {
-      "title": "Kongressen vedtok å stoppe Trumps Iran-krig",
-      "link": "https://www.nrk.no/nyheter/kongressen-vedtok-a-stoppe-trumps-iran-krig-1.17933277",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 23 Jun 2026 19:55:11 GMT"
-    },
-    {
-      "title": "Advokatfullmektig har fått autorisasjonen sin tilbakekalt",
-      "link": "https://www.nrk.no/tromsogfinnmark/advokatfullmektig-har-fatt-autorisasjonen-sin-tilbakekalt-1.17933157",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 23 Jun 2026 19:23:31 GMT"
+      "pubDate": "Tue, 23 Jun 2026 23:39:54 GMT"
     }
   ]
 }
