@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-06-24T15:41:38.152Z",
+  "updatedAt": "2026-06-24T17:55:42.979Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ny varmerekord i Paris med 40,9 grader",
-      "link": "https://www.nrk.no/nyheter/ny-varmerekord-i-paris-med-40_9-grader-1.17934664",
+      "title": "Gutt (6) mistet livet etter påkjørsel",
+      "link": "https://www.nrk.no/rogaland/gutt-_6_-mistet-livet-etter-pakjorsel-1.17934771",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 24 Jun 2026 17:32:47 GMT"
+    },
+    {
+      "title": "Styrke varsler økt streikeuttak",
+      "link": "https://www.nrk.no/rogaland/styrke-varsler-okt-streikeuttak-1.17934510",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 24 Jun 2026 16:57:32 GMT"
+    },
+    {
+      "title": "Paris: Ny varmerekord for juni",
+      "link": "https://www.nrk.no/nyheter/paris_-ny-varmerekord-for-juni-1.17934664",
       "category": "Hetebølge og varmerekorder",
       "pubDate": "Wed, 24 Jun 2026 15:22:10 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dn_-christen-sveeas-anker-tapet-mot-kjell-inge-rokke-1.17934614",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Wed, 24 Jun 2026 14:52:56 GMT"
-    },
-    {
-      "title": "Donald Trump dropper å skrive under lov",
-      "link": "https://www.nrk.no/nyheter/donald-trump-dropper-a-skrive-under-lov-1.17934599",
-      "category": "USA",
-      "pubDate": "Wed, 24 Jun 2026 14:32:05 GMT"
-    },
-    {
-      "title": "Ivan Cepeda erkjenner valgnederlag i Colombia",
-      "link": "https://www.nrk.no/nyheter/ivan-cepeda-erkjenner-valgnederlag-i-colombia-1.17934591",
-      "category": "Colombia",
-      "pubDate": "Wed, 24 Jun 2026 14:24:07 GMT"
     }
   ]
 }
