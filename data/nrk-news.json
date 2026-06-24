@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-24T17:55:42.979Z",
+  "updatedAt": "2026-06-24T19:50:46.480Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Arbeidstilsynet oppretter tilsyn mot Foodora og Wolt",
+      "link": "https://www.nrk.no/vestland/arbeidstilsynet-oppretter-tilsyn-mot-foodora-og-wolt-1.17934802",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 24 Jun 2026 18:36:59 GMT"
+    },
     {
       "title": "Gutt (6) mistet livet etter påkjørsel",
       "link": "https://www.nrk.no/rogaland/gutt-_6_-mistet-livet-etter-pakjorsel-1.17934771",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ny-varmerekord-for-juni-i-storbritannia-etter-50-ar-1.17934634",
       "category": "Hetebølge og varmerekorder",
       "pubDate": "Wed, 24 Jun 2026 14:56:15 GMT"
-    },
-    {
-      "title": "DN: Christen Sveeas anker tapet mot Kjell Inge Røkke",
-      "link": "https://www.nrk.no/nyheter/dn_-christen-sveeas-anker-tapet-mot-kjell-inge-rokke-1.17934614",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 24 Jun 2026 14:52:56 GMT"
     }
   ]
 }
