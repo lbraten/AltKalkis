@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-24T21:24:14.453Z",
+  "updatedAt": "2026-06-24T22:47:50.630Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Jordskjelv utenfor kysten av Japan",
+      "link": "https://www.nrk.no/nyheter/jordskjelv-utenfor-kysten-av-japan-1.17934983",
+      "category": "Japan",
+      "pubDate": "Wed, 24 Jun 2026 22:40:55 GMT"
+    },
+    {
+      "title": "Reuters: Jordskjelv i Venezuela",
+      "link": "https://www.nrk.no/nyheter/reuters_-jordskjelv-i-venezuela-1.17934979",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 24 Jun 2026 22:25:36 GMT"
+    },
+    {
+      "title": "Artisten Yungblud avlyser festivalbesøk i Oslo",
+      "link": "https://www.nrk.no/nyheter/artisten-yungblud-avlyser-festivalbesok-i-oslo-1.17934976",
+      "category": "Kultur i Oslo og Akershus",
+      "pubDate": "Wed, 24 Jun 2026 22:14:09 GMT"
+    },
+    {
+      "title": "Smittetallene stiger i DR Kongo",
+      "link": "https://www.nrk.no/nyheter/smittetallene-stiger-i-dr-kongo-1.17934930",
+      "category": "Ebola",
+      "pubDate": "Wed, 24 Jun 2026 22:12:09 GMT"
+    },
+    {
+      "title": "To menn slåss – en av dem slo også etter politiet",
+      "link": "https://www.nrk.no/rogaland/to-menn-slass-_-en-av-dem-slo-ogsa-etter-politiet-1.17934892",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 24 Jun 2026 20:43:52 GMT"
+    },
     {
       "title": "Arbeidstilsynet oppretter tilsyn mot Foodora og Wolt",
       "link": "https://www.nrk.no/vestland/arbeidstilsynet-oppretter-tilsyn-mot-foodora-og-wolt-1.17934802",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Wed, 24 Jun 2026 18:36:59 GMT"
-    },
-    {
-      "title": "Gutt (6) mistet livet etter påkjørsel",
-      "link": "https://www.nrk.no/rogaland/gutt-_6_-mistet-livet-etter-pakjorsel-1.17934771",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 24 Jun 2026 17:32:47 GMT"
-    },
-    {
-      "title": "Styrke varsler økt streikeuttak",
-      "link": "https://www.nrk.no/rogaland/styrke-varsler-okt-streikeuttak-1.17934510",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 24 Jun 2026 16:57:32 GMT"
-    },
-    {
-      "title": "Paris: Ny varmerekord for juni",
-      "link": "https://www.nrk.no/nyheter/paris_-ny-varmerekord-for-juni-1.17934664",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Wed, 24 Jun 2026 15:22:10 GMT"
-    },
-    {
-      "title": "Strømmen gikk på Tons of Rock – igjen",
-      "link": "https://www.nrk.no/nyheter/strommen-gikk-pa-tons-of-rock-_-igjen-1.17934637",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 24 Jun 2026 15:14:44 GMT"
-    },
-    {
-      "title": "Ny varmerekord for juni i Storbritannia etter 50 år",
-      "link": "https://www.nrk.no/nyheter/ny-varmerekord-for-juni-i-storbritannia-etter-50-ar-1.17934634",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Wed, 24 Jun 2026 14:56:15 GMT"
     }
   ]
 }
