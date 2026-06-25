@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-25T20:58:22.450Z",
+  "updatedAt": "2026-06-25T22:39:21.665Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Siktet for drapsforsøk etter knivstikking",
+      "link": "https://www.nrk.no/nyheter/siktet-for-drapsforsok-etter-knivstikking-1.17936644",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Thu, 25 Jun 2026 22:12:19 GMT"
+    },
     {
       "title": "Helseministeren lover bedre helsehjelp til transpersoner",
       "link": "https://www.nrk.no/nyheter/helseministeren-lover-bedre-helsehjelp-til-transpersoner-1.17936569",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/kultur/glade-vinnarar-1.17936405",
       "category": "Landskappleiken 2026",
       "pubDate": "Thu, 25 Jun 2026 19:51:34 GMT"
-    },
-    {
-      "title": "NATO-sjefen: Milliardkontrakter til forsvaret vil bli kunngjort på toppmøte",
-      "link": "https://www.nrk.no/nyheter/nato-sjefen_-milliardkontrakter-til-forsvaret-vil-bli-kunngjort-pa-toppmote-1.17936465",
-      "category": "Nato",
-      "pubDate": "Thu, 25 Jun 2026 18:31:18 GMT"
     }
   ]
 }
