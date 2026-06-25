@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-24T22:47:50.630Z",
+  "updatedAt": "2026-06-25T00:14:45.167Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Yungblud avlyser Oslo-konsert på fredag",
+      "link": "https://www.nrk.no/nyheter/yungblud-avlyser-oslo-konsert-pa-fredag-1.17934989",
+      "category": "Festivalsommer",
+      "pubDate": "Wed, 24 Jun 2026 23:35:59 GMT"
+    },
+    {
+      "title": "Trump skrøt av Zelenskyj",
+      "link": "https://www.nrk.no/nyheter/-trump-skrot-av-zelenskyj-1.17934984",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 24 Jun 2026 22:53:58 GMT"
+    },
     {
       "title": "Jordskjelv utenfor kysten av Japan",
       "link": "https://www.nrk.no/nyheter/jordskjelv-utenfor-kysten-av-japan-1.17934983",
@@ -9,8 +21,8 @@
       "pubDate": "Wed, 24 Jun 2026 22:40:55 GMT"
     },
     {
-      "title": "Reuters: Jordskjelv i Venezuela",
-      "link": "https://www.nrk.no/nyheter/reuters_-jordskjelv-i-venezuela-1.17934979",
+      "title": "Jordskjelv i Venezuela",
+      "link": "https://www.nrk.no/nyheter/jordskjelv-i-venezuela-1.17934979",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 24 Jun 2026 22:25:36 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/smittetallene-stiger-i-dr-kongo-1.17934930",
       "category": "Ebola",
       "pubDate": "Wed, 24 Jun 2026 22:12:09 GMT"
-    },
-    {
-      "title": "To menn slåss – en av dem slo også etter politiet",
-      "link": "https://www.nrk.no/rogaland/to-menn-slass-_-en-av-dem-slo-ogsa-etter-politiet-1.17934892",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 24 Jun 2026 20:43:52 GMT"
-    },
-    {
-      "title": "Arbeidstilsynet oppretter tilsyn mot Foodora og Wolt",
-      "link": "https://www.nrk.no/vestland/arbeidstilsynet-oppretter-tilsyn-mot-foodora-og-wolt-1.17934802",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 24 Jun 2026 18:36:59 GMT"
     }
   ]
 }
