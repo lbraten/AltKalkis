@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-25T00:14:45.167Z",
+  "updatedAt": "2026-06-25T04:45:52.511Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Yungblud avlyser Oslo-konsert på fredag",
-      "link": "https://www.nrk.no/nyheter/yungblud-avlyser-oslo-konsert-pa-fredag-1.17934989",
-      "category": "Festivalsommer",
-      "pubDate": "Wed, 24 Jun 2026 23:35:59 GMT"
+      "title": "Norge trapper opp energistøtten til Ukraina",
+      "link": "https://www.nrk.no/nyheter/norge-trapper-opp-energistotten-til-ukraina-1.17935110",
+      "category": "Ukraina",
+      "pubDate": "Thu, 25 Jun 2026 04:37:59 GMT"
     },
     {
-      "title": "Trump skrøt av Zelenskyj",
-      "link": "https://www.nrk.no/nyheter/-trump-skrot-av-zelenskyj-1.17934984",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 24 Jun 2026 22:53:58 GMT"
+      "title": "Advarer om gresspollen på Østlandet",
+      "link": "https://www.nrk.no/stor-oslo/advarer-om-gresspollen-pa-ostlandet-1.17935081",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 25 Jun 2026 04:24:57 GMT"
     },
     {
-      "title": "Jordskjelv utenfor kysten av Japan",
-      "link": "https://www.nrk.no/nyheter/jordskjelv-utenfor-kysten-av-japan-1.17934983",
+      "title": "Trump: - USA står klare",
+      "link": "https://www.nrk.no/nyheter/trump_---usa-star-klare-1.17935111",
+      "category": "Venezuela",
+      "pubDate": "Thu, 25 Jun 2026 04:17:10 GMT"
+    },
+    {
+      "title": "Kraftig jordskjelv rammet Nord-Japan",
+      "link": "https://www.nrk.no/nyheter/kraftig-jordskjelv-rammet-nord-japan-1.17935101",
       "category": "Japan",
-      "pubDate": "Wed, 24 Jun 2026 22:40:55 GMT"
+      "pubDate": "Thu, 25 Jun 2026 04:14:50 GMT"
     },
     {
-      "title": "Jordskjelv i Venezuela",
-      "link": "https://www.nrk.no/nyheter/jordskjelv-i-venezuela-1.17934979",
+      "title": "Mann døde i rullestolbrann i Voss herad",
+      "link": "https://www.nrk.no/nyheter/mann-dode-i-rullestolbrann-i-voss-herad-1.17935039",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 24 Jun 2026 22:25:36 GMT"
+      "pubDate": "Thu, 25 Jun 2026 03:39:16 GMT"
     },
     {
-      "title": "Artisten Yungblud avlyser festivalbesøk i Oslo",
-      "link": "https://www.nrk.no/nyheter/artisten-yungblud-avlyser-festivalbesok-i-oslo-1.17934976",
-      "category": "Kultur i Oslo og Akershus",
-      "pubDate": "Wed, 24 Jun 2026 22:14:09 GMT"
-    },
-    {
-      "title": "Smittetallene stiger i DR Kongo",
-      "link": "https://www.nrk.no/nyheter/smittetallene-stiger-i-dr-kongo-1.17934930",
-      "category": "Ebola",
-      "pubDate": "Wed, 24 Jun 2026 22:12:09 GMT"
+      "title": "USA vil hjelpe Venezuela etter jordskjelvene",
+      "link": "https://www.nrk.no/nyheter/usa-vil-hjelpe-venezuela-etter-jordskjelvene-1.17935032",
+      "category": "Venezuela",
+      "pubDate": "Thu, 25 Jun 2026 02:32:56 GMT"
     }
   ]
 }
