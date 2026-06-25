@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-25T18:33:19.808Z",
+  "updatedAt": "2026-06-25T20:58:22.450Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Helseministeren lover bedre helsehjelp til transpersoner",
+      "link": "https://www.nrk.no/nyheter/helseministeren-lover-bedre-helsehjelp-til-transpersoner-1.17936569",
+      "category": "Transpersoner",
+      "pubDate": "Thu, 25 Jun 2026 20:31:55 GMT"
+    },
+    {
+      "title": "Alvorlig voldshendelse i Fredrikstad",
+      "link": "https://www.nrk.no/ostfold/alvorlig-voldshendelse-i-fredrikstad-1.17936574",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Thu, 25 Jun 2026 20:18:17 GMT"
+    },
+    {
+      "title": "Påtalemyndigheten dropper ny rettssak mot Harvey Weinstein",
+      "link": "https://www.nrk.no/nyheter/patalemyndigheten-dropper-ny-rettssak-mot-harvey-weinstein-1.17936559",
+      "category": "Harvey Weinstein-saken",
+      "pubDate": "Thu, 25 Jun 2026 20:08:44 GMT"
+    },
+    {
+      "title": "Strømbrudd på Statfjord B: 74 personer fraktes bort med helikopter",
+      "link": "https://www.nrk.no/nyheter/strombrudd-pa-statfjord-b_-74-personer-fraktes-bort-med-helikopter-1.17936386",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 25 Jun 2026 19:55:47 GMT"
+    },
+    {
+      "title": "Glade vinnarar",
+      "link": "https://www.nrk.no/kultur/glade-vinnarar-1.17936405",
+      "category": "Landskappleiken 2026",
+      "pubDate": "Thu, 25 Jun 2026 19:51:34 GMT"
+    },
     {
       "title": "NATO-sjefen: Milliardkontrakter til forsvaret vil bli kunngjort på toppmøte",
       "link": "https://www.nrk.no/nyheter/nato-sjefen_-milliardkontrakter-til-forsvaret-vil-bli-kunngjort-pa-toppmote-1.17936465",
       "category": "Nato",
       "pubDate": "Thu, 25 Jun 2026 18:31:18 GMT"
-    },
-    {
-      "title": "AFP: Eksplosjoner hørt i Kyiv",
-      "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-hort-i-kyiv--1.17936455",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 25 Jun 2026 18:29:01 GMT"
-    },
-    {
-      "title": "Norsk countryartist får gjevt VM-oppdrag",
-      "link": "https://www.nrk.no/nyheter/norsk-countryartist-far-gjevt-vm-oppdrag--1.17936463",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Thu, 25 Jun 2026 18:21:23 GMT"
-    },
-    {
-      "title": "«Alligator Alcatraz» er stengt",
-      "link": "https://www.nrk.no/nyheter/_alligator-alcatraz_-er-stengt--1.17936340",
-      "category": "USA",
-      "pubDate": "Thu, 25 Jun 2026 18:01:40 GMT"
-    },
-    {
-      "title": "Forbyr alkohol i Paris pga heten",
-      "link": "https://www.nrk.no/nyheter/forbyr-alkohol-i-paris-pga-heten-1.17936450",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Thu, 25 Jun 2026 17:56:44 GMT"
-    },
-    {
-      "title": "FNs sjøfartsorganisasjon: Evakuering av sjøfolk i Hormuzstredet stanser",
-      "link": "https://www.nrk.no/nyheter/fns-sjofartsorganisasjon_-evakuering-av-sjofolk-i-hormuzstredet-stanser-1.17936401",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 25 Jun 2026 17:53:54 GMT"
     }
   ]
 }
