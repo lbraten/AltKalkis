@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-25T08:23:58.430Z",
+  "updatedAt": "2026-06-25T11:15:15.740Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Barth Eide: Ikke kjent med at nordmenn er rammet",
-      "link": "https://www.nrk.no/nyheter/barth-eide_-ikke-kjent-med-at-nordmenn-er-rammet-1.17935272",
+      "title": "Prinsessebesøk i Færder",
+      "link": "https://www.nrk.no/vestfoldogtelemark/prinsessebesok-i-faerder-1.17935681",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 25 Jun 2026 10:28:09 GMT"
+    },
+    {
+      "title": "Flere land sender hjelpearbeidere til Venezuela",
+      "link": "https://www.nrk.no/nyheter/flere-land-sender-hjelpearbeidere-til-venezuela-1.17935673",
       "category": "Venezuela",
-      "pubDate": "Thu, 25 Jun 2026 08:11:16 GMT"
+      "pubDate": "Thu, 25 Jun 2026 10:22:52 GMT"
     },
     {
-      "title": "Direktør i Forsvarsmateriell vil likevel la seg avhøre",
-      "link": "https://www.nrk.no/nyheter/direktor-i-forsvarsmateriell-vil-likevel-la-seg-avhore-1.17935221",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 25 Jun 2026 08:05:07 GMT"
-    },
-    {
-      "title": "Oljetanker gjennom Hormuzstredet tross iranske trusler",
-      "link": "https://www.nrk.no/nyheter/oljetanker-gjennom-hormuzstredet-tross-iranske-trusler-1.17935376",
-      "category": "Iran",
-      "pubDate": "Thu, 25 Jun 2026 07:59:07 GMT"
-    },
-    {
-      "title": "Regjeringen vil gjøre det obligatorisk å registrere alle fritidsbåter",
-      "link": "https://www.nrk.no/nyheter/regjeringen-vil-gjore-det-obligatorisk-a-registrere-alle-fritidsbater-1.17935269",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 25 Jun 2026 07:44:39 GMT"
-    },
-    {
-      "title": "Rubio: USA sender humanitær hjelp til Venezuela",
-      "link": "https://www.nrk.no/nyheter/rubio_-usa-sender-humanitaer-hjelp-til-venezuela-1.17935262",
+      "title": "Dødstallet stiger i Venezuela: 164 bekreftet omkommet",
+      "link": "https://www.nrk.no/nyheter/dodstallet-stiger-i-venezuela_-164-bekreftet-omkommet-1.17935666",
       "category": "Venezuela",
-      "pubDate": "Thu, 25 Jun 2026 06:41:13 GMT"
+      "pubDate": "Thu, 25 Jun 2026 10:16:40 GMT"
     },
     {
-      "title": "Undersøkelse viser narkotikabruk, vold og trusler på videregående skoler",
-      "link": "https://www.nrk.no/nyheter/undersokelse-viser-narkotikabruk_-vold-og-trusler-pa-videregaende-skoler-1.17935226",
-      "category": "Videregående opplæring",
-      "pubDate": "Thu, 25 Jun 2026 06:36:59 GMT"
+      "title": "Jordskjelv i Japan har ikke noe å gjøre med Venezuela-skjelvene",
+      "link": "https://www.nrk.no/nyheter/jordskjelv-i-japan-har-ikke-noe-a-gjore-med-venezuela-skjelvene-1.17935585",
+      "category": "Japan",
+      "pubDate": "Thu, 25 Jun 2026 10:13:42 GMT"
+    },
+    {
+      "title": "Fire trafikkskular i Kristiansund kan få milliongebyr",
+      "link": "https://www.nrk.no/mr/fire-trafikkskular-i-kristiansund-kan-fa-milliongebyr--1.17935569",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Thu, 25 Jun 2026 09:31:21 GMT"
+    },
+    {
+      "title": "Regjeringen i Sverige har undertegnet avtale om statsstøtte til ny kjernekraft",
+      "link": "https://www.nrk.no/nyheter/regjeringen-i-sverige-har-undertegnet-avtale-om-statsstotte-til-ny-kjernekraft-1.17935512",
+      "category": "Sverige",
+      "pubDate": "Thu, 25 Jun 2026 09:29:45 GMT"
     }
   ]
 }
