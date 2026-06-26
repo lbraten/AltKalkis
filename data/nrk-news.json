@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-26T00:11:20.381Z",
+  "updatedAt": "2026-06-26T04:49:37.846Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skip angrepet: Oljeprisen stiger",
+      "link": "https://www.nrk.no/nyheter/skip-angrepet_-oljeprisen-stiger-1.17936772",
+      "category": "Oljeprisen",
+      "pubDate": "Fri, 26 Jun 2026 03:21:01 GMT"
+    },
+    {
+      "title": "Over 300 døde av ebola i Kongo",
+      "link": "https://www.nrk.no/nyheter/over-300-dode-av-ebola-i-kongo-1.17936691",
+      "category": "Ebola",
+      "pubDate": "Fri, 26 Jun 2026 02:24:04 GMT"
+    },
+    {
+      "title": "Fraktet til sykehus etter badeulykke",
+      "link": "https://www.nrk.no/nyheter/fraktet-til-sykehus-etter-badeulykke-1.17936716",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 26 Jun 2026 01:17:16 GMT"
+    },
+    {
+      "title": "Dødstallene stiger i Venezuela",
+      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-venezuela-1.17936712",
+      "category": "Venezuela",
+      "pubDate": "Fri, 26 Jun 2026 01:15:52 GMT"
+    },
+    {
+      "title": "USA sender krigsskip til Venezuela",
+      "link": "https://www.nrk.no/nyheter/usa-sender-krigsskip-til-venezuela-1.17936710",
+      "category": "Venezuela",
+      "pubDate": "Fri, 26 Jun 2026 00:47:46 GMT"
+    },
     {
       "title": "Kong Charles vil ikke bo på slottet",
       "link": "https://www.nrk.no/nyheter/kong-charles-vil-ikke-bo-pa-slottet--1.17936686",
       "category": "Storbritannia",
       "pubDate": "Thu, 25 Jun 2026 23:52:11 GMT"
-    },
-    {
-      "title": "Brann i loft i boligblokk i Oslo",
-      "link": "https://www.nrk.no/nyheter/brann-i-loft-i-boligblokk-i-oslo-1.17936678",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 25 Jun 2026 23:10:43 GMT"
-    },
-    {
-      "title": "Gratis Starlink-internett etter skjelvene i Venezuela",
-      "link": "https://www.nrk.no/nyheter/gratis-starlink-internett-etter-skjelvene-i-venezuela-1.17936674",
-      "category": "Venezuela",
-      "pubDate": "Thu, 25 Jun 2026 22:47:11 GMT"
-    },
-    {
-      "title": "USA letter på sanksjoner for å hjelpe jordskjelvrammede",
-      "link": "https://www.nrk.no/nyheter/usa-letter-pa-sanksjoner-for-a-hjelpe-jordskjelvrammede-1.17936673",
-      "category": "Venezuela og USA",
-      "pubDate": "Thu, 25 Jun 2026 22:41:32 GMT"
-    },
-    {
-      "title": "Siktet for drapsforsøk etter knivstikking",
-      "link": "https://www.nrk.no/nyheter/siktet-for-drapsforsok-etter-knivstikking-1.17936644",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Thu, 25 Jun 2026 22:12:19 GMT"
-    },
-    {
-      "title": "Helseministeren lover bedre helsehjelp til transpersoner",
-      "link": "https://www.nrk.no/nyheter/helseministeren-lover-bedre-helsehjelp-til-transpersoner-1.17936569",
-      "category": "Transpersoner",
-      "pubDate": "Thu, 25 Jun 2026 20:31:55 GMT"
     }
   ]
 }
