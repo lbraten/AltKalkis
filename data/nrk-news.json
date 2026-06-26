@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-26T22:15:27.741Z",
+  "updatedAt": "2026-06-26T23:43:01.418Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fraktet til sykehus etter brann i Sarpsborg",
+      "link": "https://www.nrk.no/nyheter/fraktet-til-sykehus-etter-brann-i-sarpsborg-1.17938413",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Fri, 26 Jun 2026 23:21:17 GMT"
+    },
+    {
+      "title": "Det blir ingen streik i anleggsbransjen.",
+      "link": "https://www.nrk.no/nyheter/det-blir-ingen-streik-i-anleggsbransjen.-1.17938408",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 26 Jun 2026 23:09:50 GMT"
+    },
+    {
+      "title": "Nytt, mindre jordskjelv i Venezuela",
+      "link": "https://www.nrk.no/nyheter/nytt_-mindre-jordskjelv-i-venezuela-1.17938396",
+      "category": "Venezuela",
+      "pubDate": "Fri, 26 Jun 2026 22:50:46 GMT"
+    },
+    {
+      "title": "Norge tapte gruppefinalen mot Frankrike",
+      "link": "https://www.nrk.no/sport/norge-tapte-gruppefinalen-mot-frankrike-1.17938382",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 26 Jun 2026 21:47:25 GMT"
+    },
     {
       "title": "Det amerikanske forsvaret: USA har utført angrep mot Iran",
       "link": "https://www.nrk.no/nyheter/det-amerikanske-forsvaret_-usa-har-utfort-angrep-mot-iran-1.17938135",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/venezuelas-oljeminister_-oljeproduksjonen-ikke-pavirket-av-skjelvene-1.17938194",
       "category": "Venezuela",
       "pubDate": "Fri, 26 Jun 2026 20:16:29 GMT"
-    },
-    {
-      "title": "Nye varmerekorder i flere europeiske land",
-      "link": "https://www.nrk.no/nyheter/nye-varmerekorder-i-flere-europeiske-land-1.17938292",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Fri, 26 Jun 2026 19:34:56 GMT"
-    },
-    {
-      "title": "Burkina Faso bryter diplomatiske forbindelser med Frankrike",
-      "link": "https://www.nrk.no/nyheter/burkina-faso-bryter-diplomatiske-forbindelser-med-frankrike---1.17938277",
-      "category": "Burkina Faso",
-      "pubDate": "Fri, 26 Jun 2026 19:18:29 GMT"
-    },
-    {
-      "title": "EU forsvarer digitalskatten",
-      "link": "https://www.nrk.no/nyheter/eu-forsvarer-digitalskatten-1.17938204",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Fri, 26 Jun 2026 19:00:06 GMT"
-    },
-    {
-      "title": "Israel nekter å trekke seg ut av Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-nekter-a-trekke-seg-ut-av-sor-libanon--1.17937953",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 26 Jun 2026 18:44:05 GMT"
     }
   ]
 }
