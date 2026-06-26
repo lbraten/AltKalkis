@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-26T18:53:34.195Z",
+  "updatedAt": "2026-06-26T20:47:52.199Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Det amerikanske forsvaret: USA har utført angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/det-amerikanske-forsvaret_-usa-har-utfort-angrep-mot-iran-1.17938135",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 26 Jun 2026 20:38:13 GMT"
+    },
+    {
+      "title": "Venezuelas oljeminister: Oljeproduksjonen ikke påvirket av skjelvene",
+      "link": "https://www.nrk.no/nyheter/venezuelas-oljeminister_-oljeproduksjonen-ikke-pavirket-av-skjelvene-1.17938194",
+      "category": "Venezuela",
+      "pubDate": "Fri, 26 Jun 2026 20:16:29 GMT"
+    },
+    {
+      "title": "Nye varmerekorder i flere europeiske land",
+      "link": "https://www.nrk.no/nyheter/nye-varmerekorder-i-flere-europeiske-land-1.17938292",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Fri, 26 Jun 2026 19:34:56 GMT"
+    },
+    {
+      "title": "Burkina Faso bryter diplomatiske forbindelser med Frankrike",
+      "link": "https://www.nrk.no/nyheter/burkina-faso-bryter-diplomatiske-forbindelser-med-frankrike---1.17938277",
+      "category": "Burkina Faso",
+      "pubDate": "Fri, 26 Jun 2026 19:18:29 GMT"
+    },
+    {
+      "title": "EU forsvarer digitalskatten",
+      "link": "https://www.nrk.no/nyheter/eu-forsvarer-digitalskatten-1.17938204",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Fri, 26 Jun 2026 19:00:06 GMT"
+    },
     {
       "title": "Israel nekter å trekke seg ut av Sør-Libanon",
       "link": "https://www.nrk.no/nyheter/israel-nekter-a-trekke-seg-ut-av-sor-libanon--1.17937953",
       "category": "Libanon og Israel",
       "pubDate": "Fri, 26 Jun 2026 18:44:05 GMT"
-    },
-    {
-      "title": "Regjeringen lanserer tiltak for bedre helsehjelp til transpersoner",
-      "link": "https://www.nrk.no/nyheter/regjeringen-lanserer-tiltak-for-bedre-helsehjelp-til-transpersoner-1.17938177",
-      "category": "Transpersoner",
-      "pubDate": "Fri, 26 Jun 2026 17:57:45 GMT"
-    },
-    {
-      "title": "USAs utenriksminister: Israel og Libanon er enige om rammeavtale",
-      "link": "https://www.nrk.no/nyheter/usas-utenriksminister_-israel-og-libanon-er-enige-om-rammeavtale--1.17938208",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 26 Jun 2026 17:39:49 GMT"
-    },
-    {
-      "title": "DR Kongo: 1203 personer er bekreftet smittet av ebola",
-      "link": "https://www.nrk.no/nyheter/dr-kongo_-1203-personer-er-bekreftet-smittet-av-ebola-1.17938197",
-      "category": "Ebola",
-      "pubDate": "Fri, 26 Jun 2026 17:33:24 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Ullensaker",
-      "link": "https://www.nrk.no/stor-oslo/trafikkulykke-i-ullensaker-1.17937881",
-      "category": "Trafikkulykker på Romerike",
-      "pubDate": "Fri, 26 Jun 2026 17:28:24 GMT"
-    },
-    {
-      "title": "Dødstallet i Venezuela stiger til 920",
-      "link": "https://www.nrk.no/nyheter/dodstallet-i-venezuela-stiger-til-920-1.17938191",
-      "category": "Venezuela",
-      "pubDate": "Fri, 26 Jun 2026 17:24:00 GMT"
     }
   ]
 }
