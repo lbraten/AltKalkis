@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-25T22:39:21.665Z",
+  "updatedAt": "2026-06-26T00:11:20.381Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kong Charles vil ikke bo på slottet",
+      "link": "https://www.nrk.no/nyheter/kong-charles-vil-ikke-bo-pa-slottet--1.17936686",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 25 Jun 2026 23:52:11 GMT"
+    },
+    {
+      "title": "Brann i loft i boligblokk i Oslo",
+      "link": "https://www.nrk.no/nyheter/brann-i-loft-i-boligblokk-i-oslo-1.17936678",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 25 Jun 2026 23:10:43 GMT"
+    },
+    {
+      "title": "Gratis Starlink-internett etter skjelvene i Venezuela",
+      "link": "https://www.nrk.no/nyheter/gratis-starlink-internett-etter-skjelvene-i-venezuela-1.17936674",
+      "category": "Venezuela",
+      "pubDate": "Thu, 25 Jun 2026 22:47:11 GMT"
+    },
+    {
+      "title": "USA letter på sanksjoner for å hjelpe jordskjelvrammede",
+      "link": "https://www.nrk.no/nyheter/usa-letter-pa-sanksjoner-for-a-hjelpe-jordskjelvrammede-1.17936673",
+      "category": "Venezuela og USA",
+      "pubDate": "Thu, 25 Jun 2026 22:41:32 GMT"
+    },
     {
       "title": "Siktet for drapsforsøk etter knivstikking",
       "link": "https://www.nrk.no/nyheter/siktet-for-drapsforsok-etter-knivstikking-1.17936644",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/helseministeren-lover-bedre-helsehjelp-til-transpersoner-1.17936569",
       "category": "Transpersoner",
       "pubDate": "Thu, 25 Jun 2026 20:31:55 GMT"
-    },
-    {
-      "title": "Alvorlig voldshendelse i Fredrikstad",
-      "link": "https://www.nrk.no/ostfold/alvorlig-voldshendelse-i-fredrikstad-1.17936574",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Thu, 25 Jun 2026 20:18:17 GMT"
-    },
-    {
-      "title": "Påtalemyndigheten dropper ny rettssak mot Harvey Weinstein",
-      "link": "https://www.nrk.no/nyheter/patalemyndigheten-dropper-ny-rettssak-mot-harvey-weinstein-1.17936559",
-      "category": "Harvey Weinstein-saken",
-      "pubDate": "Thu, 25 Jun 2026 20:08:44 GMT"
-    },
-    {
-      "title": "Strømbrudd på Statfjord B: 74 personer fraktes bort med helikopter",
-      "link": "https://www.nrk.no/nyheter/strombrudd-pa-statfjord-b_-74-personer-fraktes-bort-med-helikopter-1.17936386",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 25 Jun 2026 19:55:47 GMT"
-    },
-    {
-      "title": "Glade vinnarar",
-      "link": "https://www.nrk.no/kultur/glade-vinnarar-1.17936405",
-      "category": "Landskappleiken 2026",
-      "pubDate": "Thu, 25 Jun 2026 19:51:34 GMT"
     }
   ]
 }
