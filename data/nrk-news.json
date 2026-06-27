@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-27T16:06:29.689Z",
+  "updatedAt": "2026-06-27T17:37:12.109Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Venezuela: Minst 1430 døde etter jordskjelv",
+      "link": "https://www.nrk.no/nyheter/venezuela_-minst-1430-dode-etter-jordskjelv-1.17938998",
+      "category": "Venezuela",
+      "pubDate": "Sat, 27 Jun 2026 17:23:17 GMT"
+    },
+    {
+      "title": "Serbias president går av – varsler nyvalg",
+      "link": "https://www.nrk.no/nyheter/serbias-president-gar-av-_-varsler-nyvalg-1.17938959",
+      "category": "Serbia",
+      "pubDate": "Sat, 27 Jun 2026 17:12:52 GMT"
+    },
+    {
+      "title": "Én person kritisk skadet etter voldshendelse i Trondheim",
+      "link": "https://www.nrk.no/trondelag/en-person-kritisk-skadet-etter-voldshendelse-i-trondheim-1.17938948",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 27 Jun 2026 16:45:53 GMT"
+    },
+    {
+      "title": "Frankrike: 74 drukningsdødsfall på én uke",
+      "link": "https://www.nrk.no/nyheter/frankrike_-74-drukningsdodsfall-pa-en-uke-1.17938912",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sat, 27 Jun 2026 16:31:27 GMT"
+    },
     {
       "title": "E6: To trafikkulykker i Sel",
       "link": "https://www.nrk.no/innlandet/e6_-to-trafikkulykker-i-sel-1.17938905",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/varmerekord-i-tyskland_-41_5-grader-1.17938885",
       "category": "Hetebølge og varmerekorder",
       "pubDate": "Sat, 27 Jun 2026 14:58:49 GMT"
-    },
-    {
-      "title": "Esker, ikke ekser, i veibanen på E6",
-      "link": "https://www.nrk.no/trondelag/esker_-ikke-ekser_-i-veibanen-pa-e6--1.17938879",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 27 Jun 2026 14:47:24 GMT"
-    },
-    {
-      "title": "90.000 deltok i årets Oslo Pride lørdag",
-      "link": "https://www.nrk.no/nyheter/90.000-deltok-i-arets-oslo-pride-lordag-1.17938844",
-      "category": "Pride",
-      "pubDate": "Sat, 27 Jun 2026 14:45:51 GMT"
-    },
-    {
-      "title": "Savner person under vann ved jettegrytene i Kvidingen",
-      "link": "https://www.nrk.no/nyheter/savner-person-under-vann-ved-jettegrytene-i-kvidingen-1.17938872",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 27 Jun 2026 14:09:09 GMT"
-    },
-    {
-      "title": "EMSC: Jordskjelv med styrke 6,1 i Afghanistan",
-      "link": "https://www.nrk.no/nyheter/emsc_-jordskjelv-med-styrke-6_1-i-afghanistan-1.17938857",
-      "category": "Jordskjelv i Asia",
-      "pubDate": "Sat, 27 Jun 2026 13:47:04 GMT"
     }
   ]
 }
