@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-27T12:51:32.332Z",
+  "updatedAt": "2026-06-27T14:43:37.968Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Savner person under vann ved jettegrytene i Kvidingen",
+      "link": "https://www.nrk.no/nyheter/savner-person-under-vann-ved-jettegrytene-i-kvidingen-1.17938872",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 27 Jun 2026 14:09:09 GMT"
+    },
+    {
+      "title": "EMSC: Jordskjelv med styrke 6,1 i Afghanistan",
+      "link": "https://www.nrk.no/nyheter/emsc_-jordskjelv-med-styrke-6_1-i-afghanistan-1.17938857",
+      "category": "Jordskjelv i Asia",
+      "pubDate": "Sat, 27 Jun 2026 13:47:04 GMT"
+    },
+    {
+      "title": "Mann funnet død ved Reisaelva i Troms",
+      "link": "https://www.nrk.no/nyheter/mann-funnet-dod-ved-reisaelva-i-troms--1.17938791",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 27 Jun 2026 13:22:39 GMT"
+    },
     {
       "title": "Eldre mann varetektsfengslet etter tre branner i Oslo",
       "link": "https://www.nrk.no/stor-oslo/eldre-mann-varetektsfengslet-etter-tre-branner-i-oslo-1.17938650",
@@ -9,8 +27,8 @@
       "pubDate": "Sat, 27 Jun 2026 12:01:42 GMT"
     },
     {
-      "title": "Ny varmerekord i Danmark: 36,6 grader målt i Odense",
-      "link": "https://www.nrk.no/nyheter/ny-varmerekord-i-danmark_-36_6-grader-malt-i-odense-1.17938704",
+      "title": "Ny varmerekord i Danmark: 37,0 grader målt",
+      "link": "https://www.nrk.no/nyheter/ny-varmerekord-i-danmark_-37_0-grader-malt--1.17938704",
       "category": "Danmark",
       "pubDate": "Sat, 27 Jun 2026 11:17:27 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/sapmi/svensk-politi_-roc-boyz-er-ikke-anmeldt-for-konsertvideo-1.17938732",
       "category": "Ođđasat - norsk",
       "pubDate": "Sat, 27 Jun 2026 11:06:59 GMT"
-    },
-    {
-      "title": "Gutt funnet i Drammen",
-      "link": "https://www.nrk.no/buskerud/gutt-funnet-i-drammen-1.17938714",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 27 Jun 2026 10:52:15 GMT"
-    },
-    {
-      "title": "Lockout rammer 1000 oljearbeidere: – Vi er beredt på å stå i dette",
-      "link": "https://www.nrk.no/nyheter/lockout-rammer-1000-oljearbeidere_-_-vi-er-beredt-pa-a-sta-i-dette-1.17938697",
-      "category": "Olje og gass",
-      "pubDate": "Sat, 27 Jun 2026 10:22:23 GMT"
-    },
-    {
-      "title": "Krasja i stjålet traktor, stjal båt og stakk av",
-      "link": "https://www.nrk.no/innlandet/krasja-i-stjalet-traktor_-stjal-bat-og-stakk-av-1.17938606",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sat, 27 Jun 2026 10:22:05 GMT"
     }
   ]
 }
