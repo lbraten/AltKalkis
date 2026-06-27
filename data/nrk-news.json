@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-27T14:43:37.968Z",
+  "updatedAt": "2026-06-27T16:06:29.689Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "E6: To trafikkulykker i Sel",
+      "link": "https://www.nrk.no/innlandet/e6_-to-trafikkulykker-i-sel-1.17938905",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 27 Jun 2026 15:18:57 GMT"
+    },
+    {
+      "title": "Varmerekord i Tyskland: 41,5 grader",
+      "link": "https://www.nrk.no/nyheter/varmerekord-i-tyskland_-41_5-grader-1.17938885",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sat, 27 Jun 2026 14:58:49 GMT"
+    },
+    {
+      "title": "Esker, ikke ekser, i veibanen på E6",
+      "link": "https://www.nrk.no/trondelag/esker_-ikke-ekser_-i-veibanen-pa-e6--1.17938879",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 27 Jun 2026 14:47:24 GMT"
+    },
+    {
+      "title": "90.000 deltok i årets Oslo Pride lørdag",
+      "link": "https://www.nrk.no/nyheter/90.000-deltok-i-arets-oslo-pride-lordag-1.17938844",
+      "category": "Pride",
+      "pubDate": "Sat, 27 Jun 2026 14:45:51 GMT"
+    },
     {
       "title": "Savner person under vann ved jettegrytene i Kvidingen",
       "link": "https://www.nrk.no/nyheter/savner-person-under-vann-ved-jettegrytene-i-kvidingen-1.17938872",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/emsc_-jordskjelv-med-styrke-6_1-i-afghanistan-1.17938857",
       "category": "Jordskjelv i Asia",
       "pubDate": "Sat, 27 Jun 2026 13:47:04 GMT"
-    },
-    {
-      "title": "Mann funnet død ved Reisaelva i Troms",
-      "link": "https://www.nrk.no/nyheter/mann-funnet-dod-ved-reisaelva-i-troms--1.17938791",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 27 Jun 2026 13:22:39 GMT"
-    },
-    {
-      "title": "Eldre mann varetektsfengslet etter tre branner i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/eldre-mann-varetektsfengslet-etter-tre-branner-i-oslo-1.17938650",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 27 Jun 2026 12:01:42 GMT"
-    },
-    {
-      "title": "Ny varmerekord i Danmark: 37,0 grader målt",
-      "link": "https://www.nrk.no/nyheter/ny-varmerekord-i-danmark_-37_0-grader-malt--1.17938704",
-      "category": "Danmark",
-      "pubDate": "Sat, 27 Jun 2026 11:17:27 GMT"
-    },
-    {
-      "title": "Svensk politi: Roc Boyz er ikke anmeldt for konsertvideo",
-      "link": "https://www.nrk.no/sapmi/svensk-politi_-roc-boyz-er-ikke-anmeldt-for-konsertvideo-1.17938732",
-      "category": "Ođđasat - norsk",
-      "pubDate": "Sat, 27 Jun 2026 11:06:59 GMT"
     }
   ]
 }
