@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-27T22:04:20.450Z",
+  "updatedAt": "2026-06-27T23:33:55.507Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "AFP: Eksplosjoner i Kyiv",
+      "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-i-kyiv-1.17939118",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 27 Jun 2026 23:23:47 GMT"
+    },
+    {
+      "title": "Trump bekrefter angrep",
+      "link": "https://www.nrk.no/nyheter/trump-bekrefter-angrep-1.17939117",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 27 Jun 2026 23:15:30 GMT"
+    },
     {
       "title": "USA bekrefter angrep i Iran",
       "link": "https://www.nrk.no/nyheter/usa-bekrefter-angrep-i-iran-1.17939094",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/drukningsulykke-pa-sognsvann_-mann-i-70-arene-sendt-til-sykehus-1.17939014",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 27 Jun 2026 17:41:32 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Drammen: – Fremstår alvorlig",
-      "link": "https://www.nrk.no/nyheter/trafikkulykke-i-drammen_-_-fremstar-alvorlig-1.17939007",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 27 Jun 2026 17:37:41 GMT"
-    },
-    {
-      "title": "Venezuela: Minst 1430 døde etter jordskjelv",
-      "link": "https://www.nrk.no/nyheter/venezuela_-minst-1430-dode-etter-jordskjelv-1.17938998",
-      "category": "Venezuela",
-      "pubDate": "Sat, 27 Jun 2026 17:23:17 GMT"
     }
   ]
 }
