@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-27T11:11:38.008Z",
+  "updatedAt": "2026-06-27T12:51:32.332Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eldre mann varetektsfengslet etter tre branner i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/eldre-mann-varetektsfengslet-etter-tre-branner-i-oslo-1.17938650",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 27 Jun 2026 12:01:42 GMT"
+    },
+    {
+      "title": "Ny varmerekord i Danmark: 36,6 grader målt i Odense",
+      "link": "https://www.nrk.no/nyheter/ny-varmerekord-i-danmark_-36_6-grader-malt-i-odense-1.17938704",
+      "category": "Danmark",
+      "pubDate": "Sat, 27 Jun 2026 11:17:27 GMT"
+    },
+    {
+      "title": "Svensk politi: Roc Boyz er ikke anmeldt for konsertvideo",
+      "link": "https://www.nrk.no/sapmi/svensk-politi_-roc-boyz-er-ikke-anmeldt-for-konsertvideo-1.17938732",
+      "category": "Ođđasat - norsk",
+      "pubDate": "Sat, 27 Jun 2026 11:06:59 GMT"
+    },
+    {
+      "title": "Gutt funnet i Drammen",
+      "link": "https://www.nrk.no/buskerud/gutt-funnet-i-drammen-1.17938714",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 27 Jun 2026 10:52:15 GMT"
+    },
     {
       "title": "Lockout rammer 1000 oljearbeidere: – Vi er beredt på å stå i dette",
       "link": "https://www.nrk.no/nyheter/lockout-rammer-1000-oljearbeidere_-_-vi-er-beredt-pa-a-sta-i-dette-1.17938697",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/innlandet/krasja-i-stjalet-traktor_-stjal-bat-og-stakk-av-1.17938606",
       "category": "Politi- og brannloggen i Innlandet",
       "pubDate": "Sat, 27 Jun 2026 10:22:05 GMT"
-    },
-    {
-      "title": "AFP: Minst 193 millioner mennesker i Europa kan vente temperaturer over 35 grader lørdag",
-      "link": "https://www.nrk.no/nyheter/afp_-minst-193-millioner-mennesker-i-europa-kan-vente-temperaturer-over-35-grader-lordag-1.17938644",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sat, 27 Jun 2026 10:13:18 GMT"
-    },
-    {
-      "title": "Nå er pride-paraden i gang: – Oslo er en regnbueby",
-      "link": "https://www.nrk.no/nyheter/na-er-pride-paraden-i-gang_-_-oslo-er-en-regnbueby-1.17938668",
-      "category": "Pride",
-      "pubDate": "Sat, 27 Jun 2026 10:04:37 GMT"
-    },
-    {
-      "title": "Store endringer i trafikken under paraden",
-      "link": "https://www.nrk.no/stor-oslo/store-endringer-i-trafikken-under-paraden-1.17938535",
-      "category": "Pride",
-      "pubDate": "Sat, 27 Jun 2026 09:05:00 GMT"
-    },
-    {
-      "title": "26 studier trekkes fra årets opptak til høyere utdanning",
-      "link": "https://www.nrk.no/nyheter/26-studier-trekkes-fra-arets-opptak-til-hoyere-utdanning-1.17938641",
-      "category": "Studieplassar i Noreg",
-      "pubDate": "Sat, 27 Jun 2026 08:54:50 GMT"
     }
   ]
 }
