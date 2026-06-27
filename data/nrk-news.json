@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-27T17:37:12.109Z",
+  "updatedAt": "2026-06-27T19:23:05.651Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Slått med stein og ranet i Drammen",
+      "link": "https://www.nrk.no/buskerud/slatt-med-stein-og-ranet-i-drammen-1.17939027",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 27 Jun 2026 18:27:13 GMT"
+    },
+    {
+      "title": "Drukningsulykke på Sognsvann: Mann i 70-årene sendt til sykehus",
+      "link": "https://www.nrk.no/nyheter/drukningsulykke-pa-sognsvann_-mann-i-70-arene-sendt-til-sykehus-1.17939014",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 27 Jun 2026 17:41:32 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Drammen: – Fremstår alvorlig",
+      "link": "https://www.nrk.no/nyheter/trafikkulykke-i-drammen_-_-fremstar-alvorlig-1.17939007",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 27 Jun 2026 17:37:41 GMT"
+    },
     {
       "title": "Venezuela: Minst 1430 døde etter jordskjelv",
       "link": "https://www.nrk.no/nyheter/venezuela_-minst-1430-dode-etter-jordskjelv-1.17938998",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/trondelag/en-person-kritisk-skadet-etter-voldshendelse-i-trondheim-1.17938948",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sat, 27 Jun 2026 16:45:53 GMT"
-    },
-    {
-      "title": "Frankrike: 74 drukningsdødsfall på én uke",
-      "link": "https://www.nrk.no/nyheter/frankrike_-74-drukningsdodsfall-pa-en-uke-1.17938912",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sat, 27 Jun 2026 16:31:27 GMT"
-    },
-    {
-      "title": "E6: To trafikkulykker i Sel",
-      "link": "https://www.nrk.no/innlandet/e6_-to-trafikkulykker-i-sel-1.17938905",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 27 Jun 2026 15:18:57 GMT"
-    },
-    {
-      "title": "Varmerekord i Tyskland: 41,5 grader",
-      "link": "https://www.nrk.no/nyheter/varmerekord-i-tyskland_-41_5-grader-1.17938885",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sat, 27 Jun 2026 14:58:49 GMT"
     }
   ]
 }
