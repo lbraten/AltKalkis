@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-27T03:38:08.492Z",
+  "updatedAt": "2026-06-27T06:53:26.957Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dagens høyeste badetemperaturer i sjøen",
+      "link": "https://www.nrk.no/nyheter/dagens-hoyeste-badetemperaturer-i-sjoen-1.17938480",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sat, 27 Jun 2026 06:33:42 GMT"
+    },
+    {
+      "title": "Pustet inn røyk fra brennende batterier",
+      "link": "https://www.nrk.no/ostfold/pustet-inn-royk-fra-brennende-batterier-1.17938537",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 27 Jun 2026 06:29:31 GMT"
+    },
+    {
+      "title": "Rekordvarm tropenatt i Danmark",
+      "link": "https://www.nrk.no/nyheter/rekordvarm-tropenatt-i-danmark-1.17938476",
+      "category": "Danmark",
+      "pubDate": "Sat, 27 Jun 2026 05:27:05 GMT"
+    },
+    {
+      "title": "Jordskjelv med styrke 5,4 i Pakistan",
+      "link": "https://www.nrk.no/nyheter/jordskjelv-med-styrke-5_4-i-pakistan-1.17938450",
+      "category": "Pakistan",
+      "pubDate": "Sat, 27 Jun 2026 04:18:58 GMT"
+    },
+    {
+      "title": "Politiet: Ingen ombord i brennende båt",
+      "link": "https://www.nrk.no/nyheter/politiet_-ingen-ombord-i-brennende-bat-1.17938445",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 27 Jun 2026 03:38:57 GMT"
+    },
     {
       "title": "Brann i båt utenfor Ålesund",
       "link": "https://www.nrk.no/nyheter/brann-i-bat-utenfor-alesund-1.17938444",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sat, 27 Jun 2026 03:16:06 GMT"
-    },
-    {
-      "title": "USA vil gi begrenset tilgang til ny KI-modell",
-      "link": "https://www.nrk.no/nyheter/usa-vil-gi-begrenset-tilgang-til-ny-ki-modell-1.17938435",
-      "category": "USA",
-      "pubDate": "Sat, 27 Jun 2026 03:09:33 GMT"
-    },
-    {
-      "title": "Ukrainsk guvernør: To drept i droneangrep",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-guvernor_-to-drept-i-droneangrep-1.17938416",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 27 Jun 2026 01:48:01 GMT"
-    },
-    {
-      "title": "Deler av vei rast ut i Agder",
-      "link": "https://www.nrk.no/nyheter/deler-av-vei-rast-ut-i-agder-1.17938404",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 27 Jun 2026 00:27:03 GMT"
-    },
-    {
-      "title": "Iran: – Har angrepet amerikanske mål",
-      "link": "https://www.nrk.no/nyheter/iran_-_-har-angrepet-amerikanske-mal-1.17938414",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Fri, 26 Jun 2026 23:57:18 GMT"
-    },
-    {
-      "title": "Fraktet til sykehus etter brann i Sarpsborg",
-      "link": "https://www.nrk.no/nyheter/fraktet-til-sykehus-etter-brann-i-sarpsborg-1.17938413",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Fri, 26 Jun 2026 23:21:17 GMT"
     }
   ]
 }
