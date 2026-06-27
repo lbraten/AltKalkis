@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-26T23:43:01.418Z",
+  "updatedAt": "2026-06-27T03:38:08.492Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i båt utenfor Ålesund",
+      "link": "https://www.nrk.no/nyheter/brann-i-bat-utenfor-alesund-1.17938444",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 27 Jun 2026 03:16:06 GMT"
+    },
+    {
+      "title": "USA vil gi begrenset tilgang til ny KI-modell",
+      "link": "https://www.nrk.no/nyheter/usa-vil-gi-begrenset-tilgang-til-ny-ki-modell-1.17938435",
+      "category": "USA",
+      "pubDate": "Sat, 27 Jun 2026 03:09:33 GMT"
+    },
+    {
+      "title": "Ukrainsk guvernør: To drept i droneangrep",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-guvernor_-to-drept-i-droneangrep-1.17938416",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 27 Jun 2026 01:48:01 GMT"
+    },
+    {
+      "title": "Deler av vei rast ut i Agder",
+      "link": "https://www.nrk.no/nyheter/deler-av-vei-rast-ut-i-agder-1.17938404",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 27 Jun 2026 00:27:03 GMT"
+    },
+    {
+      "title": "Iran: – Har angrepet amerikanske mål",
+      "link": "https://www.nrk.no/nyheter/iran_-_-har-angrepet-amerikanske-mal-1.17938414",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Fri, 26 Jun 2026 23:57:18 GMT"
+    },
     {
       "title": "Fraktet til sykehus etter brann i Sarpsborg",
       "link": "https://www.nrk.no/nyheter/fraktet-til-sykehus-etter-brann-i-sarpsborg-1.17938413",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Fri, 26 Jun 2026 23:21:17 GMT"
-    },
-    {
-      "title": "Det blir ingen streik i anleggsbransjen.",
-      "link": "https://www.nrk.no/nyheter/det-blir-ingen-streik-i-anleggsbransjen.-1.17938408",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Fri, 26 Jun 2026 23:09:50 GMT"
-    },
-    {
-      "title": "Nytt, mindre jordskjelv i Venezuela",
-      "link": "https://www.nrk.no/nyheter/nytt_-mindre-jordskjelv-i-venezuela-1.17938396",
-      "category": "Venezuela",
-      "pubDate": "Fri, 26 Jun 2026 22:50:46 GMT"
-    },
-    {
-      "title": "Norge tapte gruppefinalen mot Frankrike",
-      "link": "https://www.nrk.no/sport/norge-tapte-gruppefinalen-mot-frankrike-1.17938382",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 26 Jun 2026 21:47:25 GMT"
-    },
-    {
-      "title": "Det amerikanske forsvaret: USA har utført angrep mot Iran",
-      "link": "https://www.nrk.no/nyheter/det-amerikanske-forsvaret_-usa-har-utfort-angrep-mot-iran-1.17938135",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 26 Jun 2026 20:38:13 GMT"
-    },
-    {
-      "title": "Venezuelas oljeminister: Oljeproduksjonen ikke påvirket av skjelvene",
-      "link": "https://www.nrk.no/nyheter/venezuelas-oljeminister_-oljeproduksjonen-ikke-pavirket-av-skjelvene-1.17938194",
-      "category": "Venezuela",
-      "pubDate": "Fri, 26 Jun 2026 20:16:29 GMT"
     }
   ]
 }
