@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-27T09:28:52.640Z",
+  "updatedAt": "2026-06-27T11:11:38.008Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lockout rammer 1000 oljearbeidere: – Vi er beredt på å stå i dette",
+      "link": "https://www.nrk.no/nyheter/lockout-rammer-1000-oljearbeidere_-_-vi-er-beredt-pa-a-sta-i-dette-1.17938697",
+      "category": "Olje og gass",
+      "pubDate": "Sat, 27 Jun 2026 10:22:23 GMT"
+    },
+    {
+      "title": "Krasja i stjålet traktor, stjal båt og stakk av",
+      "link": "https://www.nrk.no/innlandet/krasja-i-stjalet-traktor_-stjal-bat-og-stakk-av-1.17938606",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sat, 27 Jun 2026 10:22:05 GMT"
+    },
+    {
+      "title": "AFP: Minst 193 millioner mennesker i Europa kan vente temperaturer over 35 grader lørdag",
+      "link": "https://www.nrk.no/nyheter/afp_-minst-193-millioner-mennesker-i-europa-kan-vente-temperaturer-over-35-grader-lordag-1.17938644",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sat, 27 Jun 2026 10:13:18 GMT"
+    },
+    {
+      "title": "Nå er pride-paraden i gang: – Oslo er en regnbueby",
+      "link": "https://www.nrk.no/nyheter/na-er-pride-paraden-i-gang_-_-oslo-er-en-regnbueby-1.17938668",
+      "category": "Pride",
+      "pubDate": "Sat, 27 Jun 2026 10:04:37 GMT"
+    },
     {
       "title": "Store endringer i trafikken under paraden",
       "link": "https://www.nrk.no/stor-oslo/store-endringer-i-trafikken-under-paraden-1.17938535",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/26-studier-trekkes-fra-arets-opptak-til-hoyere-utdanning-1.17938641",
       "category": "Studieplassar i Noreg",
       "pubDate": "Sat, 27 Jun 2026 08:54:50 GMT"
-    },
-    {
-      "title": "En bekreftet død og 13 skadet etter fly krasjet i Kina",
-      "link": "https://www.nrk.no/nyheter/en-bekreftet-dod-og-13-skadet-etter-fly-krasjet-i-kina-1.17938610",
-      "category": "Kina",
-      "pubDate": "Sat, 27 Jun 2026 08:47:54 GMT"
-    },
-    {
-      "title": "Truet med kniv for å rane til seg medisiner",
-      "link": "https://www.nrk.no/trondelag/truet-med-kniv-for-a-rane-til-seg-medisiner-1.17938539",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 27 Jun 2026 08:19:58 GMT"
-    },
-    {
-      "title": "ABC News: Minst fire skutt i Massachusetts etter Norge-kampen",
-      "link": "https://www.nrk.no/nyheter/abc-news_-minst-fire-skutt-i-massachusetts-etter-norge-kampen-1.17938607",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Sat, 27 Jun 2026 08:16:45 GMT"
-    },
-    {
-      "title": "Politiet er forberedt på pride i Oslo",
-      "link": "https://www.nrk.no/nyheter/politiet-er-forberedt-pa-pride-i-oslo-1.17938509",
-      "category": "Pride",
-      "pubDate": "Sat, 27 Jun 2026 08:01:31 GMT"
     }
   ]
 }
