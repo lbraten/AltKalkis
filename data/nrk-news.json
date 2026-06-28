@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-28T20:14:37.590Z",
+  "updatedAt": "2026-06-28T21:37:56.957Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Redningsaksjon i Skien",
+      "link": "https://www.nrk.no/nyheter/redningsaksjon-i-skien-1.17939758",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 28 Jun 2026 21:03:55 GMT"
+    },
     {
       "title": "Venezuela: Tenåring og far reddet etter fire dager",
       "link": "https://www.nrk.no/nyheter/venezuela_-tenaring-og-far-reddet-etter-fire-dager-1.17939692",
@@ -9,8 +15,8 @@
       "pubDate": "Sun, 28 Jun 2026 19:36:46 GMT"
     },
     {
-      "title": "Politiet leter etter gjerningspersoner etter en voldshendelse i Trondheim",
-      "link": "https://www.nrk.no/trondelag/politiet-leter-etter-gjerningspersoner-etter-en-voldshendelse-i-trondheim-1.17939644",
+      "title": "En person er siktet etter en voldshendelse i Trondheim",
+      "link": "https://www.nrk.no/trondelag/en-person-er-siktet-etter-en-voldshendelse-i-trondheim-1.17939644",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 28 Jun 2026 19:27:30 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-venezuela-1.17939612",
       "category": "Venezuela",
       "pubDate": "Sun, 28 Jun 2026 18:02:38 GMT"
-    },
-    {
-      "title": "Trafikken sto helt stille på E18 i Tønsberg",
-      "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-sto-helt-stille-pa-e18-i-tonsberg-1.17939618",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 28 Jun 2026 16:26:35 GMT"
     }
   ]
 }
