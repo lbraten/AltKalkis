@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-27T23:33:55.507Z",
+  "updatedAt": "2026-06-28T04:01:44.032Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann pågrepet etter ran i Drammen",
+      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-ran-i-drammen-1.17939150",
+      "category": "Politi og hendelser i Buskerud",
+      "pubDate": "Sun, 28 Jun 2026 03:59:27 GMT"
+    },
+    {
+      "title": "Iran: Har angrepet mål i Kuwait og Bahrain",
+      "link": "https://www.nrk.no/nyheter/iran_-har-angrepet-mal-i-kuwait-og-bahrain-1.17939132",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 28 Jun 2026 01:52:49 GMT"
+    },
+    {
+      "title": "Kuwait: Har blitt utsatt for luftangrep",
+      "link": "https://www.nrk.no/nyheter/kuwait_-har-blitt-utsatt-for-luftangrep-1.17939123",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 28 Jun 2026 00:54:34 GMT"
+    },
+    {
+      "title": "Meldinger om angrep med ballistisk missil",
+      "link": "https://www.nrk.no/nyheter/meldinger-om-angrep-med-ballistisk-missil-1.17939120",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 27 Jun 2026 23:43:39 GMT"
+    },
     {
       "title": "AFP: Eksplosjoner i Kyiv",
       "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-i-kyiv-1.17939118",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-bekrefter-angrep-1.17939117",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sat, 27 Jun 2026 23:15:30 GMT"
-    },
-    {
-      "title": "USA bekrefter angrep i Iran",
-      "link": "https://www.nrk.no/nyheter/usa-bekrefter-angrep-i-iran-1.17939094",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 27 Jun 2026 22:01:14 GMT"
-    },
-    {
-      "title": "Axios: USA utfører angrep ved Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/axios_-usa-utforer-angrep-ved-hormuzstredet-1.17939086",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 27 Jun 2026 21:47:14 GMT"
-    },
-    {
-      "title": "Slått med stein og ranet i Drammen",
-      "link": "https://www.nrk.no/buskerud/slatt-med-stein-og-ranet-i-drammen-1.17939027",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 27 Jun 2026 18:27:13 GMT"
-    },
-    {
-      "title": "Drukningsulykke på Sognsvann: Mann i 70-årene sendt til sykehus",
-      "link": "https://www.nrk.no/nyheter/drukningsulykke-pa-sognsvann_-mann-i-70-arene-sendt-til-sykehus-1.17939014",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 27 Jun 2026 17:41:32 GMT"
     }
   ]
 }
