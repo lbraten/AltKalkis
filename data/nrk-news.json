@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-28T21:37:56.957Z",
+  "updatedAt": "2026-06-28T23:04:10.851Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel: Har ødelagt Hizbollah-tunnell",
+      "link": "https://www.nrk.no/nyheter/israel_-har-odelagt-hizbollah-tunnell-1.17939760",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 28 Jun 2026 23:03:01 GMT"
+    },
     {
       "title": "Redningsaksjon i Skien",
       "link": "https://www.nrk.no/nyheter/redningsaksjon-i-skien-1.17939758",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-sto-stille-i-skien-1.17939666",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 28 Jun 2026 18:11:03 GMT"
-    },
-    {
-      "title": "Dødstallene stiger i Venezuela",
-      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-venezuela-1.17939612",
-      "category": "Venezuela",
-      "pubDate": "Sun, 28 Jun 2026 18:02:38 GMT"
     }
   ]
 }
