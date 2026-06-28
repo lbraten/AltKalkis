@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-28T08:02:13.279Z",
+  "updatedAt": "2026-06-28T10:39:50.465Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Uønsket hendelse ved Herøya Industripark",
+      "link": "https://www.nrk.no/vestfoldogtelemark/uonsket-hendelse-ved-heroya-industripark-1.17939326",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 28 Jun 2026 10:25:46 GMT"
+    },
+    {
+      "title": "E39 stengt etter ulykke",
+      "link": "https://www.nrk.no/sorlandet/e39-stengt-etter-ulykke-1.17939263",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 28 Jun 2026 09:29:23 GMT"
+    },
+    {
+      "title": "Varmeste natt noensinne i Tyskland",
+      "link": "https://www.nrk.no/nyheter/varmeste-natt-noensinne-i-tyskland-1.17939222",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sun, 28 Jun 2026 08:39:43 GMT"
+    },
     {
       "title": "Planlegger nye søk etter 19-åring i Kvinesdal",
       "link": "https://www.nrk.no/sorlandet/planlegger-nye-sok-etter-19-aring-i-kvinesdal--1.17939186",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/11-aring-reddet-tre-dager-etter-jordskjelvet-1.17939188",
       "category": "Venezuela",
       "pubDate": "Sun, 28 Jun 2026 06:13:08 GMT"
-    },
-    {
-      "title": "Adressa: Tre siktet etter alvorlig voldshendelse",
-      "link": "https://www.nrk.no/nyheter/adressa_-tre-siktet-etter-alvorlig-voldshendelse-1.17939180",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 28 Jun 2026 05:57:36 GMT"
-    },
-    {
-      "title": "21-åring død etter togpåkjørsel ved Roskildefestivalen",
-      "link": "https://www.nrk.no/nyheter/21-aring-dod-etter-togpakjorsel-ved-roskildefestivalen-1.17939179",
-      "category": "Danmark",
-      "pubDate": "Sun, 28 Jun 2026 05:35:21 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke på Sunnmøre",
-      "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-pa-sunnmore-1.17939155",
-      "category": "Trafikk i Møre og Romsdal",
-      "pubDate": "Sun, 28 Jun 2026 04:13:50 GMT"
     }
   ]
 }
