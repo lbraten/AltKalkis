@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-06-28T17:14:45.844Z",
+  "updatedAt": "2026-06-28T18:45:07.376Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trafikken står helt stille på E18 i Tønsberg",
-      "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-star-helt-stille-pa-e18-i-tonsberg-1.17939618",
+      "title": "Savnet 19-åring i Kvinesdal funnet død",
+      "link": "https://www.nrk.no/nyheter/savnet-19-aring-i-kvinesdal-funnet-dod-1.17939684",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 28 Jun 2026 18:12:40 GMT"
+    },
+    {
+      "title": "Trafikken står stille i Skien",
+      "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-star-stille-i-skien-1.17939666",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 28 Jun 2026 18:11:03 GMT"
+    },
+    {
+      "title": "Dødstallene stiger i Venezuela",
+      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-venezuela-1.17939612",
+      "category": "Venezuela",
+      "pubDate": "Sun, 28 Jun 2026 18:02:38 GMT"
+    },
+    {
+      "title": "Trafikken sto helt stille på E18 i Tønsberg",
+      "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-sto-helt-stille-pa-e18-i-tonsberg-1.17939618",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 28 Jun 2026 16:26:35 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/over-30-grader-flere-steder-i-norge-1.17939578",
       "category": "Hetebølge og varmerekorder",
       "pubDate": "Sun, 28 Jun 2026 16:01:08 GMT"
-    },
-    {
-      "title": "Turist pågrepet for droneflyging",
-      "link": "https://www.nrk.no/stor-oslo/turist-pagrepet-for-droneflyging--1.17939546",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 28 Jun 2026 15:39:13 GMT"
-    },
-    {
-      "title": "Nye varmerekorder i Polen og Tyskland",
-      "link": "https://www.nrk.no/nyheter/nye-varmerekorder-i-polen-og-tyskland-1.17939547",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sun, 28 Jun 2026 15:12:48 GMT"
-    },
-    {
-      "title": "Funn av død person i Porsgrunn",
-      "link": "https://www.nrk.no/vestfoldogtelemark/funn-av-dod-person-i-porsgrunn--1.17939399",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 28 Jun 2026 13:52:29 GMT"
     }
   ]
 }
