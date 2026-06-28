@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-28T15:50:10.557Z",
+  "updatedAt": "2026-06-28T17:14:45.844Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trafikken står helt stille på E18 i Tønsberg",
+      "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-star-helt-stille-pa-e18-i-tonsberg-1.17939618",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 28 Jun 2026 16:26:35 GMT"
+    },
+    {
+      "title": "Vann kongepokalen for beste dans",
+      "link": "https://www.nrk.no/kultur/vann-kongepokalen-for-beste-dans-1.17939620",
+      "category": "Landskappleiken 2026",
+      "pubDate": "Sun, 28 Jun 2026 16:20:55 GMT"
+    },
+    {
+      "title": "Over 30 grader flere steder i Norge",
+      "link": "https://www.nrk.no/nyheter/over-30-grader-flere-steder-i-norge-1.17939578",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sun, 28 Jun 2026 16:01:08 GMT"
+    },
+    {
+      "title": "Turist pågrepet for droneflyging",
+      "link": "https://www.nrk.no/stor-oslo/turist-pagrepet-for-droneflyging--1.17939546",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 28 Jun 2026 15:39:13 GMT"
+    },
     {
       "title": "Nye varmerekorder i Polen og Tyskland",
       "link": "https://www.nrk.no/nyheter/nye-varmerekorder-i-polen-og-tyskland-1.17939547",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/funn-av-dod-person-i-porsgrunn--1.17939399",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 28 Jun 2026 13:52:29 GMT"
-    },
-    {
-      "title": "Lynnedslag traff sommerland i Sverige",
-      "link": "https://www.nrk.no/nyheter/lynnedslag-traff-sommerland-i-sverige-1.17939497",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sun, 28 Jun 2026 13:37:51 GMT"
-    },
-    {
-      "title": "Varmerekord i Tsjekkia",
-      "link": "https://www.nrk.no/nyheter/varmerekord-i-tsjekkia-1.17939478",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sun, 28 Jun 2026 13:33:19 GMT"
-    },
-    {
-      "title": "Motorsyklist kjørt til sykehus etter utforkjøring på Notodden",
-      "link": "https://www.nrk.no/vestfoldogtelemark/motorsyklist-kjort-til-sykehus-etter-utforkjoring-pa-notodden--1.17939447",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 28 Jun 2026 13:20:37 GMT"
-    },
-    {
-      "title": "Mer enn 1300 døde i hetebølge",
-      "link": "https://www.nrk.no/nyheter/mer-enn-1300-dode-i-hetebolge-1.17939434",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sun, 28 Jun 2026 12:40:01 GMT"
     }
   ]
 }
