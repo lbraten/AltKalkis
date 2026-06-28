@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-28T18:45:07.376Z",
+  "updatedAt": "2026-06-28T20:14:37.590Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Venezuela: Tenåring og far reddet etter fire dager",
+      "link": "https://www.nrk.no/nyheter/venezuela_-tenaring-og-far-reddet-etter-fire-dager-1.17939692",
+      "category": "Venezuela",
+      "pubDate": "Sun, 28 Jun 2026 19:36:46 GMT"
+    },
+    {
+      "title": "Politiet leter etter gjerningspersoner etter en voldshendelse i Trondheim",
+      "link": "https://www.nrk.no/trondelag/politiet-leter-etter-gjerningspersoner-etter-en-voldshendelse-i-trondheim-1.17939644",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 28 Jun 2026 19:27:30 GMT"
+    },
     {
       "title": "Savnet 19-åring i Kvinesdal funnet død",
       "link": "https://www.nrk.no/nyheter/savnet-19-aring-i-kvinesdal-funnet-dod-1.17939684",
@@ -9,8 +21,8 @@
       "pubDate": "Sun, 28 Jun 2026 18:12:40 GMT"
     },
     {
-      "title": "Trafikken står stille i Skien",
-      "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-star-stille-i-skien-1.17939666",
+      "title": "Trafikken sto stille i Skien",
+      "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-sto-stille-i-skien-1.17939666",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 28 Jun 2026 18:11:03 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-sto-helt-stille-pa-e18-i-tonsberg-1.17939618",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 28 Jun 2026 16:26:35 GMT"
-    },
-    {
-      "title": "Vann kongepokalen for beste dans",
-      "link": "https://www.nrk.no/kultur/vann-kongepokalen-for-beste-dans-1.17939620",
-      "category": "Landskappleiken 2026",
-      "pubDate": "Sun, 28 Jun 2026 16:20:55 GMT"
-    },
-    {
-      "title": "Over 30 grader flere steder i Norge",
-      "link": "https://www.nrk.no/nyheter/over-30-grader-flere-steder-i-norge-1.17939578",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sun, 28 Jun 2026 16:01:08 GMT"
     }
   ]
 }
