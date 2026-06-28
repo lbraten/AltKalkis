@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-28T14:22:31.487Z",
+  "updatedAt": "2026-06-28T15:50:10.557Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nye varmerekorder i Polen og Tyskland",
+      "link": "https://www.nrk.no/nyheter/nye-varmerekorder-i-polen-og-tyskland-1.17939547",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sun, 28 Jun 2026 15:12:48 GMT"
+    },
     {
       "title": "Funn av død person i Porsgrunn",
       "link": "https://www.nrk.no/vestfoldogtelemark/funn-av-dod-person-i-porsgrunn--1.17939399",
@@ -21,8 +27,8 @@
       "pubDate": "Sun, 28 Jun 2026 13:33:19 GMT"
     },
     {
-      "title": "Alvorlig motorsykkelulykke på Notodden",
-      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-motorsykkelulykke-pa-notodden--1.17939447",
+      "title": "Motorsyklist kjørt til sykehus etter utforkjøring på Notodden",
+      "link": "https://www.nrk.no/vestfoldogtelemark/motorsyklist-kjort-til-sykehus-etter-utforkjoring-pa-notodden--1.17939447",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 28 Jun 2026 13:20:37 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mer-enn-1300-dode-i-hetebolge-1.17939434",
       "category": "Hetebølge og varmerekorder",
       "pubDate": "Sun, 28 Jun 2026 12:40:01 GMT"
-    },
-    {
-      "title": "Alvorlig sykkelulykke i Sandefjord",
-      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-sykkelulykke-i-sandefjord--1.17939397",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 28 Jun 2026 11:42:01 GMT"
     }
   ]
 }
