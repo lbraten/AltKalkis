@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-28T12:16:42.633Z",
+  "updatedAt": "2026-06-28T14:22:31.487Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Funn av død person i Porsgrunn",
+      "link": "https://www.nrk.no/vestfoldogtelemark/funn-av-dod-person-i-porsgrunn--1.17939399",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 28 Jun 2026 13:52:29 GMT"
+    },
+    {
+      "title": "Lynnedslag traff sommerland i Sverige",
+      "link": "https://www.nrk.no/nyheter/lynnedslag-traff-sommerland-i-sverige-1.17939497",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sun, 28 Jun 2026 13:37:51 GMT"
+    },
+    {
+      "title": "Varmerekord i Tsjekkia",
+      "link": "https://www.nrk.no/nyheter/varmerekord-i-tsjekkia-1.17939478",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sun, 28 Jun 2026 13:33:19 GMT"
+    },
+    {
+      "title": "Alvorlig motorsykkelulykke på Notodden",
+      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-motorsykkelulykke-pa-notodden--1.17939447",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 28 Jun 2026 13:20:37 GMT"
+    },
+    {
+      "title": "Mer enn 1300 døde i hetebølge",
+      "link": "https://www.nrk.no/nyheter/mer-enn-1300-dode-i-hetebolge-1.17939434",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sun, 28 Jun 2026 12:40:01 GMT"
+    },
     {
       "title": "Alvorlig sykkelulykke i Sandefjord",
       "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-sykkelulykke-i-sandefjord--1.17939397",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 28 Jun 2026 11:42:01 GMT"
-    },
-    {
-      "title": "Reuters: 14 døde i helikopterstyrt i Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/reuters_-14-dode-i-helikopterstyrt-i-saudi-arabia-1.17939374",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 28 Jun 2026 11:41:17 GMT"
-    },
-    {
-      "title": "SVT: Lynnedslag i badeland – kvinne alvorlig skadet",
-      "link": "https://www.nrk.no/nyheter/svt_-lynnedslag-i-badeland-_-kvinne-alvorlig-skadet-1.17939360",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 28 Jun 2026 10:58:48 GMT"
-    },
-    {
-      "title": "11 døde etter flystyrt i Frankrike",
-      "link": "https://www.nrk.no/nyheter/11-dode-etter-flystyrt-i-frankrike-1.17939287",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 28 Jun 2026 10:44:19 GMT"
-    },
-    {
-      "title": "Mindre brann i Herøya Industripark",
-      "link": "https://www.nrk.no/vestfoldogtelemark/mindre-brann-i-heroya-industripark-1.17939326",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 28 Jun 2026 10:25:46 GMT"
-    },
-    {
-      "title": "E39 stengt etter ulykke",
-      "link": "https://www.nrk.no/sorlandet/e39-stengt-etter-ulykke-1.17939263",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 28 Jun 2026 09:29:23 GMT"
     }
   ]
 }
