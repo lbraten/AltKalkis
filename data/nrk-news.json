@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-06-28T10:39:50.465Z",
+  "updatedAt": "2026-06-28T12:16:42.633Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Uønsket hendelse ved Herøya Industripark",
-      "link": "https://www.nrk.no/vestfoldogtelemark/uonsket-hendelse-ved-heroya-industripark-1.17939326",
+      "title": "Alvorlig sykkelulykke i Sandefjord",
+      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-sykkelulykke-i-sandefjord--1.17939397",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 28 Jun 2026 11:42:01 GMT"
+    },
+    {
+      "title": "Reuters: 14 døde i helikopterstyrt i Saudi-Arabia",
+      "link": "https://www.nrk.no/nyheter/reuters_-14-dode-i-helikopterstyrt-i-saudi-arabia-1.17939374",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 28 Jun 2026 11:41:17 GMT"
+    },
+    {
+      "title": "SVT: Lynnedslag i badeland – kvinne alvorlig skadet",
+      "link": "https://www.nrk.no/nyheter/svt_-lynnedslag-i-badeland-_-kvinne-alvorlig-skadet-1.17939360",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 28 Jun 2026 10:58:48 GMT"
+    },
+    {
+      "title": "11 døde etter flystyrt i Frankrike",
+      "link": "https://www.nrk.no/nyheter/11-dode-etter-flystyrt-i-frankrike-1.17939287",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 28 Jun 2026 10:44:19 GMT"
+    },
+    {
+      "title": "Mindre brann i Herøya Industripark",
+      "link": "https://www.nrk.no/vestfoldogtelemark/mindre-brann-i-heroya-industripark-1.17939326",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 28 Jun 2026 10:25:46 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/e39-stengt-etter-ulykke-1.17939263",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 28 Jun 2026 09:29:23 GMT"
-    },
-    {
-      "title": "Varmeste natt noensinne i Tyskland",
-      "link": "https://www.nrk.no/nyheter/varmeste-natt-noensinne-i-tyskland-1.17939222",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sun, 28 Jun 2026 08:39:43 GMT"
-    },
-    {
-      "title": "Planlegger nye søk etter 19-åring i Kvinesdal",
-      "link": "https://www.nrk.no/sorlandet/planlegger-nye-sok-etter-19-aring-i-kvinesdal--1.17939186",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 28 Jun 2026 06:33:16 GMT"
-    },
-    {
-      "title": "AFP: Flere dødsfall i Frankrike under hetebølgen",
-      "link": "https://www.nrk.no/nyheter/afp_-flere-dodsfall-i-frankrike-under-hetebolgen-1.17939210",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sun, 28 Jun 2026 06:26:53 GMT"
-    },
-    {
-      "title": "11-åring reddet tre dager etter jordskjelvet",
-      "link": "https://www.nrk.no/nyheter/11-aring-reddet-tre-dager-etter-jordskjelvet-1.17939188",
-      "category": "Venezuela",
-      "pubDate": "Sun, 28 Jun 2026 06:13:08 GMT"
     }
   ]
 }
