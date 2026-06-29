@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-29T16:23:13.161Z",
+  "updatedAt": "2026-06-29T18:28:50.272Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Venezuela: 1719 døde etter jordskjelvet",
+      "link": "https://www.nrk.no/nyheter/venezuela_-1719-dode-etter-jordskjelvet-1.17941026",
+      "category": "Venezuela",
+      "pubDate": "Mon, 29 Jun 2026 18:09:09 GMT"
+    },
+    {
+      "title": "Tysk politi om skytingen: Ofrene var ansatte ved et ungdomssenter",
+      "link": "https://www.nrk.no/nyheter/tysk-politi-om-skytingen_-ofrene-var-ansatte-ved-et-ungdomssenter-1.17941011",
+      "category": "Tyskland",
+      "pubDate": "Mon, 29 Jun 2026 18:00:50 GMT"
+    },
+    {
+      "title": "OUS trekker artikler om transpersoner",
+      "link": "https://www.nrk.no/stor-oslo/ous-trekker-artikler-om-transpersoner-1.17940932",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 29 Jun 2026 17:52:49 GMT"
+    },
+    {
+      "title": "Iran avviser planer om USA-samtaler",
+      "link": "https://www.nrk.no/nyheter/iran-avviser-planer-om-usa-samtaler-1.17940966",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 29 Jun 2026 17:37:49 GMT"
+    },
+    {
+      "title": "Konkurransetilsynet: Vurderer å stanse Elkjøps oppkjøp av Eplehuset",
+      "link": "https://www.nrk.no/nyheter/konkurransetilsynet_-vurderer-a-stanse-elkjops-oppkjop-av-eplehuset-1.17940915",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 29 Jun 2026 16:35:37 GMT"
+    },
     {
       "title": "Bevisst hevnaksjon gikk utover uskyldig mann",
       "link": "https://www.nrk.no/vestfoldogtelemark/bevisst-hevnaksjon-gikk-utover-uskyldig-mann-1.17940659",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 29 Jun 2026 16:13:24 GMT"
-    },
-    {
-      "title": "Dømd for å ha køyrt i 174 km/t i 60-sone",
-      "link": "https://www.nrk.no/mr/domd-for-a-ha-koyrt-i-174-km_t-i-60-sone-1.17940934",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 29 Jun 2026 16:02:16 GMT"
-    },
-    {
-      "title": "Avslutter redningsaksjon i Bergen uten funn",
-      "link": "https://www.nrk.no/vestland/avslutter-redningsaksjon-i-bergen-uten-funn-1.17940869",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 29 Jun 2026 15:31:25 GMT"
-    },
-    {
-      "title": "Varmerekord i Slovakia",
-      "link": "https://www.nrk.no/nyheter/varmerekord-i-slovakia-1.17940868",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Mon, 29 Jun 2026 15:25:23 GMT"
-    },
-    {
-      "title": "Oppblåsbar flamingo på drift i Oslofjorden",
-      "link": "https://www.nrk.no/stor-oslo/oppblasbar-flamingo-pa-drift-i-oslofjorden-1.17940844",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 29 Jun 2026 14:39:50 GMT"
-    },
-    {
-      "title": "Sentralbanktopp får beholde jobben i USA",
-      "link": "https://www.nrk.no/nyheter/sentralbanktopp-far-beholde-jobben-i-usa-1.17940846",
-      "category": "USA",
-      "pubDate": "Mon, 29 Jun 2026 14:37:53 GMT"
     }
   ]
 }
