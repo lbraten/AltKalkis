@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-06-29T18:28:50.272Z",
+  "updatedAt": "2026-06-29T20:27:30.482Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fujimori har vunnet presidentvalget i Peru",
+      "link": "https://www.nrk.no/nyheter/fujimori-har-vunnet-presidentvalget-i-peru-1.17941088",
+      "category": "Peru",
+      "pubDate": "Mon, 29 Jun 2026 20:12:36 GMT"
+    },
+    {
+      "title": "E6 stenges mellom Fauske og Rognan i over en uke",
+      "link": "https://www.nrk.no/nyheter/e6-stenges-mellom-fauske-og-rognan-i-over-en-uke-1.17941036",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 29 Jun 2026 19:54:20 GMT"
+    },
     {
       "title": "Venezuela: 1719 døde etter jordskjelvet",
       "link": "https://www.nrk.no/nyheter/venezuela_-1719-dode-etter-jordskjelvet-1.17941026",
       "category": "Venezuela",
       "pubDate": "Mon, 29 Jun 2026 18:09:09 GMT"
+    },
+    {
+      "title": "Advarer mot understrømmer i jettegryter",
+      "link": "https://www.nrk.no/sorlandet/advarer-mot-understrommer-i-jettegryter-1.17940923",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 29 Jun 2026 18:08:20 GMT"
     },
     {
       "title": "Tysk politi om skytingen: Ofrene var ansatte ved et ungdomssenter",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/ous-trekker-artikler-om-transpersoner-1.17940932",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Mon, 29 Jun 2026 17:52:49 GMT"
-    },
-    {
-      "title": "Iran avviser planer om USA-samtaler",
-      "link": "https://www.nrk.no/nyheter/iran-avviser-planer-om-usa-samtaler-1.17940966",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 29 Jun 2026 17:37:49 GMT"
-    },
-    {
-      "title": "Konkurransetilsynet: Vurderer å stanse Elkjøps oppkjøp av Eplehuset",
-      "link": "https://www.nrk.no/nyheter/konkurransetilsynet_-vurderer-a-stanse-elkjops-oppkjop-av-eplehuset-1.17940915",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 29 Jun 2026 16:35:37 GMT"
-    },
-    {
-      "title": "Bevisst hevnaksjon gikk utover uskyldig mann",
-      "link": "https://www.nrk.no/vestfoldogtelemark/bevisst-hevnaksjon-gikk-utover-uskyldig-mann-1.17940659",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 29 Jun 2026 16:13:24 GMT"
     }
   ]
 }
