@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-06-28T23:04:10.851Z",
+  "updatedAt": "2026-06-29T01:36:25.300Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Israel: Har ødelagt Hizbollah-tunnell",
-      "link": "https://www.nrk.no/nyheter/israel_-har-odelagt-hizbollah-tunnell-1.17939760",
+      "title": "Ansatte: Viktig oljeraffineri i Venezuela ute av drift",
+      "link": "https://www.nrk.no/nyheter/ansatte_-viktig-oljeraffineri-i-venezuela-ute-av-drift-1.17939797",
+      "category": "Venezuela",
+      "pubDate": "Mon, 29 Jun 2026 01:19:12 GMT"
+    },
+    {
+      "title": "Kvinne omkom i badeulykke i Skien",
+      "link": "https://www.nrk.no/nyheter/kvinne-omkom-i-badeulykke-i-skien-1.17939787",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 28 Jun 2026 23:43:29 GMT"
+    },
+    {
+      "title": "Israel: Har ødelagt Hizbollah-tunnel",
+      "link": "https://www.nrk.no/nyheter/israel_-har-odelagt-hizbollah-tunnel-1.17939760",
       "category": "Libanon og Israel",
       "pubDate": "Sun, 28 Jun 2026 23:03:01 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/trondelag/en-person-er-siktet-etter-en-voldshendelse-i-trondheim-1.17939644",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 28 Jun 2026 19:27:30 GMT"
-    },
-    {
-      "title": "Savnet 19-åring i Kvinesdal funnet død",
-      "link": "https://www.nrk.no/nyheter/savnet-19-aring-i-kvinesdal-funnet-dod-1.17939684",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 28 Jun 2026 18:12:40 GMT"
-    },
-    {
-      "title": "Trafikken sto stille i Skien",
-      "link": "https://www.nrk.no/vestfoldogtelemark/trafikken-sto-stille-i-skien-1.17939666",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 28 Jun 2026 18:11:03 GMT"
     }
   ]
 }
