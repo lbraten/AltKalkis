@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-29T21:54:03.507Z",
+  "updatedAt": "2026-06-29T23:00:00.894Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Steinras stenger riksvei 55 i Balestrand",
+      "link": "https://www.nrk.no/nyheter/steinras-stenger-riksvei-55-i-balestrand-1.17941134",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 29 Jun 2026 21:56:00 GMT"
+    },
     {
       "title": "Tre såret i eksplosjon i Monaco",
       "link": "https://www.nrk.no/nyheter/tre-saret-i-eksplosjon-i-monaco-1.17941132",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fujimori-har-vunnet-presidentvalget-i-peru-1.17941088",
       "category": "Peru",
       "pubDate": "Mon, 29 Jun 2026 20:12:36 GMT"
-    },
-    {
-      "title": "E6 stenges mellom Fauske og Rognan i over en uke",
-      "link": "https://www.nrk.no/nyheter/e6-stenges-mellom-fauske-og-rognan-i-over-en-uke-1.17941036",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 29 Jun 2026 19:54:20 GMT"
     }
   ]
 }
