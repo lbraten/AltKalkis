@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-29T01:36:25.300Z",
+  "updatedAt": "2026-06-29T06:50:31.197Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kongo: 360 har dødd av ebola",
+      "link": "https://www.nrk.no/nyheter/kongo_-360-har-dodd-av-ebola-1.17939870",
+      "category": "Ebola",
+      "pubDate": "Mon, 29 Jun 2026 06:41:20 GMT"
+    },
+    {
+      "title": "Sør-Korea satser stort på kunstig intelligens",
+      "link": "https://www.nrk.no/nyheter/sor-korea-satser-stort-pa-kunstig-intelligens-1.17939882",
+      "category": "Kunstig intelligens",
+      "pubDate": "Mon, 29 Jun 2026 06:06:43 GMT"
+    },
+    {
+      "title": "Rapport: Barnevernsansatte må beskyttes bedre mot vold",
+      "link": "https://www.nrk.no/nyheter/rapport_-barnevernsansatte-ma-beskyttes-bedre-mot-vold-1.17939862",
+      "category": "Barnevern",
+      "pubDate": "Mon, 29 Jun 2026 05:01:45 GMT"
+    },
+    {
+      "title": "Strømmen tilbake ved oljeraffineri i Venezuela",
+      "link": "https://www.nrk.no/nyheter/strommen-tilbake-ved-oljeraffineri-i-venezuela-1.17939851",
+      "category": "Venezuela",
+      "pubDate": "Mon, 29 Jun 2026 04:42:40 GMT"
+    },
+    {
+      "title": "Tjenesteperson: Iran-samtalene fortsetter",
+      "link": "https://www.nrk.no/nyheter/tjenesteperson_-iran-samtalene-fortsetter-1.17939812",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 29 Jun 2026 02:40:09 GMT"
+    },
     {
       "title": "Ansatte: Viktig oljeraffineri i Venezuela ute av drift",
       "link": "https://www.nrk.no/nyheter/ansatte_-viktig-oljeraffineri-i-venezuela-ute-av-drift-1.17939797",
       "category": "Venezuela",
       "pubDate": "Mon, 29 Jun 2026 01:19:12 GMT"
-    },
-    {
-      "title": "Kvinne omkom i badeulykke i Skien",
-      "link": "https://www.nrk.no/nyheter/kvinne-omkom-i-badeulykke-i-skien-1.17939787",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 28 Jun 2026 23:43:29 GMT"
-    },
-    {
-      "title": "Israel: Har ødelagt Hizbollah-tunnel",
-      "link": "https://www.nrk.no/nyheter/israel_-har-odelagt-hizbollah-tunnel-1.17939760",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 28 Jun 2026 23:03:01 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Skien",
-      "link": "https://www.nrk.no/nyheter/redningsaksjon-i-skien-1.17939758",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 28 Jun 2026 21:03:55 GMT"
-    },
-    {
-      "title": "Venezuela: Tenåring og far reddet etter fire dager",
-      "link": "https://www.nrk.no/nyheter/venezuela_-tenaring-og-far-reddet-etter-fire-dager-1.17939692",
-      "category": "Venezuela",
-      "pubDate": "Sun, 28 Jun 2026 19:36:46 GMT"
-    },
-    {
-      "title": "En person er siktet etter en voldshendelse i Trondheim",
-      "link": "https://www.nrk.no/trondelag/en-person-er-siktet-etter-en-voldshendelse-i-trondheim-1.17939644",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 28 Jun 2026 19:27:30 GMT"
     }
   ]
 }
