@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-29T20:27:30.482Z",
+  "updatedAt": "2026-06-29T21:54:03.507Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tre såret i eksplosjon i Monaco",
+      "link": "https://www.nrk.no/nyheter/tre-saret-i-eksplosjon-i-monaco-1.17941132",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 29 Jun 2026 21:24:55 GMT"
+    },
+    {
+      "title": "Minst åtte drept i nye angrep mot Gaza",
+      "link": "https://www.nrk.no/nyheter/minst-atte-drept-i-nye-angrep-mot-gaza-1.17941125",
+      "category": "Krigen i Gaza",
+      "pubDate": "Mon, 29 Jun 2026 21:22:37 GMT"
+    },
+    {
+      "title": "Redningsaksjon i Kristiansand avblåst",
+      "link": "https://www.nrk.no/nyheter/redningsaksjon-i-kristiansand-avblast-1.17941108",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 29 Jun 2026 21:00:00 GMT"
+    },
+    {
+      "title": "Bjørn observert i Berlevåg – Hold dere i bilen",
+      "link": "https://www.nrk.no/nyheter/bjorn-observert-i-berlevag-_-hold-dere-i-bilen-1.17941106",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 29 Jun 2026 20:34:51 GMT"
+    },
     {
       "title": "Fujimori har vunnet presidentvalget i Peru",
       "link": "https://www.nrk.no/nyheter/fujimori-har-vunnet-presidentvalget-i-peru-1.17941088",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/e6-stenges-mellom-fauske-og-rognan-i-over-en-uke-1.17941036",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 29 Jun 2026 19:54:20 GMT"
-    },
-    {
-      "title": "Venezuela: 1719 døde etter jordskjelvet",
-      "link": "https://www.nrk.no/nyheter/venezuela_-1719-dode-etter-jordskjelvet-1.17941026",
-      "category": "Venezuela",
-      "pubDate": "Mon, 29 Jun 2026 18:09:09 GMT"
-    },
-    {
-      "title": "Advarer mot understrømmer i jettegryter",
-      "link": "https://www.nrk.no/sorlandet/advarer-mot-understrommer-i-jettegryter-1.17940923",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 29 Jun 2026 18:08:20 GMT"
-    },
-    {
-      "title": "Tysk politi om skytingen: Ofrene var ansatte ved et ungdomssenter",
-      "link": "https://www.nrk.no/nyheter/tysk-politi-om-skytingen_-ofrene-var-ansatte-ved-et-ungdomssenter-1.17941011",
-      "category": "Tyskland",
-      "pubDate": "Mon, 29 Jun 2026 18:00:50 GMT"
-    },
-    {
-      "title": "OUS trekker artikler om transpersoner",
-      "link": "https://www.nrk.no/stor-oslo/ous-trekker-artikler-om-transpersoner-1.17940932",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 29 Jun 2026 17:52:49 GMT"
     }
   ]
 }
