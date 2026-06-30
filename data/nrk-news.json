@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-29T23:00:00.894Z",
+  "updatedAt": "2026-06-30T00:15:30.599Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump krever billigere bensin",
+      "link": "https://www.nrk.no/nyheter/trump-krever-billigere-bensin-1.17941149",
+      "category": "USA",
+      "pubDate": "Mon, 29 Jun 2026 23:59:05 GMT"
+    },
+    {
+      "title": "Eboladødstallet i Kongo har steget til 377",
+      "link": "https://www.nrk.no/nyheter/eboladodstallet-i-kongo-har-steget-til-377-1.17941139",
+      "category": "Ebola",
+      "pubDate": "Mon, 29 Jun 2026 23:11:26 GMT"
+    },
     {
       "title": "Steinras stenger riksvei 55 i Balestrand",
       "link": "https://www.nrk.no/nyheter/steinras-stenger-riksvei-55-i-balestrand-1.17941134",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/redningsaksjon-i-kristiansand-avblast-1.17941108",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 29 Jun 2026 21:00:00 GMT"
-    },
-    {
-      "title": "Bjørn observert i Berlevåg – Hold dere i bilen",
-      "link": "https://www.nrk.no/nyheter/bjorn-observert-i-berlevag-_-hold-dere-i-bilen-1.17941106",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 29 Jun 2026 20:34:51 GMT"
-    },
-    {
-      "title": "Fujimori har vunnet presidentvalget i Peru",
-      "link": "https://www.nrk.no/nyheter/fujimori-har-vunnet-presidentvalget-i-peru-1.17941088",
-      "category": "Peru",
-      "pubDate": "Mon, 29 Jun 2026 20:12:36 GMT"
     }
   ]
 }
