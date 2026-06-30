@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-30T00:15:30.599Z",
+  "updatedAt": "2026-06-30T04:45:48.975Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trump krever billigere bensin",
-      "link": "https://www.nrk.no/nyheter/trump-krever-billigere-bensin-1.17941149",
-      "category": "USA",
-      "pubDate": "Mon, 29 Jun 2026 23:59:05 GMT"
+      "title": "Australia dobler boten for å bryte 16-årsgrense",
+      "link": "https://www.nrk.no/nyheter/australia-dobler-boten-for-a-bryte-16-arsgrense-1.17941190",
+      "category": "Australia",
+      "pubDate": "Tue, 30 Jun 2026 04:05:13 GMT"
     },
     {
-      "title": "Eboladødstallet i Kongo har steget til 377",
-      "link": "https://www.nrk.no/nyheter/eboladodstallet-i-kongo-har-steget-til-377-1.17941139",
-      "category": "Ebola",
-      "pubDate": "Mon, 29 Jun 2026 23:11:26 GMT"
+      "title": "Savnet etter jordskjelv i Venezuela",
+      "link": "https://www.nrk.no/nyheter/savnet-etter-jordskjelv-i-venezuela-1.17941173",
+      "category": "Venezuela",
+      "pubDate": "Tue, 30 Jun 2026 03:34:18 GMT"
     },
     {
-      "title": "Steinras stenger riksvei 55 i Balestrand",
-      "link": "https://www.nrk.no/nyheter/steinras-stenger-riksvei-55-i-balestrand-1.17941134",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 29 Jun 2026 21:56:00 GMT"
+      "title": "Kraftig brann på indisk oljeraffineri",
+      "link": "https://www.nrk.no/nyheter/kraftig-brann-pa-indisk-oljeraffineri-1.17941166",
+      "category": "India",
+      "pubDate": "Tue, 30 Jun 2026 03:00:46 GMT"
     },
     {
-      "title": "Tre såret i eksplosjon i Monaco",
-      "link": "https://www.nrk.no/nyheter/tre-saret-i-eksplosjon-i-monaco-1.17941132",
+      "title": "Viktig havn for nødhjelp gjenåpnet i Venezuela",
+      "link": "https://www.nrk.no/nyheter/viktig-havn-for-nodhjelp-gjenapnet-i-venezuela-1.17941168",
+      "category": "Venezuela",
+      "pubDate": "Tue, 30 Jun 2026 02:22:01 GMT"
+    },
+    {
+      "title": "Ukrainsk oligark såret i eksplosjon i Monaco",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-oligark-saret-i-eksplosjon-i-monaco-1.17941160",
       "category": "NRK Nyheter",
-      "pubDate": "Mon, 29 Jun 2026 21:24:55 GMT"
+      "pubDate": "Tue, 30 Jun 2026 01:17:59 GMT"
     },
     {
-      "title": "Minst åtte drept i nye angrep mot Gaza",
-      "link": "https://www.nrk.no/nyheter/minst-atte-drept-i-nye-angrep-mot-gaza-1.17941125",
-      "category": "Krigen i Gaza",
-      "pubDate": "Mon, 29 Jun 2026 21:22:37 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Kristiansand avblåst",
-      "link": "https://www.nrk.no/nyheter/redningsaksjon-i-kristiansand-avblast-1.17941108",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 29 Jun 2026 21:00:00 GMT"
+      "title": "Russland vurderer lavere drivstoffkvalitet",
+      "link": "https://www.nrk.no/nyheter/russland-vurderer-lavere-drivstoffkvalitet-1.17941153",
+      "category": "Russland",
+      "pubDate": "Tue, 30 Jun 2026 00:33:16 GMT"
     }
   ]
 }
