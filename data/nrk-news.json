@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-30T21:00:37.778Z",
+  "updatedAt": "2026-06-30T22:49:39.820Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ny stor ordre for Kongsberg",
+      "link": "https://www.nrk.no/nyheter/ny-stor-ordre-for-kongsberg-1.17942721",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 30 Jun 2026 21:37:28 GMT"
+    },
+    {
+      "title": "Qatar sier de fortsatt skal megle mellom USA og Iran",
+      "link": "https://www.nrk.no/nyheter/qatar-sier-de-fortsatt-skal-megle-mellom-usa-og-iran-1.17942717",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 30 Jun 2026 21:20:22 GMT"
+    },
+    {
+      "title": "Politiet stanset festen foran slottet",
+      "link": "https://www.nrk.no/nyheter/politiet-stanset-festen-foran-slottet-1.17942715",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Tue, 30 Jun 2026 21:07:22 GMT"
+    },
+    {
+      "title": "USA gratulerer Fujimori med valgseieren i Peru",
+      "link": "https://www.nrk.no/nyheter/usa-gratulerer-fujimori-med-valgseieren-i-peru-1.17942714",
+      "category": "Peru",
+      "pubDate": "Tue, 30 Jun 2026 21:01:56 GMT"
+    },
     {
       "title": "Huitfeldt om at roing tar av i USA: – De tar meg ikke i hånda, men de begynner å ro",
       "link": "https://www.nrk.no/nyheter/huitfeldt-om-at-roing-tar-av-i-usa_-_-de-tar-meg-ikke-i-handa_-men-de-begynner-a-ro-1.17942665",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/trafikkulykke-pa-e16-i-retning-klofta-1.17942583",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 30 Jun 2026 19:49:21 GMT"
-    },
-    {
-      "title": "3-åring reddet ut av ruinene i Venezuela etter seks dager",
-      "link": "https://www.nrk.no/nyheter/3-aring-reddet-ut-av-ruinene-i-venezuela-etter-seks-dager-1.17942650",
-      "category": "Venezuela",
-      "pubDate": "Tue, 30 Jun 2026 19:48:09 GMT"
-    },
-    {
-      "title": "Iran sier de prioriterer diplomati, men er klare for krig",
-      "link": "https://www.nrk.no/nyheter/iran-sier-de-prioriterer-diplomati_-men-er-klare-for-krig-1.17942621",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 30 Jun 2026 19:46:34 GMT"
-    },
-    {
-      "title": "Kongehuset etter seieren: – Kongehuset gleder seg sammen med hele Norge",
-      "link": "https://www.nrk.no/nyheter/kongehuset-etter-seieren_-_-kongehuset-gleder-seg-sammen-med-hele-norge-1.17942640",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Tue, 30 Jun 2026 19:42:26 GMT"
-    },
-    {
-      "title": "Norske supportere har tatt over Karl Johan",
-      "link": "https://www.nrk.no/nyheter/norske-supportere-har-tatt-over-karl-johan-1.17942586",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Tue, 30 Jun 2026 19:38:18 GMT"
     }
   ]
 }
