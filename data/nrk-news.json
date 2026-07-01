@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-07-01T21:06:30.469Z",
+  "updatedAt": "2026-07-01T22:47:11.669Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Droneangrep mot kurdisk leir i Irak, sier sikkerhetskilder",
+      "link": "https://www.nrk.no/nyheter/droneangrep-mot-kurdisk-leir-i-irak_-sier-sikkerhetskilder-1.17944386",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 01 Jul 2026 22:36:02 GMT"
+    },
+    {
+      "title": "Danny Glover har fått alzheimer",
+      "link": "https://www.nrk.no/nyheter/danny-glover-har-fatt-alzheimer-1.17944379",
+      "category": "Film og serier",
+      "pubDate": "Wed, 01 Jul 2026 22:21:47 GMT"
+    },
+    {
       "title": "To pågrepet for bilran i Bergen",
       "link": "https://www.nrk.no/nyheter/to-pagrepet-for-bilran-i-bergen-1.17944364",
-      "category": "Nyhetssenter Vestland",
+      "category": "NRK Nyheter",
       "pubDate": "Wed, 01 Jul 2026 21:03:38 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bama-tilbakekaller-babyspinat-og-babyleaf-miks-1.17944191",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 01 Jul 2026 17:30:55 GMT"
-    },
-    {
-      "title": "IT-selskap ble hacket – slipper millionerstatning",
-      "link": "https://www.nrk.no/rogaland/it-selskap-ble-hacket-_-slipper-millionerstatning-1.17944067",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 01 Jul 2026 17:07:15 GMT"
-    },
-    {
-      "title": "To personer klatret opp i spiret på Empire State Building",
-      "link": "https://www.nrk.no/nyheter/to-personer-klatret-opp-i-spiret-pa-empire-state-building-1.17944147",
-      "category": "high",
-      "pubDate": "Wed, 01 Jul 2026 16:39:02 GMT"
     }
   ]
 }
