@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-01T12:13:49.035Z",
+  "updatedAt": "2026-07-01T15:18:51.432Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Slutter med Playstation-spill på disk",
+      "link": "https://www.nrk.no/nyheter/slutter-med-playstation-spill-pa-disk-1.17943997",
+      "category": "Dataspill",
+      "pubDate": "Wed, 01 Jul 2026 14:02:55 GMT"
+    },
+    {
+      "title": "Varmeste juni-måned i England",
+      "link": "https://www.nrk.no/nyheter/varmeste-juni-maned-i-england-1.17943877",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Wed, 01 Jul 2026 13:40:59 GMT"
+    },
+    {
+      "title": "Funn av E. coli i Bergen: Advarer mot bading",
+      "link": "https://www.nrk.no/vestland/funn-av-e.-coli-i-bergen_-advarer-mot-bading--1.17943921",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 01 Jul 2026 13:12:49 GMT"
+    },
+    {
+      "title": "Lystgassforbud fra onsdag",
+      "link": "https://www.nrk.no/stor-oslo/lystgassforbud-fra-onsdag-1.17943901",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 01 Jul 2026 13:06:11 GMT"
+    },
+    {
+      "title": "Mann varetektsfengslet i fire uker for drap på Kløfta",
+      "link": "https://www.nrk.no/nyheter/mann-varetektsfengslet-i-fire-uker-for-drap-pa-klofta-1.17943822",
+      "category": "high",
+      "pubDate": "Wed, 01 Jul 2026 12:51:08 GMT"
+    },
     {
       "title": "Canada skal være med i Eurovision i 2027",
       "link": "https://www.nrk.no/nyheter/canada-skal-vaere-med-i-eurovision-i-2027-1.17943715",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 01 Jul 2026 12:07:25 GMT"
-    },
-    {
-      "title": "Prinsesse Astrid takker for hilsener",
-      "link": "https://www.nrk.no/nyheter/prinsesse-astrid-takker-for-hilsener-1.17943642",
-      "category": "Kongefamilien",
-      "pubDate": "Wed, 01 Jul 2026 11:50:14 GMT"
-    },
-    {
-      "title": "Innkaller til krisemøte før ny hetebølge i Frankrike",
-      "link": "https://www.nrk.no/nyheter/innkaller-til-krisemote-for-ny-hetebolge-i-frankrike-1.17943646",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Wed, 01 Jul 2026 11:37:58 GMT"
-    },
-    {
-      "title": "UD opphever reiseadvarsler for flere land i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/ud-opphever-reiseadvarsler-for-flere-land-i-midtosten-1.17943591",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 01 Jul 2026 11:28:33 GMT"
-    },
-    {
-      "title": "Google dømt til å betale milliarderstatning til Klarna-datterselskap",
-      "link": "https://www.nrk.no/nyheter/google-domt-til-a-betale-milliarderstatning-til-klarna-datterselskap-1.17943468",
-      "category": "Sverige",
-      "pubDate": "Wed, 01 Jul 2026 11:06:08 GMT"
-    },
-    {
-      "title": "Flere døde i boligbrann i Antwerpen i Belgia",
-      "link": "https://www.nrk.no/nyheter/flere-dode-i-boligbrann-i-antwerpen-i-belgia-1.17943403",
-      "category": "Belgia",
-      "pubDate": "Wed, 01 Jul 2026 10:10:47 GMT"
     }
   ]
 }
