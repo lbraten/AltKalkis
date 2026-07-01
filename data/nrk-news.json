@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-01T15:18:51.432Z",
+  "updatedAt": "2026-07-01T17:28:26.323Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "IT-selskap ble hacket – slipper millionerstatning",
+      "link": "https://www.nrk.no/rogaland/it-selskap-ble-hacket-_-slipper-millionerstatning-1.17944067",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 01 Jul 2026 17:07:15 GMT"
+    },
+    {
+      "title": "To personer klatret opp i spiret på Empire State Building",
+      "link": "https://www.nrk.no/nyheter/to-personer-klatret-opp-i-spiret-pa-empire-state-building-1.17944147",
+      "category": "high",
+      "pubDate": "Wed, 01 Jul 2026 16:39:02 GMT"
+    },
+    {
+      "title": "Ukrainsk soldat tiltalt for Nord Stream-sprengning",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-soldat-tiltalt-for-nord-stream-sprengning-1.17944024",
+      "category": "Gassrørledningen Nord Stream",
+      "pubDate": "Wed, 01 Jul 2026 16:01:23 GMT"
+    },
     {
       "title": "Slutter med Playstation-spill på disk",
       "link": "https://www.nrk.no/nyheter/slutter-med-playstation-spill-pa-disk-1.17943997",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/funn-av-e.-coli-i-bergen_-advarer-mot-bading--1.17943921",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Wed, 01 Jul 2026 13:12:49 GMT"
-    },
-    {
-      "title": "Lystgassforbud fra onsdag",
-      "link": "https://www.nrk.no/stor-oslo/lystgassforbud-fra-onsdag-1.17943901",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 01 Jul 2026 13:06:11 GMT"
-    },
-    {
-      "title": "Mann varetektsfengslet i fire uker for drap på Kløfta",
-      "link": "https://www.nrk.no/nyheter/mann-varetektsfengslet-i-fire-uker-for-drap-pa-klofta-1.17943822",
-      "category": "high",
-      "pubDate": "Wed, 01 Jul 2026 12:51:08 GMT"
-    },
-    {
-      "title": "Canada skal være med i Eurovision i 2027",
-      "link": "https://www.nrk.no/nyheter/canada-skal-vaere-med-i-eurovision-i-2027-1.17943715",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 01 Jul 2026 12:07:25 GMT"
     }
   ]
 }
