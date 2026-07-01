@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-06-30T22:49:39.820Z",
+  "updatedAt": "2026-07-01T00:06:40.822Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA opphever Anthropic-restriksjoner",
+      "link": "https://www.nrk.no/nyheter/usa-opphever-anthropic-restriksjoner-1.17942779",
+      "category": "Kunstig intelligens",
+      "pubDate": "Wed, 01 Jul 2026 00:03:56 GMT"
+    },
+    {
+      "title": "Enighet på overtid – ingen streik blant funksjonærer",
+      "link": "https://www.nrk.no/nyheter/enighet-pa-overtid-_-ingen-streik-blant-funksjonaerer-1.17942774",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 30 Jun 2026 23:49:15 GMT"
+    },
+    {
+      "title": "FN advarer om matmangel i Venezuela",
+      "link": "https://www.nrk.no/nyheter/fn-advarer-om-matmangel-i-venezuela-1.17942730",
+      "category": "Venezuela",
+      "pubDate": "Tue, 30 Jun 2026 23:27:05 GMT"
+    },
     {
       "title": "Ny stor ordre for Kongsberg",
       "link": "https://www.nrk.no/nyheter/ny-stor-ordre-for-kongsberg-1.17942721",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/politiet-stanset-festen-foran-slottet-1.17942715",
       "category": "Fotball-VM 2026",
       "pubDate": "Tue, 30 Jun 2026 21:07:22 GMT"
-    },
-    {
-      "title": "USA gratulerer Fujimori med valgseieren i Peru",
-      "link": "https://www.nrk.no/nyheter/usa-gratulerer-fujimori-med-valgseieren-i-peru-1.17942714",
-      "category": "Peru",
-      "pubDate": "Tue, 30 Jun 2026 21:01:56 GMT"
-    },
-    {
-      "title": "Huitfeldt om at roing tar av i USA: – De tar meg ikke i hånda, men de begynner å ro",
-      "link": "https://www.nrk.no/nyheter/huitfeldt-om-at-roing-tar-av-i-usa_-_-de-tar-meg-ikke-i-handa_-men-de-begynner-a-ro-1.17942665",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Tue, 30 Jun 2026 20:07:41 GMT"
-    },
-    {
-      "title": "Trafikkulykke på E16 i retning Kløfta",
-      "link": "https://www.nrk.no/stor-oslo/trafikkulykke-pa-e16-i-retning-klofta-1.17942583",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 30 Jun 2026 19:49:21 GMT"
     }
   ]
 }
