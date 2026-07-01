@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-01T17:28:26.323Z",
+  "updatedAt": "2026-07-01T19:23:44.964Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dødstallet etter jordskjelv i Venezuela nærmer seg 2300",
+      "link": "https://www.nrk.no/nyheter/dodstallet-etter-jordskjelv-i-venezuela-naermer-seg-2300-1.17944239",
+      "category": "Venezuela",
+      "pubDate": "Wed, 01 Jul 2026 18:18:35 GMT"
+    },
+    {
+      "title": "Bama tilbakekaller babyspinat og babyleaf-miks",
+      "link": "https://www.nrk.no/nyheter/bama-tilbakekaller-babyspinat-og-babyleaf-miks-1.17944191",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 01 Jul 2026 17:30:55 GMT"
+    },
     {
       "title": "IT-selskap ble hacket – slipper millionerstatning",
       "link": "https://www.nrk.no/rogaland/it-selskap-ble-hacket-_-slipper-millionerstatning-1.17944067",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/slutter-med-playstation-spill-pa-disk-1.17943997",
       "category": "Dataspill",
       "pubDate": "Wed, 01 Jul 2026 14:02:55 GMT"
-    },
-    {
-      "title": "Varmeste juni-måned i England",
-      "link": "https://www.nrk.no/nyheter/varmeste-juni-maned-i-england-1.17943877",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Wed, 01 Jul 2026 13:40:59 GMT"
-    },
-    {
-      "title": "Funn av E. coli i Bergen: Advarer mot bading",
-      "link": "https://www.nrk.no/vestland/funn-av-e.-coli-i-bergen_-advarer-mot-bading--1.17943921",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 01 Jul 2026 13:12:49 GMT"
     }
   ]
 }
