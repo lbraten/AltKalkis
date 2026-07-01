@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-01T19:23:44.964Z",
+  "updatedAt": "2026-07-01T21:06:30.469Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To pågrepet for bilran i Bergen",
+      "link": "https://www.nrk.no/nyheter/to-pagrepet-for-bilran-i-bergen-1.17944364",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 01 Jul 2026 21:03:38 GMT"
+    },
+    {
+      "title": "Russisk droneangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/russisk-droneangrep-mot-kyiv-1.17944358",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 01 Jul 2026 20:45:07 GMT"
+    },
     {
       "title": "Dødstallet etter jordskjelv i Venezuela nærmer seg 2300",
       "link": "https://www.nrk.no/nyheter/dodstallet-etter-jordskjelv-i-venezuela-naermer-seg-2300-1.17944239",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-personer-klatret-opp-i-spiret-pa-empire-state-building-1.17944147",
       "category": "high",
       "pubDate": "Wed, 01 Jul 2026 16:39:02 GMT"
-    },
-    {
-      "title": "Ukrainsk soldat tiltalt for Nord Stream-sprengning",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-soldat-tiltalt-for-nord-stream-sprengning-1.17944024",
-      "category": "Gassrørledningen Nord Stream",
-      "pubDate": "Wed, 01 Jul 2026 16:01:23 GMT"
-    },
-    {
-      "title": "Slutter med Playstation-spill på disk",
-      "link": "https://www.nrk.no/nyheter/slutter-med-playstation-spill-pa-disk-1.17943997",
-      "category": "Dataspill",
-      "pubDate": "Wed, 01 Jul 2026 14:02:55 GMT"
     }
   ]
 }
