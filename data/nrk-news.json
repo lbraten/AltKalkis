@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-01T22:47:11.669Z",
+  "updatedAt": "2026-07-02T00:09:34.676Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Agderposten: Flere skudd avfyrt under politiaksjon i Arendal",
+      "link": "https://www.nrk.no/nyheter/agderposten_-flere-skudd-avfyrt-under-politiaksjon-i-arendal-1.17944396",
+      "category": "high",
+      "pubDate": "Wed, 01 Jul 2026 23:46:19 GMT"
+    },
+    {
+      "title": "Flere ebola-smittede i Kongo",
+      "link": "https://www.nrk.no/nyheter/flere-ebola-smittede-i-kongo-1.17944390",
+      "category": "Ebola",
+      "pubDate": "Wed, 01 Jul 2026 23:03:15 GMT"
+    },
     {
       "title": "Droneangrep mot kurdisk leir i Irak, sier sikkerhetskilder",
       "link": "https://www.nrk.no/nyheter/droneangrep-mot-kurdisk-leir-i-irak_-sier-sikkerhetskilder-1.17944386",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russisk-droneangrep-mot-kyiv-1.17944358",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 01 Jul 2026 20:45:07 GMT"
-    },
-    {
-      "title": "Dødstallet etter jordskjelv i Venezuela nærmer seg 2300",
-      "link": "https://www.nrk.no/nyheter/dodstallet-etter-jordskjelv-i-venezuela-naermer-seg-2300-1.17944239",
-      "category": "Venezuela",
-      "pubDate": "Wed, 01 Jul 2026 18:18:35 GMT"
-    },
-    {
-      "title": "Bama tilbakekaller babyspinat og babyleaf-miks",
-      "link": "https://www.nrk.no/nyheter/bama-tilbakekaller-babyspinat-og-babyleaf-miks-1.17944191",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 01 Jul 2026 17:30:55 GMT"
     }
   ]
 }
