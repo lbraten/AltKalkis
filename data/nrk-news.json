@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-07-02T11:07:18.950Z",
+  "updatedAt": "2026-07-02T13:16:53.668Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Keir Starmer med offentlig unnskyldning for tvangsadopsjoner",
-      "link": "https://www.nrk.no/nyheter/keir-starmer-med-offentlig-unnskyldning-for-tvangsadopsjoner-1.17944853",
+      "title": "Damaskus: Fire drept etter eksplosjon",
+      "link": "https://www.nrk.no/nyheter/damaskus_-fire-drept-etter-eksplosjon--1.17945188",
+      "category": "Syria",
+      "pubDate": "Thu, 02 Jul 2026 12:57:01 GMT"
+    },
+    {
+      "title": "Tiltalt for å ha driftet marihuanaplantasje i Bergen",
+      "link": "https://www.nrk.no/vestland/tiltalt-for-a-ha-driftet-marihuanaplantasje_i-bergen-1.17945099",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 02 Jul 2026 12:32:37 GMT"
+    },
+    {
+      "title": "Kjetil Melbye Mathisen (41) nektes ny rettssak i Høyesterett",
+      "link": "https://www.nrk.no/vestfoldogtelemark/kjetil-melbye-mathisen-_41_-nektes-ny-rettssak-i-hoyesterett-1.17944931",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 02 Jul 2026 12:09:34 GMT"
+    },
+    {
+      "title": "Dømt til fire års fengsel for kokainsalg – knyttes til «Albert Einstein»-nettverket",
+      "link": "https://www.nrk.no/vestland/domt-til-fire-ars-fengsel-for-kokainsalg-_-knyttes-til-_albert-einstein_-nettverket--1.17944952",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 02 Jul 2026 11:36:33 GMT"
+    },
+    {
+      "title": "Keir Starmer ber om unnskyldning for tvangsadopsjoner",
+      "link": "https://www.nrk.no/nyheter/keir-starmer-ber-om-unnskyldning-for-tvangsadopsjoner-1.17944853",
       "category": "Storbritannia",
       "pubDate": "Thu, 02 Jul 2026 11:05:15 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/trondelag/kongeparet-kommer-til-trondelag-1.17944918",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Thu, 02 Jul 2026 10:25:41 GMT"
-    },
-    {
-      "title": "Jubeltall for utelivsbransjen",
-      "link": "https://www.nrk.no/stor-oslo/jubeltall-for-utelivsbransjen-1.17944887",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 02 Jul 2026 10:16:12 GMT"
-    },
-    {
-      "title": "Avtale på plass: Slipper toll på sjømateksport til Vietnam",
-      "link": "https://www.nrk.no/nyheter/avtale-pa-plass_-slipper-toll-pa-sjomateksport-til-vietnam-1.17944681",
-      "category": "Vietnam",
-      "pubDate": "Thu, 02 Jul 2026 10:02:53 GMT"
-    },
-    {
-      "title": "Forretningsmennene Hanakam og Nielsen tiltalt for grov økonomisk kriminalitet",
-      "link": "https://www.nrk.no/vestland/forretningsmennene-hanakam-og-nielsen-tiltalt-for-grov-okonomisk-kriminalitet-1.17944904",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 02 Jul 2026 09:58:46 GMT"
-    },
-    {
-      "title": "Oslo-politiet setter inn ekstra VM-ressurser",
-      "link": "https://www.nrk.no/stor-oslo/oslo-politiet-setter-inn-ekstra-vm-ressurser-1.17944758",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 02 Jul 2026 09:49:08 GMT"
     }
   ]
 }
