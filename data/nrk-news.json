@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-02T15:40:56.007Z",
+  "updatedAt": "2026-07-02T17:50:02.589Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Jordskjelv utenfor Bergen",
+      "link": "https://www.nrk.no/vestland/jordskjelv-utenfor-bergen-1.17945502",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 02 Jul 2026 16:41:47 GMT"
+    },
+    {
+      "title": "Rigg-ansatte får mer lønn og pensjon",
+      "link": "https://www.nrk.no/rogaland/rigg-ansatte-far-mer-lonn-og-pensjon-1.17945390",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Thu, 02 Jul 2026 16:31:17 GMT"
+    },
+    {
+      "title": "Libanon: Israelsk droneangrep ved sykehus",
+      "link": "https://www.nrk.no/nyheter/libanon_-israelsk-droneangrep-ved-sykehus-1.17945451",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 02 Jul 2026 16:29:00 GMT"
+    },
+    {
+      "title": "Redningsaksjon i Kvinnherad – mann står fast på fjellknaus",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-i-kvinnherad-_-mann-star-fast-pa-fjellknaus-1.17945340",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 02 Jul 2026 16:19:51 GMT"
+    },
+    {
+      "title": "Angrep mot Kyiv: Røde Kors-lager ødelagt",
+      "link": "https://www.nrk.no/nyheter/angrep-mot-kyiv_-rode-kors-lager-odelagt-1.17945448",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 02 Jul 2026 15:42:22 GMT"
+    },
     {
       "title": "Salmonellautbrudd i Europa knyttet til nudler",
       "link": "https://www.nrk.no/nyheter/salmonellautbrudd-i-europa-knyttet-til-nudler-1.17945414",
       "category": "Den europeiske union (EU)",
       "pubDate": "Thu, 02 Jul 2026 15:37:46 GMT"
-    },
-    {
-      "title": "Nato-topp: Fyller tomrommene etter USA",
-      "link": "https://www.nrk.no/nyheter/nato-topp_-fyller-tomrommene-etter-usa-1.17945410",
-      "category": "Nato",
-      "pubDate": "Thu, 02 Jul 2026 14:53:32 GMT"
-    },
-    {
-      "title": "Zelenskyj lover gjengjeldelse etter nattens angrep",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-lover-gjengjeldelse-etter-nattens-angrep-1.17945347",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 02 Jul 2026 14:44:04 GMT"
-    },
-    {
-      "title": "WHO: Hantavirusutbruddet er over",
-      "link": "https://www.nrk.no/nyheter/who_-hantavirusutbruddet-er-over-1.17945342",
-      "category": "Hantavirus",
-      "pubDate": "Thu, 02 Jul 2026 13:53:48 GMT"
-    },
-    {
-      "title": "Zelenskyj: Nye samtaler med USA",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-nye-samtaler-med-usa-1.17945289",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 02 Jul 2026 13:51:25 GMT"
-    },
-    {
-      "title": "Får ikke vise VM-kvartfinale på Ullevaal stadion",
-      "link": "https://www.nrk.no/stor-oslo/far-ikke-vise-vm-kvartfinale-pa-ullevaal-stadion-1.17945040",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 02 Jul 2026 13:26:29 GMT"
     }
   ]
 }
