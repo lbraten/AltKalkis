@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-02T20:42:06.556Z",
+  "updatedAt": "2026-07-02T22:08:27.663Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Væpnet politiaksjon i Bergen",
+      "link": "https://www.nrk.no/nyheter/vaepnet-politiaksjon-i-bergen-1.17945674",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 02 Jul 2026 21:34:45 GMT"
+    },
+    {
+      "title": "Melding om endå ein brann i Sula - politiet ser dette i samanheng med uoppklarte brannar",
+      "link": "https://www.nrk.no/mr/melding-om-enda-ein-brann-i-sula---politiet-ser-dette-i-samanheng-med-uoppklarte-brannar-1.17945600",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Thu, 02 Jul 2026 20:35:38 GMT"
+    },
     {
       "title": "Alvorlig skadet etter slåsskamp utenfor Stavernfestivalen",
       "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-skadet-etter-slasskamp-utenfor-stavernfestivalen-1.17945458",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/jordskjelv-utenfor-bergen-1.17945502",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Thu, 02 Jul 2026 16:41:47 GMT"
-    },
-    {
-      "title": "Rigg-ansatte får mer lønn og pensjon",
-      "link": "https://www.nrk.no/rogaland/rigg-ansatte-far-mer-lonn-og-pensjon-1.17945390",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Thu, 02 Jul 2026 16:31:17 GMT"
-    },
-    {
-      "title": "Libanon: Israelsk droneangrep ved sykehus",
-      "link": "https://www.nrk.no/nyheter/libanon_-israelsk-droneangrep-ved-sykehus-1.17945451",
-      "category": "Libanon og Israel",
-      "pubDate": "Thu, 02 Jul 2026 16:29:00 GMT"
     }
   ]
 }
