@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-02T17:50:02.589Z",
+  "updatedAt": "2026-07-02T19:26:38.603Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig skadet etter slåsskamp i Larvik",
+      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-skadet-etter-slasskamp-i-larvik-1.17945458",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 02 Jul 2026 19:24:38 GMT"
+    },
+    {
+      "title": "Fant machete og gasspistol etter slåsskamp i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/fant-machete-og-gasspistol-etter-slasskamp-i-oslo-1.17945294",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 02 Jul 2026 18:29:27 GMT"
+    },
+    {
+      "title": "Lynnedslag skal ha ført til husbrann i Molde",
+      "link": "https://www.nrk.no/mr/lynnedslag-skal-ha-fort-til-husbrann-i-molde-1.17945572",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Thu, 02 Jul 2026 18:06:39 GMT"
+    },
     {
       "title": "Jordskjelv utenfor Bergen",
       "link": "https://www.nrk.no/vestland/jordskjelv-utenfor-bergen-1.17945502",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon_-israelsk-droneangrep-ved-sykehus-1.17945451",
       "category": "Libanon og Israel",
       "pubDate": "Thu, 02 Jul 2026 16:29:00 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Kvinnherad – mann står fast på fjellknaus",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-i-kvinnherad-_-mann-star-fast-pa-fjellknaus-1.17945340",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 02 Jul 2026 16:19:51 GMT"
-    },
-    {
-      "title": "Angrep mot Kyiv: Røde Kors-lager ødelagt",
-      "link": "https://www.nrk.no/nyheter/angrep-mot-kyiv_-rode-kors-lager-odelagt-1.17945448",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 02 Jul 2026 15:42:22 GMT"
-    },
-    {
-      "title": "Salmonellautbrudd i Europa knyttet til nudler",
-      "link": "https://www.nrk.no/nyheter/salmonellautbrudd-i-europa-knyttet-til-nudler-1.17945414",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Thu, 02 Jul 2026 15:37:46 GMT"
     }
   ]
 }
