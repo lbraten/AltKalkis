@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-02T00:09:34.676Z",
+  "updatedAt": "2026-07-02T04:40:01.850Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA-diplomat: – Droner skal gjøre Taiwan til et «vepsebol»",
+      "link": "https://www.nrk.no/nyheter/usa-diplomat_-_-droner-skal-gjore-taiwan-til-et-_vepsebol_-1.17944412",
+      "category": "Taiwan",
+      "pubDate": "Thu, 02 Jul 2026 02:33:53 GMT"
+    },
+    {
+      "title": "Boligblokk kollapset i Kyiv etter russisk angrep",
+      "link": "https://www.nrk.no/nyheter/boligblokk-kollapset-i-kyiv-etter-russisk-angrep-1.17944410",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 02 Jul 2026 01:45:30 GMT"
+    },
+    {
+      "title": "Minst 59 har mistet livet i flom i Elfenbenskysten",
+      "link": "https://www.nrk.no/nyheter/minst-59-har-mistet-livet-i-flom-i-elfenbenskysten-1.17944373",
+      "category": "Elfenbenskysten",
+      "pubDate": "Thu, 02 Jul 2026 01:31:06 GMT"
+    },
+    {
+      "title": "Brann i boligfelt på Tananger",
+      "link": "https://www.nrk.no/nyheter/brann-i-boligfelt-pa-tananger-1.17944408",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Thu, 02 Jul 2026 01:10:30 GMT"
+    },
+    {
+      "title": "Mann skutt og drept i Malmö",
+      "link": "https://www.nrk.no/nyheter/mann-skutt-og-drept-i-malmo-1.17944399",
+      "category": "Voldsbølge i Sverige",
+      "pubDate": "Thu, 02 Jul 2026 00:41:13 GMT"
+    },
     {
       "title": "Agderposten: Flere skudd avfyrt under politiaksjon i Arendal",
       "link": "https://www.nrk.no/nyheter/agderposten_-flere-skudd-avfyrt-under-politiaksjon-i-arendal-1.17944396",
       "category": "high",
       "pubDate": "Wed, 01 Jul 2026 23:46:19 GMT"
-    },
-    {
-      "title": "Flere ebola-smittede i Kongo",
-      "link": "https://www.nrk.no/nyheter/flere-ebola-smittede-i-kongo-1.17944390",
-      "category": "Ebola",
-      "pubDate": "Wed, 01 Jul 2026 23:03:15 GMT"
-    },
-    {
-      "title": "Droneangrep mot kurdisk leir i Irak, sier sikkerhetskilder",
-      "link": "https://www.nrk.no/nyheter/droneangrep-mot-kurdisk-leir-i-irak_-sier-sikkerhetskilder-1.17944386",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 01 Jul 2026 22:36:02 GMT"
-    },
-    {
-      "title": "Danny Glover har fått alzheimer",
-      "link": "https://www.nrk.no/nyheter/danny-glover-har-fatt-alzheimer-1.17944379",
-      "category": "Film og serier",
-      "pubDate": "Wed, 01 Jul 2026 22:21:47 GMT"
-    },
-    {
-      "title": "To pågrepet for bilran i Bergen",
-      "link": "https://www.nrk.no/nyheter/to-pagrepet-for-bilran-i-bergen-1.17944364",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 01 Jul 2026 21:03:38 GMT"
-    },
-    {
-      "title": "Russisk droneangrep mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/russisk-droneangrep-mot-kyiv-1.17944358",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 01 Jul 2026 20:45:07 GMT"
     }
   ]
 }
