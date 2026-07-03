@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-03T21:08:53.183Z",
+  "updatedAt": "2026-07-03T22:33:19.403Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ebola-smitten i Kongo har passert 1500 tilfeller",
+      "link": "https://www.nrk.no/nyheter/ebola-smitten-i-kongo-har-passert-1500-tilfeller-1.17947058",
+      "category": "Ebola",
+      "pubDate": "Fri, 03 Jul 2026 22:21:09 GMT"
+    },
     {
       "title": "Kraftig brann i einebustad - fleire hus evakuert",
       "link": "https://www.nrk.no/vestland/kraftig-brann-i-einebustad---fleire-hus-evakuert-1.17947034",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/aftenbladet_-erkjenner-straffskyld-for-lagard-drapet-1.17946825",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 03 Jul 2026 16:03:00 GMT"
-    },
-    {
-      "title": "Pave Leo XIV med oppfordring til amerikanere: – Finn felles grunn",
-      "link": "https://www.nrk.no/nyheter/pave-leo-xiv-med-oppfordring-til-amerikanere_-_-finn-felles-grunn-1.17946777",
-      "category": "USA",
-      "pubDate": "Fri, 03 Jul 2026 16:00:47 GMT"
     }
   ]
 }
