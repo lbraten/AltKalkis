@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-03T19:40:52.554Z",
+  "updatedAt": "2026-07-03T21:08:53.183Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kraftig brann i einebustad - fleire hus evakuert",
+      "link": "https://www.nrk.no/vestland/kraftig-brann-i-einebustad---fleire-hus-evakuert-1.17947034",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 03 Jul 2026 20:18:26 GMT"
+    },
+    {
+      "title": "Dødstallene stiger i Venezuela",
+      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-venezuela-1.17947004",
+      "category": "Venezuela",
+      "pubDate": "Fri, 03 Jul 2026 20:00:18 GMT"
+    },
+    {
+      "title": "Over 600.000 libanesere har vendt hjem siden våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/over-600.000-libanesere-har-vendt-hjem-siden-vapenhvilen-1.17946872",
+      "category": "Libanon",
+      "pubDate": "Fri, 03 Jul 2026 19:43:30 GMT"
+    },
     {
       "title": "Ni personer involvert i trafikkulykke, en alvorlig skadet",
       "link": "https://www.nrk.no/ostfold/ni-personer-involvert-i-trafikkulykke_-en-alvorlig-skadet-1.17946500",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/pave-leo-xiv-med-oppfordring-til-amerikanere_-_-finn-felles-grunn-1.17946777",
       "category": "USA",
       "pubDate": "Fri, 03 Jul 2026 16:00:47 GMT"
-    },
-    {
-      "title": "Leteaksjon nord for Meråker",
-      "link": "https://www.nrk.no/trondelag/leteaksjon-nord-for-meraker-1.17946801",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 03 Jul 2026 15:33:57 GMT"
-    },
-    {
-      "title": "Norsk Tipping: Rekordhøye tall under VM",
-      "link": "https://www.nrk.no/nyheter/norsk-tipping_-rekordhoye-tall-under-vm-1.17946764",
-      "category": "Norsk Tipping",
-      "pubDate": "Fri, 03 Jul 2026 14:56:43 GMT"
-    },
-    {
-      "title": "MC-ulykke i Enebakk",
-      "link": "https://www.nrk.no/nyheter/mc-ulykke-i-enebakk-1.17946646",
-      "category": "MC-ulykker",
-      "pubDate": "Fri, 03 Jul 2026 14:35:58 GMT"
     }
   ]
 }
