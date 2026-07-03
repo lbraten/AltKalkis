@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-03T16:25:59.936Z",
+  "updatedAt": "2026-07-03T17:57:24.618Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ni personer involvert i trafikkulykke, en alvorlig skadet",
+      "link": "https://www.nrk.no/ostfold/ni-personer-involvert-i-trafikkulykke_-en-alvorlig-skadet-1.17946500",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Fri, 03 Jul 2026 16:27:08 GMT"
+    },
     {
       "title": "Aftenbladet: Erkjenner straffskyld for Lagård-drapet",
       "link": "https://www.nrk.no/rogaland/aftenbladet_-erkjenner-straffskyld-for-lagard-drapet-1.17946825",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mc-ulykke-i-enebakk-1.17946646",
       "category": "MC-ulykker",
       "pubDate": "Fri, 03 Jul 2026 14:35:58 GMT"
-    },
-    {
-      "title": "Båtvelt i Kristiansand – alle i god behold",
-      "link": "https://www.nrk.no/sorlandet/batvelt-i-kristiansand-_-alle-i-god-behold-1.17946696",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Fri, 03 Jul 2026 13:52:22 GMT"
     }
   ]
 }
