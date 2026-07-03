@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-03T14:51:59.661Z",
+  "updatedAt": "2026-07-03T16:25:59.936Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Aftenbladet: Erkjenner straffskyld for Lagård-drapet",
+      "link": "https://www.nrk.no/rogaland/aftenbladet_-erkjenner-straffskyld-for-lagard-drapet-1.17946825",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 03 Jul 2026 16:03:00 GMT"
+    },
+    {
+      "title": "Pave Leo XIV med oppfordring til amerikanere: – Finn felles grunn",
+      "link": "https://www.nrk.no/nyheter/pave-leo-xiv-med-oppfordring-til-amerikanere_-_-finn-felles-grunn-1.17946777",
+      "category": "USA",
+      "pubDate": "Fri, 03 Jul 2026 16:00:47 GMT"
+    },
+    {
+      "title": "Leteaksjon nord for Meråker",
+      "link": "https://www.nrk.no/trondelag/leteaksjon-nord-for-meraker-1.17946801",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 03 Jul 2026 15:33:57 GMT"
+    },
+    {
+      "title": "Norsk Tipping: Rekordhøye tall under VM",
+      "link": "https://www.nrk.no/nyheter/norsk-tipping_-rekordhoye-tall-under-vm-1.17946764",
+      "category": "Norsk Tipping",
+      "pubDate": "Fri, 03 Jul 2026 14:56:43 GMT"
+    },
     {
       "title": "MC-ulykke i Enebakk",
       "link": "https://www.nrk.no/nyheter/mc-ulykke-i-enebakk-1.17946646",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/batvelt-i-kristiansand-_-alle-i-god-behold-1.17946696",
       "category": "Nyheter fra Agder",
       "pubDate": "Fri, 03 Jul 2026 13:52:22 GMT"
-    },
-    {
-      "title": "Frankrike hadde sin varmeste måned siden 1947",
-      "link": "https://www.nrk.no/nyheter/frankrike-hadde-sin-varmeste-maned-siden-1947-1.17946629",
-      "category": "Frankrike",
-      "pubDate": "Fri, 03 Jul 2026 13:14:47 GMT"
-    },
-    {
-      "title": "Ukelang begravelse for Irans øverste leder",
-      "link": "https://www.nrk.no/nyheter/ukelang-begravelse-for-irans-overste-leder-1.17946471",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Fri, 03 Jul 2026 12:16:08 GMT"
-    },
-    {
-      "title": "Steinar Wangen dømt til 15 års forvaring for drap",
-      "link": "https://www.nrk.no/nyheter/steinar-wangen-domt-til-15-ars-forvaring-for-drap-1.17946480",
-      "category": "Drap i Norge",
-      "pubDate": "Fri, 03 Jul 2026 11:37:09 GMT"
-    },
-    {
-      "title": "Skogbrann herjer i Portugal – rød beredskap",
-      "link": "https://www.nrk.no/nyheter/skogbrann-herjer-i-portugal-_-rod-beredskap-1.17946442",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Fri, 03 Jul 2026 11:35:03 GMT"
     }
   ]
 }
