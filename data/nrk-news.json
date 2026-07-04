@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-04T07:22:25.093Z",
+  "updatedAt": "2026-07-04T09:36:00.276Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Store protester i Tyskland",
+      "link": "https://www.nrk.no/nyheter/store-protester-i-tyskland-1.17947289",
+      "category": "Tyskland",
+      "pubDate": "Sat, 04 Jul 2026 08:51:29 GMT"
+    },
+    {
+      "title": "Angrep oljeanlegg ved St. Petersburg",
+      "link": "https://www.nrk.no/nyheter/angrep-oljeanlegg-ved-st.-petersburg-1.17947266",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 04 Jul 2026 08:33:33 GMT"
+    },
+    {
+      "title": "Spionsaken på Andøya: Kinesisk kvinne varetektsfengsles i fire nye uker",
+      "link": "https://www.nrk.no/nordland/spionsaken-pa-andoya_-kinesisk-kvinne-varetektsfengsles-i-fire-nye-uker-1.17947262",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 04 Jul 2026 08:04:47 GMT"
+    },
+    {
+      "title": "Pave Leo har ankommet Lampedusa: Møter migranter",
+      "link": "https://www.nrk.no/nyheter/pave-leo-har-ankommet-lampedusa_-moter-migranter-1.17947235",
+      "category": "Paven og Vatikanet",
+      "pubDate": "Sat, 04 Jul 2026 07:40:56 GMT"
+    },
     {
       "title": "Hus totalskadd etter brann i Bjørnafjorden: – Jobber med slukking",
       "link": "https://www.nrk.no/vestland/hus-totalskadd-etter-brann-i-bjornafjorden_-_-jobber-med-slukking--1.17947239",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/stor-leteaksjon-i-trondelag-1.17947224",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 04 Jul 2026 06:56:09 GMT"
-    },
-    {
-      "title": "Tusenvis samler seg i Teherans gater",
-      "link": "https://www.nrk.no/nyheter/tusenvis-samler-seg-i-teherans-gater-1.17947163",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 04 Jul 2026 06:38:52 GMT"
-    },
-    {
-      "title": "4. juli-parade i Washington DC avlyst på grunn av ekstrem varme",
-      "link": "https://www.nrk.no/nyheter/4.-juli-parade-i-washington-dc-avlyst-pa-grunn-av-ekstrem-varme-1.17947151",
-      "category": "USA",
-      "pubDate": "Sat, 04 Jul 2026 05:41:54 GMT"
-    },
-    {
-      "title": "Alvorlig ulykke på E39 i Agder",
-      "link": "https://www.nrk.no/nyheter/alvorlig-ulykke-pa-e39-i-agder-1.17947146",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 04 Jul 2026 04:46:23 GMT"
-    },
-    {
-      "title": "Radikale og ekstremister truer USAs identitet, sier Trump",
-      "link": "https://www.nrk.no/nyheter/radikale-og-ekstremister-truer-usas-identitet_-sier-trump-1.17947138",
-      "category": "Donald Trump",
-      "pubDate": "Sat, 04 Jul 2026 03:44:52 GMT"
     }
   ]
 }
