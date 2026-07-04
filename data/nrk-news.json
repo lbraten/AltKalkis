@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-04T09:36:00.276Z",
+  "updatedAt": "2026-07-04T11:32:00.461Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Redningsaksjon i Sunnfjord: Kvinne i 20-årene har gått seg vill i fjellet",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-i-sunnfjord_-kvinne-i-20-arene-har-gatt-seg-vill-i-fjellet-1.17947367",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 04 Jul 2026 11:20:19 GMT"
+    },
+    {
+      "title": "Skogbranner i Spania - en arrestert",
+      "link": "https://www.nrk.no/nyheter/skogbranner-i-spania---en-arrestert-1.17947354",
+      "category": "Skogbrann og skogbrannfare",
+      "pubDate": "Sat, 04 Jul 2026 10:38:47 GMT"
+    },
+    {
+      "title": "Dronning Sonja fyller 89 år",
+      "link": "https://www.nrk.no/nyheter/dronning-sonja-fyller-89-ar-1.17947303",
+      "category": "Kongefamilien",
+      "pubDate": "Sat, 04 Jul 2026 09:39:25 GMT"
+    },
     {
       "title": "Store protester i Tyskland",
       "link": "https://www.nrk.no/nyheter/store-protester-i-tyskland-1.17947289",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nordland/spionsaken-pa-andoya_-kinesisk-kvinne-varetektsfengsles-i-fire-nye-uker-1.17947262",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sat, 04 Jul 2026 08:04:47 GMT"
-    },
-    {
-      "title": "Pave Leo har ankommet Lampedusa: Møter migranter",
-      "link": "https://www.nrk.no/nyheter/pave-leo-har-ankommet-lampedusa_-moter-migranter-1.17947235",
-      "category": "Paven og Vatikanet",
-      "pubDate": "Sat, 04 Jul 2026 07:40:56 GMT"
-    },
-    {
-      "title": "Hus totalskadd etter brann i Bjørnafjorden: – Jobber med slukking",
-      "link": "https://www.nrk.no/vestland/hus-totalskadd-etter-brann-i-bjornafjorden_-_-jobber-med-slukking--1.17947239",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 04 Jul 2026 07:02:18 GMT"
-    },
-    {
-      "title": "Stor leteaksjon i Trøndelag",
-      "link": "https://www.nrk.no/nyheter/stor-leteaksjon-i-trondelag-1.17947224",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 04 Jul 2026 06:56:09 GMT"
     }
   ]
 }
