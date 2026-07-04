@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-04T11:32:00.461Z",
+  "updatedAt": "2026-07-04T13:37:01.042Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Prins Harry kommer til London uten kone og barn, ifølge kilde",
+      "link": "https://www.nrk.no/nyheter/prins-harry-kommer-til-london-uten-kone-og-barn_-ifolge-kilde-1.17947520",
+      "category": "Det britiske kongehuset",
+      "pubDate": "Sat, 04 Jul 2026 13:26:49 GMT"
+    },
+    {
+      "title": "En drept og flere såret i russisk angrep",
+      "link": "https://www.nrk.no/nyheter/en-drept-og-flere-saret-i-russisk-angrep--1.17947497",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 04 Jul 2026 13:12:07 GMT"
+    },
+    {
+      "title": "To kvinner har anmeldt voldtekter på Roskilde-festivalen",
+      "link": "https://www.nrk.no/nyheter/to-kvinner-har-anmeldt-voldtekter-pa-roskilde-festivalen-1.17947481",
+      "category": "Danmark",
+      "pubDate": "Sat, 04 Jul 2026 12:45:12 GMT"
+    },
+    {
+      "title": "Kong Charles til USA: Vil fortsette å forsvare felles verdier",
+      "link": "https://www.nrk.no/nyheter/kong-charles-til-usa_-vil-fortsette-a-forsvare-felles-verdier-1.17947398",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 04 Jul 2026 11:49:56 GMT"
+    },
+    {
+      "title": "Fire personer til sykehus etter utforkjøring",
+      "link": "https://www.nrk.no/innlandet/fire-personer-til-sykehus-etter-utforkjoring-1.17947193",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sat, 04 Jul 2026 11:31:58 GMT"
+    },
     {
       "title": "Redningsaksjon i Sunnfjord: Kvinne i 20-årene har gått seg vill i fjellet",
       "link": "https://www.nrk.no/vestland/redningsaksjon-i-sunnfjord_-kvinne-i-20-arene-har-gatt-seg-vill-i-fjellet-1.17947367",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 04 Jul 2026 11:20:19 GMT"
-    },
-    {
-      "title": "Skogbranner i Spania - en arrestert",
-      "link": "https://www.nrk.no/nyheter/skogbranner-i-spania---en-arrestert-1.17947354",
-      "category": "Skogbrann og skogbrannfare",
-      "pubDate": "Sat, 04 Jul 2026 10:38:47 GMT"
-    },
-    {
-      "title": "Dronning Sonja fyller 89 år",
-      "link": "https://www.nrk.no/nyheter/dronning-sonja-fyller-89-ar-1.17947303",
-      "category": "Kongefamilien",
-      "pubDate": "Sat, 04 Jul 2026 09:39:25 GMT"
-    },
-    {
-      "title": "Store protester i Tyskland",
-      "link": "https://www.nrk.no/nyheter/store-protester-i-tyskland-1.17947289",
-      "category": "Tyskland",
-      "pubDate": "Sat, 04 Jul 2026 08:51:29 GMT"
-    },
-    {
-      "title": "Angrep oljeanlegg ved St. Petersburg",
-      "link": "https://www.nrk.no/nyheter/angrep-oljeanlegg-ved-st.-petersburg-1.17947266",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 04 Jul 2026 08:33:33 GMT"
-    },
-    {
-      "title": "Spionsaken på Andøya: Kinesisk kvinne varetektsfengsles i fire nye uker",
-      "link": "https://www.nrk.no/nordland/spionsaken-pa-andoya_-kinesisk-kvinne-varetektsfengsles-i-fire-nye-uker-1.17947262",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 04 Jul 2026 08:04:47 GMT"
     }
   ]
 }
