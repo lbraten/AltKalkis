@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-04T20:59:20.598Z",
+  "updatedAt": "2026-07-04T22:06:01.451Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump og Putin har snakket sammen om Ukraina",
+      "link": "https://www.nrk.no/nyheter/trump-og-putin-har-snakket-sammen-om-ukraina-1.17947805",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 04 Jul 2026 21:30:43 GMT"
+    },
     {
       "title": "Maskerte menn med sørstatsflagg marsjerte på USAs nasjonaldag",
       "link": "https://www.nrk.no/nyheter/maskerte-menn-med-sorstatsflagg-marsjerte-pa-usas-nasjonaldag-1.17947804",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/protester-mot-seksuell-vold-i-frankrike--1.17947683",
       "category": "Frankrike",
       "pubDate": "Sat, 04 Jul 2026 17:15:03 GMT"
-    },
-    {
-      "title": "Fjellklatrer hentet av redningshelikopter i Buskerud",
-      "link": "https://www.nrk.no/nyheter/fjellklatrer-hentet-av-redningshelikopter-i-buskerud-1.17947625",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 04 Jul 2026 16:31:29 GMT"
     }
   ]
 }
