@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-04T13:37:01.042Z",
+  "updatedAt": "2026-07-04T15:06:18.654Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Båt kantret - fire personer hentet opp",
+      "link": "https://www.nrk.no/mr/bat-kantret---fire-personer-hentet-opp-1.17947577",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 04 Jul 2026 14:54:14 GMT"
+    },
+    {
+      "title": "Brann i buss på riksvei 3",
+      "link": "https://www.nrk.no/nyheter/brann-i-buss-pa-riksvei-3--1.17947524",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 04 Jul 2026 14:41:13 GMT"
+    },
     {
       "title": "Prins Harry kommer til London uten kone og barn, ifølge kilde",
       "link": "https://www.nrk.no/nyheter/prins-harry-kommer-til-london-uten-kone-og-barn_-ifolge-kilde-1.17947520",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kong-charles-til-usa_-vil-fortsette-a-forsvare-felles-verdier-1.17947398",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 04 Jul 2026 11:49:56 GMT"
-    },
-    {
-      "title": "Fire personer til sykehus etter utforkjøring",
-      "link": "https://www.nrk.no/innlandet/fire-personer-til-sykehus-etter-utforkjoring-1.17947193",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sat, 04 Jul 2026 11:31:58 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Sunnfjord: Kvinne i 20-årene har gått seg vill i fjellet",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-i-sunnfjord_-kvinne-i-20-arene-har-gatt-seg-vill-i-fjellet-1.17947367",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 04 Jul 2026 11:20:19 GMT"
     }
   ]
 }
