@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-04T18:02:37.893Z",
+  "updatedAt": "2026-07-04T19:44:22.745Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tallet på omkomne stiger i Venezuela",
+      "link": "https://www.nrk.no/nyheter/tallet-pa-omkomne-stiger-i-venezuela--1.17947715",
+      "category": "Venezuela",
+      "pubDate": "Sat, 04 Jul 2026 18:32:46 GMT"
+    },
+    {
+      "title": "Larvik: Skal ha fått arm i propell",
+      "link": "https://www.nrk.no/vestfoldogtelemark/larvik_-skal-ha-fatt-arm-i-propell-1.17947744",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 04 Jul 2026 18:05:00 GMT"
+    },
     {
       "title": "Trump: – Netanyahu «vet hvem som er sjefen»",
       "link": "https://www.nrk.no/nyheter/trump_-_-netanyahu-_vet-hvem-som-er-sjefen_-1.17947714",
@@ -15,8 +27,8 @@
       "pubDate": "Sat, 04 Jul 2026 17:15:03 GMT"
     },
     {
-      "title": "Fjellklatrer skal ha falt i Buskerud",
-      "link": "https://www.nrk.no/nyheter/fjellklatrer-skal-ha-falt-i-buskerud-1.17947625",
+      "title": "Fjellklatrer hentet av redningshelikopter i Buskerud",
+      "link": "https://www.nrk.no/nyheter/fjellklatrer-hentet-av-redningshelikopter-i-buskerud-1.17947625",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sat, 04 Jul 2026 16:31:29 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/funnet-i-god-behold_-mann-var-savnet-i-to-dogn-i-trondelag-1.17947643",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 04 Jul 2026 15:54:36 GMT"
-    },
-    {
-      "title": "Rykket ut til bolig etter melding om røyk - var svidd mat",
-      "link": "https://www.nrk.no/mr/rykket-ut-til-bolig-etter-melding-om-royk---var-svidd-mat-1.17947596",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 04 Jul 2026 15:48:40 GMT"
-    },
-    {
-      "title": "VG: Fotballfesten kan bli flyttet fra Ullevaal til Frogner stadion",
-      "link": "https://www.nrk.no/nyheter/vg_-fotballfesten-kan-bli-flyttet-fra-ullevaal-til-frogner-stadion-1.17947474",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 04 Jul 2026 15:41:34 GMT"
     }
   ]
 }
