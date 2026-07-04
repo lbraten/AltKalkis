@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-03T22:33:19.403Z",
+  "updatedAt": "2026-07-04T00:05:45.671Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Talsperson bekrefter: Taylor Swift og Travis Kelce er gift",
+      "link": "https://www.nrk.no/nyheter/talsperson-bekrefter_-taylor-swift-og-travis-kelce-er-gift-1.17947109",
+      "category": "Musikk",
+      "pubDate": "Fri, 03 Jul 2026 23:40:37 GMT"
+    },
+    {
+      "title": "Saudi-koalisjon i Jemen truer houthiene med kraftfull maktbruk",
+      "link": "https://www.nrk.no/nyheter/saudi-koalisjon-i-jemen-truer-houthiene-med-kraftfull-maktbruk-1.17947104",
+      "category": "Jemen",
+      "pubDate": "Fri, 03 Jul 2026 23:23:44 GMT"
+    },
+    {
+      "title": "Kjendiser har begynt å ankomme Swifts bryllupsfeiring",
+      "link": "https://www.nrk.no/nyheter/kjendiser-har-begynt-a-ankomme-swifts-bryllupsfeiring-1.17947094",
+      "category": "USA",
+      "pubDate": "Fri, 03 Jul 2026 23:08:59 GMT"
+    },
     {
       "title": "Ebola-smitten i Kongo har passert 1500 tilfeller",
       "link": "https://www.nrk.no/nyheter/ebola-smitten-i-kongo-har-passert-1500-tilfeller-1.17947058",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-venezuela-1.17947004",
       "category": "Venezuela",
       "pubDate": "Fri, 03 Jul 2026 20:00:18 GMT"
-    },
-    {
-      "title": "Over 600.000 libanesere har vendt hjem siden våpenhvilen",
-      "link": "https://www.nrk.no/nyheter/over-600.000-libanesere-har-vendt-hjem-siden-vapenhvilen-1.17946872",
-      "category": "Libanon",
-      "pubDate": "Fri, 03 Jul 2026 19:43:30 GMT"
-    },
-    {
-      "title": "Ni personer involvert i trafikkulykke, en alvorlig skadet",
-      "link": "https://www.nrk.no/ostfold/ni-personer-involvert-i-trafikkulykke_-en-alvorlig-skadet-1.17946500",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Fri, 03 Jul 2026 16:27:08 GMT"
-    },
-    {
-      "title": "Aftenbladet: Erkjenner straffskyld for Lagård-drapet",
-      "link": "https://www.nrk.no/rogaland/aftenbladet_-erkjenner-straffskyld-for-lagard-drapet-1.17946825",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 03 Jul 2026 16:03:00 GMT"
     }
   ]
 }
