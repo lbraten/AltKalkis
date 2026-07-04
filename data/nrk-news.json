@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-04T19:44:22.745Z",
+  "updatedAt": "2026-07-04T20:59:20.598Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Maskerte menn med sørstatsflagg marsjerte på USAs nasjonaldag",
+      "link": "https://www.nrk.no/nyheter/maskerte-menn-med-sorstatsflagg-marsjerte-pa-usas-nasjonaldag-1.17947804",
+      "category": "USA",
+      "pubDate": "Sat, 04 Jul 2026 20:40:32 GMT"
+    },
     {
       "title": "Tallet på omkomne stiger i Venezuela",
       "link": "https://www.nrk.no/nyheter/tallet-pa-omkomne-stiger-i-venezuela--1.17947715",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fjellklatrer-hentet-av-redningshelikopter-i-buskerud-1.17947625",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sat, 04 Jul 2026 16:31:29 GMT"
-    },
-    {
-      "title": "Funnet i god behold: Mann var savnet i to døgn i Trøndelag",
-      "link": "https://www.nrk.no/nyheter/funnet-i-god-behold_-mann-var-savnet-i-to-dogn-i-trondelag-1.17947643",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 04 Jul 2026 15:54:36 GMT"
     }
   ]
 }
