@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-04T22:06:01.451Z",
+  "updatedAt": "2026-07-04T23:31:22.650Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Al-Qaida-tilknyttet islamistgruppe sier den sto bak angrep i Mali",
+      "link": "https://www.nrk.no/nyheter/al-qaida-tilknyttet-islamistgruppe-sier-den-sto-bak-angrep-i-mali-1.17947821",
+      "category": "Mali",
+      "pubDate": "Sat, 04 Jul 2026 22:53:38 GMT"
+    },
+    {
+      "title": "Mekling på overtid i lønnsoppgjøret for flyteknikerne",
+      "link": "https://www.nrk.no/nyheter/mekling-pa-overtid-i-lonnsoppgjoret-for-flyteknikerne-1.17947839",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sat, 04 Jul 2026 22:21:13 GMT"
+    },
     {
       "title": "Trump og Putin har snakket sammen om Ukraina",
       "link": "https://www.nrk.no/nyheter/trump-og-putin-har-snakket-sammen-om-ukraina-1.17947805",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/larvik_-skal-ha-fatt-arm-i-propell-1.17947744",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 04 Jul 2026 18:05:00 GMT"
-    },
-    {
-      "title": "Trump: – Netanyahu «vet hvem som er sjefen»",
-      "link": "https://www.nrk.no/nyheter/trump_-_-netanyahu-_vet-hvem-som-er-sjefen_-1.17947714",
-      "category": "Donald Trump",
-      "pubDate": "Sat, 04 Jul 2026 17:20:41 GMT"
-    },
-    {
-      "title": "Protester mot seksuell vold i Frankrike",
-      "link": "https://www.nrk.no/nyheter/protester-mot-seksuell-vold-i-frankrike--1.17947683",
-      "category": "Frankrike",
-      "pubDate": "Sat, 04 Jul 2026 17:15:03 GMT"
     }
   ]
 }
