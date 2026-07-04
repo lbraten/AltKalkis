@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-04T16:31:27.395Z",
+  "updatedAt": "2026-07-04T18:02:37.893Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump: – Netanyahu «vet hvem som er sjefen»",
+      "link": "https://www.nrk.no/nyheter/trump_-_-netanyahu-_vet-hvem-som-er-sjefen_-1.17947714",
+      "category": "Donald Trump",
+      "pubDate": "Sat, 04 Jul 2026 17:20:41 GMT"
+    },
+    {
+      "title": "Protester mot seksuell vold i Frankrike",
+      "link": "https://www.nrk.no/nyheter/protester-mot-seksuell-vold-i-frankrike--1.17947683",
+      "category": "Frankrike",
+      "pubDate": "Sat, 04 Jul 2026 17:15:03 GMT"
+    },
+    {
+      "title": "Fjellklatrer skal ha falt i Buskerud",
+      "link": "https://www.nrk.no/nyheter/fjellklatrer-skal-ha-falt-i-buskerud-1.17947625",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 04 Jul 2026 16:31:29 GMT"
+    },
     {
       "title": "Funnet i god behold: Mann var savnet i to døgn i Trøndelag",
       "link": "https://www.nrk.no/nyheter/funnet-i-god-behold_-mann-var-savnet-i-to-dogn-i-trondelag-1.17947643",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vg_-fotballfesten-kan-bli-flyttet-fra-ullevaal-til-frogner-stadion-1.17947474",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 04 Jul 2026 15:41:34 GMT"
-    },
-    {
-      "title": "Kraftige skogbranner i Portugal",
-      "link": "https://www.nrk.no/nyheter/kraftige-skogbranner-i-portugal--1.17947618",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sat, 04 Jul 2026 15:17:33 GMT"
-    },
-    {
-      "title": "Ebola-smittet lege friskmeldt",
-      "link": "https://www.nrk.no/nyheter/ebola-smittet-lege-friskmeldt--1.17947579",
-      "category": "Ebola",
-      "pubDate": "Sat, 04 Jul 2026 15:12:00 GMT"
-    },
-    {
-      "title": "Båt kantret - fire personer hentet opp",
-      "link": "https://www.nrk.no/mr/bat-kantret---fire-personer-hentet-opp-1.17947577",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 04 Jul 2026 14:54:14 GMT"
     }
   ]
 }
