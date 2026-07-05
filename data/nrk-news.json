@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-05T13:43:16.927Z",
+  "updatedAt": "2026-07-05T15:13:46.532Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Den danske staten griper inn mot «larven fra helvete»",
+      "link": "https://www.nrk.no/nyheter/den-danske-staten-griper-inn-mot-_larven-fra-helvete_-1.17948235",
+      "category": "Danmark",
+      "pubDate": "Sun, 05 Jul 2026 14:45:13 GMT"
+    },
+    {
+      "title": "Dronefører bøtelagt for ulovlig flyvning",
+      "link": "https://www.nrk.no/nyheter/droneforer-botelagt-for-ulovlig-flyvning-1.17948234",
+      "category": "Droner",
+      "pubDate": "Sun, 05 Jul 2026 14:07:32 GMT"
+    },
+    {
+      "title": "Trafikkulykke mellom bil og lastebil i Stad",
+      "link": "https://www.nrk.no/vestland/trafikkulykke-mellom-bil-og-lastebil-i-stad-1.17948171",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 05 Jul 2026 14:01:20 GMT"
+    },
     {
       "title": "Trafikkulykke på E6 i Halden",
       "link": "https://www.nrk.no/ostfold/trafikkulykke-pa-e6-i-halden-1.17948204",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hegnar-gir-seg-som-administrerende-direktor--1.17948164",
       "category": "Medier",
       "pubDate": "Sun, 05 Jul 2026 13:17:18 GMT"
-    },
-    {
-      "title": "Alvorlig ulykke i Holmestrand",
-      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-ulykke-i-holmestrand-1.17948192",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 05 Jul 2026 13:13:59 GMT"
-    },
-    {
-      "title": "Syria venter besøk av Macron",
-      "link": "https://www.nrk.no/nyheter/syria-venter-besok-av-macron-1.17948127",
-      "category": "Syria",
-      "pubDate": "Sun, 05 Jul 2026 12:07:46 GMT"
-    },
-    {
-      "title": "Tre pågrepet for å filme kvinner tisse på Roskilde-festivalen",
-      "link": "https://www.nrk.no/nyheter/tre-pagrepet-for-a-filme-kvinner-tisse-pa-roskilde-festivalen-1.17948076",
-      "category": "Danmark",
-      "pubDate": "Sun, 05 Jul 2026 11:43:37 GMT"
     }
   ]
 }
