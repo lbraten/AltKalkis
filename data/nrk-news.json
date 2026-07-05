@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-05T15:13:46.532Z",
+  "updatedAt": "2026-07-05T16:34:08.091Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Aske fra vulkanutbrudd forstyrrer italiensk flytrafikk",
+      "link": "https://www.nrk.no/nyheter/aske-fra-vulkanutbrudd-forstyrrer-italiensk-flytrafikk-1.17948299",
+      "category": "Italia",
+      "pubDate": "Sun, 05 Jul 2026 16:25:56 GMT"
+    },
+    {
+      "title": "Tysk ytre høyre-leder forsvarer likekjønnede forhold",
+      "link": "https://www.nrk.no/nyheter/tysk-ytre-hoyre-leder-forsvarer-likekjonnede-forhold-1.17948277",
+      "category": "Tyskland",
+      "pubDate": "Sun, 05 Jul 2026 16:11:31 GMT"
+    },
+    {
+      "title": "Hundrevis av brannfolk kjemper mot skogbranner i Europa",
+      "link": "https://www.nrk.no/nyheter/hundrevis-av-brannfolk-kjemper-mot-skogbranner-i-europa-1.17948259",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sun, 05 Jul 2026 15:18:40 GMT"
+    },
+    {
+      "title": "MC-fører til Haukeland etter utforkjøring i Bergen",
+      "link": "https://www.nrk.no/vestland/mc-forer-til-haukeland-etter-utforkjoring-i-bergen-1.17948230",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 05 Jul 2026 15:15:25 GMT"
+    },
     {
       "title": "Den danske staten griper inn mot «larven fra helvete»",
       "link": "https://www.nrk.no/nyheter/den-danske-staten-griper-inn-mot-_larven-fra-helvete_-1.17948235",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/droneforer-botelagt-for-ulovlig-flyvning-1.17948234",
       "category": "Droner",
       "pubDate": "Sun, 05 Jul 2026 14:07:32 GMT"
-    },
-    {
-      "title": "Trafikkulykke mellom bil og lastebil i Stad",
-      "link": "https://www.nrk.no/vestland/trafikkulykke-mellom-bil-og-lastebil-i-stad-1.17948171",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 05 Jul 2026 14:01:20 GMT"
-    },
-    {
-      "title": "Trafikkulykke på E6 i Halden",
-      "link": "https://www.nrk.no/ostfold/trafikkulykke-pa-e6-i-halden-1.17948204",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 05 Jul 2026 13:27:51 GMT"
-    },
-    {
-      "title": "Skal jage vekk bjørn",
-      "link": "https://www.nrk.no/trondelag/skal-jage-vekk-bjorn-1.17948190",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 05 Jul 2026 13:18:49 GMT"
-    },
-    {
-      "title": "Hegnar gir seg som administrerende direktør",
-      "link": "https://www.nrk.no/nyheter/hegnar-gir-seg-som-administrerende-direktor--1.17948164",
-      "category": "Medier",
-      "pubDate": "Sun, 05 Jul 2026 13:17:18 GMT"
     }
   ]
 }
