@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-05T16:34:08.091Z",
+  "updatedAt": "2026-07-05T18:04:43.370Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump skal møte lederne for Syria og Ukraina",
+      "link": "https://www.nrk.no/nyheter/trump-skal-mote-lederne-for-syria-og-ukraina--1.17948377",
+      "category": "Donald Trump",
+      "pubDate": "Sun, 05 Jul 2026 17:53:45 GMT"
+    },
+    {
+      "title": "Ett minutts stillhet i København før Norge-Brasil etter fotballvold",
+      "link": "https://www.nrk.no/nyheter/ett-minutts-stillhet-i-kobenhavn-for-norge-brasil-etter-fotballvold-1.17948342",
+      "category": "Danmark",
+      "pubDate": "Sun, 05 Jul 2026 17:46:30 GMT"
+    },
+    {
+      "title": "Søsteren til Haaland: – Brasilianerne virker mer nervøse enn oss",
+      "link": "https://www.nrk.no/nyheter/sosteren-til_haaland___-brasilianerne-virker-mer-nervose-enn-oss_-1.17948236",
+      "category": "VM-folkefesten 2026",
+      "pubDate": "Sun, 05 Jul 2026 17:40:34 GMT"
+    },
+    {
+      "title": "27 døde sauer og lam i Gausdal",
+      "link": "https://www.nrk.no/innlandet/27-dode-sauer-og-lam-i-gausdal-1.17948347",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sun, 05 Jul 2026 17:09:35 GMT"
+    },
+    {
+      "title": "To drept i israelske angrep i Gaza by",
+      "link": "https://www.nrk.no/nyheter/to-drept-i-israelske-angrep-i-gaza-by-1.17948316",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sun, 05 Jul 2026 16:57:57 GMT"
+    },
     {
       "title": "Aske fra vulkanutbrudd forstyrrer italiensk flytrafikk",
       "link": "https://www.nrk.no/nyheter/aske-fra-vulkanutbrudd-forstyrrer-italiensk-flytrafikk-1.17948299",
       "category": "Italia",
       "pubDate": "Sun, 05 Jul 2026 16:25:56 GMT"
-    },
-    {
-      "title": "Tysk ytre høyre-leder forsvarer likekjønnede forhold",
-      "link": "https://www.nrk.no/nyheter/tysk-ytre-hoyre-leder-forsvarer-likekjonnede-forhold-1.17948277",
-      "category": "Tyskland",
-      "pubDate": "Sun, 05 Jul 2026 16:11:31 GMT"
-    },
-    {
-      "title": "Hundrevis av brannfolk kjemper mot skogbranner i Europa",
-      "link": "https://www.nrk.no/nyheter/hundrevis-av-brannfolk-kjemper-mot-skogbranner-i-europa-1.17948259",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 05 Jul 2026 15:18:40 GMT"
-    },
-    {
-      "title": "MC-fører til Haukeland etter utforkjøring i Bergen",
-      "link": "https://www.nrk.no/vestland/mc-forer-til-haukeland-etter-utforkjoring-i-bergen-1.17948230",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 05 Jul 2026 15:15:25 GMT"
-    },
-    {
-      "title": "Den danske staten griper inn mot «larven fra helvete»",
-      "link": "https://www.nrk.no/nyheter/den-danske-staten-griper-inn-mot-_larven-fra-helvete_-1.17948235",
-      "category": "Danmark",
-      "pubDate": "Sun, 05 Jul 2026 14:45:13 GMT"
-    },
-    {
-      "title": "Dronefører bøtelagt for ulovlig flyvning",
-      "link": "https://www.nrk.no/nyheter/droneforer-botelagt-for-ulovlig-flyvning-1.17948234",
-      "category": "Droner",
-      "pubDate": "Sun, 05 Jul 2026 14:07:32 GMT"
     }
   ]
 }
