@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-07-05T09:54:31.853Z",
+  "updatedAt": "2026-07-05T11:36:03.817Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "8 skadet etter skyteepisode i New York",
-      "link": "https://www.nrk.no/nyheter/8-skadet-etter-skyteepisode-i-new-york-1.17948025",
+      "title": "Flere land vil øke oljeproduksjonen",
+      "link": "https://www.nrk.no/nyheter/flere-land-vil-oke-oljeproduksjonen-1.17948029",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 05 Jul 2026 10:35:49 GMT"
+    },
+    {
+      "title": "Åtte skadet i skyting i New York",
+      "link": "https://www.nrk.no/nyheter/atte-skadet-i-skyting-i-new-york-1.17948025",
       "category": "USA",
       "pubDate": "Sun, 05 Jul 2026 08:45:10 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/innlandet/mc-forer-kjorte-av-veien-1.17947945",
       "category": "Politi- og brannloggen i Innlandet",
       "pubDate": "Sun, 05 Jul 2026 06:58:50 GMT"
-    },
-    {
-      "title": "Brooklyn Bridge begynte å brenne under 4. juli-feiringen",
-      "link": "https://www.nrk.no/nyheter/brooklyn-bridge-begynte-a-brenne-under-4.-juli-feiringen-1.17947909",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 05 Jul 2026 05:57:32 GMT"
     }
   ]
 }
