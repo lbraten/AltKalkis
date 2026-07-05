@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-07-05T07:28:06.019Z",
+  "updatedAt": "2026-07-05T09:54:31.853Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Båt tar inn vann i Oslofjorden",
-      "link": "https://www.nrk.no/nyheter/bat-tar-inn-vann-i-oslofjorden--1.17947978",
+      "title": "8 skadet etter skyteepisode i New York",
+      "link": "https://www.nrk.no/nyheter/8-skadet-etter-skyteepisode-i-new-york-1.17948025",
+      "category": "USA",
+      "pubDate": "Sun, 05 Jul 2026 08:45:10 GMT"
+    },
+    {
+      "title": "Mann mistet livet i drukningsulykke i Øvre Eiker",
+      "link": "https://www.nrk.no/nyheter/mann-mistet-livet-i-drukningsulykke-i-ovre-eiker-1.17947987",
       "category": "NRK Nyheter",
+      "pubDate": "Sun, 05 Jul 2026 08:40:37 GMT"
+    },
+    {
+      "title": "Båt tok inn vann i Oslofjorden",
+      "link": "https://www.nrk.no/nyheter/bat-tok-inn-vann-i-oslofjorden--1.17947978",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 05 Jul 2026 07:27:35 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brooklyn-bridge-begynte-a-brenne-under-4.-juli-feiringen-1.17947909",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 05 Jul 2026 05:57:32 GMT"
-    },
-    {
-      "title": "Uber snur om matlevering i Norge",
-      "link": "https://www.nrk.no/nyheter/uber-snur-om-matlevering-i-norge-1.17947902",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 05 Jul 2026 05:11:01 GMT"
-    },
-    {
-      "title": "Trump 250-årstale utsatt på grunn av uvær",
-      "link": "https://www.nrk.no/nyheter/trump-250-arstale-utsatt-pa-grunn-av-uvaer-1.17947904",
-      "category": "USA",
-      "pubDate": "Sun, 05 Jul 2026 04:47:59 GMT"
     }
   ]
 }
