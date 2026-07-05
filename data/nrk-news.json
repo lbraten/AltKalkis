@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-07-05T21:02:39.633Z",
+  "updatedAt": "2026-07-05T22:30:27.895Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Mulig gasslekkasje i Drammen - sikkerhetssone opprettet",
-      "link": "https://www.nrk.no/nyheter/mulig-gasslekkasje-i-drammen---sikkerhetssone-opprettet--1.17948486",
+      "title": "Norse setter opp nytt fly fra Oslo til Miami",
+      "link": "https://www.nrk.no/nyheter/norse-setter-opp-nytt-fly-fra-oslo-til-miami-1.17948502",
+      "category": "VM-folkefesten 2026",
+      "pubDate": "Sun, 05 Jul 2026 22:22:29 GMT"
+    },
+    {
+      "title": "Kronprinsen er på Slottsplassen",
+      "link": "https://www.nrk.no/stor-oslo/kronprinsen-er-pa-slottsplassen-1.17948518",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 05 Jul 2026 22:15:32 GMT"
+    },
+    {
+      "title": "Mann i 20-årene skutt og drept i Uppsala i Sverige",
+      "link": "https://www.nrk.no/nyheter/mann-i-20-arene-skutt-og-drept-i-uppsala-i-sverige-1.17948497",
+      "category": "Voldsbølge i Sverige",
+      "pubDate": "Sun, 05 Jul 2026 21:30:21 GMT"
+    },
+    {
+      "title": "Over 3300 bekreftet døde etter jordskjelvene i Venezuela",
+      "link": "https://www.nrk.no/nyheter/over-3300-bekreftet-dode-etter-jordskjelvene-i-venezuela-1.17948496",
+      "category": "Venezuela",
+      "pubDate": "Sun, 05 Jul 2026 21:12:27 GMT"
+    },
+    {
+      "title": "Mulig gasslekkasje i Drammen var fask alarm",
+      "link": "https://www.nrk.no/nyheter/mulig-gasslekkasje-i-drammen-var-fask-alarm-1.17948486",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sun, 05 Jul 2026 20:52:14 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rodriguez-forsvarer-innsatsen-etter-jordskjelvene--1.17948479",
       "category": "Venezuela",
       "pubDate": "Sun, 05 Jul 2026 20:49:44 GMT"
-    },
-    {
-      "title": "Netanyahu hevder kristne vil la seg annektere",
-      "link": "https://www.nrk.no/nyheter/netanyahu-hevder-kristne-vil-la-seg-annektere--1.17948459",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 05 Jul 2026 20:33:54 GMT"
-    },
-    {
-      "title": "Mer enn 100 pågrepet i Nato-protest",
-      "link": "https://www.nrk.no/nyheter/mer-enn-100-pagrepet-i-nato-protest--1.17948435",
-      "category": "Tyrkia",
-      "pubDate": "Sun, 05 Jul 2026 19:36:05 GMT"
-    },
-    {
-      "title": "Kronprinsbarna: – Vi gleder oss veldig",
-      "link": "https://www.nrk.no/nyheter/kronprinsbarna_-_-vi-gleder-oss-veldig--1.17948410",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Sun, 05 Jul 2026 19:13:47 GMT"
-    },
-    {
-      "title": "Mann skutt av politiet i Mo i Rana",
-      "link": "https://www.nrk.no/nyheter/mann-skutt-av-politiet-i-mo-i-rana-1.17948146",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 05 Jul 2026 19:10:06 GMT"
     }
   ]
 }
