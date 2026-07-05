@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-05T19:50:53.161Z",
+  "updatedAt": "2026-07-05T21:02:39.633Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mulig gasslekkasje i Drammen - sikkerhetssone opprettet",
+      "link": "https://www.nrk.no/nyheter/mulig-gasslekkasje-i-drammen---sikkerhetssone-opprettet--1.17948486",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sun, 05 Jul 2026 20:52:14 GMT"
+    },
+    {
+      "title": "Rodríguez forsvarer innsatsen etter jordskjelvene",
+      "link": "https://www.nrk.no/nyheter/rodriguez-forsvarer-innsatsen-etter-jordskjelvene--1.17948479",
+      "category": "Venezuela",
+      "pubDate": "Sun, 05 Jul 2026 20:49:44 GMT"
+    },
+    {
+      "title": "Netanyahu hevder kristne vil la seg annektere",
+      "link": "https://www.nrk.no/nyheter/netanyahu-hevder-kristne-vil-la-seg-annektere--1.17948459",
+      "category": "Libanon og Israel",
+      "pubDate": "Sun, 05 Jul 2026 20:33:54 GMT"
+    },
     {
       "title": "Mer enn 100 pågrepet i Nato-protest",
       "link": "https://www.nrk.no/nyheter/mer-enn-100-pagrepet-i-nato-protest--1.17948435",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-skutt-av-politiet-i-mo-i-rana-1.17948146",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 05 Jul 2026 19:10:06 GMT"
-    },
-    {
-      "title": "Zelenskyj sier det fortsatt pågår kamper om viktig by",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-sier-det-fortsatt-pagar-kamper-om-viktig-by-1.17948401",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 05 Jul 2026 18:31:37 GMT"
-    },
-    {
-      "title": "Smykker verdt millioner stjålet fra fransk museum",
-      "link": "https://www.nrk.no/nyheter/smykker-verdt-millioner-stjalet-fra-fransk-museum-1.17948393",
-      "category": "Frankrike",
-      "pubDate": "Sun, 05 Jul 2026 18:16:52 GMT"
-    },
-    {
-      "title": "Kongeparet hilser til fotballgutta",
-      "link": "https://www.nrk.no/nyheter/kongeparet-hilser-til-fotballgutta-1.17948381",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Sun, 05 Jul 2026 18:06:15 GMT"
     }
   ]
 }
