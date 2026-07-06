@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-06T13:03:36.723Z",
+  "updatedAt": "2026-07-06T16:36:43.916Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Fly nødlandet på Torp",
-      "link": "https://www.nrk.no/vestfoldogtelemark/fly-nodlandet-pa-torp-1.17949326",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 06 Jul 2026 12:16:28 GMT"
+      "title": "Nytt landsomfattende strømbrudd på Cuba",
+      "link": "https://www.nrk.no/nyheter/nytt-landsomfattende-strombrudd-pa-cuba-1.17949621",
+      "category": "Cuba",
+      "pubDate": "Mon, 06 Jul 2026 16:26:59 GMT"
     },
     {
-      "title": "Statens vegvesen: Landslagsgutta tømte veiene",
-      "link": "https://www.nrk.no/nyheter/statens-vegvesen_-landslagsgutta-tomte-veiene-1.17949247",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Mon, 06 Jul 2026 12:15:59 GMT"
+      "title": "Journalister og aktivister pågrepet før Nato-møte i Tyrkia",
+      "link": "https://www.nrk.no/nyheter/journalister-og-aktivister-pagrepet-for-nato-mote-i-tyrkia-1.17949598",
+      "category": "Tyrkia",
+      "pubDate": "Mon, 06 Jul 2026 16:18:01 GMT"
     },
     {
-      "title": "Unicef: Minst 330 barn drept eller såret i Sudan",
-      "link": "https://www.nrk.no/nyheter/unicef_-minst-330-barn-drept-eller-saret-i-sudan-1.17949147",
+      "title": "Kulturministeren reiser til kvartfinalen i Miami",
+      "link": "https://www.nrk.no/nyheter/kulturministeren-reiser-til-kvartfinalen-i-miami-1.17949592",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Mon, 06 Jul 2026 16:16:41 GMT"
+    },
+    {
+      "title": "15 omkommet i gruveulykke i Sudan",
+      "link": "https://www.nrk.no/nyheter/15-omkommet-i-gruveulykke-i-sudan-1.17949482",
       "category": "Sudan",
-      "pubDate": "Mon, 06 Jul 2026 11:29:27 GMT"
+      "pubDate": "Mon, 06 Jul 2026 15:53:02 GMT"
     },
     {
-      "title": "Barn påkjørt på Skullerud i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/barn-pakjort-pa-skullerud-i-oslo-1.17949145",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 06 Jul 2026 11:17:52 GMT"
-    },
-    {
-      "title": "EU sender fire brannslokkingsfly til Frankrike",
-      "link": "https://www.nrk.no/nyheter/eu-sender-fire-brannslokkingsfly-til-frankrike-1.17949134",
-      "category": "Frankrike",
-      "pubDate": "Mon, 06 Jul 2026 10:34:21 GMT"
-    },
-    {
-      "title": "Vipps: Tæppingen eksploderte kampen mot Brasil",
-      "link": "https://www.nrk.no/nyheter/vipps_-taeppingen-eksploderte-kampen-mot-brasil-1.17949126",
+      "title": "VG: Fotballfesten arrangeres på Frogner stadion",
+      "link": "https://www.nrk.no/stor-oslo/vg_-fotballfesten-arrangeres-pa-frogner-stadion-1.17949559",
       "category": "VM-folkefesten 2026",
-      "pubDate": "Mon, 06 Jul 2026 10:23:20 GMT"
+      "pubDate": "Mon, 06 Jul 2026 15:42:37 GMT"
+    },
+    {
+      "title": "Møteulykke på E6 – sju personer involvert",
+      "link": "https://www.nrk.no/trondelag/moteulykke-pa-e6-_-sju-personer-involvert-1.17949558",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 06 Jul 2026 15:09:15 GMT"
     }
   ]
 }
