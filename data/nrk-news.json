@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-06T04:51:38.671Z",
+  "updatedAt": "2026-07-06T09:00:24.784Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Hektisk natt for Oslo-politiet",
-      "link": "https://www.nrk.no/stor-oslo/hektisk-natt-for-oslo-politiet-1.17948644",
+      "title": "1,9 millioner så Norge slå Brasil på NRK",
+      "link": "https://www.nrk.no/nyheter/1_9-millioner-sa-norge-sla-brasil-pa-nrk-1.17948932",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Mon, 06 Jul 2026 08:48:46 GMT"
+    },
+    {
+      "title": "19 drept i fangeopprør på Sri Lanka",
+      "link": "https://www.nrk.no/nyheter/19-drept-i-fangeoppror-pa-sri-lanka-1.17948916",
+      "category": "Sri Lanka",
+      "pubDate": "Mon, 06 Jul 2026 08:06:44 GMT"
+    },
+    {
+      "title": "Kongeparet fulgte VM-kampen fra hytta i Vestfold",
+      "link": "https://www.nrk.no/vestfoldogtelemark/kongeparet-fulgte-vm-kampen-fra-hytta-i-vestfold-1.17948856",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 06 Jul 2026 07:51:37 GMT"
+    },
+    {
+      "title": "Det blir ny VM-fest på Rådhusplassen på lørdag",
+      "link": "https://www.nrk.no/stor-oslo/det-blir-ny-vm-fest-pa-radhusplassen-pa-lordag-1.17948861",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 06 Jul 2026 04:24:30 GMT"
+      "pubDate": "Mon, 06 Jul 2026 07:32:15 GMT"
     },
     {
-      "title": "Én person ble skallet ned i Storgata i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/en-person-ble-skallet-ned-i-storgata-i-oslo-1.17948642",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 06 Jul 2026 03:07:25 GMT"
+      "title": "TV 2 tillater gratis visning av Norge – England",
+      "link": "https://www.nrk.no/nyheter/tv-2-tillater-gratis-visning-av-norge-_-england-1.17948699",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Mon, 06 Jul 2026 07:26:01 GMT"
     },
     {
-      "title": "Leteaksjon etter savnet turgåer i Selbu",
-      "link": "https://www.nrk.no/nyheter/leteaksjon-etter-savnet-turgaer-i-selbu-1.17948589",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Mon, 06 Jul 2026 02:38:48 GMT"
-    },
-    {
-      "title": "30 personer til legevakta etter fyrverkeriskader i Oslo",
-      "link": "https://www.nrk.no/nyheter/30-personer-til-legevakta-etter-fyrverkeriskader-i-oslo-1.17948603",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Mon, 06 Jul 2026 02:11:10 GMT"
-    },
-    {
-      "title": "Minst ti drept i rakettangrep mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/minst-ti-drept-i-rakettangrep-mot-kyiv-1.17948602",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 06 Jul 2026 01:53:51 GMT"
-    },
-    {
-      "title": "Ni bønder drept av væpnede menn i Nigeria",
-      "link": "https://www.nrk.no/nyheter/ni-bonder-drept-av-vaepnede-menn-i-nigeria-1.17948584",
-      "category": "Nigeria",
-      "pubDate": "Mon, 06 Jul 2026 00:42:14 GMT"
+      "title": "Idrettspresidenten: – Helt vanvittig",
+      "link": "https://www.nrk.no/nyheter/idrettspresidenten_-_-helt-vanvittig-1.17948787",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Mon, 06 Jul 2026 07:02:06 GMT"
     }
   ]
 }
