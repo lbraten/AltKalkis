@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-06T20:53:02.272Z",
+  "updatedAt": "2026-07-06T22:14:19.323Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Delstatsadvokater protesterer mot Trumps tollplaner",
+      "link": "https://www.nrk.no/nyheter/delstatsadvokater--protesterer-mot-trumps-tollplaner--1.17949818",
+      "category": "USA",
+      "pubDate": "Mon, 06 Jul 2026 22:02:47 GMT"
+    },
     {
       "title": "Dødsulykke i Nordland",
       "link": "https://www.nrk.no/nordland/dodsulykke-i-nordland-1.17949560",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/mann-dode-i-trafikkulykke-i-holmestrand-1.17949689",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 06 Jul 2026 17:57:28 GMT"
-    },
-    {
-      "title": "Khameneis kropp fraktet til hellig by",
-      "link": "https://www.nrk.no/nyheter/khameneis-kropp-fraktet-til-hellig-by-1.17949654",
-      "category": "Iran",
-      "pubDate": "Mon, 06 Jul 2026 17:34:57 GMT"
     }
   ]
 }
