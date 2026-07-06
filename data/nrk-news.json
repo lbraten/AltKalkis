@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-05T22:30:27.895Z",
+  "updatedAt": "2026-07-06T00:08:13.847Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Norse setter opp nytt fly fra Oslo til Miami",
-      "link": "https://www.nrk.no/nyheter/norse-setter-opp-nytt-fly-fra-oslo-til-miami-1.17948502",
+      "title": "Meldinger om store skader på amerikansk øy etter supertyfon",
+      "link": "https://www.nrk.no/nyheter/meldinger-om-store-skader-pa-amerikansk-oy-etter-supertyfon-1.17948558",
+      "category": "Klima og miljø",
+      "pubDate": "Sun, 05 Jul 2026 23:35:23 GMT"
+    },
+    {
+      "title": "Kampen mellom Mexico og England er utsatt",
+      "link": "https://www.nrk.no/nyheter/kampen-mellom-mexico-og-england-er-utsatt-1.17948555",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Sun, 05 Jul 2026 23:18:01 GMT"
+    },
+    {
+      "title": "Flere truffet av fyrverkeri i Oslo sentrum",
+      "link": "https://www.nrk.no/nyheter/flere-truffet-av-fyrverkeri-i-oslo-sentrum-1.17948553",
       "category": "VM-folkefesten 2026",
-      "pubDate": "Sun, 05 Jul 2026 22:22:29 GMT"
+      "pubDate": "Sun, 05 Jul 2026 23:13:32 GMT"
     },
     {
-      "title": "Kronprinsen er på Slottsplassen",
-      "link": "https://www.nrk.no/stor-oslo/kronprinsen-er-pa-slottsplassen-1.17948518",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 05 Jul 2026 22:15:32 GMT"
+      "title": "Sevastopol uten strøm etter angrep",
+      "link": "https://www.nrk.no/nyheter/sevastopol-uten-strom-etter-angrep-1.17948552",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 05 Jul 2026 23:06:47 GMT"
     },
     {
-      "title": "Mann i 20-årene skutt og drept i Uppsala i Sverige",
-      "link": "https://www.nrk.no/nyheter/mann-i-20-arene-skutt-og-drept-i-uppsala-i-sverige-1.17948497",
-      "category": "Voldsbølge i Sverige",
-      "pubDate": "Sun, 05 Jul 2026 21:30:21 GMT"
+      "title": "Kraftige eksplosjoner i Kyiv",
+      "link": "https://www.nrk.no/nyheter/kraftige-eksplosjoner-i-kyiv-1.17948528",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 05 Jul 2026 23:06:30 GMT"
     },
     {
-      "title": "Over 3300 bekreftet døde etter jordskjelvene i Venezuela",
-      "link": "https://www.nrk.no/nyheter/over-3300-bekreftet-dode-etter-jordskjelvene-i-venezuela-1.17948496",
-      "category": "Venezuela",
-      "pubDate": "Sun, 05 Jul 2026 21:12:27 GMT"
-    },
-    {
-      "title": "Mulig gasslekkasje i Drammen var fask alarm",
-      "link": "https://www.nrk.no/nyheter/mulig-gasslekkasje-i-drammen-var-fask-alarm-1.17948486",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sun, 05 Jul 2026 20:52:14 GMT"
-    },
-    {
-      "title": "Rodríguez forsvarer innsatsen etter jordskjelvene",
-      "link": "https://www.nrk.no/nyheter/rodriguez-forsvarer-innsatsen-etter-jordskjelvene--1.17948479",
-      "category": "Venezuela",
-      "pubDate": "Sun, 05 Jul 2026 20:49:44 GMT"
+      "title": "Folkefest i Oslo: Rundt 100 000 samlet",
+      "link": "https://www.nrk.no/nyheter/folkefest-i-oslo_-rundt-100-000-samlet-1.17948534",
+      "category": "VM-folkefesten 2026",
+      "pubDate": "Sun, 05 Jul 2026 22:51:21 GMT"
     }
   ]
 }
