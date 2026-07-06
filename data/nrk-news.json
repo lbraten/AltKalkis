@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-06T18:55:34.846Z",
+  "updatedAt": "2026-07-06T20:53:02.272Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dødsulykke i Nordland",
+      "link": "https://www.nrk.no/nordland/dodsulykke-i-nordland-1.17949560",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Mon, 06 Jul 2026 19:42:10 GMT"
+    },
+    {
+      "title": "Passasjer-fly til Kirkenes måtte snu",
+      "link": "https://www.nrk.no/tromsogfinnmark/passasjer-fly-til-kirkenes-matte-snu-1.17949768",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Mon, 06 Jul 2026 19:37:28 GMT"
+    },
+    {
+      "title": "Væpnet aksjon på Frøya – en person pågrepet",
+      "link": "https://www.nrk.no/trondelag/vaepnet-aksjon-pa-froya-_-en-person-pagrepet-1.17949646",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 06 Jul 2026 19:37:06 GMT"
+    },
+    {
+      "title": "Over 3500 bekreftet omkommet i Venezuela",
+      "link": "https://www.nrk.no/nyheter/over-3500-bekreftet-omkommet-i-venezuela-1.17949754",
+      "category": "Venezuela",
+      "pubDate": "Mon, 06 Jul 2026 19:16:01 GMT"
+    },
     {
       "title": "Mann døde i trafikkulykke i Holmestrand",
       "link": "https://www.nrk.no/vestfoldogtelemark/mann-dode-i-trafikkulykke-i-holmestrand-1.17949689",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/khameneis-kropp-fraktet-til-hellig-by-1.17949654",
       "category": "Iran",
       "pubDate": "Mon, 06 Jul 2026 17:34:57 GMT"
-    },
-    {
-      "title": "Boligbrann i Fredrikstad",
-      "link": "https://www.nrk.no/ostfold/boligbrann-i-fredrikstad-1.17949666",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Mon, 06 Jul 2026 17:30:37 GMT"
-    },
-    {
-      "title": "Macron besøker Syria",
-      "link": "https://www.nrk.no/nyheter/macron-besoker-syria--1.17949645",
-      "category": "Frankrike",
-      "pubDate": "Mon, 06 Jul 2026 17:11:31 GMT"
-    },
-    {
-      "title": "Flere hundre berørt av strømbrudd i Nord-Norge",
-      "link": "https://www.nrk.no/tromsogfinnmark/flere-hundre-berort-av-strombrudd-i-nord-norge-1.17949584",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 06 Jul 2026 16:40:14 GMT"
-    },
-    {
-      "title": "Cuba rammet av nytt landsomfattende strømbrudd",
-      "link": "https://www.nrk.no/nyheter/cuba-rammet-av-nytt-landsomfattende-strombrudd--1.17949621",
-      "category": "Cuba",
-      "pubDate": "Mon, 06 Jul 2026 16:26:59 GMT"
     }
   ]
 }
