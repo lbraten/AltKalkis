@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-07T03:35:39.663Z",
+  "updatedAt": "2026-07-07T07:40:34.190Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eksplosjoner i nærheten av Macrons hotell i Damaskus",
+      "link": "https://www.nrk.no/nyheter/eksplosjoner-i-naerheten-av-macrons-hotell-i-damaskus--1.17950082",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 07 Jul 2026 07:30:43 GMT"
+    },
+    {
+      "title": "Kulturministeren ber Bergen vurdera VM-visning",
+      "link": "https://www.nrk.no/vestland/kulturministeren-ber-bergen-vurdera-vm-visning-1.17949991",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 07 Jul 2026 06:38:00 GMT"
+    },
+    {
+      "title": "Oslo topper bompengestatistikken",
+      "link": "https://www.nrk.no/stor-oslo/oslo-topper-bompengestatistikken-1.17949967",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 07 Jul 2026 05:31:47 GMT"
+    },
+    {
+      "title": "Dødstallene stiger i Kina: Minst 15 døde i ekstremvær",
+      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-kina_-minst-15-dode-i-ekstremvaer-1.17949956",
+      "category": "Kina",
+      "pubDate": "Tue, 07 Jul 2026 05:26:32 GMT"
+    },
+    {
+      "title": "Starmer grep inn i Fifa-endring før Englands skjebnekamp",
+      "link": "https://www.nrk.no/nyheter/starmer-grep-inn-i-fifa-endring-for-englands-skjebnekamp-1.17949937",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Tue, 07 Jul 2026 04:53:02 GMT"
+    },
     {
       "title": "Én drept i angrep mot Belgorod – droner stanset mot Moskva",
       "link": "https://www.nrk.no/nyheter/en-drept-i-angrep-mot-belgorod-_-droner-stanset-mot-moskva-1.17949902",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 07 Jul 2026 03:30:41 GMT"
-    },
-    {
-      "title": "Mistenkes for promillekjøring med tre barn i bilen",
-      "link": "https://www.nrk.no/vestfoldogtelemark/mistenkes-for-promillekjoring-med-tre-barn-i-bilen-1.17949908",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 07 Jul 2026 03:21:31 GMT"
-    },
-    {
-      "title": "Gjødselutslipp kan nå Mandalselva",
-      "link": "https://www.nrk.no/sorlandet/gjodselutslipp-kan-na-mandalselva-1.17949895",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Tue, 07 Jul 2026 03:17:45 GMT"
-    },
-    {
-      "title": "Minst åtte døde og flere savnet etter uvær og jordskred i Kina",
-      "link": "https://www.nrk.no/nyheter/minst-atte-dode-og-flere-savnet-etter-uvaer-og-jordskred-i-kina-1.17949891",
-      "category": "Kina",
-      "pubDate": "Tue, 07 Jul 2026 03:12:51 GMT"
-    },
-    {
-      "title": "Verdensbanken spår lavere vekst i Kina",
-      "link": "https://www.nrk.no/nyheter/verdensbanken-spar-lavere-vekst-i-kina-1.17949890",
-      "category": "Kina",
-      "pubDate": "Tue, 07 Jul 2026 02:56:33 GMT"
-    },
-    {
-      "title": "Artisten Lauren Bennett (37) er død",
-      "link": "https://www.nrk.no/nyheter/artisten-lauren-bennett-_37_-er-dod-1.17949884",
-      "category": "Musikk",
-      "pubDate": "Tue, 07 Jul 2026 02:45:11 GMT"
     }
   ]
 }
