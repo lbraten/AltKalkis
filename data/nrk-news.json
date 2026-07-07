@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-07T21:05:38.575Z",
+  "updatedAt": "2026-07-07T22:37:04.950Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Russisk angrep i Kyiv - flere skadet i Odesa",
+      "link": "https://www.nrk.no/nyheter/russisk-angrep-i-kyiv---flere-skadet-i-odesa--1.17951127",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 07 Jul 2026 22:10:58 GMT"
+    },
+    {
+      "title": "Voldshendelse i Sandnes sentrum",
+      "link": "https://www.nrk.no/nyheter/voldshendelse-i-sandnes-sentrum--1.17951125",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Tue, 07 Jul 2026 22:06:55 GMT"
+    },
+    {
+      "title": "Mann omkom i trafikkulykke på E6",
+      "link": "https://www.nrk.no/nyheter/mann-omkom-i-trafikkulykke-pa-e6-1.17951121",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Tue, 07 Jul 2026 21:56:58 GMT"
+    },
+    {
+      "title": "Iran anklager USA for avtalebrudd etter gjeninnføring av oljesanksjoner",
+      "link": "https://www.nrk.no/nyheter/iran-anklager-usa-for-avtalebrudd-etter-gjeninnforing-av-oljesanksjoner-1.17951117",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 07 Jul 2026 21:39:00 GMT"
+    },
+    {
+      "title": "USA gjennomfører angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/usa-gjennomforer-angrep-mot-iran-1.17951113",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 07 Jul 2026 21:20:14 GMT"
+    },
     {
       "title": "Brann på campingplass",
       "link": "https://www.nrk.no/innlandet/brann-pa-campingplass-1.17951063",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Tue, 07 Jul 2026 20:23:21 GMT"
-    },
-    {
-      "title": "Hå: Tenåring tatt i 165 kilometer i timen i 80-sonen",
-      "link": "https://www.nrk.no/rogaland/ha_-tenaring-tatt-i-165-kilometer-i-timen-i-80-sonen-1.17951039",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Tue, 07 Jul 2026 19:29:49 GMT"
-    },
-    {
-      "title": "USA tilbakekaller lisens som tillater salg av iransk olje",
-      "link": "https://www.nrk.no/nyheter/usa-tilbakekaller-lisens-som-tillater-salg-av-iransk-olje-1.17951030",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 07 Jul 2026 19:27:04 GMT"
-    },
-    {
-      "title": "Anmeldt for å spionere på Roskilde – viltkamera funnet",
-      "link": "https://www.nrk.no/nyheter/anmeldt-for-a-spionere-pa-roskilde-_-viltkamera-funnet-1.17951024",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 07 Jul 2026 19:13:27 GMT"
-    },
-    {
-      "title": "Fire drept i israelske angrep i Gaza tirsdag",
-      "link": "https://www.nrk.no/nyheter/fire-drept-i-israelske-angrep-i-gaza-tirsdag-1.17951002",
-      "category": "Krigen i Gaza",
-      "pubDate": "Tue, 07 Jul 2026 18:58:22 GMT"
-    },
-    {
-      "title": "Mistenker flere tyveri etter funn av barberblad",
-      "link": "https://www.nrk.no/tromsogfinnmark/mistenker-flere-tyveri-etter-funn-av-barberblad-1.17950440",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 07 Jul 2026 18:31:25 GMT"
     }
   ]
 }
