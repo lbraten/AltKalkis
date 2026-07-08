@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-08T22:07:56.194Z",
+  "updatedAt": "2026-07-08T23:36:20.730Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nato-ledere fikk personlig våpen i gave fra Erdogan",
+      "link": "https://www.nrk.no/nyheter/nato-ledere-fikk-personlig-vapen-i-gave-fra-erdogan-1.17952514",
+      "category": "Nato-toppmøte",
+      "pubDate": "Wed, 08 Jul 2026 23:22:10 GMT"
+    },
+    {
+      "title": "MC-fører omkom i trafikkulykke i Kongsvinger",
+      "link": "https://www.nrk.no/nyheter/mc-forer-omkom-i-trafikkulykke-i-kongsvinger-1.17952484",
+      "category": "MC-ulykker",
+      "pubDate": "Wed, 08 Jul 2026 22:19:52 GMT"
+    },
     {
       "title": "Melding om mulig brann i boligblokk i Trondheim",
       "link": "https://www.nrk.no/trondelag/melding-om-mulig-brann-i-boligblokk-i-trondheim-1.17952474",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/ag-tunnel-konkurs-_-80-tilsette-ramma-1.17952335",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Wed, 08 Jul 2026 20:00:52 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke i Kongsvinger",
-      "link": "https://www.nrk.no/innlandet/alvorlig-trafikkulykke-i-kongsvinger-1.17952402",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Wed, 08 Jul 2026 19:59:51 GMT"
-    },
-    {
-      "title": "USA har iverksatt nytt angrep på Iran",
-      "link": "https://www.nrk.no/nyheter/usa-har-iverksatt-nytt-angrep-pa-iran-1.17952458",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 08 Jul 2026 19:57:51 GMT"
     }
   ]
 }
