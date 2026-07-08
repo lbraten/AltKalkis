@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-08T20:44:22.672Z",
+  "updatedAt": "2026-07-08T22:07:56.194Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Melding om mulig brann i boligblokk i Trondheim",
+      "link": "https://www.nrk.no/trondelag/melding-om-mulig-brann-i-boligblokk-i-trondheim-1.17952474",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Wed, 08 Jul 2026 20:57:30 GMT"
+    },
     {
       "title": "Ber folk følge med på eldre som bor alene",
       "link": "https://www.nrk.no/sorlandet/ber-folk-folge-med-pa-eldre-som-bor-alene--1.17952438",
@@ -29,14 +35,8 @@
     {
       "title": "USA har iverksatt nytt angrep på Iran",
       "link": "https://www.nrk.no/nyheter/usa-har-iverksatt-nytt-angrep-pa-iran-1.17952458",
-      "category": "Iran",
+      "category": "Forholdet Iran – USA",
       "pubDate": "Wed, 08 Jul 2026 19:57:51 GMT"
-    },
-    {
-      "title": "Justin Bieber skal opptre i pauseshowet under VM-finalen",
-      "link": "https://www.nrk.no/nyheter/justin-bieber-skal-opptre-i-pauseshowet-under-vm-finalen-1.17952455",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Wed, 08 Jul 2026 19:46:16 GMT"
     }
   ]
 }
