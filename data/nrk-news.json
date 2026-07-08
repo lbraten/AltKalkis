@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-07T23:58:30.417Z",
+  "updatedAt": "2026-07-08T03:35:22.184Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kuwait melder om rakett- og droneangrep",
+      "link": "https://www.nrk.no/nyheter/kuwait-melder-om-rakett--og-droneangrep-1.17951169",
+      "category": "Kuwait",
+      "pubDate": "Wed, 08 Jul 2026 03:27:42 GMT"
+    },
+    {
+      "title": "Iran truer USA etter massivt angrep",
+      "link": "https://www.nrk.no/nyheter/iran-truer-usa-etter-massivt-angrep-1.17951166",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 08 Jul 2026 02:28:38 GMT"
+    },
+    {
+      "title": "USA sier de har angrepet over 80 mål i Iran natt til onsdag",
+      "link": "https://www.nrk.no/nyheter/usa-sier-de-har-angrepet-over-80-mal-i-iran-natt-til-onsdag-1.17951164",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 08 Jul 2026 02:00:26 GMT"
+    },
+    {
+      "title": "21 personer døde etter jordskred i Kina",
+      "link": "https://www.nrk.no/nyheter/21-personer-dode-etter-jordskred-i-kina-1.17951156",
+      "category": "Kina",
+      "pubDate": "Wed, 08 Jul 2026 01:45:03 GMT"
+    },
+    {
+      "title": "Fraktfly savnet utenfor Pakistan med fem om bord",
+      "link": "https://www.nrk.no/nyheter/fraktfly-savnet-utenfor-pakistan-med-fem-om-bord-1.17951151",
+      "category": "Pakistan",
+      "pubDate": "Wed, 08 Jul 2026 00:00:53 GMT"
+    },
     {
       "title": "Brann i bygård i Oslo",
       "link": "https://www.nrk.no/nyheter/brann-i-bygard-i-oslo-1.17951148",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 07 Jul 2026 23:40:06 GMT"
-    },
-    {
-      "title": "Fallulykke ned en skrent i Bamble – fremstår som alvorlig",
-      "link": "https://www.nrk.no/nyheter/fallulykke-ned-en-skrent-i-bamble-_-fremstar-som-alvorlig-1.17951129",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 07 Jul 2026 23:23:06 GMT"
-    },
-    {
-      "title": "Russisk angrep i Kyiv - flere skadet i Odesa",
-      "link": "https://www.nrk.no/nyheter/russisk-angrep-i-kyiv---flere-skadet-i-odesa--1.17951127",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 07 Jul 2026 22:10:58 GMT"
-    },
-    {
-      "title": "Voldshendelse i Sandnes sentrum",
-      "link": "https://www.nrk.no/nyheter/voldshendelse-i-sandnes-sentrum--1.17951125",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Tue, 07 Jul 2026 22:06:55 GMT"
-    },
-    {
-      "title": "Mann omkom i trafikkulykke på E6",
-      "link": "https://www.nrk.no/nyheter/mann-omkom-i-trafikkulykke-pa-e6-1.17951121",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Tue, 07 Jul 2026 21:56:58 GMT"
-    },
-    {
-      "title": "Iran anklager USA for avtalebrudd etter gjeninnføring av oljesanksjoner",
-      "link": "https://www.nrk.no/nyheter/iran-anklager-usa-for-avtalebrudd-etter-gjeninnforing-av-oljesanksjoner-1.17951117",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 07 Jul 2026 21:39:00 GMT"
     }
   ]
 }
