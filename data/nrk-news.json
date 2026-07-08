@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-08T03:35:22.184Z",
+  "updatedAt": "2026-07-08T06:29:20.073Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Kuwait melder om rakett- og droneangrep",
-      "link": "https://www.nrk.no/nyheter/kuwait-melder-om-rakett--og-droneangrep-1.17951169",
-      "category": "Kuwait",
+      "title": "Mette Frederiksen: – Grønland er ikke til salgs",
+      "link": "https://www.nrk.no/nyheter/mette-frederiksen_-_-gronland-er-ikke-til-salgs-1.17951306",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 08 Jul 2026 06:24:19 GMT"
+    },
+    {
+      "title": "Telenor med milliardhandel i Sverige",
+      "link": "https://www.nrk.no/nyheter/telenor-med-milliardhandel-i-sverige-1.17951276",
+      "category": "Telenor",
+      "pubDate": "Wed, 08 Jul 2026 06:03:56 GMT"
+    },
+    {
+      "title": "Kyiv: En død etter russiske angrep",
+      "link": "https://www.nrk.no/nyheter/kyiv_-en-dod-etter-russiske-angrep--1.17951263",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 08 Jul 2026 05:40:46 GMT"
+    },
+    {
+      "title": "Rutte: Angrepene mot Iran var nødvendige",
+      "link": "https://www.nrk.no/nyheter/rutte_-angrepene-mot-iran-var-nodvendige-1.17951262",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 08 Jul 2026 05:18:46 GMT"
+    },
+    {
+      "title": "Lanserer ny og kraftigere KI-modell",
+      "link": "https://www.nrk.no/nyheter/lanserer-ny-og-kraftigere-ki-modell-1.17951228",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 08 Jul 2026 05:16:59 GMT"
+    },
+    {
+      "title": "Kuwait melder om rakett- og droneangrep - Irans Revolusjonsgarde sier de står bak",
+      "link": "https://www.nrk.no/nyheter/kuwait-melder-om-rakett--og-droneangrep---irans-revolusjonsgarde-sier-de-star-bak-1.17951169",
+      "category": "Forholdet Iran – USA",
       "pubDate": "Wed, 08 Jul 2026 03:27:42 GMT"
-    },
-    {
-      "title": "Iran truer USA etter massivt angrep",
-      "link": "https://www.nrk.no/nyheter/iran-truer-usa-etter-massivt-angrep-1.17951166",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 08 Jul 2026 02:28:38 GMT"
-    },
-    {
-      "title": "USA sier de har angrepet over 80 mål i Iran natt til onsdag",
-      "link": "https://www.nrk.no/nyheter/usa-sier-de-har-angrepet-over-80-mal-i-iran-natt-til-onsdag-1.17951164",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 08 Jul 2026 02:00:26 GMT"
-    },
-    {
-      "title": "21 personer døde etter jordskred i Kina",
-      "link": "https://www.nrk.no/nyheter/21-personer-dode-etter-jordskred-i-kina-1.17951156",
-      "category": "Kina",
-      "pubDate": "Wed, 08 Jul 2026 01:45:03 GMT"
-    },
-    {
-      "title": "Fraktfly savnet utenfor Pakistan med fem om bord",
-      "link": "https://www.nrk.no/nyheter/fraktfly-savnet-utenfor-pakistan-med-fem-om-bord-1.17951151",
-      "category": "Pakistan",
-      "pubDate": "Wed, 08 Jul 2026 00:00:53 GMT"
-    },
-    {
-      "title": "Brann i bygård i Oslo",
-      "link": "https://www.nrk.no/nyheter/brann-i-bygard-i-oslo-1.17951148",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 07 Jul 2026 23:40:06 GMT"
     }
   ]
 }
