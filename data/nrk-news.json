@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-09T18:19:06.265Z",
+  "updatedAt": "2026-07-09T20:19:45.750Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Syria sier personer bak bombeangrep er pågrepet",
+      "link": "https://www.nrk.no/nyheter/syria-sier-personer-bak-bombeangrep-er-pagrepet-1.17953704",
+      "category": "Syria",
+      "pubDate": "Thu, 09 Jul 2026 20:11:08 GMT"
+    },
+    {
+      "title": "Eksplosjoner flere steder i Iran",
+      "link": "https://www.nrk.no/nyheter/eksplosjoner-flere-steder-i-iran-1.17953654",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 09 Jul 2026 18:29:30 GMT"
+    },
     {
       "title": "Nok en varmerekord i Storbritannia",
       "link": "https://www.nrk.no/nyheter/nok-en-varmerekord-i-storbritannia-1.17953647",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/full-togstans-mellom-oslo-s-og-lillestrom-1.17953441",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 09 Jul 2026 16:21:09 GMT"
-    },
-    {
-      "title": "Venezuela: 300 gravlagt uten å bli identifisert",
-      "link": "https://www.nrk.no/nyheter/venezuela_-300-gravlagt-uten-a-bli-identifisert-1.17953532",
-      "category": "Venezuela",
-      "pubDate": "Thu, 09 Jul 2026 16:14:42 GMT"
-    },
-    {
-      "title": "Motorsyklist omkom i ulykke",
-      "link": "https://www.nrk.no/innlandet/motorsyklist-omkom-i-ulykke-1.17953409",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Thu, 09 Jul 2026 15:33:45 GMT"
     }
   ]
 }
