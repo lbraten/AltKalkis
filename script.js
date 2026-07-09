@@ -4120,6 +4120,67 @@ document.addEventListener("DOMContentLoaded", () => {
     let omPrevSeries = null;
     let omPrevSeriesKey = null;
     let omPrevGradientAllowed = null;
+    let omLastRenderedTrendState = null;
+    let omLastRenderedTrendSizeKey = "";
+    let omTrendRerenderQueued = false;
+
+    const getTrendCanvasSizeKey = () => {
+        const canvas = document.getElementById("trendChart");
+        if (!canvas) return "";
+
+        const rect = canvas.getBoundingClientRect();
+        const width = Math.round(rect.width || 0);
+        const height = Math.round(rect.height || 0);
+        if (width < 10 || height < 10) return "";
+
+        const dpr = Math.round((window.devicePixelRatio || 1) * 100) / 100;
+        return `${width}x${height}@${dpr}`;
+    };
+
+    const renderTrendChartState = (state, overrides = {}) => {
+        if (!state) return;
+
+        replaceAndDrawTrendChart(state.labels, state.tempValues, {
+            humidityPoints: state.humidityValues,
+            uvPoints: state.uvValues,
+            aqiPoints: state.aqiValues,
+            humidityActive: state.humidityActive,
+            uvActive: state.uvActive,
+            aqiActive: state.aqiActive,
+            gradientAllowed: state.gradientAllowed,
+            animateGradient: false,
+            animateTemp: false,
+            animateHumidity: false,
+            animateUv: false,
+            animateAqi: false,
+            ...overrides,
+        });
+    };
+
+    const markTrendChartRendered = (state) => {
+        omLastRenderedTrendState = state;
+        const sizeKey = getTrendCanvasSizeKey();
+        if (sizeKey) {
+            omLastRenderedTrendSizeKey = sizeKey;
+        }
+    };
+
+    const scheduleTrendChartRerenderIfNeeded = () => {
+        if (omTrendRerenderQueued) return;
+        omTrendRerenderQueued = true;
+
+        window.requestAnimationFrame(() => {
+            omTrendRerenderQueued = false;
+            if (!omLastRenderedTrendState) return;
+
+            const currentSizeKey = getTrendCanvasSizeKey();
+            if (!currentSizeKey) return;
+            if (currentSizeKey === omLastRenderedTrendSizeKey) return;
+
+            renderTrendChartState(omLastRenderedTrendState);
+            omLastRenderedTrendSizeKey = getTrendCanvasSizeKey() || currentSizeKey;
+        });
+    };
 
     const positionRangeIndicator = () => {
         if (!omRangeSelector || !omRangeIndicator) return;
@@ -4216,6 +4277,17 @@ document.addEventListener("DOMContentLoaded", () => {
                 : null;
 
             const tempValues = includeTemp ? values : values.map(() => null);
+            const finalTrendState = {
+                labels,
+                tempValues,
+                humidityValues: includeHumidity ? humidity : null,
+                uvValues: includeUv ? uvValues : null,
+                aqiValues: includeAqi ? aqiValues : null,
+                humidityActive: includeHumidity,
+                uvActive: includeUv,
+                aqiActive: includeAqi,
+                gradientAllowed,
+            };
 
             const exitLabels = canAnimateOut && (tempOff || humidityOff || uvOff || aqiOff)
                 ? omPrevSeries?.labels || labels
@@ -4244,20 +4316,8 @@ document.addEventListener("DOMContentLoaded", () => {
             const runExitAnimation = canAnimateOut && (tempOff || humidityOff || uvOff || aqiOff);
 
             const finalDraw = () => {
-                replaceAndDrawTrendChart(labels, tempValues, {
-                    humidityPoints: includeHumidity ? humidity : null,
-                    uvPoints: includeUv ? uvValues : null,
-                    aqiPoints: includeAqi ? aqiValues : null,
-                    humidityActive: includeHumidity,
-                    uvActive: includeUv,
-                    aqiActive: includeAqi,
-                    gradientAllowed,
-                    animateGradient: false,
-                    animateTemp: false,
-                    animateHumidity: false,
-                    animateUv: false,
-                    animateAqi: false,
-                });
+                renderTrendChartState(finalTrendState);
+                markTrendChartRendered(finalTrendState);
             };
 
             replaceAndDrawTrendChart(exitLabels, exitTemp || tempValues, {
@@ -4279,6 +4339,9 @@ document.addEventListener("DOMContentLoaded", () => {
                 animateOutAqi: runExitAnimation && aqiOff,
                 onComplete: runExitAnimation ? finalDraw : null,
             });
+            if (!runExitAnimation) {
+                markTrendChartRendered(finalTrendState);
+            }
 
             omPrevToggleState = nextToggleState;
             omPrevSeries = {
@@ -5701,11 +5764,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
         let requestMasonryLayout = null;
         let routeAnimationTimer = null;
+        let masonryBurstTimers = [];
+        const clearMasonryBurstTimers = () => {
+            masonryBurstTimers.forEach((timerId) => clearTimeout(timerId));
+            masonryBurstTimers = [];
+        };
         const requestMasonryLayoutBurst = () => {
             if (typeof requestMasonryLayout !== "function") return;
-            requestMasonryLayout();
-            setTimeout(requestMasonryLayout, 120);
-            setTimeout(requestMasonryLayout, 320);
+            clearMasonryBurstTimers();
+            requestMasonryLayout(true);
+            masonryBurstTimers.push(setTimeout(() => requestMasonryLayout(), 140));
+            masonryBurstTimers.push(setTimeout(() => requestMasonryLayout(), 320));
         };
 
         const triggerRouteAnimation = () => {
@@ -5766,7 +5835,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
 
                 applyRouteState(activeRouteKey);
-                requestMasonryLayoutBurst();
             });
         });
 
@@ -5792,6 +5860,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const cards = Array.from(grid.querySelectorAll(".bordershadow"));
             let resizeTimer;
             let masonry = null;
+            let forceInstantLayout = false;
             const mobileLayoutQuery = window.matchMedia("(max-width: 640px)");
             const isWideCard = (card) => card.classList.contains("card--wide") || card.classList.contains("card--wide-auto");
 
@@ -5822,7 +5891,10 @@ document.addEventListener("DOMContentLoaded", () => {
                     masonry.destroy();
                     masonry = null;
                 }
+                forceInstantLayout = false;
+                clearMasonryBurstTimers();
                 clearMasonryInlineStyles();
+                scheduleTrendChartRerenderIfNeeded();
             };
 
             const reorderCardsForPacking = () => {
@@ -5880,12 +5952,25 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
 
                 const activeMasonry = ensureMasonry();
+                const instantLayout = forceInstantLayout;
+                forceInstantLayout = false;
+                const previousTransition = activeMasonry.options.transitionDuration;
+                if (instantLayout) {
+                    activeMasonry.options.transitionDuration = 0;
+                }
                 reorderCardsForPacking();
                 activeMasonry.reloadItems();
                 activeMasonry.layout();
+                scheduleTrendChartRerenderIfNeeded();
+                if (instantLayout) {
+                    activeMasonry.options.transitionDuration = previousTransition;
+                }
             };
 
-            requestMasonryLayout = () => window.requestAnimationFrame(requestLayout);
+            requestMasonryLayout = (instant = false) => {
+                if (instant === true) forceInstantLayout = true;
+                window.requestAnimationFrame(requestLayout);
+            };
 
             window.addEventListener("load", requestMasonryLayout);
             window.addEventListener("resize", () => {
