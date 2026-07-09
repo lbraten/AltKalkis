@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-09T16:28:07.831Z",
+  "updatedAt": "2026-07-09T18:19:06.265Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nok en varmerekord i Storbritannia",
+      "link": "https://www.nrk.no/nyheter/nok-en-varmerekord-i-storbritannia-1.17953647",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Thu, 09 Jul 2026 17:24:08 GMT"
+    },
+    {
+      "title": "Ekstremvarmen fortsetter i Frankrike",
+      "link": "https://www.nrk.no/nyheter/ekstremvarmen-fortsetter-i-frankrike-1.17953508",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Thu, 09 Jul 2026 17:18:27 GMT"
+    },
+    {
+      "title": "Ulykke på campingplass i Gol",
+      "link": "https://www.nrk.no/buskerud/ulykke-pa-campingplass-i-gol-1.17953529",
+      "category": "Trafikk i Buskerud",
+      "pubDate": "Thu, 09 Jul 2026 16:52:30 GMT"
+    },
+    {
+      "title": "Full togstans mellom Oslo S og Lillestrøm",
+      "link": "https://www.nrk.no/stor-oslo/full-togstans-mellom-oslo-s-og-lillestrom-1.17953441",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 09 Jul 2026 16:21:09 GMT"
+    },
     {
       "title": "Venezuela: 300 gravlagt uten å bli identifisert",
       "link": "https://www.nrk.no/nyheter/venezuela_-300-gravlagt-uten-a-bli-identifisert-1.17953532",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/innlandet/motorsyklist-omkom-i-ulykke-1.17953409",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Thu, 09 Jul 2026 15:33:45 GMT"
-    },
-    {
-      "title": "Minst 15 drept i Sør-Sudan",
-      "link": "https://www.nrk.no/nyheter/minst-15-drept-i-sor-sudan-1.17953425",
-      "category": "Sør-Sudan",
-      "pubDate": "Thu, 09 Jul 2026 15:25:55 GMT"
-    },
-    {
-      "title": "RB: Personopplysninger fra dataangrepet i Lørenskog ligger på det mørke nettet",
-      "link": "https://www.nrk.no/stor-oslo/rb_-personopplysninger-fra-dataangrepet-i-lorenskog-ligger-pa-det-morke-nettet-1.17953451",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 09 Jul 2026 15:06:36 GMT"
-    },
-    {
-      "title": "Dømt til tre år fengsel for grov vald",
-      "link": "https://www.nrk.no/mr/domt-til-tre-ar-fengsel-for-grov-vald-1.17953467",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Thu, 09 Jul 2026 15:00:16 GMT"
-    },
-    {
-      "title": "Mulig stupeulykke på Sørenga i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/mulig-stupeulykke-pa-sorenga-i-oslo-1.17953432",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 09 Jul 2026 14:30:39 GMT"
     }
   ]
 }
