@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AltKalkis | Alle verktøy</title>
+    <script>
+        (function () {
+            var cleanPath = window.location.pathname
+                .replace(/\/index\.html$/i, "")
+                .replace(/\/+$/, "") || "/";
+            var redirectPath = cleanPath + window.location.search + window.location.hash;
+
+            try {
+                sessionStorage.setItem("altkalkis:redirect", redirectPath);
+            } catch (error) {
+                // Ingen handling ved utilgjengelig sessionStorage.
+            }
+
+            window.location.replace("../");
+        })();
+    </script>
+</head>
+<body></body>
+</html>

@@ -22,46 +22,94 @@
                 <img class="topbar__logo" src="images/ny2.hvit.altkalkis.svg" alt="AltKalkis logo">
                 <span class="topbar__title">AltKalkis</span>
             </div>
+            <nav class="topbar__nav" aria-label="Hovedkategorier">
+                <a class="topbar__route" href="/dashboard" data-route-link="dashboard">
+                    <i data-lucide="layout-dashboard" aria-hidden="true"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a class="topbar__route" href="/converters" data-route-link="converters">
+                    <i data-lucide="arrow-up-down" aria-hidden="true"></i>
+                    <span>Converters</span>
+                </a>
+                <a class="topbar__route" href="/calculators" data-route-link="calculators">
+                    <i data-lucide="calculator" aria-hidden="true"></i>
+                    <span>Kalkulatorer</span>
+                </a>
+                <a class="topbar__route" href="/all-tools" data-route-link="all-tools">
+                    <i data-lucide="layout-grid" aria-hidden="true"></i>
+                    <span>Alle verktøy</span>
+                </a>
+            </nav>
         </header>
         <div class="drawer-backdrop" data-drawer-backdrop aria-hidden="true"></div>
         <div class="app-body">
             <aside class="sidebar" id="sidebarDrawer" aria-label="Navigasjon">
-                <div class="sidebar__title">Bokser</div>
-                <div class="sidebar__list">
-                    <div class="sidebar__category">Kalkulatorer</div>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="percentCard" checked><span>Prosentkalkulator</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="proteinCard" checked><span>Protein per krone</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="salaryCard" checked><span>Timeslønn / månedslønn</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="ageCard" checked><span>Alder</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="dateDiffCard" checked><span>Dato-differanse</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="timeDiffCard" checked><span>Klokkeslett-differanse</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="calculatorCard" checked><span>Kalkulator</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="currencyCard" checked><span>Valutakalkulator</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="unitConverterCard" checked><span>Unit Converter</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="marketCard" checked><span>Aksjer og krypto</span></label>
+                <div class="sidebar__section">
+                    <div class="sidebar__title">Kategorier</div>
+                    <nav class="sidebar__routes" aria-label="Kategorier">
+                        <a class="sidebar__route" href="/dashboard" data-route-link="dashboard">
+                            <i data-lucide="layout-dashboard" aria-hidden="true"></i>
+                            <span>Dashboard</span>
+                        </a>
+                        <a class="sidebar__route" href="/converters" data-route-link="converters">
+                            <i data-lucide="arrow-up-down" aria-hidden="true"></i>
+                            <span>Converters</span>
+                        </a>
+                        <a class="sidebar__route" href="/calculators" data-route-link="calculators">
+                            <i data-lucide="calculator" aria-hidden="true"></i>
+                            <span>Kalkulatorer</span>
+                        </a>
+                        <a class="sidebar__route" href="/all-tools" data-route-link="all-tools">
+                            <i data-lucide="layout-grid" aria-hidden="true"></i>
+                            <span>Alle verktøy</span>
+                        </a>
+                    </nav>
+                </div>
+                <div class="sidebar__section sidebar__section--toggles">
+                    <div class="sidebar__title">Paneler</div>
+                    <p class="sidebar__hint" data-card-toggle-hint>Vis/skjul paneler i valgt kategori.</p>
+                    <div class="sidebar__list">
+                        <div class="sidebar__category">Kalkulatorer</div>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="percentCard" checked><span>Prosentkalkulator</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="proteinCard" checked><span>Protein per krone</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="salaryCard" checked><span>Timeslønn / månedslønn</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="ageCard" checked><span>Alder</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="dateDiffCard" checked><span>Dato-differanse</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="timeDiffCard" checked><span>Klokkeslett-differanse</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="calculatorCard" checked><span>Kalkulator</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="currencyCard" checked><span>Valutakalkulator</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="unitConverterCard" checked><span>Unit Converter</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="marketCard" checked><span>Aksjer og krypto</span></label>
 
-                    <div class="sidebar__category">Verktøy</div>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="textCleanerCard" checked><span>KI tekst renser</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="markdownConverterCard" checked><span>Markdown Converter</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="colorWidget" checked><span>Hex / fargepalett</span></label>
+                        <div class="sidebar__category">Verktøy</div>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="textCleanerCard" checked><span>KI tekst renser</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="markdownConverterCard" checked><span>Markdown Converter</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="colorWidget" checked><span>Hex / fargepalett</span></label>
 
-                    <div class="sidebar__category">Info & annet</div>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="datetimeCard" checked><span>Dagens dato og klokkeslett</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="weatherNowCard" checked><span>Vær</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="weatherCard" checked><span>Temperatur</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="timezoneCard" checked><span>Tidssoner</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="quote" checked><span>Sitat</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="nrkNewsCard" checked><span>NRK nyheter</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="enturCard" checked><span>Ruter (Entur)</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="historicalCard" checked><span>Dagens historiske</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="klokke" checked><span>Nedtelling</span></label>
-                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="holidayCard" checked><span>Helligdager</span></label>
+                        <div class="sidebar__category">Info & annet</div>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="datetimeCard" checked><span>Dagens dato og klokkeslett</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="weatherNowCard" checked><span>Vær</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="weatherCard" checked><span>Temperatur</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="timezoneCard" checked><span>Tidssoner</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="quote" checked><span>Sitat</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="nrkNewsCard" checked><span>NRK nyheter</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="enturCard" checked><span>Ruter (Entur)</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="historicalCard" checked><span>Dagens historiske</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="klokke" checked><span>Nedtelling</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="holidayCard" checked><span>Helligdager</span></label>
+                    </div>
                 </div>
             </aside>
             <div class="background1">
+                <section class="route-summary" aria-live="polite">
+                    <p class="route-summary__eyebrow">Kategori</p>
+                    <h1 id="routePageTitle" class="route-summary__title">Dashboard</h1>
+                    <p id="routePageDescription" class="route-summary__description">Bruk menyen i headeren for å bytte kategori.</p>
+                </section>
                 <main>
                     <div class="grid-sizer" aria-hidden="true"></div>
                     <div class="gutter-sizer" aria-hidden="true"></div>
+
             <!-- Dagens dato og klokkeslett -->
             <div class="bordershadow card--m" id="datetimeCard">
                 <p id="currentDateTime"></p>

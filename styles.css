@@ -230,6 +230,56 @@ body::before {
     object-fit: contain;
 }
 
+.topbar__nav {
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    overflow-x: auto;
+    scrollbar-width: thin;
+    padding: 0.2rem 0;
+}
+
+.topbar__route {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.4rem 0.7rem;
+    border-radius: 999px;
+    border: 1px solid rgba(var(--color-border), 0.68);
+    background: rgba(var(--color-bg-input), 0.55);
+    color: rgba(var(--color-text-base), 0.92);
+    font-size: 0.82rem;
+    line-height: 1;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background 0.18s ease, border-color 0.18s ease;
+}
+
+.topbar__route i,
+.topbar__route svg {
+    width: 14px;
+    height: 14px;
+}
+
+.topbar__route:hover {
+    background: rgba(var(--color-button-muted), 0.9);
+    border-color: rgba(var(--color-ring), 0.7);
+}
+
+.topbar__route.is-active,
+.topbar__route[aria-current="page"] {
+    border-color: rgba(var(--color-ring), 0.95);
+    background: rgba(var(--color-ring), 0.22);
+    color: rgb(var(--color-text-base));
+}
+
+@media (max-width: 980px) {
+    .topbar__nav {
+        display: none;
+    }
+}
+
 .app-body {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
@@ -289,6 +339,59 @@ body::before {
     letter-spacing: 0.4px;
     color: rgba(var(--color-text-base), 0.9);
     padding: 0 0.4rem;
+}
+
+.sidebar__section {
+    display: grid;
+    gap: 0.6rem;
+}
+
+.sidebar__section + .sidebar__section {
+    border-top: 1px solid rgba(var(--color-border), 0.45);
+    padding-top: 0.7rem;
+}
+
+.sidebar__routes {
+    display: grid;
+    gap: 0.45rem;
+}
+
+.sidebar__route {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    border: 1px solid rgba(var(--color-border), 0.65);
+    border-radius: 10px;
+    padding: 0.55rem 0.7rem;
+    color: rgba(var(--color-text-base), 0.92);
+    background: rgba(var(--color-bg-input), 0.45);
+    font-size: 0.88rem;
+    text-decoration: none;
+    transition: background 0.18s ease, border-color 0.18s ease;
+}
+
+.sidebar__route i,
+.sidebar__route svg {
+    width: 15px;
+    height: 15px;
+}
+
+.sidebar__route:hover {
+    background: rgba(var(--color-button-muted), 0.88);
+    border-color: rgba(var(--color-ring), 0.75);
+}
+
+.sidebar__route.is-active,
+.sidebar__route[aria-current="page"] {
+    border-color: rgba(var(--color-ring), 0.96);
+    background: rgba(var(--color-ring), 0.2);
+}
+
+.sidebar__hint {
+    margin: 0 0.5rem;
+    font-size: 0.8rem;
+    color: rgba(var(--color-text-muted), 0.92);
+    line-height: 1.35;
 }
 
 .sidebar__list {
@@ -364,6 +467,19 @@ main {
     position: relative;
 }
 
+main.is-route-enter .bordershadow:not(.is-hidden) {
+    animation: route-card-enter 0.2s ease;
+}
+
+@keyframes route-card-enter {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
 .grid-sizer,
 .bordershadow {
     width: calc((100% - 2 * var(--masonry-gutter)) / 3);
@@ -403,6 +519,37 @@ div.background1 {
     width: min(100%, 1400px);
     margin: 0 auto;
     box-sizing: border-box;
+}
+
+.route-summary {
+    display: grid;
+    gap: 0.28rem;
+    margin: 0 0 1rem;
+    padding: 0.2rem 0.25rem 0.35rem;
+}
+
+.route-summary__eyebrow {
+    margin: 0;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(var(--color-text-muted), 0.95);
+}
+
+.route-summary__title {
+    margin: 0;
+    font-family: 'Satoshi', sans-serif;
+    font-size: clamp(1.35rem, 2.4vw, 1.9rem);
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+
+.route-summary__description {
+    margin: 0;
+    max-width: 74ch;
+    color: rgba(var(--color-text-muted), 0.95);
+    line-height: 1.45;
 }
 
 @media (max-width: 1100px) {
@@ -860,6 +1007,19 @@ h6 {
 
 /* Responsivt */
 @media (max-width: 600px) {
+    .topbar {
+        padding: 0 0.9rem;
+    }
+
+    .topbar__brand {
+        margin-left: 0;
+        gap: 0.5rem;
+    }
+
+    .topbar__title {
+        font-size: 0.96rem;
+    }
+
     .app-body {
         padding: 0.75rem 0.75rem 2rem;
     }
@@ -2736,6 +2896,14 @@ a:visited {
 a:hover {
     color: rgb(var(--color));
     text-decoration-thickness: 2px;
+}
+
+.topbar__route:link,
+.topbar__route:visited,
+.sidebar__route:link,
+.sidebar__route:visited {
+    color: rgba(var(--color-text-base), 0.94);
+    text-decoration: none;
 }
 
 .ikon {

@@ -1,3 +1,20 @@
+(() => {
+    const redirectedPath = sessionStorage.getItem("altkalkis:redirect");
+    if (!redirectedPath) return;
+    sessionStorage.removeItem("altkalkis:redirect");
+
+    try {
+        const redirectUrl = new URL(redirectedPath, window.location.origin);
+        const nextPath = `${redirectUrl.pathname}${redirectUrl.search}${redirectUrl.hash}`;
+        const currentPath = `${window.location.pathname}${window.location.search}${window.location.hash}`;
+        if (nextPath && nextPath !== currentPath) {
+            window.history.replaceState({ restoredFrom404: true }, "", nextPath);
+        }
+    } catch {
+        // Ignorer ugyldig redirect-verdi.
+    }
+})();
+
 document.addEventListener("DOMContentLoaded", () => {
     console.log("✅ DOM er lastet");
 
@@ -5472,8 +5489,148 @@ document.addEventListener("DOMContentLoaded", () => {
     }
         //Værinnhold håndteres av weatherCard-modulen over (Open-Meteo + Yr).
 
-        //vis/skjul bokser fra sidebar
-        const cardToggles = document.querySelectorAll("[data-toggle-card]");
+        //vis/skjul bokser fra sidebar + kategori-ruting
+        const routePageTitleEl = document.getElementById("routePageTitle");
+        const routePageDescriptionEl = document.getElementById("routePageDescription");
+        const cardToggleHintEl = document.querySelector("[data-card-toggle-hint]");
+        const routeLinks = Array.from(document.querySelectorAll("[data-route-link]"));
+        const cardToggles = Array.from(document.querySelectorAll("[data-toggle-card]"));
+        const grid = document.querySelector("main");
+        const allCards = Array.from(document.querySelectorAll("main .bordershadow[id]"));
+        const allCardIds = allCards.map((card) => card.id).filter(Boolean);
+
+        const routeOrder = ["dashboard", "converters", "calculators", "all-tools"];
+        const routeConfig = {
+            dashboard: {
+                slug: "dashboard",
+                label: "Dashboard",
+                description: "Informasjonsside med vær, klokke, nyheter, historiske hendelser og nyttige widgets.",
+                cardIds: [
+                    "datetimeCard",
+                    "weatherNowCard",
+                    "weatherCard",
+                    "quote",
+                    "timezoneCard",
+                    "nrkNewsCard",
+                    "historicalCard",
+                    "holidayCard",
+                    "enturCard",
+                    "marketCard",
+                    "klokke",
+                ],
+            },
+            converters: {
+                slug: "converters",
+                label: "Converters",
+                description: "Alle verktøy som konverterer innhold, enheter eller formater samlet på ett sted.",
+                cardIds: [
+                    "textCleanerCard",
+                    "markdownConverterCard",
+                    "unitConverterCard",
+                    "currencyCard",
+                    "colorWidget",
+                ],
+            },
+            calculators: {
+                slug: "calculators",
+                label: "Kalkulatorer",
+                description: "Klassiske og avanserte kalkulatorer, inkludert dato- og tidsberegninger.",
+                cardIds: [
+                    "calculatorCard",
+                    "percentCard",
+                    "proteinCard",
+                    "salaryCard",
+                    "ageCard",
+                    "dateDiffCard",
+                    "timeDiffCard",
+                ],
+            },
+            "all-tools": {
+                slug: "all-tools",
+                label: "Alle verktøy",
+                description: "Klassisk alt-på-ett-oppsett med alle paneler tilgjengelig på samme side.",
+                cardIds: [],
+            },
+        };
+
+        routeConfig["all-tools"].cardIds = allCardIds;
+
+        const normalizeRouteKey = (value) => {
+            const lower = String(value || "").trim().toLowerCase();
+            if (lower === "alltools") return "all-tools";
+            if (Object.prototype.hasOwnProperty.call(routeConfig, lower)) return lower;
+            return "dashboard";
+        };
+
+        const normalizePath = (pathValue) => {
+            const value = String(pathValue || "/");
+            if (value === "/") return "/";
+            const withoutTrailing = value.replace(/\/+$/, "");
+            return withoutTrailing || "/";
+        };
+
+        const deriveAppBasePath = () => {
+            const normalizedPath = normalizePath(window.location.pathname);
+            const segments = normalizedPath.split("/").filter(Boolean);
+            if (!segments.length) return "";
+
+            const lastSegment = String(segments[segments.length - 1] || "").toLowerCase();
+            if (routeOrder.includes(lastSegment) || lastSegment === "index.html") {
+                segments.pop();
+            }
+
+            if (!segments.length) return "";
+            return `/${segments.join("/")}`;
+        };
+
+        const appBasePath = deriveAppBasePath();
+
+        const buildRoutePath = (routeKey) => {
+            const key = normalizeRouteKey(routeKey);
+            const slug = routeConfig[key].slug;
+            const rawPath = `${appBasePath}/${slug}`.replace(/\/{2,}/g, "/");
+            return normalizePath(rawPath);
+        };
+
+        const resolveRouteFromPath = (pathname) => {
+            const normalizedPath = normalizePath(pathname);
+            const segments = normalizedPath.split("/").filter(Boolean);
+            if (!segments.length) return "dashboard";
+
+            const lastSegment = String(segments[segments.length - 1] || "").toLowerCase();
+            if (lastSegment === "index.html") return "dashboard";
+            if (Object.prototype.hasOwnProperty.call(routeConfig, lastSegment)) return lastSegment;
+            return "dashboard";
+        };
+
+        const updateRouteLinkHrefs = () => {
+            routeLinks.forEach((link) => {
+                const routeKey = normalizeRouteKey(link.dataset.routeLink);
+                link.setAttribute("href", buildRoutePath(routeKey));
+            });
+        };
+
+        const updateRouteLinkState = (routeKey) => {
+            routeLinks.forEach((link) => {
+                const linkRouteKey = normalizeRouteKey(link.dataset.routeLink);
+                const isActive = linkRouteKey === routeKey;
+                link.classList.toggle("is-active", isActive);
+                if (isActive) {
+                    link.setAttribute("aria-current", "page");
+                } else {
+                    link.removeAttribute("aria-current");
+                }
+            });
+        };
+
+        const updateRouteSummary = (routeKey) => {
+            const route = routeConfig[routeKey];
+            if (!route) return;
+            if (routePageTitleEl) routePageTitleEl.textContent = route.label;
+            if (routePageDescriptionEl) routePageDescriptionEl.textContent = route.description;
+            document.body.dataset.activeRoute = routeKey;
+        };
+
         let storedVisibility = {};
         try {
             const rawVisibility = localStorage.getItem("altkalkis-card-visibility");
@@ -5484,41 +5641,153 @@ document.addEventListener("DOMContentLoaded", () => {
         } catch {
             storedVisibility = {};
         }
-        let requestMasonryLayout = null;
-        const applyVisibility = (cardId, isVisible) => {
-            const card = document.getElementById(cardId);
-            if (!card) return;
-            card.classList.toggle("is-hidden", !isVisible);
+
+        const getStoredCardVisibility = (cardId) => {
+            if (!Object.prototype.hasOwnProperty.call(storedVisibility, cardId)) return true;
+            return Boolean(storedVisibility[cardId]);
         };
 
-        if (cardToggles.length) {
-            cardToggles.forEach((toggle) => {
-                const targetId = toggle.dataset.toggleCard;
-                if (!targetId) return;
+        const updateSidebarCategoryVisibility = () => {
+            const categoryRows = Array.from(document.querySelectorAll(".sidebar__category"));
+            categoryRows.forEach((category) => {
+                let sibling = category.nextElementSibling;
+                let hasVisibleToggle = false;
 
-                if (Object.prototype.hasOwnProperty.call(storedVisibility, targetId)) {
-                    toggle.checked = Boolean(storedVisibility[targetId]);
+                while (sibling && !sibling.classList.contains("sidebar__category")) {
+                    if (sibling.classList.contains("sidebar__toggle") && !sibling.classList.contains("is-hidden")) {
+                        hasVisibleToggle = true;
+                        break;
+                    }
+                    sibling = sibling.nextElementSibling;
                 }
 
-                applyVisibility(targetId, toggle.checked);
-
-                toggle.addEventListener("change", () => {
-                    const isVisible = toggle.checked;
-                    storedVisibility[targetId] = isVisible;
-                    localStorage.setItem("altkalkis-card-visibility", JSON.stringify(storedVisibility));
-                    applyVisibility(targetId, isVisible);
-                    if (isVisible && targetId === "datetimeCard") {
-                        if (typeof updateDateTime === "function") updateDateTime();
-                        if (typeof drawAnalogClock === "function") drawAnalogClock();
-                    }
-                    if (typeof requestMasonryLayout === "function") requestMasonryLayout();
-                    window.dispatchEvent(new Event("resize"));
-                });
+                category.classList.toggle("is-hidden", !hasVisibleToggle);
             });
-        }
+        };
+
+        const syncCardVisibilityForRoute = (routeKey) => {
+            const allowedCards = new Set(routeConfig[routeKey]?.cardIds || []);
+            const isAllTools = routeKey === "all-tools";
+
+            allCardIds.forEach((cardId) => {
+                const card = document.getElementById(cardId);
+                if (!card) return;
+
+                const routeAllowsCard = allowedCards.has(cardId);
+                const userAllowsCard = getStoredCardVisibility(cardId);
+                const shouldShowCard = routeAllowsCard && userAllowsCard;
+                card.classList.toggle("is-hidden", !shouldShowCard);
+            });
+
+            cardToggles.forEach((toggle) => {
+                const cardId = toggle.dataset.toggleCard;
+                if (!cardId) return;
+
+                const toggleRow = toggle.closest(".sidebar__toggle");
+                const showToggle = isAllTools || allowedCards.has(cardId);
+                if (toggleRow) toggleRow.classList.toggle("is-hidden", !showToggle);
+                toggle.disabled = !showToggle;
+            });
+
+            updateSidebarCategoryVisibility();
+
+            if (cardToggleHintEl) {
+                const label = routeConfig[routeKey]?.label || "valgt kategori";
+                cardToggleHintEl.textContent = isAllTools
+                    ? "Vis/skjul paneler i klassisk alt-på-ett-visning."
+                    : `Vis/skjul paneler i ${label}.`;
+            }
+        };
+
+        let requestMasonryLayout = null;
+        let routeAnimationTimer = null;
+        const requestMasonryLayoutBurst = () => {
+            if (typeof requestMasonryLayout !== "function") return;
+            requestMasonryLayout();
+            setTimeout(requestMasonryLayout, 120);
+            setTimeout(requestMasonryLayout, 320);
+        };
+
+        const triggerRouteAnimation = () => {
+            if (!grid) return;
+            grid.classList.remove("is-route-enter");
+            void grid.offsetWidth;
+            grid.classList.add("is-route-enter");
+            clearTimeout(routeAnimationTimer);
+            routeAnimationTimer = setTimeout(() => {
+                if (grid) grid.classList.remove("is-route-enter");
+            }, 280);
+        };
+
+        let activeRouteKey = resolveRouteFromPath(window.location.pathname);
+
+        const applyRouteState = (routeKey, options = {}) => {
+            const { updateHistory = false, replaceHistory = false } = options;
+            const nextRouteKey = normalizeRouteKey(routeKey);
+            activeRouteKey = nextRouteKey;
+
+            updateRouteLinkHrefs();
+            updateRouteLinkState(nextRouteKey);
+            updateRouteSummary(nextRouteKey);
+            syncCardVisibilityForRoute(nextRouteKey);
+            triggerRouteAnimation();
+
+            requestMasonryLayoutBurst();
+            window.dispatchEvent(new Event("resize"));
+
+            if (updateHistory) {
+                const targetPath = buildRoutePath(nextRouteKey);
+                const currentPath = normalizePath(window.location.pathname);
+                if (targetPath !== currentPath) {
+                    const historyMethod = replaceHistory ? "replaceState" : "pushState";
+                    window.history[historyMethod]({ routeKey: nextRouteKey }, "", targetPath);
+                }
+            }
+        };
+
+        cardToggles.forEach((toggle) => {
+            const targetId = toggle.dataset.toggleCard;
+            if (!targetId) return;
+
+            if (Object.prototype.hasOwnProperty.call(storedVisibility, targetId)) {
+                toggle.checked = Boolean(storedVisibility[targetId]);
+            }
+
+            storedVisibility[targetId] = Boolean(toggle.checked);
+
+            toggle.addEventListener("change", () => {
+                const isVisible = Boolean(toggle.checked);
+                storedVisibility[targetId] = isVisible;
+                localStorage.setItem("altkalkis-card-visibility", JSON.stringify(storedVisibility));
+
+                if (isVisible && targetId === "datetimeCard") {
+                    if (typeof updateDateTime === "function") updateDateTime();
+                    if (typeof drawAnalogClock === "function") drawAnalogClock();
+                }
+
+                applyRouteState(activeRouteKey);
+                requestMasonryLayoutBurst();
+            });
+        });
+
+        routeLinks.forEach((link) => {
+            link.addEventListener("click", (event) => {
+                if (event.button !== 0) return;
+                if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+
+                event.preventDefault();
+                const nextRouteKey = normalizeRouteKey(link.dataset.routeLink);
+                applyRouteState(nextRouteKey, { updateHistory: true });
+                setDrawerOpen(false);
+            });
+        });
+
+        window.addEventListener("popstate", () => {
+            const nextRoute = resolveRouteFromPath(window.location.pathname);
+            applyRouteState(nextRoute);
+        });
 
         //masonry: tett layout uten tomme rom
-        const grid = document.querySelector("main");
         if (grid && window.Masonry) {
             const cards = Array.from(grid.querySelectorAll(".bordershadow"));
             let resizeTimer;
@@ -5637,6 +5906,13 @@ document.addEventListener("DOMContentLoaded", () => {
             cards.forEach((card) => observer.observe(card));
 
             requestMasonryLayout();
+        }
+
+        const currentPath = normalizePath(window.location.pathname);
+        const canonicalPath = buildRoutePath(activeRouteKey);
+        applyRouteState(activeRouteKey);
+        if (currentPath !== canonicalPath) {
+            window.history.replaceState({ routeKey: activeRouteKey }, "", canonicalPath);
         }
 
 });
