@@ -2550,12 +2550,22 @@ h6 {
 #unitConverterCard .unit-converter-swap {
     margin: 0;
     min-width: 62px;
-    height: 51px;
-    padding: 0.4rem 0.75rem;
+    height: 49.8667px;
+    padding: 0;
     border-radius: 8px;
     border: 1px solid rgba(var(--color-border), 0.55);
     background: rgba(var(--color-button-muted), 0.9);
     color: rgba(var(--color-text-base), 0.95);
+    display: grid;
+    place-items: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#unitConverterCard .unit-converter-swap__icon {
+    width: 0.95rem;
+    height: 0.95rem;
+    stroke-width: 2.35;
 }
 
 #unitConverterCard .unit-converter-swap:hover {
@@ -3041,7 +3051,8 @@ a:hover {
 
     #unitConverterCard .unit-converter-swap {
         width: 100%;
-        height: auto;
+        height: 49.8667px;
+        min-height: 0;
     }
 
     #analogClock {

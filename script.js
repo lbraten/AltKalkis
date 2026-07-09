@@ -1246,10 +1246,27 @@ document.addEventListener("DOMContentLoaded", () => {
         unitConverterToSelect.addEventListener("change", updateUnitConverter);
         unitConverterValueInput.addEventListener("input", updateUnitConverter);
 
+        const setUnitConverterSwapIcon = (iconName) => {
+            unitConverterSwapBtn.dataset.swapIcon = iconName;
+            unitConverterSwapBtn.innerHTML = `<i data-lucide="${iconName}" class="unit-converter-swap__icon" aria-hidden="true"></i>`;
+            if (window.lucide && typeof window.lucide.createIcons === "function") {
+                window.lucide.createIcons();
+            }
+        };
+
+        unitConverterSwapBtn.dataset.swapIcon = "arrow-left-right";
+
         unitConverterSwapBtn.addEventListener("click", () => {
             const currentFrom = unitConverterFromSelect.value;
             unitConverterFromSelect.value = unitConverterToSelect.value;
             unitConverterToSelect.value = currentFrom;
+
+            const currentIcon = unitConverterSwapBtn.dataset.swapIcon || "arrow-left-right";
+            const nextIcon = currentIcon === "arrow-left-right"
+                ? "arrow-right-left"
+                : "arrow-left-right";
+            setUnitConverterSwapIcon(nextIcon);
+
             updateUnitConverter();
         });
 
