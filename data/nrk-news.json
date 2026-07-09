@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-09T20:19:45.750Z",
+  "updatedAt": "2026-07-09T21:58:29.835Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nord-Korea vedtar tiltak for å utvide atomstyrkene",
+      "link": "https://www.nrk.no/nyheter/nord-korea-vedtar-tiltak-for-a-utvide-atomstyrkene-1.17953801",
+      "category": "Nord-Korea",
+      "pubDate": "Thu, 09 Jul 2026 21:49:24 GMT"
+    },
+    {
+      "title": "Togtrafikken i gang igjen mellom Oslo og Lillestrøm",
+      "link": "https://www.nrk.no/nyheter/togtrafikken-i-gang-igjen-mellom-oslo-og-lillestrom-1.17953795",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 09 Jul 2026 21:42:34 GMT"
+    },
+    {
+      "title": "Trump vil justere importen av kommersielle fly og jetmotorer",
+      "link": "https://www.nrk.no/nyheter/trump-vil-justere-importen-av-kommersielle-fly-og-jetmotorer-1.17953785",
+      "category": "USA",
+      "pubDate": "Thu, 09 Jul 2026 21:13:58 GMT"
+    },
+    {
+      "title": "18-åring vant EM i bridge",
+      "link": "https://www.nrk.no/tromsogfinnmark/18-aring-vant-em-i-bridge-1.17953713",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Thu, 09 Jul 2026 20:22:40 GMT"
+    },
     {
       "title": "Syria sier personer bak bombeangrep er pågrepet",
       "link": "https://www.nrk.no/nyheter/syria-sier-personer-bak-bombeangrep-er-pagrepet-1.17953704",
@@ -9,34 +33,10 @@
       "pubDate": "Thu, 09 Jul 2026 20:11:08 GMT"
     },
     {
-      "title": "Eksplosjoner flere steder i Iran",
-      "link": "https://www.nrk.no/nyheter/eksplosjoner-flere-steder-i-iran-1.17953654",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 09 Jul 2026 18:29:30 GMT"
-    },
-    {
-      "title": "Nok en varmerekord i Storbritannia",
-      "link": "https://www.nrk.no/nyheter/nok-en-varmerekord-i-storbritannia-1.17953647",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Thu, 09 Jul 2026 17:24:08 GMT"
-    },
-    {
-      "title": "Ekstremvarmen fortsetter i Frankrike",
-      "link": "https://www.nrk.no/nyheter/ekstremvarmen-fortsetter-i-frankrike-1.17953508",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Thu, 09 Jul 2026 17:18:27 GMT"
-    },
-    {
-      "title": "Ulykke på campingplass i Gol",
-      "link": "https://www.nrk.no/buskerud/ulykke-pa-campingplass-i-gol-1.17953529",
-      "category": "Trafikk i Buskerud",
-      "pubDate": "Thu, 09 Jul 2026 16:52:30 GMT"
-    },
-    {
-      "title": "Full togstans mellom Oslo S og Lillestrøm",
-      "link": "https://www.nrk.no/stor-oslo/full-togstans-mellom-oslo-s-og-lillestrom-1.17953441",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 09 Jul 2026 16:21:09 GMT"
+      "title": "Mc-ulykke i Surnadal",
+      "link": "https://www.nrk.no/mr/mc-ulykke-i-surnadal-1.17953695",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Thu, 09 Jul 2026 19:34:10 GMT"
     }
   ]
 }
