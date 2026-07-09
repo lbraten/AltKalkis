@@ -2514,6 +2514,59 @@ h6 {
     width: 100%;
 }
 
+#unitConverterCard .unit-converter-grid {
+    display: grid;
+    gap: 0.65rem;
+    margin-bottom: 0.85rem;
+}
+
+#unitConverterCard .unit-converter-field {
+    display: grid;
+    gap: 0.3rem;
+    min-width: 0;
+}
+
+#unitConverterCard .unit-converter-field span {
+    font-size: 0.76rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: rgba(var(--color-text-muted), 0.94);
+}
+
+#unitConverterCard .unit-converter-field input[type="number"],
+#unitConverterCard .unit-converter-field select {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#unitConverterCard .unit-converter-row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+    gap: 0.55rem;
+    align-items: end;
+}
+
+#unitConverterCard .unit-converter-swap {
+    margin: 0;
+    min-width: 62px;
+    height: 51px;
+    padding: 0.4rem 0.75rem;
+    border-radius: 8px;
+    border: 1px solid rgba(var(--color-border), 0.55);
+    background: rgba(var(--color-button-muted), 0.9);
+    color: rgba(var(--color-text-base), 0.95);
+}
+
+#unitConverterCard .unit-converter-swap:hover {
+    background: rgba(var(--color-button-muted), 1);
+}
+
+#unitConverterResult {
+    margin: 0;
+    min-height: 1.4em;
+}
+
 #analogClock {
     display: block;
     width: 260px;
@@ -2979,6 +3032,16 @@ a:hover {
 
     .route-controls {
         grid-template-columns: 1fr;
+    }
+
+    #unitConverterCard .unit-converter-row {
+        grid-template-columns: 1fr;
+        align-items: stretch;
+    }
+
+    #unitConverterCard .unit-converter-swap {
+        width: 100%;
+        height: auto;
     }
 
     #analogClock {

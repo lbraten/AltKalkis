@@ -946,6 +946,316 @@ document.addEventListener("DOMContentLoaded", () => {
     if (fromCurrencySelect) fromCurrencySelect.addEventListener("change", convertCurrency);
     if (currencySelect) currencySelect.addEventListener("change", convertCurrency);
 
+    //unit converter
+    const unitConverterValueInput = document.getElementById("unitConverterValue");
+    const unitConverterCategorySelect = document.getElementById("unitConverterCategory");
+    const unitConverterFromSelect = document.getElementById("unitConverterFrom");
+    const unitConverterToSelect = document.getElementById("unitConverterTo");
+    const unitConverterSwapBtn = document.getElementById("unitConverterSwap");
+    const unitConverterResultEl = document.getElementById("unitConverterResult");
+
+    const createLinearUnit = (value, label, symbol, factor) => ({
+        value,
+        label,
+        symbol,
+        toBase: (input) => input * factor,
+        fromBase: (input) => input / factor,
+    });
+
+    const unitConverterCategories = {
+        length: {
+            label: "Lengde",
+            defaultFrom: "m",
+            defaultTo: "km",
+            units: [
+                createLinearUnit("mm", "Millimeter (mm)", "mm", 0.001),
+                createLinearUnit("cm", "Centimeter (cm)", "cm", 0.01),
+                createLinearUnit("m", "Meter (m)", "m", 1),
+                createLinearUnit("km", "Kilometer (km)", "km", 1000),
+                createLinearUnit("in", "Inches (in)", "in", 0.0254),
+                createLinearUnit("ft", "Feet (ft)", "ft", 0.3048),
+                createLinearUnit("yd", "Yards (yd)", "yd", 0.9144),
+                createLinearUnit("mi", "Miles (mi)", "mi", 1609.344),
+            ],
+        },
+        weight: {
+            label: "Vekt",
+            defaultFrom: "g",
+            defaultTo: "kg",
+            units: [
+                createLinearUnit("mg", "Milligram (mg)", "mg", 0.001),
+                createLinearUnit("g", "Gram (g)", "g", 1),
+                createLinearUnit("kg", "Kilogram (kg)", "kg", 1000),
+                createLinearUnit("oz", "Ounces (oz)", "oz", 28.349523125),
+                createLinearUnit("lb", "Pounds (lb)", "lb", 453.59237),
+                createLinearUnit("st", "Stones (st)", "st", 6350.29318),
+            ],
+        },
+        temperature: {
+            label: "Temperatur",
+            defaultFrom: "c",
+            defaultTo: "f",
+            units: [
+                {
+                    value: "c",
+                    label: "Celsius (°C)",
+                    symbol: "°C",
+                    toBase: (input) => input,
+                    fromBase: (input) => input,
+                },
+                {
+                    value: "f",
+                    label: "Fahrenheit (°F)",
+                    symbol: "°F",
+                    toBase: (input) => ((input - 32) * 5) / 9,
+                    fromBase: (input) => (input * 9) / 5 + 32,
+                },
+                {
+                    value: "k",
+                    label: "Kelvin (K)",
+                    symbol: "K",
+                    toBase: (input) => input - 273.15,
+                    fromBase: (input) => input + 273.15,
+                },
+            ],
+        },
+        area: {
+            label: "Areal",
+            defaultFrom: "m2",
+            defaultTo: "km2",
+            units: [
+                createLinearUnit("mm2", "mm²", "mm²", 0.000001),
+                createLinearUnit("cm2", "cm²", "cm²", 0.0001),
+                createLinearUnit("m2", "m²", "m²", 1),
+                createLinearUnit("km2", "km²", "km²", 1000000),
+                createLinearUnit("ft2", "ft²", "ft²", 0.09290304),
+                createLinearUnit("in2", "in²", "in²", 0.00064516),
+                createLinearUnit("ac", "Acres", "acres", 4046.8564224),
+                createLinearUnit("ha", "Hektar (ha)", "ha", 10000),
+            ],
+        },
+        volume: {
+            label: "Volum",
+            defaultFrom: "l",
+            defaultTo: "ml",
+            units: [
+                createLinearUnit("ml", "Milliliter (ml)", "ml", 0.001),
+                createLinearUnit("l", "Liter (L)", "L", 1),
+                createLinearUnit("m3", "Kubikkmeter (m³)", "m³", 1000),
+                createLinearUnit("tsp", "Teaspoon (tsp)", "tsp", 0.00492892159375),
+                createLinearUnit("tbsp", "Tablespoon (tbsp)", "tbsp", 0.01478676478125),
+                createLinearUnit("cup", "Cups", "cups", 0.2365882365),
+                createLinearUnit("pt", "Pints", "pints", 0.473176473),
+                createLinearUnit("gal", "Gallons (US)", "gal", 3.785411784),
+            ],
+        },
+        speed: {
+            label: "Hastighet",
+            defaultFrom: "kmh",
+            defaultTo: "mph",
+            units: [
+                createLinearUnit("kmh", "km/t", "km/t", 1000 / 3600),
+                createLinearUnit("mph", "mph", "mph", 0.44704),
+                createLinearUnit("ms", "m/s", "m/s", 1),
+                createLinearUnit("kn", "Knop (kn)", "kn", 0.514444444444),
+            ],
+        },
+        time: {
+            label: "Tid",
+            defaultFrom: "min",
+            defaultTo: "h",
+            units: [
+                createLinearUnit("s", "Sekunder", "sek", 1),
+                createLinearUnit("min", "Minutter", "min", 60),
+                createLinearUnit("h", "Timer", "timer", 3600),
+                createLinearUnit("d", "Dager", "dager", 86400),
+                createLinearUnit("w", "Uker", "uker", 604800),
+            ],
+        },
+        data: {
+            label: "Datastørrelse",
+            defaultFrom: "mb",
+            defaultTo: "gb",
+            units: [
+                createLinearUnit("b", "Byte", "B", 1),
+                createLinearUnit("kb", "KB", "KB", 1024),
+                createLinearUnit("mb", "MB", "MB", 1024 ** 2),
+                createLinearUnit("gb", "GB", "GB", 1024 ** 3),
+                createLinearUnit("tb", "TB", "TB", 1024 ** 4),
+            ],
+        },
+    };
+
+    const getUnitConverterCategory = (categoryKey) => unitConverterCategories[categoryKey] || null;
+
+    const formatUnitConverterNumber = (value) => {
+        if (!Number.isFinite(value)) return "";
+
+        const normalized = Math.abs(value) < 1e-12 ? 0 : value;
+        const abs = Math.abs(normalized);
+
+        if (abs !== 0 && (abs >= 1e12 || abs < 1e-6)) {
+            const [mantissa, exponent] = normalized.toExponential(6).split("e");
+            const formattedMantissa = Number(mantissa).toLocaleString("nb-NO", {
+                maximumFractionDigits: 6,
+            });
+            const parsedExponent = Number(exponent);
+            return `${formattedMantissa}e${parsedExponent >= 0 ? "+" : ""}${parsedExponent}`;
+        }
+
+        const maxFractionDigits = abs >= 1000 ? 2 : abs >= 1 ? 4 : 8;
+        return normalized.toLocaleString("nb-NO", {
+            maximumFractionDigits: maxFractionDigits,
+        });
+    };
+
+    const parseUnitConverterValue = (rawValue) => {
+        if (typeof rawValue !== "string") return Number.NaN;
+        const normalized = rawValue.trim().replace(",", ".");
+        if (!normalized) return Number.NaN;
+        return Number.parseFloat(normalized);
+    };
+
+    const renderUnitConverterCategoryOptions = () => {
+        if (!unitConverterCategorySelect) return;
+        unitConverterCategorySelect.innerHTML = "";
+
+        Object.entries(unitConverterCategories).forEach(([categoryKey, category]) => {
+            const option = document.createElement("option");
+            option.value = categoryKey;
+            option.textContent = category.label;
+            unitConverterCategorySelect.appendChild(option);
+        });
+    };
+
+    const renderUnitConverterUnitOptions = (categoryKey, preferredFrom, preferredTo) => {
+        if (!unitConverterFromSelect || !unitConverterToSelect) return;
+        const category = getUnitConverterCategory(categoryKey);
+        if (!category) return;
+
+        const units = Array.isArray(category.units) ? category.units : [];
+        unitConverterFromSelect.innerHTML = "";
+        unitConverterToSelect.innerHTML = "";
+
+        units.forEach((unit) => {
+            const fromOption = document.createElement("option");
+            fromOption.value = unit.value;
+            fromOption.textContent = unit.label;
+            unitConverterFromSelect.appendChild(fromOption);
+
+            const toOption = document.createElement("option");
+            toOption.value = unit.value;
+            toOption.textContent = unit.label;
+            unitConverterToSelect.appendChild(toOption);
+        });
+
+        if (!units.length) return;
+
+        const availableValues = new Set(units.map((unit) => unit.value));
+        const fallbackFrom = availableValues.has(category.defaultFrom)
+            ? category.defaultFrom
+            : units[0].value;
+        const fallbackTo = availableValues.has(category.defaultTo)
+            ? category.defaultTo
+            : units[Math.min(1, units.length - 1)].value;
+
+        const nextFrom = availableValues.has(preferredFrom) ? preferredFrom : fallbackFrom;
+        let nextTo = availableValues.has(preferredTo) ? preferredTo : fallbackTo;
+
+        if (nextFrom === nextTo && units.length > 1) {
+            const alternate = units.find((unit) => unit.value !== nextFrom);
+            if (alternate) nextTo = alternate.value;
+        }
+
+        unitConverterFromSelect.value = nextFrom;
+        unitConverterToSelect.value = nextTo;
+    };
+
+    const updateUnitConverter = () => {
+        if (!unitConverterValueInput || !unitConverterCategorySelect || !unitConverterFromSelect) return;
+        if (!unitConverterToSelect || !unitConverterResultEl) return;
+
+        const rawValue = unitConverterValueInput.value;
+        if (!rawValue.trim()) {
+            unitConverterResultEl.innerText = "Resultat: -";
+            return;
+        }
+
+        const numericValue = parseUnitConverterValue(rawValue);
+        if (!Number.isFinite(numericValue)) {
+            unitConverterResultEl.innerText = "Skriv inn et gyldig tall.";
+            return;
+        }
+
+        const category = getUnitConverterCategory(unitConverterCategorySelect.value);
+        if (!category || !Array.isArray(category.units)) {
+            unitConverterResultEl.innerText = "Velg en gyldig kategori.";
+            return;
+        }
+
+        const unitMap = new Map(category.units.map((unit) => [unit.value, unit]));
+        const fromUnit = unitMap.get(unitConverterFromSelect.value);
+        const toUnit = unitMap.get(unitConverterToSelect.value);
+
+        if (!fromUnit || !toUnit) {
+            unitConverterResultEl.innerText = "Velg gyldige enheter.";
+            return;
+        }
+
+        try {
+            const baseValue = fromUnit.toBase(numericValue);
+            const convertedValue = toUnit.fromBase(baseValue);
+
+            if (!Number.isFinite(convertedValue)) {
+                unitConverterResultEl.innerText = "Kunne ikke konvertere verdien.";
+                return;
+            }
+
+            const fromFormatted = formatUnitConverterNumber(numericValue);
+            const toFormatted = formatUnitConverterNumber(convertedValue);
+            unitConverterResultEl.innerText = `Resultat: ${fromFormatted} ${fromUnit.symbol} = ${toFormatted} ${toUnit.symbol}`;
+        } catch {
+            unitConverterResultEl.innerText = "Kunne ikke konvertere verdien.";
+        }
+    };
+
+    if (
+        unitConverterValueInput
+        && unitConverterCategorySelect
+        && unitConverterFromSelect
+        && unitConverterToSelect
+        && unitConverterSwapBtn
+        && unitConverterResultEl
+    ) {
+        renderUnitConverterCategoryOptions();
+
+        const defaultCategory = unitConverterCategorySelect.value || Object.keys(unitConverterCategories)[0];
+        unitConverterCategorySelect.value = defaultCategory;
+        renderUnitConverterUnitOptions(defaultCategory);
+
+        unitConverterCategorySelect.addEventListener("change", () => {
+            renderUnitConverterUnitOptions(
+                unitConverterCategorySelect.value,
+                unitConverterFromSelect.value,
+                unitConverterToSelect.value
+            );
+            updateUnitConverter();
+        });
+
+        unitConverterFromSelect.addEventListener("change", updateUnitConverter);
+        unitConverterToSelect.addEventListener("change", updateUnitConverter);
+        unitConverterValueInput.addEventListener("input", updateUnitConverter);
+
+        unitConverterSwapBtn.addEventListener("click", () => {
+            const currentFrom = unitConverterFromSelect.value;
+            unitConverterFromSelect.value = unitConverterToSelect.value;
+            unitConverterToSelect.value = currentFrom;
+            updateUnitConverter();
+        });
+
+        updateUnitConverter();
+    }
+
     //entur ruter
     const enturBtn = document.getElementById("enturSearchBtn");
     const enturFromInput = document.getElementById("enturFrom");

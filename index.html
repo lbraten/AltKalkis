@@ -37,6 +37,7 @@
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="timeDiffCard" checked><span>Klokkeslett-differanse</span></label>
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="calculatorCard" checked><span>Kalkulator</span></label>
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="currencyCard" checked><span>Valutakalkulator</span></label>
+                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="unitConverterCard" checked><span>Unit Converter</span></label>
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="marketCard" checked><span>Aksjer og krypto</span></label>
 
                     <div class="sidebar__category">Verktøy</div>
@@ -396,6 +397,38 @@
                     <button class="calc-btn operator">+</button>
 
                     <button class="calc-btn equal" id="equals">=</button>
+                </div>
+            </div>
+
+            <div class="bordershadow card--s" id="unitConverterCard">
+                <h2>Unit Converter</h2>
+                <div class="unit-converter-grid">
+                    <label class="unit-converter-field" for="unitConverterValue">
+                        <span>Verdi</span>
+                        <input id="unitConverterValue" type="number" step="any" placeholder="Skriv inn verdi" />
+                    </label>
+
+                    <label class="unit-converter-field" for="unitConverterCategory">
+                        <span>Kategori</span>
+                        <select id="unitConverterCategory" class="lysereboks" aria-label="Velg kategori"></select>
+                    </label>
+
+                    <div class="unit-converter-row" role="group" aria-label="Fra og til enhet">
+                        <label class="unit-converter-field" for="unitConverterFrom">
+                            <span>Fra</span>
+                            <select id="unitConverterFrom" class="lysereboks" aria-label="Konverter fra"></select>
+                        </label>
+
+                        <button id="unitConverterSwap" class="unit-converter-swap" type="button" aria-label="Bytt fra og til enhet">Bytt</button>
+
+                        <label class="unit-converter-field" for="unitConverterTo">
+                            <span>Til</span>
+                            <select id="unitConverterTo" class="lysereboks" aria-label="Konverter til"></select>
+                        </label>
+                    </div>
+                </div>
+                <div class="result-box" aria-live="polite">
+                    <p id="unitConverterResult">Resultat: -</p>
                 </div>
             </div>
 
