@@ -1126,6 +1126,22 @@ h6 {
     stroke-width: 2.2;
 }
 
+.markdown-converter-action--clear {
+    min-width: 0;
+    padding: 0.34rem 0.88rem;
+    font-size: 0.8rem;
+    background: transparent;
+    border: 1px solid #d83a22;
+    color: rgba(var(--color-text-base), 0.96);
+}
+
+.markdown-converter-action--clear:hover {
+    background: #d83a22;
+    border-color: #d83a22;
+    color: rgb(var(--color-fill));
+    box-shadow: 0 0 0 1px rgba(216, 58, 34, 0.3);
+}
+
 .markdown-converter-status {
     min-height: 1.1rem;
 }

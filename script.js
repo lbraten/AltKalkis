@@ -385,6 +385,7 @@ document.addEventListener("DOMContentLoaded", () => {
     //markdown converter
     const markdownConverterInput = document.getElementById("markdownConverterInput");
     const markdownConverterStatus = document.getElementById("markdownConverterStatus");
+    const markdownConverterClearBtn = document.getElementById("markdownConverterClearBtn");
     const markdownConverterButtons = Array.from(document.querySelectorAll("[data-markdown-format]"));
     let markdownConverterStatusTimer = null;
 
@@ -407,10 +408,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const normalizeMarkdownLineBreaks = (text) => text.replace(/\r\n?/g, "\n");
 
-    const formatMarkdownText = (format, inputText) => {
+    const formatMarkdownText = (format, inputText, options = {}) => {
+        const { headingPerLine = false } = options;
         const normalizedText = normalizeMarkdownLineBreaks(inputText);
         switch (format) {
             case "heading":
+                if (headingPerLine) {
+                    return normalizedText
+                        .split("\n")
+                        .map((line) => `### ${line}`)
+                        .join("\n");
+                }
                 return `### ${normalizedText}`;
             case "bold":
                 return `**${normalizedText}**`;
@@ -445,6 +453,25 @@ document.addEventListener("DOMContentLoaded", () => {
             default:
                 return normalizedText;
         }
+    };
+
+    const applyMarkdownFormatToSelection = (textarea, format) => {
+        if (!textarea) return null;
+        const selectionStart = textarea.selectionStart;
+        const selectionEnd = textarea.selectionEnd;
+        if (!Number.isInteger(selectionStart) || !Number.isInteger(selectionEnd)) return null;
+        if (selectionEnd <= selectionStart) return null;
+
+        const sourceText = textarea.value;
+        const selectedText = sourceText.slice(selectionStart, selectionEnd);
+        const formattedSelection = formatMarkdownText(format, selectedText, { headingPerLine: true });
+        const nextText = `${sourceText.slice(0, selectionStart)}${formattedSelection}${sourceText.slice(selectionEnd)}`;
+
+        return {
+            value: nextText,
+            selectionStart,
+            selectionEnd: selectionStart + formattedSelection.length,
+        };
     };
 
     const copyTextToClipboard = async (value) => {
@@ -491,6 +518,23 @@ document.addEventListener("DOMContentLoaded", () => {
                 const format = button.dataset.markdownFormat;
                 if (!format) return;
 
+                const selectionUpdate = applyMarkdownFormatToSelection(markdownConverterInput, format);
+                if (selectionUpdate) {
+                    markdownConverterInput.value = selectionUpdate.value;
+                    markdownConverterInput.focus();
+                    markdownConverterInput.setSelectionRange(selectionUpdate.selectionStart, selectionUpdate.selectionEnd);
+
+                    const copiedUpdatedText = await copyTextToClipboard(markdownConverterInput.value);
+                    if (copiedUpdatedText) {
+                        const label = formatLabels[format] || "Format";
+                        setMarkdownConverterStatus(`Kopiert! ${label} klar i utklippstavlen.`);
+                        return;
+                    }
+
+                    setMarkdownConverterStatus("Klarte ikke kopiere til utklippstavlen.", true);
+                    return;
+                }
+
                 const inputText = markdownConverterInput.value;
                 if (!inputText.trim()) {
                     setMarkdownConverterStatus("Skriv inn tekst først.", true);
@@ -508,6 +552,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 setMarkdownConverterStatus("Klarte ikke kopiere til utklippstavlen.", true);
             });
+        });
+    }
+
+    if (markdownConverterClearBtn) {
+        markdownConverterClearBtn.addEventListener("click", () => {
+            if (markdownConverterStatusTimer) {
+                clearTimeout(markdownConverterStatusTimer);
+                markdownConverterStatusTimer = null;
+            }
+            if (markdownConverterInput) {
+                markdownConverterInput.value = "";
+                markdownConverterInput.focus();
+            }
+            if (markdownConverterStatus) {
+                markdownConverterStatus.innerText = "";
+                markdownConverterStatus.classList.remove("is-error");
+            }
         });
     }
 
