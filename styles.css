@@ -1065,6 +1065,75 @@ h6 {
     box-shadow: 0 0 0 1px rgba(216, 58, 34, 0.3);
 }
 
+.markdown-converter-grid {
+    display: grid;
+    gap: 0.55rem;
+}
+
+.markdown-converter-input {
+    width: 100%;
+    box-sizing: border-box;
+    min-height: 190px;
+    padding: 0.75rem 0.85rem;
+    border: 1px solid rgba(var(--color-border), 0.45);
+    border-radius: 8px;
+    background: rgb(var(--color-bg-input));
+    color: rgb(var(--color-text-base));
+    font: inherit;
+    line-height: 1.4;
+    resize: vertical;
+}
+
+.markdown-converter-actions {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(42px, max-content);
+    gap: 0.45rem;
+    align-items: center;
+    overflow-x: auto;
+    scrollbar-width: thin;
+    padding-bottom: 0.1rem;
+}
+
+.markdown-converter-action {
+    margin: 0;
+    min-width: 42px;
+    min-height: 38px;
+    padding: 0.45rem 0.62rem;
+    border-radius: 8px;
+    border: 1px solid rgba(var(--color-border), 0.5);
+    background: rgba(var(--color-bg-input), 0.8);
+    color: rgba(var(--color-text-base), 0.95);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.markdown-converter-action:hover {
+    background: rgba(var(--color-button-muted), 0.95);
+    border-color: rgba(var(--color-ring), 0.78);
+}
+
+.markdown-converter-action:focus-visible {
+    outline: 0;
+    box-shadow: 0 0 0 3px rgba(var(--color-ring), 0.28);
+}
+
+.markdown-converter-action svg {
+    width: 1rem;
+    height: 1rem;
+    stroke-width: 2.2;
+}
+
+.markdown-converter-status {
+    min-height: 1.1rem;
+}
+
+.markdown-converter-status.is-error {
+    color: rgb(var(--color-aqi));
+}
+
 .weather-controls {
     gap: 8px;
     margin-bottom: 10px;
@@ -2875,6 +2944,15 @@ a:hover {
 
     .market-controls .market-field {
         min-width: 0;
+    }
+
+    .markdown-converter-input {
+        min-height: 170px;
+    }
+
+    .markdown-converter-actions {
+        grid-auto-columns: minmax(40px, max-content);
+        gap: 0.4rem;
     }
 
     .card-title-row {

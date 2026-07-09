@@ -382,6 +382,135 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
+    //markdown converter
+    const markdownConverterInput = document.getElementById("markdownConverterInput");
+    const markdownConverterStatus = document.getElementById("markdownConverterStatus");
+    const markdownConverterButtons = Array.from(document.querySelectorAll("[data-markdown-format]"));
+    let markdownConverterStatusTimer = null;
+
+    const setMarkdownConverterStatus = (message, isError = false) => {
+        if (!markdownConverterStatus) return;
+        markdownConverterStatus.innerText = message;
+        markdownConverterStatus.classList.toggle("is-error", isError);
+        if (markdownConverterStatusTimer) {
+            clearTimeout(markdownConverterStatusTimer);
+            markdownConverterStatusTimer = null;
+        }
+        if (!message) return;
+        markdownConverterStatusTimer = setTimeout(() => {
+            if (!markdownConverterStatus) return;
+            markdownConverterStatus.innerText = "";
+            markdownConverterStatus.classList.remove("is-error");
+            markdownConverterStatusTimer = null;
+        }, 2200);
+    };
+
+    const normalizeMarkdownLineBreaks = (text) => text.replace(/\r\n?/g, "\n");
+
+    const formatMarkdownText = (format, inputText) => {
+        const normalizedText = normalizeMarkdownLineBreaks(inputText);
+        switch (format) {
+            case "heading":
+                return `### ${normalizedText}`;
+            case "bold":
+                return `**${normalizedText}**`;
+            case "italic":
+                return `_${normalizedText}_`;
+            case "quote":
+                return normalizedText
+                    .split("\n")
+                    .map((line) => `> ${line}`)
+                    .join("\n");
+            case "code":
+                if (normalizedText.includes("\n")) {
+                    return `\`\`\`\n${normalizedText}\n\`\`\``;
+                }
+                return `\`${normalizedText}\``;
+            case "bullet":
+                return normalizedText
+                    .split("\n")
+                    .map((line) => (line.trim() ? `- ${line}` : ""))
+                    .join("\n");
+            case "numbered": {
+                let index = 0;
+                return normalizedText
+                    .split("\n")
+                    .map((line) => {
+                        if (!line.trim()) return "";
+                        index += 1;
+                        return `${index}. ${line}`;
+                    })
+                    .join("\n");
+            }
+            default:
+                return normalizedText;
+        }
+    };
+
+    const copyTextToClipboard = async (value) => {
+        try {
+            if (navigator.clipboard?.writeText) {
+                await navigator.clipboard.writeText(value);
+                return true;
+            }
+        } catch {
+            // Fallback brukes under hvis Clipboard API feiler.
+        }
+
+        try {
+            const fallback = document.createElement("textarea");
+            fallback.value = value;
+            fallback.setAttribute("readonly", "");
+            fallback.style.position = "fixed";
+            fallback.style.opacity = "0";
+            fallback.style.pointerEvents = "none";
+            document.body.appendChild(fallback);
+            fallback.focus();
+            fallback.select();
+            const copied = document.execCommand("copy");
+            document.body.removeChild(fallback);
+            return copied;
+        } catch {
+            return false;
+        }
+    };
+
+    if (markdownConverterInput && markdownConverterButtons.length) {
+        const formatLabels = {
+            heading: "Heading",
+            bold: "Bold",
+            italic: "Italic",
+            quote: "Quote",
+            code: "Code",
+            bullet: "Bullet list",
+            numbered: "Numbered list",
+        };
+
+        markdownConverterButtons.forEach((button) => {
+            button.addEventListener("click", async () => {
+                const format = button.dataset.markdownFormat;
+                if (!format) return;
+
+                const inputText = markdownConverterInput.value;
+                if (!inputText.trim()) {
+                    setMarkdownConverterStatus("Skriv inn tekst først.", true);
+                    return;
+                }
+
+                const convertedText = formatMarkdownText(format, inputText);
+                const copied = await copyTextToClipboard(convertedText);
+
+                if (copied) {
+                    const label = formatLabels[format] || "Format";
+                    setMarkdownConverterStatus(`Kopiert! ${label} klar i utklippstavlen.`);
+                    return;
+                }
+
+                setMarkdownConverterStatus("Klarte ikke kopiere til utklippstavlen.", true);
+            });
+        });
+    }
+
     //timeslønn
     const monthlySalaryInput = document.getElementById("monthlySalary");
     const hoursPerWeekInput = document.getElementById("hoursPerWeek");

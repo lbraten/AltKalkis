@@ -41,6 +41,7 @@
 
                     <div class="sidebar__category">Verktøy</div>
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="textCleanerCard" checked><span>KI tekst renser</span></label>
+                    <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="markdownConverterCard" checked><span>Markdown Converter</span></label>
                     <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="colorWidget" checked><span>Hex / fargepalett</span></label>
 
                     <div class="sidebar__category">Info & annet</div>
@@ -250,6 +251,37 @@
                     </div>
                     <p id="textCleanerStatus" class="chart-meta-status" aria-live="polite"></p>
                     <textarea id="textCleanerOutput" class="text-cleaner-output" rows="6" placeholder="Renset tekst vises her" readonly></textarea>
+                </div>
+            </div>
+
+            <div class="bordershadow card--m" id="markdownConverterCard">
+                <h2>Markdown Converter</h2>
+                <div class="markdown-converter-grid">
+                    <textarea id="markdownConverterInput" class="markdown-converter-input" rows="9" placeholder="Lim inn eller skriv tekst her"></textarea>
+                    <div class="markdown-converter-actions" role="group" aria-label="Markdown formateringsknapper">
+                        <button type="button" class="markdown-converter-action" data-markdown-format="heading" aria-label="Heading" title="Heading">
+                            <i data-lucide="heading" aria-hidden="true"></i>
+                        </button>
+                        <button type="button" class="markdown-converter-action" data-markdown-format="bold" aria-label="Bold" title="Bold">
+                            <i data-lucide="bold" aria-hidden="true"></i>
+                        </button>
+                        <button type="button" class="markdown-converter-action" data-markdown-format="italic" aria-label="Italic" title="Italic">
+                            <i data-lucide="italic" aria-hidden="true"></i>
+                        </button>
+                        <button type="button" class="markdown-converter-action" data-markdown-format="quote" aria-label="Quote" title="Quote">
+                            <i data-lucide="quote" aria-hidden="true"></i>
+                        </button>
+                        <button type="button" class="markdown-converter-action" data-markdown-format="code" aria-label="Code" title="Code">
+                            <i data-lucide="code-xml" aria-hidden="true"></i>
+                        </button>
+                        <button type="button" class="markdown-converter-action" data-markdown-format="bullet" aria-label="Bullet list" title="Bullet list">
+                            <i data-lucide="list" aria-hidden="true"></i>
+                        </button>
+                        <button type="button" class="markdown-converter-action" data-markdown-format="numbered" aria-label="Numbered list" title="Numbered list">
+                            <i data-lucide="list-ordered" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                    <p id="markdownConverterStatus" class="chart-meta-status markdown-converter-status" aria-live="polite"></p>
                 </div>
             </div>
 
