@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-08T23:36:20.730Z",
+  "updatedAt": "2026-07-09T03:29:00.889Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran hevder å ha angrepet amerikanske baser i Kuwait og Bahrain",
+      "link": "https://www.nrk.no/nyheter/iran-hevder-a-ha-angrepet-amerikanske-baser-i-kuwait-og-bahrain-1.17952538",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 09 Jul 2026 03:22:17 GMT"
+    },
+    {
+      "title": "Bjørn angrep flere sau i Vardø",
+      "link": "https://www.nrk.no/nyheter/bjorn-angrep-flere-sau-i-vardo-1.17952535",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Thu, 09 Jul 2026 02:38:02 GMT"
+    },
+    {
+      "title": "Ny rapport: Tidenes varmeste juni i Vest-Europa",
+      "link": "https://www.nrk.no/nyheter/ny-rapport_-tidenes-varmeste-juni-i-vest-europa-1.17952531",
+      "category": "Klima og miljø",
+      "pubDate": "Thu, 09 Jul 2026 02:23:11 GMT"
+    },
+    {
+      "title": "Flyalarmen går i Bahrain og Kuwait",
+      "link": "https://www.nrk.no/nyheter/flyalarmen-gar-i-bahrain-og-kuwait--1.17952528",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 09 Jul 2026 01:19:42 GMT"
+    },
     {
       "title": "Nato-ledere fikk personlig våpen i gave fra Erdogan",
       "link": "https://www.nrk.no/nyheter/nato-ledere-fikk-personlig-vapen-i-gave-fra-erdogan-1.17952514",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mc-forer-omkom-i-trafikkulykke-i-kongsvinger-1.17952484",
       "category": "MC-ulykker",
       "pubDate": "Wed, 08 Jul 2026 22:19:52 GMT"
-    },
-    {
-      "title": "Melding om mulig brann i boligblokk i Trondheim",
-      "link": "https://www.nrk.no/trondelag/melding-om-mulig-brann-i-boligblokk-i-trondheim-1.17952474",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Wed, 08 Jul 2026 20:57:30 GMT"
-    },
-    {
-      "title": "Ber folk følge med på eldre som bor alene",
-      "link": "https://www.nrk.no/sorlandet/ber-folk-folge-med-pa-eldre-som-bor-alene--1.17952438",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Wed, 08 Jul 2026 20:19:48 GMT"
-    },
-    {
-      "title": "Ordfører i Nuuk etter nye Trump-utspill: – Vi er lei denne respektløsheten",
-      "link": "https://www.nrk.no/nyheter/ordforer-i-nuuk-etter-nye-trump-utspill_-_-vi-er-lei-denne-respektlosheten-1.17952415",
-      "category": "Grønland",
-      "pubDate": "Wed, 08 Jul 2026 20:13:01 GMT"
-    },
-    {
-      "title": "AG Tunnel konkurs – 80 tilsette ramma",
-      "link": "https://www.nrk.no/vestland/ag-tunnel-konkurs-_-80-tilsette-ramma-1.17952335",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 08 Jul 2026 20:00:52 GMT"
     }
   ]
 }
