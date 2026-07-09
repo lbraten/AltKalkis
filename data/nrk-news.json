@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-09T21:58:29.835Z",
+  "updatedAt": "2026-07-09T23:20:34.454Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person kritisk skadet i sykkelulykke i Trøndelag",
+      "link": "https://www.nrk.no/nyheter/person-kritisk-skadet-i-sykkelulykke-i-trondelag-1.17953813",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Thu, 09 Jul 2026 22:44:25 GMT"
+    },
+    {
+      "title": "Flere personer skadet etter båtkollisjon i Oslofjorden",
+      "link": "https://www.nrk.no/nyheter/flere-personer-skadet-etter-batkollisjon-i-oslofjorden-1.17953808",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 09 Jul 2026 22:24:31 GMT"
+    },
+    {
+      "title": "Frankrike videre til semifinalen i VM",
+      "link": "https://www.nrk.no/nyheter/frankrike-videre-til-semifinalen-i-vm--1.17953804",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Thu, 09 Jul 2026 22:09:45 GMT"
+    },
     {
       "title": "Nord-Korea vedtar tiltak for å utvide atomstyrkene",
       "link": "https://www.nrk.no/nyheter/nord-korea-vedtar-tiltak-for-a-utvide-atomstyrkene-1.17953801",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-vil-justere-importen-av-kommersielle-fly-og-jetmotorer-1.17953785",
       "category": "USA",
       "pubDate": "Thu, 09 Jul 2026 21:13:58 GMT"
-    },
-    {
-      "title": "18-åring vant EM i bridge",
-      "link": "https://www.nrk.no/tromsogfinnmark/18-aring-vant-em-i-bridge-1.17953713",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 09 Jul 2026 20:22:40 GMT"
-    },
-    {
-      "title": "Syria sier personer bak bombeangrep er pågrepet",
-      "link": "https://www.nrk.no/nyheter/syria-sier-personer-bak-bombeangrep-er-pagrepet-1.17953704",
-      "category": "Syria",
-      "pubDate": "Thu, 09 Jul 2026 20:11:08 GMT"
-    },
-    {
-      "title": "Mc-ulykke i Surnadal",
-      "link": "https://www.nrk.no/mr/mc-ulykke-i-surnadal-1.17953695",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Thu, 09 Jul 2026 19:34:10 GMT"
     }
   ]
 }
