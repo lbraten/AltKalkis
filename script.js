@@ -5800,6 +5800,110 @@ document.addEventListener("DOMContentLoaded", () => {
             masonryBurstTimers.push(setTimeout(() => requestMasonryLayout(), 320));
         };
 
+        const mobileCollapsibleCardIds = [...allCardIds];
+        const mobileCardTitleById = {};
+        cardToggles.forEach((toggle) => {
+            const cardId = toggle.dataset.toggleCard;
+            if (!cardId) return;
+            const labelText = toggle.closest(".sidebar__toggle")?.querySelector("span")?.textContent?.trim();
+            if (labelText) mobileCardTitleById[cardId] = labelText;
+        });
+        const mobileCollapseQuery = window.matchMedia("(max-width: 760px)");
+        const mobileCollapseStorageKey = "altkalkis-mobile-card-collapse-all-v1";
+        let mobileCollapseState = {};
+
+        try {
+            const rawMobileCollapseState = localStorage.getItem(mobileCollapseStorageKey);
+            const parsedMobileCollapseState = rawMobileCollapseState ? JSON.parse(rawMobileCollapseState) : {};
+            if (parsedMobileCollapseState && typeof parsedMobileCollapseState === "object") {
+                mobileCollapseState = parsedMobileCollapseState;
+            }
+        } catch {
+            mobileCollapseState = {};
+        }
+
+        const persistMobileCollapseState = () => {
+            try {
+                localStorage.setItem(mobileCollapseStorageKey, JSON.stringify(mobileCollapseState));
+            } catch {
+                // Ignorer lagringsfeil i private vinduer eller ved blokkert storage.
+            }
+        };
+
+        const getMobileCollapseValue = (cardId) => {
+            if (Object.prototype.hasOwnProperty.call(mobileCollapseState, cardId)) {
+                return Boolean(mobileCollapseState[cardId]);
+            }
+            return true;
+        };
+
+        const setMobileCardCollapsedState = (card, toggleButton, collapsed) => {
+            const title = card.querySelector("h2")?.textContent?.trim() || "panel";
+            card.classList.toggle("is-mobile-collapsed", collapsed);
+            toggleButton.setAttribute("aria-expanded", collapsed ? "false" : "true");
+            toggleButton.setAttribute("aria-label", collapsed ? `Åpne ${title}` : `Lukk ${title}`);
+            toggleButton.setAttribute("title", collapsed ? `Åpne ${title}` : `Lukk ${title}`);
+        };
+
+        const initializeMobileCollapsibleCard = (cardId) => {
+            const card = document.getElementById(cardId);
+            if (!card || card.dataset.mobileCollapseReady === "true") return;
+
+            let title = card.querySelector("h2");
+            if (!title) {
+                title = document.createElement("h2");
+                title.className = "mobile-generated-title";
+                title.textContent = mobileCardTitleById[cardId] || cardId;
+                card.insertAdjacentElement("afterbegin", title);
+            }
+
+            card.classList.add("mobile-collapsible-card");
+            const toggleButton = document.createElement("button");
+            toggleButton.type = "button";
+            toggleButton.className = "mobile-card-collapse-toggle";
+            if (card.querySelector(".info-dot--card")) {
+                toggleButton.classList.add("mobile-card-collapse-toggle--offset");
+            }
+            toggleButton.innerHTML = '<span class="mobile-card-collapse-toggle__icon" aria-hidden="true">▾</span>';
+            title.insertAdjacentElement("afterend", toggleButton);
+
+            setMobileCardCollapsedState(card, toggleButton, mobileCollapseQuery.matches && getMobileCollapseValue(cardId));
+
+            toggleButton.addEventListener("click", () => {
+                if (!mobileCollapseQuery.matches) return;
+
+                const nextCollapsed = !card.classList.contains("is-mobile-collapsed");
+                mobileCollapseState[cardId] = nextCollapsed;
+                persistMobileCollapseState();
+                setMobileCardCollapsedState(card, toggleButton, nextCollapsed);
+                requestMasonryLayoutBurst();
+            });
+
+            card.dataset.mobileCollapseReady = "true";
+        };
+
+        const refreshMobileCardCollapsing = () => {
+            mobileCollapsibleCardIds.forEach((cardId) => {
+                initializeMobileCollapsibleCard(cardId);
+                const card = document.getElementById(cardId);
+                const toggleButton = card?.querySelector(".mobile-card-collapse-toggle");
+                if (!card || !toggleButton) return;
+
+                const shouldCollapse = mobileCollapseQuery.matches ? getMobileCollapseValue(cardId) : false;
+                setMobileCardCollapsedState(card, toggleButton, shouldCollapse);
+            });
+
+            requestMasonryLayoutBurst();
+        };
+
+        refreshMobileCardCollapsing();
+        const handleMobileCollapseQueryChange = () => refreshMobileCardCollapsing();
+        if (typeof mobileCollapseQuery.addEventListener === "function") {
+            mobileCollapseQuery.addEventListener("change", handleMobileCollapseQueryChange);
+        } else if (typeof mobileCollapseQuery.addListener === "function") {
+            mobileCollapseQuery.addListener(handleMobileCollapseQueryChange);
+        }
+
         const triggerRouteAnimation = () => {
             if (!grid) return;
             grid.classList.remove("is-route-enter");

@@ -3020,6 +3020,14 @@ a:hover {
     gap: 0.75rem;
 }
 
+.mobile-card-collapse-toggle {
+    display: none;
+}
+
+.mobile-generated-title {
+    display: none;
+}
+
 .card-link {
     font-size: 0.85rem;
     color: rgba(var(--color-text-base), 0.92);
@@ -3104,6 +3112,61 @@ a:hover {
 @media (max-width: 760px) {
     :root {
         --masonry-gutter: 12px;
+    }
+
+    .mobile-collapsible-card {
+        position: relative;
+    }
+
+    .mobile-collapsible-card > h2 {
+        margin-right: 2.4rem;
+    }
+
+    .mobile-card-collapse-toggle {
+        position: absolute;
+        top: 0.72rem;
+        right: 0.72rem;
+        z-index: 3;
+        width: 32px;
+        height: 32px;
+        min-height: 32px;
+        padding: 0;
+        border-radius: 999px;
+        border: 1px solid rgba(var(--color-border), 0.7);
+        background: rgba(var(--color-bg-input), 0.85);
+        color: rgba(var(--color-text-base), 0.92);
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 1;
+    }
+
+    .mobile-card-collapse-toggle--offset {
+        right: 2.9rem;
+    }
+
+    .mobile-card-collapse-toggle:hover {
+        background: rgba(var(--color-button-muted), 0.9);
+        border-color: rgba(var(--color-ring), 0.7);
+    }
+
+    .mobile-generated-title {
+        display: block;
+    }
+
+    .mobile-card-collapse-toggle__icon {
+        display: block;
+        font-size: 1rem;
+        line-height: 1;
+        transition: transform 0.2s ease;
+    }
+
+    .mobile-collapsible-card.is-mobile-collapsed .mobile-card-collapse-toggle__icon {
+        transform: rotate(-90deg);
+    }
+
+    .mobile-collapsible-card.is-mobile-collapsed > :not(h2):not(.mobile-card-collapse-toggle) {
+        display: none !important;
     }
 
     .mobile-nav {
