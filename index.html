@@ -2,6 +2,7 @@
 <html lang="no">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AltKalkis</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
@@ -41,6 +42,28 @@
                 </a>
             </nav>
         </header>
+        <nav class="mobile-nav" aria-label="Mobilnavigasjon">
+            <a class="mobile-nav__route" href="/dashboard" data-route-link="dashboard">
+                <i data-lucide="layout-dashboard" aria-hidden="true"></i>
+                <span>Dash</span>
+            </a>
+            <a class="mobile-nav__route" href="/converters" data-route-link="converters">
+                <i data-lucide="arrow-up-down" aria-hidden="true"></i>
+                <span>Konv.</span>
+            </a>
+            <a class="mobile-nav__route" href="/calculators" data-route-link="calculators">
+                <i data-lucide="calculator" aria-hidden="true"></i>
+                <span>Kalk</span>
+            </a>
+            <a class="mobile-nav__route" href="/all-tools" data-route-link="all-tools">
+                <i data-lucide="layout-grid" aria-hidden="true"></i>
+                <span>Alle</span>
+            </a>
+            <button class="mobile-nav__route mobile-nav__route--panel" type="button" data-mobile-panel-toggle aria-label="Åpne panelvalg" aria-controls="sidebarDrawer" aria-expanded="false">
+                <i data-lucide="sliders-horizontal" aria-hidden="true"></i>
+                <span>Paneler</span>
+            </button>
+        </nav>
         <div class="drawer-backdrop" data-drawer-backdrop aria-hidden="true"></div>
         <div class="app-body">
             <aside class="sidebar" id="sidebarDrawer" aria-label="Navigasjon">
@@ -65,7 +88,7 @@
                         </a>
                     </nav>
                 </div>
-                <div class="sidebar__section sidebar__section--toggles">
+                <div class="sidebar__section sidebar__section--toggles" id="sidebarTogglesSection">
                     <div class="sidebar__title">Paneler</div>
                     <p class="sidebar__hint" data-card-toggle-hint>Vis/skjul paneler i valgt kategori.</p>
                     <div class="sidebar__list">

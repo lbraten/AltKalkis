@@ -21,12 +21,21 @@ document.addEventListener("DOMContentLoaded", () => {
     const menuBtn = document.querySelector(".topbar__menu");
     const sidebar = document.getElementById("sidebarDrawer");
     const backdrop = document.querySelector("[data-drawer-backdrop]");
+    const mobilePanelBtn = document.querySelector("[data-mobile-panel-toggle]");
+    const sidebarToggleSection = document.getElementById("sidebarTogglesSection");
     const setDrawerOpen = (open) => {
-        if (!menuBtn || !sidebar || !backdrop) return;
+        if (!sidebar || !backdrop) return;
         sidebar.classList.toggle("is-open", open);
         backdrop.classList.toggle("is-open", open);
-        menuBtn.classList.toggle("is-open", open);
-        menuBtn.setAttribute("aria-expanded", open ? "true" : "false");
+        if (menuBtn) {
+            menuBtn.classList.toggle("is-open", open);
+            menuBtn.setAttribute("aria-expanded", open ? "true" : "false");
+        }
+        if (mobilePanelBtn) {
+            mobilePanelBtn.classList.toggle("is-open", open);
+            mobilePanelBtn.setAttribute("aria-expanded", open ? "true" : "false");
+        }
+        document.body.classList.toggle("is-drawer-open", open);
         // Disable scrolling on body when sidebar is open
         if (open) {
             document.body.style.overflow = "hidden";
@@ -39,6 +48,20 @@ document.addEventListener("DOMContentLoaded", () => {
         menuBtn.addEventListener("click", () => {
             const isOpen = sidebar?.classList.contains("is-open");
             setDrawerOpen(!isOpen);
+        });
+    }
+
+    if (mobilePanelBtn) {
+        mobilePanelBtn.addEventListener("click", () => {
+            const isOpen = sidebar?.classList.contains("is-open");
+            const nextOpen = !isOpen;
+            setDrawerOpen(nextOpen);
+
+            if (nextOpen && sidebarToggleSection) {
+                window.setTimeout(() => {
+                    sidebarToggleSection.scrollIntoView({ behavior: "smooth", block: "start" });
+                }, 80);
+            }
         });
     }
 
