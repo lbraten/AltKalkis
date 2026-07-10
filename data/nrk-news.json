@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-10T19:01:06.064Z",
+  "updatedAt": "2026-07-10T20:49:33.357Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Apple saksøker OpenAI",
+      "link": "https://www.nrk.no/nyheter/apple-saksoker-openai--1.17954891",
+      "category": "Apple",
+      "pubDate": "Fri, 10 Jul 2026 20:47:57 GMT"
+    },
+    {
+      "title": "Drone forstyrret flytrafikk i Alta",
+      "link": "https://www.nrk.no/tromsogfinnmark/drone-forstyrret-flytrafikk-i-alta-1.17954821",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Fri, 10 Jul 2026 20:39:39 GMT"
+    },
+    {
+      "title": "Libanesiske medier: Én drept i israelsk droneangrep sør i Libanon",
+      "link": "https://www.nrk.no/nyheter/libanesiske-medier_-en-drept-i-israelsk-droneangrep-sor-i-libanon-1.17954885",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 10 Jul 2026 20:37:16 GMT"
+    },
+    {
+      "title": "Gikk seg bort ved Gaustatoppen – hentet ut med helikopter",
+      "link": "https://www.nrk.no/vestfoldogtelemark/gikk-seg-bort-ved-gaustatoppen-_-hentet-ut-med-helikopter-1.17954723",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 10 Jul 2026 19:34:14 GMT"
+    },
     {
       "title": "Bjørnen som drap åtte sauar i Vardø er skoten",
       "link": "https://www.nrk.no/nyheter/bjornen-som-drap-atte-sauar-i-vardo-er-skoten-1.17954813",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/prins-harry_-meghan-og-barna-besokte-kong-charles-og-dronninga-1.17954665",
       "category": "Det britiske kongehuset",
       "pubDate": "Fri, 10 Jul 2026 18:04:32 GMT"
-    },
-    {
-      "title": "Over 500 barn er døpt Haaland i Peru",
-      "link": "https://www.nrk.no/nyheter/over-500-barn-er-dopt-haaland-i-peru-1.17954579",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Fri, 10 Jul 2026 17:22:46 GMT"
-    },
-    {
-      "title": "Drukningsulykke i Larvik – barn involvert",
-      "link": "https://www.nrk.no/vestfoldogtelemark/drukningsulykke-i-larvik-_-barn-involvert--1.17954720",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 10 Jul 2026 16:49:19 GMT"
-    },
-    {
-      "title": "Lier-Hansen fikk skattekrav på 9,8 millioner",
-      "link": "https://www.nrk.no/vestfoldogtelemark/lier-hansen-fikk-skattekrav-pa-9_8-millioner--1.17954657",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 10 Jul 2026 16:16:43 GMT"
-    },
-    {
-      "title": "Motorsyklist kjørte i over 218 kilometer i timen – må møte i retten",
-      "link": "https://www.nrk.no/innlandet/motorsyklist-kjorte-i-over-218-kilometer-i-timen-_-ma-mote-i-retten-1.17954661",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 10 Jul 2026 15:39:36 GMT"
     }
   ]
 }
