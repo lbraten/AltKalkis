@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-07-09T23:20:34.454Z",
+  "updatedAt": "2026-07-10T01:09:29.013Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Person kritisk skadet i sykkelulykke i Trøndelag",
-      "link": "https://www.nrk.no/nyheter/person-kritisk-skadet-i-sykkelulykke-i-trondelag-1.17953813",
+      "title": "Kongressen i USA skal stemme over permanent sommertid",
+      "link": "https://www.nrk.no/nyheter/kongressen-i-usa-skal-stemme-over-permanent-sommertid-1.17953841",
+      "category": "USA",
+      "pubDate": "Fri, 10 Jul 2026 00:39:18 GMT"
+    },
+    {
+      "title": "120.000 jobber i fare hos Volkswagen",
+      "link": "https://www.nrk.no/nyheter/120.000-jobber-i-fare-hos-volkswagen--1.17953836",
+      "category": "Tyskland",
+      "pubDate": "Fri, 10 Jul 2026 00:34:07 GMT"
+    },
+    {
+      "title": "Tolv personer døde i skogbrann i Spania",
+      "link": "https://www.nrk.no/nyheter/tolv--personer-dode-i-skogbrann-i-spania-1.17953834",
+      "category": "Spania",
+      "pubDate": "Fri, 10 Jul 2026 00:30:17 GMT"
+    },
+    {
+      "title": "Irans tidligere øverste leder Ali Khamenei er begravet",
+      "link": "https://www.nrk.no/nyheter/irans-tidligere-overste-leder-ali-khamenei-er-begravet-1.17953815",
+      "category": "Iran",
+      "pubDate": "Thu, 09 Jul 2026 23:34:02 GMT"
+    },
+    {
+      "title": "Person alvorlig skadet i sykkelulykke i Trøndelag",
+      "link": "https://www.nrk.no/nyheter/person-alvorlig-skadet-i-sykkelulykke-i-trondelag-1.17953813",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Thu, 09 Jul 2026 22:44:25 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-personer-skadet-etter-batkollisjon-i-oslofjorden-1.17953808",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 09 Jul 2026 22:24:31 GMT"
-    },
-    {
-      "title": "Frankrike videre til semifinalen i VM",
-      "link": "https://www.nrk.no/nyheter/frankrike-videre-til-semifinalen-i-vm--1.17953804",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Thu, 09 Jul 2026 22:09:45 GMT"
-    },
-    {
-      "title": "Nord-Korea vedtar tiltak for å utvide atomstyrkene",
-      "link": "https://www.nrk.no/nyheter/nord-korea-vedtar-tiltak-for-a-utvide-atomstyrkene-1.17953801",
-      "category": "Nord-Korea",
-      "pubDate": "Thu, 09 Jul 2026 21:49:24 GMT"
-    },
-    {
-      "title": "Togtrafikken i gang igjen mellom Oslo og Lillestrøm",
-      "link": "https://www.nrk.no/nyheter/togtrafikken-i-gang-igjen-mellom-oslo-og-lillestrom-1.17953795",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 09 Jul 2026 21:42:34 GMT"
-    },
-    {
-      "title": "Trump vil justere importen av kommersielle fly og jetmotorer",
-      "link": "https://www.nrk.no/nyheter/trump-vil-justere-importen-av-kommersielle-fly-og-jetmotorer-1.17953785",
-      "category": "USA",
-      "pubDate": "Thu, 09 Jul 2026 21:13:58 GMT"
     }
   ]
 }
