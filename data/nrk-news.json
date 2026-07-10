@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-10T09:38:08.638Z",
+  "updatedAt": "2026-07-10T12:26:00.486Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Passasjer delvis sugd ut av vindu om bord Ryanair-fly",
+      "link": "https://www.nrk.no/nyheter/passasjer-delvis-sugd-ut-av-vindu-om-bord-ryanair-fly-1.17954245",
+      "category": "Hellas",
+      "pubDate": "Fri, 10 Jul 2026 12:05:38 GMT"
+    },
+    {
+      "title": "Én million kvinner har mistet tilgang til helsehjelp på grunn av bistandskutt",
+      "link": "https://www.nrk.no/nyheter/en-million-kvinner-har-mistet-tilgang-til-helsehjelp-pa-grunn-av-bistandskutt-1.17954223",
+      "category": "Bistandskutt",
+      "pubDate": "Fri, 10 Jul 2026 10:24:05 GMT"
+    },
+    {
+      "title": "Tre på rad i høysommerdager",
+      "link": "https://www.nrk.no/vestfoldogtelemark/tre-pa-rad-i-hoysommerdager-1.17954076",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 10 Jul 2026 10:08:04 GMT"
+    },
+    {
+      "title": "Mann organiserte VM-visninger i Gaza – drept i israelsk luftangrep",
+      "link": "https://www.nrk.no/nyheter/mann-organiserte-vm-visninger-i-gaza-_-drept-i-israelsk-luftangrep-1.17953965",
+      "category": "Krigen i Gaza",
+      "pubDate": "Fri, 10 Jul 2026 10:01:58 GMT"
+    },
+    {
+      "title": "Datainnbrudd hos Ikea – personopplysninger på avveie",
+      "link": "https://www.nrk.no/stor-oslo/datainnbrudd-hos-ikea-_-personopplysninger-pa-avveie-1.17954173",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 10 Jul 2026 09:49:19 GMT"
+    },
     {
       "title": "Utvist fra Norge etter flere tyveri i Trøndelag",
       "link": "https://www.nrk.no/trondelag/utvist-fra-norge-etter-flere-tyveri-i-trondelag-1.17954170",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Fri, 10 Jul 2026 09:27:39 GMT"
-    },
-    {
-      "title": "Svigersønnen overtar Stein Erik Hagens rolle",
-      "link": "https://www.nrk.no/nyheter/svigersonnen-overtar-stein-erik-hagens-rolle-1.17954153",
-      "category": "Stein Erik Hagen (69) er død",
-      "pubDate": "Fri, 10 Jul 2026 09:06:10 GMT"
-    },
-    {
-      "title": "E6 stengt etter ulykke – én kritisk skadet",
-      "link": "https://www.nrk.no/innlandet/e6-stengt-etter-ulykke-_-en-kritisk-skadet-1.17953975",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Fri, 10 Jul 2026 07:55:18 GMT"
-    },
-    {
-      "title": "Prisveksten bremser",
-      "link": "https://www.nrk.no/nyheter/prisveksten-bremser-1.17953936",
-      "category": "Norsk økonomi",
-      "pubDate": "Fri, 10 Jul 2026 06:00:41 GMT"
-    },
-    {
-      "title": "Markant økning i omvendt voldsalarm",
-      "link": "https://www.nrk.no/nyheter/markant-okning-i-omvendt-voldsalarm-1.17953933",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 10 Jul 2026 05:30:19 GMT"
-    },
-    {
-      "title": "Bayeux-teppet tilbake på engelsk jord etter nesten 1000 år",
-      "link": "https://www.nrk.no/nyheter/bayeux-teppet-tilbake-pa-engelsk-jord-etter-nesten-1000-ar-1.17953928",
-      "category": "Kunst",
-      "pubDate": "Fri, 10 Jul 2026 05:26:05 GMT"
     }
   ]
 }
