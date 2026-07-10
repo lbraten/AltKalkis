@@ -5849,12 +5849,14 @@ document.addEventListener("DOMContentLoaded", () => {
             const card = document.getElementById(cardId);
             if (!card || card.dataset.mobileCollapseReady === "true") return;
 
-            let title = card.querySelector("h2");
+            let title = Array.from(card.children).find((child) => child.tagName === "H2");
             if (!title) {
+                const nestedTitle = card.querySelector("h2")?.textContent?.trim();
                 title = document.createElement("h2");
                 title.className = "mobile-generated-title";
-                title.textContent = mobileCardTitleById[cardId] || cardId;
+                title.textContent = nestedTitle || mobileCardTitleById[cardId] || cardId;
                 card.insertAdjacentElement("afterbegin", title);
+                card.classList.add("has-mobile-generated-title");
             }
 
             card.classList.add("mobile-collapsible-card");

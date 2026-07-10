@@ -65,6 +65,12 @@
             rgba(254, 151, 195, 0.00) 76%);
 }
 
+html,
+body {
+    max-width: 100%;
+    overflow-x: clip;
+}
+
 @media (max-width: 720px) {
     :root {
         --bg-gradient:
@@ -123,6 +129,7 @@ body::before {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    overflow-x: clip;
 }
 
 .topbar {
@@ -291,6 +298,7 @@ body::before {
     justify-content: center;
     gap: 0.18rem;
     border-radius: 12px;
+    min-width: 0;
     padding: 0.42rem 0.24rem 0.4rem;
     min-height: 54px;
     font-family: 'Open Sans', sans-serif;
@@ -2527,6 +2535,24 @@ h6 {
         grid-template-columns: 1fr;
     }
 
+    #weatherCard .location-controls {
+        max-width: 100%;
+        min-width: 0;
+    }
+
+    #weatherCard .field-with-icon--city,
+    #weatherCard .location-controls .field-with-icon,
+    #weatherCard #geocodingSearch {
+        width: 100%;
+        max-width: 100%;
+        min-width: 0;
+        box-sizing: border-box;
+    }
+
+    #weatherCard .field-with-icon--city {
+        justify-self: stretch;
+    }
+
     .weather-now-hero {
         grid-template-columns: 1fr;
         gap: 10px;
@@ -3158,6 +3184,10 @@ a:hover {
         display: block;
     }
 
+    .mobile-collapsible-card.has-mobile-generated-title h2:not(.mobile-generated-title) {
+        display: none;
+    }
+
     .mobile-card-collapse-toggle__icon {
         display: block;
         font-size: 1rem;
@@ -3192,6 +3222,8 @@ a:hover {
         box-shadow: 0 14px 28px rgba(3, 10, 18, 0.45);
         -webkit-backdrop-filter: blur(14px);
         backdrop-filter: blur(14px);
+        box-sizing: border-box;
+        overflow: hidden;
     }
 
     .mobile-nav__route {
@@ -3201,6 +3233,10 @@ a:hover {
     }
 
     .mobile-nav__route span {
+        display: block;
+        max-width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
         white-space: nowrap;
     }
 
