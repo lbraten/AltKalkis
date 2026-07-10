@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-10T05:36:29.585Z",
+  "updatedAt": "2026-07-10T09:38:08.638Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Utvist fra Norge etter flere tyveri i Trøndelag",
+      "link": "https://www.nrk.no/trondelag/utvist-fra-norge-etter-flere-tyveri-i-trondelag-1.17954170",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 10 Jul 2026 09:27:39 GMT"
+    },
+    {
+      "title": "Svigersønnen overtar Stein Erik Hagens rolle",
+      "link": "https://www.nrk.no/nyheter/svigersonnen-overtar-stein-erik-hagens-rolle-1.17954153",
+      "category": "Stein Erik Hagen (69) er død",
+      "pubDate": "Fri, 10 Jul 2026 09:06:10 GMT"
+    },
+    {
+      "title": "E6 stengt etter ulykke – én kritisk skadet",
+      "link": "https://www.nrk.no/innlandet/e6-stengt-etter-ulykke-_-en-kritisk-skadet-1.17953975",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Fri, 10 Jul 2026 07:55:18 GMT"
+    },
+    {
+      "title": "Prisveksten bremser",
+      "link": "https://www.nrk.no/nyheter/prisveksten-bremser-1.17953936",
+      "category": "Norsk økonomi",
+      "pubDate": "Fri, 10 Jul 2026 06:00:41 GMT"
+    },
     {
       "title": "Markant økning i omvendt voldsalarm",
       "link": "https://www.nrk.no/nyheter/markant-okning-i-omvendt-voldsalarm-1.17953933",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bayeux-teppet-tilbake-pa-engelsk-jord-etter-nesten-1000-ar-1.17953928",
       "category": "Kunst",
       "pubDate": "Fri, 10 Jul 2026 05:26:05 GMT"
-    },
-    {
-      "title": "Droneangrep mot oljeraffineri i Russland",
-      "link": "https://www.nrk.no/nyheter/droneangrep-mot-oljeraffineri-i-russland-1.17953907",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 10 Jul 2026 05:16:25 GMT"
-    },
-    {
-      "title": "Trump sparker føderale valgkommissærer",
-      "link": "https://www.nrk.no/nyheter/trump-sparker-foderale-valgkommissaerer-1.17953906",
-      "category": "USA",
-      "pubDate": "Fri, 10 Jul 2026 04:30:31 GMT"
-    },
-    {
-      "title": "Tre personar redda ned frå Hurrungane",
-      "link": "https://www.nrk.no/vestland/tre-personar-redda-ned-fra-hurrungane-1.17953874",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 10 Jul 2026 03:37:16 GMT"
-    },
-    {
-      "title": "Mistenkt svensk leiemorder døde i Irland",
-      "link": "https://www.nrk.no/nyheter/mistenkt-svensk-leiemorder-dode-i-irland-1.17953856",
-      "category": "Irland",
-      "pubDate": "Fri, 10 Jul 2026 03:12:17 GMT"
     }
   ]
 }
