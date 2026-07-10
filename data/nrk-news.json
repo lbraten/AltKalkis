@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-10T20:49:33.357Z",
+  "updatedAt": "2026-07-10T22:05:01.834Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Cubas strømnett bryter sammen for andre gang på få dager",
+      "link": "https://www.nrk.no/nyheter/cubas-stromnett-bryter-sammen-for-andre-gang-pa-fa-dager-1.17954917",
+      "category": "Cuba",
+      "pubDate": "Fri, 10 Jul 2026 21:36:16 GMT"
+    },
+    {
+      "title": "Elsparkesyklist fløyet til Ullevål etter ulykke i Skien - bilfører pågrepet",
+      "link": "https://www.nrk.no/nyheter/elsparkesyklist-floyet-til-ulleval-etter-ulykke-i-skien---bilforer-pagrepet--1.17954899",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 10 Jul 2026 21:30:39 GMT"
+    },
     {
       "title": "Apple saksøker OpenAI",
       "link": "https://www.nrk.no/nyheter/apple-saksoker-openai--1.17954891",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/gikk-seg-bort-ved-gaustatoppen-_-hentet-ut-med-helikopter-1.17954723",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Fri, 10 Jul 2026 19:34:14 GMT"
-    },
-    {
-      "title": "Bjørnen som drap åtte sauar i Vardø er skoten",
-      "link": "https://www.nrk.no/nyheter/bjornen-som-drap-atte-sauar-i-vardo-er-skoten-1.17954813",
-      "category": "Bjørn i Norge",
-      "pubDate": "Fri, 10 Jul 2026 18:23:32 GMT"
-    },
-    {
-      "title": "Prins Harry, Meghan og barna besøkte kong Charles og dronninga",
-      "link": "https://www.nrk.no/nyheter/prins-harry_-meghan-og-barna-besokte-kong-charles-og-dronninga-1.17954665",
-      "category": "Det britiske kongehuset",
-      "pubDate": "Fri, 10 Jul 2026 18:04:32 GMT"
     }
   ]
 }
