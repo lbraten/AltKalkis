@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-10T01:09:29.013Z",
+  "updatedAt": "2026-07-10T05:36:29.585Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Kongressen i USA skal stemme over permanent sommertid",
-      "link": "https://www.nrk.no/nyheter/kongressen-i-usa-skal-stemme-over-permanent-sommertid-1.17953841",
+      "title": "Markant økning i omvendt voldsalarm",
+      "link": "https://www.nrk.no/nyheter/markant-okning-i-omvendt-voldsalarm-1.17953933",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 10 Jul 2026 05:30:19 GMT"
+    },
+    {
+      "title": "Bayeux-teppet tilbake på engelsk jord etter nesten 1000 år",
+      "link": "https://www.nrk.no/nyheter/bayeux-teppet-tilbake-pa-engelsk-jord-etter-nesten-1000-ar-1.17953928",
+      "category": "Kunst",
+      "pubDate": "Fri, 10 Jul 2026 05:26:05 GMT"
+    },
+    {
+      "title": "Droneangrep mot oljeraffineri i Russland",
+      "link": "https://www.nrk.no/nyheter/droneangrep-mot-oljeraffineri-i-russland-1.17953907",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 10 Jul 2026 05:16:25 GMT"
+    },
+    {
+      "title": "Trump sparker føderale valgkommissærer",
+      "link": "https://www.nrk.no/nyheter/trump-sparker-foderale-valgkommissaerer-1.17953906",
       "category": "USA",
-      "pubDate": "Fri, 10 Jul 2026 00:39:18 GMT"
+      "pubDate": "Fri, 10 Jul 2026 04:30:31 GMT"
     },
     {
-      "title": "120.000 jobber i fare hos Volkswagen",
-      "link": "https://www.nrk.no/nyheter/120.000-jobber-i-fare-hos-volkswagen--1.17953836",
-      "category": "Tyskland",
-      "pubDate": "Fri, 10 Jul 2026 00:34:07 GMT"
+      "title": "Tre personar redda ned frå Hurrungane",
+      "link": "https://www.nrk.no/vestland/tre-personar-redda-ned-fra-hurrungane-1.17953874",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 10 Jul 2026 03:37:16 GMT"
     },
     {
-      "title": "Tolv personer døde i skogbrann i Spania",
-      "link": "https://www.nrk.no/nyheter/tolv--personer-dode-i-skogbrann-i-spania-1.17953834",
-      "category": "Spania",
-      "pubDate": "Fri, 10 Jul 2026 00:30:17 GMT"
-    },
-    {
-      "title": "Irans tidligere øverste leder Ali Khamenei er begravet",
-      "link": "https://www.nrk.no/nyheter/irans-tidligere-overste-leder-ali-khamenei-er-begravet-1.17953815",
-      "category": "Iran",
-      "pubDate": "Thu, 09 Jul 2026 23:34:02 GMT"
-    },
-    {
-      "title": "Person alvorlig skadet i sykkelulykke i Trøndelag",
-      "link": "https://www.nrk.no/nyheter/person-alvorlig-skadet-i-sykkelulykke-i-trondelag-1.17953813",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Thu, 09 Jul 2026 22:44:25 GMT"
-    },
-    {
-      "title": "Flere personer skadet etter båtkollisjon i Oslofjorden",
-      "link": "https://www.nrk.no/nyheter/flere-personer-skadet-etter-batkollisjon-i-oslofjorden-1.17953808",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 09 Jul 2026 22:24:31 GMT"
+      "title": "Mistenkt svensk leiemorder døde i Irland",
+      "link": "https://www.nrk.no/nyheter/mistenkt-svensk-leiemorder-dode-i-irland-1.17953856",
+      "category": "Irland",
+      "pubDate": "Fri, 10 Jul 2026 03:12:17 GMT"
     }
   ]
 }
