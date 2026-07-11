@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-11T01:01:41.212Z",
+  "updatedAt": "2026-07-11T04:41:57.455Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Flere eksplosjoner hørt i Kyiv",
-      "link": "https://www.nrk.no/nyheter/flere-eksplosjoner-hort-i-kyiv--1.17954947",
+      "title": "Trump advarer Iran om angrep om de prøver å ta livet av ham",
+      "link": "https://www.nrk.no/nyheter/trump-advarer-iran-om-angrep-om-de-prover-a-ta-livet-av-ham-1.17954961",
+      "category": "Donald Trump",
+      "pubDate": "Sat, 11 Jul 2026 03:50:28 GMT"
+    },
+    {
+      "title": "To personer til sykehus etter bilulykke ved Levanger",
+      "link": "https://www.nrk.no/nyheter/to-personer-til-sykehus-etter-bilulykke-ved-levanger--1.17954960",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 11 Jul 2026 03:19:32 GMT"
+    },
+    {
+      "title": "Eldre mann funnet etter leteaksjon i Skien",
+      "link": "https://www.nrk.no/nyheter/eldre-mann-funnet-etter-leteaksjon-i-skien-1.17954955",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 11 Jul 2026 03:12:24 GMT"
+    },
+    {
+      "title": "Voldshendelse i Drammen",
+      "link": "https://www.nrk.no/nyheter/voldshendelse-i-drammen-1.17954954",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 11 Jul 2026 02:03:59 GMT"
+    },
+    {
+      "title": "Mann truet til seg penger med kniv i Bergen",
+      "link": "https://www.nrk.no/nyheter/mann-truet-til-seg-penger-med-kniv-i-bergen-1.17954948",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 11 Jul 2026 01:58:52 GMT"
+    },
+    {
+      "title": "Flere såret i nytt russisk angrep i Kyiv",
+      "link": "https://www.nrk.no/nyheter/flere-saret-i-nytt-russisk-angrep-i-kyiv--1.17954947",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 11 Jul 2026 00:52:59 GMT"
-    },
-    {
-      "title": "Meta anker dom om avhengighet blant unge",
-      "link": "https://www.nrk.no/nyheter/meta-anker-dom-om-avhengighet-blant-unge-1.17954946",
-      "category": "Meta",
-      "pubDate": "Sat, 11 Jul 2026 00:29:38 GMT"
-    },
-    {
-      "title": "Kjørte rundt 200 km/t med ungdommer i bilen",
-      "link": "https://www.nrk.no/nyheter/kjorte-rundt-200-km_t-med-ungdommer-i-bilen-1.17954942",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 11 Jul 2026 00:22:18 GMT"
-    },
-    {
-      "title": "Eldre mann savnet i Skien – politiet setter i gang leteaksjon",
-      "link": "https://www.nrk.no/nyheter/eldre-mann-savnet-i-skien-_-politiet-setter-i-gang-leteaksjon-1.17954940",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 10 Jul 2026 23:05:07 GMT"
-    },
-    {
-      "title": "Bayeux-teppet er tilbake på engelsk jord etter nesten 1000 år",
-      "link": "https://www.nrk.no/nyheter/bayeux-teppet-er-tilbake-pa-engelsk-jord-etter-nesten-1000-ar-1.17954934",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 10 Jul 2026 22:54:18 GMT"
-    },
-    {
-      "title": "Flere døde da småfly styrtet på Bahamas",
-      "link": "https://www.nrk.no/nyheter/flere-dode-da-smafly-styrtet-pa-bahamas-1.17954932",
-      "category": "Bahamas",
-      "pubDate": "Fri, 10 Jul 2026 22:37:08 GMT"
     }
   ]
 }
