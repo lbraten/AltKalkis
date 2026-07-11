@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-11T14:34:37.926Z",
+  "updatedAt": "2026-07-11T15:57:43.210Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Seks drept i russiske angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/seks-drept-i-russiske-angrep-i-ukraina-1.17955199",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 11 Jul 2026 15:34:46 GMT"
+    },
     {
       "title": "Alvorlig trafikkulykke mellom buss og bil i Skien",
       "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-trafikkulykke-mellom-buss-og-bil-i-skien-1.17955258",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eiffeltarnet-stenger-tidlig-pa-grunn-av-hetebolgen-1.17955165",
       "category": "Frankrike",
       "pubDate": "Sat, 11 Jul 2026 11:43:35 GMT"
-    },
-    {
-      "title": "Oslo-politiet med VM-advarsel",
-      "link": "https://www.nrk.no/nyheter/oslo-politiet-med-vm-advarsel-1.17955149",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Sat, 11 Jul 2026 11:17:56 GMT"
     }
   ]
 }
