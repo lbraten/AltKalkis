@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-11T13:22:55.260Z",
+  "updatedAt": "2026-07-11T14:34:37.926Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig trafikkulykke mellom buss og bil i Skien",
+      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-trafikkulykke-mellom-buss-og-bil-i-skien-1.17955258",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 11 Jul 2026 13:42:52 GMT"
+    },
+    {
+      "title": "Stoppa gasslekkasje i Øygarden",
+      "link": "https://www.nrk.no/vestland/stoppa-gasslekkasje-i-oygarden-1.17955252",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 11 Jul 2026 13:41:23 GMT"
+    },
     {
       "title": "VG: Trump sa til Støre at han tror Norge kan vinne hele VM",
       "link": "https://www.nrk.no/nyheter/vg_-trump-sa-til-store-at-han-tror-norge-kan-vinne-hele-vm-1.17955193",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/oslo-politiet-med-vm-advarsel-1.17955149",
       "category": "VM-folkefesten 2026",
       "pubDate": "Sat, 11 Jul 2026 11:17:56 GMT"
-    },
-    {
-      "title": "Irans øverste leder krever hevn for drapet på sin far",
-      "link": "https://www.nrk.no/nyheter/irans-overste-leder-krever-hevn-for-drapet-pa-sin-far-1.17955144",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 11 Jul 2026 10:43:36 GMT"
-    },
-    {
-      "title": "Syklist påkjørt av bil",
-      "link": "https://www.nrk.no/innlandet/syklist-pakjort-av-bil-1.17955083",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 11 Jul 2026 10:27:57 GMT"
     }
   ]
 }
