@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-11T22:51:14.453Z",
+  "updatedAt": "2026-07-11T23:56:29.749Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA sier de har gjennomført angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/usa-sier-de-har-gjennomfort-angrep-mot-iran-1.17955599",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 11 Jul 2026 23:51:52 GMT"
+    },
+    {
+      "title": "Leteaksjon etter savnet mann i Hokksund",
+      "link": "https://www.nrk.no/nyheter/leteaksjon-etter-savnet-mann-i-hokksund-1.17955594",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 11 Jul 2026 23:47:44 GMT"
+    },
+    {
+      "title": "Hytte nedbrent i Drangedal",
+      "link": "https://www.nrk.no/nyheter/hytte-nedbrent-i-drangedal-1.17955578",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 11 Jul 2026 23:37:30 GMT"
+    },
     {
       "title": "Mann pågrepet, mistenkt for drap på tidligere britisk minister",
       "link": "https://www.nrk.no/nyheter/mann-pagrepet_-mistenkt-for-drap-pa-tidligere-britisk-minister--1.17955574",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-dode-i-flom-og-styrtregn-i-myanmar-1.17955566",
       "category": "Myanmar",
       "pubDate": "Sat, 11 Jul 2026 22:32:58 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke i Nes på Romerike – en til sykehus",
-      "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-nes-pa-romerike-_-en-til-sykehus--1.17955521",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 11 Jul 2026 22:19:08 GMT"
-    },
-    {
-      "title": "Politiet: Over 130.000 i Oslo sentrum",
-      "link": "https://www.nrk.no/nyheter/politiet_-over-130.000-i-oslo-sentrum-1.17955527",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Sat, 11 Jul 2026 21:14:00 GMT"
-    },
-    {
-      "title": "Folkefest i Bergen",
-      "link": "https://www.nrk.no/nyheter/folkefest-i-bergen-1.17955514",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Sat, 11 Jul 2026 20:38:07 GMT"
     }
   ]
 }
