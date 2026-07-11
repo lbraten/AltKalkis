@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-11T21:51:29.444Z",
+  "updatedAt": "2026-07-11T22:51:14.453Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann pågrepet, mistenkt for drap på tidligere britisk minister",
+      "link": "https://www.nrk.no/nyheter/mann-pagrepet_-mistenkt-for-drap-pa-tidligere-britisk-minister--1.17955574",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 11 Jul 2026 22:46:48 GMT"
+    },
+    {
+      "title": "Iran stenger Hormuzstredet i",
+      "link": "https://www.nrk.no/nyheter/iran-stenger-hormuzstredet-i-1.17955572",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 11 Jul 2026 22:37:29 GMT"
+    },
+    {
+      "title": "Flere døde i flom og styrtregn i Myanmar",
+      "link": "https://www.nrk.no/nyheter/flere-dode-i-flom-og-styrtregn-i-myanmar-1.17955566",
+      "category": "Myanmar",
+      "pubDate": "Sat, 11 Jul 2026 22:32:58 GMT"
+    },
+    {
+      "title": "Alvorlig trafikkulykke i Nes på Romerike – en til sykehus",
+      "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-nes-pa-romerike-_-en-til-sykehus--1.17955521",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 11 Jul 2026 22:19:08 GMT"
+    },
+    {
+      "title": "Politiet: Over 130.000 i Oslo sentrum",
+      "link": "https://www.nrk.no/nyheter/politiet_-over-130.000-i-oslo-sentrum-1.17955527",
+      "category": "VM-folkefesten 2026",
+      "pubDate": "Sat, 11 Jul 2026 21:14:00 GMT"
+    },
     {
       "title": "Folkefest i Bergen",
       "link": "https://www.nrk.no/nyheter/folkefest-i-bergen-1.17955514",
       "category": "VM-folkefesten 2026",
       "pubDate": "Sat, 11 Jul 2026 20:38:07 GMT"
-    },
-    {
-      "title": "Kronprinsen om Mette-Marit: – Bedre og bedre",
-      "link": "https://www.nrk.no/nyheter/kronprinsen-om-mette-marit_-_-bedre-og-bedre-1.17955515",
-      "category": "Kongefamilien",
-      "pubDate": "Sat, 11 Jul 2026 20:27:31 GMT"
-    },
-    {
-      "title": "Zelenskyj vil presse allierte til raskere respons",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-vil-presse-allierte-til-raskere-respons-1.17955467",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 11 Jul 2026 19:20:57 GMT"
-    },
-    {
-      "title": "Person omkom etter kollisjon mellom bil og buss i Skien",
-      "link": "https://www.nrk.no/nyheter/person-omkom-etter-kollisjon-mellom-bil-og-buss-i-skien-1.17955424",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 11 Jul 2026 19:00:18 GMT"
-    },
-    {
-      "title": "Alvorlig MC-ulykke i Indre Østfold",
-      "link": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-indre-ostfold-1.17955414",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 11 Jul 2026 17:22:51 GMT"
-    },
-    {
-      "title": "Person omkom i trafikkulukke i Alver",
-      "link": "https://www.nrk.no/vestland/person-omkom-i-trafikkulukke-i-alver-1.17955419",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 11 Jul 2026 17:13:38 GMT"
     }
   ]
 }
