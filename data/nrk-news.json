@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-11T09:07:10.381Z",
+  "updatedAt": "2026-07-11T10:41:40.569Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "15 døde i båtulykke i Vietnam",
+      "link": "https://www.nrk.no/nyheter/15-dode-i-batulykke-i-vietnam-1.17955141",
+      "category": "Vietnam",
+      "pubDate": "Sat, 11 Jul 2026 10:25:26 GMT"
+    },
+    {
+      "title": "Været gir håp for brannherjede Spania",
+      "link": "https://www.nrk.no/nyheter/vaeret-gir-hap-for-brannherjede-spania-1.17955120",
+      "category": "Spania",
+      "pubDate": "Sat, 11 Jul 2026 10:20:47 GMT"
+    },
+    {
+      "title": "Én drept i droneangrep mot skip i Taganrogbukta i Russland",
+      "link": "https://www.nrk.no/nyheter/en-drept-i-droneangrep-mot-skip-i-taganrogbukta-i-russland-1.17955035",
+      "category": "Russland",
+      "pubDate": "Sat, 11 Jul 2026 09:38:11 GMT"
+    },
     {
       "title": "Kapret køplass 15 timer før avspark",
       "link": "https://www.nrk.no/nyheter/kapret-koplass-15-timer-for-avspark-1.17955054",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ny-hetebolge-rammer-frankrike-1.17955016",
       "category": "Frankrike",
       "pubDate": "Sat, 11 Jul 2026 06:55:29 GMT"
-    },
-    {
-      "title": "Mann løslatt etter å ha blitt pågrepet for drap på Reform-politiker",
-      "link": "https://www.nrk.no/nyheter/mann-loslatt-etter-a-ha-blitt-pagrepet-for-drap-pa-reform-politiker-1.17955015",
-      "category": "Storbritannia",
-      "pubDate": "Sat, 11 Jul 2026 06:27:03 GMT"
-    },
-    {
-      "title": "Kina forbyr eksport av helium",
-      "link": "https://www.nrk.no/nyheter/kina-forbyr-eksport-av-helium-1.17955007",
-      "category": "Kina",
-      "pubDate": "Sat, 11 Jul 2026 06:22:45 GMT"
-    },
-    {
-      "title": "Hundretusener evakuert i Kina i påvente av tyfon",
-      "link": "https://www.nrk.no/nyheter/hundretusener-evakuert-i-kina-i-pavente-av-tyfon-1.17954975",
-      "category": "Kina",
-      "pubDate": "Sat, 11 Jul 2026 06:19:29 GMT"
     }
   ]
 }
