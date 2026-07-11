@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-11T15:57:43.210Z",
+  "updatedAt": "2026-07-11T17:06:34.746Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dødstallet etter jordskjelvene i Venezuela oppjustert",
+      "link": "https://www.nrk.no/nyheter/dodstallet-etter-jordskjelvene-i-venezuela-oppjustert-1.17955408",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 11 Jul 2026 17:00:29 GMT"
+    },
+    {
+      "title": "Bedre kontroll på skogbrann i Spania",
+      "link": "https://www.nrk.no/nyheter/bedre-kontroll-pa-skogbrann-i-spania-1.17955397",
+      "category": "Spania",
+      "pubDate": "Sat, 11 Jul 2026 16:55:00 GMT"
+    },
+    {
+      "title": "Motorsyklist omkom i ulykke på E6 i Trøndelag",
+      "link": "https://www.nrk.no/nyheter/motorsyklist-omkom-i-ulykke-pa-e6-i-trondelag-1.17955343",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 11 Jul 2026 16:37:12 GMT"
+    },
     {
       "title": "Seks drept i russiske angrep i Ukraina",
       "link": "https://www.nrk.no/nyheter/seks-drept-i-russiske-angrep-i-ukraina-1.17955199",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/stoppa-gasslekkasje-i-oygarden-1.17955252",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 11 Jul 2026 13:41:23 GMT"
-    },
-    {
-      "title": "VG: Trump sa til Støre at han tror Norge kan vinne hele VM",
-      "link": "https://www.nrk.no/nyheter/vg_-trump-sa-til-store-at-han-tror-norge-kan-vinne-hele-vm-1.17955193",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Sat, 11 Jul 2026 12:16:49 GMT"
-    },
-    {
-      "title": "Alvorlig MC-ulykke på E6",
-      "link": "https://www.nrk.no/trondelag/alvorlig-mc-ulykke-pa-e6-1.17955164",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 11 Jul 2026 12:13:22 GMT"
-    },
-    {
-      "title": "Eiffeltårnet stenger tidlig på grunn av hetebølgen",
-      "link": "https://www.nrk.no/nyheter/eiffeltarnet-stenger-tidlig-pa-grunn-av-hetebolgen-1.17955165",
-      "category": "Frankrike",
-      "pubDate": "Sat, 11 Jul 2026 11:43:35 GMT"
     }
   ]
 }
