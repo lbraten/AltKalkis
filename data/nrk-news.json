@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-11T19:42:30.696Z",
+  "updatedAt": "2026-07-11T20:50:48.850Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Folkefest i Bergen",
+      "link": "https://www.nrk.no/nyheter/folkefest-i-bergen-1.17955514",
+      "category": "VM-folkefesten 2026",
+      "pubDate": "Sat, 11 Jul 2026 20:38:07 GMT"
+    },
+    {
+      "title": "Kronprinsen om Mette-Marit: – Bedre og bedre",
+      "link": "https://www.nrk.no/nyheter/kronprinsen-om-mette-marit_-_-bedre-og-bedre-1.17955515",
+      "category": "Kongefamilien",
+      "pubDate": "Sat, 11 Jul 2026 20:27:31 GMT"
+    },
     {
       "title": "Zelenskyj vil presse allierte til raskere respons",
       "link": "https://www.nrk.no/nyheter/zelenskyj-vil-presse-allierte-til-raskere-respons-1.17955467",
@@ -21,22 +33,10 @@
       "pubDate": "Sat, 11 Jul 2026 17:22:51 GMT"
     },
     {
-      "title": "Trafikkulykke i Alver – framstår alvorleg",
-      "link": "https://www.nrk.no/vestland/trafikkulykke-i-alver-_-framstar-alvorleg-1.17955419",
+      "title": "Person omkom i trafikkulukke i Alver",
+      "link": "https://www.nrk.no/vestland/person-omkom-i-trafikkulukke-i-alver-1.17955419",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 11 Jul 2026 17:13:38 GMT"
-    },
-    {
-      "title": "Stans på Bergensbanen – tog har tekniske problemer",
-      "link": "https://www.nrk.no/nyheter/stans-pa-bergensbanen-_-tog-har-tekniske-problemer-1.17955194",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 11 Jul 2026 17:08:31 GMT"
-    },
-    {
-      "title": "Dødstallet etter jordskjelvene i Venezuela oppjustert",
-      "link": "https://www.nrk.no/nyheter/dodstallet-etter-jordskjelvene-i-venezuela-oppjustert-1.17955408",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 11 Jul 2026 17:00:29 GMT"
     }
   ]
 }
