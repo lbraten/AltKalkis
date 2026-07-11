@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-11T07:11:20.411Z",
+  "updatedAt": "2026-07-11T09:07:10.381Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kapret køplass 15 timer før avspark",
+      "link": "https://www.nrk.no/nyheter/kapret-koplass-15-timer-for-avspark-1.17955054",
+      "category": "VM-folkefesten 2026",
+      "pubDate": "Sat, 11 Jul 2026 08:34:17 GMT"
+    },
+    {
+      "title": "Gult farevarsel for lyn på Sør- og Østlandet",
+      "link": "https://www.nrk.no/nyheter/gult-farevarsel-for-lyn-pa-sor--og-ostlandet-1.17955076",
+      "category": "Været",
+      "pubDate": "Sat, 11 Jul 2026 08:29:46 GMT"
+    },
     {
       "title": "Ny hetebølge rammer Frankrike",
       "link": "https://www.nrk.no/nyheter/ny-hetebolge-rammer-frankrike-1.17955016",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hundretusener-evakuert-i-kina-i-pavente-av-tyfon-1.17954975",
       "category": "Kina",
       "pubDate": "Sat, 11 Jul 2026 06:19:29 GMT"
-    },
-    {
-      "title": "Hus totalskadet i brann i Halden",
-      "link": "https://www.nrk.no/nyheter/hus-totalskadet-i-brann-i-halden-1.17954967",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 11 Jul 2026 04:49:35 GMT"
-    },
-    {
-      "title": "Trump advarer Iran om angrep om de prøver å ta livet av ham",
-      "link": "https://www.nrk.no/nyheter/trump-advarer-iran-om-angrep-om-de-prover-a-ta-livet-av-ham-1.17954961",
-      "category": "Donald Trump",
-      "pubDate": "Sat, 11 Jul 2026 03:50:28 GMT"
     }
   ]
 }
