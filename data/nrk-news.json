@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-10T23:29:29.873Z",
+  "updatedAt": "2026-07-11T01:01:41.212Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere eksplosjoner hørt i Kyiv",
+      "link": "https://www.nrk.no/nyheter/flere-eksplosjoner-hort-i-kyiv--1.17954947",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 11 Jul 2026 00:52:59 GMT"
+    },
+    {
+      "title": "Meta anker dom om avhengighet blant unge",
+      "link": "https://www.nrk.no/nyheter/meta-anker-dom-om-avhengighet-blant-unge-1.17954946",
+      "category": "Meta",
+      "pubDate": "Sat, 11 Jul 2026 00:29:38 GMT"
+    },
+    {
+      "title": "Kjørte rundt 200 km/t med ungdommer i bilen",
+      "link": "https://www.nrk.no/nyheter/kjorte-rundt-200-km_t-med-ungdommer-i-bilen-1.17954942",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 11 Jul 2026 00:22:18 GMT"
+    },
     {
       "title": "Eldre mann savnet i Skien – politiet setter i gang leteaksjon",
       "link": "https://www.nrk.no/nyheter/eldre-mann-savnet-i-skien-_-politiet-setter-i-gang-leteaksjon-1.17954940",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-dode-da-smafly-styrtet-pa-bahamas-1.17954932",
       "category": "Bahamas",
       "pubDate": "Fri, 10 Jul 2026 22:37:08 GMT"
-    },
-    {
-      "title": "Antall døde etter jordskjelvet i Venezuela har passert 4000",
-      "link": "https://www.nrk.no/nyheter/antall-dode-etter-jordskjelvet-i-venezuela-har-passert-4000-1.17954930",
-      "category": "Venezuela",
-      "pubDate": "Fri, 10 Jul 2026 22:14:39 GMT"
-    },
-    {
-      "title": "Kandidat til Senatet trekker seg – gir partiet ekstremt dårlig tid før valget",
-      "link": "https://www.nrk.no/nyheter/kandidat-til-senatet-trekker-seg-_-gir-partiet-ekstremt-darlig-tid-for-valget-1.17954921",
-      "category": "USA",
-      "pubDate": "Fri, 10 Jul 2026 22:10:15 GMT"
-    },
-    {
-      "title": "Cubas strømnett bryter sammen for andre gang på få dager",
-      "link": "https://www.nrk.no/nyheter/cubas-stromnett-bryter-sammen-for-andre-gang-pa-fa-dager-1.17954917",
-      "category": "Cuba",
-      "pubDate": "Fri, 10 Jul 2026 21:36:16 GMT"
     }
   ]
 }
