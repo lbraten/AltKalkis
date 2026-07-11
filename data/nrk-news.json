@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-11T17:06:34.746Z",
+  "updatedAt": "2026-07-11T18:26:17.903Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig MC-ulykke i Indre Østfold",
+      "link": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-indre-ostfold-1.17955414",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 11 Jul 2026 17:22:51 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Alver – framstår alvorleg",
+      "link": "https://www.nrk.no/vestland/trafikkulykke-i-alver-_-framstar-alvorleg-1.17955419",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 11 Jul 2026 17:13:38 GMT"
+    },
+    {
+      "title": "Stans på Bergensbanen – tog har tekniske problemer",
+      "link": "https://www.nrk.no/nyheter/stans-pa-bergensbanen-_-tog-har-tekniske-problemer-1.17955194",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 11 Jul 2026 17:08:31 GMT"
+    },
     {
       "title": "Dødstallet etter jordskjelvene i Venezuela oppjustert",
       "link": "https://www.nrk.no/nyheter/dodstallet-etter-jordskjelvene-i-venezuela-oppjustert-1.17955408",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/motorsyklist-omkom-i-ulykke-pa-e6-i-trondelag-1.17955343",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sat, 11 Jul 2026 16:37:12 GMT"
-    },
-    {
-      "title": "Seks drept i russiske angrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/seks-drept-i-russiske-angrep-i-ukraina-1.17955199",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 11 Jul 2026 15:34:46 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke mellom buss og bil i Skien",
-      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-trafikkulykke-mellom-buss-og-bil-i-skien-1.17955258",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 11 Jul 2026 13:42:52 GMT"
-    },
-    {
-      "title": "Stoppa gasslekkasje i Øygarden",
-      "link": "https://www.nrk.no/vestland/stoppa-gasslekkasje-i-oygarden-1.17955252",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 11 Jul 2026 13:41:23 GMT"
     }
   ]
 }
