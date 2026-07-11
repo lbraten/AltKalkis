@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-11T10:41:40.569Z",
+  "updatedAt": "2026-07-11T11:53:59.793Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eiffeltårnet stenger tidlig på grunn av hetebølgen",
+      "link": "https://www.nrk.no/nyheter/eiffeltarnet-stenger-tidlig-pa-grunn-av-hetebolgen-1.17955165",
+      "category": "Frankrike",
+      "pubDate": "Sat, 11 Jul 2026 11:43:35 GMT"
+    },
+    {
+      "title": "Oslo-politiet med VM-advarsel",
+      "link": "https://www.nrk.no/nyheter/oslo-politiet-med-vm-advarsel-1.17955149",
+      "category": "VM-folkefesten 2026",
+      "pubDate": "Sat, 11 Jul 2026 11:17:56 GMT"
+    },
+    {
+      "title": "Irans øverste leder krever hevn for drapet på sin far",
+      "link": "https://www.nrk.no/nyheter/irans-overste-leder-krever-hevn-for-drapet-pa-sin-far-1.17955144",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 11 Jul 2026 10:43:36 GMT"
+    },
+    {
+      "title": "Syklist påkjørt av bil",
+      "link": "https://www.nrk.no/innlandet/syklist-pakjort-av-bil-1.17955083",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 11 Jul 2026 10:27:57 GMT"
+    },
     {
       "title": "15 døde i båtulykke i Vietnam",
       "link": "https://www.nrk.no/nyheter/15-dode-i-batulykke-i-vietnam-1.17955141",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vaeret-gir-hap-for-brannherjede-spania-1.17955120",
       "category": "Spania",
       "pubDate": "Sat, 11 Jul 2026 10:20:47 GMT"
-    },
-    {
-      "title": "Én drept i droneangrep mot skip i Taganrogbukta i Russland",
-      "link": "https://www.nrk.no/nyheter/en-drept-i-droneangrep-mot-skip-i-taganrogbukta-i-russland-1.17955035",
-      "category": "Russland",
-      "pubDate": "Sat, 11 Jul 2026 09:38:11 GMT"
-    },
-    {
-      "title": "Kapret køplass 15 timer før avspark",
-      "link": "https://www.nrk.no/nyheter/kapret-koplass-15-timer-for-avspark-1.17955054",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Sat, 11 Jul 2026 08:34:17 GMT"
-    },
-    {
-      "title": "Gult farevarsel for lyn på Sør- og Østlandet",
-      "link": "https://www.nrk.no/nyheter/gult-farevarsel-for-lyn-pa-sor--og-ostlandet-1.17955076",
-      "category": "Været",
-      "pubDate": "Sat, 11 Jul 2026 08:29:46 GMT"
-    },
-    {
-      "title": "Ny hetebølge rammer Frankrike",
-      "link": "https://www.nrk.no/nyheter/ny-hetebolge-rammer-frankrike-1.17955016",
-      "category": "Frankrike",
-      "pubDate": "Sat, 11 Jul 2026 06:55:29 GMT"
     }
   ]
 }
