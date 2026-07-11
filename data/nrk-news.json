@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-11T18:26:17.903Z",
+  "updatedAt": "2026-07-11T19:42:30.696Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyj vil presse allierte til raskere respons",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-vil-presse-allierte-til-raskere-respons-1.17955467",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 11 Jul 2026 19:20:57 GMT"
+    },
+    {
+      "title": "Person omkom etter kollisjon mellom bil og buss i Skien",
+      "link": "https://www.nrk.no/nyheter/person-omkom-etter-kollisjon-mellom-bil-og-buss-i-skien-1.17955424",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 11 Jul 2026 19:00:18 GMT"
+    },
     {
       "title": "Alvorlig MC-ulykke i Indre Østfold",
       "link": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-indre-ostfold-1.17955414",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dodstallet-etter-jordskjelvene-i-venezuela-oppjustert-1.17955408",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 11 Jul 2026 17:00:29 GMT"
-    },
-    {
-      "title": "Bedre kontroll på skogbrann i Spania",
-      "link": "https://www.nrk.no/nyheter/bedre-kontroll-pa-skogbrann-i-spania-1.17955397",
-      "category": "Spania",
-      "pubDate": "Sat, 11 Jul 2026 16:55:00 GMT"
-    },
-    {
-      "title": "Motorsyklist omkom i ulykke på E6 i Trøndelag",
-      "link": "https://www.nrk.no/nyheter/motorsyklist-omkom-i-ulykke-pa-e6-i-trondelag-1.17955343",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 11 Jul 2026 16:37:12 GMT"
     }
   ]
 }
