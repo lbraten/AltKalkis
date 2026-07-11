@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-11T11:53:59.793Z",
+  "updatedAt": "2026-07-11T13:22:55.260Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "VG: Trump sa til Støre at han tror Norge kan vinne hele VM",
+      "link": "https://www.nrk.no/nyheter/vg_-trump-sa-til-store-at-han-tror-norge-kan-vinne-hele-vm-1.17955193",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Sat, 11 Jul 2026 12:16:49 GMT"
+    },
+    {
+      "title": "Alvorlig MC-ulykke på E6",
+      "link": "https://www.nrk.no/trondelag/alvorlig-mc-ulykke-pa-e6-1.17955164",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 11 Jul 2026 12:13:22 GMT"
+    },
     {
       "title": "Eiffeltårnet stenger tidlig på grunn av hetebølgen",
       "link": "https://www.nrk.no/nyheter/eiffeltarnet-stenger-tidlig-pa-grunn-av-hetebolgen-1.17955165",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/innlandet/syklist-pakjort-av-bil-1.17955083",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sat, 11 Jul 2026 10:27:57 GMT"
-    },
-    {
-      "title": "15 døde i båtulykke i Vietnam",
-      "link": "https://www.nrk.no/nyheter/15-dode-i-batulykke-i-vietnam-1.17955141",
-      "category": "Vietnam",
-      "pubDate": "Sat, 11 Jul 2026 10:25:26 GMT"
-    },
-    {
-      "title": "Været gir håp for brannherjede Spania",
-      "link": "https://www.nrk.no/nyheter/vaeret-gir-hap-for-brannherjede-spania-1.17955120",
-      "category": "Spania",
-      "pubDate": "Sat, 11 Jul 2026 10:20:47 GMT"
     }
   ]
 }
