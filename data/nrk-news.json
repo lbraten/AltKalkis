@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-12T16:59:51.773Z",
+  "updatedAt": "2026-07-12T18:04:22.291Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tolv dødsulykker i trafikken på én uke: – Skremmende feriestart",
+      "link": "https://www.nrk.no/nyheter/tolv-dodsulykker-i-trafikken-pa-en-uke_-_-skremmende-feriestart-1.17956170",
+      "category": "Vær og trafikk i Norge",
+      "pubDate": "Sun, 12 Jul 2026 17:55:30 GMT"
+    },
+    {
+      "title": "FBI bistår lokale myndigheter etter dødsfallet til senator",
+      "link": "https://www.nrk.no/nyheter/fbi-bistar-lokale-myndigheter-etter-dodsfallet-til-senator-1.17956161",
+      "category": "USA",
+      "pubDate": "Sun, 12 Jul 2026 17:41:35 GMT"
+    },
+    {
+      "title": "Flere steder på Østlandet kan få 34 grader",
+      "link": "https://www.nrk.no/nyheter/flere-steder-pa-ostlandet-kan-fa-34-grader-1.17956150",
+      "category": "Været",
+      "pubDate": "Sun, 12 Jul 2026 17:30:39 GMT"
+    },
+    {
+      "title": "Meldinger om nye angrep i Iran og Kuwait",
+      "link": "https://www.nrk.no/nyheter/meldinger-om-nye-angrep-i-iran-og-kuwait-1.17956111",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Jul 2026 17:11:41 GMT"
+    },
     {
       "title": "Valg i Israel 27. oktober",
       "link": "https://www.nrk.no/nyheter/valg-i-israel-27.-oktober-1.17955984",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/ostfold/truet-folk-i-frikirken-og-pa-bussterminalen-i-sarpsborg-1.17956095",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sun, 12 Jul 2026 15:41:55 GMT"
-    },
-    {
-      "title": "En til sykehus etter voldshendelse ved T-banestasjon",
-      "link": "https://www.nrk.no/stor-oslo/en-til-sykehus-etter-voldshendelse-ved-t-banestasjon-1.17955927",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 12 Jul 2026 13:53:42 GMT"
-    },
-    {
-      "title": "Mann hentet opp av vannet",
-      "link": "https://www.nrk.no/sorlandet/mann-hentet-opp-av-vannet-1.17956015",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 12 Jul 2026 13:16:43 GMT"
-    },
-    {
-      "title": "USA: Hormuzstredet åpent",
-      "link": "https://www.nrk.no/nyheter/usa_-hormuzstredet-apent-1.17955975",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 12 Jul 2026 12:17:37 GMT"
-    },
-    {
-      "title": "Britisk politi: Ikke politisk motiv bak drap på politiker",
-      "link": "https://www.nrk.no/nyheter/britisk-politi_-ikke-politisk-motiv-bak-drap-pa-politiker-1.17955966",
-      "category": "Storbritannia",
-      "pubDate": "Sun, 12 Jul 2026 12:05:51 GMT"
     }
   ]
 }
