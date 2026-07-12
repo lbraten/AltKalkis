@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-07-12T15:33:10.447Z",
+  "updatedAt": "2026-07-12T16:59:51.773Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Politiet har stengt av Grønland T-banestasjon",
-      "link": "https://www.nrk.no/stor-oslo/politiet-har-stengt-av-gronland-t-banestasjon-1.17955927",
+      "title": "Valg i Israel 27. oktober",
+      "link": "https://www.nrk.no/nyheter/valg-i-israel-27.-oktober-1.17955984",
+      "category": "Israel",
+      "pubDate": "Sun, 12 Jul 2026 16:16:23 GMT"
+    },
+    {
+      "title": "Truet folk i Frikirken og på bussterminalen i Sarpsborg",
+      "link": "https://www.nrk.no/ostfold/truet-folk-i-frikirken-og-pa-bussterminalen-i-sarpsborg-1.17956095",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 12 Jul 2026 15:41:55 GMT"
+    },
+    {
+      "title": "En til sykehus etter voldshendelse ved T-banestasjon",
+      "link": "https://www.nrk.no/stor-oslo/en-til-sykehus-etter-voldshendelse-ved-t-banestasjon-1.17955927",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 12 Jul 2026 13:53:42 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/britisk-politi_-ikke-politisk-motiv-bak-drap-pa-politiker-1.17955966",
       "category": "Storbritannia",
       "pubDate": "Sun, 12 Jul 2026 12:05:51 GMT"
-    },
-    {
-      "title": "Zelenskyj foreslår å bytte statsminister",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-foreslar-a-bytte-statsminister-1.17955838",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 12 Jul 2026 11:39:26 GMT"
-    },
-    {
-      "title": "Søk etter savnet mann i Øvre Eiker",
-      "link": "https://www.nrk.no/buskerud/sok-etter-savnet-mann-i-ovre-eiker-1.17955889",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sun, 12 Jul 2026 08:40:30 GMT"
     }
   ]
 }
