@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-12T18:04:22.291Z",
+  "updatedAt": "2026-07-12T19:38:55.935Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 27 omkom i brann på pub i Bangkok, ifølge myndighetene",
+      "link": "https://www.nrk.no/nyheter/minst-27-omkom-i-brann-pa-pub-i-bangkok_-ifolge-myndighetene-1.17956203",
+      "category": "Thailand",
+      "pubDate": "Sun, 12 Jul 2026 19:09:20 GMT"
+    },
+    {
+      "title": "Jente (9) og minst fem andre drept i angrep i Gaza, ifølge helsearbeidere",
+      "link": "https://www.nrk.no/nyheter/jente-_9_-og-minst-fem-andre-drept-i-angrep-i-gaza_-ifolge-helsearbeidere-1.17956178",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 12 Jul 2026 18:45:09 GMT"
+    },
+    {
+      "title": "Terroretterforskning etter våpenfunn ved synagoge i Paris",
+      "link": "https://www.nrk.no/nyheter/terroretterforskning-etter-vapenfunn-ved-synagoge-i-paris-1.17956181",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 12 Jul 2026 18:30:19 GMT"
+    },
     {
       "title": "Tolv dødsulykker i trafikken på én uke: – Skremmende feriestart",
       "link": "https://www.nrk.no/nyheter/tolv-dodsulykker-i-trafikken-pa-en-uke_-_-skremmende-feriestart-1.17956170",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-steder-pa-ostlandet-kan-fa-34-grader-1.17956150",
       "category": "Været",
       "pubDate": "Sun, 12 Jul 2026 17:30:39 GMT"
-    },
-    {
-      "title": "Meldinger om nye angrep i Iran og Kuwait",
-      "link": "https://www.nrk.no/nyheter/meldinger-om-nye-angrep-i-iran-og-kuwait-1.17956111",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 12 Jul 2026 17:11:41 GMT"
-    },
-    {
-      "title": "Valg i Israel 27. oktober",
-      "link": "https://www.nrk.no/nyheter/valg-i-israel-27.-oktober-1.17955984",
-      "category": "Israel",
-      "pubDate": "Sun, 12 Jul 2026 16:16:23 GMT"
-    },
-    {
-      "title": "Truet folk i Frikirken og på bussterminalen i Sarpsborg",
-      "link": "https://www.nrk.no/ostfold/truet-folk-i-frikirken-og-pa-bussterminalen-i-sarpsborg-1.17956095",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 12 Jul 2026 15:41:55 GMT"
     }
   ]
 }
