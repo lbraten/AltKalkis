@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-12T21:52:50.004Z",
+  "updatedAt": "2026-07-12T22:51:45.637Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprisene opp etter nye angrep i Iran",
+      "link": "https://www.nrk.no/nyheter/oljeprisene-opp-etter-nye-angrep-i-iran-1.17956268",
+      "category": "Oljeprisen",
+      "pubDate": "Sun, 12 Jul 2026 22:43:15 GMT"
+    },
     {
       "title": "USA med nye angrep mot Iran natt til mandag",
       "link": "https://www.nrk.no/nyheter/usa-med-nye-angrep-mot-iran-natt-til-mandag-1.17956263",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skogbrannen-i-spania-er-under-kontroll-_-dodstallet-oppe-i-13-1.17956232",
       "category": "Spania",
       "pubDate": "Sun, 12 Jul 2026 20:22:17 GMT"
-    },
-    {
-      "title": "Fant savnet kamerat død i fjellet – svensk statsborger omkom i Hattfjelldal",
-      "link": "https://www.nrk.no/nordland/fant-savnet-kamerat-dod-i-fjellet-_-svensk-statsborger-omkom-i-hattfjelldal-1.17956201",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sun, 12 Jul 2026 19:56:11 GMT"
     }
   ]
 }
