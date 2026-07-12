@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-12T10:38:20.824Z",
+  "updatedAt": "2026-07-12T12:02:39.614Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyj foreslår å bytte statsminister",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-foreslar-a-bytte-statsminister-1.17955838",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 12 Jul 2026 11:39:26 GMT"
+    },
     {
       "title": "Brann i tørketrommel på Romsås i Oslo.",
       "link": "https://www.nrk.no/stor-oslo/brann-i-torketrommel-pa-romsas-i-oslo.-1.17955926",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina-hevder-a-ha-angrepet-russisk-oljeraffineri-1.17955798",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 12 Jul 2026 06:56:20 GMT"
-    },
-    {
-      "title": "45 til skadelegevakten i Oslo etter VM-natten",
-      "link": "https://www.nrk.no/nyheter/45-til-skadelegevakten-i-oslo-etter-vm-natten-1.17955775",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Sun, 12 Jul 2026 06:46:59 GMT"
     }
   ]
 }
