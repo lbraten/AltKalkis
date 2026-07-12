@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-12T20:51:49.073Z",
+  "updatedAt": "2026-07-12T21:52:50.004Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA med nye angrep mot Iran natt til mandag",
+      "link": "https://www.nrk.no/nyheter/usa-med-nye-angrep-mot-iran-natt-til-mandag-1.17956263",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Jul 2026 21:38:37 GMT"
+    },
+    {
+      "title": "Brann i fritidsbåt i Haugesund",
+      "link": "https://www.nrk.no/nyheter/brann-i-fritidsbat-i-haugesund-1.17956262",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 12 Jul 2026 21:13:03 GMT"
+    },
+    {
+      "title": "MC- ulykke i Ålesund",
+      "link": "https://www.nrk.no/nyheter/mc--ulykke-i-alesund-1.17956256",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 12 Jul 2026 21:09:09 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Nordre Follo: Tenåring påkjørt av bil",
+      "link": "https://www.nrk.no/nyheter/trafikkulykke-i-nordre-follo_-tenaring-pakjort-av-bil-1.17956253",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 12 Jul 2026 21:04:20 GMT"
+    },
     {
       "title": "Skogbrannen i Spania er under kontroll – dødstallet oppe i 13",
       "link": "https://www.nrk.no/nyheter/skogbrannen-i-spania-er-under-kontroll-_-dodstallet-oppe-i-13-1.17956232",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nordland/fant-savnet-kamerat-dod-i-fjellet-_-svensk-statsborger-omkom-i-hattfjelldal-1.17956201",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sun, 12 Jul 2026 19:56:11 GMT"
-    },
-    {
-      "title": "Dødstallene i Venezuela fortsetter å øke",
-      "link": "https://www.nrk.no/nyheter/dodstallene-i-venezuela-fortsetter-a-oke-1.17956215",
-      "category": "Venezuela",
-      "pubDate": "Sun, 12 Jul 2026 19:41:07 GMT"
-    },
-    {
-      "title": "Minst 27 omkom i brann på pub i Bangkok, ifølge myndighetene",
-      "link": "https://www.nrk.no/nyheter/minst-27-omkom-i-brann-pa-pub-i-bangkok_-ifolge-myndighetene-1.17956203",
-      "category": "Thailand",
-      "pubDate": "Sun, 12 Jul 2026 19:09:20 GMT"
-    },
-    {
-      "title": "Jente (9) og minst fem andre drept i angrep i Gaza, ifølge helsearbeidere",
-      "link": "https://www.nrk.no/nyheter/jente-_9_-og-minst-fem-andre-drept-i-angrep-i-gaza_-ifolge-helsearbeidere-1.17956178",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 12 Jul 2026 18:45:09 GMT"
-    },
-    {
-      "title": "Terroretterforskning etter våpenfunn ved synagoge i Paris",
-      "link": "https://www.nrk.no/nyheter/terroretterforskning-etter-vapenfunn-ved-synagoge-i-paris-1.17956181",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 12 Jul 2026 18:30:19 GMT"
     }
   ]
 }
