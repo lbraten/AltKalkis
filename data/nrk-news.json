@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-12T22:51:45.637Z",
+  "updatedAt": "2026-07-12T23:56:08.952Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere såret i russisk droneangrep i Zaporizjzja-regionen",
+      "link": "https://www.nrk.no/nyheter/flere-saret-i-russisk-droneangrep-i-zaporizjzja-regionen-1.17956272",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 12 Jul 2026 23:06:02 GMT"
+    },
     {
       "title": "Oljeprisene opp etter nye angrep i Iran",
       "link": "https://www.nrk.no/nyheter/oljeprisene-opp-etter-nye-angrep-i-iran-1.17956268",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trafikkulykke-i-nordre-follo_-tenaring-pakjort-av-bil-1.17956253",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 12 Jul 2026 21:04:20 GMT"
-    },
-    {
-      "title": "Skogbrannen i Spania er under kontroll – dødstallet oppe i 13",
-      "link": "https://www.nrk.no/nyheter/skogbrannen-i-spania-er-under-kontroll-_-dodstallet-oppe-i-13-1.17956232",
-      "category": "Spania",
-      "pubDate": "Sun, 12 Jul 2026 20:22:17 GMT"
     }
   ]
 }
