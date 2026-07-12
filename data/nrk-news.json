@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-12T06:18:38.292Z",
+  "updatedAt": "2026-07-12T08:38:07.162Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Indisk statsborger savnet etter angrep mot skip utenfor Oman",
+      "link": "https://www.nrk.no/nyheter/indisk-statsborger-savnet-etter-angrep-mot-skip-utenfor-oman-1.17955833",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 12 Jul 2026 07:19:56 GMT"
+    },
+    {
+      "title": "Jordan rammet av iransk missilangrep",
+      "link": "https://www.nrk.no/nyheter/jordan-rammet-av-iransk-missilangrep-1.17955804",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 12 Jul 2026 07:12:31 GMT"
+    },
+    {
+      "title": "Ukraina hevder å ha angrepet russisk oljeraffineri",
+      "link": "https://www.nrk.no/nyheter/ukraina-hevder-a-ha-angrepet-russisk-oljeraffineri-1.17955798",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 12 Jul 2026 06:56:20 GMT"
+    },
+    {
+      "title": "45 til skadelegevakten i Oslo etter VM-natten",
+      "link": "https://www.nrk.no/nyheter/45-til-skadelegevakten-i-oslo-etter-vm-natten-1.17955775",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Sun, 12 Jul 2026 06:46:59 GMT"
+    },
+    {
+      "title": "Republikansk senator død etter akutt sykdom",
+      "link": "https://www.nrk.no/nyheter/republikansk-senator-dod-etter-akutt-sykdom-1.17955757",
+      "category": "USA",
+      "pubDate": "Sun, 12 Jul 2026 06:22:22 GMT"
+    },
     {
       "title": "Person knivstukket i Bergen",
       "link": "https://www.nrk.no/nyheter/person-knivstukket-i-bergen-1.17955734",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 12 Jul 2026 06:06:28 GMT"
-    },
-    {
-      "title": "Fyll og slåssing etter norsk VM-tap",
-      "link": "https://www.nrk.no/nyheter/fyll-og-slassing-etter-norsk-vm-tap-1.17955707",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Sun, 12 Jul 2026 05:45:14 GMT"
-    },
-    {
-      "title": "Tre drept i russisk droneangrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/tre-drept-i-russisk-droneangrep-i-ukraina-1.17955719",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 12 Jul 2026 05:21:48 GMT"
-    },
-    {
-      "title": "Ungdommer skadet i båtulykke i Bohuslän",
-      "link": "https://www.nrk.no/nyheter/ungdommer-skadet-i-batulykke-i-bohuslan-1.17955713",
-      "category": "Sverige",
-      "pubDate": "Sun, 12 Jul 2026 05:13:04 GMT"
-    },
-    {
-      "title": "Iran hevder å ha truffet nok et skip i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran-hevder-a-ha-truffet-nok-et-skip-i-hormuzstredet-1.17955704",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 12 Jul 2026 04:45:04 GMT"
-    },
-    {
-      "title": "Kjørte av veien og endte i vannet: Fører fløyet til sykehus",
-      "link": "https://www.nrk.no/nyheter/kjorte-av-veien-og-endte-i-vannet_-forer-floyet-til-sykehus-1.17955703",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 12 Jul 2026 04:40:16 GMT"
     }
   ]
 }
