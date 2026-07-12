@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-12T12:02:39.614Z",
+  "updatedAt": "2026-07-12T14:03:45.220Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "AO: Politiet har stengt av Grønland T-banestasjon",
+      "link": "https://www.nrk.no/stor-oslo/ao_-politiet-har-stengt-av-gronland-t-banestasjon-1.17955927",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 12 Jul 2026 13:53:42 GMT"
+    },
+    {
+      "title": "Mann hentet opp av vannet",
+      "link": "https://www.nrk.no/sorlandet/mann-hentet-opp-av-vannet-1.17956015",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 12 Jul 2026 13:16:43 GMT"
+    },
+    {
+      "title": "USA: Hormuzstredet åpent",
+      "link": "https://www.nrk.no/nyheter/usa_-hormuzstredet-apent-1.17955975",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 12 Jul 2026 12:17:37 GMT"
+    },
+    {
+      "title": "Britisk politi: Ikke politisk motiv bak drap på politiker",
+      "link": "https://www.nrk.no/nyheter/britisk-politi_-ikke-politisk-motiv-bak-drap-pa-politiker-1.17955966",
+      "category": "Storbritannia",
+      "pubDate": "Sun, 12 Jul 2026 12:05:51 GMT"
+    },
     {
       "title": "Zelenskyj foreslår å bytte statsminister",
       "link": "https://www.nrk.no/nyheter/zelenskyj-foreslar-a-bytte-statsminister-1.17955838",
@@ -9,34 +33,10 @@
       "pubDate": "Sun, 12 Jul 2026 11:39:26 GMT"
     },
     {
-      "title": "Brann i tørketrommel på Romsås i Oslo.",
-      "link": "https://www.nrk.no/stor-oslo/brann-i-torketrommel-pa-romsas-i-oslo.-1.17955926",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 12 Jul 2026 09:57:49 GMT"
-    },
-    {
       "title": "Søk etter savnet mann i Øvre Eiker",
       "link": "https://www.nrk.no/buskerud/sok-etter-savnet-mann-i-ovre-eiker-1.17955889",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sun, 12 Jul 2026 08:40:30 GMT"
-    },
-    {
-      "title": "Indisk statsborger savnet etter angrep mot skip utenfor Oman",
-      "link": "https://www.nrk.no/nyheter/indisk-statsborger-savnet-etter-angrep-mot-skip-utenfor-oman-1.17955833",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 12 Jul 2026 07:19:56 GMT"
-    },
-    {
-      "title": "Jordan rammet av iransk missilangrep",
-      "link": "https://www.nrk.no/nyheter/jordan-rammet-av-iransk-missilangrep-1.17955804",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 12 Jul 2026 07:12:31 GMT"
-    },
-    {
-      "title": "Ukraina hevder å ha angrepet russisk oljeraffineri",
-      "link": "https://www.nrk.no/nyheter/ukraina-hevder-a-ha-angrepet-russisk-oljeraffineri-1.17955798",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 12 Jul 2026 06:56:20 GMT"
     }
   ]
 }
