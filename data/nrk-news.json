@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-12T19:38:55.935Z",
+  "updatedAt": "2026-07-12T20:51:49.073Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skogbrannen i Spania er under kontroll – dødstallet oppe i 13",
+      "link": "https://www.nrk.no/nyheter/skogbrannen-i-spania-er-under-kontroll-_-dodstallet-oppe-i-13-1.17956232",
+      "category": "Spania",
+      "pubDate": "Sun, 12 Jul 2026 20:22:17 GMT"
+    },
+    {
+      "title": "Fant savnet kamerat død i fjellet – svensk statsborger omkom i Hattfjelldal",
+      "link": "https://www.nrk.no/nordland/fant-savnet-kamerat-dod-i-fjellet-_-svensk-statsborger-omkom-i-hattfjelldal-1.17956201",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sun, 12 Jul 2026 19:56:11 GMT"
+    },
+    {
+      "title": "Dødstallene i Venezuela fortsetter å øke",
+      "link": "https://www.nrk.no/nyheter/dodstallene-i-venezuela-fortsetter-a-oke-1.17956215",
+      "category": "Venezuela",
+      "pubDate": "Sun, 12 Jul 2026 19:41:07 GMT"
+    },
     {
       "title": "Minst 27 omkom i brann på pub i Bangkok, ifølge myndighetene",
       "link": "https://www.nrk.no/nyheter/minst-27-omkom-i-brann-pa-pub-i-bangkok_-ifolge-myndighetene-1.17956203",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/terroretterforskning-etter-vapenfunn-ved-synagoge-i-paris-1.17956181",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 12 Jul 2026 18:30:19 GMT"
-    },
-    {
-      "title": "Tolv dødsulykker i trafikken på én uke: – Skremmende feriestart",
-      "link": "https://www.nrk.no/nyheter/tolv-dodsulykker-i-trafikken-pa-en-uke_-_-skremmende-feriestart-1.17956170",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Sun, 12 Jul 2026 17:55:30 GMT"
-    },
-    {
-      "title": "FBI bistår lokale myndigheter etter dødsfallet til senator",
-      "link": "https://www.nrk.no/nyheter/fbi-bistar-lokale-myndigheter-etter-dodsfallet-til-senator-1.17956161",
-      "category": "USA",
-      "pubDate": "Sun, 12 Jul 2026 17:41:35 GMT"
-    },
-    {
-      "title": "Flere steder på Østlandet kan få 34 grader",
-      "link": "https://www.nrk.no/nyheter/flere-steder-pa-ostlandet-kan-fa-34-grader-1.17956150",
-      "category": "Været",
-      "pubDate": "Sun, 12 Jul 2026 17:30:39 GMT"
     }
   ]
 }
