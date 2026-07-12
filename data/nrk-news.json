@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-12T08:38:07.162Z",
+  "updatedAt": "2026-07-12T10:38:20.824Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i tørketrommel på Romsås i Oslo.",
+      "link": "https://www.nrk.no/stor-oslo/brann-i-torketrommel-pa-romsas-i-oslo.-1.17955926",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 12 Jul 2026 09:57:49 GMT"
+    },
+    {
+      "title": "Søk etter savnet mann i Øvre Eiker",
+      "link": "https://www.nrk.no/buskerud/sok-etter-savnet-mann-i-ovre-eiker-1.17955889",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sun, 12 Jul 2026 08:40:30 GMT"
+    },
     {
       "title": "Indisk statsborger savnet etter angrep mot skip utenfor Oman",
       "link": "https://www.nrk.no/nyheter/indisk-statsborger-savnet-etter-angrep-mot-skip-utenfor-oman-1.17955833",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/45-til-skadelegevakten-i-oslo-etter-vm-natten-1.17955775",
       "category": "Fotball-VM 2026",
       "pubDate": "Sun, 12 Jul 2026 06:46:59 GMT"
-    },
-    {
-      "title": "Republikansk senator død etter akutt sykdom",
-      "link": "https://www.nrk.no/nyheter/republikansk-senator-dod-etter-akutt-sykdom-1.17955757",
-      "category": "USA",
-      "pubDate": "Sun, 12 Jul 2026 06:22:22 GMT"
-    },
-    {
-      "title": "Person knivstukket i Bergen",
-      "link": "https://www.nrk.no/nyheter/person-knivstukket-i-bergen-1.17955734",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 12 Jul 2026 06:06:28 GMT"
     }
   ]
 }
