@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-13T06:38:19.812Z",
+  "updatedAt": "2026-07-13T10:28:20.695Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Spanias statsminister besøkte brannområde",
+      "link": "https://www.nrk.no/nyheter/spanias-statsminister-besokte-brannomrade-1.17956647",
+      "category": "Spania",
+      "pubDate": "Mon, 13 Jul 2026 10:15:55 GMT"
+    },
+    {
+      "title": "Kaller Russlands ambassadører inn på teppet",
+      "link": "https://www.nrk.no/nyheter/kaller-russlands-ambassadorer-inn-pa-teppet-1.17956575",
+      "category": "Frankrike",
+      "pubDate": "Mon, 13 Jul 2026 09:32:44 GMT"
+    },
+    {
+      "title": "Flyet med fotballheltene forsinket fra USA",
+      "link": "https://www.nrk.no/nyheter/flyet-med-fotballheltene-forsinket-fra-usa-1.17956400",
+      "category": "VM-folkefesten 2026",
+      "pubDate": "Mon, 13 Jul 2026 08:53:45 GMT"
+    },
+    {
+      "title": "UD: Ingen informasjon om nordmenn rammet av brann",
+      "link": "https://www.nrk.no/nyheter/ud_-ingen-informasjon-om-nordmenn-rammet-av-brann-1.17956415",
+      "category": "Thailand",
+      "pubDate": "Mon, 13 Jul 2026 07:35:49 GMT"
+    },
+    {
+      "title": "Nye påvisninger av fugleinfluensa i Nordland og Troms",
+      "link": "https://www.nrk.no/nordland/nye-pavisninger-av-fugleinfluensa-i-nordland-og-troms-1.17956419",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Mon, 13 Jul 2026 06:54:09 GMT"
+    },
     {
       "title": "Mange blir solbrent, til tross for at «alle» vet om hudkreftfaren",
       "link": "https://www.nrk.no/nordland/mange-blir-solbrent_-til-tross-for-at-_alle_-vet-om-hudkreftfaren-1.17956387",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Mon, 13 Jul 2026 06:29:19 GMT"
-    },
-    {
-      "title": "672 døde av ebola i Kongo",
-      "link": "https://www.nrk.no/nyheter/672-dode-av-ebola-i-kongo-1.17956347",
-      "category": "Ebola",
-      "pubDate": "Mon, 13 Jul 2026 06:23:37 GMT"
-    },
-    {
-      "title": "Skuespiller Sam Neill er død",
-      "link": "https://www.nrk.no/nyheter/skuespiller-sam-neill-er-dod-1.17956355",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 13 Jul 2026 05:45:26 GMT"
-    },
-    {
-      "title": "Pogačar vil endre sykkelkalenderen etter ekstremvarme",
-      "link": "https://www.nrk.no/sport/poga_ar-vil-endre-sykkelkalenderen-etter-ekstremvarme-1.17956390",
-      "category": "Sykkel",
-      "pubDate": "Mon, 13 Jul 2026 05:35:58 GMT"
-    },
-    {
-      "title": "Tre drept i droneangrep mot Moskva-regionen",
-      "link": "https://www.nrk.no/nyheter/tre-drept-i-droneangrep-mot-moskva-regionen-1.17956382",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 13 Jul 2026 05:35:54 GMT"
-    },
-    {
-      "title": "Oslofjorden sliter: Har hentet opp 700 spøkelsesteiner",
-      "link": "https://www.nrk.no/vestfoldogtelemark/oslofjorden-sliter_-har-hentet-opp-700-spokelsesteiner-1.17956356",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 13 Jul 2026 05:31:12 GMT"
     }
   ]
 }
