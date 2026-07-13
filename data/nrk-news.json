@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-13T10:28:20.695Z",
+  "updatedAt": "2026-07-13T13:00:36.247Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Irans Revolusjonsgarde definert som terrororganisasjon",
+      "link": "https://www.nrk.no/nyheter/irans-revolusjonsgarde-definert-som-terrororganisasjon-1.17956805",
+      "category": "Iran",
+      "pubDate": "Mon, 13 Jul 2026 12:12:10 GMT"
+    },
+    {
+      "title": "Skogbrann i den berømte Fontainebleau-skogen",
+      "link": "https://www.nrk.no/nyheter/skogbrann-i-den-beromte-fontainebleau-skogen-1.17956465",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Mon, 13 Jul 2026 11:43:03 GMT"
+    },
+    {
+      "title": "Tingretten mener Høiby kan sitte hjemme med fotlenke",
+      "link": "https://www.nrk.no/nyheter/tingretten-mener-hoiby-kan-sitte-hjemme-med-fotlenke-1.17956702",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Mon, 13 Jul 2026 10:47:15 GMT"
+    },
+    {
+      "title": "Mann i 80-årene siktet etter dødsulykke på E6",
+      "link": "https://www.nrk.no/trondelag/mann-i-80-arene-siktet-etter-dodsulykke-pa-e6-1.17956421",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 13 Jul 2026 10:27:31 GMT"
+    },
     {
       "title": "Spanias statsminister besøkte brannområde",
       "link": "https://www.nrk.no/nyheter/spanias-statsminister-besokte-brannomrade-1.17956647",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kaller-russlands-ambassadorer-inn-pa-teppet-1.17956575",
       "category": "Frankrike",
       "pubDate": "Mon, 13 Jul 2026 09:32:44 GMT"
-    },
-    {
-      "title": "Flyet med fotballheltene forsinket fra USA",
-      "link": "https://www.nrk.no/nyheter/flyet-med-fotballheltene-forsinket-fra-usa-1.17956400",
-      "category": "VM-folkefesten 2026",
-      "pubDate": "Mon, 13 Jul 2026 08:53:45 GMT"
-    },
-    {
-      "title": "UD: Ingen informasjon om nordmenn rammet av brann",
-      "link": "https://www.nrk.no/nyheter/ud_-ingen-informasjon-om-nordmenn-rammet-av-brann-1.17956415",
-      "category": "Thailand",
-      "pubDate": "Mon, 13 Jul 2026 07:35:49 GMT"
-    },
-    {
-      "title": "Nye påvisninger av fugleinfluensa i Nordland og Troms",
-      "link": "https://www.nrk.no/nordland/nye-pavisninger-av-fugleinfluensa-i-nordland-og-troms-1.17956419",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Mon, 13 Jul 2026 06:54:09 GMT"
-    },
-    {
-      "title": "Mange blir solbrent, til tross for at «alle» vet om hudkreftfaren",
-      "link": "https://www.nrk.no/nordland/mange-blir-solbrent_-til-tross-for-at-_alle_-vet-om-hudkreftfaren-1.17956387",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Mon, 13 Jul 2026 06:29:19 GMT"
     }
   ]
 }
