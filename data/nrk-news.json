@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-12T23:56:08.952Z",
+  "updatedAt": "2026-07-13T03:27:34.673Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA har gjennomført ny runde med angrep i Iran",
+      "link": "https://www.nrk.no/nyheter/usa-har-gjennomfort-ny-runde-med-angrep-i-iran-1.17956277",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 13 Jul 2026 02:57:32 GMT"
+    },
+    {
+      "title": "IRNA: Én drept og fire såret sør i Iran",
+      "link": "https://www.nrk.no/nyheter/irna_-en-drept-og-fire-saret-sor-i-iran-1.17956274",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 13 Jul 2026 01:08:32 GMT"
+    },
     {
       "title": "Flere såret i russisk droneangrep i Zaporizjzja-regionen",
       "link": "https://www.nrk.no/nyheter/flere-saret-i-russisk-droneangrep-i-zaporizjzja-regionen-1.17956272",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brann-i-fritidsbat-i-haugesund-1.17956262",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 12 Jul 2026 21:13:03 GMT"
-    },
-    {
-      "title": "MC- ulykke i Ålesund",
-      "link": "https://www.nrk.no/nyheter/mc--ulykke-i-alesund-1.17956256",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 12 Jul 2026 21:09:09 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Nordre Follo: Tenåring påkjørt av bil",
-      "link": "https://www.nrk.no/nyheter/trafikkulykke-i-nordre-follo_-tenaring-pakjort-av-bil-1.17956253",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 12 Jul 2026 21:04:20 GMT"
     }
   ]
 }
