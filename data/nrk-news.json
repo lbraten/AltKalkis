@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-13T22:27:44.780Z",
+  "updatedAt": "2026-07-13T23:27:41.974Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Emiratene: Én drept i angrep i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/emiratene_-en-drept-i-angrep-i-hormuzstredet-1.17957247",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 13 Jul 2026 22:45:47 GMT"
+    },
+    {
+      "title": "Trump: Iran-avtale er «mulig»",
+      "link": "https://www.nrk.no/nyheter/trump_-iran-avtale-er-_mulig_-1.17957243",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 13 Jul 2026 22:32:11 GMT"
+    },
     {
       "title": "Ukraina: Missilangrep mot Kyiv",
       "link": "https://www.nrk.no/nyheter/ukraina_-missilangrep-mot-kyiv-1.17957242",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-varsler-kraftige-angrep-1.17957184",
       "category": "Forholdet Iran – USA",
       "pubDate": "Mon, 13 Jul 2026 20:22:36 GMT"
-    },
-    {
-      "title": "Søker etter savnet mann på Notodden",
-      "link": "https://www.nrk.no/vestfoldogtelemark/soker-etter-savnet-mann-pa-notodden-1.17957159",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 13 Jul 2026 19:50:42 GMT"
-    },
-    {
-      "title": "Politiet har kontroll i Mandal fengsel",
-      "link": "https://www.nrk.no/sorlandet/politiet-har-kontroll-i-mandal-fengsel--1.17957141",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 13 Jul 2026 19:41:35 GMT"
     }
   ]
 }
