@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-13T16:03:50.124Z",
+  "updatedAt": "2026-07-13T18:16:12.204Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amerikansk Iran-blokade ved Hormuzstredet iverksettes tirsdag kveld",
+      "link": "https://www.nrk.no/nyheter/amerikansk-iran-blokade-ved-hormuzstredet-iverksettes-tirsdag-kveld-1.17957100",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 13 Jul 2026 18:10:26 GMT"
+    },
+    {
+      "title": "Innsatte gjør skadeverk og utagerer",
+      "link": "https://www.nrk.no/sorlandet/innsatte-gjor-skadeverk-og-utagerer--1.17957032",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 13 Jul 2026 17:26:39 GMT"
+    },
+    {
+      "title": "Ukrainas statsminister går av",
+      "link": "https://www.nrk.no/nyheter/ukrainas-statsminister-gar-av-1.17957038",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 13 Jul 2026 17:25:51 GMT"
+    },
+    {
+      "title": "Equinor får bruke bråkete helikopter: – Aksepterer at tilsette får tinnitus",
+      "link": "https://www.nrk.no/vestland/equinor-far-bruke-brakete-helikopter_-_-aksepterer-at-tilsette-far-tinnitus-1.17957026",
+      "category": "Equinor",
+      "pubDate": "Mon, 13 Jul 2026 16:58:19 GMT"
+    },
+    {
+      "title": "Støre på europeisk toppmøte om Ukraina",
+      "link": "https://www.nrk.no/nyheter/store-pa-europeisk-toppmote-om-ukraina-1.17957012",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 13 Jul 2026 16:29:05 GMT"
+    },
     {
       "title": "USA vil sørge for at ICC ikke kan straffeforfølge amerikanere",
       "link": "https://www.nrk.no/nyheter/usa-vil-sorge-for-at-icc-ikke-kan-straffeforfolge-amerikanere-1.17956871",
       "category": "USA",
       "pubDate": "Mon, 13 Jul 2026 15:52:21 GMT"
-    },
-    {
-      "title": "EU-kommisjonen varsler aldersbegrensninger på sosiale medier",
-      "link": "https://www.nrk.no/nyheter/eu-kommisjonen-varsler-aldersbegrensninger-pa-sosiale-medier-1.17957009",
-      "category": "Sosiale medier",
-      "pubDate": "Mon, 13 Jul 2026 15:34:18 GMT"
-    },
-    {
-      "title": "Norge inn i missil-allianse",
-      "link": "https://www.nrk.no/nyheter/norge-inn-i-missil-allianse-1.17956993",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 13 Jul 2026 15:29:42 GMT"
-    },
-    {
-      "title": "Equinor opp nesten 5 prosent etter sterk oljedag på Oslo Børs",
-      "link": "https://www.nrk.no/nyheter/equinor-opp-nesten-5-prosent-etter-sterk-oljedag-pa-oslo-bors-1.17956984",
-      "category": "Oslo Børs",
-      "pubDate": "Mon, 13 Jul 2026 15:06:47 GMT"
-    },
-    {
-      "title": "FN advarer: El Niño ser ut til å bli enda verre enn sist",
-      "link": "https://www.nrk.no/nyheter/fn-advarer_-el-nino-ser-ut-til-a-bli-enda-verre-enn-sist-1.17956946",
-      "category": "Klima og miljø",
-      "pubDate": "Mon, 13 Jul 2026 14:31:29 GMT"
-    },
-    {
-      "title": "Oljestreiken fortsetter",
-      "link": "https://www.nrk.no/nyheter/oljestreiken-fortsetter-1.17956933",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Mon, 13 Jul 2026 13:53:34 GMT"
     }
   ]
 }
