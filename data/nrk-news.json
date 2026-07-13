@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-13T19:58:30.603Z",
+  "updatedAt": "2026-07-13T21:06:46.825Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To pågrepet for skogbrann i Frankrike",
+      "link": "https://www.nrk.no/nyheter/to-pagrepet-for-skogbrann-i-frankrike-1.17957230",
+      "category": "Frankrike",
+      "pubDate": "Mon, 13 Jul 2026 20:23:30 GMT"
+    },
+    {
+      "title": "Trump varsler kraftige angrep",
+      "link": "https://www.nrk.no/nyheter/trump-varsler-kraftige-angrep-1.17957184",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 13 Jul 2026 20:22:36 GMT"
+    },
+    {
+      "title": "Søker etter savnet mann på Notodden",
+      "link": "https://www.nrk.no/vestfoldogtelemark/soker-etter-savnet-mann-pa-notodden-1.17957159",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 13 Jul 2026 19:50:42 GMT"
+    },
     {
       "title": "Politiet har kontroll i Mandal fengsel",
       "link": "https://www.nrk.no/sorlandet/politiet-har-kontroll-i-mandal-fengsel--1.17957141",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukrainsk-offiser-anklaget-for-a-ha-beordret-drap-pa-sivile-1.17957163",
       "category": "Krigen i Ukraina",
       "pubDate": "Mon, 13 Jul 2026 19:09:15 GMT"
-    },
-    {
-      "title": "Ruter ber folk være tålmodige etter VM-festen",
-      "link": "https://www.nrk.no/stor-oslo/ruter-ber-folk-vaere-talmodige-etter-vm-festen-1.17957116",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 13 Jul 2026 18:45:13 GMT"
-    },
-    {
-      "title": "Over 4500 døde etter jordskjelvet i Venezuela",
-      "link": "https://www.nrk.no/nyheter/over-4500-dode-etter-jordskjelvet-i-venezuela-1.17957140",
-      "category": "Venezuela",
-      "pubDate": "Mon, 13 Jul 2026 18:36:29 GMT"
-    },
-    {
-      "title": "Utageringen i Mandal fengsel - Ledelsen sier de har kontroll",
-      "link": "https://www.nrk.no/sorlandet/utageringen-i-mandal-fengsel---ledelsen-sier-de-har-kontroll-1.17957101",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 13 Jul 2026 18:10:38 GMT"
     }
   ]
 }
