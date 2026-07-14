@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-14T21:30:33.712Z",
+  "updatedAt": "2026-07-14T22:57:24.411Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump til Fox News: Truer med å angripe kraftanlegg",
+      "link": "https://www.nrk.no/nyheter/trump-til-fox-news_-truer-med-a-angripe-kraftanlegg-1.17958405",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Jul 2026 22:41:32 GMT"
+    },
+    {
+      "title": "Ebolatallene stiger i DR Kongo",
+      "link": "https://www.nrk.no/nyheter/ebolatallene-stiger-i-dr-kongo-1.17958401",
+      "category": "Ebola",
+      "pubDate": "Tue, 14 Jul 2026 22:24:49 GMT"
+    },
+    {
+      "title": "Kåra årets unge jazzmusikarar",
+      "link": "https://www.nrk.no/mr/kara-arets-unge-jazzmusikarar-1.17958382",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Tue, 14 Jul 2026 20:42:39 GMT"
+    },
+    {
+      "title": "Har kontroll på brannen i Sel",
+      "link": "https://www.nrk.no/innlandet/har-kontroll-pa-brannen-i-sel-1.17958369",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Tue, 14 Jul 2026 20:37:25 GMT"
+    },
     {
       "title": "USAs sjøblokade mot Iran er iverksatt",
       "link": "https://www.nrk.no/nyheter/usas-sjoblokade-mot-iran-er-iverksatt-1.17958383",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kuwait_-fire-skadet-etter-angrep-mot-marinefartoy-1.17958365",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 14 Jul 2026 20:18:16 GMT"
-    },
-    {
-      "title": "Revolusjonsgarden: Ikke en dråpe olje vil bli eksportert",
-      "link": "https://www.nrk.no/nyheter/revolusjonsgarden_-ikke-en-drape-olje-vil-bli-eksportert-1.17958364",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 14 Jul 2026 19:51:30 GMT"
-    },
-    {
-      "title": "Over 4700 døde etter jordskjelvet i Venezuela",
-      "link": "https://www.nrk.no/nyheter/over-4700-dode-etter-jordskjelvet-i-venezuela-1.17958349",
-      "category": "Venezuela",
-      "pubDate": "Tue, 14 Jul 2026 19:48:53 GMT"
-    },
-    {
-      "title": "Observerte sin egen båt på vannet - tyver pågrepet i havna",
-      "link": "https://www.nrk.no/vestfoldogtelemark/observerte-sin-egen-bat-pa-vannet---tyver-pagrepet-i-havna-1.17958286",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 14 Jul 2026 19:41:53 GMT"
-    },
-    {
-      "title": "Skogbrannen i Frankrike: Brannmann innrømmer brannstiftelse",
-      "link": "https://www.nrk.no/nyheter/-skogbrannen-i-frankrike_-brannmann-innrommer-brannstiftelse-1.17958312",
-      "category": "Frankrike",
-      "pubDate": "Tue, 14 Jul 2026 19:10:25 GMT"
     }
   ]
 }
