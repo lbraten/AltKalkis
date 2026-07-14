@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-14T20:13:19.765Z",
+  "updatedAt": "2026-07-14T21:30:33.712Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USAs sjøblokade mot Iran er iverksatt",
+      "link": "https://www.nrk.no/nyheter/usas-sjoblokade-mot-iran-er-iverksatt-1.17958383",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 14 Jul 2026 20:20:24 GMT"
+    },
+    {
+      "title": "Kuwait: Fire skadet etter angrep mot marinefartøy",
+      "link": "https://www.nrk.no/nyheter/kuwait_-fire-skadet-etter-angrep-mot-marinefartoy-1.17958365",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Jul 2026 20:18:16 GMT"
+    },
     {
       "title": "Revolusjonsgarden: Ikke en dråpe olje vil bli eksportert",
       "link": "https://www.nrk.no/nyheter/revolusjonsgarden_-ikke-en-drape-olje-vil-bli-eksportert-1.17958364",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/-skogbrannen-i-frankrike_-brannmann-innrommer-brannstiftelse-1.17958312",
       "category": "Frankrike",
       "pubDate": "Tue, 14 Jul 2026 19:10:25 GMT"
-    },
-    {
-      "title": "Stor utrykning i Oslo etter smell – trolig snakk om paintball",
-      "link": "https://www.nrk.no/stor-oslo/stor-utrykning-i-oslo-etter-smell-_-trolig-snakk-om-paintball-1.17958189",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 14 Jul 2026 18:36:25 GMT"
-    },
-    {
-      "title": "USA: Demonstrasjoner mot Ice i Maine",
-      "link": "https://www.nrk.no/nyheter/usa_-demonstrasjoner-mot-ice-i-maine-1.17958228",
-      "category": "USA",
-      "pubDate": "Tue, 14 Jul 2026 18:18:03 GMT"
     }
   ]
 }
