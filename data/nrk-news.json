@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-07-14T10:48:10.800Z",
+  "updatedAt": "2026-07-14T12:14:28.089Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Slottet om Høiby: – Kronprinsparet ønsker å bistå ham",
+      "link": "https://www.nrk.no/nyheter/slottet-om-hoiby_-_-kronprinsparet-onsker-a-bista-ham-1.17957761",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Tue, 14 Jul 2026 11:59:17 GMT"
+    },
+    {
       "title": "Eksplosjon på skip eid av norsk rederi utenfor Oman",
       "link": "https://www.nrk.no/nyheter/eksplosjon-pa-skip-eid-av-norsk-rederi-utenfor-oman-1.17957618",
-      "category": "NRK Nyheter",
+      "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 14 Jul 2026 10:36:54 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina_-utfort-11-nye-droneangrep-i-azovhavet-1.17957460",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 14 Jul 2026 07:45:24 GMT"
-    },
-    {
-      "title": "UKMTO: Rapportert om missil-hendelse med tankskip utenfor Oman",
-      "link": "https://www.nrk.no/nyheter/ukmto_-rapportert-om-missil-hendelse-med-tankskip-utenfor-oman-1.17957447",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Jul 2026 07:35:38 GMT"
     }
   ]
 }
