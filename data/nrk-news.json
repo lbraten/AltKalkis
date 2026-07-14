@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-13T23:27:41.974Z",
+  "updatedAt": "2026-07-14T00:55:13.319Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ny utenriksminister i Venezuela",
+      "link": "https://www.nrk.no/nyheter/ny-utenriksminister-i-venezuela-1.17957267",
+      "category": "Venezuela",
+      "pubDate": "Tue, 14 Jul 2026 00:52:47 GMT"
+    },
+    {
+      "title": "Alarmen går i Bahrain",
+      "link": "https://www.nrk.no/nyheter/alarmen-gar-i-bahrain-1.17957248",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 13 Jul 2026 23:54:22 GMT"
+    },
     {
       "title": "Emiratene: Én drept i angrep i Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/emiratene_-en-drept-i-angrep-i-hormuzstredet-1.17957247",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa_-har-startet-nye-angrep-mot-iran-1.17957241",
       "category": "Forholdet Iran – USA",
       "pubDate": "Mon, 13 Jul 2026 21:22:52 GMT"
-    },
-    {
-      "title": "To pågrepet for skogbrann i Frankrike",
-      "link": "https://www.nrk.no/nyheter/to-pagrepet-for-skogbrann-i-frankrike-1.17957230",
-      "category": "Frankrike",
-      "pubDate": "Mon, 13 Jul 2026 20:23:30 GMT"
-    },
-    {
-      "title": "Trump varsler kraftige angrep",
-      "link": "https://www.nrk.no/nyheter/trump-varsler-kraftige-angrep-1.17957184",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 13 Jul 2026 20:22:36 GMT"
     }
   ]
 }
