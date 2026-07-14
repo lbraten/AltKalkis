@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-14T03:57:24.205Z",
+  "updatedAt": "2026-07-14T06:19:14.994Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "USA: Er ferdige med angrep i Iran",
-      "link": "https://www.nrk.no/nyheter/usa_-er-ferdige-med-angrep-i-iran-1.17957282",
+      "title": "DNB med resultat etter skatt på 9,8 mrd. i andre kvartal",
+      "link": "https://www.nrk.no/nyheter/dnb-med-resultat-etter-skatt-pa-9_8-mrd.-i-andre-kvartal-1.17957361",
+      "category": "DNB",
+      "pubDate": "Tue, 14 Jul 2026 05:38:19 GMT"
+    },
+    {
+      "title": "En pågrepet etter påkjørsel av norsk tenåring i Marbella",
+      "link": "https://www.nrk.no/nyheter/en-pagrepet-etter-pakjorsel-av-norsk-tenaring-i-marbella-1.17957350",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Tue, 14 Jul 2026 05:28:30 GMT"
+    },
+    {
+      "title": "Ny rettssak starter i dag: Norsk 19-åring på tiltalebenken i London igjen",
+      "link": "https://www.nrk.no/rogaland/ny-rettssak-starter-i-dag_-norsk-19-aring-pa-tiltalebenken-i-london-igjen-1.17957314",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Tue, 14 Jul 2026 05:08:17 GMT"
+    },
+    {
+      "title": "Norwegian gikk 761 millioner kroner i minus i andre kvartal",
+      "link": "https://www.nrk.no/nyheter/norwegian-gikk-761-millioner-kroner-i-minus-i-andre-kvartal-1.17957343",
+      "category": "Flyselskapet Norwegian",
+      "pubDate": "Tue, 14 Jul 2026 05:05:17 GMT"
+    },
+    {
+      "title": "Ansatt på bofellesskap skal ha blitt slått i ansiktet",
+      "link": "https://www.nrk.no/nyheter/ansatt-pa-bofellesskap-skal-ha-blitt-slatt-i-ansiktet-1.17957331",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 14 Jul 2026 05:01:01 GMT"
+    },
+    {
+      "title": "Reuters: Trump varslet Kongressen om at Iran-angrep er gjenopptatt",
+      "link": "https://www.nrk.no/nyheter/reuters_-trump-varslet-kongressen-om-at-iran-angrep-er-gjenopptatt-1.17957322",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Jul 2026 02:59:28 GMT"
-    },
-    {
-      "title": "Høyeste oljepris på en måned",
-      "link": "https://www.nrk.no/nyheter/hoyeste-oljepris-pa-en-maned-1.17957280",
-      "category": "Oljeprisen",
-      "pubDate": "Tue, 14 Jul 2026 02:16:11 GMT"
-    },
-    {
-      "title": "Ny utenriksminister i Venezuela",
-      "link": "https://www.nrk.no/nyheter/ny-utenriksminister-i-venezuela-1.17957267",
-      "category": "Venezuela",
-      "pubDate": "Tue, 14 Jul 2026 00:52:47 GMT"
-    },
-    {
-      "title": "Alarmen går i Bahrain",
-      "link": "https://www.nrk.no/nyheter/alarmen-gar-i-bahrain-1.17957248",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 13 Jul 2026 23:54:22 GMT"
-    },
-    {
-      "title": "Emiratene: Én drept i angrep i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/emiratene_-en-drept-i-angrep-i-hormuzstredet-1.17957247",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 13 Jul 2026 22:45:47 GMT"
-    },
-    {
-      "title": "Trump: Iran-avtale er «mulig»",
-      "link": "https://www.nrk.no/nyheter/trump_-iran-avtale-er-_mulig_-1.17957243",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 13 Jul 2026 22:32:11 GMT"
+      "pubDate": "Tue, 14 Jul 2026 04:30:10 GMT"
     }
   ]
 }
