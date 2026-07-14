@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-07-14T18:39:09.670Z",
+  "updatedAt": "2026-07-14T20:13:19.765Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Mulig skudd på St. Hanshaugen i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/mulig-skudd-pa-st.-hanshaugen-i-oslo-1.17958189",
+      "title": "Revolusjonsgarden: Ikke en dråpe olje vil bli eksportert",
+      "link": "https://www.nrk.no/nyheter/revolusjonsgarden_-ikke-en-drape-olje-vil-bli-eksportert-1.17958364",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 14 Jul 2026 19:51:30 GMT"
+    },
+    {
+      "title": "Over 4700 døde etter jordskjelvet i Venezuela",
+      "link": "https://www.nrk.no/nyheter/over-4700-dode-etter-jordskjelvet-i-venezuela-1.17958349",
+      "category": "Venezuela",
+      "pubDate": "Tue, 14 Jul 2026 19:48:53 GMT"
+    },
+    {
+      "title": "Observerte sin egen båt på vannet - tyver pågrepet i havna",
+      "link": "https://www.nrk.no/vestfoldogtelemark/observerte-sin-egen-bat-pa-vannet---tyver-pagrepet-i-havna-1.17958286",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 14 Jul 2026 19:41:53 GMT"
+    },
+    {
+      "title": "Skogbrannen i Frankrike: Brannmann innrømmer brannstiftelse",
+      "link": "https://www.nrk.no/nyheter/-skogbrannen-i-frankrike_-brannmann-innrommer-brannstiftelse-1.17958312",
+      "category": "Frankrike",
+      "pubDate": "Tue, 14 Jul 2026 19:10:25 GMT"
+    },
+    {
+      "title": "Stor utrykning i Oslo etter smell – trolig snakk om paintball",
+      "link": "https://www.nrk.no/stor-oslo/stor-utrykning-i-oslo-etter-smell-_-trolig-snakk-om-paintball-1.17958189",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 14 Jul 2026 18:36:25 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa_-demonstrasjoner-mot-ice-i-maine-1.17958228",
       "category": "USA",
       "pubDate": "Tue, 14 Jul 2026 18:18:03 GMT"
-    },
-    {
-      "title": "Klager på fellingstillatelse: – Bygger på mangelfull vurdering",
-      "link": "https://www.nrk.no/innlandet/klager-pa-fellingstillatelse_-_-bygger-pa-mangelfull-vurdering-1.17958178",
-      "category": "Ulv i Innlandet",
-      "pubDate": "Tue, 14 Jul 2026 18:11:01 GMT"
-    },
-    {
-      "title": "Sparkesykkel målt til 90 km/t",
-      "link": "https://www.nrk.no/vestfoldogtelemark/sparkesykkel-malt-til-90-km_t-1.17958219",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 14 Jul 2026 17:38:31 GMT"
-    },
-    {
-      "title": "Dinosaurskjelett solgt for rekordpris",
-      "link": "https://www.nrk.no/nyheter/dinosaurskjelett-solgt-for-rekordpris-1.17958187",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 14 Jul 2026 17:01:17 GMT"
-    },
-    {
-      "title": "Truffet av propell i vannet - redningshelikopter på vei",
-      "link": "https://www.nrk.no/vestfoldogtelemark/truffet-av-propell-i-vannet---redningshelikopter-pa-vei-1.17958215",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 14 Jul 2026 16:55:02 GMT"
     }
   ]
 }
