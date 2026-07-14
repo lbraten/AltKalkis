@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-14T00:55:13.319Z",
+  "updatedAt": "2026-07-14T03:57:24.205Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA: Er ferdige med angrep i Iran",
+      "link": "https://www.nrk.no/nyheter/usa_-er-ferdige-med-angrep-i-iran-1.17957282",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Jul 2026 02:59:28 GMT"
+    },
+    {
+      "title": "Høyeste oljepris på en måned",
+      "link": "https://www.nrk.no/nyheter/hoyeste-oljepris-pa-en-maned-1.17957280",
+      "category": "Oljeprisen",
+      "pubDate": "Tue, 14 Jul 2026 02:16:11 GMT"
+    },
     {
       "title": "Ny utenriksminister i Venezuela",
       "link": "https://www.nrk.no/nyheter/ny-utenriksminister-i-venezuela-1.17957267",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-iran-avtale-er-_mulig_-1.17957243",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 13 Jul 2026 22:32:11 GMT"
-    },
-    {
-      "title": "Ukraina: Missilangrep mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/ukraina_-missilangrep-mot-kyiv-1.17957242",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 13 Jul 2026 21:37:32 GMT"
-    },
-    {
-      "title": "USA: Har startet nye angrep mot Iran",
-      "link": "https://www.nrk.no/nyheter/usa_-har-startet-nye-angrep-mot-iran-1.17957241",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 13 Jul 2026 21:22:52 GMT"
     }
   ]
 }
