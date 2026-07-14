@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-14T22:57:24.411Z",
+  "updatedAt": "2026-07-14T23:59:04.817Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA: Iran har angrepet sju skip på sju dager",
+      "link": "https://www.nrk.no/nyheter/usa_-iran-har-angrepet-sju-skip-pa-sju-dager-1.17958407",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Jul 2026 23:55:19 GMT"
+    },
     {
       "title": "Trump til Fox News: Truer med å angripe kraftanlegg",
       "link": "https://www.nrk.no/nyheter/trump-til-fox-news_-truer-med-a-angripe-kraftanlegg-1.17958405",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usas-sjoblokade-mot-iran-er-iverksatt-1.17958383",
       "category": "Forholdet Iran – USA",
       "pubDate": "Tue, 14 Jul 2026 20:20:24 GMT"
-    },
-    {
-      "title": "Kuwait: Fire skadet etter angrep mot marinefartøy",
-      "link": "https://www.nrk.no/nyheter/kuwait_-fire-skadet-etter-angrep-mot-marinefartoy-1.17958365",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Jul 2026 20:18:16 GMT"
     }
   ]
 }
