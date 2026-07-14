@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-14T06:19:14.994Z",
+  "updatedAt": "2026-07-14T08:35:59.413Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Vil ikke åpne Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran_-vil-ikke-apne-hormuzstredet_-1.17957363",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Jul 2026 08:09:31 GMT"
+    },
+    {
+      "title": "Ukraina: Utført 11 nye droneangrep i Azovhavet",
+      "link": "https://www.nrk.no/nyheter/ukraina_-utfort-11-nye-droneangrep-i-azovhavet-1.17957460",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 14 Jul 2026 07:45:24 GMT"
+    },
+    {
+      "title": "UKMTO: Rapportert om missil-hendelse med tankskip utenfor Oman",
+      "link": "https://www.nrk.no/nyheter/ukmto_-rapportert-om-missil-hendelse-med-tankskip-utenfor-oman-1.17957447",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Jul 2026 07:35:38 GMT"
+    },
+    {
+      "title": "Bahrain sier de har avskåret flere iranske angrep",
+      "link": "https://www.nrk.no/nyheter/bahrain-sier-de-har-avskaret-flere-iranske-angrep-1.17957371",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 14 Jul 2026 07:23:14 GMT"
+    },
+    {
+      "title": "Meteorologisk institutt: Hetebølge åtte steder i Sør-Norge",
+      "link": "https://www.nrk.no/nyheter/meteorologisk-institutt_-hetebolge-atte-steder-i-sor-norge-1.17957440",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Tue, 14 Jul 2026 07:15:53 GMT"
+    },
     {
       "title": "DNB med resultat etter skatt på 9,8 mrd. i andre kvartal",
       "link": "https://www.nrk.no/nyheter/dnb-med-resultat-etter-skatt-pa-9_8-mrd.-i-andre-kvartal-1.17957361",
       "category": "DNB",
       "pubDate": "Tue, 14 Jul 2026 05:38:19 GMT"
-    },
-    {
-      "title": "En pågrepet etter påkjørsel av norsk tenåring i Marbella",
-      "link": "https://www.nrk.no/nyheter/en-pagrepet-etter-pakjorsel-av-norsk-tenaring-i-marbella-1.17957350",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Tue, 14 Jul 2026 05:28:30 GMT"
-    },
-    {
-      "title": "Ny rettssak starter i dag: Norsk 19-åring på tiltalebenken i London igjen",
-      "link": "https://www.nrk.no/rogaland/ny-rettssak-starter-i-dag_-norsk-19-aring-pa-tiltalebenken-i-london-igjen-1.17957314",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Tue, 14 Jul 2026 05:08:17 GMT"
-    },
-    {
-      "title": "Norwegian gikk 761 millioner kroner i minus i andre kvartal",
-      "link": "https://www.nrk.no/nyheter/norwegian-gikk-761-millioner-kroner-i-minus-i-andre-kvartal-1.17957343",
-      "category": "Flyselskapet Norwegian",
-      "pubDate": "Tue, 14 Jul 2026 05:05:17 GMT"
-    },
-    {
-      "title": "Ansatt på bofellesskap skal ha blitt slått i ansiktet",
-      "link": "https://www.nrk.no/nyheter/ansatt-pa-bofellesskap-skal-ha-blitt-slatt-i-ansiktet-1.17957331",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 14 Jul 2026 05:01:01 GMT"
-    },
-    {
-      "title": "Reuters: Trump varslet Kongressen om at Iran-angrep er gjenopptatt",
-      "link": "https://www.nrk.no/nyheter/reuters_-trump-varslet-kongressen-om-at-iran-angrep-er-gjenopptatt-1.17957322",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Jul 2026 04:30:10 GMT"
     }
   ]
 }
