@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-14T08:35:59.413Z",
+  "updatedAt": "2026-07-14T10:48:10.800Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eksplosjon på skip eid av norsk rederi utenfor Oman",
+      "link": "https://www.nrk.no/nyheter/eksplosjon-pa-skip-eid-av-norsk-rederi-utenfor-oman-1.17957618",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 14 Jul 2026 10:36:54 GMT"
+    },
+    {
+      "title": "Dropper anke – Høiby får sitte i varetekt med fotlenke hjemme",
+      "link": "https://www.nrk.no/nyheter/dropper-anke-_-hoiby-far-sitte-i-varetekt-med-fotlenke-hjemme-1.17957441",
+      "category": "high",
+      "pubDate": "Tue, 14 Jul 2026 10:07:05 GMT"
+    },
+    {
+      "title": "Kronprinsessen er skrevet ut fra sykehus",
+      "link": "https://www.nrk.no/nyheter/kronprinsessen-er-skrevet-ut-fra-sykehus-1.17957475",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Tue, 14 Jul 2026 09:00:51 GMT"
+    },
     {
       "title": "Iran: Vil ikke åpne Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/iran_-vil-ikke-apne-hormuzstredet_-1.17957363",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukmto_-rapportert-om-missil-hendelse-med-tankskip-utenfor-oman-1.17957447",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 14 Jul 2026 07:35:38 GMT"
-    },
-    {
-      "title": "Bahrain sier de har avskåret flere iranske angrep",
-      "link": "https://www.nrk.no/nyheter/bahrain-sier-de-har-avskaret-flere-iranske-angrep-1.17957371",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Jul 2026 07:23:14 GMT"
-    },
-    {
-      "title": "Meteorologisk institutt: Hetebølge åtte steder i Sør-Norge",
-      "link": "https://www.nrk.no/nyheter/meteorologisk-institutt_-hetebolge-atte-steder-i-sor-norge-1.17957440",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Tue, 14 Jul 2026 07:15:53 GMT"
-    },
-    {
-      "title": "DNB med resultat etter skatt på 9,8 mrd. i andre kvartal",
-      "link": "https://www.nrk.no/nyheter/dnb-med-resultat-etter-skatt-pa-9_8-mrd.-i-andre-kvartal-1.17957361",
-      "category": "DNB",
-      "pubDate": "Tue, 14 Jul 2026 05:38:19 GMT"
     }
   ]
 }
