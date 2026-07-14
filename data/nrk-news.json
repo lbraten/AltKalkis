@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-14T15:57:07.369Z",
+  "updatedAt": "2026-07-14T17:21:26.702Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dinosaurskjelett solgt for rekordpris",
+      "link": "https://www.nrk.no/nyheter/dinosaurskjelett-solgt-for-rekordpris-1.17958187",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 14 Jul 2026 17:01:17 GMT"
+    },
+    {
+      "title": "Truffet av propell i vannet - redningshelikopter på vei",
+      "link": "https://www.nrk.no/vestfoldogtelemark/truffet-av-propell-i-vannet---redningshelikopter-pa-vei-1.17958215",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 14 Jul 2026 16:55:02 GMT"
+    },
+    {
+      "title": "Cubas strømnett kollapset for tredje gang på ni dager",
+      "link": "https://www.nrk.no/nyheter/cubas-stromnett-kollapset-for-tredje-gang-pa-ni-dager-1.17958171",
+      "category": "Cuba",
+      "pubDate": "Tue, 14 Jul 2026 16:02:03 GMT"
+    },
     {
       "title": "Gir tillatelse for skadefelling på genetisk viktig ulv",
       "link": "https://www.nrk.no/innlandet/gir-tillatelse-for-skadefelling-pa-genetisk-viktig-ulv-1.17958125",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-dropper-20-prosent-avgift-for-skip-i-hormuzstredet-1.17958155",
       "category": "Forholdet Iran – USA",
       "pubDate": "Tue, 14 Jul 2026 15:39:05 GMT"
-    },
-    {
-      "title": "Britisk politiker drept i målrettet angrep, ifølge antiterrorpolitiet",
-      "link": "https://www.nrk.no/nyheter/britisk-politiker-drept-i-malrettet-angrep_-ifolge-antiterrorpolitiet-1.17958130",
-      "category": "Storbritannia",
-      "pubDate": "Tue, 14 Jul 2026 15:26:46 GMT"
-    },
-    {
-      "title": "Flere funnet døde etter brann i høyhus i Brussel",
-      "link": "https://www.nrk.no/nyheter/flere-funnet-dode-etter-brann-i-hoyhus-i-brussel-1.17958054",
-      "category": "Belgia",
-      "pubDate": "Tue, 14 Jul 2026 14:43:38 GMT"
-    },
-    {
-      "title": "Syklist kastet over bilpanser",
-      "link": "https://www.nrk.no/buskerud/syklist-kastet-over-bilpanser-1.17958082",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Tue, 14 Jul 2026 14:28:24 GMT"
     }
   ]
 }
