@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-15T16:02:19.257Z",
+  "updatedAt": "2026-07-15T17:47:11.852Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 50 fryktes omkommet i forlis uten for Libya",
+      "link": "https://www.nrk.no/nyheter/minst-50-fryktes-omkommet-i-forlis-uten-for-libya-1.17959467",
+      "category": "Libya",
+      "pubDate": "Wed, 15 Jul 2026 17:39:30 GMT"
+    },
+    {
+      "title": "Franske folkevalgte sier ja til assistert selvmord",
+      "link": "https://www.nrk.no/nyheter/franske-folkevalgte-sier-ja-til-assistert-selvmord-1.17959413",
+      "category": "Frankrike",
+      "pubDate": "Wed, 15 Jul 2026 17:27:49 GMT"
+    },
+    {
+      "title": "Drukningsulykke i Innlandet – luftambulanse på vei",
+      "link": "https://www.nrk.no/innlandet/drukningsulykke-i-innlandet-_-luftambulanse-pa-vei-1.17959443",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Wed, 15 Jul 2026 17:26:17 GMT"
+    },
+    {
+      "title": "SpaceX-aksjen har falt under børsnoteringsprisen",
+      "link": "https://www.nrk.no/nyheter/spacex-aksjen-har-falt-under-borsnoteringsprisen-1.17959374",
+      "category": "SpaceX",
+      "pubDate": "Wed, 15 Jul 2026 16:38:17 GMT"
+    },
+    {
+      "title": "Enda en kjedekollisjon på E6 i Lillestrøm",
+      "link": "https://www.nrk.no/stor-oslo/enda-en-kjedekollisjon-pa-e6-i-lillestrom-1.17959317",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 15 Jul 2026 16:13:11 GMT"
+    },
     {
       "title": "Frosne fristelser redder bamsene i varmen",
       "link": "https://www.nrk.no/nyheter/frosne-fristelser-redder-bamsene-i-varmen-1.17959359",
       "category": "Hetebølge og varmerekorder",
       "pubDate": "Wed, 15 Jul 2026 15:48:42 GMT"
-    },
-    {
-      "title": "Spansk avis: Mann som ble pågrepet for påkjørselen av norsk 17-åring i Mijas, er løslatt",
-      "link": "https://www.nrk.no/nyheter/spansk-avis_-mann-som-ble-pagrepet-for-pakjorselen-av-norsk-17-aring-i-mijas_-er-loslatt-1.17959335",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Wed, 15 Jul 2026 15:29:31 GMT"
-    },
-    {
-      "title": "Starter jakten på genetisk viktig ulv",
-      "link": "https://www.nrk.no/innlandet/starter-jakten-pa-genetisk-viktig-ulv-1.17959321",
-      "category": "Ulv i Innlandet",
-      "pubDate": "Wed, 15 Jul 2026 15:21:26 GMT"
-    },
-    {
-      "title": "Nesbyen varmest i landet med 34 grader klokken 16",
-      "link": "https://www.nrk.no/nyheter/nesbyen-varmest-i-landet-med-34-grader-klokken-16-1.17959332",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Wed, 15 Jul 2026 15:04:12 GMT"
-    },
-    {
-      "title": "The Telegraph: Mann pågrepet for trusler mot Nigel Farage",
-      "link": "https://www.nrk.no/nyheter/the-telegraph_-mann-pagrepet-for-trusler-mot-nigel-farage-1.17959179",
-      "category": "Storbritannia",
-      "pubDate": "Wed, 15 Jul 2026 14:59:20 GMT"
-    },
-    {
-      "title": "Trøbbel i togtrafikken nord for Oslo",
-      "link": "https://www.nrk.no/stor-oslo/trobbel-i-togtrafikken-nord-for-oslo-1.17959266",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 15 Jul 2026 14:44:24 GMT"
     }
   ]
 }
