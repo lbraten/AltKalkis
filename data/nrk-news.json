@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-15T03:21:16.154Z",
+  "updatedAt": "2026-07-15T05:52:56.198Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina sier 20 russiske skip er truffet i droneangrep natt til onsdag",
+      "link": "https://www.nrk.no/nyheter/ukraina-sier-20-russiske-skip-er-truffet-i-droneangrep-natt-til-onsdag-1.17958516",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 15 Jul 2026 05:40:42 GMT"
+    },
+    {
+      "title": "Ukrainske myndigheter: Tre drept i russisk angrep mot Odesa",
+      "link": "https://www.nrk.no/nyheter/ukrainske-myndigheter_-tre-drept-i-russisk-angrep-mot-odesa-1.17958490",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 15 Jul 2026 05:34:12 GMT"
+    },
+    {
+      "title": "32 døde etter brann på pub i Bangkok, ifølge myndighetene",
+      "link": "https://www.nrk.no/nyheter/32-dode-etter-brann-pa-pub-i-bangkok_-ifolge-myndighetene-1.17958456",
+      "category": "Thailand",
+      "pubDate": "Wed, 15 Jul 2026 05:14:06 GMT"
+    },
+    {
+      "title": "Jordan skal ha skutt ned tre ballistiske missiler fra Iran",
+      "link": "https://www.nrk.no/nyheter/jordan-skal-ha-skutt-ned-tre-ballistiske-missiler-fra-iran-1.17958453",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Jul 2026 04:16:28 GMT"
+    },
+    {
+      "title": "Iran: Har angrepet militært anlegg i Bahrain",
+      "link": "https://www.nrk.no/nyheter/iran_-har-angrepet-militaert-anlegg-i-bahrain-1.17958415",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Jul 2026 03:59:39 GMT"
+    },
     {
       "title": "USA: Har gjennomført nye angrep i Iran",
       "link": "https://www.nrk.no/nyheter/usa_-har-gjennomfort-nye-angrep-i-iran-1.17958413",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 15 Jul 2026 02:21:14 GMT"
-    },
-    {
-      "title": "Iran: Har angrepet i Kuwait og Jordan",
-      "link": "https://www.nrk.no/nyheter/iran_-har-angrepet-i-kuwait-og-jordan-1.17958412",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 15 Jul 2026 02:15:30 GMT"
-    },
-    {
-      "title": "Kuwait sier de er utsatt for iransk droneangrep",
-      "link": "https://www.nrk.no/nyheter/kuwait-sier-de-er-utsatt-for-iransk-droneangrep-1.17958411",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 15 Jul 2026 00:31:36 GMT"
-    },
-    {
-      "title": "Alarmen går i Bahrain",
-      "link": "https://www.nrk.no/nyheter/alarmen-gar-i-bahrain-1.17958410",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 15 Jul 2026 00:08:58 GMT"
-    },
-    {
-      "title": "USA: Iran har angrepet sju skip på sju dager",
-      "link": "https://www.nrk.no/nyheter/usa_-iran-har-angrepet-sju-skip-pa-sju-dager-1.17958407",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Jul 2026 23:55:19 GMT"
-    },
-    {
-      "title": "Trump til Fox News: Truer med å angripe kraftanlegg",
-      "link": "https://www.nrk.no/nyheter/trump-til-fox-news_-truer-med-a-angripe-kraftanlegg-1.17958405",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 14 Jul 2026 22:41:32 GMT"
     }
   ]
 }
