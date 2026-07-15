@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-15T20:33:38.898Z",
+  "updatedAt": "2026-07-15T22:02:28.170Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA har angrepet tankskip i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-tankskip-i-persiabukta-1.17959628",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Jul 2026 21:15:41 GMT"
+    },
+    {
+      "title": "Argentina slo England i fotball-VM",
+      "link": "https://www.nrk.no/nyheter/argentina-slo-england-i-fotball-vm-1.17959623",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 15 Jul 2026 21:06:09 GMT"
+    },
+    {
+      "title": "Brann i industribygg i Sandefjord",
+      "link": "https://www.nrk.no/nyheter/brann-i-industribygg-i-sandefjord-1.17959620",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 15 Jul 2026 20:49:04 GMT"
+    },
     {
       "title": "E18 stengt etter trafikkulykke - bilfører fraktes til sykehus",
       "link": "https://www.nrk.no/sorlandet/e18-stengt-etter-trafikkulykke---bilforer-fraktes-til-sykehus-1.17959583",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukrainas-forsvarsminister-gar-av-1.17959495",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 15 Jul 2026 19:04:25 GMT"
-    },
-    {
-      "title": "Brann i restaurant i Kongsberg – bygget er overtent",
-      "link": "https://www.nrk.no/buskerud/brann-i-restaurant-i-kongsberg-_-bygget-er-overtent-1.17959525",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Wed, 15 Jul 2026 18:18:22 GMT"
-    },
-    {
-      "title": "Minst 50 fryktes omkommet i forlis utenfor Libya",
-      "link": "https://www.nrk.no/nyheter/minst-50-fryktes-omkommet-i-forlis-utenfor-libya-1.17959467",
-      "category": "Libya",
-      "pubDate": "Wed, 15 Jul 2026 17:39:30 GMT"
-    },
-    {
-      "title": "Franske folkevalgte sier ja til assistert selvmord",
-      "link": "https://www.nrk.no/nyheter/franske-folkevalgte-sier-ja-til-assistert-selvmord-1.17959413",
-      "category": "Frankrike",
-      "pubDate": "Wed, 15 Jul 2026 17:27:49 GMT"
     }
   ]
 }
