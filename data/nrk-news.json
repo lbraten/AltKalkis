@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-14T23:59:04.817Z",
+  "updatedAt": "2026-07-15T03:21:16.154Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA: Har gjennomført nye angrep i Iran",
+      "link": "https://www.nrk.no/nyheter/usa_-har-gjennomfort-nye-angrep-i-iran-1.17958413",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Jul 2026 02:21:14 GMT"
+    },
+    {
+      "title": "Iran: Har angrepet i Kuwait og Jordan",
+      "link": "https://www.nrk.no/nyheter/iran_-har-angrepet-i-kuwait-og-jordan-1.17958412",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Jul 2026 02:15:30 GMT"
+    },
+    {
+      "title": "Kuwait sier de er utsatt for iransk droneangrep",
+      "link": "https://www.nrk.no/nyheter/kuwait-sier-de-er-utsatt-for-iransk-droneangrep-1.17958411",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Jul 2026 00:31:36 GMT"
+    },
+    {
+      "title": "Alarmen går i Bahrain",
+      "link": "https://www.nrk.no/nyheter/alarmen-gar-i-bahrain-1.17958410",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Jul 2026 00:08:58 GMT"
+    },
     {
       "title": "USA: Iran har angrepet sju skip på sju dager",
       "link": "https://www.nrk.no/nyheter/usa_-iran-har-angrepet-sju-skip-pa-sju-dager-1.17958407",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-til-fox-news_-truer-med-a-angripe-kraftanlegg-1.17958405",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 14 Jul 2026 22:41:32 GMT"
-    },
-    {
-      "title": "Ebolatallene stiger i DR Kongo",
-      "link": "https://www.nrk.no/nyheter/ebolatallene-stiger-i-dr-kongo-1.17958401",
-      "category": "Ebola",
-      "pubDate": "Tue, 14 Jul 2026 22:24:49 GMT"
-    },
-    {
-      "title": "Kåra årets unge jazzmusikarar",
-      "link": "https://www.nrk.no/mr/kara-arets-unge-jazzmusikarar-1.17958382",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Tue, 14 Jul 2026 20:42:39 GMT"
-    },
-    {
-      "title": "Har kontroll på brannen i Sel",
-      "link": "https://www.nrk.no/innlandet/har-kontroll-pa-brannen-i-sel-1.17958369",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Tue, 14 Jul 2026 20:37:25 GMT"
-    },
-    {
-      "title": "USAs sjøblokade mot Iran er iverksatt",
-      "link": "https://www.nrk.no/nyheter/usas-sjoblokade-mot-iran-er-iverksatt-1.17958383",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 14 Jul 2026 20:20:24 GMT"
     }
   ]
 }
