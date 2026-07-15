@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-15T19:13:54.615Z",
+  "updatedAt": "2026-07-15T20:33:38.898Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "E18 stengt etter trafikkulykke - bilfører fraktes til sykehus",
+      "link": "https://www.nrk.no/sorlandet/e18-stengt-etter-trafikkulykke---bilforer-fraktes-til-sykehus-1.17959583",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Wed, 15 Jul 2026 19:25:11 GMT"
+    },
+    {
+      "title": "14-åring siktet for terrorplanlegging i London",
+      "link": "https://www.nrk.no/nyheter/14-aring-siktet-for-terrorplanlegging-i-london-1.17959571",
+      "category": "Storbritannia",
+      "pubDate": "Wed, 15 Jul 2026 19:15:45 GMT"
+    },
     {
       "title": "Ukrainas forsvarsminister går av",
       "link": "https://www.nrk.no/nyheter/ukrainas-forsvarsminister-gar-av-1.17959495",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/franske-folkevalgte-sier-ja-til-assistert-selvmord-1.17959413",
       "category": "Frankrike",
       "pubDate": "Wed, 15 Jul 2026 17:27:49 GMT"
-    },
-    {
-      "title": "Drukningsulykke i Innlandet – luftambulanse på vei",
-      "link": "https://www.nrk.no/innlandet/drukningsulykke-i-innlandet-_-luftambulanse-pa-vei-1.17959443",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Wed, 15 Jul 2026 17:26:17 GMT"
-    },
-    {
-      "title": "SpaceX-aksjen har falt under børsnoteringsprisen",
-      "link": "https://www.nrk.no/nyheter/spacex-aksjen-har-falt-under-borsnoteringsprisen-1.17959374",
-      "category": "SpaceX",
-      "pubDate": "Wed, 15 Jul 2026 16:38:17 GMT"
     }
   ]
 }
