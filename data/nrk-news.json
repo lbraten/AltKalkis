@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-15T22:02:28.170Z",
+  "updatedAt": "2026-07-15T23:28:55.897Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Prøvde å tenne på kirke - igjen",
+      "link": "https://www.nrk.no/nyheter/provde-a-tenne-pa-kirke---igjen-1.17959641",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 15 Jul 2026 23:26:46 GMT"
+    },
+    {
+      "title": "Argentina med Falklandsøyene-melding",
+      "link": "https://www.nrk.no/nyheter/argentina-med-falklandsoyene-melding-1.17959637",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Wed, 15 Jul 2026 23:08:50 GMT"
+    },
+    {
+      "title": "Politiet: Kontroll på brannen i Sandefjord",
+      "link": "https://www.nrk.no/nyheter/politiet_-kontroll-pa-brannen-i-sandefjord-1.17959636",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 15 Jul 2026 22:21:17 GMT"
+    },
+    {
+      "title": "Reuters: Russisk luftangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/reuters_-russisk-luftangrep-mot-kyiv-1.17959630",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 15 Jul 2026 22:12:40 GMT"
+    },
     {
       "title": "USA har angrepet tankskip i Persiabukta",
       "link": "https://www.nrk.no/nyheter/usa-har-angrepet-tankskip-i-persiabukta-1.17959628",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/argentina-slo-england-i-fotball-vm-1.17959623",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 15 Jul 2026 21:06:09 GMT"
-    },
-    {
-      "title": "Brann i industribygg i Sandefjord",
-      "link": "https://www.nrk.no/nyheter/brann-i-industribygg-i-sandefjord-1.17959620",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 15 Jul 2026 20:49:04 GMT"
-    },
-    {
-      "title": "E18 stengt etter trafikkulykke - bilfører fraktes til sykehus",
-      "link": "https://www.nrk.no/sorlandet/e18-stengt-etter-trafikkulykke---bilforer-fraktes-til-sykehus-1.17959583",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Wed, 15 Jul 2026 19:25:11 GMT"
-    },
-    {
-      "title": "14-åring siktet for terrorplanlegging i London",
-      "link": "https://www.nrk.no/nyheter/14-aring-siktet-for-terrorplanlegging-i-london-1.17959571",
-      "category": "Storbritannia",
-      "pubDate": "Wed, 15 Jul 2026 19:15:45 GMT"
-    },
-    {
-      "title": "Ukrainas forsvarsminister går av",
-      "link": "https://www.nrk.no/nyheter/ukrainas-forsvarsminister-gar-av-1.17959495",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 15 Jul 2026 19:04:25 GMT"
     }
   ]
 }
