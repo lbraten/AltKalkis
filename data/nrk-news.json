@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-15T10:20:37.285Z",
+  "updatedAt": "2026-07-15T11:59:44.296Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Person døde i eksplosjon på Nammo-fabrikk i Finland",
-      "link": "https://www.nrk.no/nyheter/person-dode-i-eksplosjon-pa-nammo-fabrikk-i-finland-1.17958859",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 15 Jul 2026 10:17:08 GMT"
+      "title": "Mann dømt til 13 års fengsel for drap på Dokka i fjor",
+      "link": "https://www.nrk.no/nyheter/mann-domt-til-13-ars-fengsel-for-drap-pa-dokka-i-fjor-1.17959026",
+      "category": "Drap i Norge",
+      "pubDate": "Wed, 15 Jul 2026 11:53:15 GMT"
+    },
+    {
+      "title": "EU og Ukraina skal samarbeide om droner",
+      "link": "https://www.nrk.no/nyheter/eu-og-ukraina-skal-samarbeide-om-droner-1.17958904",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Wed, 15 Jul 2026 11:44:19 GMT"
+    },
+    {
+      "title": "Redningsaksjon på Glittertind",
+      "link": "https://www.nrk.no/innlandet/redningsaksjon-pa-glittertind-1.17958899",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Wed, 15 Jul 2026 10:59:47 GMT"
+    },
+    {
+      "title": "USAs sentralkommando: Har startet ny angrepsbølge mot Iran",
+      "link": "https://www.nrk.no/nyheter/usas-sentralkommando_-har-startet-ny-angrepsbolge-mot-iran-1.17958836",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 15 Jul 2026 10:36:48 GMT"
+    },
+    {
+      "title": "Brann i lastebil ved Kløfta – Omkjøring",
+      "link": "https://www.nrk.no/stor-oslo/brann-i-lastebil-ved-klofta-_-omkjoring-1.17958861",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 15 Jul 2026 10:14:29 GMT"
     },
     {
       "title": "Dømd for overgrep mot dottera i Sunnfjord",
       "link": "https://www.nrk.no/vestland/domd-for-overgrep-mot-dottera-i-sunnfjord-1.17958831",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Wed, 15 Jul 2026 09:55:49 GMT"
-    },
-    {
-      "title": "PST: Flere inspireres av Anders Behring Breivik",
-      "link": "https://www.nrk.no/nyheter/pst_-flere-inspireres-av-anders-behring-breivik--1.17958725",
-      "category": "Terrorangrepene 22. juli 2011",
-      "pubDate": "Wed, 15 Jul 2026 09:52:05 GMT"
-    },
-    {
-      "title": "Avis: En person død i eksplosjon på Nammo-fabrikk i Finland",
-      "link": "https://www.nrk.no/nyheter/avis_-en-person-dod-i-eksplosjon-pa-nammo-fabrikk-i-finland-1.17958804",
-      "category": "Nammo",
-      "pubDate": "Wed, 15 Jul 2026 09:49:30 GMT"
-    },
-    {
-      "title": "Seksåring blant de drepte i israelsk angrep i Gaza",
-      "link": "https://www.nrk.no/nyheter/seksaring-blant-de-drepte-i-israelsk-angrep-i-gaza-1.17958705",
-      "category": "Krigen i Gaza",
-      "pubDate": "Wed, 15 Jul 2026 09:31:39 GMT"
-    },
-    {
-      "title": "FN: Hamas truer og overfaller nødhjelpsarbeidere i Gaza",
-      "link": "https://www.nrk.no/nyheter/fn_-hamas-truer-og-overfaller-nodhjelpsarbeidere-i-gaza-1.17958590",
-      "category": "Hamas",
-      "pubDate": "Wed, 15 Jul 2026 08:45:53 GMT"
     }
   ]
 }
