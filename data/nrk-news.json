@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-07-15T23:28:55.897Z",
+  "updatedAt": "2026-07-16T01:00:41.859Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Prøvde å tenne på kirke - igjen",
-      "link": "https://www.nrk.no/nyheter/provde-a-tenne-pa-kirke---igjen-1.17959641",
+      "title": "Kuwait: Utsatt for iransk droneangrep",
+      "link": "https://www.nrk.no/nyheter/kuwait_-utsatt-for-iransk-droneangrep-1.17959642",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 15 Jul 2026 23:34:04 GMT"
+    },
+    {
+      "title": "Prøvde å tenne på kirke i Nannestad – igjen",
+      "link": "https://www.nrk.no/nyheter/provde-a-tenne-pa-kirke-i-nannestad-_-igjen-1.17959641",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 15 Jul 2026 23:26:46 GMT"
     },
     {
-      "title": "Argentina med Falklandsøyene-melding",
-      "link": "https://www.nrk.no/nyheter/argentina-med-falklandsoyene-melding-1.17959637",
+      "title": "Argentina-spillere med banner om Falklandsøyene",
+      "link": "https://www.nrk.no/nyheter/argentina-spillere-med-banner-om-falklandsoyene-1.17959637",
       "category": "Fotball-VM 2026",
       "pubDate": "Wed, 15 Jul 2026 23:08:50 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-har-angrepet-tankskip-i-persiabukta-1.17959628",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 15 Jul 2026 21:15:41 GMT"
-    },
-    {
-      "title": "Argentina slo England i fotball-VM",
-      "link": "https://www.nrk.no/nyheter/argentina-slo-england-i-fotball-vm-1.17959623",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 15 Jul 2026 21:06:09 GMT"
     }
   ]
 }
