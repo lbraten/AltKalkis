@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-16T09:34:39.077Z",
+  "updatedAt": "2026-07-16T11:40:58.160Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig trafikkulykke i Tinn",
+      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-trafikkulykke-i-tinn-1.17960120",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 16 Jul 2026 10:28:51 GMT"
+    },
+    {
+      "title": "Flere barn døde i barnehjemsbrann i Algerie",
+      "link": "https://www.nrk.no/nyheter/flere-barn-dode-i-barnehjemsbrann-i-algerie-1.17960087",
+      "category": "Algerie",
+      "pubDate": "Thu, 16 Jul 2026 10:25:33 GMT"
+    },
+    {
+      "title": "Har avdekket ulovlige VM-visninger over hele landet",
+      "link": "https://www.nrk.no/innlandet/har-avdekket-ulovlige-vm-visninger-over-hele-landet-1.17960094",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Thu, 16 Jul 2026 10:15:42 GMT"
+    },
+    {
+      "title": "Tsunamivarsel i New Zealander er avblåst",
+      "link": "https://www.nrk.no/nyheter/tsunamivarsel-i-new-zealander-er-avblast-1.17960049",
+      "category": "New Zealand",
+      "pubDate": "Thu, 16 Jul 2026 09:49:55 GMT"
+    },
     {
       "title": "Ny statsminister i Ukraina",
       "link": "https://www.nrk.no/nyheter/ny-statsminister-i-ukraina--1.17959929",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/innlandet/flere-enn-ti-steder-med-varmerekord-onsdag-1.17960015",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Thu, 16 Jul 2026 09:10:07 GMT"
-    },
-    {
-      "title": "Redningshelikopter hjelper klatrarar ved Kjerag",
-      "link": "https://www.nrk.no/rogaland/redningshelikopter-hjelper-klatrarar-ved-kjerag-1.17959724",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Thu, 16 Jul 2026 08:25:58 GMT"
-    },
-    {
-      "title": "Årets første tropenatt: Færder fyr",
-      "link": "https://www.nrk.no/vestfoldogtelemark/arets-forste-tropenatt_-faerder-fyr-1.17959946",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 16 Jul 2026 08:23:58 GMT"
-    },
-    {
-      "title": "Schibsted-aviser var nede",
-      "link": "https://www.nrk.no/nyheter/schibsted-aviser-var-nede-1.17959889",
-      "category": "Medier",
-      "pubDate": "Thu, 16 Jul 2026 08:04:26 GMT"
-    },
-    {
-      "title": "Sjåfør siktet for uaktsomt drap etter påkjørsel i Alver",
-      "link": "https://www.nrk.no/vestland/sjafor-siktet-for-uaktsomt-drap-etter-pakjorsel-i-alver-1.17959868",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 16 Jul 2026 07:57:21 GMT"
     }
   ]
 }
