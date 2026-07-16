@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-16T17:18:19.296Z",
+  "updatedAt": "2026-07-16T18:40:34.209Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Meldte om 100 grader i Warszawa: – Gikk en kule varmt",
+      "link": "https://www.nrk.no/nyheter/meldte-om-100-grader-i-warszawa_-_-gikk-en-kule-varmt-1.17960704",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Thu, 16 Jul 2026 18:32:16 GMT"
+    },
+    {
+      "title": "Melding om slagsmål i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/melding-om-slagsmal-i-oslo-1.17960666",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 16 Jul 2026 18:07:38 GMT"
+    },
+    {
+      "title": "Mann død etter drukningsulykke i Sandefjord",
+      "link": "https://www.nrk.no/vestfoldogtelemark/mann-dod-etter-drukningsulykke-i-sandefjord_-1.17960610",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 16 Jul 2026 17:48:56 GMT"
+    },
+    {
+      "title": "11-åring funnet bevisstløs med hodeskade i Sarpsborg – fraktes til Ullevål sykehus",
+      "link": "https://www.nrk.no/nyheter/11-aring-funnet-bevisstlos-med-hodeskade-i-sarpsborg-_-fraktes-til-ulleval-sykehus-1.17960680",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Thu, 16 Jul 2026 17:36:41 GMT"
+    },
+    {
+      "title": "Donald Trump skal se VM-finalen",
+      "link": "https://www.nrk.no/nyheter/donald-trump-skal-se-vm-finalen-1.17960637",
+      "category": "Sportsnyheter",
+      "pubDate": "Thu, 16 Jul 2026 17:30:16 GMT"
+    },
     {
       "title": "AFP: Minst 12.000 hetebølge-relaterte dødsfall i Europa ijuni",
       "link": "https://www.nrk.no/nyheter/afp_-minst-12.000-hetebolge-relaterte-dodsfall-i-europa-ijuni-1.17960600",
       "category": "Hetebølge og varmerekorder",
       "pubDate": "Thu, 16 Jul 2026 16:59:40 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke i Ålesund - begge bilene er totalskadd",
-      "link": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-alesund---begge-bilene-er-totalskadd-1.17960589",
-      "category": "Trafikk i Møre og Romsdal",
-      "pubDate": "Thu, 16 Jul 2026 16:24:10 GMT"
-    },
-    {
-      "title": "Zelenskyj utnevner ny fungerende forsvarsminister",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-utnevner-ny-fungerende-forsvarsminister-1.17960563",
-      "category": "Ukraina",
-      "pubDate": "Thu, 16 Jul 2026 16:10:43 GMT"
-    },
-    {
-      "title": "Går til retten for å stanse ulvefelling",
-      "link": "https://www.nrk.no/innlandet/gar-til-retten-for-a-stanse-ulvefelling-1.17960571",
-      "category": "Ulv i Innlandet",
-      "pubDate": "Thu, 16 Jul 2026 16:05:19 GMT"
-    },
-    {
-      "title": "Farsund: To menn siktet etter trusselsituasjon",
-      "link": "https://www.nrk.no/nyheter/farsund_-to-menn-siktet-etter-trusselsituasjon-1.17960560",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 16 Jul 2026 15:17:20 GMT"
-    },
-    {
-      "title": "Én klemt ihjel og 100 skadd på festival i India",
-      "link": "https://www.nrk.no/nyheter/en-klemt-ihjel-og-100-skadd-pa-festival-i-india-1.17960539",
-      "category": "India",
-      "pubDate": "Thu, 16 Jul 2026 15:08:55 GMT"
     }
   ]
 }
