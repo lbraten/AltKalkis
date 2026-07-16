@@ -1,17 +1,23 @@
 {
-  "updatedAt": "2026-07-16T20:02:50.159Z",
+  "updatedAt": "2026-07-16T21:32:43.495Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Melding om masseslagsmål i Lørenskog",
-      "link": "https://www.nrk.no/stor-oslo/melding-om-masseslagsmal-i-lorenskog-1.17960748",
+      "title": "828 døde av ebola i Kongo",
+      "link": "https://www.nrk.no/nyheter/828-dode-av-ebola-i-kongo-1.17960719",
+      "category": "Ebola",
+      "pubDate": "Thu, 16 Jul 2026 20:20:03 GMT"
+    },
+    {
+      "title": "Slagsmål i Lørenskog – funnet kniv og slagvåpen",
+      "link": "https://www.nrk.no/stor-oslo/slagsmal-i-lorenskog-_-funnet-kniv-og-slagvapen-1.17960748",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 16 Jul 2026 19:27:16 GMT"
     },
     {
-      "title": "Nabokrangel i Asker eskalerte – flere patruljer rykker",
-      "link": "https://www.nrk.no/stor-oslo/nabokrangel-i-asker-eskalerte-_-flere-patruljer-rykker-1.17960745",
-      "category": "NRK Nyheter",
+      "title": "Nabokrangel i Asker eskalerte – truet politiet",
+      "link": "https://www.nrk.no/stor-oslo/nabokrangel-i-asker-eskalerte-_-truet-politiet-1.17960745",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 16 Jul 2026 19:02:58 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/mann-dod-etter-drukningsulykke-i-sandefjord_-1.17960610",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Thu, 16 Jul 2026 17:48:56 GMT"
-    },
-    {
-      "title": "11-åring funnet bevisstløs med hodeskade i Sarpsborg – fraktes til Ullevål sykehus",
-      "link": "https://www.nrk.no/nyheter/11-aring-funnet-bevisstlos-med-hodeskade-i-sarpsborg-_-fraktes-til-ulleval-sykehus-1.17960680",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Thu, 16 Jul 2026 17:36:41 GMT"
     }
   ]
 }
