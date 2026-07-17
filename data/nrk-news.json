@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-17T18:33:48.337Z",
+  "updatedAt": "2026-07-17T20:06:19.596Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Politiet: En person er kjørt til akutten med røykskader etter brannen",
+      "link": "https://www.nrk.no/nyheter/politiet_-en-person-er-kjort-til-akutten-med-roykskader-etter-brannen-1.17961864",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Fri, 17 Jul 2026 20:05:58 GMT"
+    },
+    {
+      "title": "Trump truer Canada med toll etter røyk fra skogbrann",
+      "link": "https://www.nrk.no/nyheter/trump-truer-canada-med-toll-etter-royk-fra-skogbrann-1.17961837",
+      "category": "USA",
+      "pubDate": "Fri, 17 Jul 2026 19:47:50 GMT"
+    },
+    {
+      "title": "Politiet: Fortsatt ikke kontroll på brannen i Krokstadelva",
+      "link": "https://www.nrk.no/nyheter/politiet_-fortsatt-ikke-kontroll-pa-brannen-i-krokstadelva-1.17961814",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Fri, 17 Jul 2026 19:03:43 GMT"
+    },
+    {
       "title": "Røde Kors om brannen i Krokstadelva: – Uoversiktlig og med stort omfang",
       "link": "https://www.nrk.no/nyheter/rode-kors-om-brannen-i-krokstadelva_-_-uoversiktlig-og-med-stort-omfang-1.17961811",
-      "category": "Rekkehusbrann i Krokstadelva",
+      "category": "Storbrann i Krokstadelva",
       "pubDate": "Fri, 17 Jul 2026 18:09:39 GMT"
     },
     {
       "title": "Politiet: Over 100 boenheter gått tapt i brannen",
       "link": "https://www.nrk.no/nyheter/politiet_-over-100-boenheter-gatt-tapt-i-brannen-1.17961802",
-      "category": "Rekkehusbrann i Krokstadelva",
+      "category": "Storbrann i Krokstadelva",
       "pubDate": "Fri, 17 Jul 2026 18:04:51 GMT"
     },
     {
       "title": "Støre om storbrannen: – Min dype medfølelse går til dem som er blitt evakuert, og alle som har miste",
       "link": "https://www.nrk.no/nyheter/store-om-storbrannen_-_-min-dype-medfolelse-gar-til-dem-som-er-blitt-evakuert_-og-alle-som-har-miste-1.17961785",
-      "category": "Rekkehusbrann i Krokstadelva",
+      "category": "Storbrann i Krokstadelva",
       "pubDate": "Fri, 17 Jul 2026 17:51:32 GMT"
-    },
-    {
-      "title": "Flere hundre evakuerte etter storbrannen i Krokstadelva",
-      "link": "https://www.nrk.no/nyheter/flere-hundre-evakuerte-etter-storbrannen-i-krokstadelva-1.17961745",
-      "category": "Rekkehusbrann i Krokstadelva",
-      "pubDate": "Fri, 17 Jul 2026 17:28:25 GMT"
-    },
-    {
-      "title": "Politiet: Brannen i Krokstadelva på vei mot nytt boligområde",
-      "link": "https://www.nrk.no/nyheter/politiet_-brannen-i-krokstadelva-pa-vei-mot-nytt-boligomrade--1.17961715",
-      "category": "Rekkehusbrann i Krokstadelva",
-      "pubDate": "Fri, 17 Jul 2026 16:58:51 GMT"
-    },
-    {
-      "title": "Togstans mellom Oslo S og Lillestrøm",
-      "link": "https://www.nrk.no/stor-oslo/togstans-mellom-oslo-s-og-lillestrom-1.17961610",
-      "category": "Togproblemer og forsinkelser",
-      "pubDate": "Fri, 17 Jul 2026 16:34:22 GMT"
     }
   ]
 }
