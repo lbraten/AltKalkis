@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-17T17:14:13.374Z",
+  "updatedAt": "2026-07-17T18:33:48.337Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Røde Kors om brannen i Krokstadelva: – Uoversiktlig og med stort omfang",
+      "link": "https://www.nrk.no/nyheter/rode-kors-om-brannen-i-krokstadelva_-_-uoversiktlig-og-med-stort-omfang-1.17961811",
+      "category": "Rekkehusbrann i Krokstadelva",
+      "pubDate": "Fri, 17 Jul 2026 18:09:39 GMT"
+    },
+    {
+      "title": "Politiet: Over 100 boenheter gått tapt i brannen",
+      "link": "https://www.nrk.no/nyheter/politiet_-over-100-boenheter-gatt-tapt-i-brannen-1.17961802",
+      "category": "Rekkehusbrann i Krokstadelva",
+      "pubDate": "Fri, 17 Jul 2026 18:04:51 GMT"
+    },
+    {
+      "title": "Støre om storbrannen: – Min dype medfølelse går til dem som er blitt evakuert, og alle som har miste",
+      "link": "https://www.nrk.no/nyheter/store-om-storbrannen_-_-min-dype-medfolelse-gar-til-dem-som-er-blitt-evakuert_-og-alle-som-har-miste-1.17961785",
+      "category": "Rekkehusbrann i Krokstadelva",
+      "pubDate": "Fri, 17 Jul 2026 17:51:32 GMT"
+    },
+    {
+      "title": "Flere hundre evakuerte etter storbrannen i Krokstadelva",
+      "link": "https://www.nrk.no/nyheter/flere-hundre-evakuerte-etter-storbrannen-i-krokstadelva-1.17961745",
+      "category": "Rekkehusbrann i Krokstadelva",
+      "pubDate": "Fri, 17 Jul 2026 17:28:25 GMT"
+    },
     {
       "title": "Politiet: Brannen i Krokstadelva på vei mot nytt boligområde",
       "link": "https://www.nrk.no/nyheter/politiet_-brannen-i-krokstadelva-pa-vei-mot-nytt-boligomrade--1.17961715",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/togstans-mellom-oslo-s-og-lillestrom-1.17961610",
       "category": "Togproblemer og forsinkelser",
       "pubDate": "Fri, 17 Jul 2026 16:34:22 GMT"
-    },
-    {
-      "title": "Ikke meldt om skader etter kraftig jordskjelv utenfor Mexico",
-      "link": "https://www.nrk.no/nyheter/ikke-meldt-om-skader-etter-kraftig-jordskjelv-utenfor-mexico-1.17961703",
-      "category": "Mexico",
-      "pubDate": "Fri, 17 Jul 2026 16:34:21 GMT"
-    },
-    {
-      "title": "Mann alvorlig skadd etter sykkelvelt i Kvelde",
-      "link": "https://www.nrk.no/vestfoldogtelemark/mann-alvorlig-skadd-etter-sykkelvelt-i-kvelde-1.17961361",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 17 Jul 2026 16:31:25 GMT"
-    },
-    {
-      "title": "Brannvesenet melder om 40–50 tapte boenheter i Krokstadelva",
-      "link": "https://www.nrk.no/nyheter/brannvesenet-melder-om-40_50-tapte-boenheter-i-krokstadelva-1.17961678",
-      "category": "Rekkehusbrann i Krokstadelva",
-      "pubDate": "Fri, 17 Jul 2026 16:21:21 GMT"
-    },
-    {
-      "title": "Ikke meldt om skadde i rekkehusbrannen i Krokstadelva",
-      "link": "https://www.nrk.no/nyheter/ikke-meldt-om-skadde-i-rekkehusbrannen-i-krokstadelva--1.17961664",
-      "category": "Rekkehusbrann i Krokstadelva",
-      "pubDate": "Fri, 17 Jul 2026 15:57:12 GMT"
     }
   ]
 }
