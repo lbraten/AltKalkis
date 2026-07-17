@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-17T22:21:50.741Z",
+  "updatedAt": "2026-07-17T23:24:18.772Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA angriper Iran på nytt",
+      "link": "https://www.nrk.no/nyheter/usa-angriper-iran-pa-nytt-1.17961912",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Jul 2026 22:45:33 GMT"
+    },
+    {
+      "title": "Iran: Meldinger om eksplosjoner ved tankskip",
+      "link": "https://www.nrk.no/nyheter/iran_-meldinger-om-eksplosjoner-ved-tankskip-1.17961906",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Jul 2026 22:29:12 GMT"
+    },
     {
       "title": "Politiet: Fortsatt ikke kontroll på storbrann",
       "link": "https://www.nrk.no/nyheter/politiet_-fortsatt-ikke-kontroll-pa-storbrann-1.17961905",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-advarer-om-fullskala-krig-dersom-amerikanske-angrep-fortsetter-1.17961870",
       "category": "Forholdet Iran – USA",
       "pubDate": "Fri, 17 Jul 2026 20:09:21 GMT"
-    },
-    {
-      "title": "Politiet: Én person er kjørt til akutten med røykskader etter brannen",
-      "link": "https://www.nrk.no/nyheter/politiet_-en-person-er-kjort-til-akutten-med-roykskader-etter-brannen-1.17961864",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Fri, 17 Jul 2026 20:05:58 GMT"
-    },
-    {
-      "title": "Trump truer Canada med toll etter røyk fra skogbrann",
-      "link": "https://www.nrk.no/nyheter/trump-truer-canada-med-toll-etter-royk-fra-skogbrann-1.17961837",
-      "category": "USA",
-      "pubDate": "Fri, 17 Jul 2026 19:47:50 GMT"
     }
   ]
 }
