@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-17T03:46:54.841Z",
+  "updatedAt": "2026-07-17T06:18:12.492Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sterkere resultater fra Yara",
+      "link": "https://www.nrk.no/nyheter/sterkere-resultater-fra-yara-1.17960922",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 17 Jul 2026 06:13:56 GMT"
+    },
+    {
+      "title": "IEA: Frykter global energikrise innen få uker",
+      "link": "https://www.nrk.no/nyheter/iea_-frykter-global-energikrise-innen-fa-uker-1.17960875",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Jul 2026 05:06:04 GMT"
+    },
+    {
+      "title": "Iran sier de har svart på amerikanske angrep",
+      "link": "https://www.nrk.no/nyheter/iran-sier-de-har-svart-pa-amerikanske-angrep-1.17960858",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Jul 2026 04:40:09 GMT"
+    },
     {
       "title": "Iran: Sju drept i amerikanske angrep",
       "link": "https://www.nrk.no/nyheter/iran_-sju-drept-i-amerikanske-angrep-1.17960814",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump_-vil-avgradere-etterretningsdokumenter-1.17960805",
       "category": "USA",
       "pubDate": "Fri, 17 Jul 2026 01:53:58 GMT"
-    },
-    {
-      "title": "Kuwait: Utsatt for «fiendtlige dronetrusler»",
-      "link": "https://www.nrk.no/nyheter/kuwait_-utsatt-for-_fiendtlige-dronetrusler_-1.17960802",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 16 Jul 2026 23:35:05 GMT"
-    },
-    {
-      "title": "Venezuela: Over 4.900 døde i jordskjelv",
-      "link": "https://www.nrk.no/nyheter/venezuela_-over-4.900-dode-i-jordskjelv-1.17960801",
-      "category": "Venezuela",
-      "pubDate": "Thu, 16 Jul 2026 22:19:47 GMT"
-    },
-    {
-      "title": "Iran: – Amerikanske angrep på flyplass",
-      "link": "https://www.nrk.no/nyheter/iran_-_-amerikanske-angrep-pa-flyplass-1.17960791",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 16 Jul 2026 21:55:18 GMT"
     }
   ]
 }
