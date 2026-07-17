@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-17T08:34:38.103Z",
+  "updatedAt": "2026-07-17T10:48:17.416Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EU utsetter klimatiltak",
+      "link": "https://www.nrk.no/nyheter/eu-utsetter-klimatiltak-1.17961251",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Fri, 17 Jul 2026 10:35:14 GMT"
+    },
+    {
+      "title": "To menn siktet for drapsforsøk",
+      "link": "https://www.nrk.no/sorlandet/to-menn-siktet-for-drapsforsok--1.17961210",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 17 Jul 2026 09:50:44 GMT"
+    },
+    {
+      "title": "Kjedekollisjon i Lillestrøm",
+      "link": "https://www.nrk.no/stor-oslo/kjedekollisjon-i-lillestrom-1.17961100",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 17 Jul 2026 09:19:33 GMT"
+    },
+    {
+      "title": "Iran har angrepet flere mål i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/iran-har-angrepet-flere-mal-i-midtosten-1.17961146",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 17 Jul 2026 09:15:44 GMT"
+    },
+    {
+      "title": "Ukraina: To døde etter russisk angrep",
+      "link": "https://www.nrk.no/nyheter/ukraina_-to-dode-etter-russisk-angrep-1.17961059",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 17 Jul 2026 09:07:28 GMT"
+    },
     {
       "title": "Flere begravd etter massivt jordskred i Kina",
       "link": "https://www.nrk.no/nyheter/flere-begravd-etter-massivt-jordskred-i-kina-1.17961023",
       "category": "Kina",
       "pubDate": "Fri, 17 Jul 2026 08:17:57 GMT"
-    },
-    {
-      "title": "Tropenatt for andre natt på rad",
-      "link": "https://www.nrk.no/stor-oslo/tropenatt-for-andre-natt-pa-rad-1.17961002",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 17 Jul 2026 08:03:45 GMT"
-    },
-    {
-      "title": "Person truffet av toget i Gjøvik",
-      "link": "https://www.nrk.no/innlandet/person-truffet-av-toget-i-gjovik-1.17961031",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Fri, 17 Jul 2026 07:55:55 GMT"
-    },
-    {
-      "title": "Tre skip passerte Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/tre-skip-passerte-hormuzstredet-1.17960973",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Jul 2026 07:48:25 GMT"
-    },
-    {
-      "title": "Åpner nasjonalt minnested etter 22. juli på søndag",
-      "link": "https://www.nrk.no/stor-oslo/apner-nasjonalt-minnested-etter-22.-juli-pa-sondag-1.17960933",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 17 Jul 2026 07:37:04 GMT"
-    },
-    {
-      "title": "Skal pusse opp kai for over en halv milliard kroner",
-      "link": "https://www.nrk.no/tromsogfinnmark/skal-pusse-opp-kai-for-over-en-halv-milliard-kroner-1.17960963",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 17 Jul 2026 07:30:43 GMT"
     }
   ]
 }
