@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-17T21:21:10.503Z",
+  "updatedAt": "2026-07-17T22:21:50.741Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Fortsatt ikke kontroll på storbrann",
+      "link": "https://www.nrk.no/nyheter/politiet_-fortsatt-ikke-kontroll-pa-storbrann-1.17961905",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Fri, 17 Jul 2026 21:57:26 GMT"
+    },
+    {
+      "title": "Venezuela: Over 5.000 bekreftet omkommet",
+      "link": "https://www.nrk.no/nyheter/venezuela_-over-5.000-bekreftet-omkommet-1.17961903",
+      "category": "Venezuela",
+      "pubDate": "Fri, 17 Jul 2026 21:43:48 GMT"
+    },
     {
       "title": "Politiet: – Brannen har roet seg",
       "link": "https://www.nrk.no/nyheter/politiet_-_-brannen-har-roet-seg-1.17961605",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-truer-canada-med-toll-etter-royk-fra-skogbrann-1.17961837",
       "category": "USA",
       "pubDate": "Fri, 17 Jul 2026 19:47:50 GMT"
-    },
-    {
-      "title": "Politiet: Fortsatt ikke kontroll på brannen i Krokstadelva",
-      "link": "https://www.nrk.no/nyheter/politiet_-fortsatt-ikke-kontroll-pa-brannen-i-krokstadelva-1.17961814",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Fri, 17 Jul 2026 19:03:43 GMT"
-    },
-    {
-      "title": "Røde Kors om brannen i Krokstadelva: – Uoversiktlig og med stort omfang",
-      "link": "https://www.nrk.no/nyheter/rode-kors-om-brannen-i-krokstadelva_-_-uoversiktlig-og-med-stort-omfang-1.17961811",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Fri, 17 Jul 2026 18:09:39 GMT"
     }
   ]
 }
