@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-16T22:57:37.355Z",
+  "updatedAt": "2026-07-17T00:04:52.286Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kuwait: Utsatt for «fiendtlige dronetrusler»",
+      "link": "https://www.nrk.no/nyheter/kuwait_-utsatt-for-_fiendtlige-dronetrusler_-1.17960802",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 16 Jul 2026 23:35:05 GMT"
+    },
     {
       "title": "Venezuela: Over 4.900 døde i jordskjelv",
       "link": "https://www.nrk.no/nyheter/venezuela_-over-4.900-dode-i-jordskjelv-1.17960801",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/nabokrangel-i-asker-eskalerte-_-truet-politiet-1.17960745",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 16 Jul 2026 19:02:58 GMT"
-    },
-    {
-      "title": "Meldte om 100 grader i Warszawa: – Gikk en kule varmt",
-      "link": "https://www.nrk.no/nyheter/meldte-om-100-grader-i-warszawa_-_-gikk-en-kule-varmt-1.17960704",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 16 Jul 2026 18:32:16 GMT"
     }
   ]
 }
