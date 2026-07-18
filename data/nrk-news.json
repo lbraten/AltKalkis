@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-18T20:12:04.252Z",
+  "updatedAt": "2026-07-18T21:23:42.258Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "«Cubas mest kjente politiske fange» på vei til USA",
+      "link": "https://www.nrk.no/nyheter/_cubas-mest-kjente-politiske-fange_-pa-vei-til-usa-1.17962509",
+      "category": "Cuba",
+      "pubDate": "Sat, 18 Jul 2026 20:34:06 GMT"
+    },
     {
       "title": "Måtte lande på Gardermoen etter mistanke om røyk",
       "link": "https://www.nrk.no/nyheter/matte-lande-pa-gardermoen-etter-mistanke-om-royk-1.17962464",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-ni-drept-i-israelske-angrep-mot-gaza-1.17962421",
       "category": "Krigen i Gaza",
       "pubDate": "Sat, 18 Jul 2026 16:44:25 GMT"
-    },
-    {
-      "title": "Brannårsaken fortsatt ukjent: – Det må man se på i ettertid",
-      "link": "https://www.nrk.no/nyheter/brannarsaken-fortsatt-ukjent_-_-det-ma-man-se-pa-i-ettertid-1.17962385",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 16:04:28 GMT"
     }
   ]
 }
