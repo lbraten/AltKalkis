@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-18T12:26:50.607Z",
+  "updatedAt": "2026-07-18T13:58:23.242Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brannsjefen mistet hjemmet i storbrannen",
+      "link": "https://www.nrk.no/nyheter/brannsjefen-mistet-hjemmet-i-storbrannen-1.17962205",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 18 Jul 2026 13:35:24 GMT"
+    },
+    {
+      "title": "Trafikkulukke i Valldal",
+      "link": "https://www.nrk.no/mr/trafikkulukke-i-valldal--1.17962247",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 18 Jul 2026 13:28:34 GMT"
+    },
+    {
+      "title": "Frontkollisjon i Porsgrunn",
+      "link": "https://www.nrk.no/vestfoldogtelemark/frontkollisjon-i-porsgrunn-1.17962242",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 18 Jul 2026 13:04:42 GMT"
+    },
     {
       "title": "Kuwait skuldar Iran for å angripe sivile mål",
       "link": "https://www.nrk.no/nyheter/kuwait-skuldar-iran-for-a-angripe-sivile-mal-1.17962164",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store_-_-noko-av-det-vanskelegaste-eit-menneske-kan-oppleve-1.17962154",
       "category": "Storbrann i Krokstadelva",
       "pubDate": "Sat, 18 Jul 2026 11:22:43 GMT"
-    },
-    {
-      "title": "Mann erkjenner drap etter skyting i Ålborg",
-      "link": "https://www.nrk.no/nyheter/mann-erkjenner-drap-etter-skyting-i-alborg-1.17962144",
-      "category": "Danmark",
-      "pubDate": "Sat, 18 Jul 2026 11:05:04 GMT"
-    },
-    {
-      "title": "Mener mann som drepte bestefar var utilregnelig",
-      "link": "https://www.nrk.no/stor-oslo/mener-mann-som-drepte-bestefar-var-utilregnelig-1.17962146",
-      "category": "Drapet i Holmenkollåsen",
-      "pubDate": "Sat, 18 Jul 2026 11:03:37 GMT"
-    },
-    {
-      "title": "Tyskland hevar trusselnivået",
-      "link": "https://www.nrk.no/nyheter/tyskland-hevar-trusselnivaet-1.17962048",
-      "category": "Tyskland",
-      "pubDate": "Sat, 18 Jul 2026 10:48:19 GMT"
     }
   ]
 }
