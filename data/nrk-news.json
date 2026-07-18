@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-18T08:20:16.145Z",
+  "updatedAt": "2026-07-18T09:56:59.578Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norske rein i Russland kommer seg ikke hjem",
+      "link": "https://www.nrk.no/sapmi/norske-rein-i-russland-kommer-seg-ikke-hjem-1.17962097",
+      "category": "Ođđasat - norsk",
+      "pubDate": "Sat, 18 Jul 2026 09:41:06 GMT"
+    },
+    {
+      "title": "Store skogbranner i Canada rammer urfolksamfunn hardt",
+      "link": "https://www.nrk.no/sapmi/store-skogbranner-i-canada-rammer-urfolksamfunn-hardt-1.17962058",
+      "category": "Ođđasat - norsk",
+      "pubDate": "Sat, 18 Jul 2026 09:00:27 GMT"
+    },
+    {
+      "title": "Over 500 uten strøm i Innlandet",
+      "link": "https://www.nrk.no/innlandet/over-500-uten-strom-i-innlandet-1.17962054",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 18 Jul 2026 08:36:18 GMT"
+    },
+    {
+      "title": "Johan Baumann er død",
+      "link": "https://www.nrk.no/nyheter/johan-baumann-er-dod-1.17962043",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 18 Jul 2026 08:29:45 GMT"
+    },
     {
       "title": "Ulming og småbrannar i Krokstadelva",
       "link": "https://www.nrk.no/nyheter/ulming-og-smabrannar-i-krokstadelva-1.17962036",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/presidenten-i-libanon-pa-veg-til-washington-d.c.-1.17961990",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 18 Jul 2026 08:06:14 GMT"
-    },
-    {
-      "title": "Justisministeren kommer til Drammen",
-      "link": "https://www.nrk.no/buskerud/justisministeren-kommer-til-drammen-1.17961963",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 07:00:20 GMT"
-    },
-    {
-      "title": "Kontroll på brannen i Krokstadelva",
-      "link": "https://www.nrk.no/nyheter/kontroll-pa-brannen-i-krokstadelva-1.17961975",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 06:49:31 GMT"
-    },
-    {
-      "title": "Ny bjørn felt i Snåsa",
-      "link": "https://www.nrk.no/trondelag/ny-bjorn-felt-i-snasa-1.17961946",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 18 Jul 2026 06:48:14 GMT"
-    },
-    {
-      "title": "Brann i avsaltingsanlegg i Kuwait",
-      "link": "https://www.nrk.no/nyheter/brann-i-avsaltingsanlegg-i-kuwait-1.17961958",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Jul 2026 06:30:25 GMT"
     }
   ]
 }
