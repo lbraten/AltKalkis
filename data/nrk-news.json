@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-18T03:56:08.975Z",
+  "updatedAt": "2026-07-18T06:08:08.915Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran angrip amerikanske mål i Kuwait",
+      "link": "https://www.nrk.no/nyheter/iran-angrip-amerikanske-mal-i-kuwait-1.17961938",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Jul 2026 05:25:38 GMT"
+    },
+    {
+      "title": "Førebur evakuering av sjukeheim etter brann",
+      "link": "https://www.nrk.no/nyheter/forebur-evakuering-av-sjukeheim-etter-brann-1.17961936",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 18 Jul 2026 04:54:24 GMT"
+    },
+    {
+      "title": "Toglinjen mellom Oslo og Lillestrøm fungerer igjen",
+      "link": "https://www.nrk.no/nyheter/toglinjen-mellom-oslo-og-lillestrom-fungerer-igjen-1.17961935",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 18 Jul 2026 04:50:37 GMT"
+    },
+    {
+      "title": "Sju drepne i ukrainsk droneåtak",
+      "link": "https://www.nrk.no/nyheter/sju-drepne-i-ukrainsk-droneatak-1.17961932",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 18 Jul 2026 04:41:07 GMT"
+    },
+    {
+      "title": "Iran: – Har angrepet Bahrain",
+      "link": "https://www.nrk.no/nyheter/iran_-_-har-angrepet-bahrain-1.17961933",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Jul 2026 04:25:55 GMT"
+    },
     {
       "title": "Brannvesenet: – Har fortsatt ikke kontroll",
       "link": "https://www.nrk.no/nyheter/brannvesenet_-_-har-fortsatt-ikke-kontroll-1.17961887",
       "category": "Storbrann i Krokstadelva",
       "pubDate": "Sat, 18 Jul 2026 03:07:21 GMT"
-    },
-    {
-      "title": "USA: Har gjennomført nye angrep mot Iran",
-      "link": "https://www.nrk.no/nyheter/usa_-har-gjennomfort-nye-angrep-mot-iran-1.17961922",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Jul 2026 02:23:44 GMT"
-    },
-    {
-      "title": "Kuwait: Forsvarer seg mot iransk droneangrep",
-      "link": "https://www.nrk.no/nyheter/kuwait_-forsvarer-seg-mot-iransk-droneangrep-1.17961921",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Jul 2026 00:51:18 GMT"
-    },
-    {
-      "title": "Iran: – Har angrepet Kuwait og Jordan",
-      "link": "https://www.nrk.no/nyheter/iran_-_-har-angrepet-kuwait-og-jordan-1.17961920",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Jul 2026 00:17:05 GMT"
-    },
-    {
-      "title": "Kongo: Nesten 2200 mennesker smittet",
-      "link": "https://www.nrk.no/nyheter/kongo_-nesten-2200-mennesker-smittet--1.17961916",
-      "category": "DR Kongo",
-      "pubDate": "Fri, 17 Jul 2026 23:57:53 GMT"
-    },
-    {
-      "title": "USA angriper Iran på nytt",
-      "link": "https://www.nrk.no/nyheter/usa-angriper-iran-pa-nytt-1.17961912",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Jul 2026 22:45:33 GMT"
     }
   ]
 }
