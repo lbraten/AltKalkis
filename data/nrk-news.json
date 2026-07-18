@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-18T00:55:41.647Z",
+  "updatedAt": "2026-07-18T03:56:08.975Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brannvesenet: – Har fortsatt ikke kontroll",
+      "link": "https://www.nrk.no/nyheter/brannvesenet_-_-har-fortsatt-ikke-kontroll-1.17961887",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 18 Jul 2026 03:07:21 GMT"
+    },
+    {
+      "title": "USA: Har gjennomført nye angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/usa_-har-gjennomfort-nye-angrep-mot-iran-1.17961922",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Jul 2026 02:23:44 GMT"
+    },
     {
       "title": "Kuwait: Forsvarer seg mot iransk droneangrep",
       "link": "https://www.nrk.no/nyheter/kuwait_-forsvarer-seg-mot-iransk-droneangrep-1.17961921",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-angriper-iran-pa-nytt-1.17961912",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 17 Jul 2026 22:45:33 GMT"
-    },
-    {
-      "title": "Iran: Meldinger om eksplosjoner ved tankskip",
-      "link": "https://www.nrk.no/nyheter/iran_-meldinger-om-eksplosjoner-ved-tankskip-1.17961906",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 17 Jul 2026 22:29:12 GMT"
-    },
-    {
-      "title": "Politiet: Fortsatt ikke kontroll på storbrann",
-      "link": "https://www.nrk.no/nyheter/politiet_-fortsatt-ikke-kontroll-pa-storbrann-1.17961905",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Fri, 17 Jul 2026 21:57:26 GMT"
     }
   ]
 }
