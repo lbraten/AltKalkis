@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-18T17:31:25.413Z",
+  "updatedAt": "2026-07-18T19:07:26.527Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Måtte lande på Gardermoen etter mistanke om røyk",
+      "link": "https://www.nrk.no/nyheter/matte-lande-pa-gardermoen-etter-mistanke-om-royk-1.17962464",
+      "category": "Oslo lufthavn",
+      "pubDate": "Sat, 18 Jul 2026 18:39:56 GMT"
+    },
+    {
+      "title": "Telia: Utfordringer med mobildekning i Drammen som følge av storbrannen",
+      "link": "https://www.nrk.no/nyheter/telia_-utfordringer-med-mobildekning-i-drammen-som-folge-av-storbrannen-1.17962277",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 18 Jul 2026 18:13:49 GMT"
+    },
+    {
+      "title": "Pentagon: To amerikanske soldater drept i iransk angrep",
+      "link": "https://www.nrk.no/nyheter/pentagon_-to-amerikanske-soldater-drept-i-iransk-angrep-1.17962354",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 18 Jul 2026 17:56:46 GMT"
+    },
+    {
+      "title": "Ungarns president går av",
+      "link": "https://www.nrk.no/nyheter/ungarns-president-gar-av-1.17962430",
+      "category": "Ungarn",
+      "pubDate": "Sat, 18 Jul 2026 17:31:55 GMT"
+    },
     {
       "title": "Minst ni drept i israelske angrep mot Gaza",
       "link": "https://www.nrk.no/nyheter/minst-ni-drept-i-israelske-angrep-mot-gaza-1.17962421",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brannarsaken-fortsatt-ukjent_-_-det-ma-man-se-pa-i-ettertid-1.17962385",
       "category": "Storbrann i Krokstadelva",
       "pubDate": "Sat, 18 Jul 2026 16:04:28 GMT"
-    },
-    {
-      "title": "Brannvesenet: – Vi er berørt vi og",
-      "link": "https://www.nrk.no/nyheter/brannvesenet_-_-vi-er-berort-vi-og-1.17962369",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 15:59:43 GMT"
-    },
-    {
-      "title": "Politiet om storbrannen: – Ser ikke noe mistenkelig",
-      "link": "https://www.nrk.no/nyheter/politiet-om-storbrannen_-__ser-ikke-noe-mistenkelig-1.17962329",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 15:43:42 GMT"
-    },
-    {
-      "title": "Kronprins Haakon skal besøke Krokstadelva",
-      "link": "https://www.nrk.no/nyheter/kronprins-haakon-skal-besoke-krokstadelva-1.17962315",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 14:45:26 GMT"
-    },
-    {
-      "title": "Kong Harald om storbrannen: – Føler med alle som har mistet hjemmene sine",
-      "link": "https://www.nrk.no/nyheter/kong-harald-om-storbrannen_-_-foler-med-alle-som-har-mistet-hjemmene-sine-1.17962298",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 14:24:22 GMT"
     }
   ]
 }
