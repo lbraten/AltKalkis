@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-18T22:23:30.411Z",
+  "updatedAt": "2026-07-18T23:27:10.392Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 5.100 bekreftet omkommet i Venezuela",
+      "link": "https://www.nrk.no/nyheter/over-5.100-bekreftet-omkommet-i-venezuela-1.17962567",
+      "category": "Venezuela",
+      "pubDate": "Sat, 18 Jul 2026 23:14:47 GMT"
+    },
+    {
+      "title": "England tok VM-bronse",
+      "link": "https://www.nrk.no/nyheter/england-tok-vm-bronse-1.17962565",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Sat, 18 Jul 2026 23:03:35 GMT"
+    },
+    {
+      "title": "AFP: Eksplosjoner i Kyiv",
+      "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-i-kyiv-1.17962563",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 18 Jul 2026 23:01:12 GMT"
+    },
+    {
+      "title": "USA: – Angriper Iran",
+      "link": "https://www.nrk.no/nyheter/usa_-_-angriper-iran-1.17962559",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Jul 2026 22:56:14 GMT"
+    },
+    {
+      "title": "Politiet: Butikkansatt truet i Oslo",
+      "link": "https://www.nrk.no/nyheter/politiet_-butikkansatt-truet-i-oslo-1.17962555",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 18 Jul 2026 22:22:36 GMT"
+    },
     {
       "title": "AFP: Profilert cubansk dissident fremme i USA",
       "link": "https://www.nrk.no/nyheter/afp_-profilert-cubansk-dissident-fremme-i-usa-1.17962540",
       "category": "Cuba",
       "pubDate": "Sat, 18 Jul 2026 21:56:59 GMT"
-    },
-    {
-      "title": "«Cubas mest kjente politiske fange» på vei til USA",
-      "link": "https://www.nrk.no/nyheter/_cubas-mest-kjente-politiske-fange_-pa-vei-til-usa-1.17962509",
-      "category": "Cuba",
-      "pubDate": "Sat, 18 Jul 2026 20:34:06 GMT"
-    },
-    {
-      "title": "Måtte lande på Gardermoen etter mistanke om røyk",
-      "link": "https://www.nrk.no/nyheter/matte-lande-pa-gardermoen-etter-mistanke-om-royk-1.17962464",
-      "category": "Oslo lufthavn",
-      "pubDate": "Sat, 18 Jul 2026 18:39:56 GMT"
-    },
-    {
-      "title": "Telia: Utfordringer med mobildekning i Drammen som følge av storbrannen",
-      "link": "https://www.nrk.no/nyheter/telia_-utfordringer-med-mobildekning-i-drammen-som-folge-av-storbrannen-1.17962277",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 18:13:49 GMT"
-    },
-    {
-      "title": "Pentagon: To amerikanske soldater drept i iransk angrep",
-      "link": "https://www.nrk.no/nyheter/pentagon_-to-amerikanske-soldater-drept-i-iransk-angrep-1.17962354",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sat, 18 Jul 2026 17:56:46 GMT"
-    },
-    {
-      "title": "Ungarns president går av",
-      "link": "https://www.nrk.no/nyheter/ungarns-president-gar-av-1.17962430",
-      "category": "Ungarn",
-      "pubDate": "Sat, 18 Jul 2026 17:31:55 GMT"
     }
   ]
 }
