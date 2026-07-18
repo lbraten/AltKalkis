@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-18T21:23:42.258Z",
+  "updatedAt": "2026-07-18T22:23:30.411Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "AFP: Profilert cubansk dissident fremme i USA",
+      "link": "https://www.nrk.no/nyheter/afp_-profilert-cubansk-dissident-fremme-i-usa-1.17962540",
+      "category": "Cuba",
+      "pubDate": "Sat, 18 Jul 2026 21:56:59 GMT"
+    },
     {
       "title": "«Cubas mest kjente politiske fange» på vei til USA",
       "link": "https://www.nrk.no/nyheter/_cubas-mest-kjente-politiske-fange_-pa-vei-til-usa-1.17962509",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ungarns-president-gar-av-1.17962430",
       "category": "Ungarn",
       "pubDate": "Sat, 18 Jul 2026 17:31:55 GMT"
-    },
-    {
-      "title": "Minst ni drept i israelske angrep mot Gaza",
-      "link": "https://www.nrk.no/nyheter/minst-ni-drept-i-israelske-angrep-mot-gaza-1.17962421",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sat, 18 Jul 2026 16:44:25 GMT"
     }
   ]
 }
