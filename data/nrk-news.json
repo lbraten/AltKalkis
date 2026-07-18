@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-17T23:24:18.772Z",
+  "updatedAt": "2026-07-18T00:55:41.647Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kuwait: Forsvarer seg mot iransk droneangrep",
+      "link": "https://www.nrk.no/nyheter/kuwait_-forsvarer-seg-mot-iransk-droneangrep-1.17961921",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Jul 2026 00:51:18 GMT"
+    },
+    {
+      "title": "Iran: – Har angrepet Kuwait og Jordan",
+      "link": "https://www.nrk.no/nyheter/iran_-_-har-angrepet-kuwait-og-jordan-1.17961920",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Jul 2026 00:17:05 GMT"
+    },
+    {
+      "title": "Kongo: Nesten 2200 mennesker smittet",
+      "link": "https://www.nrk.no/nyheter/kongo_-nesten-2200-mennesker-smittet--1.17961916",
+      "category": "DR Kongo",
+      "pubDate": "Fri, 17 Jul 2026 23:57:53 GMT"
+    },
     {
       "title": "USA angriper Iran på nytt",
       "link": "https://www.nrk.no/nyheter/usa-angriper-iran-pa-nytt-1.17961912",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/politiet_-fortsatt-ikke-kontroll-pa-storbrann-1.17961905",
       "category": "Storbrann i Krokstadelva",
       "pubDate": "Fri, 17 Jul 2026 21:57:26 GMT"
-    },
-    {
-      "title": "Venezuela: Over 5.000 bekreftet omkommet",
-      "link": "https://www.nrk.no/nyheter/venezuela_-over-5.000-bekreftet-omkommet-1.17961903",
-      "category": "Venezuela",
-      "pubDate": "Fri, 17 Jul 2026 21:43:48 GMT"
-    },
-    {
-      "title": "Politiet: – Brannen har roet seg",
-      "link": "https://www.nrk.no/nyheter/politiet_-_-brannen-har-roet-seg-1.17961605",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Fri, 17 Jul 2026 21:07:25 GMT"
-    },
-    {
-      "title": "Iran advarer om fullskala-krig dersom amerikanske angrep fortsetter",
-      "link": "https://www.nrk.no/nyheter/iran-advarer-om-fullskala-krig-dersom-amerikanske-angrep-fortsetter-1.17961870",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Fri, 17 Jul 2026 20:09:21 GMT"
     }
   ]
 }
