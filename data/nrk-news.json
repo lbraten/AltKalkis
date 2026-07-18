@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-18T11:09:42.600Z",
+  "updatedAt": "2026-07-18T12:26:50.607Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kuwait skuldar Iran for å angripe sivile mål",
+      "link": "https://www.nrk.no/nyheter/kuwait-skuldar-iran-for-a-angripe-sivile-mal-1.17962164",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 18 Jul 2026 12:13:11 GMT"
+    },
+    {
+      "title": "Mann døde etter drukningsulykke i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/mann-dode-etter-drukningsulykke-i-oslo-1.17962153",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 18 Jul 2026 11:44:37 GMT"
+    },
+    {
+      "title": "Støre: – Noko av det vanskelegaste eit menneske kan oppleve",
+      "link": "https://www.nrk.no/nyheter/store_-_-noko-av-det-vanskelegaste-eit-menneske-kan-oppleve-1.17962154",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 18 Jul 2026 11:22:43 GMT"
+    },
     {
       "title": "Mann erkjenner drap etter skyting i Ålborg",
       "link": "https://www.nrk.no/nyheter/mann-erkjenner-drap-etter-skyting-i-alborg-1.17962144",
@@ -9,8 +27,8 @@
       "pubDate": "Sat, 18 Jul 2026 11:05:04 GMT"
     },
     {
-      "title": "Mener mann som drepte bestefar var utilregnlig",
-      "link": "https://www.nrk.no/stor-oslo/mener-mann-som-drepte-bestefar-var-utilregnlig-1.17962146",
+      "title": "Mener mann som drepte bestefar var utilregnelig",
+      "link": "https://www.nrk.no/stor-oslo/mener-mann-som-drepte-bestefar-var-utilregnelig-1.17962146",
       "category": "Drapet i Holmenkollåsen",
       "pubDate": "Sat, 18 Jul 2026 11:03:37 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tyskland-hevar-trusselnivaet-1.17962048",
       "category": "Tyskland",
       "pubDate": "Sat, 18 Jul 2026 10:48:19 GMT"
-    },
-    {
-      "title": "Strømmen tilbake etter strømbrudd",
-      "link": "https://www.nrk.no/innlandet/strommen-tilbake-etter-strombrudd-1.17962125",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 18 Jul 2026 10:20:56 GMT"
-    },
-    {
-      "title": "Norske rein i Russland kommer seg ikke hjem",
-      "link": "https://www.nrk.no/sapmi/norske-rein-i-russland-kommer-seg-ikke-hjem-1.17962097",
-      "category": "Ođđasat - norsk",
-      "pubDate": "Sat, 18 Jul 2026 09:41:06 GMT"
-    },
-    {
-      "title": "Store skogbranner i Canada rammer urfolksamfunn hardt",
-      "link": "https://www.nrk.no/sapmi/store-skogbranner-i-canada-rammer-urfolksamfunn-hardt-1.17962058",
-      "category": "Ođđasat - norsk",
-      "pubDate": "Sat, 18 Jul 2026 09:00:27 GMT"
     }
   ]
 }
