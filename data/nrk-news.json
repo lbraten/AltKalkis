@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-18T09:56:59.578Z",
+  "updatedAt": "2026-07-18T11:09:42.600Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann erkjenner drap etter skyting i Ålborg",
+      "link": "https://www.nrk.no/nyheter/mann-erkjenner-drap-etter-skyting-i-alborg-1.17962144",
+      "category": "Danmark",
+      "pubDate": "Sat, 18 Jul 2026 11:05:04 GMT"
+    },
+    {
+      "title": "Mener mann som drepte bestefar var utilregnlig",
+      "link": "https://www.nrk.no/stor-oslo/mener-mann-som-drepte-bestefar-var-utilregnlig-1.17962146",
+      "category": "Drapet i Holmenkollåsen",
+      "pubDate": "Sat, 18 Jul 2026 11:03:37 GMT"
+    },
+    {
+      "title": "Tyskland hevar trusselnivået",
+      "link": "https://www.nrk.no/nyheter/tyskland-hevar-trusselnivaet-1.17962048",
+      "category": "Tyskland",
+      "pubDate": "Sat, 18 Jul 2026 10:48:19 GMT"
+    },
+    {
+      "title": "Strømmen tilbake etter strømbrudd",
+      "link": "https://www.nrk.no/innlandet/strommen-tilbake-etter-strombrudd-1.17962125",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 18 Jul 2026 10:20:56 GMT"
+    },
     {
       "title": "Norske rein i Russland kommer seg ikke hjem",
       "link": "https://www.nrk.no/sapmi/norske-rein-i-russland-kommer-seg-ikke-hjem-1.17962097",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sapmi/store-skogbranner-i-canada-rammer-urfolksamfunn-hardt-1.17962058",
       "category": "Ođđasat - norsk",
       "pubDate": "Sat, 18 Jul 2026 09:00:27 GMT"
-    },
-    {
-      "title": "Over 500 uten strøm i Innlandet",
-      "link": "https://www.nrk.no/innlandet/over-500-uten-strom-i-innlandet-1.17962054",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 18 Jul 2026 08:36:18 GMT"
-    },
-    {
-      "title": "Johan Baumann er død",
-      "link": "https://www.nrk.no/nyheter/johan-baumann-er-dod-1.17962043",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 18 Jul 2026 08:29:45 GMT"
-    },
-    {
-      "title": "Ulming og småbrannar i Krokstadelva",
-      "link": "https://www.nrk.no/nyheter/ulming-og-smabrannar-i-krokstadelva-1.17962036",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 08:17:54 GMT"
-    },
-    {
-      "title": "Presidenten i Libanon på veg til Washington D.C.",
-      "link": "https://www.nrk.no/nyheter/presidenten-i-libanon-pa-veg-til-washington-d.c.-1.17961990",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Jul 2026 08:06:14 GMT"
     }
   ]
 }
