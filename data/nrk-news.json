@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-18T15:03:43.315Z",
+  "updatedAt": "2026-07-18T16:26:28.395Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brannårsaken fortsatt ukjent: – Det må man se på i ettertid",
+      "link": "https://www.nrk.no/nyheter/brannarsaken-fortsatt-ukjent_-_-det-ma-man-se-pa-i-ettertid-1.17962385",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 18 Jul 2026 16:04:28 GMT"
+    },
+    {
+      "title": "Brannvesenet: – Vi er berørt vi og",
+      "link": "https://www.nrk.no/nyheter/brannvesenet_-_-vi-er-berort-vi-og-1.17962369",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 18 Jul 2026 15:59:43 GMT"
+    },
+    {
+      "title": "Politiet om storbrannen: – Ser ikke noe mistenkelig",
+      "link": "https://www.nrk.no/nyheter/politiet-om-storbrannen_-__ser-ikke-noe-mistenkelig-1.17962329",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 18 Jul 2026 15:43:42 GMT"
+    },
     {
       "title": "Kronprins Haakon skal besøke Krokstadelva",
       "link": "https://www.nrk.no/nyheter/kronprins-haakon-skal-besoke-krokstadelva-1.17962315",
@@ -15,28 +33,10 @@
       "pubDate": "Sat, 18 Jul 2026 14:24:22 GMT"
     },
     {
-      "title": "Mann dømt for drap henrettet i Iran",
-      "link": "https://www.nrk.no/nyheter/mann-domt-for-drap-henrettet-i-iran-1.17962206",
-      "category": "Iran",
-      "pubDate": "Sat, 18 Jul 2026 13:58:01 GMT"
-    },
-    {
-      "title": "Brannsjefen mistet hjemmet i storbrannen",
-      "link": "https://www.nrk.no/nyheter/brannsjefen-mistet-hjemmet-i-storbrannen-1.17962205",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 13:35:24 GMT"
-    },
-    {
-      "title": "Trafikkulukke i Valldal",
-      "link": "https://www.nrk.no/mr/trafikkulukke-i-valldal--1.17962247",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 18 Jul 2026 13:28:34 GMT"
-    },
-    {
-      "title": "Frontkollisjon i Porsgrunn",
-      "link": "https://www.nrk.no/vestfoldogtelemark/frontkollisjon-i-porsgrunn-1.17962242",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 18 Jul 2026 13:04:42 GMT"
+      "title": "Biltyveri på Hundvåg – Fant stjålne våpen i bilen",
+      "link": "https://www.nrk.no/rogaland/biltyveri-pa-hundvag-_-fant-stjalne-vapen-i-bilen-1.17962312",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 18 Jul 2026 14:20:18 GMT"
     }
   ]
 }
