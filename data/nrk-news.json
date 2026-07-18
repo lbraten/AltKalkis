@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-18T13:58:23.242Z",
+  "updatedAt": "2026-07-18T15:03:43.315Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kronprins Haakon skal besøke Krokstadelva",
+      "link": "https://www.nrk.no/nyheter/kronprins-haakon-skal-besoke-krokstadelva-1.17962315",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 18 Jul 2026 14:45:26 GMT"
+    },
+    {
+      "title": "Kong Harald om storbrannen: – Føler med alle som har mistet hjemmene sine",
+      "link": "https://www.nrk.no/nyheter/kong-harald-om-storbrannen_-_-foler-med-alle-som-har-mistet-hjemmene-sine-1.17962298",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 18 Jul 2026 14:24:22 GMT"
+    },
+    {
+      "title": "Mann dømt for drap henrettet i Iran",
+      "link": "https://www.nrk.no/nyheter/mann-domt-for-drap-henrettet-i-iran-1.17962206",
+      "category": "Iran",
+      "pubDate": "Sat, 18 Jul 2026 13:58:01 GMT"
+    },
     {
       "title": "Brannsjefen mistet hjemmet i storbrannen",
       "link": "https://www.nrk.no/nyheter/brannsjefen-mistet-hjemmet-i-storbrannen-1.17962205",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/frontkollisjon-i-porsgrunn-1.17962242",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 18 Jul 2026 13:04:42 GMT"
-    },
-    {
-      "title": "Kuwait skuldar Iran for å angripe sivile mål",
-      "link": "https://www.nrk.no/nyheter/kuwait-skuldar-iran-for-a-angripe-sivile-mal-1.17962164",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Jul 2026 12:13:11 GMT"
-    },
-    {
-      "title": "Mann døde etter drukningsulykke i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/mann-dode-etter-drukningsulykke-i-oslo-1.17962153",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 18 Jul 2026 11:44:37 GMT"
-    },
-    {
-      "title": "Støre: – Noko av det vanskelegaste eit menneske kan oppleve",
-      "link": "https://www.nrk.no/nyheter/store_-_-noko-av-det-vanskelegaste-eit-menneske-kan-oppleve-1.17962154",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 18 Jul 2026 11:22:43 GMT"
     }
   ]
 }
