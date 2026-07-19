@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-19T19:40:54.852Z",
+  "updatedAt": "2026-07-19T20:52:05.391Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ice-agenter må bære kroppskamera",
+      "link": "https://www.nrk.no/nyheter/ice-agenter-ma-baere-kroppskamera-1.17963066",
+      "category": "USA",
+      "pubDate": "Sun, 19 Jul 2026 19:52:35 GMT"
+    },
     {
       "title": "VM-effekter auksjoneres bort til inntekt for brannrammede",
       "link": "https://www.nrk.no/nyheter/vm-effekter-auksjoneres-bort-til-inntekt-for-brannrammede-1.17963007",
@@ -15,8 +21,8 @@
       "pubDate": "Sun, 19 Jul 2026 18:39:21 GMT"
     },
     {
-      "title": "En person omkom trafikkulykke i Kvinesdal",
-      "link": "https://www.nrk.no/sorlandet/en-person-omkom-trafikkulykke-i-kvinesdal-1.17963003",
+      "title": "En person omkom i trafikkulykke i Kvinesdal",
+      "link": "https://www.nrk.no/sorlandet/en-person-omkom-i-trafikkulykke-i-kvinesdal-1.17963003",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 19 Jul 2026 17:24:48 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kronprinsen-om-kronprinsessen_-_-det-gar-heldigvis-bedre-1.17962989",
       "category": "Kongefamilien",
       "pubDate": "Sun, 19 Jul 2026 16:16:11 GMT"
-    },
-    {
-      "title": "Frontkollisjon i Kvinesdal",
-      "link": "https://www.nrk.no/sorlandet/frontkollisjon-i-kvinesdal-1.17962860",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 19 Jul 2026 14:57:04 GMT"
     }
   ]
 }
