@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-19T15:31:45.611Z",
+  "updatedAt": "2026-07-19T16:59:15.827Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kronprinsen om kronprinsessen: – Det går heldigvis bedre",
+      "link": "https://www.nrk.no/nyheter/kronprinsen-om-kronprinsessen_-_-det-gar-heldigvis-bedre-1.17962989",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 19 Jul 2026 16:16:11 GMT"
+    },
     {
       "title": "Frontkollisjon i Kvinesdal",
       "link": "https://www.nrk.no/sorlandet/frontkollisjon-i-kvinesdal-1.17962860",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fem-personer-dode-etter-jordskjelv-i-peru-1.17962841",
       "category": "Peru",
       "pubDate": "Sun, 19 Jul 2026 13:49:59 GMT"
-    },
-    {
-      "title": "Amerikansk kvinne i 20-årene omkom i klatreulykke i Luster",
-      "link": "https://www.nrk.no/nyheter/amerikansk-kvinne-i-20-arene-omkom-i-klatreulykke-i-luster-1.17962800",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 19 Jul 2026 13:14:54 GMT"
     }
   ]
 }
