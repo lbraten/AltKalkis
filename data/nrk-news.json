@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-19T21:54:12.926Z",
+  "updatedAt": "2026-07-19T22:54:23.001Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "VM-utdelingen: Piping mot Trump og Infantino",
+      "link": "https://www.nrk.no/nyheter/vm-utdelingen_-piping-mot-trump-og-infantino-1.17963112",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Sun, 19 Jul 2026 22:44:53 GMT"
+    },
+    {
+      "title": "Spania har vunnet fotball-VM",
+      "link": "https://www.nrk.no/nyheter/spania-har-vunnet-fotball-vm-1.17963110",
+      "category": "Fotball-VM 2026",
+      "pubDate": "Sun, 19 Jul 2026 22:04:24 GMT"
+    },
+    {
+      "title": "Krokstadelva: – Fortsatt varme i grunnen",
+      "link": "https://www.nrk.no/nyheter/krokstadelva_-_-fortsatt-varme-i-grunnen-1.17963101",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sun, 19 Jul 2026 21:53:51 GMT"
+    },
     {
       "title": "Ice-agenter må bære kroppskamera",
       "link": "https://www.nrk.no/nyheter/ice-agenter-ma-baere-kroppskamera-1.17963066",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/fyllekjorte-med-barn-i-bat-1.17962890",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 19 Jul 2026 18:39:21 GMT"
-    },
-    {
-      "title": "En person omkom i trafikkulykke i Kvinesdal",
-      "link": "https://www.nrk.no/sorlandet/en-person-omkom-i-trafikkulykke-i-kvinesdal-1.17963003",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 19 Jul 2026 17:24:48 GMT"
-    },
-    {
-      "title": "Nå får de første flytte hjem: – En kjempestor og krevende jobb",
-      "link": "https://www.nrk.no/nyheter/na-far-de-forste-flytte-hjem_-_-en-kjempestor-og-krevende-jobb-1.17963013",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sun, 19 Jul 2026 17:11:07 GMT"
-    },
-    {
-      "title": "Kronprinsen om kronprinsessen: – Det går heldigvis bedre",
-      "link": "https://www.nrk.no/nyheter/kronprinsen-om-kronprinsessen_-_-det-gar-heldigvis-bedre-1.17962989",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 19 Jul 2026 16:16:11 GMT"
     }
   ]
 }
