@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-19T22:54:23.001Z",
+  "updatedAt": "2026-07-19T23:59:24.517Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kuwait: Forsvarer seg mot iransk droneangrep",
+      "link": "https://www.nrk.no/nyheter/kuwait_-forsvarer-seg-mot-iransk-droneangrep-1.17963130",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 19 Jul 2026 23:47:07 GMT"
+    },
+    {
+      "title": "USA med nye angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/usa-med-nye-angrep-mot-iran-1.17963121",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 19 Jul 2026 23:21:23 GMT"
+    },
     {
       "title": "VM-utdelingen: Piping mot Trump og Infantino",
       "link": "https://www.nrk.no/nyheter/vm-utdelingen_-piping-mot-trump-og-infantino-1.17963112",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ice-agenter-ma-baere-kroppskamera-1.17963066",
       "category": "USA",
       "pubDate": "Sun, 19 Jul 2026 19:52:35 GMT"
-    },
-    {
-      "title": "VM-effekter auksjoneres bort til inntekt for brannrammede",
-      "link": "https://www.nrk.no/nyheter/vm-effekter-auksjoneres-bort-til-inntekt-for-brannrammede-1.17963007",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sun, 19 Jul 2026 18:52:28 GMT"
-    },
-    {
-      "title": "Fyllekjørte med barn i båt",
-      "link": "https://www.nrk.no/stor-oslo/fyllekjorte-med-barn-i-bat-1.17962890",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 19 Jul 2026 18:39:21 GMT"
     }
   ]
 }
