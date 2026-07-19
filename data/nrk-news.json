@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-19T09:28:19.970Z",
+  "updatedAt": "2026-07-19T10:55:28.802Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Drammens Tidende: Politiet trur uhell eller sjølvtenning forårsaka brannen",
+      "link": "https://www.nrk.no/nyheter/drammens-tidende_-politiet-trur-uhell-eller-sjolvtenning-forarsaka-brannen-1.17962745",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sun, 19 Jul 2026 10:37:22 GMT"
+    },
+    {
+      "title": "Ukraina har treft russiske oljelager",
+      "link": "https://www.nrk.no/nyheter/ukraina-har-treft-russiske-oljelager-1.17962725",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 19 Jul 2026 09:39:55 GMT"
+    },
     {
       "title": "DR Kongo: 2267 smitta av ebola",
       "link": "https://www.nrk.no/nyheter/dr-kongo_-2267-smitta-av-ebola-1.17962720",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-kommisjonen-med-stottemelding-til-spania-for-finalen-1.17962619",
       "category": "Fotball-VM 2026",
       "pubDate": "Sun, 19 Jul 2026 08:50:46 GMT"
-    },
-    {
-      "title": "MC-ulykke i Steinkjer: – Fremstår som alvorlig",
-      "link": "https://www.nrk.no/trondelag/mc-ulykke-i-steinkjer_-_-fremstar-som-alvorlig-1.17962660",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 19 Jul 2026 07:25:35 GMT"
-    },
-    {
-      "title": "Ga fellingstillatelse på bjørn i Tynset",
-      "link": "https://www.nrk.no/innlandet/ga-fellingstillatelse-pa-bjorn-i-tynset-1.17962646",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 19 Jul 2026 07:16:40 GMT"
     }
   ]
 }
