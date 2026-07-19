@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-19T18:02:29.219Z",
+  "updatedAt": "2026-07-19T19:40:54.852Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "VM-effekter auksjoneres bort til inntekt for brannrammede",
+      "link": "https://www.nrk.no/nyheter/vm-effekter-auksjoneres-bort-til-inntekt-for-brannrammede-1.17963007",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sun, 19 Jul 2026 18:52:28 GMT"
+    },
+    {
+      "title": "Fyllekjørte med barn i båt",
+      "link": "https://www.nrk.no/stor-oslo/fyllekjorte-med-barn-i-bat-1.17962890",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 19 Jul 2026 18:39:21 GMT"
+    },
     {
       "title": "En person omkom trafikkulykke i Kvinesdal",
       "link": "https://www.nrk.no/sorlandet/en-person-omkom-trafikkulykke-i-kvinesdal-1.17963003",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/frontkollisjon-i-kvinesdal-1.17962860",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 19 Jul 2026 14:57:04 GMT"
-    },
-    {
-      "title": "Utenlandsk mann døde i ulykke i Finnmark",
-      "link": "https://www.nrk.no/nyheter/utenlandsk-mann-dode-i-ulykke-i-finnmark-1.17962877",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 19 Jul 2026 14:55:34 GMT"
-    },
-    {
-      "title": "Terrengbrann i naturreservat i Innlandet",
-      "link": "https://www.nrk.no/innlandet/terrengbrann-i-naturreservat-i-innlandet-1.17962898",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 19 Jul 2026 14:27:09 GMT"
     }
   ]
 }
