@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-19T14:01:43.536Z",
+  "updatedAt": "2026-07-19T15:31:45.611Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Frontkollisjon i Kvinesdal",
+      "link": "https://www.nrk.no/sorlandet/frontkollisjon-i-kvinesdal-1.17962860",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 19 Jul 2026 14:57:04 GMT"
+    },
+    {
+      "title": "Utenlandsk mann døde i ulykke i Finnmark",
+      "link": "https://www.nrk.no/nyheter/utenlandsk-mann-dode-i-ulykke-i-finnmark-1.17962877",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 19 Jul 2026 14:55:34 GMT"
+    },
+    {
+      "title": "Terrengbrann i naturreservat i Innlandet",
+      "link": "https://www.nrk.no/innlandet/terrengbrann-i-naturreservat-i-innlandet-1.17962898",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sun, 19 Jul 2026 14:27:09 GMT"
+    },
+    {
+      "title": "Hannbjørn felt i Tynset",
+      "link": "https://www.nrk.no/innlandet/hannbjorn-felt-i-tynset-1.17962858",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 19 Jul 2026 14:20:47 GMT"
+    },
     {
       "title": "Fem personer døde etter jordskjelv i Peru",
       "link": "https://www.nrk.no/nyheter/fem-personer-dode-etter-jordskjelv-i-peru-1.17962841",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/amerikansk-kvinne-i-20-arene-omkom-i-klatreulykke-i-luster-1.17962800",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 19 Jul 2026 13:14:54 GMT"
-    },
-    {
-      "title": "Ingen spredningsfare, men fortsatt ikke kontroll på brann i Krokstadelva",
-      "link": "https://www.nrk.no/nyheter/ingen-spredningsfare_-men-fortsatt-ikke-kontroll-pa-brann-i-krokstadelva-1.17962799",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sun, 19 Jul 2026 12:16:31 GMT"
-    },
-    {
-      "title": "Drammens Tidende: Politiet trur uhell eller sjølvtenning forårsaka brannen",
-      "link": "https://www.nrk.no/nyheter/drammens-tidende_-politiet-trur-uhell-eller-sjolvtenning-forarsaka-brannen-1.17962745",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sun, 19 Jul 2026 10:37:22 GMT"
-    },
-    {
-      "title": "Ukraina har treft russiske oljelager",
-      "link": "https://www.nrk.no/nyheter/ukraina-har-treft-russiske-oljelager-1.17962725",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 19 Jul 2026 09:39:55 GMT"
-    },
-    {
-      "title": "DR Kongo: 2267 smitta av ebola",
-      "link": "https://www.nrk.no/nyheter/dr-kongo_-2267-smitta-av-ebola-1.17962720",
-      "category": "Ebola",
-      "pubDate": "Sun, 19 Jul 2026 09:24:35 GMT"
     }
   ]
 }
