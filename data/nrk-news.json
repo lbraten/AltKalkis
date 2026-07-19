@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-19T04:48:37.755Z",
+  "updatedAt": "2026-07-19T07:27:24.514Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Klatreulukke i Jotunheimen",
+      "link": "https://www.nrk.no/vestland/klatreulukke-i-jotunheimen-1.17962604",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 19 Jul 2026 06:31:12 GMT"
+    },
+    {
+      "title": "Russland med størte åtak sidan krigen starta",
+      "link": "https://www.nrk.no/nyheter/russland-med-storte-atak-sidan-krigen-starta-1.17962599",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 19 Jul 2026 06:15:38 GMT"
+    },
+    {
+      "title": "Kjølig og vått vær hjelper etter storbrannen",
+      "link": "https://www.nrk.no/buskerud/kjolig-og-vatt-vaer-hjelper-etter-storbrannen-1.17962605",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sun, 19 Jul 2026 06:11:19 GMT"
+    },
+    {
+      "title": "Bad Bunny-konsert avlyst på grunn a hagl – fleire skadd",
+      "link": "https://www.nrk.no/nyheter/bad-bunny-konsert-avlyst-pa-grunn-a-hagl-_-fleire-skadd-1.17962596",
+      "category": "Kjendiser og underholdning",
+      "pubDate": "Sun, 19 Jul 2026 05:22:14 GMT"
+    },
     {
       "title": "Iran: Har angrepet baser i Kuwait",
       "link": "https://www.nrk.no/nyheter/iran_-har-angrepet-baser-i-kuwait-1.17962591",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina_-en-drept-og-ni-saret-1.17962588",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 19 Jul 2026 02:50:44 GMT"
-    },
-    {
-      "title": "Kyiv-ordfører: Sju såret i russiske angrep",
-      "link": "https://www.nrk.no/nyheter/kyiv-ordforer_-sju-saret-i-russiske-angrep-1.17962585",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 19 Jul 2026 01:57:49 GMT"
-    },
-    {
-      "title": "Mann omkom i traktorulykke på Helgeland",
-      "link": "https://www.nrk.no/nyheter/mann-omkom-i-traktorulykke-pa-helgeland-1.17962577",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sun, 19 Jul 2026 00:51:49 GMT"
-    },
-    {
-      "title": "AP: Tate-brødrene pågrepet i Miami",
-      "link": "https://www.nrk.no/nyheter/ap_-tate-brodrene-pagrepet-i-miami-1.17962574",
-      "category": "Andrew Tate",
-      "pubDate": "Sat, 18 Jul 2026 23:28:53 GMT"
-    },
-    {
-      "title": "Over 5.100 bekreftet omkommet i Venezuela",
-      "link": "https://www.nrk.no/nyheter/over-5.100-bekreftet-omkommet-i-venezuela-1.17962567",
-      "category": "Venezuela",
-      "pubDate": "Sat, 18 Jul 2026 23:14:47 GMT"
     }
   ]
 }
