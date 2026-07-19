@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-19T01:03:17.545Z",
+  "updatedAt": "2026-07-19T04:48:37.755Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Har angrepet baser i Kuwait",
+      "link": "https://www.nrk.no/nyheter/iran_-har-angrepet-baser-i-kuwait-1.17962591",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 19 Jul 2026 03:13:45 GMT"
+    },
+    {
+      "title": "Ukraina: En drept og ni såret",
+      "link": "https://www.nrk.no/nyheter/ukraina_-en-drept-og-ni-saret-1.17962588",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 19 Jul 2026 02:50:44 GMT"
+    },
+    {
+      "title": "Kyiv-ordfører: Sju såret i russiske angrep",
+      "link": "https://www.nrk.no/nyheter/kyiv-ordforer_-sju-saret-i-russiske-angrep-1.17962585",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 19 Jul 2026 01:57:49 GMT"
+    },
     {
       "title": "Mann omkom i traktorulykke på Helgeland",
       "link": "https://www.nrk.no/nyheter/mann-omkom-i-traktorulykke-pa-helgeland-1.17962577",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/over-5.100-bekreftet-omkommet-i-venezuela-1.17962567",
       "category": "Venezuela",
       "pubDate": "Sat, 18 Jul 2026 23:14:47 GMT"
-    },
-    {
-      "title": "England tok VM-bronse",
-      "link": "https://www.nrk.no/nyheter/england-tok-vm-bronse-1.17962565",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Sat, 18 Jul 2026 23:03:35 GMT"
-    },
-    {
-      "title": "AFP: Eksplosjoner i Kyiv",
-      "link": "https://www.nrk.no/nyheter/afp_-eksplosjoner-i-kyiv-1.17962563",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 18 Jul 2026 23:01:12 GMT"
-    },
-    {
-      "title": "USA: – Angriper Iran",
-      "link": "https://www.nrk.no/nyheter/usa_-_-angriper-iran-1.17962559",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 18 Jul 2026 22:56:14 GMT"
     }
   ]
 }
