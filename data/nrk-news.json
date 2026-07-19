@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-19T12:00:21.103Z",
+  "updatedAt": "2026-07-19T14:01:43.536Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fem personer døde etter jordskjelv i Peru",
+      "link": "https://www.nrk.no/nyheter/fem-personer-dode-etter-jordskjelv-i-peru-1.17962841",
+      "category": "Peru",
+      "pubDate": "Sun, 19 Jul 2026 13:49:59 GMT"
+    },
+    {
+      "title": "Amerikansk kvinne i 20-årene omkom i klatreulykke i Luster",
+      "link": "https://www.nrk.no/nyheter/amerikansk-kvinne-i-20-arene-omkom-i-klatreulykke-i-luster-1.17962800",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 19 Jul 2026 13:14:54 GMT"
+    },
+    {
+      "title": "Ingen spredningsfare, men fortsatt ikke kontroll på brann i Krokstadelva",
+      "link": "https://www.nrk.no/nyheter/ingen-spredningsfare_-men-fortsatt-ikke-kontroll-pa-brann-i-krokstadelva-1.17962799",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sun, 19 Jul 2026 12:16:31 GMT"
+    },
     {
       "title": "Drammens Tidende: Politiet trur uhell eller sjølvtenning forårsaka brannen",
       "link": "https://www.nrk.no/nyheter/drammens-tidende_-politiet-trur-uhell-eller-sjolvtenning-forarsaka-brannen-1.17962745",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dr-kongo_-2267-smitta-av-ebola-1.17962720",
       "category": "Ebola",
       "pubDate": "Sun, 19 Jul 2026 09:24:35 GMT"
-    },
-    {
-      "title": "Minst 50 soldatar drepne i Mali",
-      "link": "https://www.nrk.no/nyheter/minst-50-soldatar-drepne-i-mali-1.17962712",
-      "category": "Mali",
-      "pubDate": "Sun, 19 Jul 2026 09:15:11 GMT"
-    },
-    {
-      "title": "Lange køer på E18 etter brann",
-      "link": "https://www.nrk.no/vestfoldogtelemark/lange-koer-pa-e18-etter-brann-1.17962703",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 19 Jul 2026 09:03:42 GMT"
-    },
-    {
-      "title": "Skogbrannane i Spania fortset",
-      "link": "https://www.nrk.no/nyheter/skogbrannane-i-spania-fortset-1.17962706",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 19 Jul 2026 09:01:26 GMT"
     }
   ]
 }
