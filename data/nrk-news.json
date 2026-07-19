@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T10:55:28.802Z",
+  "updatedAt": "2026-07-19T12:00:21.103Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
@@ -27,16 +27,16 @@
       "pubDate": "Sun, 19 Jul 2026 09:15:11 GMT"
     },
     {
+      "title": "Lange køer på E18 etter brann",
+      "link": "https://www.nrk.no/vestfoldogtelemark/lange-koer-pa-e18-etter-brann-1.17962703",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 19 Jul 2026 09:03:42 GMT"
+    },
+    {
       "title": "Skogbrannane i Spania fortset",
       "link": "https://www.nrk.no/nyheter/skogbrannane-i-spania-fortset-1.17962706",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Sun, 19 Jul 2026 09:01:26 GMT"
-    },
-    {
-      "title": "EU-kommisjonen med støttemelding til Spania før finalen",
-      "link": "https://www.nrk.no/nyheter/eu-kommisjonen-med-stottemelding-til-spania-for-finalen-1.17962619",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Sun, 19 Jul 2026 08:50:46 GMT"
     }
   ]
 }
