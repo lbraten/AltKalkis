@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-19T16:59:15.827Z",
+  "updatedAt": "2026-07-19T18:02:29.219Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En person omkom trafikkulykke i Kvinesdal",
+      "link": "https://www.nrk.no/sorlandet/en-person-omkom-trafikkulykke-i-kvinesdal-1.17963003",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 19 Jul 2026 17:24:48 GMT"
+    },
+    {
+      "title": "Nå får de første flytte hjem: – En kjempestor og krevende jobb",
+      "link": "https://www.nrk.no/nyheter/na-far-de-forste-flytte-hjem_-_-en-kjempestor-og-krevende-jobb-1.17963013",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sun, 19 Jul 2026 17:11:07 GMT"
+    },
     {
       "title": "Kronprinsen om kronprinsessen: – Det går heldigvis bedre",
       "link": "https://www.nrk.no/nyheter/kronprinsen-om-kronprinsessen_-_-det-gar-heldigvis-bedre-1.17962989",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/innlandet/terrengbrann-i-naturreservat-i-innlandet-1.17962898",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sun, 19 Jul 2026 14:27:09 GMT"
-    },
-    {
-      "title": "Hannbjørn felt i Tynset",
-      "link": "https://www.nrk.no/innlandet/hannbjorn-felt-i-tynset-1.17962858",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 19 Jul 2026 14:20:47 GMT"
-    },
-    {
-      "title": "Fem personer døde etter jordskjelv i Peru",
-      "link": "https://www.nrk.no/nyheter/fem-personer-dode-etter-jordskjelv-i-peru-1.17962841",
-      "category": "Peru",
-      "pubDate": "Sun, 19 Jul 2026 13:49:59 GMT"
     }
   ]
 }
