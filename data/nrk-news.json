@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-20T18:55:09.788Z",
+  "updatedAt": "2026-07-20T20:22:04.029Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kurdiske kunstnere til festival i Norge – nektes visum",
+      "link": "https://www.nrk.no/nyheter/kurdiske-kunstnere-til-festival-i-norge-_-nektes-visum--1.17964113",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 20 Jul 2026 19:35:18 GMT"
+    },
     {
       "title": "28-åring siktet for drapet på Ann Widdecombe",
       "link": "https://www.nrk.no/nyheter/28-aring-siktet-for-drapet-pa-ann-widdecombe-1.17964107",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/john-healey-blir-ny-britisk-finansminister-1.17964057",
       "category": "Storbritannia",
       "pubDate": "Mon, 20 Jul 2026 17:18:08 GMT"
-    },
-    {
-      "title": "Dommer beordrer stans i Paramounts oppkjøp av Warner Bros",
-      "link": "https://www.nrk.no/nyheter/dommer-beordrer-stans-i-paramounts-oppkjop-av-warner-bros-1.17963959",
-      "category": "USA",
-      "pubDate": "Mon, 20 Jul 2026 17:07:02 GMT"
     }
   ]
 }
