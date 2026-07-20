@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-19T23:59:24.517Z",
+  "updatedAt": "2026-07-20T03:54:38.227Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ordfører: – Over 400 droner mot Moskva-regionen",
+      "link": "https://www.nrk.no/nyheter/ordforer_-_-over-400-droner-mot-moskva-regionen-1.17963152",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 20 Jul 2026 03:26:34 GMT"
+    },
+    {
+      "title": "Mulig knivstikking i Oslo",
+      "link": "https://www.nrk.no/nyheter/mulig-knivstikking-i-oslo-1.17963146",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 20 Jul 2026 02:42:49 GMT"
+    },
+    {
+      "title": "USA: Nattens angrep mot Iran er avsluttet",
+      "link": "https://www.nrk.no/nyheter/usa_-nattens-angrep-mot-iran-er-avsluttet-1.17963144",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 20 Jul 2026 02:20:24 GMT"
+    },
+    {
+      "title": "Kilde til sjøfartstjeneste: Fartøy i brann utenfor Oman",
+      "link": "https://www.nrk.no/nyheter/kilde-til-sjofartstjeneste_-fartoy-i-brann-utenfor-oman-1.17963143",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 20 Jul 2026 01:58:48 GMT"
+    },
+    {
+      "title": "Visepresident Vance har fått et fjerde barn",
+      "link": "https://www.nrk.no/nyheter/visepresident-vance-har-fatt-et-fjerde-barn-1.17963131",
+      "category": "USA",
+      "pubDate": "Mon, 20 Jul 2026 01:36:01 GMT"
+    },
     {
       "title": "Kuwait: Forsvarer seg mot iransk droneangrep",
       "link": "https://www.nrk.no/nyheter/kuwait_-forsvarer-seg-mot-iransk-droneangrep-1.17963130",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 19 Jul 2026 23:47:07 GMT"
-    },
-    {
-      "title": "USA med nye angrep mot Iran",
-      "link": "https://www.nrk.no/nyheter/usa-med-nye-angrep-mot-iran-1.17963121",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 19 Jul 2026 23:21:23 GMT"
-    },
-    {
-      "title": "VM-utdelingen: Piping mot Trump og Infantino",
-      "link": "https://www.nrk.no/nyheter/vm-utdelingen_-piping-mot-trump-og-infantino-1.17963112",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Sun, 19 Jul 2026 22:44:53 GMT"
-    },
-    {
-      "title": "Spania har vunnet fotball-VM",
-      "link": "https://www.nrk.no/nyheter/spania-har-vunnet-fotball-vm-1.17963110",
-      "category": "Fotball-VM 2026",
-      "pubDate": "Sun, 19 Jul 2026 22:04:24 GMT"
-    },
-    {
-      "title": "Krokstadelva: – Fortsatt varme i grunnen",
-      "link": "https://www.nrk.no/nyheter/krokstadelva_-_-fortsatt-varme-i-grunnen-1.17963101",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sun, 19 Jul 2026 21:53:51 GMT"
-    },
-    {
-      "title": "Ice-agenter må bære kroppskamera",
-      "link": "https://www.nrk.no/nyheter/ice-agenter-ma-baere-kroppskamera-1.17963066",
-      "category": "USA",
-      "pubDate": "Sun, 19 Jul 2026 19:52:35 GMT"
     }
   ]
 }
