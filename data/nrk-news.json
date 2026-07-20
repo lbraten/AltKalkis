@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-20T21:43:26.935Z",
+  "updatedAt": "2026-07-20T23:01:47.126Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Wes Streeting ny forsvarsminister i Storbritannia",
+      "link": "https://www.nrk.no/nyheter/wes-streeting-ny-forsvarsminister-i-storbritannia-1.17964215",
+      "category": "Storbritannia",
+      "pubDate": "Mon, 20 Jul 2026 22:13:01 GMT"
+    },
     {
       "title": "USA innfører 50 prosent toll på flere varer fra Canada",
       "link": "https://www.nrk.no/nyheter/usa-innforer-50-prosent-toll-pa-flere-varer-fra-canada-1.17964197",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/28-aring-siktet-for-drapet-pa-ann-widdecombe-1.17964107",
       "category": "Storbritannia",
       "pubDate": "Mon, 20 Jul 2026 18:02:43 GMT"
-    },
-    {
-      "title": "Over 40 grader i Hellas",
-      "link": "https://www.nrk.no/nyheter/over-40-grader-i-hellas-1.17964104",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Mon, 20 Jul 2026 17:58:13 GMT"
     }
   ]
 }
