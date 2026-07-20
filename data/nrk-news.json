@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-20T20:22:04.029Z",
+  "updatedAt": "2026-07-20T21:43:26.935Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA innfører 50 prosent toll på flere varer fra Canada",
+      "link": "https://www.nrk.no/nyheter/usa-innforer-50-prosent-toll-pa-flere-varer-fra-canada-1.17964197",
+      "category": "Handelsavtaler og toll",
+      "pubDate": "Mon, 20 Jul 2026 21:09:24 GMT"
+    },
+    {
+      "title": "Saudi-koalisjonen i Jemen advarer houthiene",
+      "link": "https://www.nrk.no/nyheter/saudi-koalisjonen-i-jemen-advarer-houthiene--1.17964184",
+      "category": "Jemen",
+      "pubDate": "Mon, 20 Jul 2026 20:34:27 GMT"
+    },
+    {
+      "title": "USA med nye angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/usa-med-nye-angrep-mot-iran-1.17964182",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 20 Jul 2026 20:23:16 GMT"
+    },
     {
       "title": "Kurdiske kunstnere til festival i Norge – nektes visum",
       "link": "https://www.nrk.no/nyheter/kurdiske-kunstnere-til-festival-i-norge-_-nektes-visum--1.17964113",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/over-40-grader-i-hellas-1.17964104",
       "category": "Hetebølge og varmerekorder",
       "pubDate": "Mon, 20 Jul 2026 17:58:13 GMT"
-    },
-    {
-      "title": "Ed Miliband blir britisk utenriksminister",
-      "link": "https://www.nrk.no/nyheter/ed-miliband-blir-britisk-utenriksminister-1.17964060",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 20 Jul 2026 17:54:18 GMT"
-    },
-    {
-      "title": "Raumabanen åpnet for trafikk",
-      "link": "https://www.nrk.no/mr/raumabanen-apnet-for-trafikk--1.17964083",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Mon, 20 Jul 2026 17:35:51 GMT"
-    },
-    {
-      "title": "John Healey blir ny britisk finansminister",
-      "link": "https://www.nrk.no/nyheter/john-healey-blir-ny-britisk-finansminister-1.17964057",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 20 Jul 2026 17:18:08 GMT"
     }
   ]
 }
