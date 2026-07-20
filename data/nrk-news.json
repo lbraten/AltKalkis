@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-20T12:31:51.228Z",
+  "updatedAt": "2026-07-20T15:12:05.141Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Fem drept og 23 skadet i ukrainsk droneangrep i Belgorod",
-      "link": "https://www.nrk.no/nyheter/fem-drept-og-23-skadet-i-ukrainsk-droneangrep-i-belgorod-1.17963742",
+      "title": "Ulv felt i Sør-Fron kommune",
+      "link": "https://www.nrk.no/nyheter/ulv-felt-i-sor-fron-kommune-1.17963916",
+      "category": "Ulv",
+      "pubDate": "Mon, 20 Jul 2026 14:56:00 GMT"
+    },
+    {
+      "title": "Kevin Keegan er død",
+      "link": "https://www.nrk.no/sport/kevin-keegan-er-dod-1.17963922",
+      "category": "Sportsnyheter",
+      "pubDate": "Mon, 20 Jul 2026 14:24:11 GMT"
+    },
+    {
+      "title": "Ledige plasser på over 550 studieprogrammer",
+      "link": "https://www.nrk.no/nyheter/ledige-plasser-pa-over-550-studieprogrammer-1.17963909",
+      "category": "Høyere utdanning",
+      "pubDate": "Mon, 20 Jul 2026 14:17:37 GMT"
+    },
+    {
+      "title": "DSB skal granske brannen i Krokstadelva",
+      "link": "https://www.nrk.no/nyheter/dsb-skal-granske-brannen-i-krokstadelva-1.17963858",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Mon, 20 Jul 2026 14:12:49 GMT"
+    },
+    {
+      "title": "Mann død etter hendelse på Ålgård",
+      "link": "https://www.nrk.no/rogaland/mann-dod-etter-hendelse-pa-algard-1.17963853",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 20 Jul 2026 13:40:41 GMT"
+    },
+    {
+      "title": "Tre drept i russisk angrep på Odesa",
+      "link": "https://www.nrk.no/nyheter/tre-drept-i-russisk-angrep-pa-odesa-1.17963798",
       "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 20 Jul 2026 12:18:23 GMT"
-    },
-    {
-      "title": "Støre gratulerer Storbritannias nye statsminister",
-      "link": "https://www.nrk.no/nyheter/store-gratulerer-storbritannias-nye-statsminister-1.17963703",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 20 Jul 2026 12:07:44 GMT"
-    },
-    {
-      "title": "Merz gratulerer Burnham",
-      "link": "https://www.nrk.no/nyheter/merz-gratulerer-burnham-1.17963665",
-      "category": "Tyskland",
-      "pubDate": "Mon, 20 Jul 2026 11:45:07 GMT"
-    },
-    {
-      "title": "Mener Iran er i «fullskalakrig» med USA",
-      "link": "https://www.nrk.no/nyheter/mener-iran-er-i-_fullskalakrig_-med-usa-1.17963659",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 20 Jul 2026 11:26:45 GMT"
-    },
-    {
-      "title": "Andy Burnham utnevnt til ny statsminister i Storbritannia",
-      "link": "https://www.nrk.no/nyheter/andy-burnham-utnevnt-til-ny-statsminister-i-storbritannia-1.17963638",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 20 Jul 2026 11:23:40 GMT"
-    },
-    {
-      "title": "Hamas: Khalil al-Hayya valgt som ny leder",
-      "link": "https://www.nrk.no/nyheter/hamas_-khalil-al-hayya-valgt-som-ny-leder-1.17963623",
-      "category": "Hamas",
-      "pubDate": "Mon, 20 Jul 2026 11:13:05 GMT"
+      "pubDate": "Mon, 20 Jul 2026 13:08:45 GMT"
     }
   ]
 }
