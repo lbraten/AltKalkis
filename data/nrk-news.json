@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-21T10:01:56.890Z",
+  "updatedAt": "2026-07-21T12:08:28.991Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "India krever svar fra Russland etter angrep på lasteskip",
-      "link": "https://www.nrk.no/nyheter/india-krever-svar-fra-russland-etter-angrep-pa-lasteskip-1.17964532",
+      "title": "Melding om kniv på tog",
+      "link": "https://www.nrk.no/rogaland/melding-om-kniv-pa-tog-1.17964671",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Tue, 21 Jul 2026 11:55:28 GMT"
+    },
+    {
+      "title": "Zelenskyj: Minst tre drept i nye angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-minst-tre-drept-i-nye-angrep-i-ukraina-1.17964661",
       "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 21 Jul 2026 10:00:34 GMT"
+      "pubDate": "Tue, 21 Jul 2026 11:52:39 GMT"
     },
     {
-      "title": "110-sentralen : – Aldri opplevd tilsvarende",
-      "link": "https://www.nrk.no/nyheter/110-sentralen-_-_-aldri-opplevd-tilsvarende-1.17964579",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Tue, 21 Jul 2026 09:25:22 GMT"
+      "title": "Alvorlig dykkerulykke i Gulen",
+      "link": "https://www.nrk.no/vestland/alvorlig-dykkerulykke-i-gulen-1.17964771",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 21 Jul 2026 11:47:24 GMT"
     },
     {
-      "title": "FN: Flere sivile rammes av Ukraina-krigen",
-      "link": "https://www.nrk.no/nyheter/fn_-flere-sivile-rammes-av-ukraina-krigen-1.17964583",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 21 Jul 2026 09:11:28 GMT"
+      "title": "Iran angrep kraft- og avsaltingsanlegg i Kuwait",
+      "link": "https://www.nrk.no/nyheter/iran-angrep-kraft--og-avsaltingsanlegg-i-kuwait-1.17964798",
+      "category": "Kuwait",
+      "pubDate": "Tue, 21 Jul 2026 11:34:03 GMT"
     },
     {
-      "title": "Bahrain opplyser at de har stanset iranske luftangrep",
-      "link": "https://www.nrk.no/nyheter/bahrain-opplyser-at-de-har-stanset-iranske-luftangrep-1.17964557",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 21 Jul 2026 09:02:14 GMT"
+      "title": "FN fordømmer opptrappede israelske angrep i Gaza",
+      "link": "https://www.nrk.no/nyheter/fn-fordommer-opptrappede-israelske-angrep-i-gaza-1.17964792",
+      "category": "Krigen i Gaza",
+      "pubDate": "Tue, 21 Jul 2026 11:27:08 GMT"
     },
     {
-      "title": "Ny hetebølge i Spania – populært turistmål spesielt rammet",
-      "link": "https://www.nrk.no/nyheter/ny-hetebolge-i-spania-_-populaert-turistmal-spesielt-rammet-1.17964553",
-      "category": "Spania",
-      "pubDate": "Tue, 21 Jul 2026 08:52:31 GMT"
-    },
-    {
-      "title": "115 barn drept i Kharkiv-regionen siden 2022",
-      "link": "https://www.nrk.no/nyheter/115-barn-drept-i-kharkiv-regionen-siden-2022-1.17964519",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 21 Jul 2026 08:51:29 GMT"
+      "title": "Advarer redierier i saudiarbiske havner",
+      "link": "https://www.nrk.no/nyheter/advarer-redierier-i-saudiarbiske-havner-1.17964751",
+      "category": "Saudi-Arabia",
+      "pubDate": "Tue, 21 Jul 2026 11:22:54 GMT"
     }
   ]
 }
