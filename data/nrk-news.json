@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-20T23:01:47.126Z",
+  "updatedAt": "2026-07-21T00:58:32.722Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tankskip truffet av prosjektil i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/tankskip-truffet-av-prosjektil-i-hormuzstredet-1.17964221",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 21 Jul 2026 00:03:55 GMT"
+    },
+    {
+      "title": "Trump: – Veldig god samtale med Burnham",
+      "link": "https://www.nrk.no/nyheter/trump_-_-veldig-god-samtale-med-burnham-1.17964220",
+      "category": "Storbritannia",
+      "pubDate": "Mon, 20 Jul 2026 23:47:12 GMT"
+    },
+    {
+      "title": "Minst 27 døde etter fergeforlis i Guyana",
+      "link": "https://www.nrk.no/nyheter/minst-27-dode-etter-fergeforlis-i-guyana-1.17964219",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 20 Jul 2026 23:29:18 GMT"
+    },
+    {
+      "title": "Iran sier de har angrepet amerikansk base",
+      "link": "https://www.nrk.no/nyheter/iran-sier-de-har-angrepet-amerikansk-base-1.17964217",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 20 Jul 2026 23:03:55 GMT"
+    },
     {
       "title": "Wes Streeting ny forsvarsminister i Storbritannia",
       "link": "https://www.nrk.no/nyheter/wes-streeting-ny-forsvarsminister-i-storbritannia-1.17964215",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-innforer-50-prosent-toll-pa-flere-varer-fra-canada-1.17964197",
       "category": "Handelsavtaler og toll",
       "pubDate": "Mon, 20 Jul 2026 21:09:24 GMT"
-    },
-    {
-      "title": "Saudi-koalisjonen i Jemen advarer houthiene",
-      "link": "https://www.nrk.no/nyheter/saudi-koalisjonen-i-jemen-advarer-houthiene--1.17964184",
-      "category": "Jemen",
-      "pubDate": "Mon, 20 Jul 2026 20:34:27 GMT"
-    },
-    {
-      "title": "USA med nye angrep mot Iran",
-      "link": "https://www.nrk.no/nyheter/usa-med-nye-angrep-mot-iran-1.17964182",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 20 Jul 2026 20:23:16 GMT"
-    },
-    {
-      "title": "Kurdiske kunstnere til festival i Norge – nektes visum",
-      "link": "https://www.nrk.no/nyheter/kurdiske-kunstnere-til-festival-i-norge-_-nektes-visum--1.17964113",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 20 Jul 2026 19:35:18 GMT"
-    },
-    {
-      "title": "28-åring siktet for drapet på Ann Widdecombe",
-      "link": "https://www.nrk.no/nyheter/28-aring-siktet-for-drapet-pa-ann-widdecombe-1.17964107",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 20 Jul 2026 18:02:43 GMT"
     }
   ]
 }
