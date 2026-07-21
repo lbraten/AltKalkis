@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-21T16:23:38.816Z",
+  "updatedAt": "2026-07-21T17:53:15.523Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 160.000 har flyktet fra Sør-Afrika",
+      "link": "https://www.nrk.no/nyheter/over-160.000-har-flyktet-fra-sor-afrika-1.17965317",
+      "category": "Sør-Afrika",
+      "pubDate": "Tue, 21 Jul 2026 17:52:25 GMT"
+    },
+    {
+      "title": "Forbyr varer laget ved tvangsarbeid",
+      "link": "https://www.nrk.no/nyheter/forbyr-varer-laget-ved-tvangsarbeid-1.17965242",
+      "category": "Støre-regjeringen",
+      "pubDate": "Tue, 21 Jul 2026 17:41:08 GMT"
+    },
+    {
+      "title": "Minst tolv drept i nye israelske angrep i Gaza",
+      "link": "https://www.nrk.no/nyheter/minst-tolv-drept-i-nye-israelske-angrep-i-gaza-1.17965206",
+      "category": "Krigen i Gaza",
+      "pubDate": "Tue, 21 Jul 2026 16:37:04 GMT"
+    },
     {
       "title": "Trump varsler angrep mot potensielt iransk atomanlegg",
       "link": "https://www.nrk.no/nyheter/trump-varsler-angrep-mot-potensielt-iransk-atomanlegg-1.17965197",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store-om-olaf-tuftes-dod_-_-veldig-trist-1.17965136",
       "category": "Olaf Tufte",
       "pubDate": "Tue, 21 Jul 2026 15:30:47 GMT"
-    },
-    {
-      "title": "Trump lover USA-støtte til Libanon",
-      "link": "https://www.nrk.no/nyheter/trump-lover-usa-stotte-til-libanon-1.17965116",
-      "category": "Libanon",
-      "pubDate": "Tue, 21 Jul 2026 15:26:16 GMT"
-    },
-    {
-      "title": "Olaf Tufte (50) er død",
-      "link": "https://www.nrk.no/nyheter/olaf-tufte-_50_-er-dod--1.17965065",
-      "category": "Olaf Tufte",
-      "pubDate": "Tue, 21 Jul 2026 14:59:35 GMT"
-    },
-    {
-      "title": "Rykket ut til mulig drukningsulykke i Follo",
-      "link": "https://www.nrk.no/stor-oslo/rykket-ut-til-mulig-drukningsulykke-i-follo-1.17965106",
-      "category": "Drukning og badeulykker",
-      "pubDate": "Tue, 21 Jul 2026 14:58:57 GMT"
     }
   ]
 }
