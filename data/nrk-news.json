@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-21T22:04:13.978Z",
+  "updatedAt": "2026-07-21T23:28:36.605Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dødstallet stiger etter fergeforlis i Guyana",
+      "link": "https://www.nrk.no/nyheter/dodstallet-stiger-etter-fergeforlis-i-guyana-1.17965427",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 21 Jul 2026 23:04:17 GMT"
+    },
+    {
+      "title": "Kollisjon mellom bil og lastebil på riksvei 4",
+      "link": "https://www.nrk.no/nyheter/kollisjon-mellom-bil-og-lastebil-pa-riksvei-4-1.17965426",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Tue, 21 Jul 2026 22:43:38 GMT"
+    },
+    {
+      "title": "Minst 40 bortført i Nigeria",
+      "link": "https://www.nrk.no/nyheter/minst-40-bortfort-i-nigeria-1.17965423",
+      "category": "Nigeria",
+      "pubDate": "Tue, 21 Jul 2026 22:29:35 GMT"
+    },
+    {
+      "title": "Trump lover mer hjelp til Libanon",
+      "link": "https://www.nrk.no/nyheter/trump-lover-mer-hjelp-til-libanon-1.17965422",
+      "category": "Libanon",
+      "pubDate": "Tue, 21 Jul 2026 22:20:50 GMT"
+    },
     {
       "title": "Kraftig økning i sivile tap i Ukraina",
       "link": "https://www.nrk.no/nyheter/kraftig-okning-i-sivile-tap-i-ukraina-1.17965421",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-floy-drone-ulovlig-over-brannstedet-i-krokstadelva-1.17965419",
       "category": "Storbrann i Krokstadelva",
       "pubDate": "Tue, 21 Jul 2026 21:30:53 GMT"
-    },
-    {
-      "title": "400 evakuert etter skogbrann i Sør-Frankrike",
-      "link": "https://www.nrk.no/nyheter/400-evakuert-etter-skogbrann-i-sor-frankrike-1.17965418",
-      "category": "Frankrike",
-      "pubDate": "Tue, 21 Jul 2026 21:28:18 GMT"
-    },
-    {
-      "title": "Iran truer USA og deres allierte",
-      "link": "https://www.nrk.no/nyheter/iran-truer-usa-og-deres-allierte-1.17965416",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 21 Jul 2026 21:07:26 GMT"
-    },
-    {
-      "title": "Iran-krigen har kostet USA 37.5 milliarder dollar",
-      "link": "https://www.nrk.no/nyheter/iran-krigen-har-kostet-usa-37.5-milliarder-dollar-1.17965389",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 21 Jul 2026 20:08:29 GMT"
-    },
-    {
-      "title": "Zelenskyj bytter ut forsvarssjefen",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-bytter-ut-forsvarssjefen-1.17965338",
-      "category": "Ukraina",
-      "pubDate": "Tue, 21 Jul 2026 19:51:33 GMT"
     }
   ]
 }
