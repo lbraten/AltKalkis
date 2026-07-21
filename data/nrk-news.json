@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-21T17:53:15.523Z",
+  "updatedAt": "2026-07-21T19:25:27.195Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Frankrike innfører 15-års aldersgrense på sosiale medier",
+      "link": "https://www.nrk.no/nyheter/frankrike-innforer-15-ars-aldersgrense-pa-sosiale-medier-1.17965331",
+      "category": "Frankrike",
+      "pubDate": "Tue, 21 Jul 2026 18:00:40 GMT"
+    },
     {
       "title": "Over 160.000 har flyktet fra Sør-Afrika",
       "link": "https://www.nrk.no/nyheter/over-160.000-har-flyktet-fra-sor-afrika-1.17965317",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usas-handelsrepresentant-varsler-nye-tollsatser-1.17965141",
       "category": "USAs økonomi",
       "pubDate": "Tue, 21 Jul 2026 16:04:49 GMT"
-    },
-    {
-      "title": "Støre om Olaf Tuftes død: – Veldig trist",
-      "link": "https://www.nrk.no/nyheter/store-om-olaf-tuftes-dod_-_-veldig-trist-1.17965136",
-      "category": "Olaf Tufte",
-      "pubDate": "Tue, 21 Jul 2026 15:30:47 GMT"
     }
   ]
 }
