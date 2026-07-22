@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-22T20:38:17.003Z",
+  "updatedAt": "2026-07-22T22:04:20.824Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Houthiene sier de har angrepet to oljetankere",
+      "link": "https://www.nrk.no/nyheter/houthiene-sier-de-har-angrepet-to-oljetankere-1.17966603",
+      "category": "Jemen",
+      "pubDate": "Wed, 22 Jul 2026 21:50:22 GMT"
+    },
+    {
+      "title": "USA og Saudi-Arabia har inngått atomavtale",
+      "link": "https://www.nrk.no/nyheter/usa-og-saudi-arabia-har-inngatt-atomavtale-1.17966594",
+      "category": "Atomkraft",
+      "pubDate": "Wed, 22 Jul 2026 21:14:04 GMT"
+    },
     {
       "title": "EU godkjenner Paramounts kjøp av Warner Bros",
       "link": "https://www.nrk.no/nyheter/eu-godkjenner-paramounts-kjop-av-warner-bros--1.17966546",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/oppretter-reiseadvarsel-til-flere-land-i-midtosten-1.17966432",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 22 Jul 2026 17:55:02 GMT"
-    },
-    {
-      "title": "Søker med helikopter etter person i vannet i Lier",
-      "link": "https://www.nrk.no/buskerud/soker-med-helikopter-etter-person-i-vannet-i-lier-1.17966481",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Wed, 22 Jul 2026 17:51:24 GMT"
-    },
-    {
-      "title": "Trump tok imot falne soldater fra Iran-krigen",
-      "link": "https://www.nrk.no/nyheter/trump-tok-imot-falne-soldater-fra-iran-krigen-1.17966410",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 22 Jul 2026 17:04:39 GMT"
     }
   ]
 }
