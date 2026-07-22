@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-21T23:28:36.605Z",
+  "updatedAt": "2026-07-22T00:59:50.476Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst tre drept i angrep mot Zaporizjzja",
+      "link": "https://www.nrk.no/nyheter/minst-tre-drept-i-angrep-mot-zaporizjzja-1.17965429",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 22 Jul 2026 00:56:10 GMT"
+    },
+    {
+      "title": "Nye nattlige amerikanske angrep mot Iran",
+      "link": "https://www.nrk.no/nyheter/nye-nattlige-amerikanske-angrep-mot-iran-1.17965428",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 21 Jul 2026 23:55:32 GMT"
+    },
     {
       "title": "Dødstallet stiger etter fergeforlis i Guyana",
       "link": "https://www.nrk.no/nyheter/dodstallet-stiger-etter-fergeforlis-i-guyana-1.17965427",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-lover-mer-hjelp-til-libanon-1.17965422",
       "category": "Libanon",
       "pubDate": "Tue, 21 Jul 2026 22:20:50 GMT"
-    },
-    {
-      "title": "Kraftig økning i sivile tap i Ukraina",
-      "link": "https://www.nrk.no/nyheter/kraftig-okning-i-sivile-tap-i-ukraina-1.17965421",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 21 Jul 2026 21:42:27 GMT"
-    },
-    {
-      "title": "Mann fløy drone ulovlig over brannstedet i Krokstadelva",
-      "link": "https://www.nrk.no/nyheter/mann-floy-drone-ulovlig-over-brannstedet-i-krokstadelva-1.17965419",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Tue, 21 Jul 2026 21:30:53 GMT"
     }
   ]
 }
