@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-22T17:34:45.922Z",
+  "updatedAt": "2026-07-22T19:22:50.847Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran truer med å angripe infrastruktur til USA-allierte",
+      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-infrastruktur-til-usa-allierte--1.17966487",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 22 Jul 2026 18:55:20 GMT"
+    },
+    {
+      "title": "Oppretter reiseadvarsel til flere land i Midtøsten",
+      "link": "https://www.nrk.no/nyheter/oppretter-reiseadvarsel-til-flere-land-i-midtosten-1.17966432",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 22 Jul 2026 17:55:02 GMT"
+    },
+    {
+      "title": "Søker med helikopter etter person i vannet i Lier",
+      "link": "https://www.nrk.no/buskerud/soker-med-helikopter-etter-person-i-vannet-i-lier-1.17966481",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Wed, 22 Jul 2026 17:51:24 GMT"
+    },
     {
       "title": "Trump tok imot falne soldater fra Iran-krigen",
       "link": "https://www.nrk.no/nyheter/trump-tok-imot-falne-soldater-fra-iran-krigen-1.17966410",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/buskerud/drammen-kommunen-har-mottatt-200-boligtilbud-til-brannrammede-1.17966368",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Wed, 22 Jul 2026 16:37:42 GMT"
-    },
-    {
-      "title": "Påkjørselen i Grue: Skal ha blitt kjørt over",
-      "link": "https://www.nrk.no/innlandet/pakjorselen-i-grue_-skal-ha-blitt-kjort-over-1.17966338",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Wed, 22 Jul 2026 16:17:53 GMT"
-    },
-    {
-      "title": "Programleder i NRK omkom i utlandet",
-      "link": "https://www.nrk.no/trondelag/programleder-i-nrk-omkom-i-utlandet-1.17965967",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Wed, 22 Jul 2026 15:12:00 GMT"
-    },
-    {
-      "title": "Olaf Tufte døde av akutt hjertestans",
-      "link": "https://www.nrk.no/nyheter/olaf-tufte-dode-av-akutt-hjertestans--1.17966248",
-      "category": "Olaf Tufte",
-      "pubDate": "Wed, 22 Jul 2026 15:02:01 GMT"
     }
   ]
 }
