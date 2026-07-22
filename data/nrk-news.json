@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-22T22:04:20.824Z",
+  "updatedAt": "2026-07-22T23:30:09.304Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Forsvarspakke godkjent i Representantenes hus",
+      "link": "https://www.nrk.no/nyheter/forsvarspakke-godkjent-i-representantenes-hus-1.17966610",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 22 Jul 2026 23:08:11 GMT"
+    },
+    {
+      "title": "Meksikansk ordfører skutt og drept i rådhuset",
+      "link": "https://www.nrk.no/nyheter/meksikansk-ordforer-skutt-og-drept-i-radhuset-1.17966609",
+      "category": "Mexico",
+      "pubDate": "Wed, 22 Jul 2026 22:19:16 GMT"
+    },
+    {
+      "title": "USA har angrepet Iran for tolvte natt på rad",
+      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-iran-for-tolvte-natt-pa-rad-1.17966608",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 22 Jul 2026 22:18:23 GMT"
+    },
     {
       "title": "Houthiene sier de har angrepet to oljetankere",
       "link": "https://www.nrk.no/nyheter/houthiene-sier-de-har-angrepet-to-oljetankere-1.17966603",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-godkjenner-paramounts-kjop-av-warner-bros--1.17966546",
       "category": "Den europeiske union (EU)",
       "pubDate": "Wed, 22 Jul 2026 19:30:04 GMT"
-    },
-    {
-      "title": "Iran truer med å angripe infrastruktur til USA-allierte",
-      "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-infrastruktur-til-usa-allierte--1.17966487",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 22 Jul 2026 18:55:20 GMT"
-    },
-    {
-      "title": "Bamble: Fire alvorlig skadet av potensiell eksosforgiftning",
-      "link": "https://www.nrk.no/vestfoldogtelemark/bamble_-fire-alvorlig-skadet-av-potensiell-eksosforgiftning-1.17966508",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 22 Jul 2026 18:25:37 GMT"
-    },
-    {
-      "title": "Oppretter reiseadvarsel til flere land i Midtøsten",
-      "link": "https://www.nrk.no/nyheter/oppretter-reiseadvarsel-til-flere-land-i-midtosten-1.17966432",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 22 Jul 2026 17:55:02 GMT"
     }
   ]
 }
