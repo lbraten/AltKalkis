@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-07-22T19:22:50.847Z",
+  "updatedAt": "2026-07-22T20:38:17.003Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EU godkjenner Paramounts kjøp av Warner Bros",
+      "link": "https://www.nrk.no/nyheter/eu-godkjenner-paramounts-kjop-av-warner-bros--1.17966546",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Wed, 22 Jul 2026 19:30:04 GMT"
+    },
     {
       "title": "Iran truer med å angripe infrastruktur til USA-allierte",
       "link": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-infrastruktur-til-usa-allierte--1.17966487",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 22 Jul 2026 18:55:20 GMT"
+    },
+    {
+      "title": "Bamble: Fire alvorlig skadet av potensiell eksosforgiftning",
+      "link": "https://www.nrk.no/vestfoldogtelemark/bamble_-fire-alvorlig-skadet-av-potensiell-eksosforgiftning-1.17966508",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 22 Jul 2026 18:25:37 GMT"
     },
     {
       "title": "Oppretter reiseadvarsel til flere land i Midtøsten",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-tok-imot-falne-soldater-fra-iran-krigen-1.17966410",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 22 Jul 2026 17:04:39 GMT"
-    },
-    {
-      "title": "ICS: Houthiene advarer skip over radio",
-      "link": "https://www.nrk.no/nyheter/ics_-houthiene-advarer-skip-over-radio-1.17966324",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 22 Jul 2026 16:45:05 GMT"
-    },
-    {
-      "title": "Drammen kommunen har mottatt 200 boligtilbud til brannrammede",
-      "link": "https://www.nrk.no/buskerud/drammen-kommunen-har-mottatt-200-boligtilbud-til-brannrammede-1.17966368",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Wed, 22 Jul 2026 16:37:42 GMT"
     }
   ]
 }
