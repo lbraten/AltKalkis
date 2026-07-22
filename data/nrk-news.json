@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-07-22T15:59:26.715Z",
+  "updatedAt": "2026-07-22T17:34:45.922Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Person påkjørt av bil i Grue",
-      "link": "https://www.nrk.no/innlandet/person-pakjort-av-bil-i-grue-1.17966314",
+      "title": "Trump tok imot falne soldater fra Iran-krigen",
+      "link": "https://www.nrk.no/nyheter/trump-tok-imot-falne-soldater-fra-iran-krigen-1.17966410",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 22 Jul 2026 17:04:39 GMT"
+    },
+    {
+      "title": "ICS: Houthiene advarer skip over radio",
+      "link": "https://www.nrk.no/nyheter/ics_-houthiene-advarer-skip-over-radio-1.17966324",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 22 Jul 2026 16:45:05 GMT"
+    },
+    {
+      "title": "Drammen kommunen har mottatt 200 boligtilbud til brannrammede",
+      "link": "https://www.nrk.no/buskerud/drammen-kommunen-har-mottatt-200-boligtilbud-til-brannrammede-1.17966368",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Wed, 22 Jul 2026 16:37:42 GMT"
+    },
+    {
+      "title": "Påkjørselen i Grue: Skal ha blitt kjørt over",
+      "link": "https://www.nrk.no/innlandet/pakjorselen-i-grue_-skal-ha-blitt-kjort-over-1.17966338",
       "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Wed, 22 Jul 2026 15:28:05 GMT"
+      "pubDate": "Wed, 22 Jul 2026 16:17:53 GMT"
     },
     {
       "title": "Programleder i NRK omkom i utlandet",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/olaf-tufte-dode-av-akutt-hjertestans--1.17966248",
       "category": "Olaf Tufte",
       "pubDate": "Wed, 22 Jul 2026 15:02:01 GMT"
-    },
-    {
-      "title": "11 kvadratmeter på Torshov lagt ut for 2,1 millioner",
-      "link": "https://www.nrk.no/stor-oslo/11-kvadratmeter-pa-torshov-lagt-ut-for-2_1-millioner-1.17966253",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 22 Jul 2026 13:43:13 GMT"
-    },
-    {
-      "title": "Fortsatt ikke kontroll på skogbrann",
-      "link": "https://www.nrk.no/sorlandet/fortsatt-ikke-kontroll-pa-skogbrann-1.17966209",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Wed, 22 Jul 2026 13:34:50 GMT"
-    },
-    {
-      "title": "Politiet oppretter undersøkelsessak etter Olaf Tuftes dødsfall",
-      "link": "https://www.nrk.no/vestfoldogtelemark/politiet-oppretter-undersokelsessak-etter-olaf-tuftes-dodsfall-1.17966172",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 22 Jul 2026 13:24:10 GMT"
     }
   ]
 }
