@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-22T14:11:30.004Z",
+  "updatedAt": "2026-07-22T15:59:26.715Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person påkjørt av bil i Grue",
+      "link": "https://www.nrk.no/innlandet/person-pakjort-av-bil-i-grue-1.17966314",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Wed, 22 Jul 2026 15:28:05 GMT"
+    },
+    {
+      "title": "Programleder i NRK omkom i utlandet",
+      "link": "https://www.nrk.no/trondelag/programleder-i-nrk-omkom-i-utlandet-1.17965967",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Wed, 22 Jul 2026 15:12:00 GMT"
+    },
+    {
+      "title": "Olaf Tufte døde av akutt hjertestans",
+      "link": "https://www.nrk.no/nyheter/olaf-tufte-dode-av-akutt-hjertestans--1.17966248",
+      "category": "Olaf Tufte",
+      "pubDate": "Wed, 22 Jul 2026 15:02:01 GMT"
+    },
     {
       "title": "11 kvadratmeter på Torshov lagt ut for 2,1 millioner",
       "link": "https://www.nrk.no/stor-oslo/11-kvadratmeter-pa-torshov-lagt-ut-for-2_1-millioner-1.17966253",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/politiet-oppretter-undersokelsessak-etter-olaf-tuftes-dodsfall-1.17966172",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Wed, 22 Jul 2026 13:24:10 GMT"
-    },
-    {
-      "title": "Over 5700 døde i Frankrike under hetebølgen i juni",
-      "link": "https://www.nrk.no/nyheter/over-5700-dode-i-frankrike-under-hetebolgen-i-juni-1.17966210",
-      "category": "Frankrike",
-      "pubDate": "Wed, 22 Jul 2026 13:21:09 GMT"
-    },
-    {
-      "title": "DNA-prøver av ulv bekrefter: Finsk-russisk immigrant felt",
-      "link": "https://www.nrk.no/innlandet/dna-prover-av-ulv-bekrefter_-finsk-russisk-immigrant-felt-1.17966160",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 22 Jul 2026 13:11:59 GMT"
-    },
-    {
-      "title": "To siktet for barne­bortføring i Bergen",
-      "link": "https://www.nrk.no/vestland/to-siktet-for-barnebortforing-i-bergen-1.17966205",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 22 Jul 2026 12:56:22 GMT"
     }
   ]
 }
