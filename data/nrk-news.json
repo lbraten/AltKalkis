@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-23T14:41:01.960Z",
+  "updatedAt": "2026-07-23T16:27:44.620Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukrainas tidligere forsvarsminister vil ikke akseptere andre stillinger",
+      "link": "https://www.nrk.no/nyheter/ukrainas-tidligere-forsvarsminister-vil-ikke-akseptere-andre-stillinger-1.17967387",
+      "category": "Ukraina",
+      "pubDate": "Thu, 23 Jul 2026 15:44:03 GMT"
+    },
+    {
+      "title": "Skogbrannfarevarsel oppjustert",
+      "link": "https://www.nrk.no/sorlandet/skogbrannfarevarsel-oppjustert-1.17967386",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Thu, 23 Jul 2026 15:15:43 GMT"
+    },
+    {
+      "title": "Representantenes hus stemmer for å begrense Trumps makt til krigføring i Iran",
+      "link": "https://www.nrk.no/nyheter/representantenes-hus-stemmer-for-a-begrense-trumps-makt-til-krigforing-i-iran-1.17967352",
+      "category": "USA",
+      "pubDate": "Thu, 23 Jul 2026 15:04:15 GMT"
+    },
+    {
+      "title": "E16 Ådalsveien: Ryddet og åpen for trafikk",
+      "link": "https://www.nrk.no/buskerud/e16-adalsveien_-ryddet-og-apen-for-trafikk-1.17967321",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Thu, 23 Jul 2026 14:37:29 GMT"
+    },
     {
       "title": "Verdensbanken: Jordskjelvene i Venezuela har kostet rundt 190 milliarder kroner",
       "link": "https://www.nrk.no/nyheter/verdensbanken_-jordskjelvene-i-venezuela-har-kostet-rundt-190-milliarder-kroner-1.17967344",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/brannen-i-birkenes-har-blusset-opp-1.17967331",
       "category": "Nyheter fra Agder",
       "pubDate": "Thu, 23 Jul 2026 14:24:00 GMT"
-    },
-    {
-      "title": "Områder i Storbritannia erklærer offisielt tørke",
-      "link": "https://www.nrk.no/nyheter/omrader-i-storbritannia-erklaerer-offisielt-torke-1.17967338",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 23 Jul 2026 14:11:07 GMT"
-    },
-    {
-      "title": "USA: Kan få historisk lave drapstall",
-      "link": "https://www.nrk.no/nyheter/usa_-kan-fa-historisk-lave-drapstall-1.17967284",
-      "category": "USA",
-      "pubDate": "Thu, 23 Jul 2026 14:01:02 GMT"
-    },
-    {
-      "title": "Hordvikskytter varetektsfengslet i fire nye uker",
-      "link": "https://www.nrk.no/vestland/hordvikskytter-varetektsfengslet-i-fire-nye-uker-1.17967316",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 23 Jul 2026 13:43:17 GMT"
-    },
-    {
-      "title": "Person omkom i drukningsulykke i Sjoa",
-      "link": "https://www.nrk.no/innlandet/person-omkom-i-drukningsulykke-i-sjoa-1.17967296",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Thu, 23 Jul 2026 13:31:29 GMT"
     }
   ]
 }
