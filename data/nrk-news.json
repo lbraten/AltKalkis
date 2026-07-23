@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-22T23:30:09.304Z",
+  "updatedAt": "2026-07-23T01:05:31.847Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Klimaendringer gjør tørken i Europa verre, viser studie",
+      "link": "https://www.nrk.no/nyheter/klimaendringer-gjor-torken-i-europa-verre_-viser-studie-1.17966612",
+      "category": "Klima og miljø",
+      "pubDate": "Thu, 23 Jul 2026 00:26:59 GMT"
+    },
+    {
+      "title": "Redningsaksjon i Lier avsluttet",
+      "link": "https://www.nrk.no/nyheter/redningsaksjon-i-lier-avsluttet-1.17966611",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 22 Jul 2026 23:57:15 GMT"
+    },
     {
       "title": "Forsvarspakke godkjent i Representantenes hus",
       "link": "https://www.nrk.no/nyheter/forsvarspakke-godkjent-i-representantenes-hus-1.17966610",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/houthiene-sier-de-har-angrepet-to-oljetankere-1.17966603",
       "category": "Jemen",
       "pubDate": "Wed, 22 Jul 2026 21:50:22 GMT"
-    },
-    {
-      "title": "USA og Saudi-Arabia har inngått atomavtale",
-      "link": "https://www.nrk.no/nyheter/usa-og-saudi-arabia-har-inngatt-atomavtale-1.17966594",
-      "category": "Atomkraft",
-      "pubDate": "Wed, 22 Jul 2026 21:14:04 GMT"
-    },
-    {
-      "title": "EU godkjenner Paramounts kjøp av Warner Bros",
-      "link": "https://www.nrk.no/nyheter/eu-godkjenner-paramounts-kjop-av-warner-bros--1.17966546",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Wed, 22 Jul 2026 19:30:04 GMT"
     }
   ]
 }
