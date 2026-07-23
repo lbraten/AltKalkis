@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-23T16:27:44.620Z",
+  "updatedAt": "2026-07-23T17:56:11.546Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USAs handelsrepresentant: Bot til Google truer handelsforholdet",
+      "link": "https://www.nrk.no/nyheter/usas-handelsrepresentant_-bot-til-google-truer-handelsforholdet-1.17967455",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 23 Jul 2026 17:30:41 GMT"
+    },
+    {
+      "title": "Secret Service-agent for J.D. Vance etterforskes",
+      "link": "https://www.nrk.no/nyheter/secret-service-agent-for-j.d.-vance-etterforskes-1.17967446",
+      "category": "USA",
+      "pubDate": "Thu, 23 Jul 2026 16:44:00 GMT"
+    },
+    {
+      "title": "EU forlenger tillatelse for å avdekke seksuelt misbruk av barn på nett",
+      "link": "https://www.nrk.no/nyheter/eu-forlenger-tillatelse-for-a-avdekke-seksuelt-misbruk-av-barn-pa-nett-1.17967417",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Thu, 23 Jul 2026 16:32:06 GMT"
+    },
     {
       "title": "Ukrainas tidligere forsvarsminister vil ikke akseptere andre stillinger",
       "link": "https://www.nrk.no/nyheter/ukrainas-tidligere-forsvarsminister-vil-ikke-akseptere-andre-stillinger-1.17967387",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/representantenes-hus-stemmer-for-a-begrense-trumps-makt-til-krigforing-i-iran-1.17967352",
       "category": "USA",
       "pubDate": "Thu, 23 Jul 2026 15:04:15 GMT"
-    },
-    {
-      "title": "E16 Ådalsveien: Ryddet og åpen for trafikk",
-      "link": "https://www.nrk.no/buskerud/e16-adalsveien_-ryddet-og-apen-for-trafikk-1.17967321",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Thu, 23 Jul 2026 14:37:29 GMT"
-    },
-    {
-      "title": "Verdensbanken: Jordskjelvene i Venezuela har kostet rundt 190 milliarder kroner",
-      "link": "https://www.nrk.no/nyheter/verdensbanken_-jordskjelvene-i-venezuela-har-kostet-rundt-190-milliarder-kroner-1.17967344",
-      "category": "Venezuela",
-      "pubDate": "Thu, 23 Jul 2026 14:24:04 GMT"
-    },
-    {
-      "title": "Brannen i Birkenes har blusset opp",
-      "link": "https://www.nrk.no/sorlandet/brannen-i-birkenes-har-blusset-opp-1.17967331",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 23 Jul 2026 14:24:00 GMT"
     }
   ]
 }
