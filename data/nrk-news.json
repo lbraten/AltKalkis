@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-23T12:10:10.345Z",
+  "updatedAt": "2026-07-23T14:41:01.960Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Simen Liljedahl (24) omkom i dødsulykken i Sogndal",
-      "link": "https://www.nrk.no/vestland/simen-liljedahl-_24_-omkom-i-dodsulykken-i-sogndal-1.17967180",
+      "title": "Verdensbanken: Jordskjelvene i Venezuela har kostet rundt 190 milliarder kroner",
+      "link": "https://www.nrk.no/nyheter/verdensbanken_-jordskjelvene-i-venezuela-har-kostet-rundt-190-milliarder-kroner-1.17967344",
+      "category": "Venezuela",
+      "pubDate": "Thu, 23 Jul 2026 14:24:04 GMT"
+    },
+    {
+      "title": "Brannen i Birkenes har blusset opp",
+      "link": "https://www.nrk.no/sorlandet/brannen-i-birkenes-har-blusset-opp-1.17967331",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Thu, 23 Jul 2026 14:24:00 GMT"
+    },
+    {
+      "title": "Områder i Storbritannia erklærer offisielt tørke",
+      "link": "https://www.nrk.no/nyheter/omrader-i-storbritannia-erklaerer-offisielt-torke-1.17967338",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 23 Jul 2026 14:11:07 GMT"
+    },
+    {
+      "title": "USA: Kan få historisk lave drapstall",
+      "link": "https://www.nrk.no/nyheter/usa_-kan-fa-historisk-lave-drapstall-1.17967284",
+      "category": "USA",
+      "pubDate": "Thu, 23 Jul 2026 14:01:02 GMT"
+    },
+    {
+      "title": "Hordvikskytter varetektsfengslet i fire nye uker",
+      "link": "https://www.nrk.no/vestland/hordvikskytter-varetektsfengslet-i-fire-nye-uker-1.17967316",
       "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 23 Jul 2026 12:00:01 GMT"
+      "pubDate": "Thu, 23 Jul 2026 13:43:17 GMT"
     },
     {
-      "title": "Dømt for å ha filmet badende barn",
-      "link": "https://www.nrk.no/vestland/domt-for-a-ha-filmet-badende-barn-1.17966968",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 23 Jul 2026 11:55:16 GMT"
-    },
-    {
-      "title": "Taxisjåfør tatt for kokainkjøring på E6 mot Gardermoen",
-      "link": "https://www.nrk.no/stor-oslo/taxisjafor-tatt-for-kokainkjoring-pa-e6-mot-gardermoen-1.17966999",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 23 Jul 2026 11:06:30 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Gudbrandsdalen etter raftingulykke",
-      "link": "https://www.nrk.no/innlandet/redningsaksjon-i-gudbrandsdalen-etter-raftingulykke-1.17967025",
+      "title": "Person omkom i drukningsulykke i Sjoa",
+      "link": "https://www.nrk.no/innlandet/person-omkom-i-drukningsulykke-i-sjoa-1.17967296",
       "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Thu, 23 Jul 2026 10:22:31 GMT"
-    },
-    {
-      "title": "Hundrevis innlagt på grunn av hetebølge i Japan",
-      "link": "https://www.nrk.no/nyheter/hundrevis-innlagt-pa-grunn-av-hetebolge-i-japan-1.17967000",
-      "category": "Japan",
-      "pubDate": "Thu, 23 Jul 2026 10:16:51 GMT"
-    },
-    {
-      "title": "Google får gigantbøter frå EU for regelbrot",
-      "link": "https://www.nrk.no/nyheter/google-far-gigantboter-fra-eu-for-regelbrot-1.17966937",
-      "category": "Teknologi og oppfinnelser",
-      "pubDate": "Thu, 23 Jul 2026 10:04:27 GMT"
+      "pubDate": "Thu, 23 Jul 2026 13:31:29 GMT"
     }
   ]
 }
