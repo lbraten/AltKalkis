@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-07-23T10:24:09.117Z",
+  "updatedAt": "2026-07-23T12:10:10.345Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Redningsaksjon i Gudbrandsdalen",
-      "link": "https://www.nrk.no/innlandet/redningsaksjon-i-gudbrandsdalen-1.17967025",
+      "title": "Simen Liljedahl (24) omkom i dødsulykken i Sogndal",
+      "link": "https://www.nrk.no/vestland/simen-liljedahl-_24_-omkom-i-dodsulykken-i-sogndal-1.17967180",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 23 Jul 2026 12:00:01 GMT"
+    },
+    {
+      "title": "Dømt for å ha filmet badende barn",
+      "link": "https://www.nrk.no/vestland/domt-for-a-ha-filmet-badende-barn-1.17966968",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 23 Jul 2026 11:55:16 GMT"
+    },
+    {
+      "title": "Taxisjåfør tatt for kokainkjøring på E6 mot Gardermoen",
+      "link": "https://www.nrk.no/stor-oslo/taxisjafor-tatt-for-kokainkjoring-pa-e6-mot-gardermoen-1.17966999",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 23 Jul 2026 11:06:30 GMT"
+    },
+    {
+      "title": "Redningsaksjon i Gudbrandsdalen etter raftingulykke",
+      "link": "https://www.nrk.no/innlandet/redningsaksjon-i-gudbrandsdalen-etter-raftingulykke-1.17967025",
       "category": "Politi- og brannloggen i Innlandet",
       "pubDate": "Thu, 23 Jul 2026 10:22:31 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/google-far-gigantboter-fra-eu-for-regelbrot-1.17966937",
       "category": "Teknologi og oppfinnelser",
       "pubDate": "Thu, 23 Jul 2026 10:04:27 GMT"
-    },
-    {
-      "title": "Strømbrudd på Stortinget",
-      "link": "https://www.nrk.no/stor-oslo/strombrudd-pa-stortinget-1.17966977",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 23 Jul 2026 10:03:56 GMT"
-    },
-    {
-      "title": "Rekordmange får studieplass",
-      "link": "https://www.nrk.no/nyheter/rekordmange-far-studieplass-1.17966885",
-      "category": "Høyere utdanning",
-      "pubDate": "Thu, 23 Jul 2026 09:03:46 GMT"
-    },
-    {
-      "title": "Oljeprisen nærmer seg 100 dollar fatet igjen",
-      "link": "https://www.nrk.no/nyheter/oljeprisen-naermer-seg-100-dollar-fatet-igjen-1.17966793",
-      "category": "Oljeprisen",
-      "pubDate": "Thu, 23 Jul 2026 08:31:57 GMT"
     }
   ]
 }
