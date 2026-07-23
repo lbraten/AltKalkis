@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-23T19:24:28.110Z",
+  "updatedAt": "2026-07-23T20:36:06.532Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kuwait melder at de er under angrep fra iranske missiler og droner",
+      "link": "https://www.nrk.no/nyheter/kuwait-melder-at-de-er-under-angrep-fra-iranske-missiler-og-droner-1.17967572",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 23 Jul 2026 20:00:08 GMT"
+    },
     {
       "title": "Beboere i Krokstadelva får vende hjem",
       "link": "https://www.nrk.no/nyheter/beboere-i-krokstadelva-far-vende-hjem-1.17967554",
@@ -9,8 +15,8 @@
       "pubDate": "Thu, 23 Jul 2026 18:55:57 GMT"
     },
     {
-      "title": "Dubai: Rabatt til innbyggere som henter turister",
-      "link": "https://www.nrk.no/nyheter/dubai_-rabatt-til-innbyggere-som-henter-turister-1.17967505",
+      "title": "Dubai: Gavekort til innbyggere som henter turister",
+      "link": "https://www.nrk.no/nyheter/dubai_-gavekort-til-innbyggere-som-henter-turister-1.17967505",
       "category": "Krig og konflikt i Midtøsten",
       "pubDate": "Thu, 23 Jul 2026 18:36:11 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/secret-service-agent-for-j.d.-vance-etterforskes-1.17967446",
       "category": "USA",
       "pubDate": "Thu, 23 Jul 2026 16:44:00 GMT"
-    },
-    {
-      "title": "EU forlenger tillatelse for å avdekke seksuelt misbruk av barn på nett",
-      "link": "https://www.nrk.no/nyheter/eu-forlenger-tillatelse-for-a-avdekke-seksuelt-misbruk-av-barn-pa-nett-1.17967417",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Thu, 23 Jul 2026 16:32:06 GMT"
     }
   ]
 }
