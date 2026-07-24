@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-24T17:05:59.277Z",
+  "updatedAt": "2026-07-24T18:57:59.863Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann hadde hengt opp \"Donald-felle\" i Oslo sentrum – bortvist",
+      "link": "https://www.nrk.no/stor-oslo/mann-hadde-hengt-opp-_donald-felle_-i-oslo-sentrum-_-bortvist-1.17968586",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 24 Jul 2026 18:41:41 GMT"
+    },
+    {
+      "title": "Knivstukket i halsen i Hokksund – gjerningsmann pågrepet",
+      "link": "https://www.nrk.no/buskerud/knivstukket-i-halsen-i-hokksund-_-gjerningsmann-pagrepet-1.17968493",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Fri, 24 Jul 2026 18:20:16 GMT"
+    },
+    {
+      "title": "ICC stemte for å avskjedige sjefaktor",
+      "link": "https://www.nrk.no/nyheter/icc-stemte-for-a-avskjedige-sjefaktor-1.17968529",
+      "category": "ICC-domstolen i Haag",
+      "pubDate": "Fri, 24 Jul 2026 17:38:12 GMT"
+    },
+    {
+      "title": "Stjal sixpack med øl på Grünerløkka – ble påkjørt av bil",
+      "link": "https://www.nrk.no/stor-oslo/stjal-sixpack-med-ol-pa-grunerlokka-_-ble-pakjort-av-bil--1.17968362",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 24 Jul 2026 17:20:00 GMT"
+    },
     {
       "title": "Brann i båt ved Jeløya",
       "link": "https://www.nrk.no/ostfold/brann-i-bat-ved-jeloya-1.17968531",
@@ -9,34 +33,10 @@
       "pubDate": "Fri, 24 Jul 2026 17:00:47 GMT"
     },
     {
-      "title": "Flere tusen evakueres fra branner i Sør-Europa",
-      "link": "https://www.nrk.no/nyheter/flere-tusen-evakueres-fra-branner-i-sor-europa-1.17968515",
+      "title": "Titusener evakueres fra branner i Sør-Europa",
+      "link": "https://www.nrk.no/nyheter/titusener-evakueres-fra-branner-i-sor-europa-1.17968515",
       "category": "Spania",
       "pubDate": "Fri, 24 Jul 2026 16:55:31 GMT"
-    },
-    {
-      "title": "Fem politibetjenter skadet etter at politibåt traff bro i London",
-      "link": "https://www.nrk.no/nyheter/fem-politibetjenter-skadet-etter-at-politibat-traff-bro-i-london-1.17968484",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 24 Jul 2026 16:38:57 GMT"
-    },
-    {
-      "title": "Israel i gang med å grave krokodille-vollgrav rundt fengsel med palestinske fanger",
-      "link": "https://www.nrk.no/nyheter/israel-i-gang-med-a-grave-krokodille-vollgrav-rundt-fengsel-med-palestinske-fanger-1.17968421",
-      "category": "Israel",
-      "pubDate": "Fri, 24 Jul 2026 15:54:56 GMT"
-    },
-    {
-      "title": "Truet 12-åring med kniv",
-      "link": "https://www.nrk.no/trondelag/truet-12-aring-med-kniv-1.17968451",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 24 Jul 2026 15:05:44 GMT"
-    },
-    {
-      "title": "Skudd løsnet under slagsmål i Hønefoss – En person skadet",
-      "link": "https://www.nrk.no/buskerud/skudd-losnet-under-slagsmal-i-honefoss-_-en-person-skadet-1.17968422",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Fri, 24 Jul 2026 14:53:33 GMT"
     }
   ]
 }
