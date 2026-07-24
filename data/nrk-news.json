@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-24T21:37:23.444Z",
+  "updatedAt": "2026-07-24T23:02:37.196Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig MC-ulykke i Larvik",
+      "link": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-larvik-1.17968664",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 24 Jul 2026 21:48:54 GMT"
+    },
     {
       "title": "Saudiarabisk angrep mot houthiene i Jemen",
       "link": "https://www.nrk.no/nyheter/saudiarabisk-angrep-mot-houthiene-i-jemen-1.17968662",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/sport/warholm-med-overlegent-nm-gull-1.17968579",
       "category": "Sportsnyheter",
       "pubDate": "Fri, 24 Jul 2026 18:56:23 GMT"
-    },
-    {
-      "title": "Mann hadde hengt opp «Donald-felle» i Oslo sentrum – bortvist",
-      "link": "https://www.nrk.no/stor-oslo/mann-hadde-hengt-opp-_donald-felle_-i-oslo-sentrum-_-bortvist-1.17968586",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 24 Jul 2026 18:41:41 GMT"
     }
   ]
 }
