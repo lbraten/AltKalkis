@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-24T04:22:45.770Z",
+  "updatedAt": "2026-07-24T07:07:35.489Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fleire hundre flyktar frå skogbrannar i Frankrike",
+      "link": "https://www.nrk.no/nyheter/fleire-hundre-flyktar-fra-skogbrannar-i-frankrike-1.17967761",
+      "category": "Frankrike",
+      "pubDate": "Fri, 24 Jul 2026 06:38:56 GMT"
+    },
+    {
+      "title": "Resultatsvikt for Volkswagen",
+      "link": "https://www.nrk.no/nyheter/resultatsvikt-for-volkswagen-1.17967753",
+      "category": "Bilbransjen",
+      "pubDate": "Fri, 24 Jul 2026 06:22:04 GMT"
+    },
+    {
+      "title": "Russland: Skaut ned over 500 ukrainske dronar",
+      "link": "https://www.nrk.no/nyheter/russland_-skaut-ned-over-500-ukrainske-dronar-1.17967742",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 24 Jul 2026 06:07:46 GMT"
+    },
+    {
+      "title": "Iran: Minst fire drepne i amerikanske angrep",
+      "link": "https://www.nrk.no/nyheter/iran_-minst-fire-drepne-i-amerikanske-angrep-1.17967705",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 24 Jul 2026 05:56:55 GMT"
+    },
+    {
+      "title": "Kallas ber USA om forklaring på toll",
+      "link": "https://www.nrk.no/nyheter/kallas-ber-usa-om-forklaring-pa-toll-1.17967700",
+      "category": "Handelsavtaler og toll",
+      "pubDate": "Fri, 24 Jul 2026 04:32:29 GMT"
+    },
     {
       "title": "Hormuz-trafikken på laveste nivå siden mai",
       "link": "https://www.nrk.no/nyheter/hormuz-trafikken-pa-laveste-niva-siden-mai-1.17967695",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 24 Jul 2026 04:20:11 GMT"
-    },
-    {
-      "title": "Irans utenriksminister advarer mot å beslaglegge andre lands verdier",
-      "link": "https://www.nrk.no/nyheter/irans-utenriksminister-advarer-mot-a-beslaglegge-andre-lands-verdier-1.17967645",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 24 Jul 2026 03:14:06 GMT"
-    },
-    {
-      "title": "Minst 25 såret i angrep mot Zaporizjzja",
-      "link": "https://www.nrk.no/nyheter/minst-25-saret-i-angrep-mot-zaporizjzja-1.17967646",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 24 Jul 2026 03:08:52 GMT"
-    },
-    {
-      "title": "Droneangrep mot Sankt Petersburg",
-      "link": "https://www.nrk.no/nyheter/droneangrep-mot-sankt-petersburg-1.17967642",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 24 Jul 2026 02:56:23 GMT"
-    },
-    {
-      "title": "14-åring fyllekjørte og havnet i grøfta",
-      "link": "https://www.nrk.no/nyheter/14-aring-fyllekjorte-og-havnet-i-grofta-1.17967644",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 24 Jul 2026 02:23:59 GMT"
-    },
-    {
-      "title": "Sjakk-presidenten trekker seg midlertidig etter EU-sanksjoner",
-      "link": "https://www.nrk.no/nyheter/sjakk-presidenten-trekker-seg-midlertidig-etter-eu-sanksjoner-1.17967643",
-      "category": "Sjakk",
-      "pubDate": "Fri, 24 Jul 2026 01:48:42 GMT"
     }
   ]
 }
