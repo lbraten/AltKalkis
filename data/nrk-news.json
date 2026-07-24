@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-24T11:43:10.155Z",
+  "updatedAt": "2026-07-24T13:47:54.207Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "15 skal være drept i selvmordsbombe i Pakistan",
+      "link": "https://www.nrk.no/nyheter/15-skal-vaere-drept-i-selvmordsbombe-i-pakistan-1.17968267",
+      "category": "Pakistan",
+      "pubDate": "Fri, 24 Jul 2026 13:29:38 GMT"
+    },
     {
       "title": "Tusenvis evakuert frå brannar i Spania",
       "link": "https://www.nrk.no/nyheter/tusenvis-evakuert-fra-brannar-i-spania-1.17968186",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/siktet-for-barnebortforing-i-bergen-_-fengsles-i-tre-uker-1.17967896",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Fri, 24 Jul 2026 11:00:21 GMT"
-    },
-    {
-      "title": "Kjedekollisjon på E18 i Bamble",
-      "link": "https://www.nrk.no/vestfoldogtelemark/kjedekollisjon-pa-e18-i-bamble-1.17968081",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 24 Jul 2026 10:56:12 GMT"
     }
   ]
 }
