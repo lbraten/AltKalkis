@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-23T23:28:22.321Z",
+  "updatedAt": "2026-07-24T00:59:24.162Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Spania erklærer unntakstilstand",
+      "link": "https://www.nrk.no/nyheter/spania-erklaerer-unntakstilstand-1.17967639",
+      "category": "Spania",
+      "pubDate": "Fri, 24 Jul 2026 00:04:16 GMT"
+    },
     {
       "title": "Nye USA-angrep mot Iran",
       "link": "https://www.nrk.no/nyheter/nye-usa-angrep-mot-iran-1.17967638",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nho-om-ny-usa-toll_-en-stor-ulempe-for-norske-bedrifter-1.17967621",
       "category": "Handelsavtaler og toll",
       "pubDate": "Thu, 23 Jul 2026 21:58:19 GMT"
-    },
-    {
-      "title": "USA innfører 12,5 prosent toll på norske varer",
-      "link": "https://www.nrk.no/nyheter/usa-innforer-12_5-prosent-toll-pa-norske-varer-1.17967619",
-      "category": "Handelsavtaler og toll",
-      "pubDate": "Thu, 23 Jul 2026 21:08:06 GMT"
     }
   ]
 }
