@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-07-24T18:57:59.863Z",
+  "updatedAt": "2026-07-24T20:25:40.151Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Mann hadde hengt opp \"Donald-felle\" i Oslo sentrum – bortvist",
+      "title": "Skogbrannene i Frankrike nærmer seg Bordeaux",
+      "link": "https://www.nrk.no/nyheter/skogbrannene-i-frankrike-naermer-seg-bordeaux-1.17968630",
+      "category": "Frankrike",
+      "pubDate": "Fri, 24 Jul 2026 20:12:13 GMT"
+    },
+    {
+      "title": "Venezuela trekker seg fra Den internasjonale straffedomstolen",
+      "link": "https://www.nrk.no/nyheter/venezuela-trekker-seg-fra-den-internasjonale-straffedomstolen-1.17968514",
+      "category": "Venezuela",
+      "pubDate": "Fri, 24 Jul 2026 19:53:52 GMT"
+    },
+    {
+      "title": "Warholm med overlegent NM-gull",
+      "link": "https://www.nrk.no/sport/warholm-med-overlegent-nm-gull-1.17968579",
+      "category": "Sportsnyheter",
+      "pubDate": "Fri, 24 Jul 2026 18:56:23 GMT"
+    },
+    {
+      "title": "Mann hadde hengt opp «Donald-felle» i Oslo sentrum – bortvist",
       "link": "https://www.nrk.no/stor-oslo/mann-hadde-hengt-opp-_donald-felle_-i-oslo-sentrum-_-bortvist-1.17968586",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 24 Jul 2026 18:41:41 GMT"
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/icc-stemte-for-a-avskjedige-sjefaktor-1.17968529",
       "category": "ICC-domstolen i Haag",
       "pubDate": "Fri, 24 Jul 2026 17:38:12 GMT"
-    },
-    {
-      "title": "Stjal sixpack med øl på Grünerløkka – ble påkjørt av bil",
-      "link": "https://www.nrk.no/stor-oslo/stjal-sixpack-med-ol-pa-grunerlokka-_-ble-pakjort-av-bil--1.17968362",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 24 Jul 2026 17:20:00 GMT"
-    },
-    {
-      "title": "Brann i båt ved Jeløya",
-      "link": "https://www.nrk.no/ostfold/brann-i-bat-ved-jeloya-1.17968531",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Fri, 24 Jul 2026 17:00:47 GMT"
-    },
-    {
-      "title": "Titusener evakueres fra branner i Sør-Europa",
-      "link": "https://www.nrk.no/nyheter/titusener-evakueres-fra-branner-i-sor-europa-1.17968515",
-      "category": "Spania",
-      "pubDate": "Fri, 24 Jul 2026 16:55:31 GMT"
     }
   ]
 }
