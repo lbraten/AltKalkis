@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-25T01:01:55.022Z",
+  "updatedAt": "2026-07-25T04:44:02.058Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump tilbake på korrespondentmiddag i Washington",
+      "link": "https://www.nrk.no/nyheter/trump-tilbake-pa-korrespondentmiddag-i-washington-1.17968673",
+      "category": "USA",
+      "pubDate": "Sat, 25 Jul 2026 02:58:28 GMT"
+    },
+    {
+      "title": "Netanyahu skal møte Trump i Washington",
+      "link": "https://www.nrk.no/nyheter/netanyahu-skal-mote-trump-i-washington-1.17968675",
+      "category": "Israel",
+      "pubDate": "Sat, 25 Jul 2026 02:26:21 GMT"
+    },
+    {
+      "title": "Vellykket test av SpaceX-rakett",
+      "link": "https://www.nrk.no/nyheter/vellykket-test-av-spacex-rakett-1.17968674",
+      "category": "SpaceX",
+      "pubDate": "Sat, 25 Jul 2026 01:55:28 GMT"
+    },
     {
       "title": "Verste meslingutbrudd på 35 år i USA",
       "link": "https://www.nrk.no/nyheter/verste-meslingutbrudd-pa-35-ar-i-usa-1.17968672",
@@ -15,28 +33,10 @@
       "pubDate": "Sat, 25 Jul 2026 00:46:11 GMT"
     },
     {
-      "title": "Brann i grisefjøs i Levanger",
-      "link": "https://www.nrk.no/nyheter/brann-i-grisefjos-i-levanger-1.17968670",
+      "title": "Hundrevis av griser brant inne i fjøs i Levanger",
+      "link": "https://www.nrk.no/nyheter/hundrevis-av-griser-brant-inne-i-fjos-i-levanger-1.17968670",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sat, 25 Jul 2026 00:22:28 GMT"
-    },
-    {
-      "title": "Minst to drept i droneangrep mot Sumy",
-      "link": "https://www.nrk.no/nyheter/minst-to-drept-i-droneangrep-mot-sumy-1.17968669",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 25 Jul 2026 00:03:51 GMT"
-    },
-    {
-      "title": "Paramount utsetter Warner Bros-fusjon",
-      "link": "https://www.nrk.no/nyheter/paramount-utsetter-warner-bros-fusjon-1.17968665",
-      "category": "USA",
-      "pubDate": "Fri, 24 Jul 2026 23:44:40 GMT"
-    },
-    {
-      "title": "Alvorlig MC-ulykke i Larvik",
-      "link": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-larvik-1.17968664",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 24 Jul 2026 21:48:54 GMT"
     }
   ]
 }
