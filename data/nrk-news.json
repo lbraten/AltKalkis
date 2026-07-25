@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-24T23:02:37.196Z",
+  "updatedAt": "2026-07-25T01:01:55.022Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Verste meslingutbrudd på 35 år i USA",
+      "link": "https://www.nrk.no/nyheter/verste-meslingutbrudd-pa-35-ar-i-usa-1.17968672",
+      "category": "Meslinger",
+      "pubDate": "Sat, 25 Jul 2026 00:48:37 GMT"
+    },
+    {
+      "title": "USA skjøt mot skip i Omanbukta",
+      "link": "https://www.nrk.no/nyheter/usa-skjot-mot-skip-i-omanbukta-1.17968671",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 25 Jul 2026 00:46:11 GMT"
+    },
+    {
+      "title": "Brann i grisefjøs i Levanger",
+      "link": "https://www.nrk.no/nyheter/brann-i-grisefjos-i-levanger-1.17968670",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 25 Jul 2026 00:22:28 GMT"
+    },
+    {
+      "title": "Minst to drept i droneangrep mot Sumy",
+      "link": "https://www.nrk.no/nyheter/minst-to-drept-i-droneangrep-mot-sumy-1.17968669",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 25 Jul 2026 00:03:51 GMT"
+    },
+    {
+      "title": "Paramount utsetter Warner Bros-fusjon",
+      "link": "https://www.nrk.no/nyheter/paramount-utsetter-warner-bros-fusjon-1.17968665",
+      "category": "USA",
+      "pubDate": "Fri, 24 Jul 2026 23:44:40 GMT"
+    },
     {
       "title": "Alvorlig MC-ulykke i Larvik",
       "link": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-larvik-1.17968664",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Fri, 24 Jul 2026 21:48:54 GMT"
-    },
-    {
-      "title": "Saudiarabisk angrep mot houthiene i Jemen",
-      "link": "https://www.nrk.no/nyheter/saudiarabisk-angrep-mot-houthiene-i-jemen-1.17968662",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 24 Jul 2026 21:31:04 GMT"
-    },
-    {
-      "title": "Stor brann i industriområde i England",
-      "link": "https://www.nrk.no/nyheter/stor-brann-i-industriomrade-i-england-1.17968642",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 24 Jul 2026 20:26:49 GMT"
-    },
-    {
-      "title": "Skogbrannene i Frankrike nærmer seg Bordeaux",
-      "link": "https://www.nrk.no/nyheter/skogbrannene-i-frankrike-naermer-seg-bordeaux-1.17968630",
-      "category": "Frankrike",
-      "pubDate": "Fri, 24 Jul 2026 20:12:13 GMT"
-    },
-    {
-      "title": "Venezuela trekker seg fra Den internasjonale straffedomstolen",
-      "link": "https://www.nrk.no/nyheter/venezuela-trekker-seg-fra-den-internasjonale-straffedomstolen-1.17968514",
-      "category": "Venezuela",
-      "pubDate": "Fri, 24 Jul 2026 19:53:52 GMT"
-    },
-    {
-      "title": "Warholm med overlegent NM-gull",
-      "link": "https://www.nrk.no/sport/warholm-med-overlegent-nm-gull-1.17968579",
-      "category": "Sportsnyheter",
-      "pubDate": "Fri, 24 Jul 2026 18:56:23 GMT"
     }
   ]
 }
