@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-25T16:59:49.125Z",
+  "updatedAt": "2026-07-25T18:02:50.849Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fallulykke ved Djevelporten – person fløyet til sykehus",
+      "link": "https://www.nrk.no/nordland/fallulykke-ved-djevelporten-_-person-floyet-til-sykehus-1.17969048",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 25 Jul 2026 17:00:36 GMT"
+    },
+    {
+      "title": "Macron om skogbrannene: - Setter landet på prøve",
+      "link": "https://www.nrk.no/nyheter/macron-om-skogbrannene_---setter-landet-pa-prove-1.17969128",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 25 Jul 2026 16:59:03 GMT"
+    },
     {
       "title": "Millitærfly brukes for første gang",
       "link": "https://www.nrk.no/nyheter/millitaerfly-brukes-for-forste-gang-1.17969113",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/redningsaksjon-i-larvik-_-en-bat-driver-1.17968976",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 25 Jul 2026 15:29:16 GMT"
-    },
-    {
-      "title": "Ressurser sendt til Frankrike fra flere EU-land",
-      "link": "https://www.nrk.no/nyheter/ressurser-sendt-til-frankrike-fra-flere-eu-land-1.17969033",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 25 Jul 2026 14:49:54 GMT"
-    },
-    {
-      "title": "Nytt krisemøte i Frankrike: Setter inn 1 500 soldater mot skogbrannene",
-      "link": "https://www.nrk.no/nyheter/nytt-krisemote-i-frankrike_-setter-inn-1-500-soldater-mot-skogbrannene-1.17968996",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 25 Jul 2026 14:26:34 GMT"
     }
   ]
 }
