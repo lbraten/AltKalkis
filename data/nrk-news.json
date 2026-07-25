@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-07-25T20:54:37.113Z",
+  "updatedAt": "2026-07-25T21:57:31.572Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "En død og minst 15 skadet etter påkjørsel i Berlin",
+      "link": "https://www.nrk.no/nyheter/en-dod-og-minst-15-skadet-etter-pakjorsel-i-berlin-1.17969257",
+      "category": "Tyskland",
+      "pubDate": "Sat, 25 Jul 2026 21:36:55 GMT"
+    },
+    {
       "title": "Bild: Bil har kjørt inn i folkemengde i Berlin",
       "link": "https://www.nrk.no/nyheter/bild_-bil-har-kjort-inn-i-folkemengde-i-berlin-1.17969256",
-      "category": "high",
+      "category": "Tyskland",
       "pubDate": "Sat, 25 Jul 2026 20:44:04 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/redningsaksjon-i-sandefjord-avsluttes-1.17969163",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 25 Jul 2026 18:59:40 GMT"
-    },
-    {
-      "title": "Frankrikes statsminister: - De neste timene kan bli vanskelige",
-      "link": "https://www.nrk.no/nyheter/frankrikes-statsminister_---de-neste-timene-kan-bli-vanskelige-1.17969169",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 25 Jul 2026 18:17:22 GMT"
     }
   ]
 }
