@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-25T10:52:19.571Z",
+  "updatedAt": "2026-07-25T12:03:17.285Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "35 døde og 30 skadet i bussulykke",
+      "link": "https://www.nrk.no/nyheter/35-dode-og-30-skadet-i-bussulykke--1.17968873",
+      "category": "Syria",
+      "pubDate": "Sat, 25 Jul 2026 11:40:48 GMT"
+    },
+    {
+      "title": "Fortsatt 180 uten midlertidig bolig",
+      "link": "https://www.nrk.no/buskerud/fortsatt-180-uten-midlertidig-bolig-1.17968844",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Sat, 25 Jul 2026 11:37:31 GMT"
+    },
+    {
+      "title": "70.000 evakuert i Madrid-området",
+      "link": "https://www.nrk.no/nyheter/70.000-evakuert-i-madrid-omradet-1.17968848",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 25 Jul 2026 11:19:38 GMT"
+    },
     {
       "title": "Ukraina skal ha angrepet oljeplattform og militæranlegg",
       "link": "https://www.nrk.no/nyheter/ukraina-skal-ha-angrepet-oljeplattform-og-militaeranlegg-1.17968827",
@@ -9,34 +27,16 @@
       "pubDate": "Sat, 25 Jul 2026 10:37:44 GMT"
     },
     {
+      "title": "Fem i vannet i båtvelt på Hvaler: Deltok i båtrace",
+      "link": "https://www.nrk.no/ostfold/fem-i-vannet-i-batvelt-pa-hvaler_-deltok-i-batrace-1.17968800",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 25 Jul 2026 09:56:04 GMT"
+    },
+    {
       "title": "Statsminister: Prioriteten er å redde liv",
       "link": "https://www.nrk.no/nyheter/statsminister_-prioriteten-er-a-redde-liv-1.17968785",
-      "category": "Spania",
-      "pubDate": "Sat, 25 Jul 2026 09:55:15 GMT"
-    },
-    {
-      "title": "Tuftes begravelse vises på NRK",
-      "link": "https://www.nrk.no/nyheter/tuftes-begravelse-vises-pa-nrk-1.17968799",
-      "category": "Olaf Tufte",
-      "pubDate": "Sat, 25 Jul 2026 09:52:26 GMT"
-    },
-    {
-      "title": "Råde-ulykken: Antatt sjåfør skrevet ut og siktet",
-      "link": "https://www.nrk.no/ostfold/rade-ulykken_-antatt-sjafor-skrevet-ut-og-siktet-1.17968722",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 25 Jul 2026 09:20:45 GMT"
-    },
-    {
-      "title": "Indias utdanningsminister går av",
-      "link": "https://www.nrk.no/nyheter/indias-utdanningsminister-gar-av-1.17968763",
-      "category": "India",
-      "pubDate": "Sat, 25 Jul 2026 08:57:30 GMT"
-    },
-    {
-      "title": "Skogbrannen nærmer seg byen Bordeaux",
-      "link": "https://www.nrk.no/nyheter/skogbrannen-naermer-seg-byen-bordeaux-1.17968743",
       "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 25 Jul 2026 07:34:53 GMT"
+      "pubDate": "Sat, 25 Jul 2026 09:55:15 GMT"
     }
   ]
 }
