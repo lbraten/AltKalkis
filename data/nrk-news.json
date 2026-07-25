@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-25T14:09:52.179Z",
+  "updatedAt": "2026-07-25T15:40:31.536Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Redningsaksjon i Larvik – en båt driver",
+      "link": "https://www.nrk.no/vestfoldogtelemark/redningsaksjon-i-larvik-_-en-bat-driver-1.17968976",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 25 Jul 2026 15:29:16 GMT"
+    },
+    {
+      "title": "Ressurser sendt til Frankrike fra flere EU-land",
+      "link": "https://www.nrk.no/nyheter/ressurser-sendt-til-frankrike-fra-flere-eu-land-1.17969033",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 25 Jul 2026 14:49:54 GMT"
+    },
+    {
+      "title": "Nytt krisemøte i Frankrike: Setter inn 1 500 soldater mot skogbrannene",
+      "link": "https://www.nrk.no/nyheter/nytt-krisemote-i-frankrike_-setter-inn-1-500-soldater-mot-skogbrannene-1.17968996",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 25 Jul 2026 14:26:34 GMT"
+    },
     {
       "title": "Småfly styrtet inn i en bolig i Tyskland - minst en omkommet",
       "link": "https://www.nrk.no/nyheter/smafly-styrtet-inn-i-en-bolig-i-tyskland---minst-en-omkommet-1.17969006",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/fallulykke-i-larvik-_-skal-ha-falt-seks-meter-1.17968925",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 25 Jul 2026 13:26:28 GMT"
-    },
-    {
-      "title": "Demonstrasjoner i India avsluttet etter innfridde krav",
-      "link": "https://www.nrk.no/nyheter/demonstrasjoner-i-india-avsluttet-etter-innfridde-krav-1.17968930",
-      "category": "India",
-      "pubDate": "Sat, 25 Jul 2026 12:53:43 GMT"
-    },
-    {
-      "title": "Utenriksdepartementet: Følg råd fra lokale myndigheter",
-      "link": "https://www.nrk.no/nyheter/utenriksdepartementet_-folg-rad-fra-lokale-myndigheter-1.17968904",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 25 Jul 2026 12:42:21 GMT"
-    },
-    {
-      "title": "35 døde og 30 skadet i bussulykke",
-      "link": "https://www.nrk.no/nyheter/35-dode-og-30-skadet-i-bussulykke--1.17968873",
-      "category": "Syria",
-      "pubDate": "Sat, 25 Jul 2026 11:40:48 GMT"
     }
   ]
 }
