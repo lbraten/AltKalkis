@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-25T07:18:45.409Z",
+  "updatedAt": "2026-07-25T09:17:38.657Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Indias utdanningsminister går av",
+      "link": "https://www.nrk.no/nyheter/indias-utdanningsminister-gar-av-1.17968763",
+      "category": "India",
+      "pubDate": "Sat, 25 Jul 2026 08:57:30 GMT"
+    },
+    {
+      "title": "Skogbrannen nærmer seg byen Bordeaux",
+      "link": "https://www.nrk.no/nyheter/skogbrannen-naermer-seg-byen-bordeaux-1.17968743",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 25 Jul 2026 07:34:53 GMT"
+    },
     {
       "title": "Forsvaret reagerte på VM-fest – forsvarssjefens kone måtte flytte",
       "link": "https://www.nrk.no/stor-oslo/forsvaret-reagerte-pa-vm-fest-_-forsvarssjefens-kone-matte-flytte-1.17968730",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/romania_-skutt-ned-ny-drone-1.17968699",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 25 Jul 2026 06:44:25 GMT"
-    },
-    {
-      "title": "Kraftig økning i antall drukningsulykker: – Dramatisk høye",
-      "link": "https://www.nrk.no/innlandet/kraftig-okning-i-antall-drukningsulykker_-_-dramatisk-hoye-1.17968700",
-      "category": "Drukning og badeulykker",
-      "pubDate": "Sat, 25 Jul 2026 06:36:25 GMT"
-    },
-    {
-      "title": "FN-sjefen i Syria",
-      "link": "https://www.nrk.no/nyheter/fn-sjefen-i-syria-1.17968686",
-      "category": "Syria",
-      "pubDate": "Sat, 25 Jul 2026 06:05:04 GMT"
     }
   ]
 }
