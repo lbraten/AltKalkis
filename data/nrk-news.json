@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-25T19:43:21.718Z",
+  "updatedAt": "2026-07-25T20:54:37.113Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bild: Bil har kjørt inn i folkemengde i Berlin",
+      "link": "https://www.nrk.no/nyheter/bild_-bil-har-kjort-inn-i-folkemengde-i-berlin-1.17969256",
+      "category": "high",
+      "pubDate": "Sat, 25 Jul 2026 20:44:04 GMT"
+    },
+    {
+      "title": "El-sparkesyklist har veltet i Bamble – blør fra hodet",
+      "link": "https://www.nrk.no/vestfoldogtelemark/el-sparkesyklist-har-veltet-i-bamble-_-blor-fra-hodet-1.17969213",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 25 Jul 2026 19:58:27 GMT"
+    },
     {
       "title": "Ankedomstol stanser Trumps forsøk på å begrense poststemmer",
       "link": "https://www.nrk.no/nyheter/ankedomstol-stanser-trumps-forsok-pa-a-begrense-poststemmer-1.17969195",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/frankrikes-statsminister_---de-neste-timene-kan-bli-vanskelige-1.17969169",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Sat, 25 Jul 2026 18:17:22 GMT"
-    },
-    {
-      "title": "Stor leteaksjon: Redningshelikopter satt inn i søket etter savnet mann",
-      "link": "https://www.nrk.no/nordland/stor-leteaksjon_-redningshelikopter-satt-inn-i-soket-etter-savnet-mann-1.17969135",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 25 Jul 2026 17:42:32 GMT"
-    },
-    {
-      "title": "Fallulykke ved Djevelporten – person fløyet til sykehus",
-      "link": "https://www.nrk.no/nordland/fallulykke-ved-djevelporten-_-person-floyet-til-sykehus-1.17969048",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 25 Jul 2026 17:00:36 GMT"
     }
   ]
 }
