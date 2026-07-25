@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-25T21:57:31.572Z",
+  "updatedAt": "2026-07-25T23:01:30.083Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tyske medier: Bilføreren skal ha vært bevæpnet",
+      "link": "https://www.nrk.no/nyheter/tyske-medier_-bilforeren-skal-ha-vaert-bevaepnet-1.17969270",
+      "category": "Tyskland",
+      "pubDate": "Sat, 25 Jul 2026 22:09:56 GMT"
+    },
+    {
+      "title": "Meldinger om angrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/meldinger-om-angrep-mot-kyiv-1.17969269",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 25 Jul 2026 22:02:43 GMT"
+    },
+    {
+      "title": "Nye evakueringer ved Bordeaux",
+      "link": "https://www.nrk.no/nyheter/nye-evakueringer-ved-bordeaux-1.17969268",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 25 Jul 2026 22:00:40 GMT"
+    },
     {
       "title": "En død og minst 15 skadet etter påkjørsel i Berlin",
       "link": "https://www.nrk.no/nyheter/en-dod-og-minst-15-skadet-etter-pakjorsel-i-berlin-1.17969257",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/el-sparkesyklist-har-veltet-i-bamble-_-blor-fra-hodet-1.17969213",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 25 Jul 2026 19:58:27 GMT"
-    },
-    {
-      "title": "Ankedomstol stanser Trumps forsøk på å begrense poststemmer",
-      "link": "https://www.nrk.no/nyheter/ankedomstol-stanser-trumps-forsok-pa-a-begrense-poststemmer-1.17969195",
-      "category": "USA",
-      "pubDate": "Sat, 25 Jul 2026 19:31:28 GMT"
-    },
-    {
-      "title": "Dømt til fengsel for drapsforsøk etter hasjkrangel",
-      "link": "https://www.nrk.no/stor-oslo/domt-til-fengsel-for-drapsforsok-etter-hasjkrangel-1.17969123",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 25 Jul 2026 19:05:58 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Sandefjord avsluttes",
-      "link": "https://www.nrk.no/vestfoldogtelemark/redningsaksjon-i-sandefjord-avsluttes-1.17969163",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 25 Jul 2026 18:59:40 GMT"
     }
   ]
 }
