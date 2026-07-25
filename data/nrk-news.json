@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-25T12:03:17.285Z",
+  "updatedAt": "2026-07-25T14:09:52.179Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Småfly styrtet inn i en bolig i Tyskland - minst en omkommet",
+      "link": "https://www.nrk.no/nyheter/smafly-styrtet-inn-i-en-bolig-i-tyskland---minst-en-omkommet-1.17969006",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 25 Jul 2026 13:56:53 GMT"
+    },
+    {
+      "title": "Røyken fra skogbrannene i Madrid slår seg sammen med fransk røyksky",
+      "link": "https://www.nrk.no/nyheter/royken-fra-skogbrannene-i-madrid-slar-seg-sammen-med-fransk-royksky-1.17968943",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 25 Jul 2026 13:34:16 GMT"
+    },
+    {
+      "title": "Fallulykke i Larvik – skal ha falt seks meter",
+      "link": "https://www.nrk.no/vestfoldogtelemark/fallulykke-i-larvik-_-skal-ha-falt-seks-meter-1.17968925",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 25 Jul 2026 13:26:28 GMT"
+    },
+    {
+      "title": "Demonstrasjoner i India avsluttet etter innfridde krav",
+      "link": "https://www.nrk.no/nyheter/demonstrasjoner-i-india-avsluttet-etter-innfridde-krav-1.17968930",
+      "category": "India",
+      "pubDate": "Sat, 25 Jul 2026 12:53:43 GMT"
+    },
+    {
+      "title": "Utenriksdepartementet: Følg råd fra lokale myndigheter",
+      "link": "https://www.nrk.no/nyheter/utenriksdepartementet_-folg-rad-fra-lokale-myndigheter-1.17968904",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 25 Jul 2026 12:42:21 GMT"
+    },
     {
       "title": "35 døde og 30 skadet i bussulykke",
       "link": "https://www.nrk.no/nyheter/35-dode-og-30-skadet-i-bussulykke--1.17968873",
       "category": "Syria",
       "pubDate": "Sat, 25 Jul 2026 11:40:48 GMT"
-    },
-    {
-      "title": "Fortsatt 180 uten midlertidig bolig",
-      "link": "https://www.nrk.no/buskerud/fortsatt-180-uten-midlertidig-bolig-1.17968844",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sat, 25 Jul 2026 11:37:31 GMT"
-    },
-    {
-      "title": "70.000 evakuert i Madrid-området",
-      "link": "https://www.nrk.no/nyheter/70.000-evakuert-i-madrid-omradet-1.17968848",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 25 Jul 2026 11:19:38 GMT"
-    },
-    {
-      "title": "Ukraina skal ha angrepet oljeplattform og militæranlegg",
-      "link": "https://www.nrk.no/nyheter/ukraina-skal-ha-angrepet-oljeplattform-og-militaeranlegg-1.17968827",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 25 Jul 2026 10:37:44 GMT"
-    },
-    {
-      "title": "Fem i vannet i båtvelt på Hvaler: Deltok i båtrace",
-      "link": "https://www.nrk.no/ostfold/fem-i-vannet-i-batvelt-pa-hvaler_-deltok-i-batrace-1.17968800",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 25 Jul 2026 09:56:04 GMT"
-    },
-    {
-      "title": "Statsminister: Prioriteten er å redde liv",
-      "link": "https://www.nrk.no/nyheter/statsminister_-prioriteten-er-a-redde-liv-1.17968785",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 25 Jul 2026 09:55:15 GMT"
     }
   ]
 }
