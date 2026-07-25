@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-25T09:17:38.657Z",
+  "updatedAt": "2026-07-25T10:52:19.571Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina skal ha angrepet oljeplattform og militæranlegg",
+      "link": "https://www.nrk.no/nyheter/ukraina-skal-ha-angrepet-oljeplattform-og-militaeranlegg-1.17968827",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 25 Jul 2026 10:37:44 GMT"
+    },
+    {
+      "title": "Statsminister: Prioriteten er å redde liv",
+      "link": "https://www.nrk.no/nyheter/statsminister_-prioriteten-er-a-redde-liv-1.17968785",
+      "category": "Spania",
+      "pubDate": "Sat, 25 Jul 2026 09:55:15 GMT"
+    },
+    {
+      "title": "Tuftes begravelse vises på NRK",
+      "link": "https://www.nrk.no/nyheter/tuftes-begravelse-vises-pa-nrk-1.17968799",
+      "category": "Olaf Tufte",
+      "pubDate": "Sat, 25 Jul 2026 09:52:26 GMT"
+    },
+    {
+      "title": "Råde-ulykken: Antatt sjåfør skrevet ut og siktet",
+      "link": "https://www.nrk.no/ostfold/rade-ulykken_-antatt-sjafor-skrevet-ut-og-siktet-1.17968722",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 25 Jul 2026 09:20:45 GMT"
+    },
     {
       "title": "Indias utdanningsminister går av",
       "link": "https://www.nrk.no/nyheter/indias-utdanningsminister-gar-av-1.17968763",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skogbrannen-naermer-seg-byen-bordeaux-1.17968743",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Sat, 25 Jul 2026 07:34:53 GMT"
-    },
-    {
-      "title": "Forsvaret reagerte på VM-fest – forsvarssjefens kone måtte flytte",
-      "link": "https://www.nrk.no/stor-oslo/forsvaret-reagerte-pa-vm-fest-_-forsvarssjefens-kone-matte-flytte-1.17968730",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 25 Jul 2026 07:13:36 GMT"
-    },
-    {
-      "title": "Nato-praktikant pågrepet for spionasje",
-      "link": "https://www.nrk.no/nyheter/nato-praktikant-pagrepet-for-spionasje-1.17968731",
-      "category": "Nato",
-      "pubDate": "Sat, 25 Jul 2026 07:10:05 GMT"
-    },
-    {
-      "title": "Markerer storbrannen før Strømsgodset-kampen",
-      "link": "https://www.nrk.no/buskerud/markerer-storbrannen-for-stromsgodset-kampen-1.17968708",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sat, 25 Jul 2026 06:45:17 GMT"
-    },
-    {
-      "title": "Romania: Skutt ned ny drone",
-      "link": "https://www.nrk.no/nyheter/romania_-skutt-ned-ny-drone-1.17968699",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 25 Jul 2026 06:44:25 GMT"
     }
   ]
 }
