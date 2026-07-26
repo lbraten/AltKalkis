@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-26T17:32:48.371Z",
+  "updatedAt": "2026-07-26T19:13:27.191Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Militære styrker patruljerer evakuerte områder i Frankrike",
+      "link": "https://www.nrk.no/nyheter/militaere-styrker-patruljerer-evakuerte-omrader-i-frankrike-1.17969780",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sun, 26 Jul 2026 19:02:31 GMT"
+    },
+    {
+      "title": "Nærmere 1 000 personer har fått helsehjelp etter brannene i Madrid",
+      "link": "https://www.nrk.no/nyheter/naermere-1-000-personer-har-fatt-helsehjelp-etter-brannene-i-madrid-1.17969733",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sun, 26 Jul 2026 18:40:53 GMT"
+    },
+    {
+      "title": "Røykutvikling på hotell i Bergen – gjester evakuert",
+      "link": "https://www.nrk.no/vestland/roykutvikling-pa-hotell-i-bergen-_-gjester-evakuert-1.17969691",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 26 Jul 2026 17:47:57 GMT"
+    },
     {
       "title": "Mistenkt for Berlin Pride-angrep skal være skutt og drept under politiaksjon",
       "link": "https://www.nrk.no/nyheter/mistenkt-for-berlin-pride-angrep-skal-vaere-skutt-og-drept-under-politiaksjon-1.17969704",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/macron-skal-avholde-krisemote-om-brannene-1.17969690",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Sun, 26 Jul 2026 16:37:29 GMT"
-    },
-    {
-      "title": "Største skogbrannen som er registrert i Spansk historie",
-      "link": "https://www.nrk.no/nyheter/storste-skogbrannen-som-er-registrert-i-spansk-historie-1.17969632",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 26 Jul 2026 16:22:22 GMT"
-    },
-    {
-      "title": "Funn av død person i Hammerfest",
-      "link": "https://www.nrk.no/tromsogfinnmark/funn-av-dod-person-i-hammerfest-1.17969522",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 26 Jul 2026 16:04:27 GMT"
-    },
-    {
-      "title": "Myndighetene i Gironde ber turister holde seg unna",
-      "link": "https://www.nrk.no/nyheter/myndighetene-i-gironde-ber-turister-holde-seg-unna-1.17969549",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 26 Jul 2026 15:28:02 GMT"
     }
   ]
 }
