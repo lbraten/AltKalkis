@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-25T23:01:30.083Z",
+  "updatedAt": "2026-07-26T01:07:03.601Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tysk politi: Jakter navngitt gjerningsmann",
+      "link": "https://www.nrk.no/nyheter/tysk-politi_-jakter-navngitt-gjerningsmann-1.17969279",
+      "category": "high",
+      "pubDate": "Sun, 26 Jul 2026 00:53:30 GMT"
+    },
+    {
+      "title": "Masseslagsmål i Lillestrøm",
+      "link": "https://www.nrk.no/nyheter/masseslagsmal-i-lillestrom-1.17969278",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 26 Jul 2026 00:40:29 GMT"
+    },
+    {
+      "title": "Ebola-smittetall i Kongo har passert 3000",
+      "link": "https://www.nrk.no/nyheter/ebola-smittetall-i-kongo-har-passert-3000-1.17969277",
+      "category": "Ebola",
+      "pubDate": "Sun, 26 Jul 2026 00:06:46 GMT"
+    },
+    {
+      "title": "Minst en død og 16 personer såret etter bilangrep i Berlin",
+      "link": "https://www.nrk.no/nyheter/minst-en-dod-og-16-personer-saret-etter-bilangrep-i-berlin-1.17969273",
+      "category": "Tyskland",
+      "pubDate": "Sat, 25 Jul 2026 23:08:19 GMT"
+    },
+    {
+      "title": "Merz kaller handlingen forferdelig",
+      "link": "https://www.nrk.no/nyheter/merz-kaller-handlingen-forferdelig-1.17969272",
+      "category": "Tyskland",
+      "pubDate": "Sat, 25 Jul 2026 23:02:24 GMT"
+    },
     {
       "title": "Tyske medier: Bilføreren skal ha vært bevæpnet",
       "link": "https://www.nrk.no/nyheter/tyske-medier_-bilforeren-skal-ha-vaert-bevaepnet-1.17969270",
       "category": "Tyskland",
       "pubDate": "Sat, 25 Jul 2026 22:09:56 GMT"
-    },
-    {
-      "title": "Meldinger om angrep mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/meldinger-om-angrep-mot-kyiv-1.17969269",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 25 Jul 2026 22:02:43 GMT"
-    },
-    {
-      "title": "Nye evakueringer ved Bordeaux",
-      "link": "https://www.nrk.no/nyheter/nye-evakueringer-ved-bordeaux-1.17969268",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 25 Jul 2026 22:00:40 GMT"
-    },
-    {
-      "title": "En død og minst 15 skadet etter påkjørsel i Berlin",
-      "link": "https://www.nrk.no/nyheter/en-dod-og-minst-15-skadet-etter-pakjorsel-i-berlin-1.17969257",
-      "category": "Tyskland",
-      "pubDate": "Sat, 25 Jul 2026 21:36:55 GMT"
-    },
-    {
-      "title": "Bild: Bil har kjørt inn i folkemengde i Berlin",
-      "link": "https://www.nrk.no/nyheter/bild_-bil-har-kjort-inn-i-folkemengde-i-berlin-1.17969256",
-      "category": "Tyskland",
-      "pubDate": "Sat, 25 Jul 2026 20:44:04 GMT"
-    },
-    {
-      "title": "El-sparkesyklist har veltet i Bamble – blør fra hodet",
-      "link": "https://www.nrk.no/vestfoldogtelemark/el-sparkesyklist-har-veltet-i-bamble-_-blor-fra-hodet-1.17969213",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 25 Jul 2026 19:58:27 GMT"
     }
   ]
 }
