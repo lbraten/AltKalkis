@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-26T11:44:39.764Z",
+  "updatedAt": "2026-07-26T13:25:31.435Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Berlin-angrepet: Mistenkte er IS-sympatisør",
-      "link": "https://www.nrk.no/nyheter/berlin-angrepet_-mistenkte-er-is-sympatisor-1.17969455",
+      "title": "240 hus ødelagt og 75 brannmenn skadet i Frankrike",
+      "link": "https://www.nrk.no/nyheter/240-hus-odelagt-og-75-brannmenn-skadet-i-frankrike-1.17969528",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sun, 26 Jul 2026 13:22:15 GMT"
+    },
+    {
+      "title": "Kvinne omkom i rideulykke",
+      "link": "https://www.nrk.no/innlandet/kvinne-omkom-i-rideulykke-1.17969462",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sun, 26 Jul 2026 13:05:36 GMT"
+    },
+    {
+      "title": "Oppjusterer antall skadde etter terror i Berlin",
+      "link": "https://www.nrk.no/nyheter/oppjusterer-antall-skadde-etter-terror-i-berlin-1.17969524",
       "category": "Tyskland",
-      "pubDate": "Sun, 26 Jul 2026 11:18:47 GMT"
+      "pubDate": "Sun, 26 Jul 2026 12:42:05 GMT"
     },
     {
-      "title": "Bordeaux' ordfører: Skogbrannen er nå 15 kilometer fra bygrensen",
-      "link": "https://www.nrk.no/nyheter/bordeaux_-ordforer_-skogbrannen-er-na-15-kilometer-fra-bygrensen-1.17969431",
+      "title": "Tysklands innenriksminister: Pride-angrepet var et terrorangrep",
+      "link": "https://www.nrk.no/nyheter/tysklands-innenriksminister_-pride-angrepet-var-et-terrorangrep-1.17969500",
+      "category": "Tyskland",
+      "pubDate": "Sun, 26 Jul 2026 12:28:43 GMT"
+    },
+    {
+      "title": "UD til TV2: Ingen meldinger om at nordmenn er rammet i Berlin",
+      "link": "https://www.nrk.no/nyheter/ud-til-tv2_-ingen-meldinger-om-at-nordmenn-er-rammet-i-berlin-1.17969499",
+      "category": "Tyskland",
+      "pubDate": "Sun, 26 Jul 2026 12:02:17 GMT"
+    },
+    {
+      "title": "Skogbrannen i Madrid-regionen under kontroll",
+      "link": "https://www.nrk.no/nyheter/skogbrannen-i-madrid-regionen-under-kontroll-1.17969480",
       "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 26 Jul 2026 10:34:48 GMT"
-    },
-    {
-      "title": "Redningsaksjon i elv i Voss – slit med å få person til sjukehus",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-i-elv-i-voss-_-slit-med-a-fa-person-til-sjukehus-1.17969427",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 26 Jul 2026 10:06:02 GMT"
-    },
-    {
-      "title": "Sánchez: – Krevende kamp mot skogbrannen",
-      "link": "https://www.nrk.no/nyheter/sanchez_-_-krevende-kamp-mot-skogbrannen-1.17969409",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 26 Jul 2026 09:49:54 GMT"
-    },
-    {
-      "title": "Frankrike: 5.200 kjemper mot skogbrannene",
-      "link": "https://www.nrk.no/nyheter/frankrike_-5.200-kjemper-mot-skogbrannene-1.17969291",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 26 Jul 2026 09:05:55 GMT"
-    },
-    {
-      "title": "Skogbrannene i Frankrike: To siktet for å ha tent fyrverkeri",
-      "link": "https://www.nrk.no/nyheter/skogbrannene-i-frankrike_-to-siktet-for-a-ha-tent-fyrverkeri-1.17969391",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 26 Jul 2026 08:13:59 GMT"
+      "pubDate": "Sun, 26 Jul 2026 11:57:01 GMT"
     }
   ]
 }
