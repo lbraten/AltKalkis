@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-26T14:48:21.901Z",
+  "updatedAt": "2026-07-26T16:02:16.963Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Myndighetene i Gironde ber turister holde seg unna",
+      "link": "https://www.nrk.no/nyheter/myndighetene-i-gironde-ber-turister-holde-seg-unna-1.17969549",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sun, 26 Jul 2026 15:28:02 GMT"
+    },
+    {
+      "title": "Kvinne alvorlig skadd på Nærbø – mann pågrepet",
+      "link": "https://www.nrk.no/nyheter/-kvinne-alvorlig-skadd-pa-naerbo-_-mann-pagrepet-1.17969612",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 26 Jul 2026 15:09:21 GMT"
+    },
     {
       "title": "Støre om massepåkjørsel i Berlin: – Det skeive miljøet kjenner nok en gang på frykt og sinne",
       "link": "https://www.nrk.no/nyheter/store-om-massepakjorsel-i-berlin_-_-det-skeive-miljoet-kjenner-nok-en-gang-pa-frykt-og-sinne-1.17969609",
@@ -9,8 +21,8 @@
       "pubDate": "Sun, 26 Jul 2026 14:43:11 GMT"
     },
     {
-      "title": "Kanseler Friedrich uttaler seg om terroren: - Har som mål å splitte oss",
-      "link": "https://www.nrk.no/nyheter/kanseler-friedrich-uttaler-seg-om-terroren_---har-som-mal-a-splitte-oss-1.17969587",
+      "title": "Kanseler Friedrich uttaler seg om angrepet: - Har som mål å splitte oss",
+      "link": "https://www.nrk.no/nyheter/kanseler-friedrich-uttaler-seg-om-angrepet_---har-som-mal-a-splitte-oss-1.17969587",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 26 Jul 2026 14:40:58 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/240-hus-odelagt-og-75-brannmenn-skadet-i-frankrike-1.17969528",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Sun, 26 Jul 2026 13:22:15 GMT"
-    },
-    {
-      "title": "Kvinne omkom i rideulykke",
-      "link": "https://www.nrk.no/innlandet/kvinne-omkom-i-rideulykke-1.17969462",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sun, 26 Jul 2026 13:05:36 GMT"
-    },
-    {
-      "title": "Oppjusterer antall skadde etter terror i Berlin",
-      "link": "https://www.nrk.no/nyheter/oppjusterer-antall-skadde-etter-terror-i-berlin-1.17969524",
-      "category": "Tyskland",
-      "pubDate": "Sun, 26 Jul 2026 12:42:05 GMT"
     }
   ]
 }
