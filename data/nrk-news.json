@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-26T16:02:16.963Z",
+  "updatedAt": "2026-07-26T17:32:48.371Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mistenkt for Berlin Pride-angrep skal være skutt og drept under politiaksjon",
+      "link": "https://www.nrk.no/nyheter/mistenkt-for-berlin-pride-angrep-skal-vaere-skutt-og-drept-under-politiaksjon-1.17969704",
+      "category": "high",
+      "pubDate": "Sun, 26 Jul 2026 17:07:12 GMT"
+    },
+    {
+      "title": "La ut steiner på jernbanelinje",
+      "link": "https://www.nrk.no/innlandet/la-ut-steiner-pa-jernbanelinje-1.17969682",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sun, 26 Jul 2026 16:47:24 GMT"
+    },
+    {
+      "title": "Macron skal avholde krisemøte om brannene",
+      "link": "https://www.nrk.no/nyheter/macron-skal-avholde-krisemote-om-brannene-1.17969690",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sun, 26 Jul 2026 16:37:29 GMT"
+    },
+    {
+      "title": "Største skogbrannen som er registrert i Spansk historie",
+      "link": "https://www.nrk.no/nyheter/storste-skogbrannen-som-er-registrert-i-spansk-historie-1.17969632",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sun, 26 Jul 2026 16:22:22 GMT"
+    },
+    {
+      "title": "Funn av død person i Hammerfest",
+      "link": "https://www.nrk.no/tromsogfinnmark/funn-av-dod-person-i-hammerfest-1.17969522",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 26 Jul 2026 16:04:27 GMT"
+    },
     {
       "title": "Myndighetene i Gironde ber turister holde seg unna",
       "link": "https://www.nrk.no/nyheter/myndighetene-i-gironde-ber-turister-holde-seg-unna-1.17969549",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Sun, 26 Jul 2026 15:28:02 GMT"
-    },
-    {
-      "title": "Kvinne alvorlig skadd på Nærbø – mann pågrepet",
-      "link": "https://www.nrk.no/nyheter/-kvinne-alvorlig-skadd-pa-naerbo-_-mann-pagrepet-1.17969612",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 26 Jul 2026 15:09:21 GMT"
-    },
-    {
-      "title": "Støre om massepåkjørsel i Berlin: – Det skeive miljøet kjenner nok en gang på frykt og sinne",
-      "link": "https://www.nrk.no/nyheter/store-om-massepakjorsel-i-berlin_-_-det-skeive-miljoet-kjenner-nok-en-gang-pa-frykt-og-sinne-1.17969609",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 26 Jul 2026 14:43:11 GMT"
-    },
-    {
-      "title": "Kanseler Friedrich uttaler seg om angrepet: - Har som mål å splitte oss",
-      "link": "https://www.nrk.no/nyheter/kanseler-friedrich-uttaler-seg-om-angrepet_---har-som-mal-a-splitte-oss-1.17969587",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 26 Jul 2026 14:40:58 GMT"
-    },
-    {
-      "title": "Spleis setter flere innsamlinger på pause etter Drammen-brannen",
-      "link": "https://www.nrk.no/nyheter/spleis-setter-flere-innsamlinger-pa-pause-etter-drammen-brannen-1.17969559",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Sun, 26 Jul 2026 14:06:44 GMT"
-    },
-    {
-      "title": "240 hus ødelagt og 75 brannmenn skadet i Frankrike",
-      "link": "https://www.nrk.no/nyheter/240-hus-odelagt-og-75-brannmenn-skadet-i-frankrike-1.17969528",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 26 Jul 2026 13:22:15 GMT"
     }
   ]
 }
