@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-26T10:01:46.964Z",
+  "updatedAt": "2026-07-26T11:44:39.764Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Berlin-angrepet: Mistenkte er IS-sympatisør",
+      "link": "https://www.nrk.no/nyheter/berlin-angrepet_-mistenkte-er-is-sympatisor-1.17969455",
+      "category": "Tyskland",
+      "pubDate": "Sun, 26 Jul 2026 11:18:47 GMT"
+    },
+    {
+      "title": "Bordeaux' ordfører: Skogbrannen er nå 15 kilometer fra bygrensen",
+      "link": "https://www.nrk.no/nyheter/bordeaux_-ordforer_-skogbrannen-er-na-15-kilometer-fra-bygrensen-1.17969431",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sun, 26 Jul 2026 10:34:48 GMT"
+    },
+    {
+      "title": "Redningsaksjon i elv i Voss – slit med å få person til sjukehus",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-i-elv-i-voss-_-slit-med-a-fa-person-til-sjukehus-1.17969427",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 26 Jul 2026 10:06:02 GMT"
+    },
     {
       "title": "Sánchez: – Krevende kamp mot skogbrannen",
       "link": "https://www.nrk.no/nyheter/sanchez_-_-krevende-kamp-mot-skogbrannen-1.17969409",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skogbrannene-i-frankrike_-to-siktet-for-a-ha-tent-fyrverkeri-1.17969391",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Sun, 26 Jul 2026 08:13:59 GMT"
-    },
-    {
-      "title": "Stor skogbrannfare i Telemark og deler av Agder",
-      "link": "https://www.nrk.no/vestfoldogtelemark/stor-skogbrannfare-i-telemark-og-deler-av-agder-1.17969332",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 26 Jul 2026 07:30:45 GMT"
-    },
-    {
-      "title": "250.000 evakuert i Frankrike",
-      "link": "https://www.nrk.no/nyheter/250.000-evakuert-i-frankrike-1.17969289",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 26 Jul 2026 05:44:50 GMT"
-    },
-    {
-      "title": "Eide om massepåkjørsel i Berlin: – Dypt rystet",
-      "link": "https://www.nrk.no/nyheter/eide-om-massepakjorsel-i-berlin_-_-dypt-rystet-1.17969287",
-      "category": "Tyskland",
-      "pubDate": "Sun, 26 Jul 2026 05:38:30 GMT"
     }
   ]
 }
