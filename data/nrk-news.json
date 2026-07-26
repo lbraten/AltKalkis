@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-26T04:58:27.308Z",
+  "updatedAt": "2026-07-26T07:41:31.299Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "250.000 evakuert i Frankrike",
+      "link": "https://www.nrk.no/nyheter/250.000-evakuert-i-frankrike-1.17969289",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sun, 26 Jul 2026 05:44:50 GMT"
+    },
+    {
+      "title": "Eide om massepåkjørsel i Berlin: – Dypt rystet",
+      "link": "https://www.nrk.no/nyheter/eide-om-massepakjorsel-i-berlin_-_-dypt-rystet-1.17969287",
+      "category": "Tyskland",
+      "pubDate": "Sun, 26 Jul 2026 05:38:30 GMT"
+    },
+    {
+      "title": "Tysk politi: Abdul B er farlig og bevæpnet",
+      "link": "https://www.nrk.no/nyheter/tysk-politi_-abdul-b-er-farlig-og-bevaepnet-1.17969285",
+      "category": "Tyskland",
+      "pubDate": "Sun, 26 Jul 2026 05:25:39 GMT"
+    },
+    {
+      "title": "Leter etter 23 savnede sjøfolk",
+      "link": "https://www.nrk.no/nyheter/leter-etter-23-savnede-sjofolk-1.17969284",
+      "category": "Sør-Kinahavet",
+      "pubDate": "Sun, 26 Jul 2026 04:58:38 GMT"
+    },
     {
       "title": "Tyfonen Noul har rammet Kina og Hongkong",
       "link": "https://www.nrk.no/nyheter/tyfonen-noul-har-rammet-kina-og-hongkong-1.17969282",
@@ -9,34 +33,10 @@
       "pubDate": "Sun, 26 Jul 2026 02:26:25 GMT"
     },
     {
-      "title": "Bilbrann stenger Mosseveien i Oslo",
-      "link": "https://www.nrk.no/nyheter/bilbrann-stenger-mosseveien-i-oslo-1.17969281",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 26 Jul 2026 01:44:20 GMT"
-    },
-    {
-      "title": "Tysk politi: Jakter navngitt gjerningsmann",
-      "link": "https://www.nrk.no/nyheter/tysk-politi_-jakter-navngitt-gjerningsmann-1.17969279",
-      "category": "Tyskland",
-      "pubDate": "Sun, 26 Jul 2026 00:53:30 GMT"
-    },
-    {
-      "title": "Masseslagsmål i Lillestrøm",
-      "link": "https://www.nrk.no/nyheter/masseslagsmal-i-lillestrom-1.17969278",
+      "title": "Bilbrann stengte Mosseveien i Oslo",
+      "link": "https://www.nrk.no/nyheter/bilbrann-stengte-mosseveien-i-oslo-1.17969281",
       "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 26 Jul 2026 00:40:29 GMT"
-    },
-    {
-      "title": "Ebola-smittetall i Kongo har passert 3000",
-      "link": "https://www.nrk.no/nyheter/ebola-smittetall-i-kongo-har-passert-3000-1.17969277",
-      "category": "Ebola",
-      "pubDate": "Sun, 26 Jul 2026 00:06:46 GMT"
-    },
-    {
-      "title": "Minst en død og 16 personer såret etter bilangrep i Berlin",
-      "link": "https://www.nrk.no/nyheter/minst-en-dod-og-16-personer-saret-etter-bilangrep-i-berlin-1.17969273",
-      "category": "Tyskland",
-      "pubDate": "Sat, 25 Jul 2026 23:08:19 GMT"
+      "pubDate": "Sun, 26 Jul 2026 01:44:20 GMT"
     }
   ]
 }
