@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-26T22:33:25.409Z",
+  "updatedAt": "2026-07-27T00:00:52.802Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "3200 nye ebola-tilfeller i Kongo",
+      "link": "https://www.nrk.no/nyheter/3200-nye-ebola-tilfeller-i-kongo-1.17969842",
+      "category": "DR Kongo",
+      "pubDate": "Sun, 26 Jul 2026 23:46:37 GMT"
+    },
+    {
+      "title": "Kraftig oljeprisfall – ned over 5 prosent",
+      "link": "https://www.nrk.no/nyheter/kraftig-oljeprisfall-_-ned-over-5-prosent-1.17969841",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 26 Jul 2026 22:58:43 GMT"
+    },
     {
       "title": "Over 325.000 evakuert fra skogbrannene",
       "link": "https://www.nrk.no/nyheter/over-325.000-evakuert-fra-skogbrannene-1.17969838",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/militaere-styrker-patruljerer-evakuerte-omrader-i-frankrike-1.17969780",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Sun, 26 Jul 2026 19:02:31 GMT"
-    },
-    {
-      "title": "Nærmere 1 000 personer har fått helsehjelp etter brannene i Madrid",
-      "link": "https://www.nrk.no/nyheter/naermere-1-000-personer-har-fatt-helsehjelp-etter-brannene-i-madrid-1.17969733",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 26 Jul 2026 18:40:53 GMT"
-    },
-    {
-      "title": "Røykutvikling på hotell i Bergen – gjester evakuert",
-      "link": "https://www.nrk.no/vestland/roykutvikling-pa-hotell-i-bergen-_-gjester-evakuert-1.17969691",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 26 Jul 2026 17:47:57 GMT"
     }
   ]
 }
