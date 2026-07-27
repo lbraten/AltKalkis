@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-27T21:39:21.250Z",
+  "updatedAt": "2026-07-27T23:03:07.952Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Turgåere fast på Store Blåmann ved Kvaløya",
+      "link": "https://www.nrk.no/nyheter/turgaere-fast-pa-store-blamann-ved-kvaloya-1.17970815",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Mon, 27 Jul 2026 22:44:21 GMT"
+    },
+    {
+      "title": "Ulovlig droneflyvning i Hammerfest",
+      "link": "https://www.nrk.no/nyheter/ulovlig-droneflyvning-i-hammerfest--1.17970814",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Mon, 27 Jul 2026 22:28:05 GMT"
+    },
+    {
+      "title": "Artisten D4vd stilles for retten i Los Angeles",
+      "link": "https://www.nrk.no/nyheter/artisten-d4vd-stilles-for-retten-i-los-angeles-1.17970812",
+      "category": "Musikk",
+      "pubDate": "Mon, 27 Jul 2026 22:20:37 GMT"
+    },
     {
       "title": "Flere skadet etter en bilulykke i Sverige",
       "link": "https://www.nrk.no/nyheter/flere-skadet-etter-en-bilulykke-i-sverige-1.17970803",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-sier-det-pagar-forhandlinger-med-iran-1.17970737",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 27 Jul 2026 19:46:33 GMT"
-    },
-    {
-      "title": "15-åring pågrepet etter skyting i Seattle",
-      "link": "https://www.nrk.no/nyheter/15-aring-pagrepet-etter-skyting-i-seattle--1.17970713",
-      "category": "USA",
-      "pubDate": "Mon, 27 Jul 2026 18:33:10 GMT"
-    },
-    {
-      "title": "Redningshelikopter har evakuert turgåer etter ras",
-      "link": "https://www.nrk.no/tromsogfinnmark/redningshelikopter-har-evakuert-turgaer-etter-ras-1.17970715",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 27 Jul 2026 18:13:54 GMT"
-    },
-    {
-      "title": "Slutt for postens egne fly",
-      "link": "https://www.nrk.no/tromsogfinnmark/slutt-for-postens-egne-fly-1.17970671",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 27 Jul 2026 18:08:04 GMT"
     }
   ]
 }
