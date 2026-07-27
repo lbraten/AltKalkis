@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-27T18:41:17.520Z",
+  "updatedAt": "2026-07-27T20:23:16.144Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump sier det pågår forhandlinger med Iran",
+      "link": "https://www.nrk.no/nyheter/trump-sier-det-pagar-forhandlinger-med-iran-1.17970737",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 27 Jul 2026 19:46:33 GMT"
+    },
     {
       "title": "15-åring pågrepet etter skyting i Seattle",
       "link": "https://www.nrk.no/nyheter/15-aring-pagrepet-etter-skyting-i-seattle--1.17970713",
@@ -9,8 +15,8 @@
       "pubDate": "Mon, 27 Jul 2026 18:33:10 GMT"
     },
     {
-      "title": "Redningshelikopter evakuerer turgåer etter steinras",
-      "link": "https://www.nrk.no/tromsogfinnmark/redningshelikopter-evakuerer-turgaer-etter-steinras-1.17970715",
+      "title": "Redningshelikopter har evakuert turgåer etter ras",
+      "link": "https://www.nrk.no/tromsogfinnmark/redningshelikopter-har-evakuert-turgaer-etter-ras-1.17970715",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Mon, 27 Jul 2026 18:13:54 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/den-britiske-tv-profilen-bill-oddie-er-dod-1.17970696",
       "category": "Storbritannia",
       "pubDate": "Mon, 27 Jul 2026 17:43:25 GMT"
-    },
-    {
-      "title": "Trump avviser at USA går tomme for ammunisjon",
-      "link": "https://www.nrk.no/nyheter/trump-avviser-at-usa-gar-tomme-for-ammunisjon--1.17970665",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 27 Jul 2026 17:40:18 GMT"
     }
   ]
 }
