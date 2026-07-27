@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-27T14:38:28.778Z",
+  "updatedAt": "2026-07-27T16:58:52.922Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Flere store nettsteder har tekniske problemer",
-      "link": "https://www.nrk.no/nyheter/flere-store-nettsteder-har-tekniske-problemer--1.17970416",
+      "title": "To jenter savnet i sjøen sør for Tofte, melder brannvesenet",
+      "link": "https://www.nrk.no/nyheter/to-jenter-savnet-i-sjoen-sor-for-tofte_-melder-brannvesenet-1.17970592",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 27 Jul 2026 16:55:57 GMT"
+    },
+    {
+      "title": "NRK hadde tekniske problemer",
+      "link": "https://www.nrk.no/nyheter/nrk-hadde-tekniske-problemer-1.17970586",
+      "category": "NRK",
+      "pubDate": "Mon, 27 Jul 2026 16:19:11 GMT"
+    },
+    {
+      "title": "Kvinne erklært død på Jæren: Mann siktet for drap",
+      "link": "https://www.nrk.no/nyheter/kvinne-erklaert-dod-pa-jaeren_-mann-siktet-for-drap-1.17970581",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 27 Jul 2026 16:09:07 GMT"
+    },
+    {
+      "title": "Bank-ID bekrefter også problemer",
+      "link": "https://www.nrk.no/nyheter/bank-id-bekrefter-ogsa-problemer-1.17970566",
+      "category": "Datasikkerhet",
+      "pubDate": "Mon, 27 Jul 2026 16:02:32 GMT"
+    },
+    {
+      "title": "Telenor bekrefter problemer",
+      "link": "https://www.nrk.no/nyheter/telenor-bekrefter-problemer-1.17970534",
+      "category": "Datasikkerhet",
+      "pubDate": "Mon, 27 Jul 2026 15:24:17 GMT"
+    },
+    {
+      "title": "Flere store nettsteder hadde tekniske problemer",
+      "link": "https://www.nrk.no/nyheter/flere-store-nettsteder-hadde-tekniske-problemer--1.17970416",
       "category": "Datasikkerhet",
       "pubDate": "Mon, 27 Jul 2026 14:12:47 GMT"
-    },
-    {
-      "title": "Storbrannen i Krokstadelva: – Kan ta flere uker",
-      "link": "https://www.nrk.no/buskerud/storbrannen-i-krokstadelva_-_-kan-ta-flere-uker-1.17970457",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Mon, 27 Jul 2026 13:26:21 GMT"
-    },
-    {
-      "title": "Spania venter fem dager lang hetebølge",
-      "link": "https://www.nrk.no/nyheter/spania-venter-fem-dager-lang-hetebolge-1.17970383",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Mon, 27 Jul 2026 12:59:04 GMT"
-    },
-    {
-      "title": "USA blei for dyrt for Roxette",
-      "link": "https://www.nrk.no/kultur/usa-blei-for-dyrt-for-roxette-1.17970289",
-      "category": "Musikk",
-      "pubDate": "Mon, 27 Jul 2026 12:47:11 GMT"
-    },
-    {
-      "title": "Saudi-Arabia: Droner avfyrt fra Irak mot saudiarabiske oljeanlegg",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia_-droner-avfyrt-fra-irak-mot-saudiarabiske-oljeanlegg-1.17970335",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 27 Jul 2026 12:19:43 GMT"
-    },
-    {
-      "title": "Kina kritiserer USA for «sverting og sanksjonstrusler» mot kinesiske KI-selskaper",
-      "link": "https://www.nrk.no/nyheter/-kina-kritiserer-usa-for-_sverting-og-sanksjonstrusler_-mot-kinesiske-ki-selskaper-1.17970305",
-      "category": "USA og Kina",
-      "pubDate": "Mon, 27 Jul 2026 11:57:46 GMT"
     }
   ]
 }
