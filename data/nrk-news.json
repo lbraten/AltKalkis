@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-27T20:23:16.144Z",
+  "updatedAt": "2026-07-27T21:39:21.250Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere skadet etter en bilulykke i Sverige",
+      "link": "https://www.nrk.no/nyheter/flere-skadet-etter-en-bilulykke-i-sverige-1.17970803",
+      "category": "Sverige",
+      "pubDate": "Mon, 27 Jul 2026 21:32:47 GMT"
+    },
+    {
+      "title": "FN: Israel kan ha begått krigsforbrytelser i Libanon",
+      "link": "https://www.nrk.no/nyheter/fn_-israel-kan-ha-begatt-krigsforbrytelser-i-libanon-1.17970776",
+      "category": "Libanon og Israel",
+      "pubDate": "Mon, 27 Jul 2026 20:24:30 GMT"
+    },
     {
       "title": "Trump sier det pågår forhandlinger med Iran",
       "link": "https://www.nrk.no/nyheter/trump-sier-det-pagar-forhandlinger-med-iran-1.17970737",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/slutt-for-postens-egne-fly-1.17970671",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Mon, 27 Jul 2026 18:08:04 GMT"
-    },
-    {
-      "title": "Skogbrannene i Frankrike: Over 160 pågrepet de siste tre ukene",
-      "link": "https://www.nrk.no/nyheter/skogbrannene-i-frankrike_-over-160-pagrepet-de-siste-tre-ukene-1.17970699",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Mon, 27 Jul 2026 18:01:55 GMT"
-    },
-    {
-      "title": "Den britiske TV-profilen Bill Oddie er død",
-      "link": "https://www.nrk.no/nyheter/den-britiske-tv-profilen-bill-oddie-er-dod-1.17970696",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 27 Jul 2026 17:43:25 GMT"
     }
   ]
 }
