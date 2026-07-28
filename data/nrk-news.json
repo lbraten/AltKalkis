@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-28T14:59:19.879Z",
+  "updatedAt": "2026-07-28T16:46:08.751Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "14 branner har blusset opp igjen i Frankrike",
+      "link": "https://www.nrk.no/nyheter/14-branner-har-blusset-opp-igjen-i-frankrike-1.17971838",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Tue, 28 Jul 2026 16:09:03 GMT"
+    },
+    {
+      "title": "Brann på M/S «Bergstraum» – rederi avviser grunnstøting",
+      "link": "https://www.nrk.no/nyheter/brann-pa-m_s-_bergstraum_-_-rederi-avviser-grunnstoting-1.17971660",
+      "category": "Eksplosjon på tankskip ved Hvaler",
+      "pubDate": "Tue, 28 Jul 2026 15:20:16 GMT"
+    },
+    {
+      "title": "Narvik: Større jordras på 50-60 meter",
+      "link": "https://www.nrk.no/nordland/narvik_-storre-jordras-pa-50-60-meter-1.17971785",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 28 Jul 2026 15:08:08 GMT"
+    },
     {
       "title": "Drapssiktede varetektsfengslet i fire uker",
       "link": "https://www.nrk.no/rogaland/drapssiktede-varetektsfengslet-i-fire-uker-1.17971764",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/innlandet/full-overtenning-i-verksted-i-ostre-toten---eksplosjonsfare-1.17971717",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Tue, 28 Jul 2026 13:52:34 GMT"
-    },
-    {
-      "title": "Tankskip gått på skjær utenfor Hvaler - brann om bord",
-      "link": "https://www.nrk.no/ostfold/tankskip-gatt-pa-skjaer-utenfor-hvaler---brann-om-bord-1.17971714",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Tue, 28 Jul 2026 13:44:16 GMT"
-    },
-    {
-      "title": "Fem døde spedbarn funnet i pappesker i Frankrike",
-      "link": "https://www.nrk.no/nyheter/fem-dode-spedbarn-funnet-i-pappesker-i-frankrike-1.17971698",
-      "category": "Frankrike",
-      "pubDate": "Tue, 28 Jul 2026 13:39:33 GMT"
-    },
-    {
-      "title": "Person hentet opp fra vannet i Kragerø",
-      "link": "https://www.nrk.no/vestfoldogtelemark/person-hentet-opp-fra-vannet-i-kragero-1.17971625",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 28 Jul 2026 13:19:54 GMT"
     }
   ]
 }
