@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-28T04:11:37.120Z",
+  "updatedAt": "2026-07-28T07:13:58.355Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Petter Langlo (57) omkom i Sjoa",
+      "link": "https://www.nrk.no/innlandet/petter-langlo-_57_-omkom-i-sjoa-1.17970963",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Tue, 28 Jul 2026 06:55:24 GMT"
+    },
+    {
+      "title": "Røde Kors avsluttar innsatsen i Krokstadelva",
+      "link": "https://www.nrk.no/nyheter/rode-kors-avsluttar-innsatsen-i-krokstadelva-1.17970884",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Tue, 28 Jul 2026 05:40:08 GMT"
+    },
+    {
+      "title": "Gamlebyen i Wien fjerna frå raudlista til Unesco",
+      "link": "https://www.nrk.no/nyheter/gamlebyen-i-wien-fjerna-fra-raudlista-til-unesco-1.17970875",
+      "category": "Unesco og verdensarven",
+      "pubDate": "Tue, 28 Jul 2026 04:29:31 GMT"
+    },
     {
       "title": "Aksjefall i Asia tirsdag",
       "link": "https://www.nrk.no/nyheter/aksjefall-i-asia-tirsdag-1.17970870",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skogbrannen-i-gironde-har-ikke-spredt-seg--1.17970827",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Tue, 28 Jul 2026 03:22:26 GMT"
-    },
-    {
-      "title": "Innbrudd hos Elkjøp på Rudshøgda – frykter store verdier er stjålet",
-      "link": "https://www.nrk.no/nyheter/innbrudd-hos-elkjop-pa-rudshogda-_-frykter-store-verdier-er-stjalet-1.17970826",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Tue, 28 Jul 2026 02:38:11 GMT"
-    },
-    {
-      "title": "Ariana Grande saksøker anonyme hackere",
-      "link": "https://www.nrk.no/nyheter/ariana-grande-saksoker-anonyme-hackere-1.17970822",
-      "category": "Musikk",
-      "pubDate": "Tue, 28 Jul 2026 02:05:49 GMT"
-    },
-    {
-      "title": "Legemiddelselskap i milliardforlik etter kreftskuldingar",
-      "link": "https://www.nrk.no/nyheter/legemiddelselskap-i-milliardforlik-etter-kreftskuldingar-1.17970821",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 28 Jul 2026 01:38:19 GMT"
     }
   ]
 }
