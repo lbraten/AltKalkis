@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-29T19:18:47.651Z",
+  "updatedAt": "2026-07-29T20:30:17.463Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "DN: Meta og Microsoft tjener mer enn forventet",
+      "link": "https://www.nrk.no/nyheter/dn_-meta-og-microsoft-tjener-mer-enn-forventet-1.17973264",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 29 Jul 2026 20:12:51 GMT"
+    },
+    {
+      "title": "18 Krokstadelva-husstander manglet forsikring",
+      "link": "https://www.nrk.no/nyheter/18-krokstadelva-husstander-manglet-forsikring-1.17973249",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Wed, 29 Jul 2026 19:58:46 GMT"
+    },
+    {
+      "title": "Venter stort angrep mot Ukraina i kveld",
+      "link": "https://www.nrk.no/nyheter/venter-stort-angrep-mot-ukraina-i-kveld-1.17973244",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 29 Jul 2026 19:42:38 GMT"
+    },
+    {
+      "title": "Reuters: Trump truer Iran",
+      "link": "https://www.nrk.no/nyheter/reuters_-trump-truer-iran-1.17973193",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 29 Jul 2026 19:38:34 GMT"
+    },
     {
       "title": "Renten holdes uendret i USA",
       "link": "https://www.nrk.no/nyheter/renten-holdes-uendret-i-usa-1.17973192",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sport/fifa-etterforsker-argentina-for-regelbrudd-i-vm-1.17973122",
       "category": "Sportsnyheter",
       "pubDate": "Wed, 29 Jul 2026 16:48:30 GMT"
-    },
-    {
-      "title": "Amerikansk gasskip truffet av drone i Egypt",
-      "link": "https://www.nrk.no/nyheter/amerikansk-gasskip-truffet-av-drone-i-egypt--1.17972831",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 29 Jul 2026 16:06:05 GMT"
-    },
-    {
-      "title": "Evakuerer rådhuset på Østre Toten",
-      "link": "https://www.nrk.no/innlandet/evakuerer-radhuset-pa-ostre-toten-1.17972934",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Wed, 29 Jul 2026 14:28:26 GMT"
-    },
-    {
-      "title": "Slåsskamp i Oslo: To personer har fått kuttskader",
-      "link": "https://www.nrk.no/stor-oslo/slasskamp-i-oslo_-to-personer-har-fatt-kuttskader-1.17972890",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 29 Jul 2026 13:29:01 GMT"
-    },
-    {
-      "title": "Evakuerte flere steder i Spania får vende hjem",
-      "link": "https://www.nrk.no/nyheter/evakuerte-flere-steder-i-spania-far-vende-hjem-1.17972828",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Wed, 29 Jul 2026 13:24:08 GMT"
     }
   ]
 }
