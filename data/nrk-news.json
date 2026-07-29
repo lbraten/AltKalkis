@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-28T23:00:51.285Z",
+  "updatedAt": "2026-07-29T00:56:45.579Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Slo tilbake mot droneangrep: USA og Saudi-Arabia råka mål i Irak",
+      "link": "https://www.nrk.no/nyheter/-slo-tilbake-mot-droneangrep_-usa-og-saudi-arabia-raka-mal-i-irak-1.17972062",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 29 Jul 2026 00:48:06 GMT"
+    },
+    {
+      "title": "Ny etterretningssjef i USA",
+      "link": "https://www.nrk.no/nyheter/ny-etterretningssjef-i-usa-1.17972058",
+      "category": "USA",
+      "pubDate": "Wed, 29 Jul 2026 00:09:55 GMT"
+    },
+    {
+      "title": "Fem personer bekreftet døde etter kraftig jordskjelv i Japan",
+      "link": "https://www.nrk.no/nyheter/fem-personer-bekreftet-dode-etter-kraftig-jordskjelv-i-japan-1.17972060",
+      "category": "Jordskjelv i Asia",
+      "pubDate": "Tue, 28 Jul 2026 23:10:55 GMT"
+    },
+    {
+      "title": "Keiko Fujimori innsatt som Perus president",
+      "link": "https://www.nrk.no/nyheter/keiko-fujimori-innsatt-som-perus-president-1.17972059",
+      "category": "Peru",
+      "pubDate": "Tue, 28 Jul 2026 23:01:09 GMT"
+    },
     {
       "title": "Politiet rykket ut etter smell ved Lambertseter",
       "link": "https://www.nrk.no/nyheter/politiet-rykket-ut-etter-smell-ved-lambertseter-1.17972057",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/det-amerikanske-militaeret-opplyser-at-dei-har-skote-ned-missil-avfyrte-fra-iran.-1.17972056",
       "category": "Forholdet Iran – USA",
       "pubDate": "Tue, 28 Jul 2026 22:33:24 GMT"
-    },
-    {
-      "title": "Bilfører kjørte i feil kjøreretning i Hundvågtunnelen",
-      "link": "https://www.nrk.no/nyheter/bilforer-kjorte-i-feil-kjoreretning-i-hundvagtunnelen-1.17972055",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Tue, 28 Jul 2026 22:17:00 GMT"
-    },
-    {
-      "title": "E6 i Måselv stengt på grunn av bilbrann",
-      "link": "https://www.nrk.no/nyheter/e6-i-maselv-stengt-pa-grunn-av-bilbrann-1.17972054",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 28 Jul 2026 22:09:42 GMT"
-    },
-    {
-      "title": "Brann ved Ringerike fengsel",
-      "link": "https://www.nrk.no/nyheter/brann-ved-ringerike-fengsel--1.17972053",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Tue, 28 Jul 2026 21:58:26 GMT"
-    },
-    {
-      "title": "Truet med våpen og balltre i Holmestrand",
-      "link": "https://www.nrk.no/nyheter/truet-med-vapen-og-balltre-i-holmestrand-1.17972051",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Tue, 28 Jul 2026 21:57:59 GMT"
     }
   ]
 }
