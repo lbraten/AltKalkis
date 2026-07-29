@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-29T16:22:15.136Z",
+  "updatedAt": "2026-07-29T17:47:40.936Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fifa etterforsker Argentina for regelbrudd i VM",
+      "link": "https://www.nrk.no/sport/fifa-etterforsker-argentina-for-regelbrudd-i-vm-1.17973122",
+      "category": "Sportsnyheter",
+      "pubDate": "Wed, 29 Jul 2026 16:48:30 GMT"
+    },
     {
       "title": "Amerikansk gasskip truffet av drone i Egypt",
       "link": "https://www.nrk.no/nyheter/amerikansk-gasskip-truffet-av-drone-i-egypt--1.17972831",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/kultur/lanserer-heilt-ny-utgave-av-beatles-album-1.17972864",
       "category": "Musikk",
       "pubDate": "Wed, 29 Jul 2026 13:23:23 GMT"
-    },
-    {
-      "title": "E6 Dovrefjell: Trafikkulykke med flere biler",
-      "link": "https://www.nrk.no/innlandet/e6-dovrefjell_-trafikkulykke-med-flere-biler-1.17972805",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Wed, 29 Jul 2026 12:45:09 GMT"
     }
   ]
 }
