@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-29T14:53:45.222Z",
+  "updatedAt": "2026-07-29T16:22:15.136Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amerikansk gasskip truffet av drone i Egypt",
+      "link": "https://www.nrk.no/nyheter/amerikansk-gasskip-truffet-av-drone-i-egypt--1.17972831",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 29 Jul 2026 16:06:05 GMT"
+    },
     {
       "title": "Evakuerer rådhuset på Østre Toten",
       "link": "https://www.nrk.no/innlandet/evakuerer-radhuset-pa-ostre-toten-1.17972934",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/innlandet/e6-dovrefjell_-trafikkulykke-med-flere-biler-1.17972805",
       "category": "Politi- og brannloggen i Innlandet",
       "pubDate": "Wed, 29 Jul 2026 12:45:09 GMT"
-    },
-    {
-      "title": "Regjeringen skal holde møte om USA-toll",
-      "link": "https://www.nrk.no/nyheter/regjeringen-skal-holde-mote-om-usa-toll-1.17972821",
-      "category": "USA",
-      "pubDate": "Wed, 29 Jul 2026 12:44:59 GMT"
     }
   ]
 }
