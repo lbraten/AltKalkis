@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-29T00:56:45.579Z",
+  "updatedAt": "2026-07-29T04:17:13.218Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Slo tilbake mot droneangrep: USA og Saudi-Arabia råka mål i Irak",
-      "link": "https://www.nrk.no/nyheter/-slo-tilbake-mot-droneangrep_-usa-og-saudi-arabia-raka-mal-i-irak-1.17972062",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 29 Jul 2026 00:48:06 GMT"
+      "title": "Elefantdødsfall etterforskast",
+      "link": "https://www.nrk.no/nyheter/elefantdodsfall-etterforskast-1.17972095",
+      "category": "Dyrevelferd",
+      "pubDate": "Wed, 29 Jul 2026 03:15:39 GMT"
     },
     {
-      "title": "Ny etterretningssjef i USA",
-      "link": "https://www.nrk.no/nyheter/ny-etterretningssjef-i-usa-1.17972058",
-      "category": "USA",
-      "pubDate": "Wed, 29 Jul 2026 00:09:55 GMT"
-    },
-    {
-      "title": "Fem personer bekreftet døde etter kraftig jordskjelv i Japan",
-      "link": "https://www.nrk.no/nyheter/fem-personer-bekreftet-dode-etter-kraftig-jordskjelv-i-japan-1.17972060",
+      "title": "Minst 13 døde etter kraftig jordskjelv i Japan",
+      "link": "https://www.nrk.no/nyheter/minst-13-dode-etter-kraftig-jordskjelv-i-japan-1.17972080",
       "category": "Jordskjelv i Asia",
-      "pubDate": "Tue, 28 Jul 2026 23:10:55 GMT"
+      "pubDate": "Wed, 29 Jul 2026 03:05:35 GMT"
     },
     {
-      "title": "Keiko Fujimori innsatt som Perus president",
-      "link": "https://www.nrk.no/nyheter/keiko-fujimori-innsatt-som-perus-president-1.17972059",
-      "category": "Peru",
-      "pubDate": "Tue, 28 Jul 2026 23:01:09 GMT"
-    },
-    {
-      "title": "Politiet rykket ut etter smell ved Lambertseter",
-      "link": "https://www.nrk.no/nyheter/politiet-rykket-ut-etter-smell-ved-lambertseter-1.17972057",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 28 Jul 2026 22:58:05 GMT"
-    },
-    {
-      "title": "Det amerikanske militæret opplyser at dei har skote ned missil avfyrte frå Iran.",
-      "link": "https://www.nrk.no/nyheter/det-amerikanske-militaeret-opplyser-at-dei-har-skote-ned-missil-avfyrte-fra-iran.-1.17972056",
+      "title": "Flere drept i USAs angrep mot Irak, ifølge militsgruppe",
+      "link": "https://www.nrk.no/nyheter/flere-drept-i-usas-angrep-mot-irak_-ifolge-militsgruppe-1.17972076",
       "category": "Forholdet Iran – USA",
-      "pubDate": "Tue, 28 Jul 2026 22:33:24 GMT"
+      "pubDate": "Wed, 29 Jul 2026 02:54:27 GMT"
+    },
+    {
+      "title": "Russisk industrianlegg i brann etter angrep",
+      "link": "https://www.nrk.no/nyheter/russisk-industrianlegg-i-brann-etter-angrep-1.17972075",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 29 Jul 2026 02:47:09 GMT"
+    },
+    {
+      "title": "En voksen og ett barn er savnet etter båtkollisjon i Sverige",
+      "link": "https://www.nrk.no/nyheter/en-voksen-og-ett-barn-er-savnet-etter-batkollisjon-i-sverige-1.17972070",
+      "category": "Sverige",
+      "pubDate": "Wed, 29 Jul 2026 02:46:37 GMT"
+    },
+    {
+      "title": "Iran har angripe tre skip i Hormuzsundet",
+      "link": "https://www.nrk.no/nyheter/iran-har-angripe-tre-skip-i-hormuzsundet-1.17972064",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 29 Jul 2026 02:31:41 GMT"
     }
   ]
 }
