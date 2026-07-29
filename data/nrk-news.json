@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-29T17:47:40.936Z",
+  "updatedAt": "2026-07-29T19:18:47.651Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Renten holdes uendret i USA",
+      "link": "https://www.nrk.no/nyheter/renten-holdes-uendret-i-usa-1.17973192",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 29 Jul 2026 18:02:24 GMT"
+    },
     {
       "title": "Fifa etterforsker Argentina for regelbrudd i VM",
       "link": "https://www.nrk.no/sport/fifa-etterforsker-argentina-for-regelbrudd-i-vm-1.17973122",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/evakuerte-flere-steder-i-spania-far-vende-hjem-1.17972828",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Wed, 29 Jul 2026 13:24:08 GMT"
-    },
-    {
-      "title": "Lanserer heilt ny utgåve av Beatles-album",
-      "link": "https://www.nrk.no/kultur/lanserer-heilt-ny-utgave-av-beatles-album-1.17972864",
-      "category": "Musikk",
-      "pubDate": "Wed, 29 Jul 2026 13:23:23 GMT"
     }
   ]
 }
