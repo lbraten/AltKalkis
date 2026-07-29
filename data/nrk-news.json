@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-29T07:19:10.685Z",
+  "updatedAt": "2026-07-29T10:08:02.006Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skogbrann under kontroll på den greske øya Paros",
+      "link": "https://www.nrk.no/nyheter/skogbrann-under-kontroll-pa-den-greske-oya-paros-1.17972456",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Wed, 29 Jul 2026 09:15:04 GMT"
+    },
+    {
+      "title": "Drapssiktet mann anker fengsling",
+      "link": "https://www.nrk.no/rogaland/drapssiktet-mann-anker-fengsling--1.17972468",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 29 Jul 2026 09:13:20 GMT"
+    },
+    {
+      "title": "Den franske artisten Kavinsky er død",
+      "link": "https://www.nrk.no/nyheter/den-franske-artisten-kavinsky-er-dod-1.17972305",
+      "category": "Musikk",
+      "pubDate": "Wed, 29 Jul 2026 09:00:58 GMT"
+    },
+    {
+      "title": "Skogbrann tvinger fram evakuering fra den greske øya Paros",
+      "link": "https://www.nrk.no/nyheter/skogbrann-tvinger-fram-evakuering-fra-den-greske-oya-paros-1.17972285",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Wed, 29 Jul 2026 07:31:16 GMT"
+    },
+    {
+      "title": "Geolog undersøker rasområdet – oppryddingen kan ta opptil 15 timer",
+      "link": "https://www.nrk.no/nordland/geolog-undersoker-rasomradet-_-oppryddingen-kan-ta-opptil-15-timer-1.17972250",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 29 Jul 2026 07:31:04 GMT"
+    },
     {
       "title": "Flere tusen brann-evakuerte i Spania kan vende hjem",
       "link": "https://www.nrk.no/nyheter/flere-tusen-brann-evakuerte-i-spania-kan-vende-hjem-1.17972244",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Wed, 29 Jul 2026 07:16:34 GMT"
-    },
-    {
-      "title": "Redningsmannskaper leter etter overlevende i Japan",
-      "link": "https://www.nrk.no/nyheter/redningsmannskaper-leter-etter-overlevende-i-japan-1.17972228",
-      "category": "Japan",
-      "pubDate": "Wed, 29 Jul 2026 06:36:37 GMT"
-    },
-    {
-      "title": "Rapport: 2025 det verste året for antisemittiske angrep på over 30 år",
-      "link": "https://www.nrk.no/nyheter/rapport_-2025-det-verste-aret-for-antisemittiske-angrep-pa-over-30-ar-1.17972217",
-      "category": "Antisemittisme og jødehat",
-      "pubDate": "Wed, 29 Jul 2026 06:14:30 GMT"
-    },
-    {
-      "title": "Russland sikter Telegram-grunnlegger for terrorvirksomhet",
-      "link": "https://www.nrk.no/nyheter/russland-sikter-telegram-grunnlegger-for-terrorvirksomhet-1.17972214",
-      "category": "Russland",
-      "pubDate": "Wed, 29 Jul 2026 06:07:29 GMT"
-    },
-    {
-      "title": "Politiet advarer: Svindlere utgir seg for å være politi eller bank",
-      "link": "https://www.nrk.no/nyheter/politiet-advarer_-svindlere-utgir-seg-for-a-vaere-politi-eller-bank-1.17972172",
-      "category": "Svindel",
-      "pubDate": "Wed, 29 Jul 2026 06:02:22 GMT"
-    },
-    {
-      "title": "Forsinkelser etter signalfeil",
-      "link": "https://www.nrk.no/innlandet/forsinkelser-etter-signalfeil-1.17972204",
-      "category": "Trafikk i Innlandet",
-      "pubDate": "Wed, 29 Jul 2026 06:02:21 GMT"
     }
   ]
 }
