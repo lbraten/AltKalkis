@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-30T18:25:11.649Z",
+  "updatedAt": "2026-07-30T20:02:02.409Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Barn funnet død etter båtulykke i Sverige",
+      "link": "https://www.nrk.no/nyheter/politiet_-barn-funnet-dod-etter-batulykke-i-sverige-1.17974485",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 30 Jul 2026 19:49:54 GMT"
+    },
+    {
+      "title": "Concacaf avviser Fifa-planene",
+      "link": "https://www.nrk.no/sport/concacaf-avviser-fifa-planene-1.17974474",
+      "category": "Sportsnyheter",
+      "pubDate": "Thu, 30 Jul 2026 19:24:16 GMT"
+    },
+    {
+      "title": "Pågrepet etter slåsskamp med kniv på Kløfta",
+      "link": "https://www.nrk.no/stor-oslo/pagrepet-etter-slasskamp-med-kniv-pa-klofta-1.17974448",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 30 Jul 2026 18:42:36 GMT"
+    },
+    {
+      "title": "Nesten 15.000 lynnedslag på Østlandet",
+      "link": "https://www.nrk.no/stor-oslo/nesten-15.000-lynnedslag-pa-ostlandet-1.17974300",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 30 Jul 2026 18:37:18 GMT"
+    },
+    {
+      "title": "Netflix saksøkt etter tjuveri av Nicolas Cage-film",
+      "link": "https://www.nrk.no/nyheter/netflix-saksokt-etter-tjuveri-av-nicolas-cage-film-1.17974407",
+      "category": "Film og serier",
+      "pubDate": "Thu, 30 Jul 2026 18:37:13 GMT"
+    },
     {
       "title": "Spania sender soldatar til Ceuta etter migrantstraum",
       "link": "https://www.nrk.no/nyheter/spania-sender-soldatar-til-ceuta-etter-migrantstraum-1.17974388",
       "category": "Flyktninger i EU",
       "pubDate": "Thu, 30 Jul 2026 17:56:52 GMT"
-    },
-    {
-      "title": "Bombegruppen i Arendal etter funn på adresse",
-      "link": "https://www.nrk.no/sorlandet/bombegruppen-i-arendal-etter-funn-pa-adresse-1.17974376",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 30 Jul 2026 17:32:10 GMT"
-    },
-    {
-      "title": "Republikanarane stoppar forslag om å stanse Iran-krigen",
-      "link": "https://www.nrk.no/nyheter/republikanarane-stoppar-forslag-om-a-stanse-iran-krigen-1.17974320",
-      "category": "USA",
-      "pubDate": "Thu, 30 Jul 2026 17:31:23 GMT"
-    },
-    {
-      "title": "Motorsyklist til sykehus etter kollisjon",
-      "link": "https://www.nrk.no/sorlandet/motorsyklist-til-sykehus-etter-kollisjon-1.17974301",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 30 Jul 2026 17:17:23 GMT"
-    },
-    {
-      "title": "Elkjøp får kjøpe Eplehuset",
-      "link": "https://www.nrk.no/nyheter/elkjop-far-kjope-eplehuset-1.17974299",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 30 Jul 2026 16:26:05 GMT"
-    },
-    {
-      "title": "Ber folk forlate Ekebergsletta",
-      "link": "https://www.nrk.no/stor-oslo/ber-folk-forlate-ekebergsletta-1.17974159",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 30 Jul 2026 16:01:17 GMT"
     }
   ]
 }
