@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-07-30T02:31:44.793Z",
+  "updatedAt": "2026-07-30T05:42:09.036Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "17 personer bekreftet døde i jordskjelvet i Japan",
-      "link": "https://www.nrk.no/nyheter/17-personer-bekreftet-dode-i-jordskjelvet-i-japan--1.17973325",
+      "title": "Uidentifisert objekt styrtet i Polen etter russisk angrep",
+      "link": "https://www.nrk.no/nyheter/uidentifisert-objekt-styrtet-i-polen-etter-russisk-angrep-1.17973385",
+      "category": "Polen",
+      "pubDate": "Thu, 30 Jul 2026 05:27:12 GMT"
+    },
+    {
+      "title": "Jørn Lande i samarbeid med Black Sabbath-legende",
+      "link": "https://www.nrk.no/nyheter/jorn-lande-i-samarbeid-med-black-sabbath-legende-1.17973369",
+      "category": "Musikk",
+      "pubDate": "Thu, 30 Jul 2026 04:58:46 GMT"
+    },
+    {
+      "title": "28 personer bekreftet døde i jordskjelvet i Japan",
+      "link": "https://www.nrk.no/nyheter/28-personer-bekreftet-dode-i-jordskjelvet-i-japan--1.17973325",
       "category": "Japan",
       "pubDate": "Thu, 30 Jul 2026 01:37:35 GMT"
     },
     {
-      "title": "USA har angrepet mål i Iran",
-      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-mal-i-iran-1.17973324",
+      "title": "USA har angrepet nye mål i Iran natt til torsdag",
+      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-nye-mal-i-iran-natt-til-torsdag-1.17973324",
       "category": "Forholdet Iran – USA",
       "pubDate": "Thu, 30 Jul 2026 00:35:46 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/alvorleg-trafikkulukke-1.17973322",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Wed, 29 Jul 2026 23:55:50 GMT"
-    },
-    {
-      "title": "MC-førar målt til 140 km/t i 60-sone",
-      "link": "https://www.nrk.no/nyheter/mc-forar-malt-til-140-km_t-i-60-sone-1.17973321",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Wed, 29 Jul 2026 23:47:00 GMT"
-    },
-    {
-      "title": "Axios: USA angrip Iran",
-      "link": "https://www.nrk.no/nyheter/axios_-usa-angrip-iran-1.17973320",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 29 Jul 2026 23:22:38 GMT"
     }
   ]
 }
