@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-29T23:30:25.987Z",
+  "updatedAt": "2026-07-30T02:31:44.793Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "17 personer bekreftet døde i jordskjelvet i Japan",
+      "link": "https://www.nrk.no/nyheter/17-personer-bekreftet-dode-i-jordskjelvet-i-japan--1.17973325",
+      "category": "Japan",
+      "pubDate": "Thu, 30 Jul 2026 01:37:35 GMT"
+    },
+    {
+      "title": "USA har angrepet mål i Iran",
+      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-mal-i-iran-1.17973324",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Thu, 30 Jul 2026 00:35:46 GMT"
+    },
+    {
+      "title": "Meldinger om eksplosjon ved Jarlsberg flyplass",
+      "link": "https://www.nrk.no/nyheter/meldinger-om-eksplosjon-ved-jarlsberg-flyplass-1.17973319",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 30 Jul 2026 00:01:47 GMT"
+    },
+    {
+      "title": "Alvorleg trafikkulukke",
+      "link": "https://www.nrk.no/nyheter/alvorleg-trafikkulukke-1.17973322",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 29 Jul 2026 23:55:50 GMT"
+    },
+    {
+      "title": "MC-førar målt til 140 km/t i 60-sone",
+      "link": "https://www.nrk.no/nyheter/mc-forar-malt-til-140-km_t-i-60-sone-1.17973321",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Wed, 29 Jul 2026 23:47:00 GMT"
+    },
     {
       "title": "Axios: USA angrip Iran",
       "link": "https://www.nrk.no/nyheter/axios_-usa-angrip-iran-1.17973320",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 29 Jul 2026 23:22:38 GMT"
-    },
-    {
-      "title": "Bolivia har utstedt arrestordre på tidligere president",
-      "link": "https://www.nrk.no/nyheter/bolivia-har-utstedt-arrestordre-pa-tidligere-president-1.17973314",
-      "category": "Bolivia",
-      "pubDate": "Wed, 29 Jul 2026 23:13:48 GMT"
-    },
-    {
-      "title": "Dømt for terror etter knivangrepet på Rushdie",
-      "link": "https://www.nrk.no/nyheter/domt-for-terror-etter-knivangrepet-pa-rushdie-1.17973313",
-      "category": "Salman Rushdie",
-      "pubDate": "Wed, 29 Jul 2026 22:58:44 GMT"
-    },
-    {
-      "title": "Jordskjelv med styrke 6,2 ved Kermadecøyene",
-      "link": "https://www.nrk.no/nyheter/jordskjelv-med-styrke-6_2-ved-kermadecoyene-1.17973312",
-      "category": "Jordskjelv i Stillehavet",
-      "pubDate": "Wed, 29 Jul 2026 22:51:35 GMT"
-    },
-    {
-      "title": "Meldinger om eksplosjoner i Kyiv",
-      "link": "https://www.nrk.no/nyheter/meldinger-om-eksplosjoner-i-kyiv--1.17973311",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 29 Jul 2026 22:40:28 GMT"
-    },
-    {
-      "title": "I natt kan månen virke større enn den faktisk er",
-      "link": "https://www.nrk.no/nyheter/i-natt-kan-manen-virke-storre-enn-den-faktisk-er-1.17973294",
-      "category": "Romfart og astronomi",
-      "pubDate": "Wed, 29 Jul 2026 22:02:04 GMT"
     }
   ]
 }
