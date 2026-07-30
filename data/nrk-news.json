@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-07-30T20:02:02.409Z",
+  "updatedAt": "2026-07-30T21:42:50.125Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Politiet: Barn funnet død etter båtulykke i Sverige",
-      "link": "https://www.nrk.no/nyheter/politiet_-barn-funnet-dod-etter-batulykke-i-sverige-1.17974485",
+      "title": "Apple slår forventningene etter sterkt iPhone-salg",
+      "link": "https://www.nrk.no/nyheter/apple-slar-forventningene-etter-sterkt-iphone-salg-1.17974508",
+      "category": "Apple",
+      "pubDate": "Thu, 30 Jul 2026 21:21:12 GMT"
+    },
+    {
+      "title": "Redningsaksjon etter mulig ulykke med fritidsbåt ved Holmestrand",
+      "link": "https://www.nrk.no/nyheter/redningsaksjon-etter-mulig-ulykke-med-fritidsbat-ved-holmestrand-1.17974511",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Thu, 30 Jul 2026 21:13:57 GMT"
+    },
+    {
+      "title": "Amazon leverte betre enn venta",
+      "link": "https://www.nrk.no/nyheter/amazon-leverte-betre-enn-venta-1.17974497",
+      "category": "Amazon",
+      "pubDate": "Thu, 30 Jul 2026 20:27:14 GMT"
+    },
+    {
+      "title": "USA beklagar feil på Afrika-kart under aids-konferanse",
+      "link": "https://www.nrk.no/nyheter/usa-beklagar-feil-pa-afrika-kart-under-aids-konferanse-1.17974447",
+      "category": "USA",
+      "pubDate": "Thu, 30 Jul 2026 20:10:32 GMT"
+    },
+    {
+      "title": "Politiet: Barn funnet død etter båtulykken i Sverige",
+      "link": "https://www.nrk.no/nyheter/politiet_-barn-funnet-dod-etter-batulykken-i-sverige-1.17974485",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 30 Jul 2026 19:49:54 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sport/concacaf-avviser-fifa-planene-1.17974474",
       "category": "Sportsnyheter",
       "pubDate": "Thu, 30 Jul 2026 19:24:16 GMT"
-    },
-    {
-      "title": "Pågrepet etter slåsskamp med kniv på Kløfta",
-      "link": "https://www.nrk.no/stor-oslo/pagrepet-etter-slasskamp-med-kniv-pa-klofta-1.17974448",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 30 Jul 2026 18:42:36 GMT"
-    },
-    {
-      "title": "Nesten 15.000 lynnedslag på Østlandet",
-      "link": "https://www.nrk.no/stor-oslo/nesten-15.000-lynnedslag-pa-ostlandet-1.17974300",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 30 Jul 2026 18:37:18 GMT"
-    },
-    {
-      "title": "Netflix saksøkt etter tjuveri av Nicolas Cage-film",
-      "link": "https://www.nrk.no/nyheter/netflix-saksokt-etter-tjuveri-av-nicolas-cage-film-1.17974407",
-      "category": "Film og serier",
-      "pubDate": "Thu, 30 Jul 2026 18:37:13 GMT"
-    },
-    {
-      "title": "Spania sender soldatar til Ceuta etter migrantstraum",
-      "link": "https://www.nrk.no/nyheter/spania-sender-soldatar-til-ceuta-etter-migrantstraum-1.17974388",
-      "category": "Flyktninger i EU",
-      "pubDate": "Thu, 30 Jul 2026 17:56:52 GMT"
     }
   ]
 }
