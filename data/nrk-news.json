@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-30T17:00:00.088Z",
+  "updatedAt": "2026-07-30T18:25:11.649Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Spania sender soldatar til Ceuta etter migrantstraum",
+      "link": "https://www.nrk.no/nyheter/spania-sender-soldatar-til-ceuta-etter-migrantstraum-1.17974388",
+      "category": "Flyktninger i EU",
+      "pubDate": "Thu, 30 Jul 2026 17:56:52 GMT"
+    },
+    {
+      "title": "Bombegruppen i Arendal etter funn på adresse",
+      "link": "https://www.nrk.no/sorlandet/bombegruppen-i-arendal-etter-funn-pa-adresse-1.17974376",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Thu, 30 Jul 2026 17:32:10 GMT"
+    },
+    {
+      "title": "Republikanarane stoppar forslag om å stanse Iran-krigen",
+      "link": "https://www.nrk.no/nyheter/republikanarane-stoppar-forslag-om-a-stanse-iran-krigen-1.17974320",
+      "category": "USA",
+      "pubDate": "Thu, 30 Jul 2026 17:31:23 GMT"
+    },
+    {
+      "title": "Motorsyklist til sykehus etter kollisjon",
+      "link": "https://www.nrk.no/sorlandet/motorsyklist-til-sykehus-etter-kollisjon-1.17974301",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Thu, 30 Jul 2026 17:17:23 GMT"
+    },
     {
       "title": "Elkjøp får kjøpe Eplehuset",
       "link": "https://www.nrk.no/nyheter/elkjop-far-kjope-eplehuset-1.17974299",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/ber-folk-forlate-ekebergsletta-1.17974159",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 30 Jul 2026 16:01:17 GMT"
-    },
-    {
-      "title": "Over 50 omkom i jordskred i Kina",
-      "link": "https://www.nrk.no/nyheter/over-50-omkom-i-jordskred-i-kina-1.17974274",
-      "category": "Kina",
-      "pubDate": "Thu, 30 Jul 2026 16:00:20 GMT"
-    },
-    {
-      "title": "Oppgang på Oslo Børs tross for oljeprisfall",
-      "link": "https://www.nrk.no/nyheter/oppgang-pa-oslo-bors-tross-for-oljeprisfall-1.17974257",
-      "category": "Oslo Børs",
-      "pubDate": "Thu, 30 Jul 2026 15:19:19 GMT"
-    },
-    {
-      "title": "Sjåføren etter Råde-ulykken: Erkjenner ikke straffskyld",
-      "link": "https://www.nrk.no/ostfold/sjaforen-etter-rade-ulykken_-erkjenner-ikke-straffskyld-1.17974267",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Thu, 30 Jul 2026 15:13:58 GMT"
-    },
-    {
-      "title": "Spania: Hundrevis av ulovlege kryssingar av grensa",
-      "link": "https://www.nrk.no/nyheter/spania_-hundrevis-av-ulovlege-kryssingar-av-grensa-1.17974168",
-      "category": "Spania",
-      "pubDate": "Thu, 30 Jul 2026 14:59:46 GMT"
     }
   ]
 }
