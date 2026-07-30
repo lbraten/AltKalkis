@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-30T21:42:50.125Z",
+  "updatedAt": "2026-07-30T23:08:49.881Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump kunngjør avtale om «fullstendig avvæpning» av Hamas",
+      "link": "https://www.nrk.no/nyheter/trump-kunngjor-avtale-om-_fullstendig-avvaepning_-av-hamas-1.17974530",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 30 Jul 2026 22:40:49 GMT"
+    },
+    {
+      "title": "Turist anmeldt for droneflygning i Bodø",
+      "link": "https://www.nrk.no/nyheter/turist-anmeldt-for-droneflygning-i-bodo-1.17974529",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Thu, 30 Jul 2026 22:34:25 GMT"
+    },
+    {
+      "title": "Russisk angrep flere steder i Ukraina",
+      "link": "https://www.nrk.no/nyheter/russisk-angrep-flere-steder-i-ukraina--1.17974518",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 30 Jul 2026 22:04:48 GMT"
+    },
     {
       "title": "Apple slår forventningene etter sterkt iPhone-salg",
       "link": "https://www.nrk.no/nyheter/apple-slar-forventningene-etter-sterkt-iphone-salg-1.17974508",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/amazon-leverte-betre-enn-venta-1.17974497",
       "category": "Amazon",
       "pubDate": "Thu, 30 Jul 2026 20:27:14 GMT"
-    },
-    {
-      "title": "USA beklagar feil på Afrika-kart under aids-konferanse",
-      "link": "https://www.nrk.no/nyheter/usa-beklagar-feil-pa-afrika-kart-under-aids-konferanse-1.17974447",
-      "category": "USA",
-      "pubDate": "Thu, 30 Jul 2026 20:10:32 GMT"
-    },
-    {
-      "title": "Politiet: Barn funnet død etter båtulykken i Sverige",
-      "link": "https://www.nrk.no/nyheter/politiet_-barn-funnet-dod-etter-batulykken-i-sverige-1.17974485",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 30 Jul 2026 19:49:54 GMT"
-    },
-    {
-      "title": "Concacaf avviser Fifa-planene",
-      "link": "https://www.nrk.no/sport/concacaf-avviser-fifa-planene-1.17974474",
-      "category": "Sportsnyheter",
-      "pubDate": "Thu, 30 Jul 2026 19:24:16 GMT"
     }
   ]
 }
