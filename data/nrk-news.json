@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-30T15:10:57.415Z",
+  "updatedAt": "2026-07-30T17:00:00.088Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Elkjøp får kjøpe Eplehuset",
+      "link": "https://www.nrk.no/nyheter/elkjop-far-kjope-eplehuset-1.17974299",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 30 Jul 2026 16:26:05 GMT"
+    },
+    {
+      "title": "Ber folk forlate Ekebergsletta",
+      "link": "https://www.nrk.no/stor-oslo/ber-folk-forlate-ekebergsletta-1.17974159",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 30 Jul 2026 16:01:17 GMT"
+    },
+    {
+      "title": "Over 50 omkom i jordskred i Kina",
+      "link": "https://www.nrk.no/nyheter/over-50-omkom-i-jordskred-i-kina-1.17974274",
+      "category": "Kina",
+      "pubDate": "Thu, 30 Jul 2026 16:00:20 GMT"
+    },
+    {
+      "title": "Oppgang på Oslo Børs tross for oljeprisfall",
+      "link": "https://www.nrk.no/nyheter/oppgang-pa-oslo-bors-tross-for-oljeprisfall-1.17974257",
+      "category": "Oslo Børs",
+      "pubDate": "Thu, 30 Jul 2026 15:19:19 GMT"
+    },
+    {
+      "title": "Sjåføren etter Råde-ulykken: Erkjenner ikke straffskyld",
+      "link": "https://www.nrk.no/ostfold/sjaforen-etter-rade-ulykken_-erkjenner-ikke-straffskyld-1.17974267",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Thu, 30 Jul 2026 15:13:58 GMT"
+    },
     {
       "title": "Spania: Hundrevis av ulovlege kryssingar av grensa",
       "link": "https://www.nrk.no/nyheter/spania_-hundrevis-av-ulovlege-kryssingar-av-grensa-1.17974168",
       "category": "Spania",
       "pubDate": "Thu, 30 Jul 2026 14:59:46 GMT"
-    },
-    {
-      "title": "Kommunen om brannen i Krokstadelva: Problemer ved seks vannuttak",
-      "link": "https://www.nrk.no/nyheter/kommunen-om-brannen-i-krokstadelva_-problemer-ved-seks-vannuttak-1.17974242",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Thu, 30 Jul 2026 14:51:16 GMT"
-    },
-    {
-      "title": "E39 åpnet igjen",
-      "link": "https://www.nrk.no/sorlandet/e39-apnet-igjen-1.17974174",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 30 Jul 2026 14:39:20 GMT"
-    },
-    {
-      "title": "Spansk skogbrann nær grensen til Portugal – 110 kvadratkilometer brent på ett døgn",
-      "link": "https://www.nrk.no/nyheter/spansk-skogbrann-naer-grensen-til-portugal-_-110-kvadratkilometer-brent-pa-ett-dogn-1.17974166",
-      "category": "Spania",
-      "pubDate": "Thu, 30 Jul 2026 13:58:48 GMT"
-    },
-    {
-      "title": "Meta faller 9 prosent, Microsoft stiger nesten 15 prosent i åpningshandelen på Wall Street",
-      "link": "https://www.nrk.no/nyheter/meta-faller-9-prosent_-microsoft-stiger-nesten-15-prosent-i-apningshandelen-pa-wall-street-1.17974131",
-      "category": "Uro på børsene",
-      "pubDate": "Thu, 30 Jul 2026 13:57:46 GMT"
-    },
-    {
-      "title": "Over 700 kryssa Den engelske kanalen på ein dag",
-      "link": "https://www.nrk.no/nyheter/over-700-kryssa-den-engelske-kanalen-pa-ein-dag-1.17974099",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 30 Jul 2026 13:44:22 GMT"
     }
   ]
 }
