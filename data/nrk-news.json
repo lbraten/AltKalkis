@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-31T13:14:20.585Z",
+  "updatedAt": "2026-07-31T15:37:10.583Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Forbruksgjelden steg med 0,9 milliarder i juni",
-      "link": "https://www.nrk.no/nyheter/forbruksgjelden-steg-med-0_9-milliarder-i-juni-1.17975321",
-      "category": "Personlig økonomi",
-      "pubDate": "Fri, 31 Jul 2026 12:40:31 GMT"
+      "title": "SpaceX-rakett på vei til å krasje inn i månen",
+      "link": "https://www.nrk.no/nyheter/spacex-rakett-pa-vei-til-a-krasje-inn-i-manen-1.17975501",
+      "category": "Romfart og astronomi",
+      "pubDate": "Fri, 31 Jul 2026 15:30:03 GMT"
     },
     {
-      "title": "Spanias innenriksdepartement: Anslår at 25.000 har reist hjem til Marokko",
-      "link": "https://www.nrk.no/nyheter/spanias-innenriksdepartement_-anslar-at-25.000-har-reist-hjem-til-marokko-1.17975222",
+      "title": "Kjent klatrer savnet etter snøskred i Pakistan",
+      "link": "https://www.nrk.no/nyheter/kjent-klatrer-savnet-etter-snoskred-i-pakistan-1.17975466",
+      "category": "Pakistan",
+      "pubDate": "Fri, 31 Jul 2026 15:18:15 GMT"
+    },
+    {
+      "title": "Drapssaken på Nærbø: Vil anke til Høyesterett",
+      "link": "https://www.nrk.no/rogaland/drapssaken-pa-naerbo_-vil-anke-til-hoyesterett-1.17975439",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Fri, 31 Jul 2026 14:43:58 GMT"
+    },
+    {
+      "title": "Skogbrann fører til delvis evakuering av Aten-forstad",
+      "link": "https://www.nrk.no/nyheter/-skogbrann-forer-til-delvis-evakuering-av-aten-forstad-1.17975458",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Fri, 31 Jul 2026 14:39:02 GMT"
+    },
+    {
+      "title": "EU: Ikke sett migrasjon fra Ceuta til det europeiske fastlandet",
+      "link": "https://www.nrk.no/nyheter/eu_-ikke-sett-migrasjon-fra-ceuta-til-det-europeiske-fastlandet-1.17975449",
       "category": "Spania",
-      "pubDate": "Fri, 31 Jul 2026 11:53:13 GMT"
+      "pubDate": "Fri, 31 Jul 2026 14:29:11 GMT"
     },
     {
-      "title": "Lederen for Ceuta anslår at 60.000 har kommet over grensa",
-      "link": "https://www.nrk.no/nyheter/lederen-for-ceuta-anslar-at-60.000-har-kommet-over-grensa-1.17975214",
-      "category": "Spania",
-      "pubDate": "Fri, 31 Jul 2026 11:31:14 GMT"
-    },
-    {
-      "title": "Bussulykke i Algerie: 25 døde",
-      "link": "https://www.nrk.no/nyheter/bussulykke-i-algerie_-25-dode-1.17975161",
-      "category": "Algerie",
-      "pubDate": "Fri, 31 Jul 2026 11:27:40 GMT"
-    },
-    {
-      "title": "Sterke reaksjoner etter migrantstrømmen til Ceauta",
-      "link": "https://www.nrk.no/nyheter/sterke-reaksjoner-etter-migrantstrommen-til-ceauta-1.17975190",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 31 Jul 2026 11:24:23 GMT"
-    },
-    {
-      "title": "Kjørte i 100 km/t på elsparkesykkel",
-      "link": "https://www.nrk.no/vestland/kjorte-i-100-km_t-pa-elsparkesykkel-1.17974703",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 31 Jul 2026 11:22:30 GMT"
+      "title": "Israels sikkerhetsminister om Trumps Hamas-avtale: – Uakseptabelt",
+      "link": "https://www.nrk.no/nyheter/-israels-sikkerhetsminister-om-trumps-hamas-avtale_-_-uakseptabelt-1.17975427",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 31 Jul 2026 14:16:28 GMT"
     }
   ]
 }
