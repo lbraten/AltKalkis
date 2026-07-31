@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-31T01:04:57.860Z",
+  "updatedAt": "2026-07-31T05:00:25.015Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Minst 11 omkom i gruveulykke i Pakistan",
-      "link": "https://www.nrk.no/nyheter/minst-11-omkom-i-gruveulykke-i-pakistan-1.17974534",
+      "title": "Fifa trosser kritikk – fortsetter samtaler med private investorer",
+      "link": "https://www.nrk.no/nyheter/fifa-trosser-kritikk-_-fortsetter-samtaler-med-private-investorer-1.17974598",
+      "category": "Fifa",
+      "pubDate": "Fri, 31 Jul 2026 04:33:19 GMT"
+    },
+    {
+      "title": "Biljakt på Majorstuen",
+      "link": "https://www.nrk.no/stor-oslo/biljakt-pa-majorstuen-1.17974568",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 31 Jul 2026 03:58:50 GMT"
+    },
+    {
+      "title": "Lyn- og skogbrannfare i Innlandet",
+      "link": "https://www.nrk.no/innlandet/lyn--og-skogbrannfare-i-innlandet-1.17974590",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 31 Jul 2026 03:52:20 GMT"
+    },
+    {
+      "title": "Vil utvide avlstasjon",
+      "link": "https://www.nrk.no/trondelag/vil-utvide-avlstasjon-1.17974552",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 31 Jul 2026 03:43:26 GMT"
+    },
+    {
+      "title": "Minst 34 omkom i en kullgruve i Pakistan",
+      "link": "https://www.nrk.no/nyheter/minst-34-omkom-i-en-kullgruve-i-pakistan-1.17974549",
       "category": "Pakistan",
-      "pubDate": "Fri, 31 Jul 2026 00:42:13 GMT"
+      "pubDate": "Fri, 31 Jul 2026 03:37:18 GMT"
     },
     {
-      "title": "Trump sår tvil om at Ukraina skal få forsvarsvåpen",
-      "link": "https://www.nrk.no/nyheter/trump-sar-tvil-om-at-ukraina-skal-fa-forsvarsvapen-1.17974535",
+      "title": "Fem skadde etter droneangrep mot russisk energianlegg",
+      "link": "https://www.nrk.no/nyheter/fem-skadde-etter-droneangrep-mot-russisk-energianlegg-1.17974544",
       "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 30 Jul 2026 23:55:44 GMT"
-    },
-    {
-      "title": "Bygningsbrann i Fyresdal",
-      "link": "https://www.nrk.no/nyheter/bygningsbrann-i-fyresdal--1.17974513",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 30 Jul 2026 23:11:25 GMT"
-    },
-    {
-      "title": "Trump kunngjør avtale om «fullstendig avvæpning» av Hamas",
-      "link": "https://www.nrk.no/nyheter/trump-kunngjor-avtale-om-_fullstendig-avvaepning_-av-hamas-1.17974530",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 30 Jul 2026 22:40:49 GMT"
-    },
-    {
-      "title": "Turist anmeldt for droneflygning i Bodø",
-      "link": "https://www.nrk.no/nyheter/turist-anmeldt-for-droneflygning-i-bodo-1.17974529",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Thu, 30 Jul 2026 22:34:25 GMT"
-    },
-    {
-      "title": "Russisk angrep flere steder i Ukraina",
-      "link": "https://www.nrk.no/nyheter/russisk-angrep-flere-steder-i-ukraina--1.17974518",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 30 Jul 2026 22:04:48 GMT"
+      "pubDate": "Fri, 31 Jul 2026 03:08:52 GMT"
     }
   ]
 }
