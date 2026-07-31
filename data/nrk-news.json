@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-31T20:47:47.995Z",
+  "updatedAt": "2026-07-31T22:07:08.393Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bilfører nektet å stanse for politiet i Stavanger",
+      "link": "https://www.nrk.no/nyheter/bilforer-nektet-a-stanse-for-politiet-i-stavanger-1.17975750",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 31 Jul 2026 21:51:09 GMT"
+    },
+    {
+      "title": "Leteaksjon ved Fløyen i Bergen",
+      "link": "https://www.nrk.no/nyheter/leteaksjon-ved-floyen-i-bergen--1.17975746",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 31 Jul 2026 21:43:26 GMT"
+    },
+    {
+      "title": "Mopedbil har kjørt av veien - to til sykehus",
+      "link": "https://www.nrk.no/sorlandet/mopedbil-har-kjort-av-veien---to-til-sykehus-1.17975742",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 31 Jul 2026 21:00:34 GMT"
+    },
+    {
+      "title": "Tusenvis demonstrerte i Kyiv for å få tilbake sparket forsvarsminister",
+      "link": "https://www.nrk.no/nyheter/tusenvis-demonstrerte-i-kyiv-for-a-fa-tilbake-sparket-forsvarsminister-1.17975728",
+      "category": "Ukraina",
+      "pubDate": "Fri, 31 Jul 2026 20:59:31 GMT"
+    },
     {
       "title": "«Misje Verde» har fått forlate Sverige",
       "link": "https://www.nrk.no/nyheter/_misje-verde_-har-fatt-forlate-sverige-1.17975729",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kraftig-nedgang-for-apple-aksjen-pa-bors-1.17975720",
       "category": "Apple",
       "pubDate": "Fri, 31 Jul 2026 20:21:22 GMT"
-    },
-    {
-      "title": "Rekordlav vannstand i Rhinen",
-      "link": "https://www.nrk.no/nyheter/rekordlav-vannstand-i-rhinen-1.17975715",
-      "category": "Tyskland",
-      "pubDate": "Fri, 31 Jul 2026 19:58:50 GMT"
-    },
-    {
-      "title": "To personer siktet for frihetsberøvelse",
-      "link": "https://www.nrk.no/nyheter/-to-personer-siktet-for-frihetsberovelse-1.17975653",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 31 Jul 2026 19:48:36 GMT"
-    },
-    {
-      "title": "FN-sjefen advarer: – El Niño heller bensin på en planet som allerede brenner",
-      "link": "https://www.nrk.no/nyheter/fn-sjefen-advarer_-_-el-nino-heller-bensin-pa-en-planet-som-allerede-brenner-1.17975573",
-      "category": "Klima og miljø",
-      "pubDate": "Fri, 31 Jul 2026 18:14:22 GMT"
-    },
-    {
-      "title": "Nesten 50.000 har returnert til Marokko fra Ceuta",
-      "link": "https://www.nrk.no/nyheter/nesten-50.000-har-returnert-til-marokko-fra-ceuta--1.17975559",
-      "category": "Spania",
-      "pubDate": "Fri, 31 Jul 2026 16:36:34 GMT"
     }
   ]
 }
