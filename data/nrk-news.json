@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-31T15:37:10.583Z",
+  "updatedAt": "2026-07-31T17:39:21.317Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nesten 50.000 har returnert til Marokko fra Ceuta",
+      "link": "https://www.nrk.no/nyheter/nesten-50.000-har-returnert-til-marokko-fra-ceuta--1.17975559",
+      "category": "Spania",
+      "pubDate": "Fri, 31 Jul 2026 16:36:34 GMT"
+    },
+    {
+      "title": "Motorsykkelulykke på E6 i Gjøvik",
+      "link": "https://www.nrk.no/innlandet/motorsykkelulykke-pa-e6-i-gjovik-1.17975563",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 31 Jul 2026 16:35:37 GMT"
+    },
+    {
+      "title": "Open AI har passert en milliard brukere",
+      "link": "https://www.nrk.no/nyheter/open-ai-har-passert-en-milliard-brukere-1.17975547",
+      "category": "Kunstig intelligens",
+      "pubDate": "Fri, 31 Jul 2026 16:22:23 GMT"
+    },
+    {
+      "title": "Funn av machete etter slagsmål",
+      "link": "https://www.nrk.no/stor-oslo/funn-av-machete-etter-slagsmal-1.17975406",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 31 Jul 2026 16:20:35 GMT"
+    },
+    {
+      "title": "Reuters: Italia suspenderer Schengen-avtalen med Spania",
+      "link": "https://www.nrk.no/nyheter/reuters_-italia-suspenderer-schengen-avtalen-med-spania-1.17975513",
+      "category": "Spania",
+      "pubDate": "Fri, 31 Jul 2026 16:07:48 GMT"
+    },
     {
       "title": "SpaceX-rakett på vei til å krasje inn i månen",
       "link": "https://www.nrk.no/nyheter/spacex-rakett-pa-vei-til-a-krasje-inn-i-manen-1.17975501",
       "category": "Romfart og astronomi",
       "pubDate": "Fri, 31 Jul 2026 15:30:03 GMT"
-    },
-    {
-      "title": "Kjent klatrer savnet etter snøskred i Pakistan",
-      "link": "https://www.nrk.no/nyheter/kjent-klatrer-savnet-etter-snoskred-i-pakistan-1.17975466",
-      "category": "Pakistan",
-      "pubDate": "Fri, 31 Jul 2026 15:18:15 GMT"
-    },
-    {
-      "title": "Drapssaken på Nærbø: Vil anke til Høyesterett",
-      "link": "https://www.nrk.no/rogaland/drapssaken-pa-naerbo_-vil-anke-til-hoyesterett-1.17975439",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Fri, 31 Jul 2026 14:43:58 GMT"
-    },
-    {
-      "title": "Skogbrann fører til delvis evakuering av Aten-forstad",
-      "link": "https://www.nrk.no/nyheter/-skogbrann-forer-til-delvis-evakuering-av-aten-forstad-1.17975458",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Fri, 31 Jul 2026 14:39:02 GMT"
-    },
-    {
-      "title": "EU: Ikke sett migrasjon fra Ceuta til det europeiske fastlandet",
-      "link": "https://www.nrk.no/nyheter/eu_-ikke-sett-migrasjon-fra-ceuta-til-det-europeiske-fastlandet-1.17975449",
-      "category": "Spania",
-      "pubDate": "Fri, 31 Jul 2026 14:29:11 GMT"
-    },
-    {
-      "title": "Israels sikkerhetsminister om Trumps Hamas-avtale: – Uakseptabelt",
-      "link": "https://www.nrk.no/nyheter/-israels-sikkerhetsminister-om-trumps-hamas-avtale_-_-uakseptabelt-1.17975427",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 31 Jul 2026 14:16:28 GMT"
     }
   ]
 }
