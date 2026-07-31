@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-31T19:34:11.692Z",
+  "updatedAt": "2026-07-31T20:47:47.995Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "«Misje Verde» har fått forlate Sverige",
+      "link": "https://www.nrk.no/nyheter/_misje-verde_-har-fatt-forlate-sverige-1.17975729",
+      "category": "Sverige",
+      "pubDate": "Fri, 31 Jul 2026 20:34:01 GMT"
+    },
+    {
+      "title": "Kraftig nedgang for Apple-aksjen på børs",
+      "link": "https://www.nrk.no/nyheter/kraftig-nedgang-for-apple-aksjen-pa-bors-1.17975720",
+      "category": "Apple",
+      "pubDate": "Fri, 31 Jul 2026 20:21:22 GMT"
+    },
+    {
+      "title": "Rekordlav vannstand i Rhinen",
+      "link": "https://www.nrk.no/nyheter/rekordlav-vannstand-i-rhinen-1.17975715",
+      "category": "Tyskland",
+      "pubDate": "Fri, 31 Jul 2026 19:58:50 GMT"
+    },
+    {
+      "title": "To personer siktet for frihetsberøvelse",
+      "link": "https://www.nrk.no/nyheter/-to-personer-siktet-for-frihetsberovelse-1.17975653",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 31 Jul 2026 19:48:36 GMT"
+    },
     {
       "title": "FN-sjefen advarer: – El Niño heller bensin på en planet som allerede brenner",
       "link": "https://www.nrk.no/nyheter/fn-sjefen-advarer_-_-el-nino-heller-bensin-pa-en-planet-som-allerede-brenner-1.17975573",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nesten-50.000-har-returnert-til-marokko-fra-ceuta--1.17975559",
       "category": "Spania",
       "pubDate": "Fri, 31 Jul 2026 16:36:34 GMT"
-    },
-    {
-      "title": "Motorsykkelulykke på E6 i Gjøvik",
-      "link": "https://www.nrk.no/innlandet/motorsykkelulykke-pa-e6-i-gjovik-1.17975563",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 31 Jul 2026 16:35:37 GMT"
-    },
-    {
-      "title": "Open AI har passert en milliard brukere",
-      "link": "https://www.nrk.no/nyheter/open-ai-har-passert-en-milliard-brukere-1.17975547",
-      "category": "Kunstig intelligens",
-      "pubDate": "Fri, 31 Jul 2026 16:22:23 GMT"
-    },
-    {
-      "title": "Funn av machete etter slagsmål",
-      "link": "https://www.nrk.no/stor-oslo/funn-av-machete-etter-slagsmal-1.17975406",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 31 Jul 2026 16:20:35 GMT"
-    },
-    {
-      "title": "Reuters: Italia suspenderer Schengen-avtalen med Spania",
-      "link": "https://www.nrk.no/nyheter/reuters_-italia-suspenderer-schengen-avtalen-med-spania-1.17975513",
-      "category": "Spania",
-      "pubDate": "Fri, 31 Jul 2026 16:07:48 GMT"
     }
   ]
 }
