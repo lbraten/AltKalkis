@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-31T17:39:21.317Z",
+  "updatedAt": "2026-07-31T19:34:11.692Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN-sjefen advarer: – El Niño heller bensin på en planet som allerede brenner",
+      "link": "https://www.nrk.no/nyheter/fn-sjefen-advarer_-_-el-nino-heller-bensin-pa-en-planet-som-allerede-brenner-1.17975573",
+      "category": "Klima og miljø",
+      "pubDate": "Fri, 31 Jul 2026 18:14:22 GMT"
+    },
     {
       "title": "Nesten 50.000 har returnert til Marokko fra Ceuta",
       "link": "https://www.nrk.no/nyheter/nesten-50.000-har-returnert-til-marokko-fra-ceuta--1.17975559",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/reuters_-italia-suspenderer-schengen-avtalen-med-spania-1.17975513",
       "category": "Spania",
       "pubDate": "Fri, 31 Jul 2026 16:07:48 GMT"
-    },
-    {
-      "title": "SpaceX-rakett på vei til å krasje inn i månen",
-      "link": "https://www.nrk.no/nyheter/spacex-rakett-pa-vei-til-a-krasje-inn-i-manen-1.17975501",
-      "category": "Romfart og astronomi",
-      "pubDate": "Fri, 31 Jul 2026 15:30:03 GMT"
     }
   ]
 }
