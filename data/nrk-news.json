@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-31T11:06:03.525Z",
+  "updatedAt": "2026-07-31T13:14:20.585Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "30 personer pågrepet under sammenstøtene ved grensa til Ceuta",
-      "link": "https://www.nrk.no/nyheter/30-personer-pagrepet-under-sammenstotene-ved-grensa-til-ceuta-1.17975117",
+      "title": "Forbruksgjelden steg med 0,9 milliarder i juni",
+      "link": "https://www.nrk.no/nyheter/forbruksgjelden-steg-med-0_9-milliarder-i-juni-1.17975321",
+      "category": "Personlig økonomi",
+      "pubDate": "Fri, 31 Jul 2026 12:40:31 GMT"
+    },
+    {
+      "title": "Spanias innenriksdepartement: Anslår at 25.000 har reist hjem til Marokko",
+      "link": "https://www.nrk.no/nyheter/spanias-innenriksdepartement_-anslar-at-25.000-har-reist-hjem-til-marokko-1.17975222",
       "category": "Spania",
-      "pubDate": "Fri, 31 Jul 2026 10:58:50 GMT"
+      "pubDate": "Fri, 31 Jul 2026 11:53:13 GMT"
     },
     {
-      "title": "Bekrefter at det var et russisk missil som landet i Polen",
-      "link": "https://www.nrk.no/nyheter/bekrefter-at-det-var-et-russisk-missil-som-landet-i-polen-1.17974777",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 31 Jul 2026 10:31:01 GMT"
+      "title": "Lederen for Ceuta anslår at 60.000 har kommet over grensa",
+      "link": "https://www.nrk.no/nyheter/lederen-for-ceuta-anslar-at-60.000-har-kommet-over-grensa-1.17975214",
+      "category": "Spania",
+      "pubDate": "Fri, 31 Jul 2026 11:31:14 GMT"
     },
     {
-      "title": "Norske universiteter reduserer studieavgiften for internasjonale studenter",
-      "link": "https://www.nrk.no/tromsogfinnmark/norske-universiteter-reduserer-studieavgiften-for-internasjonale-studenter-1.17974677",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 31 Jul 2026 10:10:56 GMT"
+      "title": "Bussulykke i Algerie: 25 døde",
+      "link": "https://www.nrk.no/nyheter/bussulykke-i-algerie_-25-dode-1.17975161",
+      "category": "Algerie",
+      "pubDate": "Fri, 31 Jul 2026 11:27:40 GMT"
     },
     {
-      "title": "Martinus Gunnarsen deltar i svenske \"Skal vi danse\"",
-      "link": "https://www.nrk.no/nordland/martinus-gunnarsen-deltar-i-svenske-_skal-vi-danse_-1.17975041",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 31 Jul 2026 10:01:27 GMT"
+      "title": "Sterke reaksjoner etter migrantstrømmen til Ceauta",
+      "link": "https://www.nrk.no/nyheter/sterke-reaksjoner-etter-migrantstrommen-til-ceauta-1.17975190",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 31 Jul 2026 11:24:23 GMT"
     },
     {
-      "title": "Brann i boligblokk i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/brann-i-boligblokk-i-oslo-1.17975019",
-      "category": "Branner i Oslo og Akershus",
-      "pubDate": "Fri, 31 Jul 2026 09:48:17 GMT"
-    },
-    {
-      "title": "Omkommet person siktet etter ulykka på Dovrefjell",
-      "link": "https://www.nrk.no/innlandet/omkommet-person-siktet-etter-ulykka-pa-dovrefjell-1.17974925",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 31 Jul 2026 09:05:40 GMT"
+      "title": "Kjørte i 100 km/t på elsparkesykkel",
+      "link": "https://www.nrk.no/vestland/kjorte-i-100-km_t-pa-elsparkesykkel-1.17974703",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 31 Jul 2026 11:22:30 GMT"
     }
   ]
 }
