@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-07-31T22:07:08.393Z",
+  "updatedAt": "2026-07-31T23:30:18.865Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brøt ut brann i kjent katedral i Moskva",
+      "link": "https://www.nrk.no/nyheter/brot-ut-brann-i-kjent-katedral-i-moskva-1.17975755",
+      "category": "Russland",
+      "pubDate": "Fri, 31 Jul 2026 23:08:58 GMT"
+    },
+    {
+      "title": "Russisk angrep i Kyiv",
+      "link": "https://www.nrk.no/nyheter/russisk-angrep-i-kyiv-1.17975754",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 31 Jul 2026 22:48:41 GMT"
+    },
+    {
+      "title": "Hundelufter fikk kastet væske på seg i Arendal – gjerningsmann stakk på elsparkesykkel",
+      "link": "https://www.nrk.no/nyheter/hundelufter-fikk-kastet-vaeske-pa-seg-i-arendal-_-gjerningsmann-stakk-pa-elsparkesykkel-1.17975753",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 31 Jul 2026 22:26:25 GMT"
+    },
+    {
+      "title": "Reuters: Justisdepartementet dropper hærverksanklager mot tidligere OL-utøver",
+      "link": "https://www.nrk.no/nyheter/reuters_-justisdepartementet-dropper-haerverksanklager-mot-tidligere-ol-utover-1.17975752",
+      "category": "USA",
+      "pubDate": "Fri, 31 Jul 2026 22:13:07 GMT"
+    },
+    {
+      "title": "Togavsporing på jernbaneterminalen i Narvik",
+      "link": "https://www.nrk.no/nyheter/togavsporing-pa-jernbaneterminalen-i-narvik-1.17975751",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 31 Jul 2026 22:07:57 GMT"
+    },
     {
       "title": "Bilfører nektet å stanse for politiet i Stavanger",
       "link": "https://www.nrk.no/nyheter/bilforer-nektet-a-stanse-for-politiet-i-stavanger-1.17975750",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Fri, 31 Jul 2026 21:51:09 GMT"
-    },
-    {
-      "title": "Leteaksjon ved Fløyen i Bergen",
-      "link": "https://www.nrk.no/nyheter/leteaksjon-ved-floyen-i-bergen--1.17975746",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 31 Jul 2026 21:43:26 GMT"
-    },
-    {
-      "title": "Mopedbil har kjørt av veien - to til sykehus",
-      "link": "https://www.nrk.no/sorlandet/mopedbil-har-kjort-av-veien---to-til-sykehus-1.17975742",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Fri, 31 Jul 2026 21:00:34 GMT"
-    },
-    {
-      "title": "Tusenvis demonstrerte i Kyiv for å få tilbake sparket forsvarsminister",
-      "link": "https://www.nrk.no/nyheter/tusenvis-demonstrerte-i-kyiv-for-a-fa-tilbake-sparket-forsvarsminister-1.17975728",
-      "category": "Ukraina",
-      "pubDate": "Fri, 31 Jul 2026 20:59:31 GMT"
-    },
-    {
-      "title": "«Misje Verde» har fått forlate Sverige",
-      "link": "https://www.nrk.no/nyheter/_misje-verde_-har-fatt-forlate-sverige-1.17975729",
-      "category": "Sverige",
-      "pubDate": "Fri, 31 Jul 2026 20:34:01 GMT"
-    },
-    {
-      "title": "Kraftig nedgang for Apple-aksjen på børs",
-      "link": "https://www.nrk.no/nyheter/kraftig-nedgang-for-apple-aksjen-pa-bors-1.17975720",
-      "category": "Apple",
-      "pubDate": "Fri, 31 Jul 2026 20:21:22 GMT"
     }
   ]
 }
