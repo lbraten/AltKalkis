@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-30T23:08:49.881Z",
+  "updatedAt": "2026-07-31T01:04:57.860Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 11 omkom i gruveulykke i Pakistan",
+      "link": "https://www.nrk.no/nyheter/minst-11-omkom-i-gruveulykke-i-pakistan-1.17974534",
+      "category": "Pakistan",
+      "pubDate": "Fri, 31 Jul 2026 00:42:13 GMT"
+    },
+    {
+      "title": "Trump sår tvil om at Ukraina skal få forsvarsvåpen",
+      "link": "https://www.nrk.no/nyheter/trump-sar-tvil-om-at-ukraina-skal-fa-forsvarsvapen-1.17974535",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 30 Jul 2026 23:55:44 GMT"
+    },
+    {
+      "title": "Bygningsbrann i Fyresdal",
+      "link": "https://www.nrk.no/nyheter/bygningsbrann-i-fyresdal--1.17974513",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 30 Jul 2026 23:11:25 GMT"
+    },
     {
       "title": "Trump kunngjør avtale om «fullstendig avvæpning» av Hamas",
       "link": "https://www.nrk.no/nyheter/trump-kunngjor-avtale-om-_fullstendig-avvaepning_-av-hamas-1.17974530",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russisk-angrep-flere-steder-i-ukraina--1.17974518",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 30 Jul 2026 22:04:48 GMT"
-    },
-    {
-      "title": "Apple slår forventningene etter sterkt iPhone-salg",
-      "link": "https://www.nrk.no/nyheter/apple-slar-forventningene-etter-sterkt-iphone-salg-1.17974508",
-      "category": "Apple",
-      "pubDate": "Thu, 30 Jul 2026 21:21:12 GMT"
-    },
-    {
-      "title": "Redningsaksjon etter mulig ulykke med fritidsbåt ved Holmestrand",
-      "link": "https://www.nrk.no/nyheter/redningsaksjon-etter-mulig-ulykke-med-fritidsbat-ved-holmestrand-1.17974511",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Thu, 30 Jul 2026 21:13:57 GMT"
-    },
-    {
-      "title": "Amazon leverte betre enn venta",
-      "link": "https://www.nrk.no/nyheter/amazon-leverte-betre-enn-venta-1.17974497",
-      "category": "Amazon",
-      "pubDate": "Thu, 30 Jul 2026 20:27:14 GMT"
     }
   ]
 }
