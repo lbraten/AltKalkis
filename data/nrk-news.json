@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T21:57:35.688Z",
+  "updatedAt": "2026-08-01T23:01:58.320Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
@@ -7,12 +7,6 @@
       "link": "https://www.nrk.no/nyheter/_sopranos_-skuespiller-dod-1.17976379",
       "category": "Film og serier",
       "pubDate": "Sat, 01 Aug 2026 21:43:41 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Haugesund",
-      "link": "https://www.nrk.no/nyheter/trafikkulykke-i-haugesund-1.17976377",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 01 Aug 2026 21:33:14 GMT"
     },
     {
       "title": "Elgpåkjørsel på E18 i Nordre Follo",
@@ -37,6 +31,12 @@
       "link": "https://www.nrk.no/nyheter/e16-pa-voss-er-apnet-igjen-etter-ulykke-1.17976362",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 01 Aug 2026 20:45:56 GMT"
+    },
+    {
+      "title": "WHO: Ebolautbruddet i Kongo er nå det største noensinne",
+      "link": "https://www.nrk.no/nyheter/who_-ebolautbruddet-i-kongo-er-na-det-storste-noensinne-1.17976361",
+      "category": "DR Kongo",
+      "pubDate": "Sat, 01 Aug 2026 20:41:01 GMT"
     }
   ]
 }
