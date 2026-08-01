@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-01T19:46:35.795Z",
+  "updatedAt": "2026-08-01T20:54:13.116Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eksplosjon i Moskva skal ha vært bombe",
+      "link": "https://www.nrk.no/nyheter/eksplosjon-i-moskva-skal-ha-vaert-bombe-1.17976364",
+      "category": "Russland",
+      "pubDate": "Sat, 01 Aug 2026 20:47:25 GMT"
+    },
+    {
+      "title": "E16 på Voss er åpnet igjen etter ulykke",
+      "link": "https://www.nrk.no/nyheter/e16-pa-voss-er-apnet-igjen-etter-ulykke-1.17976362",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 01 Aug 2026 20:45:56 GMT"
+    },
+    {
+      "title": "WHO: Ebolautbruddet i Kongo er nå det største noensinne",
+      "link": "https://www.nrk.no/nyheter/who_-ebolautbruddet-i-kongo-er-na-det-storste-noensinne-1.17976361",
+      "category": "DR Kongo",
+      "pubDate": "Sat, 01 Aug 2026 20:41:01 GMT"
+    },
+    {
+      "title": "Person knivstukket i Buskerud",
+      "link": "https://www.nrk.no/buskerud/person-knivstukket-i-buskerud-1.17976219",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 01 Aug 2026 19:53:19 GMT"
+    },
     {
       "title": "Turistfly krasjet i Peru – 13 personer døde",
       "link": "https://www.nrk.no/nyheter/turistfly-krasjet-i-peru-_-13-personer-dode-1.17976284",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tre-drept-og-15-skadde-i-eksplosjon-ved-kafe-i-moskva-1.17976202",
       "category": "Russland",
       "pubDate": "Sat, 01 Aug 2026 18:04:53 GMT"
-    },
-    {
-      "title": "Alvorlig frontulykke på Voss – tre flydd til sykehus",
-      "link": "https://www.nrk.no/nyheter/alvorlig-frontulykke-pa-voss-_-tre-flydd-til-sykehus-1.17976165",
-      "category": "Trafikk i Norge",
-      "pubDate": "Sat, 01 Aug 2026 16:11:32 GMT"
-    },
-    {
-      "title": "Politiet måtte bruke tåregass under slagsmål",
-      "link": "https://www.nrk.no/sorlandet/politiet-matte-bruke-taregass-under-slagsmal--1.17976155",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 01 Aug 2026 15:30:31 GMT"
-    },
-    {
-      "title": "EU-ministre kaller inn til krisemøte om grensekaos på Ceuta",
-      "link": "https://www.nrk.no/nyheter/eu-ministre-kaller-inn-til-krisemote-om-grensekaos-pa-ceuta-1.17976095",
-      "category": "Migranter i Europa",
-      "pubDate": "Sat, 01 Aug 2026 15:27:55 GMT"
-    },
-    {
-      "title": "Gjerde falt sammen - supportere dundret i bakken",
-      "link": "https://www.nrk.no/ostfold/gjerde-falt-sammen---supportere-dundret-i-bakken-1.17976151",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 01 Aug 2026 15:09:25 GMT"
     }
   ]
 }
