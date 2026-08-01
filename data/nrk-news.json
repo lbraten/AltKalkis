@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-01T10:41:59.736Z",
+  "updatedAt": "2026-08-01T12:02:55.127Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ulykke under bilcrosstevne på Gardermoen – en person skal være fastklemt",
+      "link": "https://www.nrk.no/nyheter/ulykke-under-bilcrosstevne-pa-gardermoen-_-en-person-skal-vaere-fastklemt-1.17976001",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 01 Aug 2026 11:53:22 GMT"
+    },
+    {
+      "title": "En person omkom etter trafikkulykke i Harstad",
+      "link": "https://www.nrk.no/tromsogfinnmark/en-person-omkom-etter-trafikkulykke-i-harstad-1.17975939",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 01 Aug 2026 11:49:15 GMT"
+    },
+    {
+      "title": "Klatreren Nirmal Purja bekreftet død i snøskred i Pakistan",
+      "link": "https://www.nrk.no/nyheter/klatreren-nirmal-purja-bekreftet-dod-i-snoskred-i-pakistan-1.17975909",
+      "category": "Klatring",
+      "pubDate": "Sat, 01 Aug 2026 11:45:57 GMT"
+    },
+    {
+      "title": "Ulykke mellom bil og to motorsykler",
+      "link": "https://www.nrk.no/nyheter/ulykke-mellom-bil-og-to-motorsykler-1.17975978",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 01 Aug 2026 11:34:21 GMT"
+    },
     {
       "title": "Frankrikes største brann på over 70 år er under kontroll",
       "link": "https://www.nrk.no/nyheter/frankrikes-storste-brann-pa-over-70-ar-er-under-kontroll-1.17975938",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/trafikkulykke-i-harstad-1.17975882",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sat, 01 Aug 2026 10:20:08 GMT"
-    },
-    {
-      "title": "Fortsetter søk: Tre klatrere funnet døde etter snøskred i Pakistan",
-      "link": "https://www.nrk.no/nyheter/fortsetter-sok_-tre-klatrere-funnet-dode-etter-snoskred-i-pakistan-1.17975937",
-      "category": "Klatring",
-      "pubDate": "Sat, 01 Aug 2026 10:16:26 GMT"
-    },
-    {
-      "title": "Flere influensere har fått varsel om lovbrudd",
-      "link": "https://www.nrk.no/sorlandet/flere-influensere-har-fatt-varsel-om-lovbrudd-1.17975877",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 01 Aug 2026 09:22:10 GMT"
-    },
-    {
-      "title": "Skogbrannfaren i Sør-Europa doblet på 30 år",
-      "link": "https://www.nrk.no/nyheter/skogbrannfaren-i-sor-europa-doblet-pa-30-ar-1.17975906",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 01 Aug 2026 09:16:28 GMT"
-    },
-    {
-      "title": "Spanias statsminister langer ut mot EU-land etter Ceuta-krisen",
-      "link": "https://www.nrk.no/nyheter/spanias-statsminister-langer-ut-mot-eu-land-etter-ceuta-krisen-1.17975897",
-      "category": "Spania",
-      "pubDate": "Sat, 01 Aug 2026 09:13:35 GMT"
     }
   ]
 }
