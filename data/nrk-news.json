@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-08-01T12:02:55.127Z",
+  "updatedAt": "2026-08-01T14:06:21.040Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ulykke under bilcrosstevne på Gardermoen – en person skal være fastklemt",
-      "link": "https://www.nrk.no/nyheter/ulykke-under-bilcrosstevne-pa-gardermoen-_-en-person-skal-vaere-fastklemt-1.17976001",
-      "category": "NRK Nyheter",
+      "title": "Svensk politi vil varetektsfengsle kaptein på norsk skip etter dødsulykke",
+      "link": "https://www.nrk.no/nyheter/svensk-politi-vil-varetektsfengsle-kaptein-pa-norsk-skip-etter-dodsulykke-1.17976019",
+      "category": "Sverige",
+      "pubDate": "Sat, 01 Aug 2026 13:48:01 GMT"
+    },
+    {
+      "title": "Justisministeren om migrantkrisen: – Vi står sammen med Spania",
+      "link": "https://www.nrk.no/nyheter/justisministeren-om-migrantkrisen_-_-vi-star-sammen-med-spania-1.17976020",
+      "category": "Spania",
+      "pubDate": "Sat, 01 Aug 2026 12:40:18 GMT"
+    },
+    {
+      "title": "Ulykke under bilcrosstevne – bilfører fløyet til Ullevål",
+      "link": "https://www.nrk.no/nyheter/ulykke-under-bilcrosstevne-_-bilforer-floyet-til-ulleval-1.17976001",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 01 Aug 2026 11:53:22 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ulykke-mellom-bil-og-to-motorsykler-1.17975978",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 01 Aug 2026 11:34:21 GMT"
-    },
-    {
-      "title": "Frankrikes største brann på over 70 år er under kontroll",
-      "link": "https://www.nrk.no/nyheter/frankrikes-storste-brann-pa-over-70-ar-er-under-kontroll-1.17975938",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sat, 01 Aug 2026 10:24:37 GMT"
-    },
-    {
-      "title": "Trafikkulykke i Harstad",
-      "link": "https://www.nrk.no/tromsogfinnmark/trafikkulykke-i-harstad-1.17975882",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 01 Aug 2026 10:20:08 GMT"
     }
   ]
 }
