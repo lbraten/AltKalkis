@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-01T18:28:39.024Z",
+  "updatedAt": "2026-08-01T19:46:35.795Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Turistfly krasjet i Peru – 13 personer døde",
+      "link": "https://www.nrk.no/nyheter/turistfly-krasjet-i-peru-_-13-personer-dode-1.17976284",
+      "category": "Peru",
+      "pubDate": "Sat, 01 Aug 2026 19:38:59 GMT"
+    },
     {
       "title": "Tre drept og 15 skadde i eksplosjon ved kafé i Moskva",
       "link": "https://www.nrk.no/nyheter/tre-drept-og-15-skadde-i-eksplosjon-ved-kafe-i-moskva-1.17976202",
@@ -9,8 +15,8 @@
       "pubDate": "Sat, 01 Aug 2026 18:04:53 GMT"
     },
     {
-      "title": "Alvorlig frontulykke på Voss – sju flydd til sykehus",
-      "link": "https://www.nrk.no/nyheter/alvorlig-frontulykke-pa-voss-_-sju-flydd-til-sykehus-1.17976165",
+      "title": "Alvorlig frontulykke på Voss – tre flydd til sykehus",
+      "link": "https://www.nrk.no/nyheter/alvorlig-frontulykke-pa-voss-_-tre-flydd-til-sykehus-1.17976165",
       "category": "Trafikk i Norge",
       "pubDate": "Sat, 01 Aug 2026 16:11:32 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/ostfold/gjerde-falt-sammen---supportere-dundret-i-bakken-1.17976151",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sat, 01 Aug 2026 15:09:25 GMT"
-    },
-    {
-      "title": "Grensekontroll: Enighet om nordisk samarbeid",
-      "link": "https://www.nrk.no/nyheter/grensekontroll_-enighet-om-nordisk-samarbeid-1.17976150",
-      "category": "Flyktninger i EU",
-      "pubDate": "Sat, 01 Aug 2026 15:07:56 GMT"
     }
   ]
 }
