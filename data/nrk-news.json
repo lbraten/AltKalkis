@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-01T08:39:58.650Z",
+  "updatedAt": "2026-08-01T10:41:59.736Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "67 døde i grensekrisen i Ceuta",
-      "link": "https://www.nrk.no/nyheter/67-dode-i-grensekrisen-i-ceuta-1.17975873",
+      "title": "Frankrikes største brann på over 70 år er under kontroll",
+      "link": "https://www.nrk.no/nyheter/frankrikes-storste-brann-pa-over-70-ar-er-under-kontroll-1.17975938",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 01 Aug 2026 10:24:37 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Harstad",
+      "link": "https://www.nrk.no/tromsogfinnmark/trafikkulykke-i-harstad-1.17975882",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 01 Aug 2026 10:20:08 GMT"
+    },
+    {
+      "title": "Fortsetter søk: Tre klatrere funnet døde etter snøskred i Pakistan",
+      "link": "https://www.nrk.no/nyheter/fortsetter-sok_-tre-klatrere-funnet-dode-etter-snoskred-i-pakistan-1.17975937",
+      "category": "Klatring",
+      "pubDate": "Sat, 01 Aug 2026 10:16:26 GMT"
+    },
+    {
+      "title": "Flere influensere har fått varsel om lovbrudd",
+      "link": "https://www.nrk.no/sorlandet/flere-influensere-har-fatt-varsel-om-lovbrudd-1.17975877",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 01 Aug 2026 09:22:10 GMT"
+    },
+    {
+      "title": "Skogbrannfaren i Sør-Europa doblet på 30 år",
+      "link": "https://www.nrk.no/nyheter/skogbrannfaren-i-sor-europa-doblet-pa-30-ar-1.17975906",
+      "category": "Skogbranner i Sør-Europa",
+      "pubDate": "Sat, 01 Aug 2026 09:16:28 GMT"
+    },
+    {
+      "title": "Spanias statsminister langer ut mot EU-land etter Ceuta-krisen",
+      "link": "https://www.nrk.no/nyheter/spanias-statsminister-langer-ut-mot-eu-land-etter-ceuta-krisen-1.17975897",
       "category": "Spania",
-      "pubDate": "Sat, 01 Aug 2026 08:15:48 GMT"
-    },
-    {
-      "title": "Litauens ambassade i Kyiv truffet i russisk angrep",
-      "link": "https://www.nrk.no/nyheter/litauens-ambassade-i-kyiv-truffet-i-russisk-angrep-1.17975867",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 01 Aug 2026 08:01:11 GMT"
-    },
-    {
-      "title": "Anket voldtektsdom på åtte år – fikk kraftig reduksjon",
-      "link": "https://www.nrk.no/innlandet/anket-voldtektsdom-pa-atte-ar-_-fikk-kraftig-reduksjon-1.17975857",
-      "category": "Tiltaler og dommer i Innlandet",
-      "pubDate": "Sat, 01 Aug 2026 07:59:42 GMT"
-    },
-    {
-      "title": "Båtulykken i Sverige: Fritidsbåten hentet opp av vannet",
-      "link": "https://www.nrk.no/nyheter/batulykken-i-sverige_-fritidsbaten-hentet-opp-av-vannet-1.17975861",
-      "category": "Sverige",
-      "pubDate": "Sat, 01 Aug 2026 07:46:41 GMT"
-    },
-    {
-      "title": "Regjeringen fjerner egenandelen for alle under 18 år",
-      "link": "https://www.nrk.no/nyheter/-regjeringen-fjerner-egenandelen-for-alle-under-18-ar-1.17975793",
-      "category": "Helsetjenester",
-      "pubDate": "Sat, 01 Aug 2026 07:21:53 GMT"
-    },
-    {
-      "title": "Person omkom etter å ha falt i Saltdalselva",
-      "link": "https://www.nrk.no/nordland/person-omkom-etter-a-ha-falt-i-saltdalselva-1.17975822",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 01 Aug 2026 07:01:54 GMT"
+      "pubDate": "Sat, 01 Aug 2026 09:13:35 GMT"
     }
   ]
 }
