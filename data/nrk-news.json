@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-01T14:06:21.040Z",
+  "updatedAt": "2026-08-01T15:36:48.313Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet måtte bruke CS-gass under slagsmål",
+      "link": "https://www.nrk.no/sorlandet/politiet-matte-bruke-cs-gass-under-slagsmal--1.17976155",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 01 Aug 2026 15:30:31 GMT"
+    },
+    {
+      "title": "EU-ministre kaller inn til møte om Ceuta",
+      "link": "https://www.nrk.no/nyheter/eu-ministre-kaller-inn-til-mote-om-ceuta-1.17976095",
+      "category": "Migranter i Europa",
+      "pubDate": "Sat, 01 Aug 2026 15:27:55 GMT"
+    },
+    {
+      "title": "Gjerde falt sammen - supportere dundret i bakken",
+      "link": "https://www.nrk.no/ostfold/gjerde-falt-sammen---supportere-dundret-i-bakken-1.17976151",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 01 Aug 2026 15:09:25 GMT"
+    },
+    {
+      "title": "Grensekontroll: Enighet om nordisk samarbeid",
+      "link": "https://www.nrk.no/nyheter/grensekontroll_-enighet-om-nordisk-samarbeid-1.17976150",
+      "category": "Flyktninger i EU",
+      "pubDate": "Sat, 01 Aug 2026 15:07:56 GMT"
+    },
+    {
+      "title": "Astronaut Jannicke Mikkelsen mottok Peer Gynt-prisen",
+      "link": "https://www.nrk.no/innlandet/astronaut-jannicke-mikkelsen-mottok-peer-gynt-prisen-1.17976088",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 01 Aug 2026 14:09:28 GMT"
+    },
     {
       "title": "Svensk politi vil varetektsfengsle kaptein på norsk skip etter dødsulykke",
       "link": "https://www.nrk.no/nyheter/svensk-politi-vil-varetektsfengsle-kaptein-pa-norsk-skip-etter-dodsulykke-1.17976019",
       "category": "Sverige",
       "pubDate": "Sat, 01 Aug 2026 13:48:01 GMT"
-    },
-    {
-      "title": "Justisministeren om migrantkrisen: – Vi står sammen med Spania",
-      "link": "https://www.nrk.no/nyheter/justisministeren-om-migrantkrisen_-_-vi-star-sammen-med-spania-1.17976020",
-      "category": "Spania",
-      "pubDate": "Sat, 01 Aug 2026 12:40:18 GMT"
-    },
-    {
-      "title": "Ulykke under bilcrosstevne – bilfører fløyet til Ullevål",
-      "link": "https://www.nrk.no/nyheter/ulykke-under-bilcrosstevne-_-bilforer-floyet-til-ulleval-1.17976001",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 01 Aug 2026 11:53:22 GMT"
-    },
-    {
-      "title": "En person omkom etter trafikkulykke i Harstad",
-      "link": "https://www.nrk.no/tromsogfinnmark/en-person-omkom-etter-trafikkulykke-i-harstad-1.17975939",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 01 Aug 2026 11:49:15 GMT"
-    },
-    {
-      "title": "Klatreren Nirmal Purja bekreftet død i snøskred i Pakistan",
-      "link": "https://www.nrk.no/nyheter/klatreren-nirmal-purja-bekreftet-dod-i-snoskred-i-pakistan-1.17975909",
-      "category": "Klatring",
-      "pubDate": "Sat, 01 Aug 2026 11:45:57 GMT"
-    },
-    {
-      "title": "Ulykke mellom bil og to motorsykler",
-      "link": "https://www.nrk.no/nyheter/ulykke-mellom-bil-og-to-motorsykler-1.17975978",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 01 Aug 2026 11:34:21 GMT"
     }
   ]
 }
