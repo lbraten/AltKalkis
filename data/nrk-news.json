@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-01T17:02:18.392Z",
+  "updatedAt": "2026-08-01T18:28:39.024Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Alvorlig frontulykke på Voss – flere skadd",
-      "link": "https://www.nrk.no/nyheter/alvorlig-frontulykke-pa-voss-_-flere-skadd-1.17976165",
+      "title": "Tre drept og 15 skadde i eksplosjon ved kafé i Moskva",
+      "link": "https://www.nrk.no/nyheter/tre-drept-og-15-skadde-i-eksplosjon-ved-kafe-i-moskva-1.17976202",
+      "category": "Russland",
+      "pubDate": "Sat, 01 Aug 2026 18:04:53 GMT"
+    },
+    {
+      "title": "Alvorlig frontulykke på Voss – sju flydd til sykehus",
+      "link": "https://www.nrk.no/nyheter/alvorlig-frontulykke-pa-voss-_-sju-flydd-til-sykehus-1.17976165",
       "category": "Trafikk i Norge",
       "pubDate": "Sat, 01 Aug 2026 16:11:32 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/grensekontroll_-enighet-om-nordisk-samarbeid-1.17976150",
       "category": "Flyktninger i EU",
       "pubDate": "Sat, 01 Aug 2026 15:07:56 GMT"
-    },
-    {
-      "title": "Astronaut Jannicke Mikkelsen mottok Peer Gynt-prisen",
-      "link": "https://www.nrk.no/innlandet/astronaut-jannicke-mikkelsen-mottok-peer-gynt-prisen-1.17976088",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 01 Aug 2026 14:09:28 GMT"
     }
   ]
 }
