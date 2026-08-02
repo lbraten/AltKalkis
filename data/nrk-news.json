@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-02T09:58:45.376Z",
+  "updatedAt": "2026-08-02T11:22:44.943Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Masseslagsmål før eliteseriekamp: Politiet vurderer straffeforfølgelse",
+      "link": "https://www.nrk.no/sorlandet/masseslagsmal-for-eliteseriekamp_-politiet-vurderer-straffeforfolgelse-1.17976526",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 02 Aug 2026 10:09:27 GMT"
+    },
     {
       "title": "Kroppen til den døde klatreren Nirmal Purja er funnet",
       "link": "https://www.nrk.no/nyheter/kroppen-til-den-dode-klatreren-nirmal-purja-er-funnet-1.17976532",
@@ -9,8 +15,8 @@
       "pubDate": "Sun, 02 Aug 2026 09:30:47 GMT"
     },
     {
-      "title": "Brann i ferge i Indonesia: Minst fem døde og 41 savnet",
-      "link": "https://www.nrk.no/nyheter/brann-i-ferge-i-indonesia_-minst-fem-dode-og-41-savnet-1.17976475",
+      "title": "Ferjebrann i Indonesia: Minst fem døde og 41 savnet",
+      "link": "https://www.nrk.no/nyheter/ferjebrann-i-indonesia_-minst-fem-dode-og-41-savnet-1.17976475",
       "category": "Indonesia",
       "pubDate": "Sun, 02 Aug 2026 09:18:06 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/mann-i-30-ara-doydde-i-fallulykke-i-bremanger-1.17976496",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 02 Aug 2026 07:44:59 GMT"
-    },
-    {
-      "title": "Ukrainsk donenangrep i Russland – minst to skal være drept",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-donenangrep-i-russland-_-minst-to-skal-vaere-drept-1.17976410",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 02 Aug 2026 07:04:51 GMT"
     }
   ]
 }
