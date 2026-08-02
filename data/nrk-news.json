@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-02T17:32:03.848Z",
+  "updatedAt": "2026-08-02T19:12:20.124Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "72 døde og 1000 skadde i spanske Ceuta",
+      "link": "https://www.nrk.no/nyheter/72-dode-og-1000-skadde-i-spanske-ceuta-1.17976903",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 02 Aug 2026 19:11:36 GMT"
+    },
+    {
+      "title": "– Infantino er ikke rett mann til å lede Fifa, sier Storbritannias statsminister",
+      "link": "https://www.nrk.no/nyheter/_-infantino-er-ikke-rett-mann-til-a-lede-fifa_-sier-storbritannias-statsminister-1.17976802",
+      "category": "Sportsnyheter",
+      "pubDate": "Sun, 02 Aug 2026 18:31:41 GMT"
+    },
     {
       "title": "Åtte politibetjenter blant 14 drepte i selvmordsangrep i Pakistan",
       "link": "https://www.nrk.no/nyheter/atte-politibetjenter-blant-14-drepte-i-selvmordsangrep-i-pakistan-1.17976780",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-pagrepet-i-hellas-etter-funn-av-dod-britisk-kvinne-i-koffert-1.17976705",
       "category": "Hellas",
       "pubDate": "Sun, 02 Aug 2026 14:53:51 GMT"
-    },
-    {
-      "title": "To døde og to skadde i helikopterkollisjon i Hellas",
-      "link": "https://www.nrk.no/nyheter/to-dode-og-to-skadde-i-helikopterkollisjon-i-hellas-1.17976685",
-      "category": "Hellas",
-      "pubDate": "Sun, 02 Aug 2026 13:29:35 GMT"
-    },
-    {
-      "title": "Kaptein på norsk skip varetektsfengsles i Sverige – nekter straffskyld",
-      "link": "https://www.nrk.no/nyheter/kaptein-pa-norsk-skip-varetektsfengsles-i-sverige-_-nekter-straffskyld-1.17976658",
-      "category": "Sverige",
-      "pubDate": "Sun, 02 Aug 2026 13:16:25 GMT"
     }
   ]
 }
