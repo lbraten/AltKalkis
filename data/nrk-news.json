@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-01T23:01:58.320Z",
+  "updatedAt": "2026-08-02T01:06:40.072Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nytt strømbrudd på Havana og vestlige Cuba",
+      "link": "https://www.nrk.no/nyheter/nytt-strombrudd-pa-havana-og-vestlige-cuba-1.17976386",
+      "category": "Cuba",
+      "pubDate": "Sun, 02 Aug 2026 00:33:10 GMT"
+    },
+    {
+      "title": "112 døde personer hentet ut av ruiner i Gaza, ifølge myndighetene",
+      "link": "https://www.nrk.no/nyheter/112-dode-personer-hentet-ut-av-ruiner-i-gaza_-ifolge-myndighetene-1.17976384",
+      "category": "Krig og konflikt i Midtøsten",
+      "pubDate": "Sat, 01 Aug 2026 23:43:32 GMT"
+    },
+    {
+      "title": "Politiet ber om hjelp fra Forsvaret i søk etter savnet mann i Bergen",
+      "link": "https://www.nrk.no/nyheter/politiet-ber-om-hjelp-fra-forsvaret-i-sok-etter-savnet-mann-i-bergen-1.17976383",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 01 Aug 2026 23:22:58 GMT"
+    },
+    {
+      "title": "Brann i flermannsbolig i Bergen sentrum",
+      "link": "https://www.nrk.no/nyheter/brann-i-flermannsbolig-i-bergen-sentrum--1.17976382",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 01 Aug 2026 23:07:56 GMT"
+    },
+    {
+      "title": "USA ber amerikanske borgere i Midtøsten være forberedt på eskalering",
+      "link": "https://www.nrk.no/nyheter/usa-ber-amerikanske-borgere-i-midtosten-vaere-forberedt-pa-eskalering-1.17976381",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sat, 01 Aug 2026 23:02:29 GMT"
+    },
     {
       "title": "«Sopranos»-skuespiller død",
       "link": "https://www.nrk.no/nyheter/_sopranos_-skuespiller-dod-1.17976379",
       "category": "Film og serier",
       "pubDate": "Sat, 01 Aug 2026 21:43:41 GMT"
-    },
-    {
-      "title": "Elgpåkjørsel på E18 i Nordre Follo",
-      "link": "https://www.nrk.no/nyheter/elgpakjorsel-pa-e18-i-nordre-follo--1.17976363",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 01 Aug 2026 21:15:43 GMT"
-    },
-    {
-      "title": "Italia har innført grensekontroll mot Spania",
-      "link": "https://www.nrk.no/nyheter/italia-har-innfort-grensekontroll-mot-spania-1.17976368",
-      "category": "Migranter i Europa",
-      "pubDate": "Sat, 01 Aug 2026 20:58:10 GMT"
-    },
-    {
-      "title": "Eksplosjon i Moskva skal ha vært bombe",
-      "link": "https://www.nrk.no/nyheter/eksplosjon-i-moskva-skal-ha-vaert-bombe-1.17976364",
-      "category": "Russland",
-      "pubDate": "Sat, 01 Aug 2026 20:47:25 GMT"
-    },
-    {
-      "title": "E16 på Voss er åpnet igjen etter ulykke",
-      "link": "https://www.nrk.no/nyheter/e16-pa-voss-er-apnet-igjen-etter-ulykke-1.17976362",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 01 Aug 2026 20:45:56 GMT"
-    },
-    {
-      "title": "WHO: Ebolautbruddet i Kongo er nå det største noensinne",
-      "link": "https://www.nrk.no/nyheter/who_-ebolautbruddet-i-kongo-er-na-det-storste-noensinne-1.17976361",
-      "category": "DR Kongo",
-      "pubDate": "Sat, 01 Aug 2026 20:41:01 GMT"
     }
   ]
 }
