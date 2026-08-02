@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-08-02T04:54:31.656Z",
+  "updatedAt": "2026-08-02T07:32:32.853Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Politiet: Gutt alvorlig skadet etter å ha blitt slått med balltre i Sarpsborg",
-      "link": "https://www.nrk.no/nyheter/politiet_-gutt-alvorlig-skadet-etter-a-ha-blitt-slatt-med-balltre-i-sarpsborg-1.17976401",
+      "title": "Ukrainsk donenangrep i Russland – minst to skal være drept",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-donenangrep-i-russland-_-minst-to-skal-vaere-drept-1.17976410",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 02 Aug 2026 07:04:51 GMT"
+    },
+    {
+      "title": "30 personar frå Forsvaret med i leiteaksjon i Bergen",
+      "link": "https://www.nrk.no/vestland/30-personar-fra-forsvaret-med-i-leiteaksjon-i-bergen-1.17976435",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 02 Aug 2026 06:53:32 GMT"
+    },
+    {
+      "title": "E18 inn mot Oslo er åpen for trafikk",
+      "link": "https://www.nrk.no/stor-oslo/e18-inn-mot-oslo-er-apen-for-trafikk-1.17976439",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 02 Aug 2026 06:29:18 GMT"
+    },
+    {
+      "title": "Varmerekord i Sør-Korea med 42,5 grader",
+      "link": "https://www.nrk.no/nyheter/varmerekord-i-sor-korea-med-42_5-grader-1.17976408",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sun, 02 Aug 2026 04:57:39 GMT"
+    },
+    {
+      "title": "Sarpsborg: Gutt alvorlig skadet – sier han ble angrepet med balltre",
+      "link": "https://www.nrk.no/nyheter/sarpsborg_-gutt-alvorlig-skadet-_-sier-han-ble-angrepet-med-balltre-1.17976401",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sun, 02 Aug 2026 04:42:42 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/masseslagsmal-i-halden-1.17976398",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sun, 02 Aug 2026 03:17:37 GMT"
-    },
-    {
-      "title": "Finsk statsborger stoppet på grensen med 633 liter lystgass",
-      "link": "https://www.nrk.no/nyheter/finsk-statsborger-stoppet-pa-grensen-med-633-liter-lystgass-1.17976397",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 02 Aug 2026 03:14:14 GMT"
-    },
-    {
-      "title": "Person slått ned med snøskuffe i Halden",
-      "link": "https://www.nrk.no/nyheter/person-slatt-ned-med-snoskuffe-i-halden-1.17976389",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 02 Aug 2026 03:06:38 GMT"
-    },
-    {
-      "title": "Trump seier han stoppar Iran-angrep fordi det nærmar seg ein avtale",
-      "link": "https://www.nrk.no/nyheter/trump-seier-han-stoppar-iran-angrep-fordi-det-naermar-seg-ein-avtale-1.17976387",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 02 Aug 2026 02:16:14 GMT"
-    },
-    {
-      "title": "Flere drept i skyteepisode i Idaho",
-      "link": "https://www.nrk.no/nyheter/flere-drept-i-skyteepisode-i-idaho-1.17976388",
-      "category": "USA",
-      "pubDate": "Sun, 02 Aug 2026 01:09:51 GMT"
     }
   ]
 }
