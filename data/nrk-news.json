@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-08-02T19:12:20.124Z",
+  "updatedAt": "2026-08-02T20:28:02.594Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Politiet hentet ut etterlatt hund på Lillestrøm",
+      "link": "https://www.nrk.no/nyheter/politiet-hentet-ut-etterlatt-hund-pa-lillestrom-1.17976932",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 02 Aug 2026 20:20:40 GMT"
+    },
+    {
+      "title": "Marokko klandrer sosiale medier og menneskesmuglere for migrantstrøm",
+      "link": "https://www.nrk.no/nyheter/marokko-klandrer-sosiale-medier-og-menneskesmuglere-for-migrantstrom-1.17976916",
+      "category": "Migranter i Europa",
+      "pubDate": "Sun, 02 Aug 2026 19:44:37 GMT"
+    },
+    {
       "title": "72 døde og 1000 skadde i spanske Ceuta",
       "link": "https://www.nrk.no/nyheter/72-dode-og-1000-skadde-i-spanske-ceuta-1.17976903",
-      "category": "NRK Nyheter",
+      "category": "Migranter i Europa",
       "pubDate": "Sun, 02 Aug 2026 19:11:36 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rykket-til-brann-i-naeringsbygg-i-mysen-1.17976763",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sun, 02 Aug 2026 15:40:05 GMT"
-    },
-    {
-      "title": "Svensk påtalemakt mener fritidsbåt ble påkjørt av norsk skip",
-      "link": "https://www.nrk.no/nyheter/svensk-patalemakt-mener-fritidsbat-ble-pakjort-av-norsk-skip-1.17976760",
-      "category": "Sverige",
-      "pubDate": "Sun, 02 Aug 2026 15:06:36 GMT"
-    },
-    {
-      "title": "Mann pågrepet i Hellas etter funn av død britisk kvinne i koffert",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-i-hellas-etter-funn-av-dod-britisk-kvinne-i-koffert-1.17976705",
-      "category": "Hellas",
-      "pubDate": "Sun, 02 Aug 2026 14:53:51 GMT"
     }
   ]
 }
