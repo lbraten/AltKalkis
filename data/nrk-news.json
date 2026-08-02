@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-02T12:34:57.266Z",
+  "updatedAt": "2026-08-02T14:36:27.631Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To døde og to skadde i helikopterkollisjon i Hellas",
+      "link": "https://www.nrk.no/nyheter/to-dode-og-to-skadde-i-helikopterkollisjon-i-hellas-1.17976685",
+      "category": "Hellas",
+      "pubDate": "Sun, 02 Aug 2026 13:29:35 GMT"
+    },
+    {
+      "title": "Kaptein på norsk skip varetektsfengsles i Sverige – nekter straffskyld",
+      "link": "https://www.nrk.no/nyheter/kaptein-pa-norsk-skip-varetektsfengsles-i-sverige-_-nekter-straffskyld-1.17976658",
+      "category": "Sverige",
+      "pubDate": "Sun, 02 Aug 2026 13:16:25 GMT"
+    },
+    {
+      "title": "Utestedet Salt åpner igjen om tre uker",
+      "link": "https://www.nrk.no/stor-oslo/utestedet-salt-apner-igjen-om-tre-uker-1.17976626",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 02 Aug 2026 12:52:39 GMT"
+    },
     {
       "title": "OPEC+ øker oljeproduksjonen i september",
       "link": "https://www.nrk.no/nyheter/opec_-oker-oljeproduksjonen-i-september-1.17976644",
@@ -9,34 +27,16 @@
       "pubDate": "Sun, 02 Aug 2026 12:31:57 GMT"
     },
     {
+      "title": "Dataangrepet mot Norsk Tipping er avsluttet – stenger oddsspill",
+      "link": "https://www.nrk.no/innlandet/dataangrepet-mot-norsk-tipping-er-avsluttet-_-stenger-oddsspill-1.17976609",
+      "category": "Norsk Tipping",
+      "pubDate": "Sun, 02 Aug 2026 12:15:32 GMT"
+    },
+    {
       "title": "Kontroll på brann i Oslo – ikke spredningsfare",
       "link": "https://www.nrk.no/stor-oslo/kontroll-pa-brann-i-oslo-_-ikke-spredningsfare-1.17976457",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 02 Aug 2026 11:51:59 GMT"
-    },
-    {
-      "title": "Mopedbil og lastebil i ulykke i Førde",
-      "link": "https://www.nrk.no/vestland/mopedbil-og-lastebil-i-ulykke-i-forde-1.17976597",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 02 Aug 2026 11:27:08 GMT"
-    },
-    {
-      "title": "Norsk Tipping utsatt for dataangrep",
-      "link": "https://www.nrk.no/innlandet/norsk-tipping-utsatt-for-dataangrep-1.17976508",
-      "category": "Norsk Tipping",
-      "pubDate": "Sun, 02 Aug 2026 11:26:56 GMT"
-    },
-    {
-      "title": "Masseslagsmål før eliteseriekamp: Politiet vurderer straffeforfølgelse",
-      "link": "https://www.nrk.no/sorlandet/masseslagsmal-for-eliteseriekamp_-politiet-vurderer-straffeforfolgelse-1.17976526",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 02 Aug 2026 10:09:27 GMT"
-    },
-    {
-      "title": "Kroppen til den døde klatreren Nirmal Purja er funnet",
-      "link": "https://www.nrk.no/nyheter/kroppen-til-den-dode-klatreren-nirmal-purja-er-funnet-1.17976532",
-      "category": "Klatring",
-      "pubDate": "Sun, 02 Aug 2026 09:30:47 GMT"
     }
   ]
 }
