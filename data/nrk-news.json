@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-02T16:01:55.232Z",
+  "updatedAt": "2026-08-02T17:32:03.848Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Åtte politibetjenter blant 14 drepte i selvmordsangrep i Pakistan",
+      "link": "https://www.nrk.no/nyheter/atte-politibetjenter-blant-14-drepte-i-selvmordsangrep-i-pakistan-1.17976780",
+      "category": "Pakistan",
+      "pubDate": "Sun, 02 Aug 2026 16:10:32 GMT"
+    },
     {
       "title": "Rykket til brann i næringsbygg i Mysen",
       "link": "https://www.nrk.no/nyheter/rykket-til-brann-i-naeringsbygg-i-mysen-1.17976763",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kaptein-pa-norsk-skip-varetektsfengsles-i-sverige-_-nekter-straffskyld-1.17976658",
       "category": "Sverige",
       "pubDate": "Sun, 02 Aug 2026 13:16:25 GMT"
-    },
-    {
-      "title": "Utestedet Salt åpner igjen om tre uker",
-      "link": "https://www.nrk.no/stor-oslo/utestedet-salt-apner-igjen-om-tre-uker-1.17976626",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 02 Aug 2026 12:52:39 GMT"
     }
   ]
 }
