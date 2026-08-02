@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-02T20:28:02.594Z",
+  "updatedAt": "2026-08-02T21:27:26.386Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Melding om voldshendelse i en buss ved Jessheim",
+      "link": "https://www.nrk.no/nyheter/melding-om-voldshendelse-i-en-buss-ved-jessheim--1.17976938",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 02 Aug 2026 21:18:02 GMT"
+    },
+    {
+      "title": "Minst 35 drept i droneangrep fra den sudanske regjeringshæren i Darfur, ifølge menneskerettsgruppe",
+      "link": "https://www.nrk.no/nyheter/minst-35-drept-i-droneangrep-fra-den-sudanske-regjeringshaeren-i-darfur_-ifolge-menneskerettsgruppe-1.17976937",
+      "category": "Sudan",
+      "pubDate": "Sun, 02 Aug 2026 20:47:45 GMT"
+    },
+    {
+      "title": "E6 stengt ved Vinstra etter bilbrann",
+      "link": "https://www.nrk.no/nyheter/e6-stengt-ved-vinstra-etter-bilbrann-1.17976933",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sun, 02 Aug 2026 20:36:16 GMT"
+    },
     {
       "title": "Politiet hentet ut etterlatt hund på Lillestrøm",
       "link": "https://www.nrk.no/nyheter/politiet-hentet-ut-etterlatt-hund-pa-lillestrom-1.17976932",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/72-dode-og-1000-skadde-i-spanske-ceuta-1.17976903",
       "category": "Migranter i Europa",
       "pubDate": "Sun, 02 Aug 2026 19:11:36 GMT"
-    },
-    {
-      "title": "– Infantino er ikke rett mann til å lede Fifa, sier Storbritannias statsminister",
-      "link": "https://www.nrk.no/nyheter/_-infantino-er-ikke-rett-mann-til-a-lede-fifa_-sier-storbritannias-statsminister-1.17976802",
-      "category": "Sportsnyheter",
-      "pubDate": "Sun, 02 Aug 2026 18:31:41 GMT"
-    },
-    {
-      "title": "Åtte politibetjenter blant 14 drepte i selvmordsangrep i Pakistan",
-      "link": "https://www.nrk.no/nyheter/atte-politibetjenter-blant-14-drepte-i-selvmordsangrep-i-pakistan-1.17976780",
-      "category": "Pakistan",
-      "pubDate": "Sun, 02 Aug 2026 16:10:32 GMT"
-    },
-    {
-      "title": "Rykket til brann i næringsbygg i Mysen",
-      "link": "https://www.nrk.no/nyheter/rykket-til-brann-i-naeringsbygg-i-mysen-1.17976763",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 02 Aug 2026 15:40:05 GMT"
     }
   ]
 }
