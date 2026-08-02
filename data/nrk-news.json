@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-02T21:27:26.386Z",
+  "updatedAt": "2026-08-02T22:29:15.282Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump: forhandlingene gjenopptas med Iran mandag",
+      "link": "https://www.nrk.no/nyheter/trump_-forhandlingene-gjenopptas-med-iran-mandag-1.17976946",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 02 Aug 2026 22:00:58 GMT"
+    },
     {
       "title": "Melding om voldshendelse i en buss ved Jessheim",
       "link": "https://www.nrk.no/nyheter/melding-om-voldshendelse-i-en-buss-ved-jessheim--1.17976938",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/marokko-klandrer-sosiale-medier-og-menneskesmuglere-for-migrantstrom-1.17976916",
       "category": "Migranter i Europa",
       "pubDate": "Sun, 02 Aug 2026 19:44:37 GMT"
-    },
-    {
-      "title": "72 døde og 1000 skadde i spanske Ceuta",
-      "link": "https://www.nrk.no/nyheter/72-dode-og-1000-skadde-i-spanske-ceuta-1.17976903",
-      "category": "Migranter i Europa",
-      "pubDate": "Sun, 02 Aug 2026 19:11:36 GMT"
     }
   ]
 }
