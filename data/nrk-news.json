@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-03T21:40:13.965Z",
+  "updatedAt": "2026-08-03T23:01:53.482Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Strømbrudd på Cuba",
+      "link": "https://www.nrk.no/nyheter/strombrudd-pa-cuba-1.17978033",
+      "category": "Cuba",
+      "pubDate": "Mon, 03 Aug 2026 22:59:58 GMT"
+    },
+    {
+      "title": "Venezuela: Over 6.100 døde",
+      "link": "https://www.nrk.no/nyheter/venezuela_-over-6.100-dode-1.17978025",
+      "category": "Venezuela",
+      "pubDate": "Mon, 03 Aug 2026 22:10:54 GMT"
+    },
     {
       "title": "Nordland: Person funnet, leteaksjon avblåst",
       "link": "https://www.nrk.no/nyheter/nordland_-person-funnet_-leteaksjon-avblast-1.17978023",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nordland/redningsaksjon-i-borgefjell-1.17977861",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Mon, 03 Aug 2026 19:43:52 GMT"
-    },
-    {
-      "title": "Zelenskyj avskjediger ambassadøren til USA",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-avskjediger-ambassadoren-til-usa--1.17977938",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 03 Aug 2026 19:41:04 GMT"
-    },
-    {
-      "title": "Barna funnet i god behold",
-      "link": "https://www.nrk.no/rogaland/barna-funnet-i-god-behold-1.17977949",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 03 Aug 2026 19:24:45 GMT"
     }
   ]
 }
