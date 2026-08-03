@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-03T10:24:47.751Z",
+  "updatedAt": "2026-08-03T13:24:44.150Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Regjeringen om Fifa-bråket:",
+      "link": "https://www.nrk.no/nyheter/regjeringen-om-fifa-braket_-1.17977591",
+      "category": "Fifa",
+      "pubDate": "Mon, 03 Aug 2026 13:22:59 GMT"
+    },
+    {
+      "title": "Fremdeles driftsproblemer på flere tjenester",
+      "link": "https://www.nrk.no/nyheter/fremdeles-driftsproblemer-pa-flere-tjenester-1.17977529",
+      "category": "Datasikkerhet",
+      "pubDate": "Mon, 03 Aug 2026 13:17:44 GMT"
+    },
+    {
+      "title": "Digidir: Digitale tjenester oppe igjen",
+      "link": "https://www.nrk.no/nyheter/digidir_-digitale-tjenester-oppe-igjen-1.17977482",
+      "category": "Datasikkerhet",
+      "pubDate": "Mon, 03 Aug 2026 11:59:55 GMT"
+    },
+    {
+      "title": "Offentlige digitale løsninger nede: – Vi jobber fortsatt med å løse problemet.",
+      "link": "https://www.nrk.no/nyheter/offentlige-digitale-losninger-nede_-_-vi-jobber-fortsatt-med-a-lose-problemet.--1.17977300",
+      "category": "Datasikkerhet",
+      "pubDate": "Mon, 03 Aug 2026 11:33:28 GMT"
+    },
     {
       "title": "Varsler SAS-streik fra lørdag.",
       "link": "https://www.nrk.no/nyheter/varsler-sas-streik-fra-lordag.-1.17977296",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/laerer-i-akershus-siktet-for-overgrep-mot-barn-mellom-14-og-16-ar.-1.17977289",
       "category": "high",
       "pubDate": "Mon, 03 Aug 2026 09:35:03 GMT"
-    },
-    {
-      "title": "Flere evakueres i Hellas",
-      "link": "https://www.nrk.no/nyheter/flere-evakueres-i-hellas-1.17977277",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Mon, 03 Aug 2026 09:27:03 GMT"
-    },
-    {
-      "title": "Prisene på Obos-leiligheter i Oslo steg i juli",
-      "link": "https://www.nrk.no/nyheter/prisene-pa-obos-leiligheter-i-oslo-steg-i-juli-1.17977255",
-      "category": "Boligmarkedet",
-      "pubDate": "Mon, 03 Aug 2026 09:17:32 GMT"
-    },
-    {
-      "title": "Norges eldste – Lina Anundsen (111) er død",
-      "link": "https://www.nrk.no/vestfoldogtelemark/norges-eldste-_-lina-anundsen-_111_-er-dod-1.17977242",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 03 Aug 2026 08:57:49 GMT"
-    },
-    {
-      "title": "Iran: Ingen pågående samtaler med USA",
-      "link": "https://www.nrk.no/nyheter/iran_-ingen-pagaende-samtaler-med-usa-1.17977152",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 03 Aug 2026 07:36:01 GMT"
     }
   ]
 }
