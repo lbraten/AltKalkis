@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-03T20:11:41.614Z",
+  "updatedAt": "2026-08-03T21:40:13.965Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nordland: Person funnet, leteaksjon avblåst",
+      "link": "https://www.nrk.no/nyheter/nordland_-person-funnet_-leteaksjon-avblast-1.17978023",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Mon, 03 Aug 2026 21:30:04 GMT"
+    },
+    {
+      "title": "Digdir: De fleste løsningene fungerer",
+      "link": "https://www.nrk.no/nyheter/digdir_-de-fleste-losningene-fungerer-1.17977995",
+      "category": "Datasikkerhet",
+      "pubDate": "Mon, 03 Aug 2026 20:27:49 GMT"
+    },
+    {
+      "title": "25 demokratledede delstater saksøker Trump-administrasjonen over nye tollsatser",
+      "link": "https://www.nrk.no/nyheter/25-demokratledede-delstater-saksoker-trump-administrasjonen-over-nye-tollsatser-1.17977974",
+      "category": "USA",
+      "pubDate": "Mon, 03 Aug 2026 20:18:51 GMT"
+    },
     {
       "title": "Redningsaksjon i Børgefjell",
       "link": "https://www.nrk.no/nordland/redningsaksjon-i-borgefjell-1.17977861",
@@ -15,28 +33,10 @@
       "pubDate": "Mon, 03 Aug 2026 19:41:04 GMT"
     },
     {
-      "title": "Leter etter to fireåringer i Sandnes",
-      "link": "https://www.nrk.no/rogaland/leter-etter-to-firearinger-i-sandnes-1.17977949",
+      "title": "Barna funnet i god behold",
+      "link": "https://www.nrk.no/rogaland/barna-funnet-i-god-behold-1.17977949",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Mon, 03 Aug 2026 19:24:45 GMT"
-    },
-    {
-      "title": "Fredsrådet sier avvæpning må skje før tilbaketrekning",
-      "link": "https://www.nrk.no/nyheter/fredsradet-sier-avvaepning-ma-skje-for-tilbaketrekning-1.17977942",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 03 Aug 2026 19:17:59 GMT"
-    },
-    {
-      "title": "Politiet har igangsatt redningsaksjon etter savnet mann i Øvre Eiker",
-      "link": "https://www.nrk.no/buskerud/politiet-har-igangsatt-redningsaksjon-etter-savnet-mann-i-ovre-eiker-1.17977936",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Mon, 03 Aug 2026 19:00:03 GMT"
-    },
-    {
-      "title": "USA: Støtter nominasjon etter omstridt fond er skrotet",
-      "link": "https://www.nrk.no/nyheter/usa_-stotter-nominasjon-etter-omstridt-fond-er-skrotet-1.17977925",
-      "category": "USA",
-      "pubDate": "Mon, 03 Aug 2026 18:42:34 GMT"
     }
   ]
 }
