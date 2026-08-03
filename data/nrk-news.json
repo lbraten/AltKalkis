@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-02T23:32:20.835Z",
+  "updatedAt": "2026-08-03T02:56:31.386Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Tankskip melder om eksplosjon utenfor Oman",
-      "link": "https://www.nrk.no/nyheter/tankskip-melder-om-eksplosjon-utenfor-oman-1.17976944",
+      "title": "To personer til sykehus etter at bygning raste i Sydney",
+      "link": "https://www.nrk.no/nyheter/to-personer-til-sykehus-etter-at-bygning-raste-i-sydney-1.17976951",
+      "category": "Australia",
+      "pubDate": "Mon, 03 Aug 2026 02:39:01 GMT"
+    },
+    {
+      "title": "Hundrevis på flukt fra jihadistangrep i Niger",
+      "link": "https://www.nrk.no/nyheter/hundrevis-pa-flukt-fra-jihadistangrep-i-niger-1.17976973",
       "category": "NRK Nyheter",
-      "pubDate": "Sun, 02 Aug 2026 23:05:53 GMT"
+      "pubDate": "Mon, 03 Aug 2026 02:15:20 GMT"
     },
     {
-      "title": "Trump: forhandlingene gjenopptas med Iran mandag",
-      "link": "https://www.nrk.no/nyheter/trump_-forhandlingene-gjenopptas-med-iran-mandag-1.17976946",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 02 Aug 2026 22:00:58 GMT"
+      "title": "Viagra kan ha evna til å stoppe kreft frå å spreie seg",
+      "link": "https://www.nrk.no/nyheter/viagra-kan-ha-evna-til-a-stoppe-kreft-fra-a-spreie-seg-1.17976954",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 03 Aug 2026 01:41:53 GMT"
     },
     {
-      "title": "Melding om voldshendelse i en buss ved Jessheim",
-      "link": "https://www.nrk.no/nyheter/melding-om-voldshendelse-i-en-buss-ved-jessheim--1.17976938",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 02 Aug 2026 21:18:02 GMT"
+      "title": "Kvinne til sykehus etter ulykke med elsparkesykkel",
+      "link": "https://www.nrk.no/nyheter/kvinne-til-sykehus-etter-ulykke-med-elsparkesykkel-1.17976972",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 03 Aug 2026 01:16:33 GMT"
     },
     {
-      "title": "Minst 35 drept i droneangrep fra den sudanske regjeringshæren i Darfur, ifølge menneskerettsgruppe",
-      "link": "https://www.nrk.no/nyheter/minst-35-drept-i-droneangrep-fra-den-sudanske-regjeringshaeren-i-darfur_-ifolge-menneskerettsgruppe-1.17976937",
-      "category": "Sudan",
-      "pubDate": "Sun, 02 Aug 2026 20:47:45 GMT"
-    },
-    {
-      "title": "E6 stengt ved Vinstra etter bilbrann",
-      "link": "https://www.nrk.no/nyheter/e6-stengt-ved-vinstra-etter-bilbrann-1.17976933",
+      "title": "Lastebil med henger stjålet fra Dokka",
+      "link": "https://www.nrk.no/nyheter/lastebil-med-henger-stjalet-fra-dokka--1.17976971",
       "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 02 Aug 2026 20:36:16 GMT"
+      "pubDate": "Mon, 03 Aug 2026 01:11:19 GMT"
     },
     {
-      "title": "Politiet hentet ut etterlatt hund på Lillestrøm",
-      "link": "https://www.nrk.no/nyheter/politiet-hentet-ut-etterlatt-hund-pa-lillestrom-1.17976932",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 02 Aug 2026 20:20:40 GMT"
+      "title": "Trøbbel for offentlige digitaltjenester",
+      "link": "https://www.nrk.no/nyheter/trobbel-for-offentlige-digitaltjenester--1.17976970",
+      "category": "Datasikkerhet",
+      "pubDate": "Mon, 03 Aug 2026 00:32:31 GMT"
     }
   ]
 }
