@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-04T22:13:31.436Z",
+  "updatedAt": "2026-08-04T23:33:03.876Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kvinne funnet død i Stockholm: Mistanke om drap",
+      "link": "https://www.nrk.no/nyheter/kvinne-funnet-dod-i-stockholm_-mistanke-om-drap-1.17979173",
+      "category": "Sverige",
+      "pubDate": "Tue, 04 Aug 2026 22:48:19 GMT"
+    },
+    {
+      "title": "Ordfører: – Brann i boligblokk etter luftangrep",
+      "link": "https://www.nrk.no/nyheter/ordforer_-_-brann-i-boligblokk-etter-luftangrep-1.17979165",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 04 Aug 2026 22:13:59 GMT"
+    },
     {
       "title": "Kyiv-ordfører: – Russisk luftangrep mot Kyiv",
       "link": "https://www.nrk.no/nyheter/kyiv-ordforer_-_-russisk-luftangrep-mot-kyiv-1.17979160",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/siktet-etter-dodsfall-i-kalvag-varetektsfengsles-i-fire-uker--1.17978920",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Tue, 04 Aug 2026 18:20:13 GMT"
-    },
-    {
-      "title": "Guatemala: Høyeste farenivå etter vulkanutbrudd",
-      "link": "https://www.nrk.no/nyheter/guatemala_-hoyeste-fareniva-etter-vulkanutbrudd-1.17978939",
-      "category": "Guatemala",
-      "pubDate": "Tue, 04 Aug 2026 17:44:59 GMT"
-    },
-    {
-      "title": "Justisminister Aas-Hansen om Ceuta: - En test på hvordan vi står samlet i Euopa",
-      "link": "https://www.nrk.no/nyheter/justisminister-aas-hansen-om-ceuta_---en-test-pa-hvordan-vi-star-samlet-i-euopa-1.17978937",
-      "category": "Migranter i Europa",
-      "pubDate": "Tue, 04 Aug 2026 17:06:54 GMT"
     }
   ]
 }
