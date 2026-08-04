@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-08-04T17:12:22.185Z",
+  "updatedAt": "2026-08-04T19:07:01.091Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Siktet etter dødsfall i Kalvåg varetektsfengsles i fire uker",
+      "link": "https://www.nrk.no/vestland/siktet-etter-dodsfall-i-kalvag-varetektsfengsles-i-fire-uker--1.17978920",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 04 Aug 2026 18:20:13 GMT"
+    },
+    {
+      "title": "Guatemala: Høyeste farenivå etter vulkanutbrudd",
+      "link": "https://www.nrk.no/nyheter/guatemala_-hoyeste-fareniva-etter-vulkanutbrudd-1.17978939",
+      "category": "Guatemala",
+      "pubDate": "Tue, 04 Aug 2026 17:44:59 GMT"
+    },
+    {
       "title": "Justisminister Aas-Hansen om Ceuta: - En test på hvordan vi står samlet i Euopa",
       "link": "https://www.nrk.no/nyheter/justisminister-aas-hansen-om-ceuta_---en-test-pa-hvordan-vi-star-samlet-i-euopa-1.17978937",
-      "category": "NRK Nyheter",
+      "category": "Migranter i Europa",
       "pubDate": "Tue, 04 Aug 2026 17:06:54 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/losen-nekter-straffskyld-etter-batulykken-1.17978781",
       "category": "Sverige",
       "pubDate": "Tue, 04 Aug 2026 15:54:27 GMT"
-    },
-    {
-      "title": "Guatemala evakuerer landsbyer etter vulkanutbrudd",
-      "link": "https://www.nrk.no/nyheter/guatemala-evakuerer-landsbyer-etter-vulkanutbrudd-1.17978863",
-      "category": "Guatemala",
-      "pubDate": "Tue, 04 Aug 2026 15:28:08 GMT"
-    },
-    {
-      "title": "Fikk fortsette i kirken etter varsler om overgrep",
-      "link": "https://www.nrk.no/stor-oslo/fikk-fortsette-i-kirken-etter-varsler-om-overgrep-1.17978652",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 04 Aug 2026 14:48:45 GMT"
     }
   ]
 }
