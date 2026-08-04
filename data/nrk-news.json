@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-04T04:20:19.687Z",
+  "updatedAt": "2026-08-04T07:13:29.032Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "To pågrepet i Asker",
-      "link": "https://www.nrk.no/nyheter/to-pagrepet-i-asker-1.17978066",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 04 Aug 2026 03:38:14 GMT"
+      "title": "Sevastopol på russiskokkuperte Krym",
+      "link": "https://www.nrk.no/nyheter/sevastopol-pa-russiskokkuperte-krym-1.17978181",
+      "category": "Drukning og badeulykker",
+      "pubDate": "Tue, 04 Aug 2026 07:12:11 GMT"
     },
     {
-      "title": "Guvernør: Droneangrep utenfor St. Petersburg",
-      "link": "https://www.nrk.no/nyheter/guvernor_-droneangrep-utenfor-st.-petersburg-1.17978043",
+      "title": "Russisk soldat skjøt tre sivile på Krym",
+      "link": "https://www.nrk.no/nyheter/russisk-soldat-skjot-tre-sivile-pa-krym-1.17978161",
+      "category": "Russland",
+      "pubDate": "Tue, 04 Aug 2026 06:42:46 GMT"
+    },
+    {
+      "title": "Irans president: Ønsker ikke å utvide krigen",
+      "link": "https://www.nrk.no/nyheter/irans-president_-onsker-ikke-a-utvide-krigen-1.17978151",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 04 Aug 2026 06:11:22 GMT"
+    },
+    {
+      "title": "Eide støtter Spanias håndtering av migrantkrisen i Ceuta",
+      "link": "https://www.nrk.no/nyheter/eide-stotter-spanias-handtering-av-migrantkrisen-i-ceuta-1.17978117",
+      "category": "Migranter i Europa",
+      "pubDate": "Tue, 04 Aug 2026 06:00:24 GMT"
+    },
+    {
+      "title": "Mann mistenkt for å ha startet skogbrann i Washington – 67.000 evakuert",
+      "link": "https://www.nrk.no/nyheter/mann-mistenkt-for-a-ha-startet-skogbrann-i-washington-_-67.000-evakuert-1.17978093",
+      "category": "Skogbranner i USA",
+      "pubDate": "Tue, 04 Aug 2026 05:17:05 GMT"
+    },
+    {
+      "title": "Fem drept i droneangrep mot Moskva",
+      "link": "https://www.nrk.no/nyheter/fem-drept-i-droneangrep-mot-moskva-1.17978092",
       "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 04 Aug 2026 03:16:30 GMT"
-    },
-    {
-      "title": "Røykgranat mot bolig i Asker",
-      "link": "https://www.nrk.no/nyheter/roykgranat-mot-bolig-i-asker-1.17978042",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 04 Aug 2026 02:50:52 GMT"
-    },
-    {
-      "title": "Ukrainske myndigheter: Én drept i Sumy",
-      "link": "https://www.nrk.no/nyheter/ukrainske-myndigheter_-en-drept-i-sumy-1.17978040",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 04 Aug 2026 02:41:30 GMT"
-    },
-    {
-      "title": "Seter brant ned i Trøndelag",
-      "link": "https://www.nrk.no/nyheter/seter-brant-ned-i-trondelag-1.17978039",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Tue, 04 Aug 2026 01:42:17 GMT"
-    },
-    {
-      "title": "Nyhetsbyrå: Meldinger om droner mot tyrkisk lasteskip",
-      "link": "https://www.nrk.no/nyheter/nyhetsbyra_-meldinger-om-droner-mot-tyrkisk-lasteskip-1.17978038",
-      "category": "Tyrkia",
-      "pubDate": "Tue, 04 Aug 2026 01:21:11 GMT"
+      "pubDate": "Tue, 04 Aug 2026 04:21:10 GMT"
     }
   ]
 }
