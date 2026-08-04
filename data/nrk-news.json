@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-04T20:51:57.114Z",
+  "updatedAt": "2026-08-04T22:13:31.436Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kyiv-ordfører: – Russisk luftangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/kyiv-ordforer_-_-russisk-luftangrep-mot-kyiv-1.17979160",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 04 Aug 2026 21:48:16 GMT"
+    },
     {
       "title": "Brasils ambassadør fratas visum til USA",
       "link": "https://www.nrk.no/nyheter/brasils-ambassador-fratas-visum-til-usa-1.17979122",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/justisminister-aas-hansen-om-ceuta_---en-test-pa-hvordan-vi-star-samlet-i-euopa-1.17978937",
       "category": "Migranter i Europa",
       "pubDate": "Tue, 04 Aug 2026 17:06:54 GMT"
-    },
-    {
-      "title": "Indisk skip beskutt og forlist utenfor Jemen",
-      "link": "https://www.nrk.no/nyheter/indisk-skip-beskutt-og-forlist-utenfor-jemen-1.17978895",
-      "category": "Jemen",
-      "pubDate": "Tue, 04 Aug 2026 16:52:51 GMT"
     }
   ]
 }
