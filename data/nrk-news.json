@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-04T12:25:26.843Z",
+  "updatedAt": "2026-08-04T15:01:53.246Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "SAS: – Mål om å komme frem til en løsning så raskt som mulig",
+      "link": "https://www.nrk.no/nyheter/sas_-_-mal-om-a-komme-frem-til-en-losning-sa-raskt-som-mulig-1.17978809",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 04 Aug 2026 14:02:50 GMT"
+    },
+    {
+      "title": "Norge med støtte til Spania under EU-møte",
+      "link": "https://www.nrk.no/nyheter/norge-med-stotte-til-spania-under-eu-mote-1.17978738",
+      "category": "Migranter i Europa",
+      "pubDate": "Tue, 04 Aug 2026 13:32:46 GMT"
+    },
+    {
+      "title": "NSM: IT-forstyrrelser var ikke et alvorlig dataangrep",
+      "link": "https://www.nrk.no/nyheter/nsm_-it-forstyrrelser-var-ikke-et-alvorlig-dataangrep-1.17978737",
+      "category": "Datasikkerhet",
+      "pubDate": "Tue, 04 Aug 2026 13:08:42 GMT"
+    },
+    {
+      "title": "Tidenes varmeste dag i Wien",
+      "link": "https://www.nrk.no/nyheter/tidenes-varmeste-dag-i-wien-1.17978660",
+      "category": "Østerrike",
+      "pubDate": "Tue, 04 Aug 2026 13:07:56 GMT"
+    },
+    {
+      "title": "Én til sykehus etter boligbrann i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/en-til-sykehus-etter-boligbrann-i-oslo-1.17978580",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 04 Aug 2026 12:21:55 GMT"
+    },
     {
       "title": "Gigantkontrakt for KI-datasenter i Tydal – verdi på 55 milliarder kroner",
       "link": "https://www.nrk.no/nyheter/gigantkontrakt-for-ki-datasenter-i-tydal-_-verdi-pa-55-milliarder-kroner-1.17978598",
       "category": "Datasenter",
       "pubDate": "Tue, 04 Aug 2026 12:04:35 GMT"
-    },
-    {
-      "title": "70.000 ble sendt tilbake til Marokko fra Ceuta i helgen",
-      "link": "https://www.nrk.no/nyheter/70.000-ble-sendt-tilbake-til-marokko-fra-ceuta-i-helgen-1.17978533",
-      "category": "Migranter i Europa",
-      "pubDate": "Tue, 04 Aug 2026 11:53:38 GMT"
-    },
-    {
-      "title": "Gir grønt lys for verdens første permanente atomavfallslager",
-      "link": "https://www.nrk.no/nyheter/gir-gront-lys-for-verdens-forste-permanente-atomavfallslager-1.17978427",
-      "category": "Lagring av atomavfall",
-      "pubDate": "Tue, 04 Aug 2026 11:14:59 GMT"
-    },
-    {
-      "title": "Migrantbåt tok fyr i Den engelske kanal, 157 reddet",
-      "link": "https://www.nrk.no/nyheter/migrantbat-tok-fyr-i-den-engelske-kanal_-157-reddet-1.17978392",
-      "category": "Migranter i Europa",
-      "pubDate": "Tue, 04 Aug 2026 09:55:19 GMT"
-    },
-    {
-      "title": "Retten vil løslate drapstiltalt",
-      "link": "https://www.nrk.no/stor-oslo/retten-vil-loslate-drapstiltalt--1.17978418",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 04 Aug 2026 09:53:31 GMT"
-    },
-    {
-      "title": "Tyrkia ber Russland og Ukraina om trygging i Svartehavet etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/tyrkia-ber-russland-og-ukraina-om-trygging-i-svartehavet-etter-droneangrep-1.17978257",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 04 Aug 2026 09:14:29 GMT"
     }
   ]
 }
