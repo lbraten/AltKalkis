@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-04T19:07:01.091Z",
+  "updatedAt": "2026-08-04T20:51:57.114Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brasils ambassadør fratas visum til USA",
+      "link": "https://www.nrk.no/nyheter/brasils-ambassador-fratas-visum-til-usa-1.17979122",
+      "category": "USA",
+      "pubDate": "Tue, 04 Aug 2026 20:32:24 GMT"
+    },
+    {
+      "title": "Norsk Tipping utsatt for dataangrep",
+      "link": "https://www.nrk.no/innlandet/norsk-tipping-utsatt-for-dataangrep-1.17979083",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Tue, 04 Aug 2026 19:41:55 GMT"
+    },
     {
       "title": "Siktet etter dødsfall i Kalvåg varetektsfengsles i fire uker",
       "link": "https://www.nrk.no/vestland/siktet-etter-dodsfall-i-kalvag-varetektsfengsles-i-fire-uker--1.17978920",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/indisk-skip-beskutt-og-forlist-utenfor-jemen-1.17978895",
       "category": "Jemen",
       "pubDate": "Tue, 04 Aug 2026 16:52:51 GMT"
-    },
-    {
-      "title": "Rykket ut til melding om kvinne med pistol i Bergen – var falsk alarm",
-      "link": "https://www.nrk.no/vestland/rykket-ut-til-melding-om-kvinne-med-pistol-i-bergen-_-var-falsk-alarm--1.17978882",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 04 Aug 2026 15:55:18 GMT"
-    },
-    {
-      "title": "Losen nekter straffskyld etter båtulykken",
-      "link": "https://www.nrk.no/nyheter/losen-nekter-straffskyld-etter-batulykken-1.17978781",
-      "category": "Sverige",
-      "pubDate": "Tue, 04 Aug 2026 15:54:27 GMT"
     }
   ]
 }
