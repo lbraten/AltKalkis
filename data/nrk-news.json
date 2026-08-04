@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-04T10:10:40.818Z",
+  "updatedAt": "2026-08-04T12:25:26.843Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Migrantbåt tok fyr i den Engelske kanal, 157 reddet",
+      "title": "Gigantkontrakt for KI-datasenter i Tydal – verdi på 55 milliarder kroner",
+      "link": "https://www.nrk.no/nyheter/gigantkontrakt-for-ki-datasenter-i-tydal-_-verdi-pa-55-milliarder-kroner-1.17978598",
+      "category": "Datasenter",
+      "pubDate": "Tue, 04 Aug 2026 12:04:35 GMT"
+    },
+    {
+      "title": "70.000 ble sendt tilbake til Marokko fra Ceuta i helgen",
+      "link": "https://www.nrk.no/nyheter/70.000-ble-sendt-tilbake-til-marokko-fra-ceuta-i-helgen-1.17978533",
+      "category": "Migranter i Europa",
+      "pubDate": "Tue, 04 Aug 2026 11:53:38 GMT"
+    },
+    {
+      "title": "Gir grønt lys for verdens første permanente atomavfallslager",
+      "link": "https://www.nrk.no/nyheter/gir-gront-lys-for-verdens-forste-permanente-atomavfallslager-1.17978427",
+      "category": "Lagring av atomavfall",
+      "pubDate": "Tue, 04 Aug 2026 11:14:59 GMT"
+    },
+    {
+      "title": "Migrantbåt tok fyr i Den engelske kanal, 157 reddet",
       "link": "https://www.nrk.no/nyheter/migrantbat-tok-fyr-i-den-engelske-kanal_-157-reddet-1.17978392",
       "category": "Migranter i Europa",
       "pubDate": "Tue, 04 Aug 2026 09:55:19 GMT"
+    },
+    {
+      "title": "Retten vil løslate drapstiltalt",
+      "link": "https://www.nrk.no/stor-oslo/retten-vil-loslate-drapstiltalt--1.17978418",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 04 Aug 2026 09:53:31 GMT"
     },
     {
       "title": "Tyrkia ber Russland og Ukraina om trygging i Svartehavet etter droneangrep",
       "link": "https://www.nrk.no/nyheter/tyrkia-ber-russland-og-ukraina-om-trygging-i-svartehavet-etter-droneangrep-1.17978257",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 04 Aug 2026 09:14:29 GMT"
-    },
-    {
-      "title": "Aftenbladet: Tre nye tenåringer tiltalt i sak om drapsforbund i England",
-      "link": "https://www.nrk.no/rogaland/aftenbladet_-tre-nye-tenaringer-tiltalt-i-sak-om-drapsforbund-i-england-1.17978326",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Tue, 04 Aug 2026 08:36:29 GMT"
-    },
-    {
-      "title": "Ulykken i Ås: Erkjenner ikke straffskyld",
-      "link": "https://www.nrk.no/stor-oslo/ulykken-i-as_-erkjenner-ikke-straffskyld-1.17978095",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 04 Aug 2026 08:25:40 GMT"
-    },
-    {
-      "title": "SVT: Losen på Misje Verde mistenkt etter båtulykken i Sverige",
-      "link": "https://www.nrk.no/nyheter/svt_-losen-pa-misje-verde-mistenkt-etter-batulykken-i-sverige-1.17978249",
-      "category": "Sverige",
-      "pubDate": "Tue, 04 Aug 2026 07:43:27 GMT"
-    },
-    {
-      "title": "Elbil24: Kia tilbakekaller 1000 elbiler – fare for batteribrann",
-      "link": "https://www.nrk.no/nyheter/elbil24_-kia-tilbakekaller-1000-elbiler-_-fare-for-batteribrann-1.17978217",
-      "category": "Elbil",
-      "pubDate": "Tue, 04 Aug 2026 07:36:34 GMT"
     }
   ]
 }
