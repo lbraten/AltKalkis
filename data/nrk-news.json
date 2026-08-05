@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-05T21:10:51.231Z",
+  "updatedAt": "2026-08-05T22:34:20.914Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Infantino gir seg ikke – kom ut fra krisemøte med beklagelse og trussel",
+      "link": "https://www.nrk.no/sport/infantino-gir-seg-ikke-_-kom-ut-fra-krisemote-med-beklagelse-og-trussel-1.17980404",
+      "category": "Sportsnyheter",
+      "pubDate": "Wed, 05 Aug 2026 21:41:17 GMT"
+    },
+    {
+      "title": "Redningsaksjon på Vidden: – Savnet turgåer",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-pa-vidden_-_-savnet-turgaer-1.17980235",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 05 Aug 2026 21:05:38 GMT"
+    },
     {
       "title": "Mistenkelig gjenstand på restaurant i Stockholm",
       "link": "https://www.nrk.no/nyheter/mistenkelig-gjenstand-pa-restaurant-i-stockholm-1.17980343",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/4_5-millioner-ryde-kunder-berort-av-innbrudd-1.17980274",
       "category": "Dataangrep og hacking",
       "pubDate": "Wed, 05 Aug 2026 19:17:54 GMT"
-    },
-    {
-      "title": "Anmeldt for ulovlig droneflyvning",
-      "link": "https://www.nrk.no/tromsogfinnmark/anmeldt-for-ulovlig-droneflyvning-1.17980318",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 05 Aug 2026 19:08:55 GMT"
-    },
-    {
-      "title": "Datainnbrudd hos Ryde",
-      "link": "https://www.nrk.no/nyheter/datainnbrudd-hos-ryde-1.17980142",
-      "category": "Dataangrep og hacking",
-      "pubDate": "Wed, 05 Aug 2026 18:13:44 GMT"
     }
   ]
 }
