@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-05T17:39:41.313Z",
+  "updatedAt": "2026-08-05T19:36:42.203Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tysklands innenriksminister: – Hybrid angrepsscenario",
+      "link": "https://www.nrk.no/nyheter/tysklands-innenriksminister_-_-hybrid-angrepsscenario-1.17980328",
+      "category": "Tyskland",
+      "pubDate": "Wed, 05 Aug 2026 19:27:25 GMT"
+    },
+    {
+      "title": "4,5 millioner Ryde-kunder berørt av innbrudd",
+      "link": "https://www.nrk.no/nyheter/4_5-millioner-ryde-kunder-berort-av-innbrudd-1.17980274",
+      "category": "Dataangrep og hacking",
+      "pubDate": "Wed, 05 Aug 2026 19:17:54 GMT"
+    },
+    {
+      "title": "Anmeldt for ulovlig droneflyvning",
+      "link": "https://www.nrk.no/tromsogfinnmark/anmeldt-for-ulovlig-droneflyvning-1.17980318",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Wed, 05 Aug 2026 19:08:55 GMT"
+    },
+    {
+      "title": "Datainnbrudd hos Ryde",
+      "link": "https://www.nrk.no/nyheter/datainnbrudd-hos-ryde-1.17980142",
+      "category": "Dataangrep og hacking",
+      "pubDate": "Wed, 05 Aug 2026 18:13:44 GMT"
+    },
     {
       "title": "Trumps helikopter skal ha kommet for nær passasjerfly",
       "link": "https://www.nrk.no/nyheter/trumps-helikopter-skal-ha-kommet-for-naer-passasjerfly-1.17980137",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brann-hos-russisk-netthandelgigant-slukket-1.17980133",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 05 Aug 2026 15:32:49 GMT"
-    },
-    {
-      "title": "Iran: Enige med Oman om rute i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran_-enige-med-oman-om-rute-i-hormuzstredet-1.17980058",
-      "category": "Iran",
-      "pubDate": "Wed, 05 Aug 2026 15:26:04 GMT"
-    },
-    {
-      "title": "Reuters: USA opphever flere sanksjoner mot Iran",
-      "link": "https://www.nrk.no/nyheter/reuters_-usa-opphever-flere-sanksjoner-mot-iran-1.17980052",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 05 Aug 2026 14:17:33 GMT"
-    },
-    {
-      "title": "Varmerekorden i Wien slått etter én dag",
-      "link": "https://www.nrk.no/nyheter/varmerekorden-i-wien-slatt-etter-en-dag-1.17980027",
-      "category": "Østerrike",
-      "pubDate": "Wed, 05 Aug 2026 14:08:59 GMT"
-    },
-    {
-      "title": "Beordrer evakuering av Kramatorsk",
-      "link": "https://www.nrk.no/nyheter/beordrer-evakuering-av-kramatorsk-1.17980010",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 05 Aug 2026 13:51:39 GMT"
     }
   ]
 }
