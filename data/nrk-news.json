@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-05T11:21:42.508Z",
+  "updatedAt": "2026-08-05T13:10:45.256Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann på romfartssenter utenfor Moskva",
+      "link": "https://www.nrk.no/nyheter/brann-pa-romfartssenter-utenfor-moskva-1.17979903",
+      "category": "Russland",
+      "pubDate": "Wed, 05 Aug 2026 12:53:48 GMT"
+    },
+    {
+      "title": "Overgrepssiktet lærer: To tidligere straffesaker ble henlagt",
+      "link": "https://www.nrk.no/stor-oslo/overgrepssiktet-laerer_-to-tidligere-straffesaker-ble-henlagt-1.17979706",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 05 Aug 2026 12:38:49 GMT"
+    },
+    {
+      "title": "Kineser pågrepet i bunker i Bodø: Utvist fra Norge i fem år",
+      "link": "https://www.nrk.no/nordland/kineser-pagrepet-i-bunker-i-bodo_-utvist-fra-norge-i-fem-ar-1.17979402",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 05 Aug 2026 11:57:39 GMT"
+    },
+    {
+      "title": "Tyrkias regjeringsparti vil oppløse PKK",
+      "link": "https://www.nrk.no/nyheter/tyrkias-regjeringsparti-vil-opplose-pkk--1.17979777",
+      "category": "Tyrkia",
+      "pubDate": "Wed, 05 Aug 2026 11:56:46 GMT"
+    },
     {
       "title": "TikTok og Disney med avtale",
       "link": "https://www.nrk.no/nyheter/tiktok-og-disney-med-avtale-1.17979749",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bild_-eksplosiv-drone-funnet-pa-flyplass-i-tyskland-1.17979728",
       "category": "Tyskland",
       "pubDate": "Wed, 05 Aug 2026 10:51:28 GMT"
-    },
-    {
-      "title": "FN: Bekymret over henrettelser i Iran",
-      "link": "https://www.nrk.no/nyheter/fn_-bekymret-over-henrettelser-i-iran-1.17979670",
-      "category": "Iran",
-      "pubDate": "Wed, 05 Aug 2026 10:39:24 GMT"
-    },
-    {
-      "title": "Vedum til NRK: avgiftskuttene må forlenges",
-      "link": "https://www.nrk.no/nyheter/vedum-til-nrk_-avgiftskuttene-ma-forlenges-1.17979583",
-      "category": "Norsk politikk",
-      "pubDate": "Wed, 05 Aug 2026 09:31:40 GMT"
-    },
-    {
-      "title": "Rødt åpner for å forlenge drivstoffavgiftskutt",
-      "link": "https://www.nrk.no/nyheter/rodt-apner-for-a-forlenge-drivstoffavgiftskutt-1.17979535",
-      "category": "Norsk politikk",
-      "pubDate": "Wed, 05 Aug 2026 09:25:45 GMT"
-    },
-    {
-      "title": "Boligprisene sank med 2,6 prosent i juli",
-      "link": "https://www.nrk.no/nyheter/boligprisene-sank-med-2_6-prosent-i-juli--1.17979530",
-      "category": "Boligmarkedet",
-      "pubDate": "Wed, 05 Aug 2026 09:00:35 GMT"
     }
   ]
 }
