@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-05T19:36:42.203Z",
+  "updatedAt": "2026-08-05T21:10:51.231Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mistenkelig gjenstand på restaurant i Stockholm",
+      "link": "https://www.nrk.no/nyheter/mistenkelig-gjenstand-pa-restaurant-i-stockholm-1.17980343",
+      "category": "Sverige",
+      "pubDate": "Wed, 05 Aug 2026 20:20:01 GMT"
+    },
+    {
+      "title": "– Vanskelig å kommunisere med Khamenei",
+      "link": "https://www.nrk.no/nyheter/_-vanskelig-a-kommunisere-med-khamenei-1.17980334",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 05 Aug 2026 19:36:51 GMT"
+    },
     {
       "title": "Tysklands innenriksminister: – Hybrid angrepsscenario",
       "link": "https://www.nrk.no/nyheter/tysklands-innenriksminister_-_-hybrid-angrepsscenario-1.17980328",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/datainnbrudd-hos-ryde-1.17980142",
       "category": "Dataangrep og hacking",
       "pubDate": "Wed, 05 Aug 2026 18:13:44 GMT"
-    },
-    {
-      "title": "Trumps helikopter skal ha kommet for nær passasjerfly",
-      "link": "https://www.nrk.no/nyheter/trumps-helikopter-skal-ha-kommet-for-naer-passasjerfly-1.17980137",
-      "category": "Donald Trump",
-      "pubDate": "Wed, 05 Aug 2026 15:39:46 GMT"
-    },
-    {
-      "title": "Brann hos russisk netthandelgigant slukket",
-      "link": "https://www.nrk.no/nyheter/brann-hos-russisk-netthandelgigant-slukket-1.17980133",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 05 Aug 2026 15:32:49 GMT"
     }
   ]
 }
