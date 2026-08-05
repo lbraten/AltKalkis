@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-08-05T05:46:59.138Z",
+  "updatedAt": "2026-08-05T08:37:47.398Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "NTB: Ap inviterer SV, Sp, Rødt og MDG til møte om drivstoffsituasjonen",
-      "link": "https://www.nrk.no/nyheter/ntb_-ap-inviterer-sv_-sp_-rodt-og-mdg-til-mote-om-drivstoffsituasjonen-1.17979262",
+      "title": "Houthiene hevder å ha angrepet oljetanker i Rødehavet",
+      "link": "https://www.nrk.no/nyheter/houthiene-hevder-a-ha-angrepet-oljetanker-i-rodehavet-1.17979331",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 05 Aug 2026 07:11:01 GMT"
+    },
+    {
+      "title": "Elg påkjørt av tog i Vestby",
+      "link": "https://www.nrk.no/stor-oslo/elg-pakjort-av-tog-i-vestby-1.17979287",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 05 Aug 2026 07:04:24 GMT"
+    },
+    {
+      "title": "Over 100 døde etter ekstremregn i India",
+      "link": "https://www.nrk.no/nyheter/over-100-dode-etter-ekstremregn-i-india-1.17979270",
+      "category": "India",
+      "pubDate": "Wed, 05 Aug 2026 06:05:45 GMT"
+    },
+    {
+      "title": "Ap inviterer SV, Sp, Rødt og MDG til møte om drivstoffsituasjonen",
+      "link": "https://www.nrk.no/nyheter/ap-inviterer-sv_-sp_-rodt-og-mdg-til-mote-om-drivstoffsituasjonen-1.17979262",
       "category": "Høye drivstoffpriser",
       "pubDate": "Wed, 05 Aug 2026 04:50:42 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/medier_-hormuz-avtale-kan-naerme-seg-1.17979205",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 05 Aug 2026 03:49:53 GMT"
-    },
-    {
-      "title": "Russland: Ukrainsk droneangrep mot netthandelgigant",
-      "link": "https://www.nrk.no/nyheter/russland_-ukrainsk-droneangrep-mot-netthandelgigant-1.17979185",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 05 Aug 2026 03:18:03 GMT"
-    },
-    {
-      "title": "Dødstallene stiger etter russisk luftangrep",
-      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-russisk-luftangrep-1.17979181",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 05 Aug 2026 02:53:53 GMT"
-    },
-    {
-      "title": "Person pågrepet for å ha tent på hus og bil på Sunnmøre",
-      "link": "https://www.nrk.no/nyheter/person-pagrepet-for-a-ha-tent-pa-hus-og-bil-pa-sunnmore-1.17979183",
-      "category": "Brann i Møre og Romsdal",
-      "pubDate": "Wed, 05 Aug 2026 02:38:29 GMT"
     }
   ]
 }
