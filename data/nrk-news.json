@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-04T23:33:03.876Z",
+  "updatedAt": "2026-08-05T02:38:57.722Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Sønn øvelseskjørte for fort med beruset far",
+      "link": "https://www.nrk.no/nyheter/politiet_-sonn-ovelseskjorte-for-fort-med-beruset-far-1.17979177",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Wed, 05 Aug 2026 01:22:17 GMT"
+    },
+    {
+      "title": "Ukraina: Én drept i russisk luftangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/ukraina_-en-drept-i-russisk-luftangrep-mot-kyiv-1.17979174",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 04 Aug 2026 23:51:51 GMT"
+    },
     {
       "title": "Kvinne funnet død i Stockholm: Mistanke om drap",
       "link": "https://www.nrk.no/nyheter/kvinne-funnet-dod-i-stockholm_-mistanke-om-drap-1.17979173",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brasils-ambassador-fratas-visum-til-usa-1.17979122",
       "category": "USA",
       "pubDate": "Tue, 04 Aug 2026 20:32:24 GMT"
-    },
-    {
-      "title": "Norsk Tipping utsatt for dataangrep",
-      "link": "https://www.nrk.no/innlandet/norsk-tipping-utsatt-for-dataangrep-1.17979083",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Tue, 04 Aug 2026 19:41:55 GMT"
-    },
-    {
-      "title": "Siktet etter dødsfall i Kalvåg varetektsfengsles i fire uker",
-      "link": "https://www.nrk.no/vestland/siktet-etter-dodsfall-i-kalvag-varetektsfengsles-i-fire-uker--1.17978920",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 04 Aug 2026 18:20:13 GMT"
     }
   ]
 }
