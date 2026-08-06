@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-06T12:03:11.788Z",
+  "updatedAt": "2026-08-06T14:53:27.476Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyj og Støre diskuterte støtte til ukrainsk luftvern",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-og-store-diskuterte-stotte-til-ukrainsk-luftvern-1.17981337",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 06 Aug 2026 14:17:59 GMT"
+    },
+    {
+      "title": "Emilie Enger Mehl flytter til Kina",
+      "link": "https://www.nrk.no/innlandet/emilie-enger-mehl-flytter-til-kina-1.17981367",
+      "category": "Politikk i Innlandet",
+      "pubDate": "Thu, 06 Aug 2026 14:00:13 GMT"
+    },
+    {
+      "title": "Russisk droneangrep rammet Redd Barnas kontor i Ukraina",
+      "link": "https://www.nrk.no/nyheter/russisk-droneangrep-rammet-redd-barnas-kontor-i-ukraina-1.17981280",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 06 Aug 2026 13:38:18 GMT"
+    },
+    {
+      "title": "Prinsesse Ingrid Alexandra starter studiene i Oslo mandag",
+      "link": "https://www.nrk.no/nyheter/prinsesse-ingrid-alexandra-starter-studiene-i-oslo-mandag-1.17981147",
+      "category": "Kongefamilien",
+      "pubDate": "Thu, 06 Aug 2026 13:11:21 GMT"
+    },
+    {
+      "title": "Pakistansk gutt forsvant fra Norway Cup",
+      "link": "https://www.nrk.no/stor-oslo/pakistansk-gutt-forsvant-fra-norway-cup-1.17980934",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 06 Aug 2026 12:53:09 GMT"
+    },
     {
       "title": "EU: Ingen migranter fra Ceuta har tatt seg videre til Europa",
       "link": "https://www.nrk.no/nyheter/eu_-ingen-migranter-fra-ceuta-har-tatt-seg-videre-til-europa-1.17981065",
       "category": "Migranter i Europa",
       "pubDate": "Thu, 06 Aug 2026 11:58:42 GMT"
-    },
-    {
-      "title": "Rødgrønt møte om drivstoffavgiftene over – nytt møte fredag",
-      "link": "https://www.nrk.no/nyheter/rodgront-mote-om-drivstoffavgiftene-over-_-nytt-mote-fredag-1.17981039",
-      "category": "Høye drivstoffpriser",
-      "pubDate": "Thu, 06 Aug 2026 11:33:55 GMT"
-    },
-    {
-      "title": "USAs justisdepartement saksøkt i Epstein-sak",
-      "link": "https://www.nrk.no/nyheter/usas-justisdepartement-saksokt-i-epstein-sak-1.17980931",
-      "category": "Jeffrey Epstein-saken",
-      "pubDate": "Thu, 06 Aug 2026 11:19:05 GMT"
-    },
-    {
-      "title": "Jente (16) omkom etter trafikkulykke i Molde",
-      "link": "https://www.nrk.no/mr/jente-_16_-omkom-etter-trafikkulykke-i-molde-1.17980821",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Thu, 06 Aug 2026 11:18:43 GMT"
-    },
-    {
-      "title": "Slo lege på legevakta i fjeset flere ganger",
-      "link": "https://www.nrk.no/trondelag/slo-lege-pa-legevakta-i-fjeset-flere-ganger-1.17980531",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Thu, 06 Aug 2026 10:58:16 GMT"
-    },
-    {
-      "title": "Fire gepardunger født i Kristiansand Dyrepark",
-      "link": "https://www.nrk.no/sorlandet/fire-gepardunger-fodt-i-kristiansand-dyrepark-1.17980880",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 06 Aug 2026 10:35:15 GMT"
     }
   ]
 }
