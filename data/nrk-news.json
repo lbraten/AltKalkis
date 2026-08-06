@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-06T00:00:42.458Z",
+  "updatedAt": "2026-08-06T03:49:26.847Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Éin fastklemt etter trafikkulykke i Molde",
+      "link": "https://www.nrk.no/mr/ein-fastklemt-etter-trafikkulykke-i-molde-1.17980459",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Thu, 06 Aug 2026 03:39:53 GMT"
+    },
+    {
+      "title": "E39 stengt i begge retninger",
+      "link": "https://www.nrk.no/sorlandet/e39-stengt-i-begge-retninger--1.17980440",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Thu, 06 Aug 2026 03:18:09 GMT"
+    },
+    {
+      "title": "Mann pågrepet etter antatt drap i Sverige",
+      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-antatt-drap-i-sverige-1.17980422",
+      "category": "Sverige",
+      "pubDate": "Thu, 06 Aug 2026 02:30:40 GMT"
+    },
+    {
+      "title": "Nigeria: Over 300 bortførte personer er fri igjen",
+      "link": "https://www.nrk.no/nyheter/nigeria_-over-300-bortforte-personer-er-fri-igjen-1.17980417",
+      "category": "Nigeria",
+      "pubDate": "Thu, 06 Aug 2026 00:41:31 GMT"
+    },
+    {
+      "title": "Vulkanutbrudd i Guatemala er over",
+      "link": "https://www.nrk.no/nyheter/vulkanutbrudd-i-guatemala-er-over-1.17980418",
+      "category": "Guatemala",
+      "pubDate": "Thu, 06 Aug 2026 00:19:57 GMT"
+    },
     {
       "title": "Over 1800 døde etter ebolasmitte i DR Kongo",
       "link": "https://www.nrk.no/nyheter/over-1800-dode-etter-ebolasmitte-i-dr-kongo-1.17980414",
       "category": "DR Kongo",
       "pubDate": "Wed, 05 Aug 2026 23:59:32 GMT"
-    },
-    {
-      "title": "To pågrepet etter hendelse i Stockholm",
-      "link": "https://www.nrk.no/nyheter/to-pagrepet-etter-hendelse-i-stockholm-1.17980406",
-      "category": "Sverige",
-      "pubDate": "Wed, 05 Aug 2026 23:49:34 GMT"
-    },
-    {
-      "title": "Savnet turgåer funnet",
-      "link": "https://www.nrk.no/nyheter/savnet-turgaer-funnet-1.17980411",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 05 Aug 2026 22:42:07 GMT"
-    },
-    {
-      "title": "Infantino gir seg ikke – kom ut fra krisemøte med beklagelse og trussel",
-      "link": "https://www.nrk.no/sport/infantino-gir-seg-ikke-_-kom-ut-fra-krisemote-med-beklagelse-og-trussel-1.17980404",
-      "category": "Sportsnyheter",
-      "pubDate": "Wed, 05 Aug 2026 21:41:17 GMT"
-    },
-    {
-      "title": "Redningsaksjon på Vidden: – Savnet turgåer",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-pa-vidden_-_-savnet-turgaer-1.17980235",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 05 Aug 2026 21:05:38 GMT"
-    },
-    {
-      "title": "Mistenkelig gjenstand på restaurant i Stockholm",
-      "link": "https://www.nrk.no/nyheter/mistenkelig-gjenstand-pa-restaurant-i-stockholm-1.17980343",
-      "category": "Sverige",
-      "pubDate": "Wed, 05 Aug 2026 20:20:01 GMT"
     }
   ]
 }
