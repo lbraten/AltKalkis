@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-08-06T03:49:26.847Z",
+  "updatedAt": "2026-08-06T06:32:01.811Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Éin fastklemt etter trafikkulykke i Molde",
-      "link": "https://www.nrk.no/mr/ein-fastklemt-etter-trafikkulykke-i-molde-1.17980459",
+      "title": "Ny rapport: Over 1200 voldshendelser på jobb varslet til Arbeidstilsynet de ti siste årene",
+      "link": "https://www.nrk.no/nyheter/ny-rapport_-over-1200-voldshendelser-pa-jobb-varslet-til-arbeidstilsynet-de-ti-siste-arene-1.17980503",
+      "category": "Arbeidsliv",
+      "pubDate": "Thu, 06 Aug 2026 05:35:54 GMT"
+    },
+    {
+      "title": "Antall sivile ukrainere som blir drept i krigen øker",
+      "link": "https://www.nrk.no/nyheter/antall-sivile-ukrainere-som-blir-drept-i-krigen-oker--1.17980501",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 06 Aug 2026 05:01:02 GMT"
+    },
+    {
+      "title": "Ny smitteverndirektør i USA",
+      "link": "https://www.nrk.no/nyheter/ny-smitteverndirektor-i-usa-1.17980498",
+      "category": "USA",
+      "pubDate": "Thu, 06 Aug 2026 04:58:52 GMT"
+    },
+    {
+      "title": "To israelske soldater drept i Libanon",
+      "link": "https://www.nrk.no/nyheter/to-israelske-soldater-drept-i-libanon-1.17980423",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 06 Aug 2026 03:59:23 GMT"
+    },
+    {
+      "title": "Éin var fastklemt etter trafikkulykke i Molde",
+      "link": "https://www.nrk.no/mr/ein-var-fastklemt-etter-trafikkulykke-i-molde-1.17980459",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Thu, 06 Aug 2026 03:39:53 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/e39-stengt-i-begge-retninger--1.17980440",
       "category": "Nyheter fra Agder",
       "pubDate": "Thu, 06 Aug 2026 03:18:09 GMT"
-    },
-    {
-      "title": "Mann pågrepet etter antatt drap i Sverige",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-antatt-drap-i-sverige-1.17980422",
-      "category": "Sverige",
-      "pubDate": "Thu, 06 Aug 2026 02:30:40 GMT"
-    },
-    {
-      "title": "Nigeria: Over 300 bortførte personer er fri igjen",
-      "link": "https://www.nrk.no/nyheter/nigeria_-over-300-bortforte-personer-er-fri-igjen-1.17980417",
-      "category": "Nigeria",
-      "pubDate": "Thu, 06 Aug 2026 00:41:31 GMT"
-    },
-    {
-      "title": "Vulkanutbrudd i Guatemala er over",
-      "link": "https://www.nrk.no/nyheter/vulkanutbrudd-i-guatemala-er-over-1.17980418",
-      "category": "Guatemala",
-      "pubDate": "Thu, 06 Aug 2026 00:19:57 GMT"
-    },
-    {
-      "title": "Over 1800 døde etter ebolasmitte i DR Kongo",
-      "link": "https://www.nrk.no/nyheter/over-1800-dode-etter-ebolasmitte-i-dr-kongo-1.17980414",
-      "category": "DR Kongo",
-      "pubDate": "Wed, 05 Aug 2026 23:59:32 GMT"
     }
   ]
 }
