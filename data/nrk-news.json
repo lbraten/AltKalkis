@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-05T22:34:20.914Z",
+  "updatedAt": "2026-08-06T00:00:42.458Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 1800 døde etter ebolasmitte i DR Kongo",
+      "link": "https://www.nrk.no/nyheter/over-1800-dode-etter-ebolasmitte-i-dr-kongo-1.17980414",
+      "category": "DR Kongo",
+      "pubDate": "Wed, 05 Aug 2026 23:59:32 GMT"
+    },
+    {
+      "title": "To pågrepet etter hendelse i Stockholm",
+      "link": "https://www.nrk.no/nyheter/to-pagrepet-etter-hendelse-i-stockholm-1.17980406",
+      "category": "Sverige",
+      "pubDate": "Wed, 05 Aug 2026 23:49:34 GMT"
+    },
+    {
+      "title": "Savnet turgåer funnet",
+      "link": "https://www.nrk.no/nyheter/savnet-turgaer-funnet-1.17980411",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 05 Aug 2026 22:42:07 GMT"
+    },
     {
       "title": "Infantino gir seg ikke – kom ut fra krisemøte med beklagelse og trussel",
       "link": "https://www.nrk.no/sport/infantino-gir-seg-ikke-_-kom-ut-fra-krisemote-med-beklagelse-og-trussel-1.17980404",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mistenkelig-gjenstand-pa-restaurant-i-stockholm-1.17980343",
       "category": "Sverige",
       "pubDate": "Wed, 05 Aug 2026 20:20:01 GMT"
-    },
-    {
-      "title": "– Vanskelig å kommunisere med Khamenei",
-      "link": "https://www.nrk.no/nyheter/_-vanskelig-a-kommunisere-med-khamenei-1.17980334",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 05 Aug 2026 19:36:51 GMT"
-    },
-    {
-      "title": "Tysklands innenriksminister: – Hybrid angrepsscenario",
-      "link": "https://www.nrk.no/nyheter/tysklands-innenriksminister_-_-hybrid-angrepsscenario-1.17980328",
-      "category": "Tyskland",
-      "pubDate": "Wed, 05 Aug 2026 19:27:25 GMT"
-    },
-    {
-      "title": "4,5 millioner Ryde-kunder berørt av innbrudd",
-      "link": "https://www.nrk.no/nyheter/4_5-millioner-ryde-kunder-berort-av-innbrudd-1.17980274",
-      "category": "Dataangrep og hacking",
-      "pubDate": "Wed, 05 Aug 2026 19:17:54 GMT"
     }
   ]
 }
