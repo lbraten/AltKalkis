@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-07T11:46:43.898Z",
+  "updatedAt": "2026-08-07T13:06:46.697Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN: 300 barn drept i Gaza under våpenhvilen",
+      "link": "https://www.nrk.no/nyheter/fn_-300-barn-drept-i-gaza-under-vapenhvilen-1.17982476",
+      "category": "Krigen i Gaza",
+      "pubDate": "Fri, 07 Aug 2026 12:54:12 GMT"
+    },
+    {
+      "title": "Politiet ber om fire nye uker med fotlenke for Marius Borg Høiby",
+      "link": "https://www.nrk.no/nyheter/politiet-ber-om-fire-nye-uker-med-fotlenke-for-marius-borg-hoiby-1.17982474",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Fri, 07 Aug 2026 12:27:20 GMT"
+    },
+    {
+      "title": "Støre om drivstoffprisene: – Vedtaket står",
+      "link": "https://www.nrk.no/nyheter/store-om-drivstoffprisene_-_-vedtaket-star-1.17982415",
+      "category": "Høye drivstoffpriser",
+      "pubDate": "Fri, 07 Aug 2026 11:56:47 GMT"
+    },
     {
       "title": "Apotekforeningen: – Tar lenger tid enn først ventet",
       "link": "https://www.nrk.no/nyheter/apotekforeningen_-_-tar-lenger-tid-enn-forst-ventet-1.17982377",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/saudi-arabia_-tyrkia-og-pakistan-signerer-forsvarspakt-1.17982324",
       "category": "Tyrkia",
       "pubDate": "Fri, 07 Aug 2026 11:18:16 GMT"
-    },
-    {
-      "title": "Vedum: Uklokt av Høgre",
-      "link": "https://www.nrk.no/nyheter/vedum_-uklokt-av-hogre-1.17982262",
-      "category": "Høye drivstoffpriser",
-      "pubDate": "Fri, 07 Aug 2026 10:53:47 GMT"
-    },
-    {
-      "title": "DDE dropper kommunestøtte – finansierer «E6»-video selv",
-      "link": "https://www.nrk.no/nordland/dde-dropper-kommunestotte-_-finansierer-_e6_-video-selv-1.17982200",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 07 Aug 2026 10:48:14 GMT"
-    },
-    {
-      "title": "EU innfører nye sanksjoner mot Russland",
-      "link": "https://www.nrk.no/nyheter/eu-innforer-nye-sanksjoner-mot-russland-1.17982238",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Fri, 07 Aug 2026 10:15:56 GMT"
     }
   ]
 }
