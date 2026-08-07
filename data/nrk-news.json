@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-07T05:16:51.286Z",
+  "updatedAt": "2026-08-07T06:46:48.477Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 4000 ebolasmitta i DR Kongo",
+      "link": "https://www.nrk.no/nyheter/over-4000-ebolasmitta-i-dr-kongo-1.17981859",
+      "category": "DR Kongo",
+      "pubDate": "Fri, 07 Aug 2026 05:50:55 GMT"
+    },
+    {
+      "title": "Sju drepne i skuleskyting i Thailand",
+      "link": "https://www.nrk.no/nyheter/sju-drepne-i-skuleskyting-i-thailand-1.17981817",
+      "category": "Thailand",
+      "pubDate": "Fri, 07 Aug 2026 05:16:05 GMT"
+    },
     {
       "title": "Ny dom for tenåring bak bussbrann",
       "link": "https://www.nrk.no/stor-oslo/ny-dom-for-tenaring-bak-bussbrann-1.17981777",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/riksmekleren_-sas-samtalene-pagar-fortsatt-1.17981706",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Fri, 07 Aug 2026 03:38:06 GMT"
-    },
-    {
-      "title": "Politiet: Ammoniakklekkasje funnet i Skien",
-      "link": "https://www.nrk.no/nyheter/politiet_-ammoniakklekkasje-funnet-i-skien-1.17981704",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 07 Aug 2026 02:25:23 GMT"
-    },
-    {
-      "title": "Enebolig i brann i Nesbyen – én lettere skadet",
-      "link": "https://www.nrk.no/nyheter/enebolig-i-brann-i-nesbyen-_-en-lettere-skadet-1.17981705",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Fri, 07 Aug 2026 01:26:23 GMT"
     }
   ]
 }
