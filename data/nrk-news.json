@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-07T22:36:50.029Z",
+  "updatedAt": "2026-08-07T23:34:37.187Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Beruset sjåfør stanset: – Holdt på å kjøre ned fotgjengere",
+      "link": "https://www.nrk.no/nyheter/beruset-sjafor-stanset_-_-holdt-pa-a-kjore-ned-fotgjengere-1.17982886",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 07 Aug 2026 23:12:08 GMT"
+    },
+    {
+      "title": "FN bekymret for Jemen",
+      "link": "https://www.nrk.no/nyheter/fn-bekymret-for-jemen-1.17982872",
+      "category": "Jemen",
+      "pubDate": "Fri, 07 Aug 2026 22:49:39 GMT"
+    },
     {
       "title": "Ny president i Colombia tatt i ed",
       "link": "https://www.nrk.no/nyheter/ny-president-i-colombia-tatt-i-ed-1.17982858",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/spania-innforer-grensekontroll-mot-italia-1.17982811",
       "category": "Spania",
       "pubDate": "Fri, 07 Aug 2026 19:32:09 GMT"
-    },
-    {
-      "title": "Norsk Tipping: Virker som nytt dataangrep.",
-      "link": "https://www.nrk.no/nyheter/norsk-tipping_-virker-som-nytt-dataangrep.--1.17982767",
-      "category": "Norsk Tipping",
-      "pubDate": "Fri, 07 Aug 2026 19:12:22 GMT"
-    },
-    {
-      "title": "USA nærmer seg sanksjoner mot Russland og Iran",
-      "link": "https://www.nrk.no/nyheter/usa-naermer-seg-sanksjoner-mot-russland-og-iran-1.17982719",
-      "category": "USA",
-      "pubDate": "Fri, 07 Aug 2026 17:40:26 GMT"
     }
   ]
 }
