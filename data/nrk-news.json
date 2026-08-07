@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-07T13:06:46.697Z",
+  "updatedAt": "2026-08-07T14:31:46.416Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Svakt arbeidsmarked i USA",
+      "link": "https://www.nrk.no/nyheter/svakt-arbeidsmarked-i-usa--1.17982552",
+      "category": "USA",
+      "pubDate": "Fri, 07 Aug 2026 13:38:42 GMT"
+    },
+    {
+      "title": "Kongen på Rikshospitalet for kontroll",
+      "link": "https://www.nrk.no/nyheter/kongen-pa-rikshospitalet-for-kontroll-1.17982519",
+      "category": "Kongefamilien",
+      "pubDate": "Fri, 07 Aug 2026 13:27:07 GMT"
+    },
     {
       "title": "FN: 300 barn drept i Gaza under våpenhvilen",
       "link": "https://www.nrk.no/nyheter/fn_-300-barn-drept-i-gaza-under-vapenhvilen-1.17982476",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/apotekforeningen_-_-tar-lenger-tid-enn-forst-ventet-1.17982377",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 07 Aug 2026 11:25:23 GMT"
-    },
-    {
-      "title": "Spania truer Italia med mottiltak hvis ikke Schengen-avtalen gjeninnføres",
-      "link": "https://www.nrk.no/nyheter/spania-truer-italia-med-mottiltak-hvis-ikke-schengen-avtalen-gjeninnfores-1.17982368",
-      "category": "Spania",
-      "pubDate": "Fri, 07 Aug 2026 11:24:48 GMT"
-    },
-    {
-      "title": "Saudi-Arabia, Tyrkia og Pakistan signerer forsvarspakt",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia_-tyrkia-og-pakistan-signerer-forsvarspakt-1.17982324",
-      "category": "Tyrkia",
-      "pubDate": "Fri, 07 Aug 2026 11:18:16 GMT"
     }
   ]
 }
