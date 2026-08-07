@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-07T09:31:52.699Z",
+  "updatedAt": "2026-08-07T10:53:16.929Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EU innfører nye sanksjoner mot Russland",
+      "link": "https://www.nrk.no/nyheter/eu-innforer-nye-sanksjoner-mot-russland-1.17982238",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Fri, 07 Aug 2026 10:15:56 GMT"
+    },
+    {
+      "title": "Fellesforbundet: SAS-streiken avblåst",
+      "link": "https://www.nrk.no/nyheter/fellesforbundet_-sas-streiken-avblast-1.17982221",
+      "category": "Flyselskapet SAS",
+      "pubDate": "Fri, 07 Aug 2026 10:06:29 GMT"
+    },
+    {
+      "title": "Utval skal sjå på tiltak for å bremse nedbygging av natur",
+      "link": "https://www.nrk.no/nyheter/utval-skal-sja-pa-tiltak-for-a-bremse-nedbygging-av-natur-1.17982154",
+      "category": "Naturvern",
+      "pubDate": "Fri, 07 Aug 2026 09:52:28 GMT"
+    },
+    {
+      "title": "Sikta etter dødsulykke i Molde",
+      "link": "https://www.nrk.no/mr/sikta-etter-dodsulykke-i-molde-1.17982186",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Fri, 07 Aug 2026 09:41:20 GMT"
+    },
+    {
+      "title": "Apotekforeningen: Feilen hos apotekene er rettet",
+      "link": "https://www.nrk.no/nyheter/apotekforeningen_-feilen-hos-apotekene-er-rettet-1.17982192",
+      "category": "Helse og livsstil",
+      "pubDate": "Fri, 07 Aug 2026 09:40:35 GMT"
+    },
     {
       "title": "De rødgrønne partiene avlyser nytt drivstoffmøte: – Ikke behov",
       "link": "https://www.nrk.no/nyheter/de-rodgronne-partiene-avlyser-nytt-drivstoffmote_-_-ikke-behov-1.17982129",
       "category": "Høye drivstoffpriser",
       "pubDate": "Fri, 07 Aug 2026 09:12:49 GMT"
-    },
-    {
-      "title": "Ordførar sett i varetekt etter brannar i Hellas",
-      "link": "https://www.nrk.no/nyheter/ordforar-sett-i-varetekt-etter-brannar-i-hellas-1.17981999",
-      "category": "Hellas",
-      "pubDate": "Fri, 07 Aug 2026 08:57:17 GMT"
-    },
-    {
-      "title": "Kvinne truet med kniv på Jessheim",
-      "link": "https://www.nrk.no/stor-oslo/kvinne-truet-med-kniv-pa-jessheim-1.17981981",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 07 Aug 2026 08:17:59 GMT"
-    },
-    {
-      "title": "Apotek-trøbbel i hele landet – ingen får hente ut resept",
-      "link": "https://www.nrk.no/nyheter/apotek-trobbel-i-hele-landet-_-ingen-far-hente-ut-resept-1.17982033",
-      "category": "Helse og livsstil",
-      "pubDate": "Fri, 07 Aug 2026 07:54:16 GMT"
-    },
-    {
-      "title": "Framleis varetektsfengsling etter sjukeheimsdrapet i Lyngen",
-      "link": "https://www.nrk.no/tromsogfinnmark/framleis-varetektsfengsling-etter-sjukeheimsdrapet-i-lyngen-1.17982013",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 07 Aug 2026 07:47:27 GMT"
-    },
-    {
-      "title": "TV 2: Høiby ber om å bli sett fri",
-      "link": "https://www.nrk.no/nyheter/tv-2_-hoiby-ber-om-a-bli-sett-fri-1.17981967",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 07 Aug 2026 07:34:09 GMT"
     }
   ]
 }
