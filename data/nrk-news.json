@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-07T08:14:56.440Z",
+  "updatedAt": "2026-08-07T09:31:52.699Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "De rødgrønne partiene avlyser nytt drivstoffmøte: – Ikke behov",
+      "link": "https://www.nrk.no/nyheter/de-rodgronne-partiene-avlyser-nytt-drivstoffmote_-_-ikke-behov-1.17982129",
+      "category": "Høye drivstoffpriser",
+      "pubDate": "Fri, 07 Aug 2026 09:12:49 GMT"
+    },
+    {
+      "title": "Ordførar sett i varetekt etter brannar i Hellas",
+      "link": "https://www.nrk.no/nyheter/ordforar-sett-i-varetekt-etter-brannar-i-hellas-1.17981999",
+      "category": "Hellas",
+      "pubDate": "Fri, 07 Aug 2026 08:57:17 GMT"
+    },
+    {
+      "title": "Kvinne truet med kniv på Jessheim",
+      "link": "https://www.nrk.no/stor-oslo/kvinne-truet-med-kniv-pa-jessheim-1.17981981",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 07 Aug 2026 08:17:59 GMT"
+    },
     {
       "title": "Apotek-trøbbel i hele landet – ingen får hente ut resept",
       "link": "https://www.nrk.no/nyheter/apotek-trobbel-i-hele-landet-_-ingen-far-hente-ut-resept-1.17982033",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tv-2_-hoiby-ber-om-a-bli-sett-fri-1.17981967",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 07 Aug 2026 07:34:09 GMT"
-    },
-    {
-      "title": "Fredrik Solvang starter podkast – skal hete «Duellen»",
-      "link": "https://www.nrk.no/nyheter/fredrik-solvang-starter-podkast-_-skal-hete-_duellen_-1.17981935",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 07 Aug 2026 07:10:51 GMT"
-    },
-    {
-      "title": "Fylkesordfører går av",
-      "link": "https://www.nrk.no/vestfoldogtelemark/fylkesordforer-gar-av-1.17981933",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 07 Aug 2026 06:55:39 GMT"
-    },
-    {
-      "title": "Svenske tiltalt for dobbeltdrap etter 21 år",
-      "link": "https://www.nrk.no/nyheter/svenske-tiltalt-for-dobbeltdrap-etter-21-ar-1.17981867",
-      "category": "Sverige",
-      "pubDate": "Fri, 07 Aug 2026 06:52:14 GMT"
     }
   ]
 }
