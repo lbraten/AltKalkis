@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-07T14:31:46.416Z",
+  "updatedAt": "2026-08-07T15:56:57.089Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Svakt arbeidsmarked i USA",
-      "link": "https://www.nrk.no/nyheter/svakt-arbeidsmarked-i-usa--1.17982552",
+      "title": "Ny Jordan-ambassadør etter Mona Juul",
+      "link": "https://www.nrk.no/nyheter/ny-jordan-ambassador-etter-mona-juul-1.17982679",
+      "category": "Jordan",
+      "pubDate": "Fri, 07 Aug 2026 15:54:09 GMT"
+    },
+    {
+      "title": "Stanser Trumps ballsal ved Det hvite hus",
+      "link": "https://www.nrk.no/nyheter/stanser-trumps-ballsal-ved-det-hvite-hus-1.17982646",
       "category": "USA",
-      "pubDate": "Fri, 07 Aug 2026 13:38:42 GMT"
+      "pubDate": "Fri, 07 Aug 2026 15:43:42 GMT"
     },
     {
-      "title": "Kongen på Rikshospitalet for kontroll",
-      "link": "https://www.nrk.no/nyheter/kongen-pa-rikshospitalet-for-kontroll-1.17982519",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 07 Aug 2026 13:27:07 GMT"
+      "title": "Frontkollisjon mellom lastebil og personbil i tunnel E16 i Vaksdal: – Evakuerer",
+      "link": "https://www.nrk.no/vestland/frontkollisjon-mellom-lastebil-og-personbil-i-tunnel-e16-i-vaksdal_-_-evakuerer-1.17982641",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 07 Aug 2026 15:42:26 GMT"
     },
     {
-      "title": "FN: 300 barn drept i Gaza under våpenhvilen",
-      "link": "https://www.nrk.no/nyheter/fn_-300-barn-drept-i-gaza-under-vapenhvilen-1.17982476",
-      "category": "Krigen i Gaza",
-      "pubDate": "Fri, 07 Aug 2026 12:54:12 GMT"
+      "title": "Syklist alvorlig skadet i ulykke i Nordre Follo",
+      "link": "https://www.nrk.no/stor-oslo/-syklist-alvorlig-skadet-i-ulykke-i-nordre-follo-1.17982305",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 07 Aug 2026 15:15:54 GMT"
     },
     {
-      "title": "Politiet ber om fire nye uker med fotlenke for Marius Borg Høiby",
-      "link": "https://www.nrk.no/nyheter/politiet-ber-om-fire-nye-uker-med-fotlenke-for-marius-borg-hoiby-1.17982474",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Fri, 07 Aug 2026 12:27:20 GMT"
-    },
-    {
-      "title": "Støre om drivstoffprisene: – Vedtaket står",
-      "link": "https://www.nrk.no/nyheter/store-om-drivstoffprisene_-_-vedtaket-star-1.17982415",
-      "category": "Høye drivstoffpriser",
-      "pubDate": "Fri, 07 Aug 2026 11:56:47 GMT"
-    },
-    {
-      "title": "Apotekforeningen: – Tar lenger tid enn først ventet",
-      "link": "https://www.nrk.no/nyheter/apotekforeningen_-_-tar-lenger-tid-enn-forst-ventet-1.17982377",
+      "title": "Tekniske feil hos apotek er nå rettet",
+      "link": "https://www.nrk.no/nyheter/tekniske-feil-hos-apotek-er-na-rettet--1.17982633",
       "category": "NRK Nyheter",
-      "pubDate": "Fri, 07 Aug 2026 11:25:23 GMT"
+      "pubDate": "Fri, 07 Aug 2026 14:56:39 GMT"
+    },
+    {
+      "title": "BA: Foreldre fengslet for mishandling i Bergen",
+      "link": "https://www.nrk.no/vestland/ba_-foreldre-fengslet-for-mishandling-i-bergen-1.17982634",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 07 Aug 2026 14:51:40 GMT"
     }
   ]
 }
