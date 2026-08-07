@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-07T18:59:13.419Z",
+  "updatedAt": "2026-08-07T19:54:59.579Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Funn av død person i Drammenselva.",
+      "link": "https://www.nrk.no/buskerud/funn-av-dod-person-i-drammenselva.--1.17982821",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Fri, 07 Aug 2026 19:44:20 GMT"
+    },
+    {
+      "title": "Spania innfører grensekontroll mot Italia",
+      "link": "https://www.nrk.no/nyheter/spania-innforer-grensekontroll-mot-italia-1.17982811",
+      "category": "Spania",
+      "pubDate": "Fri, 07 Aug 2026 19:32:09 GMT"
+    },
+    {
+      "title": "Norsk Tipping: Virker som nytt dataangrep.",
+      "link": "https://www.nrk.no/nyheter/norsk-tipping_-virker-som-nytt-dataangrep.--1.17982767",
+      "category": "Norsk Tipping",
+      "pubDate": "Fri, 07 Aug 2026 19:12:22 GMT"
+    },
     {
       "title": "USA nærmer seg sanksjoner mot Russland og Iran",
       "link": "https://www.nrk.no/nyheter/usa-naermer-seg-sanksjoner-mot-russland-og-iran-1.17982719",
@@ -15,28 +33,10 @@
       "pubDate": "Fri, 07 Aug 2026 17:30:56 GMT"
     },
     {
-      "title": "Voldshendelse i Fredrikstad",
-      "link": "https://www.nrk.no/ostfold/voldshendelse-i-fredrikstad-1.17982621",
+      "title": "Alvorlig voldshendelse i Fredrikstad",
+      "link": "https://www.nrk.no/ostfold/alvorlig-voldshendelse-i-fredrikstad-1.17982621",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Fri, 07 Aug 2026 17:28:47 GMT"
-    },
-    {
-      "title": "Ny Jordan-ambassadør etter Mona Juul",
-      "link": "https://www.nrk.no/nyheter/ny-jordan-ambassador-etter-mona-juul-1.17982679",
-      "category": "Jordan",
-      "pubDate": "Fri, 07 Aug 2026 15:54:09 GMT"
-    },
-    {
-      "title": "Stanser Trumps ballsal ved Det hvite hus",
-      "link": "https://www.nrk.no/nyheter/stanser-trumps-ballsal-ved-det-hvite-hus-1.17982646",
-      "category": "USA",
-      "pubDate": "Fri, 07 Aug 2026 15:43:42 GMT"
-    },
-    {
-      "title": "Frontkollisjon i Trollkonetunnelen på E16 i Vaksdal",
-      "link": "https://www.nrk.no/vestland/frontkollisjon-i-trollkonetunnelen-pa-e16-i-vaksdal-1.17982641",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 07 Aug 2026 15:42:26 GMT"
     }
   ]
 }
