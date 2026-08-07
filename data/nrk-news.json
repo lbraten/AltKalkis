@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-07T20:42:00.920Z",
+  "updatedAt": "2026-08-07T21:39:47.594Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ny president i Colombia",
+      "link": "https://www.nrk.no/nyheter/ny-president-i-colombia--1.17982858",
+      "category": "Colombia",
+      "pubDate": "Fri, 07 Aug 2026 21:35:25 GMT"
+    },
     {
       "title": "Haaland-sang nomineres til «årets låt»",
       "link": "https://www.nrk.no/nyheter/haaland-sang-nomineres-til-_arets-lat_-1.17982827",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-naermer-seg-sanksjoner-mot-russland-og-iran-1.17982719",
       "category": "USA",
       "pubDate": "Fri, 07 Aug 2026 17:40:26 GMT"
-    },
-    {
-      "title": "Hurtigbåt traff kai på Bolga",
-      "link": "https://www.nrk.no/nordland/hurtigbat-traff-kai-pa-bolga-1.17982698",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 07 Aug 2026 17:30:56 GMT"
     }
   ]
 }
