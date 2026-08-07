@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-07T19:54:59.579Z",
+  "updatedAt": "2026-08-07T20:42:00.920Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Funn av død person i Drammenselva.",
-      "link": "https://www.nrk.no/buskerud/funn-av-dod-person-i-drammenselva.--1.17982821",
+      "title": "Haaland-sang nomineres til «årets låt»",
+      "link": "https://www.nrk.no/nyheter/haaland-sang-nomineres-til-_arets-lat_-1.17982827",
+      "category": "Spellemannprisen",
+      "pubDate": "Fri, 07 Aug 2026 20:03:49 GMT"
+    },
+    {
+      "title": "Funn av død person i Drammenselva",
+      "link": "https://www.nrk.no/buskerud/funn-av-dod-person-i-drammenselva-1.17982821",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Fri, 07 Aug 2026 19:44:20 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nordland/hurtigbat-traff-kai-pa-bolga-1.17982698",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Fri, 07 Aug 2026 17:30:56 GMT"
-    },
-    {
-      "title": "Alvorlig voldshendelse i Fredrikstad",
-      "link": "https://www.nrk.no/ostfold/alvorlig-voldshendelse-i-fredrikstad-1.17982621",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Fri, 07 Aug 2026 17:28:47 GMT"
     }
   ]
 }
