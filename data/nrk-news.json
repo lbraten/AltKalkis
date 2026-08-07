@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T17:53:59.774Z",
+  "updatedAt": "2026-08-07T18:59:13.419Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
@@ -7,6 +7,12 @@
       "link": "https://www.nrk.no/nyheter/usa-naermer-seg-sanksjoner-mot-russland-og-iran-1.17982719",
       "category": "USA",
       "pubDate": "Fri, 07 Aug 2026 17:40:26 GMT"
+    },
+    {
+      "title": "Hurtigbåt traff kai på Bolga",
+      "link": "https://www.nrk.no/nordland/hurtigbat-traff-kai-pa-bolga-1.17982698",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 07 Aug 2026 17:30:56 GMT"
     },
     {
       "title": "Voldshendelse i Fredrikstad",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/frontkollisjon-i-trollkonetunnelen-pa-e16-i-vaksdal-1.17982641",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Fri, 07 Aug 2026 15:42:26 GMT"
-    },
-    {
-      "title": "Syklist alvorlig skadet i ulykke i Nordre Follo",
-      "link": "https://www.nrk.no/stor-oslo/-syklist-alvorlig-skadet-i-ulykke-i-nordre-follo-1.17982305",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 07 Aug 2026 15:15:54 GMT"
     }
   ]
 }
