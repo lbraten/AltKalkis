@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-07T16:58:23.989Z",
+  "updatedAt": "2026-08-07T17:53:59.774Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA nærmer seg sanksjoner mot Russland og Iran",
+      "link": "https://www.nrk.no/nyheter/usa-naermer-seg-sanksjoner-mot-russland-og-iran-1.17982719",
+      "category": "USA",
+      "pubDate": "Fri, 07 Aug 2026 17:40:26 GMT"
+    },
+    {
+      "title": "Voldshendelse i Fredrikstad",
+      "link": "https://www.nrk.no/ostfold/voldshendelse-i-fredrikstad-1.17982621",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Fri, 07 Aug 2026 17:28:47 GMT"
+    },
     {
       "title": "Ny Jordan-ambassadør etter Mona Juul",
       "link": "https://www.nrk.no/nyheter/ny-jordan-ambassador-etter-mona-juul-1.17982679",
@@ -15,8 +27,8 @@
       "pubDate": "Fri, 07 Aug 2026 15:43:42 GMT"
     },
     {
-      "title": "Frontkollisjon mellom lastebil og personbil i tunnel E16 i Vaksdal: – Evakuerer",
-      "link": "https://www.nrk.no/vestland/frontkollisjon-mellom-lastebil-og-personbil-i-tunnel-e16-i-vaksdal_-_-evakuerer-1.17982641",
+      "title": "Frontkollisjon i Trollkonetunnelen på E16 i Vaksdal",
+      "link": "https://www.nrk.no/vestland/frontkollisjon-i-trollkonetunnelen-pa-e16-i-vaksdal-1.17982641",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Fri, 07 Aug 2026 15:42:26 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/-syklist-alvorlig-skadet-i-ulykke-i-nordre-follo-1.17982305",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 07 Aug 2026 15:15:54 GMT"
-    },
-    {
-      "title": "Tekniske feil hos apotek er nå rettet",
-      "link": "https://www.nrk.no/nyheter/tekniske-feil-hos-apotek-er-na-rettet--1.17982633",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 07 Aug 2026 14:56:39 GMT"
-    },
-    {
-      "title": "BA: Foreldre fengslet for mishandling i Bergen",
-      "link": "https://www.nrk.no/vestland/ba_-foreldre-fengslet-for-mishandling-i-bergen-1.17982634",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 07 Aug 2026 14:51:40 GMT"
     }
   ]
 }
