@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T20:31:02.396Z",
+  "updatedAt": "2026-08-08T21:31:45.882Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fire omkom i helikopterstyrt i Brasil",
+      "link": "https://www.nrk.no/nyheter/fire-omkom-i-helikopterstyrt-i-brasil-1.17983458",
+      "category": "Brasil",
+      "pubDate": "Sat, 08 Aug 2026 21:29:49 GMT"
+    },
     {
       "title": "20.000 evakuert fra skogbrann i Canada - erklærer unntakstilstand",
       "link": "https://www.nrk.no/nyheter/20.000-evakuert-fra-skogbrann-i-canada---erklaerer-unntakstilstand-1.17983169",
@@ -15,8 +21,8 @@
       "pubDate": "Sat, 08 Aug 2026 19:42:46 GMT"
     },
     {
-      "title": "Fant savnet bærplukker i god behold",
-      "link": "https://www.nrk.no/trondelag/fant-savnet-baerplukker-i-god-behold-1.17983314",
+      "title": "Savnet bærplukker funnet i god behold",
+      "link": "https://www.nrk.no/trondelag/savnet-baerplukker-funnet-i-god-behold-1.17983314",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sat, 08 Aug 2026 18:55:55 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/buskerud/-bilbrann-slukket-_-hadde-spredningsfare-til-bygning-1.17983258",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sat, 08 Aug 2026 16:29:55 GMT"
-    },
-    {
-      "title": "Minst 19 skadet i togkollisjon i Kroatia",
-      "link": "https://www.nrk.no/nyheter/minst-19-skadet-i-togkollisjon-i-kroatia-1.17983240",
-      "category": "Kroatia",
-      "pubDate": "Sat, 08 Aug 2026 15:38:59 GMT"
     }
   ]
 }
