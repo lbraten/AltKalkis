@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-08T10:34:41.584Z",
+  "updatedAt": "2026-08-08T11:29:39.986Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Drone eksploderte over bulgarsk luftrom",
+      "link": "https://www.nrk.no/nyheter/drone-eksploderte-over-bulgarsk-luftrom-1.17983075",
+      "category": "Bulgaria",
+      "pubDate": "Sat, 08 Aug 2026 11:08:04 GMT"
+    },
+    {
+      "title": "Elleve drept i russiske angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/elleve-drept-i-russiske-angrep-mot-ukraina-1.17983028",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 08 Aug 2026 11:01:32 GMT"
+    },
+    {
+      "title": "Brann på restaurant-kjøkken",
+      "link": "https://www.nrk.no/stor-oslo/brann-pa-restaurant-kjokken-1.17983053",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 08 Aug 2026 10:56:02 GMT"
+    },
     {
       "title": "Bilbrann sperrar E134 ved Svandalsflotunnelen",
       "link": "https://www.nrk.no/vestland/bilbrann-sperrar-e134-ved-svandalsflotunnelen-1.17982992",
@@ -15,28 +33,10 @@
       "pubDate": "Sat, 08 Aug 2026 09:50:44 GMT"
     },
     {
-      "title": "Buss har kjørt av E6 og veltet i Namsskogan – flere skal være skadet, ifølge politiet",
-      "link": "https://www.nrk.no/nyheter/buss-har-kjort-av-e6-og-veltet-i-namsskogan-_-flere-skal-vaere-skadet_-ifolge-politiet-1.17982997",
+      "title": "Buss har kjørt av E6 og veltet i Namsskogan – flere skal være skadd, ifølge politiet",
+      "link": "https://www.nrk.no/nyheter/buss-har-kjort-av-e6-og-veltet-i-namsskogan-_-flere-skal-vaere-skadd_-ifolge-politiet-1.17982997",
       "category": "high",
       "pubDate": "Sat, 08 Aug 2026 09:49:52 GMT"
-    },
-    {
-      "title": "Kroatia: Nordmann siktet for voldtekt",
-      "link": "https://www.nrk.no/nyheter/kroatia_-nordmann-siktet-for-voldtekt-1.17983006",
-      "category": "Kroatia",
-      "pubDate": "Sat, 08 Aug 2026 09:12:09 GMT"
-    },
-    {
-      "title": "Senatet godkjenner Todd Blanche som USAs nye justisminister",
-      "link": "https://www.nrk.no/nyheter/senatet-godkjenner-todd-blanche-som-usas-nye-justisminister-1.17982995",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 08 Aug 2026 08:52:35 GMT"
-    },
-    {
-      "title": "Voldshendelsen i Fredrikstad: Tre personer siktet for grov kroppsskade",
-      "link": "https://www.nrk.no/nyheter/voldshendelsen-i-fredrikstad_-tre-personer-siktet-for-grov-kroppsskade-1.17982968",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 08 Aug 2026 08:37:50 GMT"
     }
   ]
 }
