@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T03:27:06.112Z",
+  "updatedAt": "2026-08-08T04:36:03.000Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Én kritisk skadet etter båtulykke på Nordmøre",
+      "link": "https://www.nrk.no/nyheter/en-kritisk-skadet-etter-batulykke-pa-nordmore-1.17982900",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 08 Aug 2026 04:06:56 GMT"
+    },
     {
       "title": "Ukraina: Tre drept i angrep mot Kyiv-regionen",
       "link": "https://www.nrk.no/nyheter/ukraina_-tre-drept-i-angrep-mot-kyiv-regionen-1.17982899",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/lastebil-mistet-atte-tonn-laks-i-trondelag-1.17982887",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Fri, 07 Aug 2026 23:50:46 GMT"
-    },
-    {
-      "title": "Beruset sjåfør stanset: – Holdt på å kjøre ned fotgjengere",
-      "link": "https://www.nrk.no/nyheter/beruset-sjafor-stanset_-_-holdt-pa-a-kjore-ned-fotgjengere-1.17982886",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 07 Aug 2026 23:12:08 GMT"
     }
   ]
 }
