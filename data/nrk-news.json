@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-08-08T19:30:36.789Z",
+  "updatedAt": "2026-08-08T20:31:02.396Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Søker etter savnet mann i Lierne",
-      "link": "https://www.nrk.no/trondelag/soker-etter-savnet-mann-i-lierne--1.17983314",
+      "title": "20.000 evakuert fra skogbrann i Canada - erklærer unntakstilstand",
+      "link": "https://www.nrk.no/nyheter/20.000-evakuert-fra-skogbrann-i-canada---erklaerer-unntakstilstand-1.17983169",
+      "category": "Canada",
+      "pubDate": "Sat, 08 Aug 2026 20:19:48 GMT"
+    },
+    {
+      "title": "Sverige: Barn omkom i traktorulykke",
+      "link": "https://www.nrk.no/nyheter/sverige_-barn-omkom-i-traktorulykke-1.17983392",
+      "category": "Sverige",
+      "pubDate": "Sat, 08 Aug 2026 19:42:46 GMT"
+    },
+    {
+      "title": "Fant savnet bærplukker i god behold",
+      "link": "https://www.nrk.no/trondelag/fant-savnet-baerplukker-i-god-behold-1.17983314",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sat, 08 Aug 2026 18:55:55 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-19-skadet-i-togkollisjon-i-kroatia-1.17983240",
       "category": "Kroatia",
       "pubDate": "Sat, 08 Aug 2026 15:38:59 GMT"
-    },
-    {
-      "title": "Bulgaria om droneeksplosjonen: «Utbredt i det ukrainske militæret»",
-      "link": "https://www.nrk.no/nyheter/bulgaria-om-droneeksplosjonen_-_utbredt-i-det-ukrainske-militaeret_-1.17983189",
-      "category": "Bulgaria",
-      "pubDate": "Sat, 08 Aug 2026 14:57:59 GMT"
-    },
-    {
-      "title": "Nødetater rykket ut til ulykke i Vinje",
-      "link": "https://www.nrk.no/vestfoldogtelemark/nodetater-rykket-ut-til-ulykke-i-vinje-1.17983162",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 08 Aug 2026 14:10:33 GMT"
     }
   ]
 }
