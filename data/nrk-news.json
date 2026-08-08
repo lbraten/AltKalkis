@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T12:58:14.423Z",
+  "updatedAt": "2026-08-08T13:50:32.188Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skip truffet av prosjektil i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/skip-truffet-av-prosjektil-i-hormuzstredet-1.17983107",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 08 Aug 2026 13:33:44 GMT"
+    },
     {
       "title": "Dødsulykke - mistanke mot bilfører svekket",
       "link": "https://www.nrk.no/stor-oslo/dodsulykke---mistanke-mot-bilforer-svekket-1.17983091",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/brann-pa-restaurant-kjokken-1.17983053",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 08 Aug 2026 10:56:02 GMT"
-    },
-    {
-      "title": "E134 opna att etter bilbrann ved Svandalsflotunnelen",
-      "link": "https://www.nrk.no/vestland/e134-opna-att-etter-bilbrann-ved-svandalsflotunnelen-1.17982992",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 08 Aug 2026 10:08:54 GMT"
     }
   ]
 }
