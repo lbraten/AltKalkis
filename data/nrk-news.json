@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-08T18:38:44.878Z",
+  "updatedAt": "2026-08-08T19:30:36.789Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Gutt alvorlig skadet i sykkelulykke i Innlandet",
-      "link": "https://www.nrk.no/nyheter/gutt-alvorlig-skadet-i-sykkelulykke-i-innlandet-1.17983269",
+      "title": "Søker etter savnet mann i Lierne",
+      "link": "https://www.nrk.no/trondelag/soker-etter-savnet-mann-i-lierne--1.17983314",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 08 Aug 2026 18:55:55 GMT"
+    },
+    {
+      "title": "Gutt alvorlig skadet i sykkelulykke på Toten",
+      "link": "https://www.nrk.no/nyheter/gutt-alvorlig-skadet-i-sykkelulykke-pa-toten-1.17983269",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sat, 08 Aug 2026 18:30:31 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/nodetater-rykket-ut-til-ulykke-i-vinje-1.17983162",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 08 Aug 2026 14:10:33 GMT"
-    },
-    {
-      "title": "Skip truffet av prosjektil i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/skip-truffet-av-prosjektil-i-hormuzstredet-1.17983107",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 08 Aug 2026 13:33:44 GMT"
     }
   ]
 }
