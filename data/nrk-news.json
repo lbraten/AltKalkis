@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-08T11:56:27.733Z",
+  "updatedAt": "2026-08-08T12:58:14.423Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dødsulykke - mistanke mot bilfører svekket",
+      "link": "https://www.nrk.no/stor-oslo/dodsulykke---mistanke-mot-bilforer-svekket-1.17983091",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 08 Aug 2026 12:31:50 GMT"
+    },
+    {
+      "title": "Nærbø-saken: Avviser fengsling-anke",
+      "link": "https://www.nrk.no/rogaland/naerbo-saken_-avviser-fengsling-anke-1.17982996",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 08 Aug 2026 12:19:43 GMT"
+    },
     {
       "title": "Drone eksploderte over bulgarsk luftrom",
       "link": "https://www.nrk.no/nyheter/drone-eksploderte-over-bulgarsk-luftrom-1.17983075",
@@ -21,22 +33,10 @@
       "pubDate": "Sat, 08 Aug 2026 10:56:02 GMT"
     },
     {
-      "title": "Bilbrann sperrar E134 ved Svandalsflotunnelen - opnar snart",
-      "link": "https://www.nrk.no/vestland/bilbrann-sperrar-e134-ved-svandalsflotunnelen---opnar-snart-1.17982992",
+      "title": "E134 opna att etter bilbrann ved Svandalsflotunnelen",
+      "link": "https://www.nrk.no/vestland/e134-opna-att-etter-bilbrann-ved-svandalsflotunnelen-1.17982992",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 08 Aug 2026 10:08:54 GMT"
-    },
-    {
-      "title": "Småfly på taket på Kjeller flyplass",
-      "link": "https://www.nrk.no/stor-oslo/smafly-pa-taket-pa-kjeller-flyplass-1.17982930",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 08 Aug 2026 09:50:44 GMT"
-    },
-    {
-      "title": "Buss har kjørt av E6 og veltet i Namsskogan – flere skal være skadd, ifølge politiet",
-      "link": "https://www.nrk.no/nyheter/buss-har-kjort-av-e6-og-veltet-i-namsskogan-_-flere-skal-vaere-skadd_-ifolge-politiet-1.17982997",
-      "category": "high",
-      "pubDate": "Sat, 08 Aug 2026 09:49:52 GMT"
     }
   ]
 }
