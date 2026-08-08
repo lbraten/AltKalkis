@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T14:32:32.365Z",
+  "updatedAt": "2026-08-08T15:31:06.449Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bulgaria om droneeksplosjonen: «Utbredt i det ukrainske militæret»",
+      "link": "https://www.nrk.no/nyheter/bulgaria-om-droneeksplosjonen_-_utbredt-i-det-ukrainske-militaeret_-1.17983189",
+      "category": "Bulgaria",
+      "pubDate": "Sat, 08 Aug 2026 14:57:59 GMT"
+    },
     {
       "title": "Et barn er påkjørt i Vinje",
       "link": "https://www.nrk.no/vestfoldogtelemark/et-barn-er-pakjort-i-vinje-1.17983162",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/drone-eksploderte-over-bulgarsk-luftrom-1.17983075",
       "category": "Bulgaria",
       "pubDate": "Sat, 08 Aug 2026 11:08:04 GMT"
-    },
-    {
-      "title": "Elleve drept i russiske angrep mot Ukraina",
-      "link": "https://www.nrk.no/nyheter/elleve-drept-i-russiske-angrep-mot-ukraina-1.17983028",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 08 Aug 2026 11:01:32 GMT"
     }
   ]
 }
