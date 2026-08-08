@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T06:55:35.985Z",
+  "updatedAt": "2026-08-08T07:50:55.759Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Stort salg av gulrøtter i sommer: – Haaland-effekt",
+      "link": "https://www.nrk.no/nyheter/stort-salg-av-gulrotter-i-sommer_-_-haaland-effekt-1.17982936",
+      "category": "Helse og kosthold",
+      "pubDate": "Sat, 08 Aug 2026 07:25:38 GMT"
+    },
     {
       "title": "Avskogingen i Amazonas ned med 35 prosent fra 2025",
       "link": "https://www.nrk.no/nyheter/avskogingen-i-amazonas-ned-med-35-prosent-fra-2025-1.17982903",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-fraktet-til-sykehus-etter-batulykke-pa-nordmore-1.17982889",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sat, 08 Aug 2026 02:58:41 GMT"
-    },
-    {
-      "title": "Båt synker på Nordmøre",
-      "link": "https://www.nrk.no/nyheter/bat-synker-pa-nordmore-1.17982897",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 08 Aug 2026 02:05:44 GMT"
     }
   ]
 }
