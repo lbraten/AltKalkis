@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-08T15:31:06.449Z",
+  "updatedAt": "2026-08-08T16:35:12.065Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i kjøretøy med fare for spredning",
+      "link": "https://www.nrk.no/buskerud/brann-i-kjoretoy-med-fare-for-spredning---1.17983258",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sat, 08 Aug 2026 16:29:55 GMT"
+    },
+    {
+      "title": "Minst 19 skadet i togkollisjon i Kroatia",
+      "link": "https://www.nrk.no/nyheter/minst-19-skadet-i-togkollisjon-i-kroatia-1.17983240",
+      "category": "Kroatia",
+      "pubDate": "Sat, 08 Aug 2026 15:38:59 GMT"
+    },
     {
       "title": "Bulgaria om droneeksplosjonen: «Utbredt i det ukrainske militæret»",
       "link": "https://www.nrk.no/nyheter/bulgaria-om-droneeksplosjonen_-_utbredt-i-det-ukrainske-militaeret_-1.17983189",
@@ -9,8 +21,8 @@
       "pubDate": "Sat, 08 Aug 2026 14:57:59 GMT"
     },
     {
-      "title": "Et barn er påkjørt i Vinje",
-      "link": "https://www.nrk.no/vestfoldogtelemark/et-barn-er-pakjort-i-vinje-1.17983162",
+      "title": "Nødetater rykket ut til ulykke i Vinje",
+      "link": "https://www.nrk.no/vestfoldogtelemark/nodetater-rykket-ut-til-ulykke-i-vinje-1.17983162",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 08 Aug 2026 14:10:33 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/dodsulykke---mistanke-mot-bilforer-svekket-1.17983091",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 08 Aug 2026 12:31:50 GMT"
-    },
-    {
-      "title": "Nærbø-saken: Avviser fengsling-anke",
-      "link": "https://www.nrk.no/rogaland/naerbo-saken_-avviser-fengsling-anke-1.17982996",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 08 Aug 2026 12:19:43 GMT"
-    },
-    {
-      "title": "Drone eksploderte over bulgarsk luftrom",
-      "link": "https://www.nrk.no/nyheter/drone-eksploderte-over-bulgarsk-luftrom-1.17983075",
-      "category": "Bulgaria",
-      "pubDate": "Sat, 08 Aug 2026 11:08:04 GMT"
     }
   ]
 }
