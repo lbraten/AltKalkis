@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T05:43:09.280Z",
+  "updatedAt": "2026-08-08T06:55:35.985Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Avskogingen i Amazonas ned med 35 prosent fra 2025",
+      "link": "https://www.nrk.no/nyheter/avskogingen-i-amazonas-ned-med-35-prosent-fra-2025-1.17982903",
+      "category": "Amazonas",
+      "pubDate": "Sat, 08 Aug 2026 06:20:15 GMT"
+    },
     {
       "title": "Hunter Biden: Farens benådning «ikke bra» for ettermælet",
       "link": "https://www.nrk.no/nyheter/hunter-biden_-farens-benadning__ikke-bra_-for-ettermaelet-1.17982901",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bat-synker-pa-nordmore-1.17982897",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sat, 08 Aug 2026 02:05:44 GMT"
-    },
-    {
-      "title": "Eksplosjoner hørt i Kyiv – ber folk søke tilflukt",
-      "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-kyiv-_-ber-folk-soke-tilflukt-1.17982888",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 08 Aug 2026 00:23:44 GMT"
     }
   ]
 }
