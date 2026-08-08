@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-08T01:45:03.626Z",
+  "updatedAt": "2026-08-08T03:27:06.112Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina: Tre drept i angrep mot Kyiv-regionen",
+      "link": "https://www.nrk.no/nyheter/ukraina_-tre-drept-i-angrep-mot-kyiv-regionen-1.17982899",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 08 Aug 2026 03:14:42 GMT"
+    },
+    {
+      "title": "To fraktet til sykehus etter båtulykke på Nordmøre",
+      "link": "https://www.nrk.no/nyheter/to-fraktet-til-sykehus-etter-batulykke-pa-nordmore-1.17982889",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 08 Aug 2026 02:58:41 GMT"
+    },
+    {
+      "title": "Båt synker på Nordmøre",
+      "link": "https://www.nrk.no/nyheter/bat-synker-pa-nordmore-1.17982897",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 08 Aug 2026 02:05:44 GMT"
+    },
     {
       "title": "Eksplosjoner hørt i Kyiv – ber folk søke tilflukt",
       "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-kyiv-_-ber-folk-soke-tilflukt-1.17982888",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/beruset-sjafor-stanset_-_-holdt-pa-a-kjore-ned-fotgjengere-1.17982886",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Fri, 07 Aug 2026 23:12:08 GMT"
-    },
-    {
-      "title": "FN bekymret for Jemen",
-      "link": "https://www.nrk.no/nyheter/fn-bekymret-for-jemen-1.17982872",
-      "category": "Jemen",
-      "pubDate": "Fri, 07 Aug 2026 22:49:39 GMT"
-    },
-    {
-      "title": "Ny president i Colombia tatt i ed",
-      "link": "https://www.nrk.no/nyheter/ny-president-i-colombia-tatt-i-ed-1.17982858",
-      "category": "Colombia",
-      "pubDate": "Fri, 07 Aug 2026 21:35:25 GMT"
-    },
-    {
-      "title": "Haaland-sang nomineres til «årets låt»",
-      "link": "https://www.nrk.no/nyheter/haaland-sang-nomineres-til-_arets-lat_-1.17982827",
-      "category": "Spellemannprisen",
-      "pubDate": "Fri, 07 Aug 2026 20:03:49 GMT"
     }
   ]
 }
