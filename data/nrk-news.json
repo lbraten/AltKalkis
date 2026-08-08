@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T04:36:03.000Z",
+  "updatedAt": "2026-08-08T05:43:09.280Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Hunter Biden: Farens benådning «ikke bra» for ettermælet",
+      "link": "https://www.nrk.no/nyheter/hunter-biden_-farens-benadning__ikke-bra_-for-ettermaelet-1.17982901",
+      "category": "Joe Biden",
+      "pubDate": "Sat, 08 Aug 2026 04:53:16 GMT"
+    },
     {
       "title": "Én kritisk skadet etter båtulykke på Nordmøre",
       "link": "https://www.nrk.no/nyheter/en-kritisk-skadet-etter-batulykke-pa-nordmore-1.17982900",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-kyiv-_-ber-folk-soke-tilflukt-1.17982888",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 08 Aug 2026 00:23:44 GMT"
-    },
-    {
-      "title": "Lastebil mistet åtte tonn laks i Trøndelag",
-      "link": "https://www.nrk.no/nyheter/lastebil-mistet-atte-tonn-laks-i-trondelag-1.17982887",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 07 Aug 2026 23:50:46 GMT"
     }
   ]
 }
