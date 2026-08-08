@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T13:50:32.188Z",
+  "updatedAt": "2026-08-08T14:32:32.365Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Et barn er påkjørt i Vinje",
+      "link": "https://www.nrk.no/vestfoldogtelemark/et-barn-er-pakjort-i-vinje-1.17983162",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 08 Aug 2026 14:10:33 GMT"
+    },
     {
       "title": "Skip truffet av prosjektil i Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/skip-truffet-av-prosjektil-i-hormuzstredet-1.17983107",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/elleve-drept-i-russiske-angrep-mot-ukraina-1.17983028",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 08 Aug 2026 11:01:32 GMT"
-    },
-    {
-      "title": "Brann på restaurant-kjøkken",
-      "link": "https://www.nrk.no/stor-oslo/brann-pa-restaurant-kjokken-1.17983053",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 08 Aug 2026 10:56:02 GMT"
     }
   ]
 }
