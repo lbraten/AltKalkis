@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-08-08T08:42:41.286Z",
+  "updatedAt": "2026-08-08T09:39:12.635Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Voldshendelsen i Fredrikstad: To personer siktet for grov kroppsskade",
-      "link": "https://www.nrk.no/nyheter/voldshendelsen-i-fredrikstad_-to-personer-siktet-for-grov-kroppsskade-1.17982968",
+      "title": "Kroatia: Nordmann siktet for voldtekt",
+      "link": "https://www.nrk.no/nyheter/kroatia_-nordmann-siktet-for-voldtekt-1.17983006",
+      "category": "Kroatia",
+      "pubDate": "Sat, 08 Aug 2026 09:12:09 GMT"
+    },
+    {
+      "title": "Senatet godkjenner Todd Blanche som USAs nye justisminister",
+      "link": "https://www.nrk.no/nyheter/senatet-godkjenner-todd-blanche-som-usas-nye-justisminister-1.17982995",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 08 Aug 2026 08:52:35 GMT"
+    },
+    {
+      "title": "Voldshendelsen i Fredrikstad: Tre personer siktet for grov kroppsskade",
+      "link": "https://www.nrk.no/nyheter/voldshendelsen-i-fredrikstad_-tre-personer-siktet-for-grov-kroppsskade-1.17982968",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sat, 08 Aug 2026 08:37:50 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hunter-biden_-farens-benadning__ikke-bra_-for-ettermaelet-1.17982901",
       "category": "Joe Biden",
       "pubDate": "Sat, 08 Aug 2026 04:53:16 GMT"
-    },
-    {
-      "title": "Én kritisk skadet etter båtulykke på Nordmøre",
-      "link": "https://www.nrk.no/nyheter/en-kritisk-skadet-etter-batulykke-pa-nordmore-1.17982900",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 08 Aug 2026 04:06:56 GMT"
-    },
-    {
-      "title": "Ukraina: Tre drept i angrep mot Kyiv-regionen",
-      "link": "https://www.nrk.no/nyheter/ukraina_-tre-drept-i-angrep-mot-kyiv-regionen-1.17982899",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 08 Aug 2026 03:14:42 GMT"
     }
   ]
 }
