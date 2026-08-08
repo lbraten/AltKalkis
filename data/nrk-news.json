@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-08T09:39:12.635Z",
+  "updatedAt": "2026-08-08T10:34:41.584Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bilbrann sperrar E134 ved Svandalsflotunnelen",
+      "link": "https://www.nrk.no/vestland/bilbrann-sperrar-e134-ved-svandalsflotunnelen-1.17982992",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 08 Aug 2026 10:08:54 GMT"
+    },
+    {
+      "title": "Småfly på taket på Kjeller flyplass",
+      "link": "https://www.nrk.no/stor-oslo/smafly-pa-taket-pa-kjeller-flyplass-1.17982930",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 08 Aug 2026 09:50:44 GMT"
+    },
+    {
+      "title": "Buss har kjørt av E6 og veltet i Namsskogan – flere skal være skadet, ifølge politiet",
+      "link": "https://www.nrk.no/nyheter/buss-har-kjort-av-e6-og-veltet-i-namsskogan-_-flere-skal-vaere-skadet_-ifolge-politiet-1.17982997",
+      "category": "high",
+      "pubDate": "Sat, 08 Aug 2026 09:49:52 GMT"
+    },
     {
       "title": "Kroatia: Nordmann siktet for voldtekt",
       "link": "https://www.nrk.no/nyheter/kroatia_-nordmann-siktet-for-voldtekt-1.17983006",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/voldshendelsen-i-fredrikstad_-tre-personer-siktet-for-grov-kroppsskade-1.17982968",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sat, 08 Aug 2026 08:37:50 GMT"
-    },
-    {
-      "title": "Stort salg av gulrøtter i sommer: – Haaland-effekt",
-      "link": "https://www.nrk.no/nyheter/stort-salg-av-gulrotter-i-sommer_-_-haaland-effekt-1.17982936",
-      "category": "Helse og kosthold",
-      "pubDate": "Sat, 08 Aug 2026 07:25:38 GMT"
-    },
-    {
-      "title": "Avskogingen i Amazonas ned med 35 prosent fra 2025",
-      "link": "https://www.nrk.no/nyheter/avskogingen-i-amazonas-ned-med-35-prosent-fra-2025-1.17982903",
-      "category": "Amazonas",
-      "pubDate": "Sat, 08 Aug 2026 06:20:15 GMT"
-    },
-    {
-      "title": "Hunter Biden: Farens benådning «ikke bra» for ettermælet",
-      "link": "https://www.nrk.no/nyheter/hunter-biden_-farens-benadning__ikke-bra_-for-ettermaelet-1.17982901",
-      "category": "Joe Biden",
-      "pubDate": "Sat, 08 Aug 2026 04:53:16 GMT"
     }
   ]
 }
