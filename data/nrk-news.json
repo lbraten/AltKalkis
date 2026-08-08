@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T17:31:43.214Z",
+  "updatedAt": "2026-08-08T18:38:44.878Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Gutt alvorlig skadet i sykkelulykke i Innlandet",
+      "link": "https://www.nrk.no/nyheter/gutt-alvorlig-skadet-i-sykkelulykke-i-innlandet-1.17983269",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 08 Aug 2026 18:30:31 GMT"
+    },
     {
       "title": "Bilbrann slukket – hadde spredningsfare til bygning",
       "link": "https://www.nrk.no/buskerud/-bilbrann-slukket-_-hadde-spredningsfare-til-bygning-1.17983258",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skip-truffet-av-prosjektil-i-hormuzstredet-1.17983107",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 08 Aug 2026 13:33:44 GMT"
-    },
-    {
-      "title": "Dødsulykke - mistanke mot bilfører svekket",
-      "link": "https://www.nrk.no/stor-oslo/dodsulykke---mistanke-mot-bilforer-svekket-1.17983091",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 08 Aug 2026 12:31:50 GMT"
     }
   ]
 }
