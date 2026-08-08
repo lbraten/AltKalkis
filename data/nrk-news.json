@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-08T07:50:55.759Z",
+  "updatedAt": "2026-08-08T08:42:41.286Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Voldshendelsen i Fredrikstad: To personer siktet for grov kroppsskade",
+      "link": "https://www.nrk.no/nyheter/voldshendelsen-i-fredrikstad_-to-personer-siktet-for-grov-kroppsskade-1.17982968",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 08 Aug 2026 08:37:50 GMT"
+    },
     {
       "title": "Stort salg av gulrøtter i sommer: – Haaland-effekt",
       "link": "https://www.nrk.no/nyheter/stort-salg-av-gulrotter-i-sommer_-_-haaland-effekt-1.17982936",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina_-tre-drept-i-angrep-mot-kyiv-regionen-1.17982899",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 08 Aug 2026 03:14:42 GMT"
-    },
-    {
-      "title": "To fraktet til sykehus etter båtulykke på Nordmøre",
-      "link": "https://www.nrk.no/nyheter/to-fraktet-til-sykehus-etter-batulykke-pa-nordmore-1.17982889",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 08 Aug 2026 02:58:41 GMT"
     }
   ]
 }
