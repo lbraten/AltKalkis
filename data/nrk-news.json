@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-09T20:33:47.466Z",
+  "updatedAt": "2026-08-09T21:33:30.041Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Hyttebrann i Lillestrøm",
+      "link": "https://www.nrk.no/nyheter/hyttebrann-i-lillestrom-1.17984052",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 09 Aug 2026 20:42:27 GMT"
+    },
     {
       "title": "Rekordmange dager med 30 grader i Storbritannia",
       "link": "https://www.nrk.no/nyheter/rekordmange-dager-med-30-grader-i-storbritannia-1.17983958",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/person-i-sjoen-i-sandnes-1.17983905",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sun, 09 Aug 2026 16:12:26 GMT"
-    },
-    {
-      "title": "Mistenkelig dødsfall i Haugesund",
-      "link": "https://www.nrk.no/nyheter/mistenkelig-dodsfall-i-haugesund-1.17983890",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 09 Aug 2026 15:53:02 GMT"
     }
   ]
 }
