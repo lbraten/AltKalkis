@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-09T18:42:09.846Z",
+  "updatedAt": "2026-08-09T19:33:59.873Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Redningsaksjon i Aurland – skadet turgåer flys til sykehus",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-i-aurland-_-skadet-turgaer-flys-til-sykehus-1.17983953",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 09 Aug 2026 17:22:05 GMT"
+    },
     {
       "title": "Politiet har kontroll på farlig mann i Lesja",
       "link": "https://www.nrk.no/nyheter/politiet-har-kontroll-pa-farlig-mann-i-lesja-1.17983894",
@@ -21,8 +27,8 @@
       "pubDate": "Sun, 09 Aug 2026 15:53:02 GMT"
     },
     {
-      "title": "Tre skadet i skyting i Danmark – alle utenfor livsfare",
-      "link": "https://www.nrk.no/nyheter/tre-skadet-i-skyting-i-danmark-_-alle-utenfor-livsfare-1.17983860",
+      "title": "To pågrepet etter skyting i Danmark – tre såret",
+      "link": "https://www.nrk.no/nyheter/to-pagrepet-etter-skyting-i-danmark-_-tre-saret-1.17983860",
       "category": "Danmark",
       "pubDate": "Sun, 09 Aug 2026 15:48:50 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/vaepnet-politiaksjon-i-bergen_-mann-til-sykehus-etter-voldshendelse-1.17983883",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 09 Aug 2026 15:40:07 GMT"
-    },
-    {
-      "title": "Syria og Russland enige om bruk av russiske baser",
-      "link": "https://www.nrk.no/nyheter/syria-og-russland-enige-om-bruk-av-russiske-baser-1.17983702",
-      "category": "Syria",
-      "pubDate": "Sun, 09 Aug 2026 15:10:48 GMT"
     }
   ]
 }
