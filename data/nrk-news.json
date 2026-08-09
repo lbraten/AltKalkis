@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-09T02:20:14.481Z",
+  "updatedAt": "2026-08-09T03:58:11.439Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Spanias grensekontroll mot Italia har trådt i kraft",
+      "link": "https://www.nrk.no/nyheter/spanias-grensekontroll-mot-italia-har-tradt-i-kraft-1.17983484",
+      "category": "Spania",
+      "pubDate": "Sun, 09 Aug 2026 03:07:43 GMT"
+    },
     {
       "title": "Brann ved saudiarabisk raffinerianlegg",
       "link": "https://www.nrk.no/nyheter/brann-ved-saudiarabisk-raffinerianlegg-1.17983480",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ap_-bilbombe-i-colombia-1.17983459",
       "category": "Colombia",
       "pubDate": "Sat, 08 Aug 2026 22:59:43 GMT"
-    },
-    {
-      "title": "Fire omkom i helikopterstyrt i Brasil",
-      "link": "https://www.nrk.no/nyheter/fire-omkom-i-helikopterstyrt-i-brasil-1.17983458",
-      "category": "Brasil",
-      "pubDate": "Sat, 08 Aug 2026 21:29:49 GMT"
     }
   ]
 }
