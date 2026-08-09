@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-09T03:58:11.439Z",
+  "updatedAt": "2026-08-09T05:12:32.232Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FIFA: – Innsats for å undergrave",
+      "link": "https://www.nrk.no/nyheter/-fifa_-_-innsats-for-a-undergrave-1.17983486",
+      "category": "Fifa",
+      "pubDate": "Sun, 09 Aug 2026 04:02:42 GMT"
+    },
     {
       "title": "Spanias grensekontroll mot Italia har trådt i kraft",
       "link": "https://www.nrk.no/nyheter/spanias-grensekontroll-mot-italia-har-tradt-i-kraft-1.17983484",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/afp_-over-20-dode-i-bussulykke-i-niger-1.17983476",
       "category": "Niger",
       "pubDate": "Sun, 09 Aug 2026 00:26:47 GMT"
-    },
-    {
-      "title": "AP: Bilbombe i Colombia",
-      "link": "https://www.nrk.no/nyheter/ap_-bilbombe-i-colombia-1.17983459",
-      "category": "Colombia",
-      "pubDate": "Sat, 08 Aug 2026 22:59:43 GMT"
     }
   ]
 }
