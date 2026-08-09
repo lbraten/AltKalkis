@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-08T23:57:26.971Z",
+  "updatedAt": "2026-08-09T02:20:14.481Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann ved saudiarabisk raffinerianlegg",
+      "link": "https://www.nrk.no/nyheter/brann-ved-saudiarabisk-raffinerianlegg-1.17983480",
+      "category": "Saudi-Arabia",
+      "pubDate": "Sun, 09 Aug 2026 02:08:54 GMT"
+    },
+    {
+      "title": "Snart kroppskamera for alle ICE-agenter",
+      "link": "https://www.nrk.no/nyheter/snart-kroppskamera-for-alle-ice-agenter-1.17983478",
+      "category": "USA",
+      "pubDate": "Sun, 09 Aug 2026 01:44:44 GMT"
+    },
+    {
+      "title": "Flere skudd gjennom leilighetsdør i Sverige",
+      "link": "https://www.nrk.no/nyheter/flere-skudd-gjennom-leilighetsdor-i-sverige-1.17983479",
+      "category": "Sverige",
+      "pubDate": "Sun, 09 Aug 2026 01:34:54 GMT"
+    },
+    {
+      "title": "AFP: Over 20 døde i bussulykke i Niger",
+      "link": "https://www.nrk.no/nyheter/afp_-over-20-dode-i-bussulykke-i-niger-1.17983476",
+      "category": "Niger",
+      "pubDate": "Sun, 09 Aug 2026 00:26:47 GMT"
+    },
     {
       "title": "AP: Bilbombe i Colombia",
       "link": "https://www.nrk.no/nyheter/ap_-bilbombe-i-colombia-1.17983459",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fire-omkom-i-helikopterstyrt-i-brasil-1.17983458",
       "category": "Brasil",
       "pubDate": "Sat, 08 Aug 2026 21:29:49 GMT"
-    },
-    {
-      "title": "20.000 evakuert fra skogbrann i Canada - erklærer unntakstilstand",
-      "link": "https://www.nrk.no/nyheter/20.000-evakuert-fra-skogbrann-i-canada---erklaerer-unntakstilstand-1.17983169",
-      "category": "Canada",
-      "pubDate": "Sat, 08 Aug 2026 20:19:48 GMT"
-    },
-    {
-      "title": "Sverige: Barn omkom i traktorulykke",
-      "link": "https://www.nrk.no/nyheter/sverige_-barn-omkom-i-traktorulykke-1.17983392",
-      "category": "Sverige",
-      "pubDate": "Sat, 08 Aug 2026 19:42:46 GMT"
-    },
-    {
-      "title": "Savnet bærplukker funnet i god behold",
-      "link": "https://www.nrk.no/trondelag/savnet-baerplukker-funnet-i-god-behold-1.17983314",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 08 Aug 2026 18:55:55 GMT"
-    },
-    {
-      "title": "Gutt alvorlig skadet i sykkelulykke på Toten",
-      "link": "https://www.nrk.no/nyheter/gutt-alvorlig-skadet-i-sykkelulykke-pa-toten-1.17983269",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 08 Aug 2026 18:30:31 GMT"
     }
   ]
 }
