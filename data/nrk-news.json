@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-09T22:32:41.204Z",
+  "updatedAt": "2026-08-09T23:32:12.198Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Jemen: – Nye houthi-angrep mot havneby",
+      "link": "https://www.nrk.no/nyheter/jemen_-_-nye-houthi-angrep-mot-havneby-1.17984097",
+      "category": "Jemen",
+      "pubDate": "Sun, 09 Aug 2026 22:59:46 GMT"
+    },
     {
       "title": "Brannvesenet har kontroll på brann i Lillestrøm",
       "link": "https://www.nrk.no/nyheter/brannvesenet-har-kontroll-pa-brann-i-lillestrom-1.17984083",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/stort-jordras-i-jolster-_-raste-ned-mot-vannet-1.17984025",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 09 Aug 2026 19:28:18 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Aurland – skadet turgåer flys til sykehus",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-i-aurland-_-skadet-turgaer-flys-til-sykehus-1.17983953",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 09 Aug 2026 17:22:05 GMT"
     }
   ]
 }
