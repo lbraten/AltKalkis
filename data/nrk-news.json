@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-09T15:32:32.335Z",
+  "updatedAt": "2026-08-09T16:36:48.322Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person i sjøen i Sandnes",
+      "link": "https://www.nrk.no/rogaland/person-i-sjoen-i-sandnes-1.17983905",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 09 Aug 2026 16:12:26 GMT"
+    },
+    {
+      "title": "Mistenkelig dødsfall i Haugesund",
+      "link": "https://www.nrk.no/nyheter/mistenkelig-dodsfall-i-haugesund-1.17983890",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 09 Aug 2026 15:53:02 GMT"
+    },
+    {
+      "title": "Flere skadet i skyting i Danmark",
+      "link": "https://www.nrk.no/nyheter/flere-skadet-i-skyting-i-danmark-1.17983860",
+      "category": "Danmark",
+      "pubDate": "Sun, 09 Aug 2026 15:48:50 GMT"
+    },
+    {
+      "title": "Væpnet politiaksjon i Bergen: Mann til sykehus etter voldshendelse",
+      "link": "https://www.nrk.no/vestland/vaepnet-politiaksjon-i-bergen_-mann-til-sykehus-etter-voldshendelse-1.17983883",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 09 Aug 2026 15:40:07 GMT"
+    },
     {
       "title": "Syria og Russland enige om bruk av russiske baser",
       "link": "https://www.nrk.no/nyheter/syria-og-russland-enige-om-bruk-av-russiske-baser-1.17983702",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/agderposten_-lise-klaveness-apner-arendalsuka-1.17983849",
       "category": "Arendalsuka",
       "pubDate": "Sun, 09 Aug 2026 15:01:02 GMT"
-    },
-    {
-      "title": "Farlig og knivbevæpnet person i Lesja",
-      "link": "https://www.nrk.no/innlandet/farlig-og-knivbevaepnet-person-i-lesja-1.17983832",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 09 Aug 2026 14:42:56 GMT"
-    },
-    {
-      "title": "Tyfon har truffet Kina – over én million evakuert",
-      "link": "https://www.nrk.no/nyheter/tyfon-har-truffet-kina-_-over-en-million-evakuert-1.17983706",
-      "category": "Kina",
-      "pubDate": "Sun, 09 Aug 2026 13:56:26 GMT"
-    },
-    {
-      "title": "Israel avviser plan for Gaza",
-      "link": "https://www.nrk.no/nyheter/israel-avviser-plan-for-gaza-1.17983624",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sun, 09 Aug 2026 11:24:04 GMT"
-    },
-    {
-      "title": "Skred mellom hus på Midttun – usikkert om raset har stansa",
-      "link": "https://www.nrk.no/vestland/skred-mellom-hus-pa-midttun-_-usikkert-om-raset-har-stansa-1.17983649",
-      "category": "Trafikk og vêr i Vestland",
-      "pubDate": "Sun, 09 Aug 2026 10:53:20 GMT"
     }
   ]
 }
