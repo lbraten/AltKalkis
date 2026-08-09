@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-09T16:36:48.322Z",
+  "updatedAt": "2026-08-09T17:32:06.547Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet har kontroll på farlig mann i Lesja",
+      "link": "https://www.nrk.no/nyheter/politiet-har-kontroll-pa-farlig-mann-i-lesja-1.17983894",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 09 Aug 2026 17:11:17 GMT"
+    },
     {
       "title": "Person i sjøen i Sandnes",
       "link": "https://www.nrk.no/rogaland/person-i-sjoen-i-sandnes-1.17983905",
@@ -15,8 +21,8 @@
       "pubDate": "Sun, 09 Aug 2026 15:53:02 GMT"
     },
     {
-      "title": "Flere skadet i skyting i Danmark",
-      "link": "https://www.nrk.no/nyheter/flere-skadet-i-skyting-i-danmark-1.17983860",
+      "title": "Tre skadet i skyting i Danmark – alle utenfor livsfare",
+      "link": "https://www.nrk.no/nyheter/tre-skadet-i-skyting-i-danmark-_-alle-utenfor-livsfare-1.17983860",
       "category": "Danmark",
       "pubDate": "Sun, 09 Aug 2026 15:48:50 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/syria-og-russland-enige-om-bruk-av-russiske-baser-1.17983702",
       "category": "Syria",
       "pubDate": "Sun, 09 Aug 2026 15:10:48 GMT"
-    },
-    {
-      "title": "Agderposten: Lise Klaveness åpner Arendalsuka",
-      "link": "https://www.nrk.no/nyheter/agderposten_-lise-klaveness-apner-arendalsuka-1.17983849",
-      "category": "Arendalsuka",
-      "pubDate": "Sun, 09 Aug 2026 15:01:02 GMT"
     }
   ]
 }
