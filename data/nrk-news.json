@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-09T10:35:52.994Z",
+  "updatedAt": "2026-08-09T11:30:23.837Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel avviser USAs plan for Gaza",
+      "link": "https://www.nrk.no/nyheter/israel-avviser-usas-plan-for-gaza-1.17983624",
+      "category": "Israel",
+      "pubDate": "Sun, 09 Aug 2026 11:24:04 GMT"
+    },
+    {
+      "title": "Skred mellom hus på Midttun – usikkert om raset har stansa",
+      "link": "https://www.nrk.no/vestland/skred-mellom-hus-pa-midttun-_-usikkert-om-raset-har-stansa-1.17983649",
+      "category": "Trafikk og vêr i Vestland",
+      "pubDate": "Sun, 09 Aug 2026 10:53:20 GMT"
+    },
     {
       "title": "Over 20.000 evakuert frå skogbrann i Canada",
       "link": "https://www.nrk.no/nyheter/over-20.000-evakuert-fra-skogbrann-i-canada-1.17983614",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/innlandet/siktet-for-ransforsok-i-ullensaker-_-fengslet-i-fire-uker-1.17983549",
       "category": "Kriminalitet i Innlandet",
       "pubDate": "Sun, 09 Aug 2026 08:09:37 GMT"
-    },
-    {
-      "title": "Målte rekordhøg i Hongkong",
-      "link": "https://www.nrk.no/nyheter/malte-rekordhog-i-hongkong-1.17983553",
-      "category": "Hongkong",
-      "pubDate": "Sun, 09 Aug 2026 08:01:08 GMT"
-    },
-    {
-      "title": "To personer pågrepet etter politiaksjon i Lillesand",
-      "link": "https://www.nrk.no/sorlandet/to-personer-pagrepet-etter-politiaksjon-i-lillesand-1.17983522",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 09 Aug 2026 07:36:39 GMT"
     }
   ]
 }
