@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-09T21:33:30.041Z",
+  "updatedAt": "2026-08-09T22:32:41.204Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brannvesenet har kontroll på brann i Lillestrøm",
+      "link": "https://www.nrk.no/nyheter/brannvesenet-har-kontroll-pa-brann-i-lillestrom-1.17984083",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 09 Aug 2026 22:08:01 GMT"
+    },
+    {
+      "title": "Slutt på «abonnementsfeller» i Storbritannia",
+      "link": "https://www.nrk.no/nyheter/slutt-pa-_abonnementsfeller_-i-storbritannia-1.17984074",
+      "category": "Storbritannia",
+      "pubDate": "Sun, 09 Aug 2026 21:45:41 GMT"
+    },
     {
       "title": "Hyttebrann i Lillestrøm",
       "link": "https://www.nrk.no/nyheter/hyttebrann-i-lillestrom-1.17984052",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/redningsaksjon-i-aurland-_-skadet-turgaer-flys-til-sykehus-1.17983953",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 09 Aug 2026 17:22:05 GMT"
-    },
-    {
-      "title": "Politiet har kontroll på farlig mann i Lesja",
-      "link": "https://www.nrk.no/nyheter/politiet-har-kontroll-pa-farlig-mann-i-lesja-1.17983894",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 09 Aug 2026 17:11:17 GMT"
-    },
-    {
-      "title": "Person i sjøen i Sandnes",
-      "link": "https://www.nrk.no/rogaland/person-i-sjoen-i-sandnes-1.17983905",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 09 Aug 2026 16:12:26 GMT"
     }
   ]
 }
