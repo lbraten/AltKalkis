@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-09T14:35:28.412Z",
+  "updatedAt": "2026-08-09T15:32:32.335Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Syria og Russland enige om bruk av russiske baser",
+      "link": "https://www.nrk.no/nyheter/syria-og-russland-enige-om-bruk-av-russiske-baser-1.17983702",
+      "category": "Syria",
+      "pubDate": "Sun, 09 Aug 2026 15:10:48 GMT"
+    },
+    {
+      "title": "Agderposten: Lise Klaveness åpner Arendalsuka",
+      "link": "https://www.nrk.no/nyheter/agderposten_-lise-klaveness-apner-arendalsuka-1.17983849",
+      "category": "Arendalsuka",
+      "pubDate": "Sun, 09 Aug 2026 15:01:02 GMT"
+    },
+    {
+      "title": "Farlig og knivbevæpnet person i Lesja",
+      "link": "https://www.nrk.no/innlandet/farlig-og-knivbevaepnet-person-i-lesja-1.17983832",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sun, 09 Aug 2026 14:42:56 GMT"
+    },
     {
       "title": "Tyfon har truffet Kina – over én million evakuert",
       "link": "https://www.nrk.no/nyheter/tyfon-har-truffet-kina-_-over-en-million-evakuert-1.17983706",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/skred-mellom-hus-pa-midttun-_-usikkert-om-raset-har-stansa-1.17983649",
       "category": "Trafikk og vêr i Vestland",
       "pubDate": "Sun, 09 Aug 2026 10:53:20 GMT"
-    },
-    {
-      "title": "Over 20.000 evakuert frå skogbrann i Canada",
-      "link": "https://www.nrk.no/nyheter/over-20.000-evakuert-fra-skogbrann-i-canada-1.17983614",
-      "category": "Canada",
-      "pubDate": "Sun, 09 Aug 2026 09:26:20 GMT"
-    },
-    {
-      "title": "Zelenskyj: Odesas havn skadet i russiske angrep",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-odesas-havn-skadet-i-russiske-angrep-1.17983579",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 09 Aug 2026 08:51:32 GMT"
-    },
-    {
-      "title": "Whitney Houston heidra med Barbie-dokke",
-      "link": "https://www.nrk.no/nyheter/whitney-houston-heidra-med-barbie-dokke-1.17983563",
-      "category": "Kjendiser og underholdning",
-      "pubDate": "Sun, 09 Aug 2026 08:12:25 GMT"
     }
   ]
 }
