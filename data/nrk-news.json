@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-09T08:44:09.589Z",
+  "updatedAt": "2026-08-09T09:40:39.894Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 20.000 evakuert frå skogbrann i Canada",
+      "link": "https://www.nrk.no/nyheter/over-20.000-evakuert-fra-skogbrann-i-canada-1.17983614",
+      "category": "Canada",
+      "pubDate": "Sun, 09 Aug 2026 09:26:20 GMT"
+    },
+    {
+      "title": "Zelenskyj: Odesas havn skadet i russiske angrep",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-odesas-havn-skadet-i-russiske-angrep-1.17983579",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 09 Aug 2026 08:51:32 GMT"
+    },
     {
       "title": "Whitney Houston heidra med Barbie-dokke",
       "link": "https://www.nrk.no/nyheter/whitney-houston-heidra-med-barbie-dokke-1.17983563",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/to-personer-pagrepet-etter-politiaksjon-i-lillesand-1.17983522",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 09 Aug 2026 07:36:39 GMT"
-    },
-    {
-      "title": "Houthi-militsen tek på seg ansvaret for raffineribrann",
-      "link": "https://www.nrk.no/nyheter/houthi-militsen-tek-pa-seg-ansvaret-for-raffineribrann-1.17983493",
-      "category": "Jemen",
-      "pubDate": "Sun, 09 Aug 2026 07:33:45 GMT"
-    },
-    {
-      "title": "Mann sendt til sykehus etter voldshendelse i Elverum",
-      "link": "https://www.nrk.no/nyheter/mann-sendt-til-sykehus-etter-voldshendelse-i-elverum-1.17983490",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sun, 09 Aug 2026 05:41:43 GMT"
     }
   ]
 }
