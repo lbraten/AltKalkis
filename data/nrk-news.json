@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-09T19:33:59.873Z",
+  "updatedAt": "2026-08-09T20:33:47.466Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rekordmange dager med 30 grader i Storbritannia",
+      "link": "https://www.nrk.no/nyheter/rekordmange-dager-med-30-grader-i-storbritannia-1.17983958",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sun, 09 Aug 2026 19:51:15 GMT"
+    },
+    {
+      "title": "Stort jordras i Jølster – raste ned mot vannet",
+      "link": "https://www.nrk.no/vestland/stort-jordras-i-jolster-_-raste-ned-mot-vannet-1.17984025",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 09 Aug 2026 19:28:18 GMT"
+    },
     {
       "title": "Redningsaksjon i Aurland – skadet turgåer flys til sykehus",
       "link": "https://www.nrk.no/vestland/redningsaksjon-i-aurland-_-skadet-turgaer-flys-til-sykehus-1.17983953",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mistenkelig-dodsfall-i-haugesund-1.17983890",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sun, 09 Aug 2026 15:53:02 GMT"
-    },
-    {
-      "title": "To pågrepet etter skyting i Danmark – tre såret",
-      "link": "https://www.nrk.no/nyheter/to-pagrepet-etter-skyting-i-danmark-_-tre-saret-1.17983860",
-      "category": "Danmark",
-      "pubDate": "Sun, 09 Aug 2026 15:48:50 GMT"
-    },
-    {
-      "title": "Væpnet politiaksjon i Bergen: Mann til sykehus etter voldshendelse",
-      "link": "https://www.nrk.no/vestland/vaepnet-politiaksjon-i-bergen_-mann-til-sykehus-etter-voldshendelse-1.17983883",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 09 Aug 2026 15:40:07 GMT"
     }
   ]
 }
