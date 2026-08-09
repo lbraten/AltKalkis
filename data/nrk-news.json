@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-09T07:32:38.515Z",
+  "updatedAt": "2026-08-09T08:44:09.589Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Whitney Houston heidra med Barbie-dokke",
+      "link": "https://www.nrk.no/nyheter/whitney-houston-heidra-med-barbie-dokke-1.17983563",
+      "category": "Kjendiser og underholdning",
+      "pubDate": "Sun, 09 Aug 2026 08:12:25 GMT"
+    },
+    {
+      "title": "Siktet for ransforsøk i Ullensaker – fengslet i fire uker",
+      "link": "https://www.nrk.no/innlandet/siktet-for-ransforsok-i-ullensaker-_-fengslet-i-fire-uker-1.17983549",
+      "category": "Kriminalitet i Innlandet",
+      "pubDate": "Sun, 09 Aug 2026 08:09:37 GMT"
+    },
+    {
+      "title": "Målte rekordhøg i Hongkong",
+      "link": "https://www.nrk.no/nyheter/malte-rekordhog-i-hongkong-1.17983553",
+      "category": "Hongkong",
+      "pubDate": "Sun, 09 Aug 2026 08:01:08 GMT"
+    },
+    {
+      "title": "To personer pågrepet etter politiaksjon i Lillesand",
+      "link": "https://www.nrk.no/sorlandet/to-personer-pagrepet-etter-politiaksjon-i-lillesand-1.17983522",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 09 Aug 2026 07:36:39 GMT"
+    },
+    {
+      "title": "Houthi-militsen tek på seg ansvaret for raffineribrann",
+      "link": "https://www.nrk.no/nyheter/houthi-militsen-tek-pa-seg-ansvaret-for-raffineribrann-1.17983493",
+      "category": "Jemen",
+      "pubDate": "Sun, 09 Aug 2026 07:33:45 GMT"
+    },
     {
       "title": "Mann sendt til sykehus etter voldshendelse i Elverum",
       "link": "https://www.nrk.no/nyheter/mann-sendt-til-sykehus-etter-voldshendelse-i-elverum-1.17983490",
       "category": "Politi- og brannloggen i Innlandet",
       "pubDate": "Sun, 09 Aug 2026 05:41:43 GMT"
-    },
-    {
-      "title": "FIFA: – Innsats for å undergrave",
-      "link": "https://www.nrk.no/nyheter/-fifa_-_-innsats-for-a-undergrave-1.17983486",
-      "category": "Fifa",
-      "pubDate": "Sun, 09 Aug 2026 04:02:42 GMT"
-    },
-    {
-      "title": "Spanias grensekontroll mot Italia har trådt i kraft",
-      "link": "https://www.nrk.no/nyheter/spanias-grensekontroll-mot-italia-har-tradt-i-kraft-1.17983484",
-      "category": "Spania",
-      "pubDate": "Sun, 09 Aug 2026 03:07:43 GMT"
-    },
-    {
-      "title": "Brann ved saudiarabisk raffinerianlegg",
-      "link": "https://www.nrk.no/nyheter/brann-ved-saudiarabisk-raffinerianlegg-1.17983480",
-      "category": "Saudi-Arabia",
-      "pubDate": "Sun, 09 Aug 2026 02:08:54 GMT"
-    },
-    {
-      "title": "Snart kroppskamera for alle ICE-agenter",
-      "link": "https://www.nrk.no/nyheter/snart-kroppskamera-for-alle-ice-agenter-1.17983478",
-      "category": "USA",
-      "pubDate": "Sun, 09 Aug 2026 01:44:44 GMT"
-    },
-    {
-      "title": "Flere skudd gjennom leilighetsdør i Sverige",
-      "link": "https://www.nrk.no/nyheter/flere-skudd-gjennom-leilighetsdor-i-sverige-1.17983479",
-      "category": "Sverige",
-      "pubDate": "Sun, 09 Aug 2026 01:34:54 GMT"
     }
   ]
 }
