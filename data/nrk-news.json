@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-08-10T17:02:24.480Z",
+  "updatedAt": "2026-08-10T18:23:28.281Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Opposisjonsparti i Russland nektes å stille til valg",
+      "link": "https://www.nrk.no/nyheter/opposisjonsparti-i-russland-nektes-a-stille-til-valg-1.17985122",
+      "category": "Russland",
+      "pubDate": "Mon, 10 Aug 2026 17:41:50 GMT"
+    },
     {
       "title": "Erklæres tørke i over 70 prosent av England",
       "link": "https://www.nrk.no/nyheter/erklaeres-torke-i-over-70-prosent-av-england-1.17985112",
       "category": "Storbritannia",
       "pubDate": "Mon, 10 Aug 2026 16:54:49 GMT"
+    },
+    {
+      "title": "Rykket til mulig lekkasje på Taraldrud - opprettet sikkerhetssone",
+      "link": "https://www.nrk.no/stor-oslo/rykket-til-mulig-lekkasje-pa-taraldrud---opprettet-sikkerhetssone-1.17984914",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 10 Aug 2026 16:51:54 GMT"
     },
     {
       "title": "Juli var den varmeste måneden i USA målt noensinne",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/justisministeren-om-misbruk-av-asylregelverket-1.17985018",
       "category": "Norsk flyktning- og asylpolitikk",
       "pubDate": "Mon, 10 Aug 2026 15:17:44 GMT"
-    },
-    {
-      "title": "Forkaster anke etter drapet på Tina Milena Solberg",
-      "link": "https://www.nrk.no/vestland/forkaster-anke-etter-drapet-pa-tina-milena-solberg-1.17984995",
-      "category": "high",
-      "pubDate": "Mon, 10 Aug 2026 14:54:05 GMT"
-    },
-    {
-      "title": "16 arbeidere fra Bangladesh omkom i fabrikkbrann i Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/16-arbeidere-fra-bangladesh-omkom-i-fabrikkbrann-i-saudi-arabia-1.17985012",
-      "category": "Bangladesh",
-      "pubDate": "Mon, 10 Aug 2026 14:47:41 GMT"
     }
   ]
 }
