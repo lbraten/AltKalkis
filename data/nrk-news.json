@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-10T18:23:28.281Z",
+  "updatedAt": "2026-08-10T19:30:54.044Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Colombias president: 111 døde i jordskjelvet",
+      "link": "https://www.nrk.no/nyheter/colombias-president_-111-dode-i-jordskjelvet--1.17985196",
+      "category": "Colombia",
+      "pubDate": "Mon, 10 Aug 2026 18:42:06 GMT"
+    },
     {
       "title": "Opposisjonsparti i Russland nektes å stille til valg",
       "link": "https://www.nrk.no/nyheter/opposisjonsparti-i-russland-nektes-a-stille-til-valg-1.17985122",
@@ -9,8 +15,8 @@
       "pubDate": "Mon, 10 Aug 2026 17:41:50 GMT"
     },
     {
-      "title": "Erklæres tørke i over 70 prosent av England",
-      "link": "https://www.nrk.no/nyheter/erklaeres-torke-i-over-70-prosent-av-england-1.17985112",
+      "title": "Erklært tørke i over 70 prosent av England",
+      "link": "https://www.nrk.no/nyheter/erklaert-torke-i-over-70-prosent-av-england-1.17985112",
       "category": "Storbritannia",
       "pubDate": "Mon, 10 Aug 2026 16:54:49 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/kvinne-i-70-arene-ma-i-fengsel-etter-rakjoring-1.17984967",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Mon, 10 Aug 2026 16:37:59 GMT"
-    },
-    {
-      "title": "Justisministeren om misbruk av asylregelverket",
-      "link": "https://www.nrk.no/nyheter/justisministeren-om-misbruk-av-asylregelverket-1.17985018",
-      "category": "Norsk flyktning- og asylpolitikk",
-      "pubDate": "Mon, 10 Aug 2026 15:17:44 GMT"
     }
   ]
 }
