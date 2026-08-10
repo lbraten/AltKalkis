@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-10T14:36:19.880Z",
+  "updatedAt": "2026-08-10T16:00:02.572Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Justisministeren om misbruk av asylregelverket",
+      "link": "https://www.nrk.no/nyheter/justisministeren-om-misbruk-av-asylregelverket-1.17985018",
+      "category": "Norsk flyktning- og asylpolitikk",
+      "pubDate": "Mon, 10 Aug 2026 15:17:44 GMT"
+    },
+    {
+      "title": "Forkaster anke etter drapet på Tina Milena Solberg",
+      "link": "https://www.nrk.no/vestland/forkaster-anke-etter-drapet-pa-tina-milena-solberg-1.17984995",
+      "category": "high",
+      "pubDate": "Mon, 10 Aug 2026 14:54:05 GMT"
+    },
+    {
+      "title": "16 arbeidere fra Bangladesh omkom i fabrikkbrann i Saudi-Arabia",
+      "link": "https://www.nrk.no/nyheter/16-arbeidere-fra-bangladesh-omkom-i-fabrikkbrann-i-saudi-arabia-1.17985012",
+      "category": "Bangladesh",
+      "pubDate": "Mon, 10 Aug 2026 14:47:41 GMT"
+    },
+    {
+      "title": "Fransk livbåttjeneste: 230 migranter krysset Den engelske kanal i samme båt",
+      "link": "https://www.nrk.no/nyheter/fransk-livbattjeneste_-230-migranter-krysset-den-engelske-kanal-i-samme-bat-1.17984985",
+      "category": "Migranter i Europa",
+      "pubDate": "Mon, 10 Aug 2026 14:44:51 GMT"
+    },
+    {
+      "title": "Hvalertunnelen åpen igjen",
+      "link": "https://www.nrk.no/ostfold/hvalertunnelen-apen-igjen-1.17984864",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Mon, 10 Aug 2026 14:37:53 GMT"
+    },
     {
       "title": "Skogbrannene i Sør-Spania sprer seg",
       "link": "https://www.nrk.no/nyheter/skogbrannene-i-sor-spania-sprer-seg-1.17984976",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Mon, 10 Aug 2026 14:23:56 GMT"
-    },
-    {
-      "title": "WHO: Ebola-utbruddet startet trolig allerede i februar",
-      "link": "https://www.nrk.no/nyheter/who_-ebola-utbruddet-startet-trolig-allerede-i-februar-1.17984975",
-      "category": "Ebola",
-      "pubDate": "Mon, 10 Aug 2026 14:14:46 GMT"
-    },
-    {
-      "title": "Frankrike og Storbritannia rammes av nye hetebølger",
-      "link": "https://www.nrk.no/nyheter/frankrike-og-storbritannia-rammes-av-nye-hetebolger-1.17984917",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Mon, 10 Aug 2026 14:13:26 GMT"
-    },
-    {
-      "title": "Svensk sikkerhetspoliti: Russisk spionoperasjon stoppet",
-      "link": "https://www.nrk.no/nyheter/svensk-sikkerhetspoliti_-russisk-spionoperasjon-stoppet-1.17984970",
-      "category": "Sverige",
-      "pubDate": "Mon, 10 Aug 2026 14:10:30 GMT"
-    },
-    {
-      "title": "Marius Borg Høiby anker avgjørelsen om fortsatt varetekt med fotlenke",
-      "link": "https://www.nrk.no/nyheter/marius-borg-hoiby-anker-avgjorelsen-om-fortsatt-varetekt-med-fotlenke-1.17984871",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Mon, 10 Aug 2026 13:38:06 GMT"
-    },
-    {
-      "title": "En kvinne i 70-årene bekreftet omkommet etter ulykke i Bømlafjordtunnelen",
-      "link": "https://www.nrk.no/vestland/en-kvinne-i-70-arene-bekreftet-omkommet-etter-ulykke-i-bomlafjordtunnelen--1.17984678",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 10 Aug 2026 13:14:49 GMT"
     }
   ]
 }
