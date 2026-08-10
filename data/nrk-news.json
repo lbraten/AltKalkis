@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-09T23:32:12.198Z",
+  "updatedAt": "2026-08-10T01:55:43.508Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst sju drept i angrep mot havn i Jemen",
+      "link": "https://www.nrk.no/nyheter/minst-sju-drept-i-angrep-mot-havn-i-jemen-1.17984102",
+      "category": "Jemen",
+      "pubDate": "Mon, 10 Aug 2026 01:39:00 GMT"
+    },
+    {
+      "title": "Vannmangel kan dele elven Rhinen i to",
+      "link": "https://www.nrk.no/nyheter/vannmangel-kan-dele-elven-rhinen-i-to-1.17984089",
+      "category": "Tyskland",
+      "pubDate": "Mon, 10 Aug 2026 01:36:27 GMT"
+    },
+    {
+      "title": "Russiske myndigheter: Seks drept i ukrainsk droneangrep",
+      "link": "https://www.nrk.no/nyheter/russiske-myndigheter_-seks-drept-i-ukrainsk-droneangrep-1.17984100",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 10 Aug 2026 01:15:59 GMT"
+    },
+    {
+      "title": "IDF «stenger» kristen landsby på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/idf-_stenger_-kristen-landsby-pa-vestbredden-1.17984098",
+      "category": "Israel",
+      "pubDate": "Sun, 09 Aug 2026 23:42:01 GMT"
+    },
     {
       "title": "Jemen: – Nye houthi-angrep mot havneby",
       "link": "https://www.nrk.no/nyheter/jemen_-_-nye-houthi-angrep-mot-havneby-1.17984097",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brannvesenet-har-kontroll-pa-brann-i-lillestrom-1.17984083",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 09 Aug 2026 22:08:01 GMT"
-    },
-    {
-      "title": "Slutt på «abonnementsfeller» i Storbritannia",
-      "link": "https://www.nrk.no/nyheter/slutt-pa-_abonnementsfeller_-i-storbritannia-1.17984074",
-      "category": "Storbritannia",
-      "pubDate": "Sun, 09 Aug 2026 21:45:41 GMT"
-    },
-    {
-      "title": "Hyttebrann i Lillestrøm",
-      "link": "https://www.nrk.no/nyheter/hyttebrann-i-lillestrom-1.17984052",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 09 Aug 2026 20:42:27 GMT"
-    },
-    {
-      "title": "Rekordmange dager med 30 grader i Storbritannia",
-      "link": "https://www.nrk.no/nyheter/rekordmange-dager-med-30-grader-i-storbritannia-1.17983958",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sun, 09 Aug 2026 19:51:15 GMT"
-    },
-    {
-      "title": "Stort jordras i Jølster – raste ned mot vannet",
-      "link": "https://www.nrk.no/vestland/stort-jordras-i-jolster-_-raste-ned-mot-vannet-1.17984025",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 09 Aug 2026 19:28:18 GMT"
     }
   ]
 }
