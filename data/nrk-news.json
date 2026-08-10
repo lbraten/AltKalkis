@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-10T16:00:02.572Z",
+  "updatedAt": "2026-08-10T17:02:24.480Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Erklæres tørke i over 70 prosent av England",
+      "link": "https://www.nrk.no/nyheter/erklaeres-torke-i-over-70-prosent-av-england-1.17985112",
+      "category": "Storbritannia",
+      "pubDate": "Mon, 10 Aug 2026 16:54:49 GMT"
+    },
+    {
+      "title": "Juli var den varmeste måneden i USA målt noensinne",
+      "link": "https://www.nrk.no/nyheter/juli-var-den-varmeste-maneden-i-usa-malt-noensinne-1.17985041",
+      "category": "USA",
+      "pubDate": "Mon, 10 Aug 2026 16:39:25 GMT"
+    },
+    {
+      "title": "Kvinne i 70-årene må i fengsel etter råkjøring",
+      "link": "https://www.nrk.no/rogaland/kvinne-i-70-arene-ma-i-fengsel-etter-rakjoring-1.17984967",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 10 Aug 2026 16:37:59 GMT"
+    },
     {
       "title": "Justisministeren om misbruk av asylregelverket",
       "link": "https://www.nrk.no/nyheter/justisministeren-om-misbruk-av-asylregelverket-1.17985018",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/16-arbeidere-fra-bangladesh-omkom-i-fabrikkbrann-i-saudi-arabia-1.17985012",
       "category": "Bangladesh",
       "pubDate": "Mon, 10 Aug 2026 14:47:41 GMT"
-    },
-    {
-      "title": "Fransk livbåttjeneste: 230 migranter krysset Den engelske kanal i samme båt",
-      "link": "https://www.nrk.no/nyheter/fransk-livbattjeneste_-230-migranter-krysset-den-engelske-kanal-i-samme-bat-1.17984985",
-      "category": "Migranter i Europa",
-      "pubDate": "Mon, 10 Aug 2026 14:44:51 GMT"
-    },
-    {
-      "title": "Hvalertunnelen åpen igjen",
-      "link": "https://www.nrk.no/ostfold/hvalertunnelen-apen-igjen-1.17984864",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Mon, 10 Aug 2026 14:37:53 GMT"
-    },
-    {
-      "title": "Skogbrannene i Sør-Spania sprer seg",
-      "link": "https://www.nrk.no/nyheter/skogbrannene-i-sor-spania-sprer-seg-1.17984976",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Mon, 10 Aug 2026 14:23:56 GMT"
     }
   ]
 }
