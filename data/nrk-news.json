@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-10T01:55:43.508Z",
+  "updatedAt": "2026-08-10T03:59:23.139Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kvinne omkom i skogbrannene i Canada",
+      "link": "https://www.nrk.no/nyheter/kvinne-omkom-i-skogbrannene-i-canada-1.17984101",
+      "category": "Canada",
+      "pubDate": "Mon, 10 Aug 2026 03:19:21 GMT"
+    },
+    {
+      "title": "Ny varmerekord for verdenshavene",
+      "link": "https://www.nrk.no/nyheter/ny-varmerekord-for-verdenshavene-1.17984103",
+      "category": "Klima og miljø",
+      "pubDate": "Mon, 10 Aug 2026 02:07:44 GMT"
+    },
     {
       "title": "Minst sju drept i angrep mot havn i Jemen",
       "link": "https://www.nrk.no/nyheter/minst-sju-drept-i-angrep-mot-havn-i-jemen-1.17984102",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/idf-_stenger_-kristen-landsby-pa-vestbredden-1.17984098",
       "category": "Israel",
       "pubDate": "Sun, 09 Aug 2026 23:42:01 GMT"
-    },
-    {
-      "title": "Jemen: – Nye houthi-angrep mot havneby",
-      "link": "https://www.nrk.no/nyheter/jemen_-_-nye-houthi-angrep-mot-havneby-1.17984097",
-      "category": "Jemen",
-      "pubDate": "Sun, 09 Aug 2026 22:59:46 GMT"
-    },
-    {
-      "title": "Brannvesenet har kontroll på brann i Lillestrøm",
-      "link": "https://www.nrk.no/nyheter/brannvesenet-har-kontroll-pa-brann-i-lillestrom-1.17984083",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 09 Aug 2026 22:08:01 GMT"
     }
   ]
 }
