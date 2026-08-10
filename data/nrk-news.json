@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-10T03:59:23.139Z",
+  "updatedAt": "2026-08-10T05:39:40.343Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Togtrøbbel mellom Oslo S og Lillestrøm",
+      "link": "https://www.nrk.no/stor-oslo/togtrobbel-mellom-oslo-s-og-lillestrom-1.17984195",
+      "category": "Togproblemer og forsinkelser",
+      "pubDate": "Mon, 10 Aug 2026 05:15:57 GMT"
+    },
+    {
+      "title": "Ukraina: Fem såret i russisk angrep på Sumy",
+      "link": "https://www.nrk.no/nyheter/ukraina_-fem-saret-i-russisk-angrep-pa-sumy-1.17984149",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 10 Aug 2026 04:08:33 GMT"
+    },
     {
       "title": "Kvinne omkom i skogbrannene i Canada",
       "link": "https://www.nrk.no/nyheter/kvinne-omkom-i-skogbrannene-i-canada-1.17984101",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vannmangel-kan-dele-elven-rhinen-i-to-1.17984089",
       "category": "Tyskland",
       "pubDate": "Mon, 10 Aug 2026 01:36:27 GMT"
-    },
-    {
-      "title": "Russiske myndigheter: Seks drept i ukrainsk droneangrep",
-      "link": "https://www.nrk.no/nyheter/russiske-myndigheter_-seks-drept-i-ukrainsk-droneangrep-1.17984100",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 10 Aug 2026 01:15:59 GMT"
-    },
-    {
-      "title": "IDF «stenger» kristen landsby på Vestbredden",
-      "link": "https://www.nrk.no/nyheter/idf-_stenger_-kristen-landsby-pa-vestbredden-1.17984098",
-      "category": "Israel",
-      "pubDate": "Sun, 09 Aug 2026 23:42:01 GMT"
     }
   ]
 }
