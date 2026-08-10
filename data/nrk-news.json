@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-10T09:23:41.772Z",
+  "updatedAt": "2026-08-10T10:43:06.799Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Frontkollisjon i Bømlafjordtunnelen",
+      "link": "https://www.nrk.no/vestland/frontkollisjon-i-bomlafjordtunnelen-1.17984581",
+      "category": "Trafikk og vêr i Vestland",
+      "pubDate": "Mon, 10 Aug 2026 10:30:29 GMT"
+    },
+    {
+      "title": "Redningsaksjon på Hardangervidda",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-pa-hardangervidda-1.17984546",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 10 Aug 2026 10:06:11 GMT"
+    },
+    {
+      "title": "Skulle åpne togtunnel – må kjøre med færre tog",
+      "link": "https://www.nrk.no/stor-oslo/skulle-apne-togtunnel-_-ma-kjore-med-faerre-tog-1.17984495",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 10 Aug 2026 09:25:41 GMT"
+    },
     {
       "title": "Slo seg gjennom betongvegg – stjal kobber for flere hundre tusen",
       "link": "https://www.nrk.no/stor-oslo/slo-seg-gjennom-betongvegg-_-stjal-kobber-for-flere-hundre-tusen-1.17984433",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/person-ble-observert-i-sjoen-pa-osteroy---iverksatte-redningsaksjon-1.17984321",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Mon, 10 Aug 2026 08:50:22 GMT"
-    },
-    {
-      "title": "ØB: Sjåfør ikke lenger siktet etter dødsulykke i Nordre Follo",
-      "link": "https://www.nrk.no/stor-oslo/ob__sjafor-ikke-lenger-siktet-etter-dodsulykke-i-nordre-follo-1.17984432",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 10 Aug 2026 08:41:14 GMT"
-    },
-    {
-      "title": "Studiestart for prinsessen",
-      "link": "https://www.nrk.no/nyheter/studiestart-for-prinsessen-1.17984331",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 10 Aug 2026 08:07:00 GMT"
-    },
-    {
-      "title": "Mistenkelig dødsfall i Haugesund: Siktede avhøres",
-      "link": "https://www.nrk.no/rogaland/mistenkelig-dodsfall-i-haugesund_-siktede-avhores-1.17984350",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 10 Aug 2026 08:02:44 GMT"
     }
   ]
 }
