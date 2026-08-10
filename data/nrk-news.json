@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-10T21:42:10.888Z",
+  "updatedAt": "2026-08-10T22:38:18.707Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bensinlager angrepet i Libya",
+      "link": "https://www.nrk.no/nyheter/bensinlager-angrepet-i-libya-1.17985342",
+      "category": "Libya",
+      "pubDate": "Mon, 10 Aug 2026 22:35:59 GMT"
+    },
+    {
+      "title": "Brann i Stavanger slukket",
+      "link": "https://www.nrk.no/nyheter/brann-i-stavanger-slukket-1.17985336",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 10 Aug 2026 22:33:32 GMT"
+    },
+    {
+      "title": "Russisk rakettangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/russisk-rakettangrep-mot-kyiv-1.17985333",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 10 Aug 2026 21:51:26 GMT"
+    },
+    {
+      "title": "Drapsdømt tysk sykepleier etterforskes i 120 saker",
+      "link": "https://www.nrk.no/nyheter/drapsdomt-tysk-sykepleier-etterforskes-i-120-saker-1.17985320",
+      "category": "Tyskland",
+      "pubDate": "Mon, 10 Aug 2026 21:43:18 GMT"
+    },
     {
       "title": "Tyrkias parlament vedtar lov for å fremme PKK-fredsprosess",
       "link": "https://www.nrk.no/nyheter/tyrkias-parlament-vedtar-lov-for-a-fremme-pkk-fredsprosess-1.17985285",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eide-om-jordskjelvet-i-colombia-1.17985282",
       "category": "Colombia",
       "pubDate": "Mon, 10 Aug 2026 19:59:38 GMT"
-    },
-    {
-      "title": "30 år senere: Rettssaken om drapet på Tupac Shakur er i gang",
-      "link": "https://www.nrk.no/nyheter/30-ar-senere_-rettssaken-om-drapet-pa-tupac-shakur-er-i-gang-1.17985269",
-      "category": "Musikk",
-      "pubDate": "Mon, 10 Aug 2026 19:56:52 GMT"
-    },
-    {
-      "title": "Trump endrer vaksineprogrammet for barn",
-      "link": "https://www.nrk.no/nyheter/trump-endrer-vaksineprogrammet-for-barn--1.17985231",
-      "category": "USA",
-      "pubDate": "Mon, 10 Aug 2026 19:41:20 GMT"
-    },
-    {
-      "title": "Småfly nødlandet på jorde",
-      "link": "https://www.nrk.no/nordland/smafly-nodlandet-pa-jorde-1.17985094",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Mon, 10 Aug 2026 18:54:43 GMT"
-    },
-    {
-      "title": "Colombias president: 111 døde i jordskjelvet",
-      "link": "https://www.nrk.no/nyheter/colombias-president_-111-dode-i-jordskjelvet--1.17985196",
-      "category": "Colombia",
-      "pubDate": "Mon, 10 Aug 2026 18:42:06 GMT"
     }
   ]
 }
