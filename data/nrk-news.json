@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-10T22:38:18.707Z",
+  "updatedAt": "2026-08-10T23:36:14.158Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Colombia anerkjenner Israels krav på Golanhøydene",
+      "link": "https://www.nrk.no/nyheter/colombia-anerkjenner-israels-krav-pa-golanhoydene-1.17985343",
+      "category": "Israel",
+      "pubDate": "Mon, 10 Aug 2026 23:34:31 GMT"
+    },
     {
       "title": "Bensinlager angrepet i Libya",
       "link": "https://www.nrk.no/nyheter/bensinlager-angrepet-i-libya-1.17985342",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tyrkias-parlament-vedtar-lov-for-a-fremme-pkk-fredsprosess-1.17985285",
       "category": "Tyrkia",
       "pubDate": "Mon, 10 Aug 2026 20:11:33 GMT"
-    },
-    {
-      "title": "Eide om jordskjelvet i Colombia",
-      "link": "https://www.nrk.no/nyheter/eide-om-jordskjelvet-i-colombia-1.17985282",
-      "category": "Colombia",
-      "pubDate": "Mon, 10 Aug 2026 19:59:38 GMT"
     }
   ]
 }
