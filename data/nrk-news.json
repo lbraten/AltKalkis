@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-10T10:43:06.799Z",
+  "updatedAt": "2026-08-10T11:47:39.148Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trafikkulykke i Siljan",
+      "link": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-i-siljan-1.17984660",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 10 Aug 2026 11:41:44 GMT"
+    },
+    {
+      "title": "Trafikkulykke i Porsgrunn",
+      "link": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-i-porsgrunn-1.17984617",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 10 Aug 2026 11:22:14 GMT"
+    },
+    {
+      "title": "Oslo tingrett: Fortsatt varetekt med fotlenke for Høiby",
+      "link": "https://www.nrk.no/nyheter/oslo-tingrett_-fortsatt-varetekt-med-fotlenke-for-hoiby-1.17984601",
+      "category": "Straffesaken mot Marius Borg Høiby",
+      "pubDate": "Mon, 10 Aug 2026 10:51:44 GMT"
+    },
+    {
+      "title": "Harry Potter-fans tvinger flytting av undersjøisk kabel til 430 mill. pund for å unngå Dobbys «grav»",
+      "link": "https://www.nrk.no/nyheter/harry-potter-fans-tvinger-flytting-av-undersjoisk-kabel-til-430-mill.-pund-for-a-unnga-dobbys-_grav_-1.17984363",
+      "category": "Storbritannia",
+      "pubDate": "Mon, 10 Aug 2026 10:45:01 GMT"
+    },
+    {
+      "title": "VG: Norsk Tipping inngår forlik etter gruppesøksmål",
+      "link": "https://www.nrk.no/innlandet/vg_-norsk-tipping-inngar-forlik-etter-gruppesoksmal-1.17984587",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Mon, 10 Aug 2026 10:41:49 GMT"
+    },
     {
       "title": "Frontkollisjon i Bømlafjordtunnelen",
       "link": "https://www.nrk.no/vestland/frontkollisjon-i-bomlafjordtunnelen-1.17984581",
       "category": "Trafikk og vêr i Vestland",
       "pubDate": "Mon, 10 Aug 2026 10:30:29 GMT"
-    },
-    {
-      "title": "Redningsaksjon på Hardangervidda",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-pa-hardangervidda-1.17984546",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 10 Aug 2026 10:06:11 GMT"
-    },
-    {
-      "title": "Skulle åpne togtunnel – må kjøre med færre tog",
-      "link": "https://www.nrk.no/stor-oslo/skulle-apne-togtunnel-_-ma-kjore-med-faerre-tog-1.17984495",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 10 Aug 2026 09:25:41 GMT"
-    },
-    {
-      "title": "Slo seg gjennom betongvegg – stjal kobber for flere hundre tusen",
-      "link": "https://www.nrk.no/stor-oslo/slo-seg-gjennom-betongvegg-_-stjal-kobber-for-flere-hundre-tusen-1.17984433",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 10 Aug 2026 09:01:21 GMT"
-    },
-    {
-      "title": "Melding om bil som har kjørt inn i apotek",
-      "link": "https://www.nrk.no/ostfold/melding-om-bil-som-har-kjort-inn-i-apotek-1.17984201",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Mon, 10 Aug 2026 08:53:25 GMT"
-    },
-    {
-      "title": "Person ble observert i sjøen på Osterøy - iverksatte redningsaksjon",
-      "link": "https://www.nrk.no/vestland/person-ble-observert-i-sjoen-pa-osteroy---iverksatte-redningsaksjon-1.17984321",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 10 Aug 2026 08:50:22 GMT"
     }
   ]
 }
