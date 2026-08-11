@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-11T16:05:26.539Z",
+  "updatedAt": "2026-08-11T17:27:45.235Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "10.000 hjem uten vann i London",
+      "link": "https://www.nrk.no/nyheter/10.000-hjem-uten-vann-i-london-1.17986550",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Tue, 11 Aug 2026 16:45:03 GMT"
+    },
+    {
+      "title": "Amerikansk veteran løslatt fra russisk fengsel",
+      "link": "https://www.nrk.no/nyheter/amerikansk-veteran-loslatt-fra-russisk-fengsel-1.17986535",
+      "category": "Russland og USA",
+      "pubDate": "Tue, 11 Aug 2026 16:20:48 GMT"
+    },
+    {
+      "title": "Kongen kondolerer til Colombia",
+      "link": "https://www.nrk.no/nyheter/kongen-kondolerer-til-colombia-1.17986425",
+      "category": "Colombia",
+      "pubDate": "Tue, 11 Aug 2026 16:07:14 GMT"
+    },
     {
       "title": "Arving krever de oppgravde pengene i Oalsgata i Sandnes",
       "link": "https://www.nrk.no/rogaland/arving-krever-de-oppgravde-pengene-i-oalsgata-i-sandnes-1.17986472",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/europeisk-fagrad-vil-ha-maks-15-barn-per-saeddonor--1.17986388",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 11 Aug 2026 14:41:17 GMT"
-    },
-    {
-      "title": "Ukrainsk stålgigant stanser drift etter russiske angrep",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-stalgigant-stanser-drift-etter-russiske-angrep-1.17986351",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 11 Aug 2026 14:10:29 GMT"
-    },
-    {
-      "title": "Tilbakekaller røkt laks etter funn av listeria",
-      "link": "https://www.nrk.no/nyheter/tilbakekaller-rokt-laks-etter-funn-av-listeria-1.17986322",
-      "category": "Listeria",
-      "pubDate": "Tue, 11 Aug 2026 13:54:04 GMT"
-    },
-    {
-      "title": "Over 3000 meldt savnet i Colombia",
-      "link": "https://www.nrk.no/nyheter/over-3000-meldt-savnet-i-colombia-1.17986292",
-      "category": "Colombia",
-      "pubDate": "Tue, 11 Aug 2026 13:39:35 GMT"
     }
   ]
 }
