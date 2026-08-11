@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-10T23:36:14.158Z",
+  "updatedAt": "2026-08-11T01:51:28.828Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Færre rovviltskader på sau",
+      "link": "https://www.nrk.no/nyheter/faerre-rovviltskader-pa-sau-1.17985349",
+      "category": "Rovdyr og rovdyrskader",
+      "pubDate": "Tue, 11 Aug 2026 01:13:29 GMT"
+    },
+    {
+      "title": "Drivstoffkrav for luftfart og maritim transport utsatt",
+      "link": "https://www.nrk.no/nyheter/drivstoffkrav-for-luftfart-og-maritim-transport-utsatt-1.17985348",
+      "category": "Klima og miljø",
+      "pubDate": "Tue, 11 Aug 2026 01:10:33 GMT"
+    },
+    {
+      "title": "USA lover jordskjelvstøtte til Colombia",
+      "link": "https://www.nrk.no/nyheter/usa-lover-jordskjelvstotte-til-colombia-1.17985347",
+      "category": "Colombia",
+      "pubDate": "Tue, 11 Aug 2026 00:32:23 GMT"
+    },
+    {
+      "title": "Flere drept i russiske angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/flere-drept-i-russiske-angrep-mot-ukraina-1.17985346",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 11 Aug 2026 00:32:04 GMT"
+    },
     {
       "title": "Colombia anerkjenner Israels krav på Golanhøydene",
       "link": "https://www.nrk.no/nyheter/colombia-anerkjenner-israels-krav-pa-golanhoydene-1.17985343",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bensinlager-angrepet-i-libya-1.17985342",
       "category": "Libya",
       "pubDate": "Mon, 10 Aug 2026 22:35:59 GMT"
-    },
-    {
-      "title": "Brann i Stavanger slukket",
-      "link": "https://www.nrk.no/nyheter/brann-i-stavanger-slukket-1.17985336",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 10 Aug 2026 22:33:32 GMT"
-    },
-    {
-      "title": "Russisk rakettangrep mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/russisk-rakettangrep-mot-kyiv-1.17985333",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 10 Aug 2026 21:51:26 GMT"
-    },
-    {
-      "title": "Drapsdømt tysk sykepleier etterforskes i 120 saker",
-      "link": "https://www.nrk.no/nyheter/drapsdomt-tysk-sykepleier-etterforskes-i-120-saker-1.17985320",
-      "category": "Tyskland",
-      "pubDate": "Mon, 10 Aug 2026 21:43:18 GMT"
-    },
-    {
-      "title": "Tyrkias parlament vedtar lov for å fremme PKK-fredsprosess",
-      "link": "https://www.nrk.no/nyheter/tyrkias-parlament-vedtar-lov-for-a-fremme-pkk-fredsprosess-1.17985285",
-      "category": "Tyrkia",
-      "pubDate": "Mon, 10 Aug 2026 20:11:33 GMT"
     }
   ]
 }
