@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-11T17:27:45.235Z",
+  "updatedAt": "2026-08-11T18:26:45.002Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyj: Har levert forslag til USA for å avslutte krigen",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-har-levert-forslag-til-usa-for-a-avslutte-krigen-1.17986456",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 11 Aug 2026 18:24:29 GMT"
+    },
+    {
+      "title": "FN-ansatte arrestert i Afghanistan",
+      "link": "https://www.nrk.no/nyheter/fn-ansatte-arrestert-i-afghanistan-1.17986570",
+      "category": "De forente nasjoner (FN)",
+      "pubDate": "Tue, 11 Aug 2026 18:03:14 GMT"
+    },
+    {
+      "title": "Motorcrossulykke i Akershus",
+      "link": "https://www.nrk.no/stor-oslo/motorcrossulykke-i-akershus--1.17986584",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 11 Aug 2026 16:56:58 GMT"
+    },
     {
       "title": "10.000 hjem uten vann i London",
       "link": "https://www.nrk.no/nyheter/10.000-hjem-uten-vann-i-london-1.17986550",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kongen-kondolerer-til-colombia-1.17986425",
       "category": "Colombia",
       "pubDate": "Tue, 11 Aug 2026 16:07:14 GMT"
-    },
-    {
-      "title": "Arving krever de oppgravde pengene i Oalsgata i Sandnes",
-      "link": "https://www.nrk.no/rogaland/arving-krever-de-oppgravde-pengene-i-oalsgata-i-sandnes-1.17986472",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Tue, 11 Aug 2026 15:26:53 GMT"
-    },
-    {
-      "title": "Saksøker Trumps forsøk på å begrense fødselsretten",
-      "link": "https://www.nrk.no/nyheter/saksoker-trumps-forsok-pa-a-begrense-fodselsretten-1.17986144",
-      "category": "USA",
-      "pubDate": "Tue, 11 Aug 2026 15:04:29 GMT"
-    },
-    {
-      "title": "Europeisk fagråd vil ha maks 15 barn per sæddonor",
-      "link": "https://www.nrk.no/nyheter/europeisk-fagrad-vil-ha-maks-15-barn-per-saeddonor--1.17986388",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 11 Aug 2026 14:41:17 GMT"
     }
   ]
 }
