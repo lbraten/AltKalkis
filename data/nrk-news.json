@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-11T10:05:42.156Z",
+  "updatedAt": "2026-08-11T11:20:33.943Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "UKMTO: Lasteskip truffet av prosjektil utenfor Jemen – meldt om omkomne",
+      "link": "https://www.nrk.no/nyheter/ukmto_-lasteskip-truffet-av-prosjektil-utenfor-jemen-_-meldt-om-omkomne-1.17985905",
+      "category": "Jemen",
+      "pubDate": "Tue, 11 Aug 2026 11:14:30 GMT"
+    },
+    {
+      "title": "Person falt ned fra tak på Torshov i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/person-falt-ned-fra-tak-pa-torshov-i-oslo-1.17985824",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 11 Aug 2026 10:49:08 GMT"
+    },
+    {
+      "title": "Expressen: Svensk kvinne skutt på turistgate i Lisboa",
+      "link": "https://www.nrk.no/nyheter/expressen_-svensk-kvinne-skutt-pa-turistgate-i-lisboa-1.17985835",
+      "category": "Sverige",
+      "pubDate": "Tue, 11 Aug 2026 10:25:03 GMT"
+    },
+    {
+      "title": "Bevisstløs etter trafikkulykke",
+      "link": "https://www.nrk.no/ostfold/bevisstlos-etter-trafikkulykke-1.17985821",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Tue, 11 Aug 2026 10:18:43 GMT"
+    },
     {
       "title": "Omkomen kvinne sikta etter ulukke på E39",
       "link": "https://www.nrk.no/vestland/omkomen-kvinne-sikta-etter-ulukke-pa-e39-1.17985410",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nyboligsalget-med-darligste-kvartal-siden-1999-1.17985823",
       "category": "Boligmarkedet",
       "pubDate": "Tue, 11 Aug 2026 09:42:30 GMT"
-    },
-    {
-      "title": "Forsker ut mot Wara – kjenner seg ikke igjen av klima-tolkning",
-      "link": "https://www.nrk.no/nyheter/forsker-ut-mot-wara-_-kjenner-seg-ikke-igjen-av-klima-tolkning-1.17985812",
-      "category": "Klima og miljø",
-      "pubDate": "Tue, 11 Aug 2026 09:33:34 GMT"
-    },
-    {
-      "title": "Sykepleierindeksen: Har råd til 1 av 30 boliger i Oslo",
-      "link": "https://www.nrk.no/nyheter/sykepleierindeksen_-har-rad-til-1-av-30-boliger-i-oslo-1.17985753",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 11 Aug 2026 09:22:57 GMT"
-    },
-    {
-      "title": "Syrias ekspresident Bashar al-Assad dømt til døden in absentia",
-      "link": "https://www.nrk.no/nyheter/syrias-ekspresident-bashar-al-assad-domt-til-doden-in-absentia-1.17985481",
-      "category": "Syria",
-      "pubDate": "Tue, 11 Aug 2026 08:58:46 GMT"
-    },
-    {
-      "title": "Ungarn velger ny president",
-      "link": "https://www.nrk.no/nyheter/ungarn-velger-ny-president-1.17985661",
-      "category": "Ungarn",
-      "pubDate": "Tue, 11 Aug 2026 08:50:52 GMT"
     }
   ]
 }
