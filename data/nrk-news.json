@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-11T11:20:33.943Z",
+  "updatedAt": "2026-08-11T12:09:20.028Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Anker til høyesterett etter frifinnelse",
+      "link": "https://www.nrk.no/innlandet/anker-til-hoyesterett-etter-frifinnelse-1.17986030",
+      "category": "Tiltaler og dommer i Innlandet",
+      "pubDate": "Tue, 11 Aug 2026 11:54:17 GMT"
+    },
+    {
+      "title": "Etterforsker mistenkelig dødsfall i Troms",
+      "link": "https://www.nrk.no/tromsogfinnmark/etterforsker-mistenkelig-dodsfall-i-troms-1.17986035",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 11 Aug 2026 11:36:40 GMT"
+    },
+    {
+      "title": "Libanon har avskaffet dødsstraff",
+      "link": "https://www.nrk.no/nyheter/libanon-har-avskaffet-dodsstraff-1.17986002",
+      "category": "Libanon",
+      "pubDate": "Tue, 11 Aug 2026 11:25:34 GMT"
+    },
     {
       "title": "UKMTO: Lasteskip truffet av prosjektil utenfor Jemen – meldt om omkomne",
       "link": "https://www.nrk.no/nyheter/ukmto_-lasteskip-truffet-av-prosjektil-utenfor-jemen-_-meldt-om-omkomne-1.17985905",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/expressen_-svensk-kvinne-skutt-pa-turistgate-i-lisboa-1.17985835",
       "category": "Sverige",
       "pubDate": "Tue, 11 Aug 2026 10:25:03 GMT"
-    },
-    {
-      "title": "Bevisstløs etter trafikkulykke",
-      "link": "https://www.nrk.no/ostfold/bevisstlos-etter-trafikkulykke-1.17985821",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Tue, 11 Aug 2026 10:18:43 GMT"
-    },
-    {
-      "title": "Omkomen kvinne sikta etter ulukke på E39",
-      "link": "https://www.nrk.no/vestland/omkomen-kvinne-sikta-etter-ulukke-pa-e39-1.17985410",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 11 Aug 2026 09:54:37 GMT"
-    },
-    {
-      "title": "Nyboligsalget med dårligste kvartal siden 1999",
-      "link": "https://www.nrk.no/nyheter/nyboligsalget-med-darligste-kvartal-siden-1999-1.17985823",
-      "category": "Boligmarkedet",
-      "pubDate": "Tue, 11 Aug 2026 09:42:30 GMT"
     }
   ]
 }
