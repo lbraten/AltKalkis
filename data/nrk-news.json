@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-11T01:51:28.828Z",
+  "updatedAt": "2026-08-11T03:45:51.777Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 132 døde etter jorskjelvet i Colombia",
+      "link": "https://www.nrk.no/nyheter/minst-132-dode-etter-jorskjelvet-i-colombia-1.17985362",
+      "category": "Colombia",
+      "pubDate": "Tue, 11 Aug 2026 03:43:39 GMT"
+    },
+    {
+      "title": "Obama lager podkastserie om bøker",
+      "link": "https://www.nrk.no/nyheter/obama-lager-podkastserie-om-boker-1.17985350",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 11 Aug 2026 03:11:58 GMT"
+    },
+    {
+      "title": "USAs oljereserve på det laveste nivået på 43 år",
+      "link": "https://www.nrk.no/nyheter/usas-oljereserve-pa-det-laveste-nivaet-pa-43-ar-1.17985353",
+      "category": "USA",
+      "pubDate": "Tue, 11 Aug 2026 02:38:39 GMT"
+    },
+    {
+      "title": "Få unge forskere vil anbefale karrierevalget sitt",
+      "link": "https://www.nrk.no/nyheter/fa-unge-forskere-vil-anbefale-karrierevalget-sitt-1.17985352",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 11 Aug 2026 02:22:42 GMT"
+    },
     {
       "title": "Færre rovviltskader på sau",
       "link": "https://www.nrk.no/nyheter/faerre-rovviltskader-pa-sau-1.17985349",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/drivstoffkrav-for-luftfart-og-maritim-transport-utsatt-1.17985348",
       "category": "Klima og miljø",
       "pubDate": "Tue, 11 Aug 2026 01:10:33 GMT"
-    },
-    {
-      "title": "USA lover jordskjelvstøtte til Colombia",
-      "link": "https://www.nrk.no/nyheter/usa-lover-jordskjelvstotte-til-colombia-1.17985347",
-      "category": "Colombia",
-      "pubDate": "Tue, 11 Aug 2026 00:32:23 GMT"
-    },
-    {
-      "title": "Flere drept i russiske angrep mot Ukraina",
-      "link": "https://www.nrk.no/nyheter/flere-drept-i-russiske-angrep-mot-ukraina-1.17985346",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 11 Aug 2026 00:32:04 GMT"
-    },
-    {
-      "title": "Colombia anerkjenner Israels krav på Golanhøydene",
-      "link": "https://www.nrk.no/nyheter/colombia-anerkjenner-israels-krav-pa-golanhoydene-1.17985343",
-      "category": "Israel",
-      "pubDate": "Mon, 10 Aug 2026 23:34:31 GMT"
-    },
-    {
-      "title": "Bensinlager angrepet i Libya",
-      "link": "https://www.nrk.no/nyheter/bensinlager-angrepet-i-libya-1.17985342",
-      "category": "Libya",
-      "pubDate": "Mon, 10 Aug 2026 22:35:59 GMT"
     }
   ]
 }
