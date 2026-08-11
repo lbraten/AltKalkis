@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-11T20:46:32.739Z",
+  "updatedAt": "2026-08-11T21:50:00.799Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ti politifolk drept i Nigeria",
+      "link": "https://www.nrk.no/nyheter/ti-politifolk-drept-i-nigeria-1.17986783",
+      "category": "Nigeria",
+      "pubDate": "Tue, 11 Aug 2026 21:45:02 GMT"
+    },
+    {
+      "title": "Nord-Korea har avfyrt et ukjent prosjektil",
+      "link": "https://www.nrk.no/nyheter/nord-korea-har-avfyrt-et-ukjent-prosjektil-1.17986779",
+      "category": "Nord-Korea",
+      "pubDate": "Tue, 11 Aug 2026 21:19:41 GMT"
+    },
+    {
+      "title": "Minst 15 døde i fergeforlis i Zimbabwe",
+      "link": "https://www.nrk.no/nyheter/minst-15-dode-i-fergeforlis-i-zimbabwe-1.17986763",
+      "category": "Zimbabwe",
+      "pubDate": "Tue, 11 Aug 2026 21:09:23 GMT"
+    },
     {
       "title": "Krevde å reise til Moldova - bortvist fra Oslo lufthavn",
       "link": "https://www.nrk.no/stor-oslo/krevde-a-reise-til-moldova---bortvist-fra-oslo-lufthavn-1.17986692",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/centcom-hevder-a-ha-angrepet-skip-i-omanbukten-1.17986661",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 11 Aug 2026 19:20:14 GMT"
-    },
-    {
-      "title": "Hull i bakken utenfor Nobels Fredssenter",
-      "link": "https://www.nrk.no/stor-oslo/hull-i-bakken-utenfor-nobels-fredssenter-1.17986664",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 11 Aug 2026 19:01:10 GMT"
-    },
-    {
-      "title": "Barnearbeidere omkom i trafikkulykke i Egypt",
-      "link": "https://www.nrk.no/nyheter/barnearbeidere-omkom-i-trafikkulykke-i-egypt-1.17986667",
-      "category": "Egypt",
-      "pubDate": "Tue, 11 Aug 2026 18:46:38 GMT"
-    },
-    {
-      "title": "Houtiene hevder å ha angrepet saudisk militærskip i Rødehavet",
-      "link": "https://www.nrk.no/nyheter/houtiene-hevder-a-ha-angrepet-saudisk-militaerskip-i-rodehavet-1.17986652",
-      "category": "Rødehavet",
-      "pubDate": "Tue, 11 Aug 2026 18:30:53 GMT"
     }
   ]
 }
