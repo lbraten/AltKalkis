@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-08-11T13:54:14.033Z",
+  "updatedAt": "2026-08-11T14:58:46.496Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Tilbakekaller røkelaks etter funn av listeria",
-      "link": "https://www.nrk.no/nyheter/tilbakekaller-rokelaks-etter-funn-av-listeria-1.17986322",
+      "title": "Europeisk fagråd vil ha maks 15 barn per sæddonor",
+      "link": "https://www.nrk.no/nyheter/europeisk-fagrad-vil-ha-maks-15-barn-per-saeddonor--1.17986388",
       "category": "NRK Nyheter",
+      "pubDate": "Tue, 11 Aug 2026 14:41:17 GMT"
+    },
+    {
+      "title": "Ukrainsk stålgigant stanser drift etter russiske angrep",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-stalgigant-stanser-drift-etter-russiske-angrep-1.17986351",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 11 Aug 2026 14:10:29 GMT"
+    },
+    {
+      "title": "Tilbakekaller røkt laks etter funn av listeria",
+      "link": "https://www.nrk.no/nyheter/tilbakekaller-rokt-laks-etter-funn-av-listeria-1.17986322",
+      "category": "Listeria",
       "pubDate": "Tue, 11 Aug 2026 13:54:04 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ungarn-har-valgt-ny-president--1.17986250",
       "category": "Ungarn",
       "pubDate": "Tue, 11 Aug 2026 13:26:50 GMT"
-    },
-    {
-      "title": "Tangen om oljefondet: Kan forsvinne",
-      "link": "https://www.nrk.no/nyheter/tangen-om-oljefondet_-kan-forsvinne-1.17986129",
-      "category": "Oljefondet",
-      "pubDate": "Tue, 11 Aug 2026 13:04:37 GMT"
-    },
-    {
-      "title": "Henlegger sak om frihetsberøvelse",
-      "link": "https://www.nrk.no/nyheter/henlegger-sak-om-frihetsberovelse-1.17986119",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 11 Aug 2026 12:27:51 GMT"
     }
   ]
 }
