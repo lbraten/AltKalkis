@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-12T21:47:19.154Z",
+  "updatedAt": "2026-08-12T22:41:59.311Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "265 døde etter jordskjelv i Colombia",
+      "link": "https://www.nrk.no/nyheter/265-dode-etter-jordskjelv-i-colombia-1.17988203",
+      "category": "Colombia",
+      "pubDate": "Wed, 12 Aug 2026 22:29:31 GMT"
+    },
+    {
+      "title": "Fortsatt fare for streik på flyplassene - mekler på overtid",
+      "link": "https://www.nrk.no/nyheter/fortsatt-fare-for-streik-pa-flyplassene---mekler-pa-overtid-1.17988202",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Wed, 12 Aug 2026 22:26:05 GMT"
+    },
+    {
+      "title": "Sju døde i jordskred i Mumbai",
+      "link": "https://www.nrk.no/nyheter/sju-dode-i-jordskred-i-mumbai-1.17988194",
+      "category": "India",
+      "pubDate": "Wed, 12 Aug 2026 22:01:06 GMT"
+    },
     {
       "title": "To døde da militærhelikopter styrtet i USA",
       "link": "https://www.nrk.no/nyheter/to-dode-da-militaerhelikopter-styrtet-i-usa-1.17988189",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fare-for-flystreik_-varsler-opptrapping-1.17988147",
       "category": "Flystreik i Norge",
       "pubDate": "Wed, 12 Aug 2026 20:26:39 GMT"
-    },
-    {
-      "title": "Trumps pressesekretær går av",
-      "link": "https://www.nrk.no/nyheter/trumps-pressesekretaer-gar-av-1.17987907",
-      "category": "USA",
-      "pubDate": "Wed, 12 Aug 2026 19:38:48 GMT"
-    },
-    {
-      "title": "Rykker til brann i en 1890-bygård i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/rykker-til-brann-i-en-1890-bygard-i-oslo-1.17987885",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 12 Aug 2026 19:08:21 GMT"
-    },
-    {
-      "title": "Frontkollisjon i Bergen",
-      "link": "https://www.nrk.no/vestland/frontkollisjon-i-bergen-1.17987968",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 12 Aug 2026 18:34:01 GMT"
     }
   ]
 }
