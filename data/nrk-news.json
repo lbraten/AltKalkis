@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-12T13:57:39.814Z",
+  "updatedAt": "2026-08-12T15:05:16.728Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Endelig skulle tunnelen vært åpnet – det gikk ikke etter planen",
+      "link": "https://www.nrk.no/stor-oslo/endelig-skulle-tunnelen-vaert-apnet-_-det-gikk-ikke-etter-planen-1.17987816",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 12 Aug 2026 14:35:46 GMT"
+    },
     {
       "title": "Colombia erklærer tre dagers landesorg",
       "link": "https://www.nrk.no/nyheter/colombia-erklaerer-tre-dagers-landesorg-1.17987607",
@@ -15,8 +21,8 @@
       "pubDate": "Wed, 12 Aug 2026 13:43:29 GMT"
     },
     {
-      "title": "281 personer er pågrepet for branner i Hellas",
-      "link": "https://www.nrk.no/nyheter/281-personer-er-pagrepet-for-branner-i-hellas-1.17987610",
+      "title": "281 personer pågrepet for branner i Hellas",
+      "link": "https://www.nrk.no/nyheter/281-personer-pagrepet-for-branner-i-hellas-1.17987610",
       "category": "Skogbrann og skogbrannfare",
       "pubDate": "Wed, 12 Aug 2026 13:31:32 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/dodsfallet-i-salangen_-dropper-siktelse-mot-kvinne-1.17987464",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Wed, 12 Aug 2026 12:50:50 GMT"
-    },
-    {
-      "title": "Inflasjonen avtok i USA i juli",
-      "link": "https://www.nrk.no/nyheter/inflasjonen-avtok-i-usa-i-juli-1.17987597",
-      "category": "USAs økonomi",
-      "pubDate": "Wed, 12 Aug 2026 12:32:17 GMT"
     }
   ]
 }
