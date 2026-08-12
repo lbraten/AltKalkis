@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-08-12T04:21:30.587Z",
+  "updatedAt": "2026-08-12T05:55:17.309Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Brann i enebolig på Moi slukket",
-      "link": "https://www.nrk.no/rogaland/brann-i-enebolig-pa-moi-slukket-1.17986813",
+      "title": "Antibiotikabruken fortsetter å falle",
+      "link": "https://www.nrk.no/nyheter/antibiotikabruken-fortsetter-a-falle-1.17986873",
+      "category": "Antibiotika",
+      "pubDate": "Wed, 12 Aug 2026 05:13:31 GMT"
+    },
+    {
+      "title": "Brann på ferge utenfor Bali",
+      "link": "https://www.nrk.no/nyheter/brann-pa-ferge-utenfor-bali-1.17986858",
+      "category": "Indonesia",
+      "pubDate": "Wed, 12 Aug 2026 04:38:43 GMT"
+    },
+    {
+      "title": "Politiet etterforsker to branner på Moi i morgentimene",
+      "link": "https://www.nrk.no/rogaland/politiet-etterforsker-to-branner-pa-moi-i-morgentimene--1.17986813",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Wed, 12 Aug 2026 03:12:31 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fire-av-ti-dropper-nodvendig-vedlikehold-pa-hus-eller-hytte-1.17986799",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 12 Aug 2026 02:21:54 GMT"
-    },
-    {
-      "title": "Minst 14 døde i gruveras i Sør-Afrika",
-      "link": "https://www.nrk.no/nyheter/minst-14-dode-i-gruveras-i-sor-afrika-1.17986793",
-      "category": "Sør-Afrika",
-      "pubDate": "Wed, 12 Aug 2026 01:43:26 GMT"
-    },
-    {
-      "title": "60 drept under kvegtyveri i Sør-Sudan",
-      "link": "https://www.nrk.no/nyheter/60-drept-under-kvegtyveri-i-sor-sudan-1.17986797",
-      "category": "Sør-Sudan",
-      "pubDate": "Wed, 12 Aug 2026 01:15:21 GMT"
     }
   ]
 }
