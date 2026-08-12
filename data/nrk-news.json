@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-12T02:03:43.783Z",
+  "updatedAt": "2026-08-12T04:21:30.587Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i enebolig på Moi slukket",
+      "link": "https://www.nrk.no/rogaland/brann-i-enebolig-pa-moi-slukket-1.17986813",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 12 Aug 2026 03:12:31 GMT"
+    },
+    {
+      "title": "Trump bekrefter hemmelig flybytte etter Nato-møte",
+      "link": "https://www.nrk.no/nyheter/trump-bekrefter-hemmelig-flybytte-etter-nato-mote-1.17986798",
+      "category": "Donald Trump",
+      "pubDate": "Wed, 12 Aug 2026 02:45:15 GMT"
+    },
+    {
+      "title": "Lindsey Grahams søster videre i nominasjonskampen i USA",
+      "link": "https://www.nrk.no/nyheter/lindsey-grahams-soster-videre-i-nominasjonskampen-i-usa-1.17986800",
+      "category": "USA",
+      "pubDate": "Wed, 12 Aug 2026 02:28:18 GMT"
+    },
+    {
+      "title": "Fire av ti dropper nødvendig vedlikehold på hus eller hytte",
+      "link": "https://www.nrk.no/nyheter/fire-av-ti-dropper-nodvendig-vedlikehold-pa-hus-eller-hytte-1.17986799",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 12 Aug 2026 02:21:54 GMT"
+    },
     {
       "title": "Minst 14 døde i gruveras i Sør-Afrika",
       "link": "https://www.nrk.no/nyheter/minst-14-dode-i-gruveras-i-sor-afrika-1.17986793",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/60-drept-under-kvegtyveri-i-sor-sudan-1.17986797",
       "category": "Sør-Sudan",
       "pubDate": "Wed, 12 Aug 2026 01:15:21 GMT"
-    },
-    {
-      "title": "Hus overtent i Tinn",
-      "link": "https://www.nrk.no/nyheter/hus-overtent-i-tinn-1.17986796",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 12 Aug 2026 01:06:11 GMT"
-    },
-    {
-      "title": "Rod Stewart setter turneen på pause",
-      "link": "https://www.nrk.no/nyheter/rod-stewart-setter-turneen-pa-pause-1.17986795",
-      "category": "Musikk",
-      "pubDate": "Wed, 12 Aug 2026 00:58:55 GMT"
-    },
-    {
-      "title": "Mann angrepet med stein på hotell i Ski",
-      "link": "https://www.nrk.no/nyheter/mann-angrepet-med-stein-pa-hotell-i-ski-1.17986794",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 12 Aug 2026 00:30:58 GMT"
-    },
-    {
-      "title": "Mann pågrepet etter knivtrussel på T-banestasjon i Oslo",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-knivtrussel-pa-t-banestasjon-i-oslo-1.17986790",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 11 Aug 2026 23:59:21 GMT"
     }
   ]
 }
