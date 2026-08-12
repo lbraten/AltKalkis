@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-08-12T19:41:05.593Z",
+  "updatedAt": "2026-08-12T20:47:29.935Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trumps pressesjef går av",
-      "link": "https://www.nrk.no/nyheter/trumps-pressesjef-gar-av-1.17987907",
-      "category": "high",
+      "title": "Nick Reiner tiltales for drapet på foreldrene",
+      "link": "https://www.nrk.no/nyheter/nick-reiner-tiltales-for-drapet-pa-foreldrene-1.17988118",
+      "category": "USA",
+      "pubDate": "Wed, 12 Aug 2026 20:40:47 GMT"
+    },
+    {
+      "title": "Fare for flystreik: Varsler opptrapping",
+      "link": "https://www.nrk.no/nyheter/fare-for-flystreik_-varsler-opptrapping-1.17988147",
+      "category": "Flystreik i Norge",
+      "pubDate": "Wed, 12 Aug 2026 20:26:39 GMT"
+    },
+    {
+      "title": "Trumps pressesekretær går av",
+      "link": "https://www.nrk.no/nyheter/trumps-pressesekretaer-gar-av-1.17987907",
+      "category": "USA",
       "pubDate": "Wed, 12 Aug 2026 19:38:48 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/full-fyr-i-bat-pa-arendalsuka-1.17988046",
       "category": "Nyheter fra Agder",
       "pubDate": "Wed, 12 Aug 2026 17:55:45 GMT"
-    },
-    {
-      "title": "Bane Nor: Feilen mellom Oslo S og Lillestrøm er rettet",
-      "link": "https://www.nrk.no/nyheter/bane-nor_-feilen-mellom-oslo-s-og-lillestrom-er-rettet-1.17987762",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 12 Aug 2026 17:46:51 GMT"
-    },
-    {
-      "title": "Israel med nye angrep i Gaza",
-      "link": "https://www.nrk.no/nyheter/israel-med-nye-angrep-i-gaza-1.17987898",
-      "category": "Krigen i Gaza",
-      "pubDate": "Wed, 12 Aug 2026 15:42:13 GMT"
     }
   ]
 }
