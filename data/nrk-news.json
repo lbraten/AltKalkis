@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-12T07:26:48.729Z",
+  "updatedAt": "2026-08-12T08:48:28.851Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina ber Nato om bistand til minerydding",
+      "link": "https://www.nrk.no/nyheter/ukraina-ber-nato-om-bistand-til-minerydding-1.17987129",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 12 Aug 2026 08:45:42 GMT"
+    },
+    {
+      "title": "Fire drept i russiske og ukrainske droneangrep",
+      "link": "https://www.nrk.no/nyheter/fire-drept-i-russiske-og-ukrainske-droneangrep-1.17987089",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 12 Aug 2026 08:19:56 GMT"
+    },
+    {
+      "title": "Medier: Francesca Hong tapte guvernørnominasjonen i Wisconsin",
+      "link": "https://www.nrk.no/nyheter/medier_-francesca-hong-tapte-guvernornominasjonen-i-wisconsin-1.17986959",
+      "category": "USA",
+      "pubDate": "Wed, 12 Aug 2026 07:57:13 GMT"
+    },
+    {
+      "title": "Mann i 80-årene siktet etter dødsulykke i Moss",
+      "link": "https://www.nrk.no/ostfold/mann-i-80-arene-siktet-etter-dodsulykke-i-moss-1.17986932",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Wed, 12 Aug 2026 07:48:45 GMT"
+    },
     {
       "title": "Synkehull i Oslo: Mistenker vannlekkasje",
       "link": "https://www.nrk.no/stor-oslo/synkehull-i-oslo_-mistenker-vannlekkasje-1.17986906",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/pakistan-sier-tre-er-drept-i-angrep-pa-skip-i-rodehavet-1.17986930",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 12 Aug 2026 06:34:47 GMT"
-    },
-    {
-      "title": "Politiet: Ein mann skadd etter valdshending",
-      "link": "https://www.nrk.no/vestland/politiet_-ein-mann-skadd-etter-valdshending-1.17986918",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 12 Aug 2026 06:16:10 GMT"
-    },
-    {
-      "title": "Oljefondet: Avkastning på 1753 milliarder i første halvår av 2026",
-      "link": "https://www.nrk.no/nyheter/oljefondet_-avkastning-pa-1753-milliarder-i-forste-halvar-av-2026-1.17986893",
-      "category": "Oljefondet",
-      "pubDate": "Wed, 12 Aug 2026 06:01:02 GMT"
-    },
-    {
-      "title": "Antibiotikabruken fortsetter å falle",
-      "link": "https://www.nrk.no/nyheter/antibiotikabruken-fortsetter-a-falle-1.17986873",
-      "category": "Antibiotika",
-      "pubDate": "Wed, 12 Aug 2026 05:13:31 GMT"
-    },
-    {
-      "title": "Brann på ferge utenfor Bali – én omkommet",
-      "link": "https://www.nrk.no/nyheter/brann-pa-ferge-utenfor-bali-_-en-omkommet-1.17986858",
-      "category": "Indonesia",
-      "pubDate": "Wed, 12 Aug 2026 04:38:43 GMT"
     }
   ]
 }
