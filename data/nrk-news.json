@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-12T20:47:29.935Z",
+  "updatedAt": "2026-08-12T21:47:19.154Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To døde da militærhelikopter styrtet i USA",
+      "link": "https://www.nrk.no/nyheter/to-dode-da-militaerhelikopter-styrtet-i-usa-1.17988189",
+      "category": "USA",
+      "pubDate": "Wed, 12 Aug 2026 21:26:31 GMT"
+    },
     {
       "title": "Nick Reiner tiltales for drapet på foreldrene",
       "link": "https://www.nrk.no/nyheter/nick-reiner-tiltales-for-drapet-pa-foreldrene-1.17988118",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/frontkollisjon-i-bergen-1.17987968",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Wed, 12 Aug 2026 18:34:01 GMT"
-    },
-    {
-      "title": "Full fyr i båt på Arendalsuka",
-      "link": "https://www.nrk.no/sorlandet/full-fyr-i-bat-pa-arendalsuka-1.17988046",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Wed, 12 Aug 2026 17:55:45 GMT"
     }
   ]
 }
