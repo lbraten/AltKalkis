@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-12T22:41:59.311Z",
+  "updatedAt": "2026-08-12T23:42:11.160Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Boeing må betale millionerstatning til etterlatte etter flystyrt",
+      "link": "https://www.nrk.no/nyheter/boeing-ma-betale-millionerstatning-til-etterlatte-etter-flystyrt-1.17988205",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 12 Aug 2026 23:21:34 GMT"
+    },
     {
       "title": "265 døde etter jordskjelv i Colombia",
       "link": "https://www.nrk.no/nyheter/265-dode-etter-jordskjelv-i-colombia-1.17988203",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nick-reiner-tiltales-for-drapet-pa-foreldrene-1.17988118",
       "category": "USA",
       "pubDate": "Wed, 12 Aug 2026 20:40:47 GMT"
-    },
-    {
-      "title": "Fare for flystreik: Varsler opptrapping",
-      "link": "https://www.nrk.no/nyheter/fare-for-flystreik_-varsler-opptrapping-1.17988147",
-      "category": "Flystreik i Norge",
-      "pubDate": "Wed, 12 Aug 2026 20:26:39 GMT"
     }
   ]
 }
