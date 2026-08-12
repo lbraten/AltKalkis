@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-12T18:29:14.744Z",
+  "updatedAt": "2026-08-12T19:41:05.593Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trumps pressesjef går av",
+      "link": "https://www.nrk.no/nyheter/trumps-pressesjef-gar-av-1.17987907",
+      "category": "high",
+      "pubDate": "Wed, 12 Aug 2026 19:38:48 GMT"
+    },
+    {
+      "title": "Rykker til brann i en 1890-bygård i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/rykker-til-brann-i-en-1890-bygard-i-oslo-1.17987885",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 12 Aug 2026 19:08:21 GMT"
+    },
+    {
+      "title": "Frontkollisjon i Bergen",
+      "link": "https://www.nrk.no/vestland/frontkollisjon-i-bergen-1.17987968",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 12 Aug 2026 18:34:01 GMT"
+    },
     {
       "title": "Full fyr i båt på Arendalsuka",
       "link": "https://www.nrk.no/sorlandet/full-fyr-i-bat-pa-arendalsuka-1.17988046",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israel-med-nye-angrep-i-gaza-1.17987898",
       "category": "Krigen i Gaza",
       "pubDate": "Wed, 12 Aug 2026 15:42:13 GMT"
-    },
-    {
-      "title": "Nye regler i Eurovision",
-      "link": "https://www.nrk.no/nyheter/nye-regler-i-eurovision-1.17987884",
-      "category": "Musikk",
-      "pubDate": "Wed, 12 Aug 2026 15:34:52 GMT"
-    },
-    {
-      "title": "Voldshendelse på Lindeberg i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/voldshendelse-pa-lindeberg-i-oslo-1.17987678",
-      "category": "Oslo politidistrikt",
-      "pubDate": "Wed, 12 Aug 2026 15:28:39 GMT"
-    },
-    {
-      "title": "Over 25 land fordømmer henrettelser i Iran",
-      "link": "https://www.nrk.no/nyheter/over-25-land-fordommer-henrettelser-i-iran-1.17987881",
-      "category": "Iran",
-      "pubDate": "Wed, 12 Aug 2026 15:16:17 GMT"
     }
   ]
 }
