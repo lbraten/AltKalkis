@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-12T17:29:34.060Z",
+  "updatedAt": "2026-08-12T18:29:14.744Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Full fyr i båt på Arendalsuka",
+      "link": "https://www.nrk.no/sorlandet/full-fyr-i-bat-pa-arendalsuka-1.17988046",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Wed, 12 Aug 2026 17:55:45 GMT"
+    },
+    {
+      "title": "Bane Nor: Feilen mellom Oslo S og Lillestrøm er rettet",
+      "link": "https://www.nrk.no/nyheter/bane-nor_-feilen-mellom-oslo-s-og-lillestrom-er-rettet-1.17987762",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 12 Aug 2026 17:46:51 GMT"
+    },
     {
       "title": "Israel med nye angrep i Gaza",
       "link": "https://www.nrk.no/nyheter/israel-med-nye-angrep-i-gaza-1.17987898",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/over-25-land-fordommer-henrettelser-i-iran-1.17987881",
       "category": "Iran",
       "pubDate": "Wed, 12 Aug 2026 15:16:17 GMT"
-    },
-    {
-      "title": "Israelske soldater i sammenstøt med bosettere",
-      "link": "https://www.nrk.no/nyheter/israelske-soldater-i-sammenstot-med-bosettere-1.17987752",
-      "category": "Vestbredden",
-      "pubDate": "Wed, 12 Aug 2026 15:05:10 GMT"
-    },
-    {
-      "title": "Endelig skulle tunnelen vært åpnet – det gikk ikke etter planen",
-      "link": "https://www.nrk.no/stor-oslo/endelig-skulle-tunnelen-vaert-apnet-_-det-gikk-ikke-etter-planen-1.17987816",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 12 Aug 2026 14:35:46 GMT"
     }
   ]
 }
