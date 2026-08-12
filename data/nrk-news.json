@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-12T15:05:16.728Z",
+  "updatedAt": "2026-08-12T16:25:39.964Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel med nye angrep i Gaza",
+      "link": "https://www.nrk.no/nyheter/israel-med-nye-angrep-i-gaza-1.17987898",
+      "category": "Krigen i Gaza",
+      "pubDate": "Wed, 12 Aug 2026 15:42:13 GMT"
+    },
+    {
+      "title": "Nye regler i Eurovision",
+      "link": "https://www.nrk.no/nyheter/nye-regler-i-eurovision-1.17987884",
+      "category": "Musikk",
+      "pubDate": "Wed, 12 Aug 2026 15:34:52 GMT"
+    },
+    {
+      "title": "Voldshendelse på Lindeberg i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/voldshendelse-pa-lindeberg-i-oslo-1.17987678",
+      "category": "Oslo politidistrikt",
+      "pubDate": "Wed, 12 Aug 2026 15:28:39 GMT"
+    },
+    {
+      "title": "Over 25 land fordømmer henrettelser i Iran",
+      "link": "https://www.nrk.no/nyheter/over-25-land-fordommer-henrettelser-i-iran-1.17987881",
+      "category": "Iran",
+      "pubDate": "Wed, 12 Aug 2026 15:16:17 GMT"
+    },
+    {
+      "title": "Israelske soldater i sammenstøt med bosettere",
+      "link": "https://www.nrk.no/nyheter/israelske-soldater-i-sammenstot-med-bosettere-1.17987752",
+      "category": "Vestbredden",
+      "pubDate": "Wed, 12 Aug 2026 15:05:10 GMT"
+    },
     {
       "title": "Endelig skulle tunnelen vært åpnet – det gikk ikke etter planen",
       "link": "https://www.nrk.no/stor-oslo/endelig-skulle-tunnelen-vaert-apnet-_-det-gikk-ikke-etter-planen-1.17987816",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 12 Aug 2026 14:35:46 GMT"
-    },
-    {
-      "title": "Colombia erklærer tre dagers landesorg",
-      "link": "https://www.nrk.no/nyheter/colombia-erklaerer-tre-dagers-landesorg-1.17987607",
-      "category": "Colombia",
-      "pubDate": "Wed, 12 Aug 2026 13:48:04 GMT"
-    },
-    {
-      "title": "Eide besøker Pakistan",
-      "link": "https://www.nrk.no/nyheter/eide-besoker-pakistan-1.17987721",
-      "category": "Pakistan",
-      "pubDate": "Wed, 12 Aug 2026 13:43:29 GMT"
-    },
-    {
-      "title": "281 personer pågrepet for branner i Hellas",
-      "link": "https://www.nrk.no/nyheter/281-personer-pagrepet-for-branner-i-hellas-1.17987610",
-      "category": "Skogbrann og skogbrannfare",
-      "pubDate": "Wed, 12 Aug 2026 13:31:32 GMT"
-    },
-    {
-      "title": "Dømt til fengsel etter at over 200 griser døde på gård",
-      "link": "https://www.nrk.no/rogaland/domt-til-fengsel-etter-at-over-200-griser-dode-pa-gard-1.17987670",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 12 Aug 2026 13:14:14 GMT"
-    },
-    {
-      "title": "Dødsfallet i Salangen: Dropper siktelse mot kvinne",
-      "link": "https://www.nrk.no/tromsogfinnmark/dodsfallet-i-salangen_-dropper-siktelse-mot-kvinne-1.17987464",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 12 Aug 2026 12:50:50 GMT"
     }
   ]
 }
