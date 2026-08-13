@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-13T19:35:56.152Z",
+  "updatedAt": "2026-08-13T20:44:53.278Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To skip angrepet i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/to-skip-angrepet-i-hormuzstredet-1.17989502",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Thu, 13 Aug 2026 20:43:15 GMT"
+    },
     {
       "title": "Årets varmeste dag i Storbritannia",
       "link": "https://www.nrk.no/nyheter/arets-varmeste-dag-i-storbritannia-1.17989367",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/svt_-senker-den-kriminelle-lavalder-i-sverige-1.17989257",
       "category": "Sverige",
       "pubDate": "Thu, 13 Aug 2026 15:54:55 GMT"
-    },
-    {
-      "title": "Moroccanoil trekker seg som Eurovision-sponsor",
-      "link": "https://www.nrk.no/nyheter/moroccanoil-trekker-seg-som-eurovision-sponsor-1.17989251",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Thu, 13 Aug 2026 15:31:34 GMT"
     }
   ]
 }
