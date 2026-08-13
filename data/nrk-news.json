@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-13T22:42:34.352Z",
+  "updatedAt": "2026-08-13T23:41:49.425Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Husbrann i Sandefjord",
-      "link": "https://www.nrk.no/nyheter/husbrann-i-sandefjord-1.17989512",
+      "title": "Afghansk ordfører drept i bombeangrep",
+      "link": "https://www.nrk.no/nyheter/afghansk-ordforer-drept-i-bombeangrep-1.17989513",
+      "category": "Afghanistan",
+      "pubDate": "Thu, 13 Aug 2026 22:58:04 GMT"
+    },
+    {
+      "title": "Husbrann i Sandefjord under kontroll",
+      "link": "https://www.nrk.no/nyheter/husbrann-i-sandefjord-under-kontroll-1.17989512",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Thu, 13 Aug 2026 21:40:54 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/alvorlig-atv-ulykke-i-tana-1.17989432",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Thu, 13 Aug 2026 18:18:14 GMT"
-    },
-    {
-      "title": "273 bekreftet døde etter jordskjelvet i Colombia",
-      "link": "https://www.nrk.no/nyheter/-273-bekreftet-dode-etter-jordskjelvet-i-colombia-1.17989308",
-      "category": "Colombia",
-      "pubDate": "Thu, 13 Aug 2026 16:44:48 GMT"
     }
   ]
 }
