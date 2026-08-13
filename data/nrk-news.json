@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-13T20:44:53.278Z",
+  "updatedAt": "2026-08-13T21:47:00.293Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Husbrann i Sandefjord",
+      "link": "https://www.nrk.no/nyheter/husbrann-i-sandefjord-1.17989512",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 13 Aug 2026 21:40:54 GMT"
+    },
+    {
+      "title": "Trump kunngjør ny dronetoll",
+      "link": "https://www.nrk.no/nyheter/trump-kunngjor-ny-dronetoll-1.17989504",
+      "category": "USA",
+      "pubDate": "Thu, 13 Aug 2026 21:37:45 GMT"
+    },
     {
       "title": "To skip angrepet i Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/to-skip-angrepet-i-hormuzstredet-1.17989502",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/-273-bekreftet-dode-etter-jordskjelvet-i-colombia-1.17989308",
       "category": "Colombia",
       "pubDate": "Thu, 13 Aug 2026 16:44:48 GMT"
-    },
-    {
-      "title": "Ber om forlenget varetekt for kaptein",
-      "link": "https://www.nrk.no/nyheter/ber-om-forlenget-varetekt-for-kaptein-1.17989288",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 13 Aug 2026 16:19:13 GMT"
-    },
-    {
-      "title": "SVT: Senker den kriminelle lavalder i Sverige",
-      "link": "https://www.nrk.no/nyheter/svt_-senker-den-kriminelle-lavalder-i-sverige-1.17989257",
-      "category": "Sverige",
-      "pubDate": "Thu, 13 Aug 2026 15:54:55 GMT"
     }
   ]
 }
