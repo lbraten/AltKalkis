@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-13T02:05:46.277Z",
+  "updatedAt": "2026-08-13T04:25:15.494Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Krigsberedskap kan komme på timeplanen neste år",
+      "link": "https://www.nrk.no/nyheter/krigsberedskap-kan-komme-pa-timeplanen-neste-ar-1.17988219",
+      "category": "Sikkerhet og beredskap i Norge",
+      "pubDate": "Thu, 13 Aug 2026 03:48:58 GMT"
+    },
+    {
+      "title": "Kaller helsebyråden inn på teppet etter sykehjemsvarsler",
+      "link": "https://www.nrk.no/stor-oslo/kaller-helsebyraden-inn-pa-teppet-etter-sykehjemsvarsler-1.17988247",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 13 Aug 2026 03:45:43 GMT"
+    },
+    {
+      "title": "Zelenskyj: Ukraina trenger 5–10 prosent av USAs Patriot-raketter",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-trenger-5_10-prosent-av-usas-patriot-raketter-1.17988211",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 13 Aug 2026 03:11:17 GMT"
+    },
     {
       "title": "Saksøker Trump for betalingstjeneste på Truth Social",
       "link": "https://www.nrk.no/nyheter/saksoker-trump-for-betalingstjeneste-pa-truth-social-1.17988210",
@@ -9,8 +27,8 @@
       "pubDate": "Thu, 13 Aug 2026 01:42:31 GMT"
     },
     {
-      "title": "Leter etter mann med skytevåpen i Drammen",
-      "link": "https://www.nrk.no/nyheter/leter-etter-mann-med-skytevapen-i-drammen-1.17988209",
+      "title": "Lette etter mann med skytevåpen i Drammen",
+      "link": "https://www.nrk.no/nyheter/lette-etter-mann-med-skytevapen-i-drammen-1.17988209",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Thu, 13 Aug 2026 01:22:55 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brann-i-ukrainsk-havn-etter-russisk-angrep-1.17988207",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 13 Aug 2026 00:28:03 GMT"
-    },
-    {
-      "title": "Libanons statsminister fordømmer Israels ødeleggelser",
-      "link": "https://www.nrk.no/nyheter/libanons-statsminister-fordommer-israels-odeleggelser-1.17988206",
-      "category": "Libanon og Israel",
-      "pubDate": "Wed, 12 Aug 2026 23:55:32 GMT"
-    },
-    {
-      "title": "Boeing må betale millionerstatning til etterlatte etter flystyrt",
-      "link": "https://www.nrk.no/nyheter/boeing-ma-betale-millionerstatning-til-etterlatte-etter-flystyrt-1.17988205",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 12 Aug 2026 23:21:34 GMT"
-    },
-    {
-      "title": "265 døde etter jordskjelv i Colombia",
-      "link": "https://www.nrk.no/nyheter/265-dode-etter-jordskjelv-i-colombia-1.17988203",
-      "category": "Colombia",
-      "pubDate": "Wed, 12 Aug 2026 22:29:31 GMT"
     }
   ]
 }
