@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-13T17:05:17.786Z",
+  "updatedAt": "2026-08-13T18:27:12.818Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Alvorlig ATV-ulykke i Tana",
+      "link": "https://www.nrk.no/tromsogfinnmark/alvorlig-atv-ulykke-i-tana-1.17989432",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Thu, 13 Aug 2026 18:18:14 GMT"
+    },
     {
       "title": "273 bekreftet døde etter jordskjelvet i Colombia",
       "link": "https://www.nrk.no/nyheter/-273-bekreftet-dode-etter-jordskjelvet-i-colombia-1.17989308",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ebolautbrudd-i-ny-provins-1.17989156",
       "category": "Ebola",
       "pubDate": "Thu, 13 Aug 2026 15:26:33 GMT"
-    },
-    {
-      "title": "Siktet for grov frihetsberøvelse etter hendelsen på Lindeberg i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/siktet-for-grov-frihetsberovelse-etter-hendelsen-pa-lindeberg-i-oslo-1.17989184",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 13 Aug 2026 14:24:21 GMT"
     }
   ]
 }
