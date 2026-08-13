@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-08-13T05:56:53.439Z",
+  "updatedAt": "2026-08-13T07:42:51.936Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Forsvarets bistand til Oslo-politiet avsluttes",
+      "link": "https://www.nrk.no/stor-oslo/forsvarets-bistand-til-oslo-politiet-avsluttes-1.17988382",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 13 Aug 2026 07:33:33 GMT"
+    },
+    {
+      "title": "Oljeinvesteringene justeres opp",
+      "link": "https://www.nrk.no/rogaland/oljeinvesteringene-justeres-opp-1.17988385",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Thu, 13 Aug 2026 07:33:18 GMT"
+    },
+    {
+      "title": "Tre barn utskrevet fra sykehus etter å ha pustet inn klorgass",
+      "link": "https://www.nrk.no/trondelag/tre-barn-utskrevet-fra-sykehus-etter-a-ha-pustet-inn-klorgass-1.17988286",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Thu, 13 Aug 2026 06:16:41 GMT"
+    },
+    {
       "title": "Haaland klistret på kokainpakker i Ecuador",
       "link": "https://www.nrk.no/nyheter/haaland-klistret-pa-kokainpakker-i-ecuador-1.17988304",
-      "category": "NRK Nyheter",
+      "category": "Sportsnyheter",
       "pubDate": "Thu, 13 Aug 2026 05:38:20 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/putin-besokte-omstridt-oygruppe-i-ost-_-japan-raser-1.17988271",
       "category": "Russland",
       "pubDate": "Thu, 13 Aug 2026 04:59:48 GMT"
-    },
-    {
-      "title": "Krigsberedskap kan komme på timeplanen neste år",
-      "link": "https://www.nrk.no/nyheter/krigsberedskap-kan-komme-pa-timeplanen-neste-ar-1.17988219",
-      "category": "Sikkerhet og beredskap i Norge",
-      "pubDate": "Thu, 13 Aug 2026 03:48:58 GMT"
-    },
-    {
-      "title": "Kaller helsebyråden inn på teppet etter sykehjemsvarsler",
-      "link": "https://www.nrk.no/stor-oslo/kaller-helsebyraden-inn-pa-teppet-etter-sykehjemsvarsler-1.17988247",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 13 Aug 2026 03:45:43 GMT"
-    },
-    {
-      "title": "Zelenskyj: Ukraina trenger 5–10 prosent av USAs Patriot-raketter",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-trenger-5_10-prosent-av-usas-patriot-raketter-1.17988211",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 13 Aug 2026 03:11:17 GMT"
     }
   ]
 }
