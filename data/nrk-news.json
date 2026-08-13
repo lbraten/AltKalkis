@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-13T10:35:48.492Z",
+  "updatedAt": "2026-08-13T11:48:14.422Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Eksplosjon ved havna i Rotterdam – én død og flere skadet",
+      "link": "https://www.nrk.no/nyheter/eksplosjon-ved-havna-i-rotterdam-_-en-dod-og-flere-skadet-1.17988845",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 13 Aug 2026 11:42:12 GMT"
+    },
+    {
+      "title": "Person pågrepet for mulig ulovlig grensekryssing fra Russland",
+      "link": "https://www.nrk.no/nyheter/person-pagrepet-for-mulig-ulovlig-grensekryssing-fra-russland-1.17988763",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 13 Aug 2026 11:31:56 GMT"
+    },
+    {
+      "title": "Alvorlig motorsykkelulykke i Enebakk",
+      "link": "https://www.nrk.no/stor-oslo/alvorlig-motorsykkelulykke-i-enebakk-1.17988670",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 13 Aug 2026 10:49:32 GMT"
+    },
+    {
+      "title": "Fem drept under desarmering av bombe på Krym",
+      "link": "https://www.nrk.no/nyheter/fem-drept-under-desarmering-av-bombe-pa-krym-1.17988747",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 13 Aug 2026 10:39:24 GMT"
+    },
+    {
+      "title": "Aftenposten: Henlegger anmeldelse av oljefondets Israel-investeringer",
+      "link": "https://www.nrk.no/nyheter/aftenposten_-henlegger-anmeldelse-av-oljefondets-israel-investeringer-1.17988730",
+      "category": "Oljefondet",
+      "pubDate": "Thu, 13 Aug 2026 10:33:14 GMT"
+    },
     {
       "title": "Resistent gonoré sprer seg i Sverige",
       "link": "https://www.nrk.no/nyheter/resistent-gonore-sprer-seg-i-sverige-1.17988689",
       "category": "Sverige",
       "pubDate": "Thu, 13 Aug 2026 10:08:07 GMT"
-    },
-    {
-      "title": "Vulkanaske stenger flyplass på Sicilia",
-      "link": "https://www.nrk.no/nyheter/vulkanaske-stenger-flyplass-pa-sicilia-1.17988686",
-      "category": "Italia",
-      "pubDate": "Thu, 13 Aug 2026 09:58:39 GMT"
-    },
-    {
-      "title": "Japan kaller inn ambassadør etter Putin-besøk",
-      "link": "https://www.nrk.no/nyheter/japan-kaller-inn-ambassador-etter-putin-besok-1.17988628",
-      "category": "Japan",
-      "pubDate": "Thu, 13 Aug 2026 09:56:13 GMT"
-    },
-    {
-      "title": "Østlandet kan få over 25 grader de neste dagene",
-      "link": "https://www.nrk.no/innlandet/ostlandet-kan-fa-over-25-grader-de-neste-dagene--1.17988568",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Thu, 13 Aug 2026 09:51:32 GMT"
-    },
-    {
-      "title": "Voldshendelsen på Lindeberg: Fremstår som en isolert hendelse",
-      "link": "https://www.nrk.no/stor-oslo/voldshendelsen-pa-lindeberg_-fremstar-som-en-isolert-hendelse-1.17988434",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 13 Aug 2026 09:48:44 GMT"
-    },
-    {
-      "title": "Frp angriper Aps valgløfte",
-      "link": "https://www.nrk.no/nyheter/frp-angriper-aps-valglofte-1.17988642",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Thu, 13 Aug 2026 09:33:34 GMT"
     }
   ]
 }
