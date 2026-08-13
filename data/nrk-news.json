@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-13T18:27:12.818Z",
+  "updatedAt": "2026-08-13T19:35:56.152Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Årets varmeste dag i Storbritannia",
+      "link": "https://www.nrk.no/nyheter/arets-varmeste-dag-i-storbritannia-1.17989367",
+      "category": "Storbritannia",
+      "pubDate": "Thu, 13 Aug 2026 18:42:23 GMT"
+    },
     {
       "title": "Alvorlig ATV-ulykke i Tana",
       "link": "https://www.nrk.no/tromsogfinnmark/alvorlig-atv-ulykke-i-tana-1.17989432",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/moroccanoil-trekker-seg-som-eurovision-sponsor-1.17989251",
       "category": "MGP og Eurovision Song Contest 2026",
       "pubDate": "Thu, 13 Aug 2026 15:31:34 GMT"
-    },
-    {
-      "title": "Ebolautbrudd i ny provins",
-      "link": "https://www.nrk.no/nyheter/ebolautbrudd-i-ny-provins-1.17989156",
-      "category": "Ebola",
-      "pubDate": "Thu, 13 Aug 2026 15:26:33 GMT"
     }
   ]
 }
