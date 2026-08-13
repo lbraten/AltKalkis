@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-12T23:42:11.160Z",
+  "updatedAt": "2026-08-13T02:05:46.277Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Saksøker Trump for betalingstjeneste på Truth Social",
+      "link": "https://www.nrk.no/nyheter/saksoker-trump-for-betalingstjeneste-pa-truth-social-1.17988210",
+      "category": "USA",
+      "pubDate": "Thu, 13 Aug 2026 01:42:31 GMT"
+    },
+    {
+      "title": "Leter etter mann med skytevåpen i Drammen",
+      "link": "https://www.nrk.no/nyheter/leter-etter-mann-med-skytevapen-i-drammen-1.17988209",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Thu, 13 Aug 2026 01:22:55 GMT"
+    },
+    {
+      "title": "Brann i ukrainsk havn etter russisk angrep",
+      "link": "https://www.nrk.no/nyheter/brann-i-ukrainsk-havn-etter-russisk-angrep-1.17988207",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 13 Aug 2026 00:28:03 GMT"
+    },
+    {
+      "title": "Libanons statsminister fordømmer Israels ødeleggelser",
+      "link": "https://www.nrk.no/nyheter/libanons-statsminister-fordommer-israels-odeleggelser-1.17988206",
+      "category": "Libanon og Israel",
+      "pubDate": "Wed, 12 Aug 2026 23:55:32 GMT"
+    },
     {
       "title": "Boeing må betale millionerstatning til etterlatte etter flystyrt",
       "link": "https://www.nrk.no/nyheter/boeing-ma-betale-millionerstatning-til-etterlatte-etter-flystyrt-1.17988205",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/265-dode-etter-jordskjelv-i-colombia-1.17988203",
       "category": "Colombia",
       "pubDate": "Wed, 12 Aug 2026 22:29:31 GMT"
-    },
-    {
-      "title": "Fortsatt fare for streik på flyplassene - mekler på overtid",
-      "link": "https://www.nrk.no/nyheter/fortsatt-fare-for-streik-pa-flyplassene---mekler-pa-overtid-1.17988202",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Wed, 12 Aug 2026 22:26:05 GMT"
-    },
-    {
-      "title": "Sju døde i jordskred i Mumbai",
-      "link": "https://www.nrk.no/nyheter/sju-dode-i-jordskred-i-mumbai-1.17988194",
-      "category": "India",
-      "pubDate": "Wed, 12 Aug 2026 22:01:06 GMT"
-    },
-    {
-      "title": "To døde da militærhelikopter styrtet i USA",
-      "link": "https://www.nrk.no/nyheter/to-dode-da-militaerhelikopter-styrtet-i-usa-1.17988189",
-      "category": "USA",
-      "pubDate": "Wed, 12 Aug 2026 21:26:31 GMT"
-    },
-    {
-      "title": "Nick Reiner tiltales for drapet på foreldrene",
-      "link": "https://www.nrk.no/nyheter/nick-reiner-tiltales-for-drapet-pa-foreldrene-1.17988118",
-      "category": "USA",
-      "pubDate": "Wed, 12 Aug 2026 20:40:47 GMT"
     }
   ]
 }
