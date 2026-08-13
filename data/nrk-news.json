@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-08-13T15:59:28.497Z",
+  "updatedAt": "2026-08-13T17:05:17.786Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "273 bekreftet døde etter jordskjelvet i Colombia",
+      "link": "https://www.nrk.no/nyheter/-273-bekreftet-dode-etter-jordskjelvet-i-colombia-1.17989308",
+      "category": "Colombia",
+      "pubDate": "Thu, 13 Aug 2026 16:44:48 GMT"
+    },
+    {
+      "title": "Ber om forlenget varetekt for kaptein",
+      "link": "https://www.nrk.no/nyheter/ber-om-forlenget-varetekt-for-kaptein-1.17989288",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 13 Aug 2026 16:19:13 GMT"
+    },
+    {
       "title": "SVT: Senker den kriminelle lavalder i Sverige",
       "link": "https://www.nrk.no/nyheter/svt_-senker-den-kriminelle-lavalder-i-sverige-1.17989257",
-      "category": "high",
+      "category": "Sverige",
       "pubDate": "Thu, 13 Aug 2026 15:54:55 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/siktet-for-grov-frihetsberovelse-etter-hendelsen-pa-lindeberg-i-oslo-1.17989184",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 13 Aug 2026 14:24:21 GMT"
-    },
-    {
-      "title": "AFP: Eksplosjon på ammunisjonsfabrikk nær Roma",
-      "link": "https://www.nrk.no/nyheter/afp_-eksplosjon-pa-ammunisjonsfabrikk-naer-roma-1.17989166",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 13 Aug 2026 14:13:12 GMT"
-    },
-    {
-      "title": "Russisk borger pågrepet i Polen",
-      "link": "https://www.nrk.no/nyheter/russisk-borger-pagrepet-i-polen-1.17989084",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 13 Aug 2026 13:52:36 GMT"
     }
   ]
 }
