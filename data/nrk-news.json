@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-13T04:25:15.494Z",
+  "updatedAt": "2026-08-13T05:56:53.439Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Haaland klistret på kokainpakker i Ecuador",
+      "link": "https://www.nrk.no/nyheter/haaland-klistret-pa-kokainpakker-i-ecuador-1.17988304",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 13 Aug 2026 05:38:20 GMT"
+    },
+    {
+      "title": "Droneangrep utløste brann ved russisk oljeanlegg",
+      "link": "https://www.nrk.no/nyheter/droneangrep-utloste-brann-ved-russisk-oljeanlegg-1.17988297",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 13 Aug 2026 05:12:02 GMT"
+    },
+    {
+      "title": "Putin besøkte omstridt øygruppe i øst – Japan raser",
+      "link": "https://www.nrk.no/nyheter/putin-besokte-omstridt-oygruppe-i-ost-_-japan-raser-1.17988271",
+      "category": "Russland",
+      "pubDate": "Thu, 13 Aug 2026 04:59:48 GMT"
+    },
     {
       "title": "Krigsberedskap kan komme på timeplanen neste år",
       "link": "https://www.nrk.no/nyheter/krigsberedskap-kan-komme-pa-timeplanen-neste-ar-1.17988219",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-trenger-5_10-prosent-av-usas-patriot-raketter-1.17988211",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 13 Aug 2026 03:11:17 GMT"
-    },
-    {
-      "title": "Saksøker Trump for betalingstjeneste på Truth Social",
-      "link": "https://www.nrk.no/nyheter/saksoker-trump-for-betalingstjeneste-pa-truth-social-1.17988210",
-      "category": "USA",
-      "pubDate": "Thu, 13 Aug 2026 01:42:31 GMT"
-    },
-    {
-      "title": "Lette etter mann med skytevåpen i Drammen",
-      "link": "https://www.nrk.no/nyheter/lette-etter-mann-med-skytevapen-i-drammen-1.17988209",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Thu, 13 Aug 2026 01:22:55 GMT"
-    },
-    {
-      "title": "Brann i ukrainsk havn etter russisk angrep",
-      "link": "https://www.nrk.no/nyheter/brann-i-ukrainsk-havn-etter-russisk-angrep-1.17988207",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 13 Aug 2026 00:28:03 GMT"
     }
   ]
 }
