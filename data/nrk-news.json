@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-14T10:32:34.500Z",
+  "updatedAt": "2026-08-14T11:44:03.919Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Avlyser fengslingsmøter i sak om drapsforsøk",
+      "link": "https://www.nrk.no/vestfoldogtelemark/avlyser-fengslingsmoter-i-sak-om-drapsforsok-1.17990027",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 14 Aug 2026 11:04:20 GMT"
+    },
+    {
+      "title": "Rapport anbefaler å tredoble Norges drivstoffreserver",
+      "link": "https://www.nrk.no/nyheter/rapport-anbefaler-a-tredoble-norges-drivstoffreserver-1.17990053",
+      "category": "Sikkerhet og beredskap i Norge",
+      "pubDate": "Fri, 14 Aug 2026 10:46:53 GMT"
+    },
+    {
+      "title": "Siktet for voldtekt på sommerleir",
+      "link": "https://www.nrk.no/sorlandet/siktet-for-voldtekt-pa-sommerleir-1.17990051",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Fri, 14 Aug 2026 10:27:33 GMT"
+    },
     {
       "title": "Verdens helseorganisasjon: Over fire angrep daglig mot helsevesen i konfliktområder",
       "link": "https://www.nrk.no/nyheter/verdens-helseorganisasjon_-over-fire-angrep-daglig-mot-helsevesen-i-konfliktomrader-1.17989854",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-seks-personer-mistet-livet-etter-rekordregn-i-japan-1.17989777",
       "category": "Klima og miljø",
       "pubDate": "Fri, 14 Aug 2026 08:05:53 GMT"
-    },
-    {
-      "title": "Franske skattebetalere rammet av hackerangrep – data fra hundretusener stjålet",
-      "link": "https://www.nrk.no/nyheter/franske-skattebetalere-rammet-av-hackerangrep-_-data-fra-hundretusener-stjalet-1.17989745",
-      "category": "Frankrike",
-      "pubDate": "Fri, 14 Aug 2026 07:36:22 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke på Ulefoss",
-      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-trafikkulykke-pa-ulefoss--1.17989728",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 14 Aug 2026 07:25:52 GMT"
-    },
-    {
-      "title": "Russisk angrep på ukrainsk jernbanestasjon",
-      "link": "https://www.nrk.no/nyheter/russisk-angrep-pa-ukrainsk-jernbanestasjon-1.17989722",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 14 Aug 2026 07:22:02 GMT"
     }
   ]
 }
