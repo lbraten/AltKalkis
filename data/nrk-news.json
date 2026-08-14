@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-14T09:08:24.586Z",
+  "updatedAt": "2026-08-14T10:32:34.500Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Verdens helseorganisasjon: Over fire angrep daglig mot helsevesen i konfliktområder",
+      "link": "https://www.nrk.no/nyheter/verdens-helseorganisasjon_-over-fire-angrep-daglig-mot-helsevesen-i-konfliktomrader-1.17989854",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 14 Aug 2026 10:17:30 GMT"
+    },
     {
       "title": "To siktet for drapsforsøk i Tønsberg",
       "link": "https://www.nrk.no/vestfoldogtelemark/to-siktet-for-drapsforsok-i-tonsberg-1.17989813",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russisk-angrep-pa-ukrainsk-jernbanestasjon-1.17989722",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 14 Aug 2026 07:22:02 GMT"
-    },
-    {
-      "title": "Skogbrannen: 100 nordmenn i Kroatia har fått info fra UD",
-      "link": "https://www.nrk.no/nyheter/skogbrannen_-100-nordmenn-i-kroatia-har-fatt-info-fra-ud-1.17989667",
-      "category": "Skogbrann i Kroatia",
-      "pubDate": "Fri, 14 Aug 2026 07:04:39 GMT"
     }
   ]
 }
