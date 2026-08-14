@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-14T16:54:31.265Z",
+  "updatedAt": "2026-08-14T17:53:49.187Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Det britiske sykkeltalentet Finlay Tarling døde i ulykke under ritt i Portugal",
-      "link": "https://www.nrk.no/sport/det-britiske-sykkeltalentet-finlay-tarling-dode-i-ulykke-under-ritt-i-portugal-1.17990559",
+      "title": "Nettforumet Reddit tas inn i S&P 500",
+      "link": "https://www.nrk.no/nyheter/nettforumet-reddit-tas-inn-i-s_p-500-1.17990546",
+      "category": "Bank og finans",
+      "pubDate": "Fri, 14 Aug 2026 17:09:43 GMT"
+    },
+    {
+      "title": "Det britiske sykkeltalentet Finlay Tarling døde under ritt i Portugal",
+      "link": "https://www.nrk.no/sport/det-britiske-sykkeltalentet-finlay-tarling-dode-under-ritt-i-portugal-1.17990559",
       "category": "Sportsnyheter",
       "pubDate": "Fri, 14 Aug 2026 16:43:59 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/luigi-mangione-sier-han-skjot-helseforsikringssjef-1.17990489",
       "category": "USA",
       "pubDate": "Fri, 14 Aug 2026 15:17:34 GMT"
-    },
-    {
-      "title": "Ny rekord på Oslo Børs",
-      "link": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-1.17990463",
-      "category": "Oslo Børs",
-      "pubDate": "Fri, 14 Aug 2026 15:04:05 GMT"
     }
   ]
 }
