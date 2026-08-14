@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-14T17:53:49.187Z",
+  "updatedAt": "2026-08-14T18:55:57.288Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nødvarsel til millioner i England og Wales etter skogbranner",
+      "link": "https://www.nrk.no/nyheter/nodvarsel-til-millioner-i-england-og-wales-etter-skogbranner-1.17990580",
+      "category": "Skogbrann og skogbrannfare",
+      "pubDate": "Fri, 14 Aug 2026 18:17:58 GMT"
+    },
     {
       "title": "Nettforumet Reddit tas inn i S&P 500",
       "link": "https://www.nrk.no/nyheter/nettforumet-reddit-tas-inn-i-s_p-500-1.17990546",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/1800-evakuerte-etter-skogbrann-i-tyskland-1.17990501",
       "category": "Tyskland",
       "pubDate": "Fri, 14 Aug 2026 16:07:08 GMT"
-    },
-    {
-      "title": "Luigi Mangione sier han skjøt helseforsikringssjef",
-      "link": "https://www.nrk.no/nyheter/luigi-mangione-sier-han-skjot-helseforsikringssjef-1.17990489",
-      "category": "USA",
-      "pubDate": "Fri, 14 Aug 2026 15:17:34 GMT"
     }
   ]
 }
