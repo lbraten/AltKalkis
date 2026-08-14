@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-08-14T15:53:05.142Z",
+  "updatedAt": "2026-08-14T16:54:31.265Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Luigi Mangione sier han skjøt lederen i United Healthcare",
-      "link": "https://www.nrk.no/nyheter/luigi-mangione-sier-han-skjot-lederen-i-united-healthcare-1.17990489",
+      "title": "Det britiske sykkeltalentet Finlay Tarling døde i ulykke under ritt i Portugal",
+      "link": "https://www.nrk.no/sport/det-britiske-sykkeltalentet-finlay-tarling-dode-i-ulykke-under-ritt-i-portugal-1.17990559",
+      "category": "Sportsnyheter",
+      "pubDate": "Fri, 14 Aug 2026 16:43:59 GMT"
+    },
+    {
+      "title": "Prøvde å tenne på Gjøvik politistasjon",
+      "link": "https://www.nrk.no/innlandet/provde-a-tenne-pa-gjovik-politistasjon-1.17990547",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Fri, 14 Aug 2026 16:30:10 GMT"
+    },
+    {
+      "title": "Zambia gjenopptar opptelling av stemmer",
+      "link": "https://www.nrk.no/nyheter/zambia-gjenopptar-opptelling-av-stemmer-1.17990541",
+      "category": "Zambia",
+      "pubDate": "Fri, 14 Aug 2026 16:13:50 GMT"
+    },
+    {
+      "title": "1800 evakuerte etter skogbrann i Tyskland",
+      "link": "https://www.nrk.no/nyheter/1800-evakuerte-etter-skogbrann-i-tyskland-1.17990501",
+      "category": "Tyskland",
+      "pubDate": "Fri, 14 Aug 2026 16:07:08 GMT"
+    },
+    {
+      "title": "Luigi Mangione sier han skjøt helseforsikringssjef",
+      "link": "https://www.nrk.no/nyheter/luigi-mangione-sier-han-skjot-helseforsikringssjef-1.17990489",
       "category": "USA",
       "pubDate": "Fri, 14 Aug 2026 15:17:34 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-1.17990463",
       "category": "Oslo Børs",
       "pubDate": "Fri, 14 Aug 2026 15:04:05 GMT"
-    },
-    {
-      "title": "Norge vil svare USA på «Nato-skjema»",
-      "link": "https://www.nrk.no/nyheter/norge-vil-svare-usa-pa-_nato-skjema_-1.17990448",
-      "category": "Nato",
-      "pubDate": "Fri, 14 Aug 2026 14:57:26 GMT"
-    },
-    {
-      "title": "To menn fengsles etter frihetsberøvelse",
-      "link": "https://www.nrk.no/stor-oslo/to-menn-fengsles-etter-frihetsberovelse-1.17990121",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 14 Aug 2026 14:56:20 GMT"
-    },
-    {
-      "title": "Syklist påkjørt av personbil",
-      "link": "https://www.nrk.no/vestfoldogtelemark/syklist-pakjort-av-personbil-1.17990455",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 14 Aug 2026 14:51:40 GMT"
-    },
-    {
-      "title": "Båtulykken i Sverige: Kapteinen på lasteskipet holdes i varetekt",
-      "link": "https://www.nrk.no/nyheter/batulykken-i-sverige_-kapteinen-pa-lasteskipet-holdes-i-varetekt-1.17990415",
-      "category": "Sverige",
-      "pubDate": "Fri, 14 Aug 2026 14:43:47 GMT"
     }
   ]
 }
