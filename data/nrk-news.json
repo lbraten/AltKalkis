@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-14T07:37:31.310Z",
+  "updatedAt": "2026-08-14T09:08:24.586Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To siktet for drapsforsøk i Tønsberg",
+      "link": "https://www.nrk.no/vestfoldogtelemark/to-siktet-for-drapsforsok-i-tonsberg-1.17989813",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 14 Aug 2026 08:27:52 GMT"
+    },
+    {
+      "title": "Minst seks personer mistet livet etter rekordregn i Japan",
+      "link": "https://www.nrk.no/nyheter/minst-seks-personer-mistet-livet-etter-rekordregn-i-japan-1.17989777",
+      "category": "Klima og miljø",
+      "pubDate": "Fri, 14 Aug 2026 08:05:53 GMT"
+    },
     {
       "title": "Franske skattebetalere rammet av hackerangrep – data fra hundretusener stjålet",
       "link": "https://www.nrk.no/nyheter/franske-skattebetalere-rammet-av-hackerangrep-_-data-fra-hundretusener-stjalet-1.17989745",
@@ -9,8 +21,8 @@
       "pubDate": "Fri, 14 Aug 2026 07:36:22 GMT"
     },
     {
-      "title": "Trafikkulykke på Ulefoss – luftambulanse på vei",
-      "link": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-pa-ulefoss-_-luftambulanse-pa-vei-1.17989728",
+      "title": "Alvorlig trafikkulykke på Ulefoss",
+      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-trafikkulykke-pa-ulefoss--1.17989728",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Fri, 14 Aug 2026 07:25:52 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skogbrannen_-100-nordmenn-i-kroatia-har-fatt-info-fra-ud-1.17989667",
       "category": "Skogbrann i Kroatia",
       "pubDate": "Fri, 14 Aug 2026 07:04:39 GMT"
-    },
-    {
-      "title": "Voldsom skogbrann nær kroatisk turistby – sju kritisk skadet",
-      "link": "https://www.nrk.no/nyheter/voldsom-skogbrann-naer-kroatisk-turistby-_-sju-kritisk-skadet-1.17989616",
-      "category": "Skogbrann i Kroatia",
-      "pubDate": "Fri, 14 Aug 2026 06:13:19 GMT"
-    },
-    {
-      "title": "Nigel Farage valgt inn i Parlamentet – igjen",
-      "link": "https://www.nrk.no/nyheter/nigel-farage-valgt-inn-i-parlamentet-_-igjen-1.17989584",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 14 Aug 2026 05:06:16 GMT"
     }
   ]
 }
