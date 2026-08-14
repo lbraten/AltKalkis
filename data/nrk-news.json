@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-14T21:26:03.877Z",
+  "updatedAt": "2026-08-14T21:50:28.601Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Venezuela løslater 131 politiske fanger",
+      "link": "https://www.nrk.no/nyheter/venezuela-loslater-131-politiske-fanger-1.17990737",
+      "category": "Venezuela",
+      "pubDate": "Fri, 14 Aug 2026 21:41:55 GMT"
+    },
+    {
+      "title": "Iran har ikke bestemt seg om USA-samtaler",
+      "link": "https://www.nrk.no/nyheter/iran-har-ikke-bestemt-seg-om-usa-samtaler-1.17990718",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 14 Aug 2026 21:31:51 GMT"
+    },
     {
       "title": "To emiratiske tankskip angrepet i Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/to-emiratiske-tankskip-angrepet-i-hormuzstredet-1.17990625",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nettforumet-reddit-tas-inn-i-s_p-500-1.17990546",
       "category": "Bank og finans",
       "pubDate": "Fri, 14 Aug 2026 17:09:43 GMT"
-    },
-    {
-      "title": "Det britiske sykkeltalentet Finlay Tarling døde under ritt i Portugal",
-      "link": "https://www.nrk.no/sport/det-britiske-sykkeltalentet-finlay-tarling-dode-under-ritt-i-portugal-1.17990559",
-      "category": "Sportsnyheter",
-      "pubDate": "Fri, 14 Aug 2026 16:43:59 GMT"
-    },
-    {
-      "title": "Prøvde å tenne på Gjøvik politistasjon",
-      "link": "https://www.nrk.no/innlandet/provde-a-tenne-pa-gjovik-politistasjon-1.17990547",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 14 Aug 2026 16:30:10 GMT"
     }
   ]
 }
