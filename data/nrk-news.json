@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-14T05:56:05.081Z",
+  "updatedAt": "2026-08-14T07:37:31.310Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Franske skattebetalere rammet av hackerangrep – data fra hundretusener stjålet",
+      "link": "https://www.nrk.no/nyheter/franske-skattebetalere-rammet-av-hackerangrep-_-data-fra-hundretusener-stjalet-1.17989745",
+      "category": "Frankrike",
+      "pubDate": "Fri, 14 Aug 2026 07:36:22 GMT"
+    },
+    {
+      "title": "Trafikkulykke på Ulefoss – luftambulanse på vei",
+      "link": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-pa-ulefoss-_-luftambulanse-pa-vei-1.17989728",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 14 Aug 2026 07:25:52 GMT"
+    },
+    {
+      "title": "Russisk angrep på ukrainsk jernbanestasjon",
+      "link": "https://www.nrk.no/nyheter/russisk-angrep-pa-ukrainsk-jernbanestasjon-1.17989722",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 14 Aug 2026 07:22:02 GMT"
+    },
+    {
+      "title": "Skogbrannen: 100 nordmenn i Kroatia har fått info fra UD",
+      "link": "https://www.nrk.no/nyheter/skogbrannen_-100-nordmenn-i-kroatia-har-fatt-info-fra-ud-1.17989667",
+      "category": "Skogbrann i Kroatia",
+      "pubDate": "Fri, 14 Aug 2026 07:04:39 GMT"
+    },
+    {
+      "title": "Voldsom skogbrann nær kroatisk turistby – sju kritisk skadet",
+      "link": "https://www.nrk.no/nyheter/voldsom-skogbrann-naer-kroatisk-turistby-_-sju-kritisk-skadet-1.17989616",
+      "category": "Skogbrann i Kroatia",
+      "pubDate": "Fri, 14 Aug 2026 06:13:19 GMT"
+    },
     {
       "title": "Nigel Farage valgt inn i Parlamentet – igjen",
       "link": "https://www.nrk.no/nyheter/nigel-farage-valgt-inn-i-parlamentet-_-igjen-1.17989584",
       "category": "Storbritannia",
       "pubDate": "Fri, 14 Aug 2026 05:06:16 GMT"
-    },
-    {
-      "title": "Brann i russisk oljehavn etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/brann-i-russisk-oljehavn-etter-droneangrep-1.17989581",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 14 Aug 2026 04:16:02 GMT"
-    },
-    {
-      "title": "Norge gir 10 millioner kroner til jordskjelvrespons i Colombia",
-      "link": "https://www.nrk.no/nyheter/-norge-gir-10-millioner-kroner-til-jordskjelvrespons-i-colombia-1.17989578",
-      "category": "Jordskjelv i Sør-Amerika",
-      "pubDate": "Fri, 14 Aug 2026 04:10:30 GMT"
-    },
-    {
-      "title": "Fire skadet da lastebil kjørte inn i ambulanse i Tyskland",
-      "link": "https://www.nrk.no/nyheter/fire-skadet-da-lastebil-kjorte-inn-i-ambulanse-i-tyskland-1.17989546",
-      "category": "Tyskland",
-      "pubDate": "Fri, 14 Aug 2026 03:53:09 GMT"
-    },
-    {
-      "title": "Fire døde etter kraftig regn i Japan",
-      "link": "https://www.nrk.no/nyheter/fire-dode-etter-kraftig-regn-i-japan-1.17989521",
-      "category": "Japan",
-      "pubDate": "Fri, 14 Aug 2026 03:15:43 GMT"
-    },
-    {
-      "title": "Nigel Farage møter ikke opp på kunngjøringen av valgvinner",
-      "link": "https://www.nrk.no/nyheter/nigel-farage-moter-ikke-opp-pa-kunngjoringen-av-valgvinner-1.17989520",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 14 Aug 2026 02:57:43 GMT"
     }
   ]
 }
