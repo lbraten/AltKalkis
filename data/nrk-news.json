@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-13T23:41:49.425Z",
+  "updatedAt": "2026-08-14T02:03:54.417Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Allierte kampfly skjøt ned drone over Latvia",
+      "link": "https://www.nrk.no/nyheter/allierte-kampfly-skjot-ned-drone-over-latvia-1.17989518",
+      "category": "Latvia",
+      "pubDate": "Fri, 14 Aug 2026 01:33:47 GMT"
+    },
+    {
+      "title": "Stjålne Matisse-bilder funnet i Brasil",
+      "link": "https://www.nrk.no/nyheter/stjalne-matisse-bilder-funnet-i-brasil-1.17989516",
+      "category": "Kunst",
+      "pubDate": "Fri, 14 Aug 2026 00:53:52 GMT"
+    },
+    {
+      "title": "USA planlegger å angripe narkokarteller på land",
+      "link": "https://www.nrk.no/nyheter/usa-planlegger-a-angripe-narkokarteller-pa-land-1.17989515",
+      "category": "USA",
+      "pubDate": "Fri, 14 Aug 2026 00:32:14 GMT"
+    },
+    {
+      "title": "En drept og flere såret i angrep på Kramatorsk",
+      "link": "https://www.nrk.no/nyheter/en-drept-og-flere-saret-i-angrep-pa-kramatorsk-1.17989514",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 13 Aug 2026 23:57:21 GMT"
+    },
     {
       "title": "Afghansk ordfører drept i bombeangrep",
       "link": "https://www.nrk.no/nyheter/afghansk-ordforer-drept-i-bombeangrep-1.17989513",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/husbrann-i-sandefjord-under-kontroll-1.17989512",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Thu, 13 Aug 2026 21:40:54 GMT"
-    },
-    {
-      "title": "Trump kunngjør ny dronetoll",
-      "link": "https://www.nrk.no/nyheter/trump-kunngjor-ny-dronetoll-1.17989504",
-      "category": "USA",
-      "pubDate": "Thu, 13 Aug 2026 21:37:45 GMT"
-    },
-    {
-      "title": "To skip angrepet i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/to-skip-angrepet-i-hormuzstredet-1.17989502",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Thu, 13 Aug 2026 20:43:15 GMT"
-    },
-    {
-      "title": "Årets varmeste dag i Storbritannia",
-      "link": "https://www.nrk.no/nyheter/arets-varmeste-dag-i-storbritannia-1.17989367",
-      "category": "Storbritannia",
-      "pubDate": "Thu, 13 Aug 2026 18:42:23 GMT"
-    },
-    {
-      "title": "Alvorlig ATV-ulykke i Tana",
-      "link": "https://www.nrk.no/tromsogfinnmark/alvorlig-atv-ulykke-i-tana-1.17989432",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 13 Aug 2026 18:18:14 GMT"
     }
   ]
 }
