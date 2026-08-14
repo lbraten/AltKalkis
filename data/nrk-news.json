@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-14T13:08:56.533Z",
+  "updatedAt": "2026-08-14T14:30:29.950Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tre nye siktet for drapsforsøk i Tønsberg",
+      "link": "https://www.nrk.no/vestfoldogtelemark/tre-nye-siktet-for-drapsforsok-i-tonsberg-1.17990434",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 14 Aug 2026 14:16:45 GMT"
+    },
+    {
+      "title": "Person funnet død etter skogbrann i Kroatia",
+      "link": "https://www.nrk.no/nyheter/person-funnet-dod-etter-skogbrann-i-kroatia-1.17990398",
+      "category": "Skogbrann i Kroatia",
+      "pubDate": "Fri, 14 Aug 2026 13:45:43 GMT"
+    },
+    {
+      "title": "Fransk sosiale medier-forbud: I strid med grunnloven",
+      "link": "https://www.nrk.no/nyheter/fransk-sosiale-medier-forbud_-i-strid-med-grunnloven-1.17990389",
+      "category": "Frankrike",
+      "pubDate": "Fri, 14 Aug 2026 13:32:46 GMT"
+    },
+    {
+      "title": "Frankrike: Opprettholder lov om assistert selvmord",
+      "link": "https://www.nrk.no/nyheter/frankrike_-opprettholder-lov-om-assistert-selvmord-1.17990357",
+      "category": "Frankrike",
+      "pubDate": "Fri, 14 Aug 2026 13:26:19 GMT"
+    },
     {
       "title": "Rekordmange skogbranner i England og Wales i år",
       "link": "https://www.nrk.no/nyheter/rekordmange-skogbranner-i-england-og-wales-i-ar-1.17990281",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/innlandet/ny-pagripelse-etter-brann-i-elverum-1.17990340",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Fri, 14 Aug 2026 12:58:44 GMT"
-    },
-    {
-      "title": "Stjålne malerier av Renoir, Cézanne og Matisse funnet av italiensk politi",
-      "link": "https://www.nrk.no/nyheter/stjalne-malerier-av-renoir_-cezanne-og-matisse-funnet-av-italiensk-politi-1.17990272",
-      "category": "Kunst",
-      "pubDate": "Fri, 14 Aug 2026 12:28:13 GMT"
-    },
-    {
-      "title": "LO-topp advarer Støre: – Ikke rør strømstøtten",
-      "link": "https://www.nrk.no/nyheter/lo-topp-advarer-store_-_-ikke-ror-stromstotten-1.17990235",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 14 Aug 2026 12:07:39 GMT"
-    },
-    {
-      "title": "Zambia: Full stans i oppteljing av stemmer",
-      "link": "https://www.nrk.no/nyheter/zambia_-full-stans-i-oppteljing-av-stemmer-1.17990158",
-      "category": "Zambia",
-      "pubDate": "Fri, 14 Aug 2026 12:00:34 GMT"
-    },
-    {
-      "title": "Henlegger voldtektssak etter FpU-leir",
-      "link": "https://www.nrk.no/sorlandet/henlegger-voldtektssak-etter-fpu-leir-1.17990176",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Fri, 14 Aug 2026 11:44:38 GMT"
     }
   ]
 }
