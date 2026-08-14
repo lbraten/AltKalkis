@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-14T22:50:13.105Z",
+  "updatedAt": "2026-08-14T23:22:40.975Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tsunami-varsel etter kraftig jordskjelv i Indonesia",
+      "link": "https://www.nrk.no/nyheter/tsunami-varsel-etter-kraftig-jordskjelv-i-indonesia-1.17990744",
+      "category": "Indonesia",
+      "pubDate": "Fri, 14 Aug 2026 23:18:46 GMT"
+    },
+    {
+      "title": "Elleve lik observert i sjøen utenfor Libya",
+      "link": "https://www.nrk.no/nyheter/elleve-lik-observert-i-sjoen-utenfor-libya-1.17990739",
+      "category": "Båtflyktninger i Middelhavet",
+      "pubDate": "Fri, 14 Aug 2026 22:59:13 GMT"
+    },
     {
       "title": "Venezuela løslater 131 politiske fanger",
       "link": "https://www.nrk.no/nyheter/venezuela-loslater-131-politiske-fanger-1.17990737",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brannmann-dod-etter-gasseksplosjoner-i-brussel-1.17990653",
       "category": "Belgia",
       "pubDate": "Fri, 14 Aug 2026 19:05:24 GMT"
-    },
-    {
-      "title": "Nødvarsel til millioner i England og Wales etter skogbranner",
-      "link": "https://www.nrk.no/nyheter/nodvarsel-til-millioner-i-england-og-wales-etter-skogbranner-1.17990580",
-      "category": "Skogbrann og skogbrannfare",
-      "pubDate": "Fri, 14 Aug 2026 18:17:58 GMT"
-    },
-    {
-      "title": "Nettforumet Reddit tas inn i S&P 500",
-      "link": "https://www.nrk.no/nyheter/nettforumet-reddit-tas-inn-i-s_p-500-1.17990546",
-      "category": "Bank og finans",
-      "pubDate": "Fri, 14 Aug 2026 17:09:43 GMT"
     }
   ]
 }
