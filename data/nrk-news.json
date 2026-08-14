@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-14T14:30:29.950Z",
+  "updatedAt": "2026-08-14T15:53:05.142Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Tre nye siktet for drapsforsøk i Tønsberg",
-      "link": "https://www.nrk.no/vestfoldogtelemark/tre-nye-siktet-for-drapsforsok-i-tonsberg-1.17990434",
+      "title": "Luigi Mangione sier han skjøt lederen i United Healthcare",
+      "link": "https://www.nrk.no/nyheter/luigi-mangione-sier-han-skjot-lederen-i-united-healthcare-1.17990489",
+      "category": "USA",
+      "pubDate": "Fri, 14 Aug 2026 15:17:34 GMT"
+    },
+    {
+      "title": "Ny rekord på Oslo Børs",
+      "link": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-1.17990463",
+      "category": "Oslo Børs",
+      "pubDate": "Fri, 14 Aug 2026 15:04:05 GMT"
+    },
+    {
+      "title": "Norge vil svare USA på «Nato-skjema»",
+      "link": "https://www.nrk.no/nyheter/norge-vil-svare-usa-pa-_nato-skjema_-1.17990448",
+      "category": "Nato",
+      "pubDate": "Fri, 14 Aug 2026 14:57:26 GMT"
+    },
+    {
+      "title": "To menn fengsles etter frihetsberøvelse",
+      "link": "https://www.nrk.no/stor-oslo/to-menn-fengsles-etter-frihetsberovelse-1.17990121",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 14 Aug 2026 14:56:20 GMT"
+    },
+    {
+      "title": "Syklist påkjørt av personbil",
+      "link": "https://www.nrk.no/vestfoldogtelemark/syklist-pakjort-av-personbil-1.17990455",
       "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 14 Aug 2026 14:16:45 GMT"
+      "pubDate": "Fri, 14 Aug 2026 14:51:40 GMT"
     },
     {
-      "title": "Person funnet død etter skogbrann i Kroatia",
-      "link": "https://www.nrk.no/nyheter/person-funnet-dod-etter-skogbrann-i-kroatia-1.17990398",
-      "category": "Skogbrann i Kroatia",
-      "pubDate": "Fri, 14 Aug 2026 13:45:43 GMT"
-    },
-    {
-      "title": "Fransk sosiale medier-forbud: I strid med grunnloven",
-      "link": "https://www.nrk.no/nyheter/fransk-sosiale-medier-forbud_-i-strid-med-grunnloven-1.17990389",
-      "category": "Frankrike",
-      "pubDate": "Fri, 14 Aug 2026 13:32:46 GMT"
-    },
-    {
-      "title": "Frankrike: Opprettholder lov om assistert selvmord",
-      "link": "https://www.nrk.no/nyheter/frankrike_-opprettholder-lov-om-assistert-selvmord-1.17990357",
-      "category": "Frankrike",
-      "pubDate": "Fri, 14 Aug 2026 13:26:19 GMT"
-    },
-    {
-      "title": "Rekordmange skogbranner i England og Wales i år",
-      "link": "https://www.nrk.no/nyheter/rekordmange-skogbranner-i-england-og-wales-i-ar-1.17990281",
-      "category": "Skogbrann og skogbrannfare",
-      "pubDate": "Fri, 14 Aug 2026 13:05:52 GMT"
-    },
-    {
-      "title": "Ny pågripelse etter brann i Elverum",
-      "link": "https://www.nrk.no/innlandet/ny-pagripelse-etter-brann-i-elverum-1.17990340",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 14 Aug 2026 12:58:44 GMT"
+      "title": "Båtulykken i Sverige: Kapteinen på lasteskipet holdes i varetekt",
+      "link": "https://www.nrk.no/nyheter/batulykken-i-sverige_-kapteinen-pa-lasteskipet-holdes-i-varetekt-1.17990415",
+      "category": "Sverige",
+      "pubDate": "Fri, 14 Aug 2026 14:43:47 GMT"
     }
   ]
 }
