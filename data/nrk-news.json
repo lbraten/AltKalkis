@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-14T19:49:31.886Z",
+  "updatedAt": "2026-08-14T20:32:22.983Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To emiratiske tankskip angrepet i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/to-emiratiske-tankskip-angrepet-i-hormuzstredet-1.17990625",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 14 Aug 2026 20:24:27 GMT"
+    },
     {
       "title": "Brannmann død etter gasseksplosjoner i Brussel",
       "link": "https://www.nrk.no/nyheter/brannmann-dod-etter-gasseksplosjoner-i-brussel-1.17990653",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/innlandet/provde-a-tenne-pa-gjovik-politistasjon-1.17990547",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Fri, 14 Aug 2026 16:30:10 GMT"
-    },
-    {
-      "title": "Zambia gjenopptar opptelling av stemmer",
-      "link": "https://www.nrk.no/nyheter/zambia-gjenopptar-opptelling-av-stemmer-1.17990541",
-      "category": "Zambia",
-      "pubDate": "Fri, 14 Aug 2026 16:13:50 GMT"
     }
   ]
 }
