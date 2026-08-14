@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-14T04:22:04.406Z",
+  "updatedAt": "2026-08-14T05:56:05.081Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nigel Farage valgt inn i Parlamentet – igjen",
+      "link": "https://www.nrk.no/nyheter/nigel-farage-valgt-inn-i-parlamentet-_-igjen-1.17989584",
+      "category": "Storbritannia",
+      "pubDate": "Fri, 14 Aug 2026 05:06:16 GMT"
+    },
     {
       "title": "Brann i russisk oljehavn etter droneangrep",
       "link": "https://www.nrk.no/nyheter/brann-i-russisk-oljehavn-etter-droneangrep-1.17989581",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nigel-farage-moter-ikke-opp-pa-kunngjoringen-av-valgvinner-1.17989520",
       "category": "Storbritannia",
       "pubDate": "Fri, 14 Aug 2026 02:57:43 GMT"
-    },
-    {
-      "title": "Skogbrann truer kystby i Kroatia",
-      "link": "https://www.nrk.no/nyheter/skogbrann-truer-kystby-i-kroatia-1.17989517",
-      "category": "Klima og miljø",
-      "pubDate": "Fri, 14 Aug 2026 02:40:54 GMT"
     }
   ]
 }
