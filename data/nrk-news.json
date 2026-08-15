@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-15T15:46:11.880Z",
+  "updatedAt": "2026-08-15T16:26:13.432Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bonnie Tylers kiste fraktet gjennom gatene i Wales",
+      "link": "https://www.nrk.no/nyheter/bonnie-tylers-kiste-fraktet-gjennom-gatene-i-wales-1.17991113",
+      "category": "Musikk",
+      "pubDate": "Sat, 15 Aug 2026 15:55:07 GMT"
+    },
+    {
+      "title": "68 døde i fergeforlis i Zimbabwe",
+      "link": "https://www.nrk.no/nyheter/68-dode-i-fergeforlis-i-zimbabwe-1.17991100",
+      "category": "Zimbabwe",
+      "pubDate": "Sat, 15 Aug 2026 15:47:11 GMT"
+    },
+    {
+      "title": "Mann med kniv på Flesland flyplass",
+      "link": "https://www.nrk.no/vestland/mann-med-kniv-pa-flesland-flyplass-1.17991039",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 15 Aug 2026 15:36:11 GMT"
+    },
     {
       "title": "Havn i Jemen stengt etter Houthi-angrep",
       "link": "https://www.nrk.no/nyheter/havn-i-jemen-stengt-etter-houthi-angrep-1.17991088",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/tv2_-politiet-jakter-mistenkt-i-lindeberg-saken-1.17991066",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 15 Aug 2026 14:54:44 GMT"
-    },
-    {
-      "title": "Elleve døde etter israelsk angrep i Sør-Libanon",
-      "link": "https://www.nrk.no/nyheter/elleve-dode-etter-israelsk-angrep-i-sor-libanon-1.17991064",
-      "category": "Krig og konflikt i Midtøsten",
-      "pubDate": "Sat, 15 Aug 2026 14:52:36 GMT"
-    },
-    {
-      "title": "VG: Voldsdømt mann pågrepet i Lindeberg-saken",
-      "link": "https://www.nrk.no/stor-oslo/vg_-voldsdomt-mann-pagrepet-i-lindeberg-saken-1.17991023",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 15 Aug 2026 14:25:12 GMT"
-    },
-    {
-      "title": "Alvorlig sykkelulykke i Halden",
-      "link": "https://www.nrk.no/nyheter/alvorlig-sykkelulykke-i-halden-1.17991008",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 15 Aug 2026 13:40:41 GMT"
     }
   ]
 }
