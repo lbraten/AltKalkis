@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T03:39:41.404Z",
+  "updatedAt": "2026-08-15T04:32:16.210Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dommer gir Trump grønt lys til å kaste ut somaliere",
+      "link": "https://www.nrk.no/nyheter/dommer-gir-trump-gront-lys-til-a-kaste-ut-somaliere-1.17990757",
+      "category": "USA",
+      "pubDate": "Sat, 15 Aug 2026 03:47:38 GMT"
+    },
     {
       "title": "Nytt emiratisk skip angrepet i Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/nytt-emiratisk-skip-angrepet-i-hormuzstredet-1.17990745",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/elleve-lik-observert-i-sjoen-utenfor-libya-1.17990739",
       "category": "Båtflyktninger i Middelhavet",
       "pubDate": "Fri, 14 Aug 2026 22:59:13 GMT"
-    },
-    {
-      "title": "Venezuela løslater 131 politiske fanger",
-      "link": "https://www.nrk.no/nyheter/venezuela-loslater-131-politiske-fanger-1.17990737",
-      "category": "Venezuela",
-      "pubDate": "Fri, 14 Aug 2026 21:41:55 GMT"
     }
   ]
 }
