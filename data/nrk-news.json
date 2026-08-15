@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T10:48:39.293Z",
+  "updatedAt": "2026-08-15T11:21:00.559Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nytt kraftig jordskjelv i Indonesia",
+      "link": "https://www.nrk.no/nyheter/nytt-kraftig-jordskjelv-i-indonesia-1.17990899",
+      "category": "Jordskjelv i Asia",
+      "pubDate": "Sat, 15 Aug 2026 11:14:25 GMT"
+    },
     {
       "title": "Én omkommet i ulykke mellom buss og bil i Vågå",
       "link": "https://www.nrk.no/innlandet/en-omkommet-i-ulykke-mellom-buss-og-bil-i-vaga-1.17990832",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rekordlang-boligko-for-studenter-_-13.700-venter-fremdeles-1.17990762",
       "category": "Studentboliger",
       "pubDate": "Sat, 15 Aug 2026 05:00:20 GMT"
-    },
-    {
-      "title": "Dommer gir Trump grønt lys til å kaste ut somaliere",
-      "link": "https://www.nrk.no/nyheter/dommer-gir-trump-gront-lys-til-a-kaste-ut-somaliere-1.17990757",
-      "category": "USA",
-      "pubDate": "Sat, 15 Aug 2026 03:47:38 GMT"
     }
   ]
 }
