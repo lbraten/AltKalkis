@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T04:32:16.210Z",
+  "updatedAt": "2026-08-15T05:25:21.444Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rekordlang boligkø for studenter – 13.700 venter fremdeles",
+      "link": "https://www.nrk.no/nyheter/rekordlang-boligko-for-studenter-_-13.700-venter-fremdeles-1.17990762",
+      "category": "Studentboliger",
+      "pubDate": "Sat, 15 Aug 2026 05:00:20 GMT"
+    },
     {
       "title": "Dommer gir Trump grønt lys til å kaste ut somaliere",
       "link": "https://www.nrk.no/nyheter/dommer-gir-trump-gront-lys-til-a-kaste-ut-somaliere-1.17990757",
@@ -21,8 +27,8 @@
       "pubDate": "Sat, 15 Aug 2026 00:57:49 GMT"
     },
     {
-      "title": "To døde i kraftig jordskjelv i Indonesia",
-      "link": "https://www.nrk.no/nyheter/to-dode-i-kraftig-jordskjelv-i-indonesia-1.17990742",
+      "title": "20 døde i kraftig jordskjelv i Indonesia",
+      "link": "https://www.nrk.no/nyheter/20-dode-i-kraftig-jordskjelv-i-indonesia-1.17990742",
       "category": "Indonesia",
       "pubDate": "Sat, 15 Aug 2026 00:56:06 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tsunami-varsel-etter-kraftig-jordskjelv-i-indonesia-1.17990744",
       "category": "Indonesia",
       "pubDate": "Fri, 14 Aug 2026 23:18:46 GMT"
-    },
-    {
-      "title": "Elleve lik observert i sjøen utenfor Libya",
-      "link": "https://www.nrk.no/nyheter/elleve-lik-observert-i-sjoen-utenfor-libya-1.17990739",
-      "category": "Båtflyktninger i Middelhavet",
-      "pubDate": "Fri, 14 Aug 2026 22:59:13 GMT"
     }
   ]
 }
