@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T22:22:44.683Z",
+  "updatedAt": "2026-08-15T22:48:14.142Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nesten 300 stanset på vei til Spania",
+      "link": "https://www.nrk.no/nyheter/nesten-300-stanset-pa-vei-til-spania-1.17991273",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 15 Aug 2026 22:45:05 GMT"
+    },
     {
       "title": "Mann med kniv pågrepet i Fredrikstad",
       "link": "https://www.nrk.no/nyheter/mann-med-kniv-pagrepet-i-fredrikstad-1.17991264",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/liechtenstein_-innforer-likestilling-i-arverekkefolgen-1.17991217",
       "category": "Liechtenstein",
       "pubDate": "Sat, 15 Aug 2026 19:14:08 GMT"
-    },
-    {
-      "title": "Qatar avviser at de har iranske piloter i varetekt",
-      "link": "https://www.nrk.no/nyheter/qatar-avviser-at-de-har-iranske-piloter-i-varetekt-1.17991182",
-      "category": "Krig og konflikt i Midtøsten",
-      "pubDate": "Sat, 15 Aug 2026 19:07:03 GMT"
     }
   ]
 }
