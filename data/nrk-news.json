@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-15T08:30:36.236Z",
+  "updatedAt": "2026-08-15T09:26:51.382Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Buss mot bil på riksveg 15: Fremstår alvorlig",
+      "link": "https://www.nrk.no/innlandet/buss-mot-bil-pa-riksveg-15_-fremstar-alvorlig-1.17990832",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Sat, 15 Aug 2026 08:59:10 GMT"
+    },
+    {
+      "title": "Politiet har skutt en mann i leilighet i Oslo",
+      "link": "https://www.nrk.no/nyheter/politiet-har-skutt-en-mann-i-leilighet-i-oslo-1.17990865",
+      "category": "high",
+      "pubDate": "Sat, 15 Aug 2026 08:56:32 GMT"
+    },
+    {
+      "title": "Zelenskiy: Ukrainske droner har truffet russisk flybase",
+      "link": "https://www.nrk.no/nyheter/zelenskiy_-ukrainske-droner-har-truffet-russisk-flybase-1.17990791",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 15 Aug 2026 08:56:14 GMT"
+    },
     {
       "title": "Sju døde etter israelsk luftangrep i Libanon",
       "link": "https://www.nrk.no/nyheter/sju-dode-etter-israelsk-luftangrep-i-libanon-1.17990761",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dommer-gir-trump-gront-lys-til-a-kaste-ut-somaliere-1.17990757",
       "category": "USA",
       "pubDate": "Sat, 15 Aug 2026 03:47:38 GMT"
-    },
-    {
-      "title": "Nytt emiratisk skip angrepet i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/nytt-emiratisk-skip-angrepet-i-hormuzstredet-1.17990745",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 15 Aug 2026 02:15:26 GMT"
-    },
-    {
-      "title": "14-åring funnet etter leteaksjon i skogsterreng i Engerdal",
-      "link": "https://www.nrk.no/nyheter/14-aring-funnet-etter-leteaksjon-i-skogsterreng-i-engerdal-1.17990756",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 15 Aug 2026 00:57:49 GMT"
-    },
-    {
-      "title": "20 døde i kraftig jordskjelv i Indonesia",
-      "link": "https://www.nrk.no/nyheter/20-dode-i-kraftig-jordskjelv-i-indonesia-1.17990742",
-      "category": "Indonesia",
-      "pubDate": "Sat, 15 Aug 2026 00:56:06 GMT"
     }
   ]
 }
