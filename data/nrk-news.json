@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-15T16:51:18.218Z",
+  "updatedAt": "2026-08-15T17:20:49.811Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge tilbyr brannhelikoptre til Belgia",
+      "link": "https://www.nrk.no/nyheter/norge-tilbyr-brannhelikoptre-til-belgia-1.17991164",
+      "category": "Belgia",
+      "pubDate": "Sat, 15 Aug 2026 17:07:36 GMT"
+    },
+    {
+      "title": "Nok et jordskjelv i Indonesia",
+      "link": "https://www.nrk.no/nyheter/nok-et-jordskjelv-i-indonesia-1.17991131",
+      "category": "Indonesia",
+      "pubDate": "Sat, 15 Aug 2026 16:59:33 GMT"
+    },
+    {
+      "title": "Magnus Carlsen forsvarte tittelen i esport-VM",
+      "link": "https://www.nrk.no/sport/magnus-carlsen-forsvarte-tittelen-i-esport-vm-1.17991149",
+      "category": "Sportsnyheter",
+      "pubDate": "Sat, 15 Aug 2026 16:32:56 GMT"
+    },
     {
       "title": "Bonnie Tylers kiste fraktet gjennom gatene i Wales",
       "link": "https://www.nrk.no/nyheter/bonnie-tylers-kiste-fraktet-gjennom-gatene-i-wales-1.17991113",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/mann-med-kniv-pa-flesland-flyplass-1.17991039",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 15 Aug 2026 15:36:11 GMT"
-    },
-    {
-      "title": "Havn i Jemen stengt etter Houthi-angrep",
-      "link": "https://www.nrk.no/nyheter/havn-i-jemen-stengt-etter-houthi-angrep-1.17991088",
-      "category": "Jemen",
-      "pubDate": "Sat, 15 Aug 2026 15:21:59 GMT"
-    },
-    {
-      "title": "Skogbrann i Tyskland under kontroll",
-      "link": "https://www.nrk.no/nyheter/skogbrann-i-tyskland-under-kontroll-1.17991084",
-      "category": "Tyskland",
-      "pubDate": "Sat, 15 Aug 2026 15:02:16 GMT"
-    },
-    {
-      "title": "TV2: Politiet jakter mistenkt i Lindeberg-saken",
-      "link": "https://www.nrk.no/stor-oslo/tv2_-politiet-jakter-mistenkt-i-lindeberg-saken-1.17991066",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 15 Aug 2026 14:54:44 GMT"
     }
   ]
 }
