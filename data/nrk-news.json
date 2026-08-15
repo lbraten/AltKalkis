@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-14T23:48:25.540Z",
+  "updatedAt": "2026-08-15T01:18:32.087Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "14-åring funnet etter leteaksjon i skogsterreng i Engerdal",
+      "link": "https://www.nrk.no/nyheter/14-aring-funnet-etter-leteaksjon-i-skogsterreng-i-engerdal-1.17990756",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 15 Aug 2026 00:57:49 GMT"
+    },
+    {
+      "title": "Tsunami-varsel avlåst etter jordskjelv i Indonesia",
+      "link": "https://www.nrk.no/nyheter/tsunami-varsel-avlast-etter-jordskjelv-i-indonesia-1.17990742",
+      "category": "Indonesia",
+      "pubDate": "Sat, 15 Aug 2026 00:56:06 GMT"
+    },
     {
       "title": "Tsunami-varsel etter kraftig jordskjelv i Indonesia",
       "link": "https://www.nrk.no/nyheter/tsunami-varsel-etter-kraftig-jordskjelv-i-indonesia-1.17990744",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-har-ikke-bestemt-seg-om-usa-samtaler-1.17990718",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 14 Aug 2026 21:31:51 GMT"
-    },
-    {
-      "title": "To emiratiske tankskip angrepet i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/to-emiratiske-tankskip-angrepet-i-hormuzstredet-1.17990625",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 14 Aug 2026 20:24:27 GMT"
-    },
-    {
-      "title": "Brannmann død etter gasseksplosjoner i Brussel",
-      "link": "https://www.nrk.no/nyheter/brannmann-dod-etter-gasseksplosjoner-i-brussel-1.17990653",
-      "category": "Belgia",
-      "pubDate": "Fri, 14 Aug 2026 19:05:24 GMT"
     }
   ]
 }
