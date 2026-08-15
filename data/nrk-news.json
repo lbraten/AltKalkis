@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T05:51:23.636Z",
+  "updatedAt": "2026-08-15T06:39:42.642Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sju døde etter israelsk luftangrep i Libanon",
+      "link": "https://www.nrk.no/nyheter/sju-dode-etter-israelsk-luftangrep-i-libanon-1.17990761",
+      "category": "Libanon og Israel",
+      "pubDate": "Sat, 15 Aug 2026 06:18:58 GMT"
+    },
     {
       "title": "Rekordlang boligkø for studenter – 13.700 venter fremdeles",
       "link": "https://www.nrk.no/nyheter/rekordlang-boligko-for-studenter-_-13.700-venter-fremdeles-1.17990762",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/20-dode-i-kraftig-jordskjelv-i-indonesia-1.17990742",
       "category": "Indonesia",
       "pubDate": "Sat, 15 Aug 2026 00:56:06 GMT"
-    },
-    {
-      "title": "Tsunami-varsel etter kraftig jordskjelv i Indonesia",
-      "link": "https://www.nrk.no/nyheter/tsunami-varsel-etter-kraftig-jordskjelv-i-indonesia-1.17990744",
-      "category": "Indonesia",
-      "pubDate": "Fri, 14 Aug 2026 23:18:46 GMT"
     }
   ]
 }
