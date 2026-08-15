@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-15T18:31:26.826Z",
+  "updatedAt": "2026-08-15T19:22:00.967Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Liechtenstein: Innfører likestilling i arverekkefølgen",
+      "link": "https://www.nrk.no/nyheter/liechtenstein_-innforer-likestilling-i-arverekkefolgen-1.17991217",
+      "category": "Liechtenstein",
+      "pubDate": "Sat, 15 Aug 2026 19:14:08 GMT"
+    },
+    {
+      "title": "Qatar avviser at de har iranske piloter i varetekt",
+      "link": "https://www.nrk.no/nyheter/qatar-avviser-at-de-har-iranske-piloter-i-varetekt-1.17991182",
+      "category": "Krig og konflikt i Midtøsten",
+      "pubDate": "Sat, 15 Aug 2026 19:07:03 GMT"
+    },
     {
       "title": "Utenlandske statsborgere anholdt for droneflyging",
       "link": "https://www.nrk.no/stor-oslo/utenlandske-statsborgere-anholdt-for-droneflyging-1.17991183",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nok-et-jordskjelv-i-indonesia-1.17991131",
       "category": "Indonesia",
       "pubDate": "Sat, 15 Aug 2026 16:59:33 GMT"
-    },
-    {
-      "title": "Magnus Carlsen forsvarte tittelen i esport-VM",
-      "link": "https://www.nrk.no/sport/magnus-carlsen-forsvarte-tittelen-i-esport-vm-1.17991149",
-      "category": "Sportsnyheter",
-      "pubDate": "Sat, 15 Aug 2026 16:32:56 GMT"
-    },
-    {
-      "title": "Bonnie Tylers kiste fraktet gjennom gatene i Wales",
-      "link": "https://www.nrk.no/nyheter/bonnie-tylers-kiste-fraktet-gjennom-gatene-i-wales-1.17991113",
-      "category": "Musikk",
-      "pubDate": "Sat, 15 Aug 2026 15:55:07 GMT"
     }
   ]
 }
