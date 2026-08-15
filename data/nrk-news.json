@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-15T17:46:02.684Z",
+  "updatedAt": "2026-08-15T18:31:26.826Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Utenlandske statsborgere anholdt for droneflyging",
+      "link": "https://www.nrk.no/stor-oslo/utenlandske-statsborgere-anholdt-for-droneflyging-1.17991183",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 15 Aug 2026 18:11:58 GMT"
+    },
+    {
+      "title": "Brakt til sykehus etter mulig arbeidsulykke",
+      "link": "https://www.nrk.no/tromsogfinnmark/brakt-til-sykehus-etter-mulig-arbeidsulykke-1.17991187",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 15 Aug 2026 17:46:47 GMT"
+    },
     {
       "title": "Norge tilbyr brannhelikoptre til Belgia",
       "link": "https://www.nrk.no/nyheter/norge-tilbyr-brannhelikoptre-til-belgia-1.17991164",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bonnie-tylers-kiste-fraktet-gjennom-gatene-i-wales-1.17991113",
       "category": "Musikk",
       "pubDate": "Sat, 15 Aug 2026 15:55:07 GMT"
-    },
-    {
-      "title": "68 døde i fergeforlis i Zimbabwe",
-      "link": "https://www.nrk.no/nyheter/68-dode-i-fergeforlis-i-zimbabwe-1.17991100",
-      "category": "Zimbabwe",
-      "pubDate": "Sat, 15 Aug 2026 15:47:11 GMT"
-    },
-    {
-      "title": "Mann med kniv på Flesland flyplass",
-      "link": "https://www.nrk.no/vestland/mann-med-kniv-pa-flesland-flyplass-1.17991039",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 15 Aug 2026 15:36:11 GMT"
     }
   ]
 }
