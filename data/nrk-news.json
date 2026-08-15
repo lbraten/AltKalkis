@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T20:48:35.953Z",
+  "updatedAt": "2026-08-15T21:21:51.796Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To omkom i flom og ras i Spania",
+      "link": "https://www.nrk.no/nyheter/to-omkom-i-flom-og-ras-i-spania-1.17991263",
+      "category": "Spania",
+      "pubDate": "Sat, 15 Aug 2026 20:51:35 GMT"
+    },
     {
       "title": "Melding om ran av person på Bryne",
       "link": "https://www.nrk.no/nyheter/melding-om-ran-av-person-pa-bryne-1.17991250",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/utenlandske-statsborgere-anholdt-for-droneflyging-1.17991183",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 15 Aug 2026 18:11:58 GMT"
-    },
-    {
-      "title": "Brakt til sykehus etter mulig arbeidsulykke",
-      "link": "https://www.nrk.no/tromsogfinnmark/brakt-til-sykehus-etter-mulig-arbeidsulykke-1.17991187",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 15 Aug 2026 17:46:47 GMT"
     }
   ]
 }
