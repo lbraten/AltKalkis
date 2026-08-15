@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T14:23:44.296Z",
+  "updatedAt": "2026-08-15T14:48:58.844Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "VG: Voldsdømt mann pågrepet i Lindeberg-saken",
+      "link": "https://www.nrk.no/stor-oslo/vg_-voldsdomt-mann-pagrepet-i-lindeberg-saken-1.17991023",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 15 Aug 2026 14:25:12 GMT"
+    },
     {
       "title": "Alvorlig sykkelulykke i Østfold",
       "link": "https://www.nrk.no/nyheter/alvorlig-sykkelulykke-i-ostfold-1.17991008",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flyplass-gjenapnet-pa-sicilia-1.17990979",
       "category": "Vulkanen «Etna»",
       "pubDate": "Sat, 15 Aug 2026 12:38:49 GMT"
-    },
-    {
-      "title": "Fox News: Flere skutt på universitetet i Virginia",
-      "link": "https://www.nrk.no/nyheter/fox-news_-flere-skutt-pa-universitetet-i-virginia-1.17990945",
-      "category": "Skoleskytinger i USA",
-      "pubDate": "Sat, 15 Aug 2026 11:47:02 GMT"
     }
   ]
 }
