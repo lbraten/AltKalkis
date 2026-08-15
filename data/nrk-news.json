@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T19:45:16.916Z",
+  "updatedAt": "2026-08-15T20:23:08.411Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Stanset bil på Møhlenpris i Bergen: Undersøker mulig trusselsituasjon",
+      "link": "https://www.nrk.no/vestland/stanset-bil-pa-mohlenpris-i-bergen_-undersoker-mulig-trusselsituasjon-1.17991256",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 15 Aug 2026 20:20:14 GMT"
+    },
     {
       "title": "Liechtenstein: Innfører likestilling i arverekkefølgen",
       "link": "https://www.nrk.no/nyheter/liechtenstein_-innforer-likestilling-i-arverekkefolgen-1.17991217",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/norge-tilbyr-brannhelikoptre-til-belgia-1.17991164",
       "category": "Belgia",
       "pubDate": "Sat, 15 Aug 2026 17:07:36 GMT"
-    },
-    {
-      "title": "Nok et jordskjelv i Indonesia",
-      "link": "https://www.nrk.no/nyheter/nok-et-jordskjelv-i-indonesia-1.17991131",
-      "category": "Indonesia",
-      "pubDate": "Sat, 15 Aug 2026 16:59:33 GMT"
     }
   ]
 }
