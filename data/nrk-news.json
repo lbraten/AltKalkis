@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-15T11:44:56.578Z",
+  "updatedAt": "2026-08-15T12:39:22.068Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flyplass gjenåpnet på Sicilia",
+      "link": "https://www.nrk.no/nyheter/flyplass-gjenapnet-pa-sicilia-1.17990979",
+      "category": "Vulkanen «Etna»",
+      "pubDate": "Sat, 15 Aug 2026 12:38:49 GMT"
+    },
+    {
+      "title": "Fox News: Flere skutt på universitetet i Virginia",
+      "link": "https://www.nrk.no/nyheter/fox-news_-flere-skutt-pa-universitetet-i-virginia-1.17990945",
+      "category": "Skoleskytinger i USA",
+      "pubDate": "Sat, 15 Aug 2026 11:47:02 GMT"
+    },
     {
       "title": "Nytt kraftig jordskjelv i Indonesia",
       "link": "https://www.nrk.no/nyheter/nytt-kraftig-jordskjelv-i-indonesia-1.17990899",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj_-ukrainske-droner-har-truffet-russisk-flybase-1.17990791",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 15 Aug 2026 08:56:14 GMT"
-    },
-    {
-      "title": "Sju døde etter israelsk luftangrep i Libanon",
-      "link": "https://www.nrk.no/nyheter/sju-dode-etter-israelsk-luftangrep-i-libanon-1.17990761",
-      "category": "Libanon og Israel",
-      "pubDate": "Sat, 15 Aug 2026 06:18:58 GMT"
-    },
-    {
-      "title": "Rekordlang boligkø for studenter – 13.700 venter fremdeles",
-      "link": "https://www.nrk.no/nyheter/rekordlang-boligko-for-studenter-_-13.700-venter-fremdeles-1.17990762",
-      "category": "Studentboliger",
-      "pubDate": "Sat, 15 Aug 2026 05:00:20 GMT"
     }
   ]
 }
