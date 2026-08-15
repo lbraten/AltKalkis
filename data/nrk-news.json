@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-08-15T20:23:08.411Z",
+  "updatedAt": "2026-08-15T20:48:35.953Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Melding om ran av person på Bryne",
+      "link": "https://www.nrk.no/nyheter/melding-om-ran-av-person-pa-bryne-1.17991250",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 15 Aug 2026 20:28:51 GMT"
+    },
+    {
       "title": "Stanset bil på Møhlenpris i Bergen: Undersøker mulig trusselsituasjon",
       "link": "https://www.nrk.no/vestland/stanset-bil-pa-mohlenpris-i-bergen_-undersoker-mulig-trusselsituasjon-1.17991256",
-      "category": "NRK Nyheter",
+      "category": "Krim og hendingar i Vestland",
       "pubDate": "Sat, 15 Aug 2026 20:20:14 GMT"
     },
     {
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/brakt-til-sykehus-etter-mulig-arbeidsulykke-1.17991187",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sat, 15 Aug 2026 17:46:47 GMT"
-    },
-    {
-      "title": "Norge tilbyr brannhelikoptre til Belgia",
-      "link": "https://www.nrk.no/nyheter/norge-tilbyr-brannhelikoptre-til-belgia-1.17991164",
-      "category": "Belgia",
-      "pubDate": "Sat, 15 Aug 2026 17:07:36 GMT"
     }
   ]
 }
