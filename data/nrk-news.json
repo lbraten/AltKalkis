@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T15:21:24.138Z",
+  "updatedAt": "2026-08-15T15:46:11.880Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Havn i Jemen stengt etter Houthi-angrep",
+      "link": "https://www.nrk.no/nyheter/havn-i-jemen-stengt-etter-houthi-angrep-1.17991088",
+      "category": "Jemen",
+      "pubDate": "Sat, 15 Aug 2026 15:21:59 GMT"
+    },
     {
       "title": "Skogbrann i Tyskland under kontroll",
       "link": "https://www.nrk.no/nyheter/skogbrann-i-tyskland-under-kontroll-1.17991084",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/alvorlig-sykkelulykke-i-halden-1.17991008",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 15 Aug 2026 13:40:41 GMT"
-    },
-    {
-      "title": "Belgia: Skogbrann sprer seg raskt",
-      "link": "https://www.nrk.no/nyheter/belgia_-skogbrann-sprer-seg-raskt-1.17991001",
-      "category": "Belgia",
-      "pubDate": "Sat, 15 Aug 2026 12:53:34 GMT"
     }
   ]
 }
