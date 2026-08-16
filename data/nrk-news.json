@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-16T02:42:51.864Z",
+  "updatedAt": "2026-08-16T03:49:14.388Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Drone skutt ned over Romania",
+      "link": "https://www.nrk.no/nyheter/drone-skutt-ned-over-romania-1.17991278",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 16 Aug 2026 03:08:46 GMT"
+    },
+    {
+      "title": "Person fraktet til akuttmottaket etter at dyna begynte å brenne",
+      "link": "https://www.nrk.no/nyheter/person-fraktet-til-akuttmottaket-etter-at-dyna-begynte-a-brenne-1.17991284",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sun, 16 Aug 2026 02:55:12 GMT"
+    },
     {
       "title": "Boligbrann i Stavanger – nabohus evakueres",
       "link": "https://www.nrk.no/nyheter/boligbrann-i-stavanger-_-nabohus-evakueres-1.17991282",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/reddet-ut-av-brennende-hus-1.17991279",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 16 Aug 2026 01:39:48 GMT"
-    },
-    {
-      "title": "Melding om angrep mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/melding-om-angrep-mot-kyiv-1.17991276",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 16 Aug 2026 00:24:22 GMT"
-    },
-    {
-      "title": "Nesten 300 stanset på vei til Spania",
-      "link": "https://www.nrk.no/nyheter/nesten-300-stanset-pa-vei-til-spania-1.17991273",
-      "category": "Spania",
-      "pubDate": "Sat, 15 Aug 2026 22:45:05 GMT"
     }
   ]
 }
