@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-16T03:49:14.388Z",
+  "updatedAt": "2026-08-16T04:36:52.262Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dødstallene stiger etter kraftig jordskjelv i Indonesia",
+      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-kraftig-jordskjelv-i-indonesia-1.17991290",
+      "category": "Jordskjelv i Asia",
+      "pubDate": "Sun, 16 Aug 2026 04:35:49 GMT"
+    },
+    {
+      "title": "Tre såret etter stort droneangrep mot Moskva, ifølge ordfører",
+      "link": "https://www.nrk.no/nyheter/tre-saret-etter-stort-droneangrep-mot-moskva_-ifolge-ordforer-1.17991289",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 16 Aug 2026 04:16:54 GMT"
+    },
+    {
+      "title": "En drept og sju såret i angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/en-drept-og-sju-saret-i-angrep-mot-ukraina-1.17991287",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 16 Aug 2026 03:49:13 GMT"
+    },
     {
       "title": "Drone skutt ned over Romania",
       "link": "https://www.nrk.no/nyheter/drone-skutt-ned-over-romania-1.17991278",
@@ -15,28 +33,10 @@
       "pubDate": "Sun, 16 Aug 2026 02:55:12 GMT"
     },
     {
-      "title": "Boligbrann i Stavanger – nabohus evakueres",
-      "link": "https://www.nrk.no/nyheter/boligbrann-i-stavanger-_-nabohus-evakueres-1.17991282",
-      "category": "NRK Nyheter",
+      "title": "Boligbrann i Stavanger – nabohus ble evakuert",
+      "link": "https://www.nrk.no/nyheter/boligbrann-i-stavanger-_-nabohus-ble-evakuert-1.17991282",
+      "category": "Nyheter fra Rogaland",
       "pubDate": "Sun, 16 Aug 2026 02:37:35 GMT"
-    },
-    {
-      "title": "Branner etter rakettangrep mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/branner-etter-rakettangrep-mot-kyiv-1.17991281",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 16 Aug 2026 01:49:09 GMT"
-    },
-    {
-      "title": "Båt sank ved Hitra – mistanke om fyllekjøring",
-      "link": "https://www.nrk.no/nyheter/bat-sank-ved-hitra-_-mistanke-om-fyllekjoring-1.17991280",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 16 Aug 2026 01:42:32 GMT"
-    },
-    {
-      "title": "Reddet ut av brennende hus",
-      "link": "https://www.nrk.no/nyheter/reddet-ut-av-brennende-hus-1.17991279",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 16 Aug 2026 01:39:48 GMT"
     }
   ]
 }
