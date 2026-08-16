@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-16T17:45:43.831Z",
+  "updatedAt": "2026-08-16T18:30:29.077Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "E39 Jernfjelltunnelen åpnet igjen",
+      "link": "https://www.nrk.no/nyheter/e39-jernfjelltunnelen-apnet-igjen-1.17991734",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 16 Aug 2026 18:04:38 GMT"
+    },
+    {
+      "title": "Veltet med elsparkesykkel i Verdal – funnet bevisstløs",
+      "link": "https://www.nrk.no/trondelag/veltet-med-elsparkesykkel-i-verdal-_-funnet-bevisstlos-1.17991714",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 16 Aug 2026 18:00:17 GMT"
+    },
+    {
+      "title": "Ronaldo: – Trolig mitt siste år i karrieren",
+      "link": "https://www.nrk.no/sport/ronaldo_-_-trolig-mitt-siste-ar-i-karrieren-1.17991736",
+      "category": "Sportsnyheter",
+      "pubDate": "Sun, 16 Aug 2026 17:39:25 GMT"
+    },
     {
       "title": "TV 2: Rollebytter i Arbeiderpartiet",
       "link": "https://www.nrk.no/nyheter/tv-2_-rollebytter-i-arbeiderpartiet-1.17991686",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/rykket-ut-til-trusselsituasjon-i-oslo-1.17991543",
       "category": "Oslo politidistrikt",
       "pubDate": "Sun, 16 Aug 2026 16:44:12 GMT"
-    },
-    {
-      "title": "Nesten 130.000 uten strøm på Hawaii",
-      "link": "https://www.nrk.no/nyheter/nesten-130.000-uten-strom-pa-hawaii-1.17991666",
-      "category": "Hawaii",
-      "pubDate": "Sun, 16 Aug 2026 16:33:54 GMT"
-    },
-    {
-      "title": "Felles fordømmelse av Israels avvisning av Trumps Gaza-plan.",
-      "link": "https://www.nrk.no/nyheter/felles-fordommelse-av-israels-avvisning-av-trumps-gaza-plan.-1.17991660",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 16 Aug 2026 16:11:52 GMT"
-    },
-    {
-      "title": "Luftambulansen kalt ut: Person skal ha falt i Lyngdal",
-      "link": "https://www.nrk.no/sorlandet/luftambulansen-kalt-ut_-person-skal-ha-falt-i-lyngdal-1.17991644",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 16 Aug 2026 16:05:41 GMT"
     }
   ]
 }
