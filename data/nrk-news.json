@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-16T13:32:09.627Z",
+  "updatedAt": "2026-08-16T14:23:51.499Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ulykke med småfly i Gol – ingen skadd",
+      "link": "https://www.nrk.no/nyheter/ulykke-med-smafly-i-gol-_-ingen-skadd-1.17991567",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sun, 16 Aug 2026 13:53:57 GMT"
+    },
+    {
+      "title": "Hellas: To døde i brann på Salamis",
+      "link": "https://www.nrk.no/nyheter/hellas_-to-dode-i-brann-pa-salamis-1.17991541",
+      "category": "Hellas",
+      "pubDate": "Sun, 16 Aug 2026 13:45:23 GMT"
+    },
+    {
+      "title": "Jernfjelltunnelen stengt: Bil truffet av stein på størrelse med vaskemaskin",
+      "link": "https://www.nrk.no/vestland/jernfjelltunnelen-stengt_-bil-truffet-av-stein-pa-storrelse-med-vaskemaskin-1.17991545",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 16 Aug 2026 13:37:30 GMT"
+    },
     {
       "title": "Antall bekreftet døde i båtulykken i Zimbabwe stiger",
       "link": "https://www.nrk.no/nyheter/antall-bekreftet-dode-i-batulykken-i-zimbabwe-stiger-1.17991521",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/tregere-salg-av-sjohytter_-to-av-tre-solgt-under-prisantydning-1.17991524",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 16 Aug 2026 12:08:24 GMT"
-    },
-    {
-      "title": "21 biler ødelagt i Agder",
-      "link": "https://www.nrk.no/sorlandet/21-biler-odelagt-i-agder-1.17991447",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 16 Aug 2026 09:27:19 GMT"
-    },
-    {
-      "title": "Sit utsatt for dataangrep",
-      "link": "https://www.nrk.no/trondelag/sit-utsatt-for-dataangrep-1.17991399",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 16 Aug 2026 09:07:55 GMT"
-    },
-    {
-      "title": "Skogbrann i Belgia doblet på ett døgn",
-      "link": "https://www.nrk.no/nyheter/skogbrann-i-belgia-doblet-pa-ett-dogn-1.17991381",
-      "category": "Skogbranner i Sør-Europa",
-      "pubDate": "Sun, 16 Aug 2026 08:32:01 GMT"
     }
   ]
 }
