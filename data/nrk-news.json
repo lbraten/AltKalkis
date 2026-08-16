@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-16T08:30:41.277Z",
+  "updatedAt": "2026-08-16T09:27:48.048Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sit utsatt for dataangrep",
+      "link": "https://www.nrk.no/trondelag/sit-utsatt-for-dataangrep-1.17991399",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 16 Aug 2026 09:07:55 GMT"
+    },
+    {
+      "title": "Skogbrann i Belgia doblet på ett døgn",
+      "link": "https://www.nrk.no/nyheter/skogbrann-i-belgia-doblet-pa-ett-dogn-1.17991381",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 16 Aug 2026 08:32:01 GMT"
+    },
     {
       "title": "Mistenkt fremdeles ikke pågrepet etter frihetsberøvelse",
       "link": "https://www.nrk.no/stor-oslo/mistenkt-fremdeles-ikke-pagrepet-etter-frihetsberovelse-1.17991382",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-jordskjelvet-i-indonesia-1.17991290",
       "category": "Jordskjelv i Asia",
       "pubDate": "Sun, 16 Aug 2026 04:35:49 GMT"
-    },
-    {
-      "title": "Tre såret etter stort droneangrep mot Moskva, ifølge ordfører",
-      "link": "https://www.nrk.no/nyheter/tre-saret-etter-stort-droneangrep-mot-moskva_-ifolge-ordforer-1.17991289",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 16 Aug 2026 04:16:54 GMT"
-    },
-    {
-      "title": "Tre drept og 14 såret i angrep mot Ukraina",
-      "link": "https://www.nrk.no/nyheter/tre-drept-og-14-saret-i-angrep-mot-ukraina-1.17991287",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 16 Aug 2026 03:49:13 GMT"
     }
   ]
 }
