@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-16T10:49:05.582Z",
+  "updatedAt": "2026-08-16T11:21:07.021Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "21 biler ødelagt i Agder",
+      "link": "https://www.nrk.no/sorlandet/21-biler-odelagt-i-agder-1.17991447",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 16 Aug 2026 09:27:19 GMT"
+    },
     {
       "title": "Sit utsatt for dataangrep",
       "link": "https://www.nrk.no/trondelag/sit-utsatt-for-dataangrep-1.17991399",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tolv-dode-i-bussulykke-i-ungarn-1.17991291",
       "category": "Ungarn",
       "pubDate": "Sun, 16 Aug 2026 05:56:01 GMT"
-    },
-    {
-      "title": "Dødstallene stiger etter jordskjelvet i Indonesia",
-      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-jordskjelvet-i-indonesia-1.17991290",
-      "category": "Jordskjelv i Asia",
-      "pubDate": "Sun, 16 Aug 2026 04:35:49 GMT"
     }
   ]
 }
