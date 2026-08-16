@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-16T19:21:15.430Z",
+  "updatedAt": "2026-08-16T19:44:35.238Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran tilbyr skuddpremie på amerikanske soldater",
+      "link": "https://www.nrk.no/nyheter/iran-tilbyr-skuddpremie-pa-amerikanske-soldater-1.17991802",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 16 Aug 2026 19:37:52 GMT"
+    },
+    {
+      "title": "Hamas ber om at Israels tvinges til å godta fredsplan",
+      "link": "https://www.nrk.no/nyheter/hamas-ber-om-at-israels-tvinges-til-a-godta-fredsplan-1.17991807",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 16 Aug 2026 19:25:11 GMT"
+    },
     {
       "title": "AP: Trump-utsending Kushner møtte Hamas-leder i Egypt",
       "link": "https://www.nrk.no/nyheter/ap_-trump-utsending-kushner-motte-hamas-leder-i-egypt-1.17991777",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sport/ronaldo_-_-trolig-mitt-siste-ar-i-karrieren-1.17991736",
       "category": "Sportsnyheter",
       "pubDate": "Sun, 16 Aug 2026 17:39:25 GMT"
-    },
-    {
-      "title": "TV 2: Rollebytter i Arbeiderpartiet",
-      "link": "https://www.nrk.no/nyheter/tv-2_-rollebytter-i-arbeiderpartiet-1.17991686",
-      "category": "Arbeiderpartiet",
-      "pubDate": "Sun, 16 Aug 2026 17:37:59 GMT"
-    },
-    {
-      "title": "Norsk triumf i Arctic Race-finalen: – Skjønte ingenting",
-      "link": "https://www.nrk.no/sport/norsk-triumf-i-arctic-race-finalen_-_-skjonte-ingenting-1.17991680",
-      "category": "Sportsnyheter",
-      "pubDate": "Sun, 16 Aug 2026 17:06:43 GMT"
     }
   ]
 }
