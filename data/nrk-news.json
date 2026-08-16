@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-16T22:21:47.914Z",
+  "updatedAt": "2026-08-16T22:46:52.094Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "2325 mennesker er døde etter å ha blitt smittet med ebola i Kongo",
+      "link": "https://www.nrk.no/nyheter/2325-mennesker-er-dode-etter-a-ha-blitt-smittet-med-ebola-i-kongo-1.17991837",
+      "category": "DR Kongo",
+      "pubDate": "Sun, 16 Aug 2026 22:37:19 GMT"
+    },
     {
       "title": "Trump kutter militærøvelser med Sør-Korea",
       "link": "https://www.nrk.no/nyheter/trump-kutter-militaerovelser-med-sor-korea-1.17991832",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hamas-ber-om-at-israels-tvinges-til-a-godta-fredsplan-1.17991807",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 16 Aug 2026 19:25:11 GMT"
-    },
-    {
-      "title": "AP: Trump-utsending Kushner møtte Hamas-leder i Egypt",
-      "link": "https://www.nrk.no/nyheter/ap_-trump-utsending-kushner-motte-hamas-leder-i-egypt-1.17991777",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 16 Aug 2026 18:39:58 GMT"
     }
   ]
 }
