@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-16T17:20:02.058Z",
+  "updatedAt": "2026-08-16T17:45:43.831Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "TV 2: Rollebytter i Arbeiderpartiet",
+      "link": "https://www.nrk.no/nyheter/tv-2_-rollebytter-i-arbeiderpartiet-1.17991686",
+      "category": "Arbeiderpartiet",
+      "pubDate": "Sun, 16 Aug 2026 17:37:59 GMT"
+    },
+    {
+      "title": "Norsk triumf i Arctic Race-finalen: – Skjønte ingenting",
+      "link": "https://www.nrk.no/sport/norsk-triumf-i-arctic-race-finalen_-_-skjonte-ingenting-1.17991680",
+      "category": "Sportsnyheter",
+      "pubDate": "Sun, 16 Aug 2026 17:06:43 GMT"
+    },
     {
       "title": "Rykket ut til trusselsituasjon i Oslo",
       "link": "https://www.nrk.no/stor-oslo/rykket-ut-til-trusselsituasjon-i-oslo-1.17991543",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/luftambulansen-kalt-ut_-person-skal-ha-falt-i-lyngdal-1.17991644",
       "category": "Nyheter fra Agder",
       "pubDate": "Sun, 16 Aug 2026 16:05:41 GMT"
-    },
-    {
-      "title": "16 personer er drept i Russland og Ukraina søndag",
-      "link": "https://www.nrk.no/nyheter/16-personer-er-drept-i-russland-og-ukraina-sondag-1.17991651",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 16 Aug 2026 16:01:32 GMT"
-    },
-    {
-      "title": "Tusenvis venter på hjelp etter jordskjelv i Indonesia",
-      "link": "https://www.nrk.no/nyheter/tusenvis-venter-pa-hjelp-etter-jordskjelv-i-indonesia-1.17991643",
-      "category": "Indonesia",
-      "pubDate": "Sun, 16 Aug 2026 15:49:54 GMT"
     }
   ]
 }
