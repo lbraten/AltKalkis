@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-16T22:46:52.094Z",
+  "updatedAt": "2026-08-16T23:20:36.495Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flertall av amerikanske velgere: Har fått dårligere råd under Trump",
+      "link": "https://www.nrk.no/nyheter/flertall-av-amerikanske-velgere_-har-fatt-darligere-rad-under-trump-1.17991846",
+      "category": "USAs økonomi",
+      "pubDate": "Sun, 16 Aug 2026 23:01:09 GMT"
+    },
     {
       "title": "2325 mennesker er døde etter å ha blitt smittet med ebola i Kongo",
       "link": "https://www.nrk.no/nyheter/2325-mennesker-er-dode-etter-a-ha-blitt-smittet-med-ebola-i-kongo-1.17991837",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/trondelag/brann-pa-campingplass-i-orkland-_-spredningsfare-1.17991751",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 16 Aug 2026 19:27:16 GMT"
-    },
-    {
-      "title": "Hamas ber om at Israels tvinges til å godta fredsplan",
-      "link": "https://www.nrk.no/nyheter/hamas-ber-om-at-israels-tvinges-til-a-godta-fredsplan-1.17991807",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 16 Aug 2026 19:25:11 GMT"
     }
   ]
 }
