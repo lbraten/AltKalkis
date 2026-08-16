@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-16T01:23:20.493Z",
+  "updatedAt": "2026-08-16T02:42:51.864Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Boligbrann i Stavanger – nabohus evakueres",
+      "link": "https://www.nrk.no/nyheter/boligbrann-i-stavanger-_-nabohus-evakueres-1.17991282",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 16 Aug 2026 02:37:35 GMT"
+    },
+    {
+      "title": "Branner etter rakettangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/branner-etter-rakettangrep-mot-kyiv-1.17991281",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 16 Aug 2026 01:49:09 GMT"
+    },
+    {
+      "title": "Båt sank ved Hitra – mistanke om fyllekjøring",
+      "link": "https://www.nrk.no/nyheter/bat-sank-ved-hitra-_-mistanke-om-fyllekjoring-1.17991280",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 16 Aug 2026 01:42:32 GMT"
+    },
+    {
+      "title": "Reddet ut av brennende hus",
+      "link": "https://www.nrk.no/nyheter/reddet-ut-av-brennende-hus-1.17991279",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 16 Aug 2026 01:39:48 GMT"
+    },
     {
       "title": "Melding om angrep mot Kyiv",
       "link": "https://www.nrk.no/nyheter/melding-om-angrep-mot-kyiv-1.17991276",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nesten-300-stanset-pa-vei-til-spania-1.17991273",
       "category": "Spania",
       "pubDate": "Sat, 15 Aug 2026 22:45:05 GMT"
-    },
-    {
-      "title": "Mann med kniv pågrepet i Fredrikstad",
-      "link": "https://www.nrk.no/nyheter/mann-med-kniv-pagrepet-i-fredrikstad-1.17991264",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 15 Aug 2026 21:45:19 GMT"
-    },
-    {
-      "title": "To omkom i flom og ras i Spania",
-      "link": "https://www.nrk.no/nyheter/to-omkom-i-flom-og-ras-i-spania-1.17991263",
-      "category": "Spania",
-      "pubDate": "Sat, 15 Aug 2026 20:51:35 GMT"
-    },
-    {
-      "title": "Melding om ran av person på Bryne",
-      "link": "https://www.nrk.no/nyheter/melding-om-ran-av-person-pa-bryne-1.17991250",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 15 Aug 2026 20:28:51 GMT"
-    },
-    {
-      "title": "Stanset bil på Møhlenpris i Bergen: Undersøker mulig trusselsituasjon",
-      "link": "https://www.nrk.no/vestland/stanset-bil-pa-mohlenpris-i-bergen_-undersoker-mulig-trusselsituasjon-1.17991256",
-      "category": "Krim og hendingar i Vestland",
-      "pubDate": "Sat, 15 Aug 2026 20:20:14 GMT"
     }
   ]
 }
