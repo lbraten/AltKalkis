@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-16T21:20:38.914Z",
+  "updatedAt": "2026-08-16T21:45:22.052Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump kutter militærøvelser med Sør-Korea",
+      "link": "https://www.nrk.no/nyheter/trump-kutter-militaerovelser-med-sor-korea-1.17991832",
+      "category": "Forholdet mellom Sør- og Nord-Korea",
+      "pubDate": "Sun, 16 Aug 2026 21:20:38 GMT"
+    },
     {
       "title": "Fem tenåringer døde etter kollisjon i Irland",
       "link": "https://www.nrk.no/nyheter/fem-tenaringer-dode-etter-kollisjon-i-irland-1.17991831",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ap_-trump-utsending-kushner-motte-hamas-leder-i-egypt-1.17991777",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 16 Aug 2026 18:39:58 GMT"
-    },
-    {
-      "title": "E39 Jernfjelltunnelen åpnet igjen",
-      "link": "https://www.nrk.no/nyheter/e39-jernfjelltunnelen-apnet-igjen-1.17991734",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 16 Aug 2026 18:04:38 GMT"
     }
   ]
 }
