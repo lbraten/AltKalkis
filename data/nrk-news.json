@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-16T15:22:49.368Z",
+  "updatedAt": "2026-08-16T15:47:12.344Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trondheim lufthavn ble evakuert – person utløste alarmen",
+      "link": "https://www.nrk.no/trondelag/trondheim-lufthavn-ble-evakuert-_-person-utloste-alarmen-1.17991629",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 16 Aug 2026 15:28:38 GMT"
+    },
     {
       "title": "Trumps utsendinger i Kairo for å fremme fredsplan for Gaza",
       "link": "https://www.nrk.no/nyheter/trumps-utsendinger-i-kairo-for-a-fremme-fredsplan-for-gaza-1.17991610",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hellas_-to-dode-i-brann-pa-salamis-1.17991541",
       "category": "Hellas",
       "pubDate": "Sun, 16 Aug 2026 13:45:23 GMT"
-    },
-    {
-      "title": "Jernfjelltunnelen stengt: Bil truffet av stein på størrelse med vaskemaskin",
-      "link": "https://www.nrk.no/vestland/jernfjelltunnelen-stengt_-bil-truffet-av-stein-pa-storrelse-med-vaskemaskin-1.17991545",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 16 Aug 2026 13:37:30 GMT"
     }
   ]
 }
