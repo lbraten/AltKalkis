@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-16T16:26:33.197Z",
+  "updatedAt": "2026-08-16T16:52:29.891Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rykket ut til trusselsituasjon i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/rykket-ut-til-trusselsituasjon-i-oslo-1.17991543",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 16 Aug 2026 16:44:12 GMT"
+    },
+    {
+      "title": "Nesten 130.000 uten strøm på Hawaii",
+      "link": "https://www.nrk.no/nyheter/nesten-130.000-uten-strom-pa-hawaii-1.17991666",
+      "category": "Hawaii",
+      "pubDate": "Sun, 16 Aug 2026 16:33:54 GMT"
+    },
     {
       "title": "Felles fordømmelse av Israels avvisning av Trumps Gaza-plan.",
       "link": "https://www.nrk.no/nyheter/felles-fordommelse-av-israels-avvisning-av-trumps-gaza-plan.-1.17991660",
@@ -15,8 +27,8 @@
       "pubDate": "Sun, 16 Aug 2026 16:05:41 GMT"
     },
     {
-      "title": "16 personer i Russland og Ukraina søndag",
-      "link": "https://www.nrk.no/nyheter/16-personer-i-russland-og-ukraina-sondag-1.17991651",
+      "title": "16 personer er drept i Russland og Ukraina søndag",
+      "link": "https://www.nrk.no/nyheter/16-personer-er-drept-i-russland-og-ukraina-sondag-1.17991651",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 16 Aug 2026 16:01:32 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tusenvis-venter-pa-hjelp-etter-jordskjelv-i-indonesia-1.17991643",
       "category": "Indonesia",
       "pubDate": "Sun, 16 Aug 2026 15:49:54 GMT"
-    },
-    {
-      "title": "Rykker ut til front mot front",
-      "link": "https://www.nrk.no/ostfold/rykker-ut-til-front-mot-front-1.17991550",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sun, 16 Aug 2026 15:40:39 GMT"
-    },
-    {
-      "title": "Mann utløste brannalarmen på Trondheim lufthavn for å rekke fly",
-      "link": "https://www.nrk.no/trondelag/mann-utloste-brannalarmen-pa-trondheim-lufthavn-for-a-rekke-fly-1.17991629",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 16 Aug 2026 15:28:38 GMT"
     }
   ]
 }
