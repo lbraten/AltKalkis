@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-16T05:56:25.565Z",
+  "updatedAt": "2026-08-16T06:47:59.718Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tolv døde i bussulykke i Ungarn",
+      "link": "https://www.nrk.no/nyheter/tolv-dode-i-bussulykke-i-ungarn-1.17991291",
+      "category": "Ungarn",
+      "pubDate": "Sun, 16 Aug 2026 05:56:01 GMT"
+    },
     {
       "title": "Dødstallene stiger etter jordskjelvet i Indonesia",
       "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-jordskjelvet-i-indonesia-1.17991290",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/person-fraktet-til-akuttmottaket-etter-at-dyna-begynte-a-brenne-1.17991284",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sun, 16 Aug 2026 02:55:12 GMT"
-    },
-    {
-      "title": "Boligbrann i Stavanger – nabohus ble evakuert",
-      "link": "https://www.nrk.no/nyheter/boligbrann-i-stavanger-_-nabohus-ble-evakuert-1.17991282",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 16 Aug 2026 02:37:35 GMT"
     }
   ]
 }
