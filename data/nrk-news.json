@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-15T23:44:54.800Z",
+  "updatedAt": "2026-08-16T01:23:20.493Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Melding om angrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/melding-om-angrep-mot-kyiv-1.17991276",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 16 Aug 2026 00:24:22 GMT"
+    },
     {
       "title": "Nesten 300 stanset på vei til Spania",
       "link": "https://www.nrk.no/nyheter/nesten-300-stanset-pa-vei-til-spania-1.17991273",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/stanset-bil-pa-mohlenpris-i-bergen_-undersoker-mulig-trusselsituasjon-1.17991256",
       "category": "Krim og hendingar i Vestland",
       "pubDate": "Sat, 15 Aug 2026 20:20:14 GMT"
-    },
-    {
-      "title": "Liechtenstein: Innfører likestilling i arverekkefølgen",
-      "link": "https://www.nrk.no/nyheter/liechtenstein_-innforer-likestilling-i-arverekkefolgen-1.17991217",
-      "category": "Liechtenstein",
-      "pubDate": "Sat, 15 Aug 2026 19:14:08 GMT"
     }
   ]
 }
