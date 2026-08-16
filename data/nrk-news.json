@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-16T12:40:47.844Z",
+  "updatedAt": "2026-08-16T13:32:09.627Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Redningsaksjon etter sakna kanopadlar i Sunnfjord",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-etter-sakna-kanopadlar-i-sunnfjord-1.17991354",
+      "title": "Antall bekreftet døde i båtulykken i Zimbabwe stiger",
+      "link": "https://www.nrk.no/nyheter/antall-bekreftet-dode-i-batulykken-i-zimbabwe-stiger-1.17991521",
+      "category": "Zimbabwe",
+      "pubDate": "Sun, 16 Aug 2026 12:50:10 GMT"
+    },
+    {
+      "title": "Sakna kanopadlar i Sunnfjord funnen utan skadar",
+      "link": "https://www.nrk.no/vestland/sakna-kanopadlar-i-sunnfjord-funnen-utan-skadar-1.17991354",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 16 Aug 2026 12:35:27 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skogbrann-i-belgia-doblet-pa-ett-dogn-1.17991381",
       "category": "Skogbranner i Sør-Europa",
       "pubDate": "Sun, 16 Aug 2026 08:32:01 GMT"
-    },
-    {
-      "title": "Mistenkt fremdeles ikke pågrepet etter frihetsberøvelse",
-      "link": "https://www.nrk.no/stor-oslo/mistenkt-fremdeles-ikke-pagrepet-etter-frihetsberovelse-1.17991382",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 16 Aug 2026 08:03:34 GMT"
     }
   ]
 }
