@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-16T11:45:54.195Z",
+  "updatedAt": "2026-08-16T12:40:47.844Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Redningsaksjon etter sakna kanopadlar i Sunnfjord",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-etter-sakna-kanopadlar-i-sunnfjord-1.17991354",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 16 Aug 2026 12:35:27 GMT"
+    },
+    {
+      "title": "Tregere salg av sjøhytter: To av tre solgt under prisantydning",
+      "link": "https://www.nrk.no/sorlandet/tregere-salg-av-sjohytter_-to-av-tre-solgt-under-prisantydning-1.17991524",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 16 Aug 2026 12:08:24 GMT"
+    },
     {
       "title": "21 biler ødelagt i Agder",
       "link": "https://www.nrk.no/sorlandet/21-biler-odelagt-i-agder-1.17991447",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/mistenkt-fremdeles-ikke-pagrepet-etter-frihetsberovelse-1.17991382",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 16 Aug 2026 08:03:34 GMT"
-    },
-    {
-      "title": "Ny mulig streik kan gi mel- og brødmangel",
-      "link": "https://www.nrk.no/nyheter/ny-mulig-streik-kan-gi-mel--og-brodmangel-1.17991303",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 16 Aug 2026 07:37:27 GMT"
-    },
-    {
-      "title": "Tolv døde i bussulykke i Ungarn",
-      "link": "https://www.nrk.no/nyheter/tolv-dode-i-bussulykke-i-ungarn-1.17991291",
-      "category": "Ungarn",
-      "pubDate": "Sun, 16 Aug 2026 05:56:01 GMT"
     }
   ]
 }
