@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-16T20:23:38.324Z",
+  "updatedAt": "2026-08-16T20:48:22.649Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fem tenåringer døde etter kollisjon i Irland",
+      "link": "https://www.nrk.no/nyheter/fem-tenaringer-dode-etter-kollisjon-i-irland-1.17991831",
+      "category": "Irland",
+      "pubDate": "Sun, 16 Aug 2026 20:37:48 GMT"
+    },
     {
       "title": "Iran tilbyr skuddpremie på amerikanske soldater",
       "link": "https://www.nrk.no/nyheter/iran-tilbyr-skuddpremie-pa-amerikanske-soldater-1.17991802",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/e39-jernfjelltunnelen-apnet-igjen-1.17991734",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 16 Aug 2026 18:04:38 GMT"
-    },
-    {
-      "title": "Veltet med elsykkel i Verdal – funnet bevisstløs",
-      "link": "https://www.nrk.no/trondelag/veltet-med-elsykkel-i-verdal-_-funnet-bevisstlos-1.17991714",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 16 Aug 2026 18:00:17 GMT"
     }
   ]
 }
