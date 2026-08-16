@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-16T15:47:12.344Z",
+  "updatedAt": "2026-08-16T16:26:33.197Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trondheim lufthavn ble evakuert – person utløste alarmen",
-      "link": "https://www.nrk.no/trondelag/trondheim-lufthavn-ble-evakuert-_-person-utloste-alarmen-1.17991629",
+      "title": "Felles fordømmelse av Israels avvisning av Trumps Gaza-plan.",
+      "link": "https://www.nrk.no/nyheter/felles-fordommelse-av-israels-avvisning-av-trumps-gaza-plan.-1.17991660",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 16 Aug 2026 16:11:52 GMT"
+    },
+    {
+      "title": "Luftambulansen kalt ut: Person skal ha falt i Lyngdal",
+      "link": "https://www.nrk.no/sorlandet/luftambulansen-kalt-ut_-person-skal-ha-falt-i-lyngdal-1.17991644",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 16 Aug 2026 16:05:41 GMT"
+    },
+    {
+      "title": "16 personer i Russland og Ukraina søndag",
+      "link": "https://www.nrk.no/nyheter/16-personer-i-russland-og-ukraina-sondag-1.17991651",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 16 Aug 2026 16:01:32 GMT"
+    },
+    {
+      "title": "Tusenvis venter på hjelp etter jordskjelv i Indonesia",
+      "link": "https://www.nrk.no/nyheter/tusenvis-venter-pa-hjelp-etter-jordskjelv-i-indonesia-1.17991643",
+      "category": "Indonesia",
+      "pubDate": "Sun, 16 Aug 2026 15:49:54 GMT"
+    },
+    {
+      "title": "Rykker ut til front mot front",
+      "link": "https://www.nrk.no/ostfold/rykker-ut-til-front-mot-front-1.17991550",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 16 Aug 2026 15:40:39 GMT"
+    },
+    {
+      "title": "Mann utløste brannalarmen på Trondheim lufthavn for å rekke fly",
+      "link": "https://www.nrk.no/trondelag/mann-utloste-brannalarmen-pa-trondheim-lufthavn-for-a-rekke-fly-1.17991629",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 16 Aug 2026 15:28:38 GMT"
-    },
-    {
-      "title": "Trumps utsendinger i Kairo for å fremme fredsplan for Gaza",
-      "link": "https://www.nrk.no/nyheter/trumps-utsendinger-i-kairo-for-a-fremme-fredsplan-for-gaza-1.17991610",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 16 Aug 2026 14:46:25 GMT"
-    },
-    {
-      "title": "Spania setter inn rekordmange brannfolk mot skogbrann",
-      "link": "https://www.nrk.no/nyheter/spania-setter-inn-rekordmange-brannfolk-mot-skogbrann-1.17991576",
-      "category": "Spania",
-      "pubDate": "Sun, 16 Aug 2026 14:42:22 GMT"
-    },
-    {
-      "title": "Bilbrann i Vuddudalen – E6 helt stengt",
-      "link": "https://www.nrk.no/trondelag/bilbrann-i-vuddudalen-_-e6-helt-stengt-1.17991577",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 16 Aug 2026 14:28:26 GMT"
-    },
-    {
-      "title": "Ulykke med småfly i Gol – ingen skadd",
-      "link": "https://www.nrk.no/nyheter/ulykke-med-smafly-i-gol-_-ingen-skadd-1.17991567",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sun, 16 Aug 2026 13:53:57 GMT"
-    },
-    {
-      "title": "Hellas: To døde i brann på Salamis",
-      "link": "https://www.nrk.no/nyheter/hellas_-to-dode-i-brann-pa-salamis-1.17991541",
-      "category": "Hellas",
-      "pubDate": "Sun, 16 Aug 2026 13:45:23 GMT"
     }
   ]
 }
