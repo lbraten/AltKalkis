@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T19:44:35.238Z",
+  "updatedAt": "2026-08-16T20:23:38.324Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
@@ -7,6 +7,12 @@
       "link": "https://www.nrk.no/nyheter/iran-tilbyr-skuddpremie-pa-amerikanske-soldater-1.17991802",
       "category": "Forholdet Iran – USA",
       "pubDate": "Sun, 16 Aug 2026 19:37:52 GMT"
+    },
+    {
+      "title": "Brann på campingplass i Orkland – spredningsfare",
+      "link": "https://www.nrk.no/trondelag/brann-pa-campingplass-i-orkland-_-spredningsfare-1.17991751",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 16 Aug 2026 19:27:16 GMT"
     },
     {
       "title": "Hamas ber om at Israels tvinges til å godta fredsplan",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/trondelag/veltet-med-elsykkel-i-verdal-_-funnet-bevisstlos-1.17991714",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 16 Aug 2026 18:00:17 GMT"
-    },
-    {
-      "title": "Ronaldo: – Trolig mitt siste år i karrieren",
-      "link": "https://www.nrk.no/sport/ronaldo_-_-trolig-mitt-siste-ar-i-karrieren-1.17991736",
-      "category": "Sportsnyheter",
-      "pubDate": "Sun, 16 Aug 2026 17:39:25 GMT"
     }
   ]
 }
