@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T16:57:45.103Z",
+  "updatedAt": "2026-08-17T17:34:55.111Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kongen innlagt på Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/kongen-innlagt-pa-rikshospitalet-1.17992649",
+      "category": "Kongefamilien",
+      "pubDate": "Mon, 17 Aug 2026 16:56:23 GMT"
+    },
     {
       "title": "Tre drept i helikopterulykke i Hellas",
       "link": "https://www.nrk.no/nyheter/tre-drept-i-helikopterulykke-i-hellas-1.17992641",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/to-til-sjukehus-etter-ulukke-pa-osteroy-1.17992537",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Mon, 17 Aug 2026 15:21:12 GMT"
-    },
-    {
-      "title": "Bil og lastebil involvert i trafikkulykke på riksvei 9",
-      "link": "https://www.nrk.no/sorlandet/bil-og-lastebil-involvert-i-trafikkulykke-pa-riksvei-9-1.17992548",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 17 Aug 2026 15:07:40 GMT"
     }
   ]
 }
