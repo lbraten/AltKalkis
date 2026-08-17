@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-17T15:27:09.772Z",
+  "updatedAt": "2026-08-17T15:51:09.239Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Netanyahu og «fredsrådet» ferdige med møte om Gaza",
+      "link": "https://www.nrk.no/nyheter/netanyahu-og-_fredsradet_-ferdige-med-mote-om-gaza-1.17992540",
+      "category": "Israel",
+      "pubDate": "Mon, 17 Aug 2026 15:47:25 GMT"
+    },
+    {
+      "title": "To til sjukehus etter ulukke på Osterøy",
+      "link": "https://www.nrk.no/vestland/to-til-sjukehus-etter-ulukke-pa-osteroy-1.17992537",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 17 Aug 2026 15:21:12 GMT"
+    },
     {
       "title": "Bil og lastebil involvert i trafikkulykke på riksvei 9",
       "link": "https://www.nrk.no/sorlandet/bil-og-lastebil-involvert-i-trafikkulykke-pa-riksvei-9-1.17992548",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/equinor-kjoper-gass-aksjer-i-usa-for-9-milliarder-kroner-1.17992513",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 17 Aug 2026 14:01:35 GMT"
-    },
-    {
-      "title": "Russisk opposisjonspolitiker dømt til elleve års fengsel",
-      "link": "https://www.nrk.no/nyheter/russisk-opposisjonspolitiker-domt-til-elleve-ars-fengsel-1.17992404",
-      "category": "Russland",
-      "pubDate": "Mon, 17 Aug 2026 13:48:35 GMT"
-    },
-    {
-      "title": "Kan bli streik i flytrafkken – Oslo lufthavn kan bli stengt søndag",
-      "link": "https://www.nrk.no/stor-oslo/kan-bli-streik-i-flytrafkken-_-oslo-lufthavn-kan-bli-stengt-sondag-1.17992433",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 17 Aug 2026 13:19:17 GMT"
     }
   ]
 }
