@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T19:53:21.221Z",
+  "updatedAt": "2026-08-17T20:27:57.787Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Terrengbrann i Øygarden",
+      "link": "https://www.nrk.no/vestland/terrengbrann-i-oygarden-1.17992714",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 17 Aug 2026 20:21:35 GMT"
+    },
     {
       "title": "AUF har anmeldt trusler mot Gaute Skjervø",
       "link": "https://www.nrk.no/nyheter/auf-har-anmeldt-trusler-mot-gaute-skjervo-1.17992731",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tre-drept-i-helikopterulykke-i-hellas-1.17992641",
       "category": "Hellas",
       "pubDate": "Mon, 17 Aug 2026 16:42:55 GMT"
-    },
-    {
-      "title": "Funn av eksplosivar i Fana i Bergen",
-      "link": "https://www.nrk.no/vestland/funn-av-eksplosivar-i-fana-i-bergen-1.17992632",
-      "category": "Krim og hendingar i Vestland",
-      "pubDate": "Mon, 17 Aug 2026 16:26:33 GMT"
     }
   ]
 }
