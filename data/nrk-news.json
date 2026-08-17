@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-17T22:25:36.379Z",
+  "updatedAt": "2026-08-17T22:51:04.829Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Far siktet for å ha leid prostituert til mindreårig sønn",
-      "link": "https://www.nrk.no/nyheter/far-siktet-for-a-ha-leid-prostituert-til-mindrearig-sonn-1.17992822",
+      "title": "Ingen streik i mølleindustrien",
+      "link": "https://www.nrk.no/nyheter/ingen-streik-i-molleindustrien-1.17992823",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Mon, 17 Aug 2026 22:44:51 GMT"
+    },
+    {
+      "title": "Far siktet for å ha leid sexarbeider til mindreårig sønn",
+      "link": "https://www.nrk.no/nyheter/far-siktet-for-a-ha-leid-sexarbeider-til-mindrearig-sonn-1.17992822",
       "category": "Sexkjøp og prostitusjon",
       "pubDate": "Mon, 17 Aug 2026 22:21:56 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-kvinne-skadet-i-trafikkulykke-i-holmestrand-1.17992797",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 17 Aug 2026 21:08:13 GMT"
-    },
-    {
-      "title": "Kanye West holder konserter i Russland",
-      "link": "https://www.nrk.no/nyheter/kanye-west-holder-konserter-i-russland-1.17992789",
-      "category": "Musikk",
-      "pubDate": "Mon, 17 Aug 2026 20:38:33 GMT"
     }
   ]
 }
