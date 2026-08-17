@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-08-17T13:39:33.185Z",
+  "updatedAt": "2026-08-17T14:28:52.542Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Kan bli streik i flytrafkken – Gardermoen kan bli stengt søndag",
-      "link": "https://www.nrk.no/stor-oslo/kan-bli-streik-i-flytrafkken-_-gardermoen-kan-bli-stengt-sondag-1.17992433",
+      "title": "Equinor kjøper gass-aksjer i USA for 9 milliarder kroner",
+      "link": "https://www.nrk.no/nyheter/equinor-kjoper-gass-aksjer-i-usa-for-9-milliarder-kroner-1.17992513",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 17 Aug 2026 14:01:35 GMT"
+    },
+    {
+      "title": "Russisk opposisjonspolitiker dømt til elleve års fengsel",
+      "link": "https://www.nrk.no/nyheter/russisk-opposisjonspolitiker-domt-til-elleve-ars-fengsel-1.17992404",
+      "category": "Russland",
+      "pubDate": "Mon, 17 Aug 2026 13:48:35 GMT"
+    },
+    {
+      "title": "Kan bli streik i flytrafkken – Oslo lufthavn kan bli stengt søndag",
+      "link": "https://www.nrk.no/stor-oslo/kan-bli-streik-i-flytrafkken-_-oslo-lufthavn-kan-bli-stengt-sondag-1.17992433",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Mon, 17 Aug 2026 13:19:17 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fugleinfluensa-naer-norgesgrensa-i-sverige-1.17992193",
       "category": "Fugleinfluensa",
       "pubDate": "Mon, 17 Aug 2026 11:21:16 GMT"
-    },
-    {
-      "title": "Fengsel mangler rutiner for oppfølging av innsatte",
-      "link": "https://www.nrk.no/nyheter/fengsel-mangler-rutiner-for-oppfolging-av-innsatte--1.17991921",
-      "category": "Fengsel i Norge",
-      "pubDate": "Mon, 17 Aug 2026 11:03:07 GMT"
-    },
-    {
-      "title": "Knuste et vindu til 382.000 kroner på politistasjon",
-      "link": "https://www.nrk.no/tromsogfinnmark/knuste-et-vindu-til-382.000-kroner-pa-politistasjon-1.17991923",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 17 Aug 2026 10:01:58 GMT"
     }
   ]
 }
