@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-08-17T16:29:05.556Z",
+  "updatedAt": "2026-08-17T16:57:45.103Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tre drept i helikopterulykke i Hellas",
+      "link": "https://www.nrk.no/nyheter/tre-drept-i-helikopterulykke-i-hellas-1.17992641",
+      "category": "Hellas",
+      "pubDate": "Mon, 17 Aug 2026 16:42:55 GMT"
+    },
     {
       "title": "Funn av eksplosivar i Fana i Bergen",
       "link": "https://www.nrk.no/vestland/funn-av-eksplosivar-i-fana-i-bergen-1.17992632",
       "category": "Krim og hendingar i Vestland",
       "pubDate": "Mon, 17 Aug 2026 16:26:33 GMT"
+    },
+    {
+      "title": "10-åring på elsparkesykkel kolliderte med bil",
+      "link": "https://www.nrk.no/stor-oslo/10-aring-pa-elsparkesykkel-kolliderte-med-bil-1.17992619",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 17 Aug 2026 16:24:58 GMT"
     },
     {
       "title": "Netanyahu og «fredsrådet» ferdige med møte om Gaza",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/sorlandet/bil-og-lastebil-involvert-i-trafikkulykke-pa-riksvei-9-1.17992548",
       "category": "Nyheter fra Agder",
       "pubDate": "Mon, 17 Aug 2026 15:07:40 GMT"
-    },
-    {
-      "title": "Nytt nederlag for Trump i høyesterett",
-      "link": "https://www.nrk.no/nyheter/nytt-nederlag-for-trump-i-hoyesterett-1.17992538",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 17 Aug 2026 14:33:46 GMT"
-    },
-    {
-      "title": "Russisk opposisjonsparti får ikke stille til høstens valg",
-      "link": "https://www.nrk.no/nyheter/russisk-opposisjonsparti-far-ikke-stille-til-hostens-valg-1.17992524",
-      "category": "Russland",
-      "pubDate": "Mon, 17 Aug 2026 14:29:41 GMT"
     }
   ]
 }
