@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T04:42:25.182Z",
+  "updatedAt": "2026-08-17T05:35:29.405Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere drept i ukrainsk rakettangrep",
+      "link": "https://www.nrk.no/nyheter/flere-drept-i-ukrainsk-rakettangrep--1.17991916",
+      "category": "Russland",
+      "pubDate": "Mon, 17 Aug 2026 05:07:29 GMT"
+    },
     {
       "title": "Medier: «Heroes»-stjernen Hayden Panettiere er død, 36 år gammel",
       "link": "https://www.nrk.no/nyheter/medier_-_heroes_-stjernen-hayden-panettiere-er-dod_-36-ar-gammel-1.17991852",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-planlegger-omfattende-nye-sanksjoner-mot-russland-1.17991848",
       "category": "Krigen i Ukraina",
       "pubDate": "Mon, 17 Aug 2026 00:38:45 GMT"
-    },
-    {
-      "title": "Søker etter savnet seilbåt",
-      "link": "https://www.nrk.no/nyheter/soker-etter-savnet-seilbat-1.17991847",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 17 Aug 2026 00:06:36 GMT"
     }
   ]
 }
