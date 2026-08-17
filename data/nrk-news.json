@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-17T07:56:33.837Z",
+  "updatedAt": "2026-08-17T08:49:53.011Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kongeparet besøker Siljan og Nissedal i oktober",
+      "link": "https://www.nrk.no/nyheter/kongeparet-besoker-siljan-og-nissedal-i-oktober-1.17992081",
+      "category": "Kongefamilien",
+      "pubDate": "Mon, 17 Aug 2026 08:16:53 GMT"
+    },
+    {
+      "title": "Zambias president ligg an til attval",
+      "link": "https://www.nrk.no/nyheter/zambias-president-ligg-an-til-attval-1.17992067",
+      "category": "Zambia",
+      "pubDate": "Mon, 17 Aug 2026 08:09:53 GMT"
+    },
+    {
+      "title": "Amalie Skram-prisen til Maria Parr",
+      "link": "https://www.nrk.no/nyheter/amalie-skram-prisen-til-maria-parr-1.17992000",
+      "category": "Litteratur",
+      "pubDate": "Mon, 17 Aug 2026 07:56:52 GMT"
+    },
     {
       "title": "Fotgjenger påkjørt i Moss",
       "link": "https://www.nrk.no/ostfold/fotgjenger-pakjort-i-moss-1.17991931",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/seilbat-funnet-i-god-behold-1.17991950",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 17 Aug 2026 06:26:18 GMT"
-    },
-    {
-      "title": "Mann sikta for drap i Sandnes",
-      "link": "https://www.nrk.no/nyheter/mann-sikta-for-drap-i-sandnes-1.17991954",
-      "category": "high",
-      "pubDate": "Mon, 17 Aug 2026 06:13:01 GMT"
-    },
-    {
-      "title": "Sør-Korea svarer på Trumps utspill",
-      "link": "https://www.nrk.no/nyheter/sor-korea-svarer-pa-trumps-utspill-1.17991908",
-      "category": "Forholdet mellom Sør- og Nord-Korea",
-      "pubDate": "Mon, 17 Aug 2026 05:57:03 GMT"
-    },
-    {
-      "title": "Flere drept i ukrainsk rakettangrep",
-      "link": "https://www.nrk.no/nyheter/flere-drept-i-ukrainsk-rakettangrep--1.17991916",
-      "category": "Russland",
-      "pubDate": "Mon, 17 Aug 2026 05:07:29 GMT"
     }
   ]
 }
