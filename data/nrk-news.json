@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-17T21:52:14.513Z",
+  "updatedAt": "2026-08-17T22:25:36.379Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Far siktet for å ha leid prostituert til mindreårig sønn",
+      "link": "https://www.nrk.no/nyheter/far-siktet-for-a-ha-leid-prostituert-til-mindrearig-sonn-1.17992822",
+      "category": "Sexkjøp og prostitusjon",
+      "pubDate": "Mon, 17 Aug 2026 22:21:56 GMT"
+    },
+    {
+      "title": "Erdogan oppfordrer Trump til å fortsette samtaler med Iran",
+      "link": "https://www.nrk.no/nyheter/erdogan-oppfordrer-trump-til-a-fortsette-samtaler-med-iran-1.17992820",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 17 Aug 2026 22:05:33 GMT"
+    },
     {
       "title": "Drapssaken mot Luigi Mangione utsettes",
       "link": "https://www.nrk.no/nyheter/drapssaken-mot-luigi-mangione-utsettes-1.17992819",
@@ -11,7 +23,7 @@
     {
       "title": "To biler brenner i Oslo",
       "link": "https://www.nrk.no/nyheter/to-biler-brenner-i-oslo-1.17992813",
-      "category": "NRK Nyheter",
+      "category": "Bilbranner i Stor-Oslo",
       "pubDate": "Mon, 17 Aug 2026 21:32:57 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kanye-west-holder-konserter-i-russland-1.17992789",
       "category": "Musikk",
       "pubDate": "Mon, 17 Aug 2026 20:38:33 GMT"
-    },
-    {
-      "title": "AUF har anmeldt trusler mot Gaute Skjervø",
-      "link": "https://www.nrk.no/nyheter/auf-har-anmeldt-trusler-mot-gaute-skjervo-1.17992731",
-      "category": "AUF",
-      "pubDate": "Mon, 17 Aug 2026 18:30:04 GMT"
-    },
-    {
-      "title": "Trump sier USA ikke ønsker forlengelse av våpenhvile med Iran",
-      "link": "https://www.nrk.no/nyheter/trump-sier-usa-ikke-onsker-forlengelse-av-vapenhvile-med-iran-1.17992713",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 17 Aug 2026 18:16:02 GMT"
     }
   ]
 }
