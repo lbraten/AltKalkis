@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T01:20:49.484Z",
+  "updatedAt": "2026-08-17T02:42:15.363Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst ti personer mistet livet i bussulykke i Brasil",
+      "link": "https://www.nrk.no/nyheter/minst-ti-personer-mistet-livet-i-bussulykke-i-brasil-1.17991845",
+      "category": "Brasil",
+      "pubDate": "Mon, 17 Aug 2026 01:50:17 GMT"
+    },
     {
       "title": "EU planlegger omfattende nye sanksjoner mot Russland",
       "link": "https://www.nrk.no/nyheter/eu-planlegger-omfattende-nye-sanksjoner-mot-russland-1.17991848",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-kutter-militaerovelser-med-sor-korea-1.17991832",
       "category": "Forholdet mellom Sør- og Nord-Korea",
       "pubDate": "Sun, 16 Aug 2026 21:20:38 GMT"
-    },
-    {
-      "title": "Fem tenåringer døde etter kollisjon i Irland",
-      "link": "https://www.nrk.no/nyheter/fem-tenaringer-dode-etter-kollisjon-i-irland-1.17991831",
-      "category": "Irland",
-      "pubDate": "Sun, 16 Aug 2026 20:37:48 GMT"
     }
   ]
 }
