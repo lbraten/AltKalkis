@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T11:27:02.997Z",
+  "updatedAt": "2026-08-17T11:51:56.210Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Arbeidet med Stad skipstunnel starter neste år",
+      "link": "https://www.nrk.no/nyheter/arbeidet-med-stad-skipstunnel-starter-neste-ar-1.17992322",
+      "category": "Stad skipstunnel",
+      "pubDate": "Mon, 17 Aug 2026 11:46:22 GMT"
+    },
     {
       "title": "Fugleinfluensa nær norgesgrensa i Sverige",
       "link": "https://www.nrk.no/nyheter/fugleinfluensa-naer-norgesgrensa-i-sverige-1.17992193",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/skogbrannfaren-fortsetter-1.17992175",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 17 Aug 2026 09:16:11 GMT"
-    },
-    {
-      "title": "Israelsk minister vil drepe 30–40 palestinere hver natt",
-      "link": "https://www.nrk.no/nyheter/israelsk-minister-vil-drepe-30_40-palestinere-hver-natt-1.17992093",
-      "category": "Palestina",
-      "pubDate": "Mon, 17 Aug 2026 09:12:08 GMT"
     }
   ]
 }
