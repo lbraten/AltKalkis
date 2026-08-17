@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-16T23:45:09.369Z",
+  "updatedAt": "2026-08-17T01:20:49.484Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EU planlegger omfattende nye sanksjoner mot Russland",
+      "link": "https://www.nrk.no/nyheter/eu-planlegger-omfattende-nye-sanksjoner-mot-russland-1.17991848",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 17 Aug 2026 00:38:45 GMT"
+    },
+    {
+      "title": "Søker etter savnet seilbåt",
+      "link": "https://www.nrk.no/nyheter/soker-etter-savnet-seilbat-1.17991847",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 17 Aug 2026 00:06:36 GMT"
+    },
     {
       "title": "Flertall av amerikanske velgere: Har fått dårligere råd under Trump",
       "link": "https://www.nrk.no/nyheter/flertall-av-amerikanske-velgere_-har-fatt-darligere-rad-under-trump-1.17991846",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fem-tenaringer-dode-etter-kollisjon-i-irland-1.17991831",
       "category": "Irland",
       "pubDate": "Sun, 16 Aug 2026 20:37:48 GMT"
-    },
-    {
-      "title": "Iran tilbyr skuddpremie på amerikanske soldater",
-      "link": "https://www.nrk.no/nyheter/iran-tilbyr-skuddpremie-pa-amerikanske-soldater-1.17991802",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 16 Aug 2026 19:37:52 GMT"
-    },
-    {
-      "title": "Brann på campingplass i Orkland – spredningsfare",
-      "link": "https://www.nrk.no/trondelag/brann-pa-campingplass-i-orkland-_-spredningsfare-1.17991751",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 16 Aug 2026 19:27:16 GMT"
     }
   ]
 }
