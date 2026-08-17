@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T06:57:46.005Z",
+  "updatedAt": "2026-08-17T07:56:33.837Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fotgjenger påkjørt i Moss",
+      "link": "https://www.nrk.no/ostfold/fotgjenger-pakjort-i-moss-1.17991931",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Mon, 17 Aug 2026 07:25:52 GMT"
+    },
     {
       "title": "Ny dag med togproblemer i Oslo",
       "link": "https://www.nrk.no/nyheter/ny-dag-med-togproblemer-i-oslo-1.17991958",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-drept-i-ukrainsk-rakettangrep--1.17991916",
       "category": "Russland",
       "pubDate": "Mon, 17 Aug 2026 05:07:29 GMT"
-    },
-    {
-      "title": "Medier: «Heroes»-stjernen Hayden Panettiere er død, 36 år gammel",
-      "link": "https://www.nrk.no/nyheter/medier_-_heroes_-stjernen-hayden-panettiere-er-dod_-36-ar-gammel-1.17991852",
-      "category": "Film og serier",
-      "pubDate": "Mon, 17 Aug 2026 03:24:45 GMT"
     }
   ]
 }
