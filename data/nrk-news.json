@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-17T14:28:52.542Z",
+  "updatedAt": "2026-08-17T14:55:47.385Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nytt nederlag for Trump i høyesterett",
+      "link": "https://www.nrk.no/nyheter/nytt-nederlag-for-trump-i-hoyesterett-1.17992538",
+      "category": "Donald Trump",
+      "pubDate": "Mon, 17 Aug 2026 14:33:46 GMT"
+    },
+    {
+      "title": "Russisk opposisjonsparti får ikke stille til høstens valg",
+      "link": "https://www.nrk.no/nyheter/russisk-opposisjonsparti-far-ikke-stille-til-hostens-valg-1.17992524",
+      "category": "Russland",
+      "pubDate": "Mon, 17 Aug 2026 14:29:41 GMT"
+    },
     {
       "title": "Equinor kjøper gass-aksjer i USA for 9 milliarder kroner",
       "link": "https://www.nrk.no/nyheter/equinor-kjoper-gass-aksjer-i-usa-for-9-milliarder-kroner-1.17992513",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-truer-med-a-bombe-oman-hvis-de-star-i-veien-for-hormuz-avtale-1.17992347",
       "category": "Forholdet Iran – USA",
       "pubDate": "Mon, 17 Aug 2026 11:57:55 GMT"
-    },
-    {
-      "title": "Arbeidet med Stad skipstunnel starter neste år",
-      "link": "https://www.nrk.no/nyheter/arbeidet-med-stad-skipstunnel-starter-neste-ar-1.17992322",
-      "category": "Stad skipstunnel",
-      "pubDate": "Mon, 17 Aug 2026 11:46:22 GMT"
-    },
-    {
-      "title": "Fugleinfluensa nær norgesgrensa i Sverige",
-      "link": "https://www.nrk.no/nyheter/fugleinfluensa-naer-norgesgrensa-i-sverige-1.17992193",
-      "category": "Fugleinfluensa",
-      "pubDate": "Mon, 17 Aug 2026 11:21:16 GMT"
     }
   ]
 }
