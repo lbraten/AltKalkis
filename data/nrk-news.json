@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T15:51:09.239Z",
+  "updatedAt": "2026-08-17T16:29:05.556Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Funn av eksplosivar i Fana i Bergen",
+      "link": "https://www.nrk.no/vestland/funn-av-eksplosivar-i-fana-i-bergen-1.17992632",
+      "category": "Krim og hendingar i Vestland",
+      "pubDate": "Mon, 17 Aug 2026 16:26:33 GMT"
+    },
     {
       "title": "Netanyahu og «fredsrådet» ferdige med møte om Gaza",
       "link": "https://www.nrk.no/nyheter/netanyahu-og-_fredsradet_-ferdige-med-mote-om-gaza-1.17992540",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russisk-opposisjonsparti-far-ikke-stille-til-hostens-valg-1.17992524",
       "category": "Russland",
       "pubDate": "Mon, 17 Aug 2026 14:29:41 GMT"
-    },
-    {
-      "title": "Equinor kjøper gass-aksjer i USA for 9 milliarder kroner",
-      "link": "https://www.nrk.no/nyheter/equinor-kjoper-gass-aksjer-i-usa-for-9-milliarder-kroner-1.17992513",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 17 Aug 2026 14:01:35 GMT"
     }
   ]
 }
