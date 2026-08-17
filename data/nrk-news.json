@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T20:55:53.334Z",
+  "updatedAt": "2026-08-17T21:28:27.057Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En kvinne skadet i trafikkulykke i Holmestrand",
+      "link": "https://www.nrk.no/nyheter/en-kvinne-skadet-i-trafikkulykke-i-holmestrand-1.17992797",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 17 Aug 2026 21:08:13 GMT"
+    },
     {
       "title": "Kanye West holder konserter i Russland",
       "link": "https://www.nrk.no/nyheter/kanye-west-holder-konserter-i-russland-1.17992789",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kongen-innlagt-pa-rikshospitalet-1.17992649",
       "category": "Kongefamilien",
       "pubDate": "Mon, 17 Aug 2026 16:56:23 GMT"
-    },
-    {
-      "title": "Tre drept i helikopterulykke i Hellas",
-      "link": "https://www.nrk.no/nyheter/tre-drept-i-helikopterulykke-i-hellas-1.17992641",
-      "category": "Hellas",
-      "pubDate": "Mon, 17 Aug 2026 16:42:55 GMT"
     }
   ]
 }
