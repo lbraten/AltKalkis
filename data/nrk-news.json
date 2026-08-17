@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T11:51:56.210Z",
+  "updatedAt": "2026-08-17T12:46:05.097Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump truer med å bombe Oman hvis de står i veien for Hormuz-avtale",
+      "link": "https://www.nrk.no/nyheter/trump-truer-med-a-bombe-oman-hvis-de-star-i-veien-for-hormuz-avtale-1.17992347",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 17 Aug 2026 11:57:55 GMT"
+    },
     {
       "title": "Arbeidet med Stad skipstunnel starter neste år",
       "link": "https://www.nrk.no/nyheter/arbeidet-med-stad-skipstunnel-starter-neste-ar-1.17992322",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/innlandet/tillater-felling-av-inntil-syv-bjorn-1.17992049",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Mon, 17 Aug 2026 09:30:17 GMT"
-    },
-    {
-      "title": "Skogbrannfaren fortsetter",
-      "link": "https://www.nrk.no/vestfoldogtelemark/skogbrannfaren-fortsetter-1.17992175",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 17 Aug 2026 09:16:11 GMT"
     }
   ]
 }
