@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-17T14:55:47.385Z",
+  "updatedAt": "2026-08-17T15:27:09.772Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bil og lastebil involvert i trafikkulykke på riksvei 9",
+      "link": "https://www.nrk.no/sorlandet/bil-og-lastebil-involvert-i-trafikkulykke-pa-riksvei-9-1.17992548",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 17 Aug 2026 15:07:40 GMT"
+    },
     {
       "title": "Nytt nederlag for Trump i høyesterett",
       "link": "https://www.nrk.no/nyheter/nytt-nederlag-for-trump-i-hoyesterett-1.17992538",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/kan-bli-streik-i-flytrafkken-_-oslo-lufthavn-kan-bli-stengt-sondag-1.17992433",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Mon, 17 Aug 2026 13:19:17 GMT"
-    },
-    {
-      "title": "Trump truer med å bombe Oman hvis de står i veien for Hormuz-avtale",
-      "link": "https://www.nrk.no/nyheter/trump-truer-med-a-bombe-oman-hvis-de-star-i-veien-for-hormuz-avtale-1.17992347",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 17 Aug 2026 11:57:55 GMT"
     }
   ]
 }
