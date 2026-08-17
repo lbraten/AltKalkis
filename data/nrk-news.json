@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-17T21:28:27.057Z",
+  "updatedAt": "2026-08-17T21:52:14.513Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Drapssaken mot Luigi Mangione utsettes",
+      "link": "https://www.nrk.no/nyheter/drapssaken-mot-luigi-mangione-utsettes-1.17992819",
+      "category": "USA",
+      "pubDate": "Mon, 17 Aug 2026 21:35:36 GMT"
+    },
+    {
+      "title": "To biler brenner i Oslo",
+      "link": "https://www.nrk.no/nyheter/to-biler-brenner-i-oslo-1.17992813",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 17 Aug 2026 21:32:57 GMT"
+    },
     {
       "title": "En kvinne skadet i trafikkulykke i Holmestrand",
       "link": "https://www.nrk.no/nyheter/en-kvinne-skadet-i-trafikkulykke-i-holmestrand-1.17992797",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-sier-usa-ikke-onsker-forlengelse-av-vapenhvile-med-iran-1.17992713",
       "category": "Forholdet Iran – USA",
       "pubDate": "Mon, 17 Aug 2026 18:16:02 GMT"
-    },
-    {
-      "title": "Støre: – Ønsker kongen god bedring",
-      "link": "https://www.nrk.no/nyheter/store_-_-onsker-kongen-god-bedring-1.17992617",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 17 Aug 2026 17:51:04 GMT"
-    },
-    {
-      "title": "Kongen innlagt på Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/kongen-innlagt-pa-rikshospitalet-1.17992649",
-      "category": "Kongefamilien",
-      "pubDate": "Mon, 17 Aug 2026 16:56:23 GMT"
     }
   ]
 }
