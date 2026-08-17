@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-17T10:33:05.508Z",
+  "updatedAt": "2026-08-17T11:27:02.997Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fugleinfluensa nær norgesgrensa i Sverige",
+      "link": "https://www.nrk.no/nyheter/fugleinfluensa-naer-norgesgrensa-i-sverige-1.17992193",
+      "category": "Fugleinfluensa",
+      "pubDate": "Mon, 17 Aug 2026 11:21:16 GMT"
+    },
+    {
+      "title": "Fengsel mangler rutiner for oppfølging av innsatte",
+      "link": "https://www.nrk.no/nyheter/fengsel-mangler-rutiner-for-oppfolging-av-innsatte--1.17991921",
+      "category": "Fengsel i Norge",
+      "pubDate": "Mon, 17 Aug 2026 11:03:07 GMT"
+    },
     {
       "title": "Knuste et vindu til 382.000 kroner på politistasjon",
       "link": "https://www.nrk.no/tromsogfinnmark/knuste-et-vindu-til-382.000-kroner-pa-politistasjon-1.17991923",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israelsk-minister-vil-drepe-30_40-palestinere-hver-natt-1.17992093",
       "category": "Palestina",
       "pubDate": "Mon, 17 Aug 2026 09:12:08 GMT"
-    },
-    {
-      "title": "Kongeparet besøker Siljan og Nissedal i oktober",
-      "link": "https://www.nrk.no/nyheter/kongeparet-besoker-siljan-og-nissedal-i-oktober-1.17992081",
-      "category": "Kongefamilien",
-      "pubDate": "Mon, 17 Aug 2026 08:16:53 GMT"
-    },
-    {
-      "title": "Zambias president ligg an til attval",
-      "link": "https://www.nrk.no/nyheter/zambias-president-ligg-an-til-attval-1.17992067",
-      "category": "Zambia",
-      "pubDate": "Mon, 17 Aug 2026 08:09:53 GMT"
     }
   ]
 }
