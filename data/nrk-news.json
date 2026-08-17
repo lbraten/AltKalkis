@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-17T08:49:53.011Z",
+  "updatedAt": "2026-08-17T09:42:24.264Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tillater felling av inntil syv bjørn",
+      "link": "https://www.nrk.no/innlandet/tillater-felling-av-inntil-syv-bjorn-1.17992049",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Mon, 17 Aug 2026 09:30:17 GMT"
+    },
+    {
+      "title": "Skogbrannfaren fortsetter",
+      "link": "https://www.nrk.no/vestfoldogtelemark/skogbrannfaren-fortsetter-1.17992175",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 17 Aug 2026 09:16:11 GMT"
+    },
+    {
+      "title": "Israelsk minister vil drepe 30–40 palestinere hver natt",
+      "link": "https://www.nrk.no/nyheter/israelsk-minister-vil-drepe-30_40-palestinere-hver-natt-1.17992093",
+      "category": "Palestina",
+      "pubDate": "Mon, 17 Aug 2026 09:12:08 GMT"
+    },
     {
       "title": "Kongeparet besøker Siljan og Nissedal i oktober",
       "link": "https://www.nrk.no/nyheter/kongeparet-besoker-siljan-og-nissedal-i-oktober-1.17992081",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/amalie-skram-prisen-til-maria-parr-1.17992000",
       "category": "Litteratur",
       "pubDate": "Mon, 17 Aug 2026 07:56:52 GMT"
-    },
-    {
-      "title": "Fotgjenger påkjørt i Moss",
-      "link": "https://www.nrk.no/ostfold/fotgjenger-pakjort-i-moss-1.17991931",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Mon, 17 Aug 2026 07:25:52 GMT"
-    },
-    {
-      "title": "Ny dag med togproblemer i Oslo",
-      "link": "https://www.nrk.no/nyheter/ny-dag-med-togproblemer-i-oslo-1.17991958",
-      "category": "Togproblemer og forsinkelser",
-      "pubDate": "Mon, 17 Aug 2026 06:47:44 GMT"
-    },
-    {
-      "title": "Seilbåt funnet i god behold",
-      "link": "https://www.nrk.no/vestfoldogtelemark/seilbat-funnet-i-god-behold-1.17991950",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 17 Aug 2026 06:26:18 GMT"
     }
   ]
 }
