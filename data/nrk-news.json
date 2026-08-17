@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-17T02:42:15.363Z",
+  "updatedAt": "2026-08-17T03:51:01.194Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Medier: «Heroes»-stjernen Hayden Panettiere er død, 36 år gammel",
+      "link": "https://www.nrk.no/nyheter/medier_-_heroes_-stjernen-hayden-panettiere-er-dod_-36-ar-gammel-1.17991852",
+      "category": "Film og serier",
+      "pubDate": "Mon, 17 Aug 2026 03:24:45 GMT"
+    },
+    {
+      "title": "Alvorlig voldshendelse i Sandnes",
+      "link": "https://www.nrk.no/nyheter/alvorlig-voldshendelse-i-sandnes-1.17991851",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 17 Aug 2026 02:47:25 GMT"
+    },
+    {
+      "title": "Seks personer trampet i hjel i India",
+      "link": "https://www.nrk.no/nyheter/seks-personer-trampet-i-hjel-i-india-1.17991849",
+      "category": "India",
+      "pubDate": "Mon, 17 Aug 2026 02:43:11 GMT"
+    },
     {
       "title": "Minst ti personer mistet livet i bussulykke i Brasil",
       "link": "https://www.nrk.no/nyheter/minst-ti-personer-mistet-livet-i-bussulykke-i-brasil-1.17991845",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/soker-etter-savnet-seilbat-1.17991847",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Mon, 17 Aug 2026 00:06:36 GMT"
-    },
-    {
-      "title": "Flertall av amerikanske velgere: Har fått dårligere råd under Trump",
-      "link": "https://www.nrk.no/nyheter/flertall-av-amerikanske-velgere_-har-fatt-darligere-rad-under-trump-1.17991846",
-      "category": "USAs økonomi",
-      "pubDate": "Sun, 16 Aug 2026 23:01:09 GMT"
-    },
-    {
-      "title": "2325 mennesker er døde etter å ha blitt smittet med ebola i Kongo",
-      "link": "https://www.nrk.no/nyheter/2325-mennesker-er-dode-etter-a-ha-blitt-smittet-med-ebola-i-kongo-1.17991837",
-      "category": "DR Kongo",
-      "pubDate": "Sun, 16 Aug 2026 22:37:19 GMT"
-    },
-    {
-      "title": "Trump kutter militærøvelser med Sør-Korea",
-      "link": "https://www.nrk.no/nyheter/trump-kutter-militaerovelser-med-sor-korea-1.17991832",
-      "category": "Forholdet mellom Sør- og Nord-Korea",
-      "pubDate": "Sun, 16 Aug 2026 21:20:38 GMT"
     }
   ]
 }
