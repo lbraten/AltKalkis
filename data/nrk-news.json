@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-18T01:17:50.066Z",
+  "updatedAt": "2026-08-18T02:36:23.913Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Barn pågrepet etter skyting i Södertälje",
+      "link": "https://www.nrk.no/nyheter/barn-pagrepet-etter-skyting-i-sodertalje-1.17992828",
+      "category": "Voldsbølge i Sverige",
+      "pubDate": "Tue, 18 Aug 2026 01:21:39 GMT"
+    },
+    {
+      "title": "Lee: Å bevare fred er viktigst",
+      "link": "https://www.nrk.no/nyheter/lee_-a-bevare-fred-er-viktigst-1.17992827",
+      "category": "Forholdet mellom Sør- og Nord-Korea",
+      "pubDate": "Tue, 18 Aug 2026 01:20:38 GMT"
+    },
     {
       "title": "Colombia-jordskjelvets skader anslås til 90 milliarder kroner",
       "link": "https://www.nrk.no/nyheter/colombia-jordskjelvets-skader-anslas-til-90-milliarder-kroner-1.17992826",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/far-siktet-for-a-ha-leid-sexarbeider-til-mindrearig-sonn-1.17992822",
       "category": "Sexkjøp og prostitusjon",
       "pubDate": "Mon, 17 Aug 2026 22:21:56 GMT"
-    },
-    {
-      "title": "Erdogan oppfordrer Trump til å fortsette samtaler med Iran",
-      "link": "https://www.nrk.no/nyheter/erdogan-oppfordrer-trump-til-a-fortsette-samtaler-med-iran-1.17992820",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 17 Aug 2026 22:05:33 GMT"
-    },
-    {
-      "title": "Drapssaken mot Luigi Mangione utsettes",
-      "link": "https://www.nrk.no/nyheter/drapssaken-mot-luigi-mangione-utsettes-1.17992819",
-      "category": "USA",
-      "pubDate": "Mon, 17 Aug 2026 21:35:36 GMT"
     }
   ]
 }
