@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-18T18:42:42.333Z",
+  "updatedAt": "2026-08-18T19:28:09.170Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "ZZ Top-trommis Frank Beard er død",
+      "link": "https://www.nrk.no/nyheter/zz-top-trommis-frank-beard-er-dod-1.17993939",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 18 Aug 2026 19:03:00 GMT"
+    },
     {
       "title": "Ap-politiker Tuva Moflag ble innlagt på sykehus etter hjerneslag",
       "link": "https://www.nrk.no/nyheter/ap-politiker-tuva-moflag-ble-innlagt-pa-sykehus-etter-hjerneslag-1.17993936",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-innforer-nye-icc-sanksjoner-1.17993848",
       "category": "ICC-domstolen i Haag",
       "pubDate": "Tue, 18 Aug 2026 17:56:02 GMT"
-    },
-    {
-      "title": "Tiltalt for voldtekt av fire år gammel niese",
-      "link": "https://www.nrk.no/tromsogfinnmark/tiltalt-for-voldtekt-av-fire-ar-gammel-niese-1.17993493",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 18 Aug 2026 17:38:45 GMT"
     }
   ]
 }
