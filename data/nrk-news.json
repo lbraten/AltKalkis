@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-18T22:24:45.740Z",
+  "updatedAt": "2026-08-18T22:51:40.874Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel bekrefter angrep mot militærbase i Syria",
+      "link": "https://www.nrk.no/nyheter/israel-bekrefter-angrep-mot-militaerbase-i-syria-1.17994014",
+      "category": "Israel og Syria",
+      "pubDate": "Tue, 18 Aug 2026 22:32:50 GMT"
+    },
     {
       "title": "Carney og Trump har snakket sammen igjen",
       "link": "https://www.nrk.no/nyheter/carney-og-trump-har-snakket-sammen-igjen-1.17994012",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zz-top-trommis-frank-beard-er-dod-1.17993939",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 18 Aug 2026 19:03:00 GMT"
-    },
-    {
-      "title": "Ap-politiker Tuva Moflag ble innlagt på sykehus etter hjerneslag",
-      "link": "https://www.nrk.no/nyheter/ap-politiker-tuva-moflag-ble-innlagt-pa-sykehus-etter-hjerneslag-1.17993936",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 18 Aug 2026 18:23:17 GMT"
     }
   ]
 }
