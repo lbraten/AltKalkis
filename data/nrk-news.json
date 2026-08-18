@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-18T17:56:11.678Z",
+  "updatedAt": "2026-08-18T18:42:42.333Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ap-politiker Tuva Moflag ble innlagt på sykehus etter hjerneslag",
+      "link": "https://www.nrk.no/nyheter/ap-politiker-tuva-moflag-ble-innlagt-pa-sykehus-etter-hjerneslag-1.17993936",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 18 Aug 2026 18:23:17 GMT"
+    },
+    {
+      "title": "Liberia vil ta imot 1200 personer som skal deporteres fra USA",
+      "link": "https://www.nrk.no/nyheter/liberia-vil-ta-imot-1200-personer-som-skal-deporteres-fra-usa-1.17993934",
+      "category": "USA",
+      "pubDate": "Tue, 18 Aug 2026 18:19:50 GMT"
+    },
+    {
+      "title": "Ukrainsk kraftverk ute av drift etter russisk angrep",
+      "link": "https://www.nrk.no/nyheter/ukrainsk-kraftverk-ute-av-drift-etter-russisk-angrep-1.17993927",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 18 Aug 2026 18:13:22 GMT"
+    },
+    {
+      "title": "Ine Eriksen Søreide bekrefter forhold med leder i forsvarsindustrien",
+      "link": "https://www.nrk.no/nyheter/ine-eriksen-soreide-bekrefter-forhold-med-leder-i-forsvarsindustrien-1.17993911",
+      "category": "Partiet Høyre",
+      "pubDate": "Tue, 18 Aug 2026 18:07:31 GMT"
+    },
+    {
+      "title": "USA innfører nye ICC-sanksjoner",
+      "link": "https://www.nrk.no/nyheter/usa-innforer-nye-icc-sanksjoner-1.17993848",
+      "category": "ICC-domstolen i Haag",
+      "pubDate": "Tue, 18 Aug 2026 17:56:02 GMT"
+    },
     {
       "title": "Tiltalt for voldtekt av fire år gammel niese",
       "link": "https://www.nrk.no/tromsogfinnmark/tiltalt-for-voldtekt-av-fire-ar-gammel-niese-1.17993493",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Tue, 18 Aug 2026 17:38:45 GMT"
-    },
-    {
-      "title": "Stadig flere arbeidsgivere vil ha ansatte tilbake på kontoret",
-      "link": "https://www.nrk.no/nyheter/stadig-flere-arbeidsgivere-vil-ha-ansatte-tilbake-pa-kontoret-1.17993491",
-      "category": "Hjemmekontor",
-      "pubDate": "Tue, 18 Aug 2026 17:36:49 GMT"
-    },
-    {
-      "title": "Dommer lar USA kaste ut etiopiere",
-      "link": "https://www.nrk.no/nyheter/dommer-lar-usa-kaste-ut-etiopiere-1.17993856",
-      "category": "USA",
-      "pubDate": "Tue, 18 Aug 2026 17:09:51 GMT"
-    },
-    {
-      "title": "Bil kolliderte med trikk i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/bil-kolliderte-med-trikk-i-oslo-1.17993809",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 18 Aug 2026 17:03:57 GMT"
-    },
-    {
-      "title": "Flere drept i angrep mot Gaza by",
-      "link": "https://www.nrk.no/nyheter/flere-drept-i-angrep-mot-gaza-by-1.17993705",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 18 Aug 2026 16:45:09 GMT"
-    },
-    {
-      "title": "En person skadd etter eksplosjon i Lillesand",
-      "link": "https://www.nrk.no/nyheter/en-person-skadd-etter-eksplosjon-i-lillesand-1.17993683",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 18 Aug 2026 14:11:03 GMT"
     }
   ]
 }
