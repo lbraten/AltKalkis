@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-18T12:49:05.977Z",
+  "updatedAt": "2026-08-18T13:42:49.892Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump: Pågår ingen samtaler med Iran",
+      "link": "https://www.nrk.no/nyheter/trump_-pagar-ingen-samtaler-med-iran-1.17993528",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 18 Aug 2026 13:31:45 GMT"
+    },
     {
       "title": "VG: PST henlegger anmeldelse av trusler mot AUF-leder Gaute Skjervø",
       "link": "https://www.nrk.no/nyheter/vg_-pst-henlegger-anmeldelse-av-trusler-mot-auf-leder-gaute-skjervo-1.17993515",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-24-drept-i-voldeligheter-i-nigeria-1.17993234",
       "category": "Nigeria",
       "pubDate": "Tue, 18 Aug 2026 10:32:49 GMT"
-    },
-    {
-      "title": "Ut mot Støre: – Ap-arroganse på sitt verste",
-      "link": "https://www.nrk.no/nyheter/ut-mot-store_-_-ap-arroganse-pa-sitt-verste-1.17993283",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 18 Aug 2026 10:15:40 GMT"
     }
   ]
 }
