@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-18T04:36:25.217Z",
+  "updatedAt": "2026-08-18T05:30:30.369Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Jordskjelv utenfor Mexico",
+      "link": "https://www.nrk.no/nyheter/jordskjelv-utenfor-mexico-1.17992898",
+      "category": "Mexico",
+      "pubDate": "Tue, 18 Aug 2026 05:24:32 GMT"
+    },
+    {
+      "title": "Samferdselsministeren kaller inn til hastemøte om togforsinkelser",
+      "link": "https://www.nrk.no/nyheter/samferdselsministeren-kaller-inn-til-hastemote-om-togforsinkelser-1.17992894",
+      "category": "Togproblemer og forsinkelser",
+      "pubDate": "Tue, 18 Aug 2026 05:03:06 GMT"
+    },
     {
       "title": "Streik avverget for TV-bransjen",
       "link": "https://www.nrk.no/nyheter/streik-avverget-for-tv-bransjen-1.17992869",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fartoy-truffet-av-prosjektil-pa-vei-ut-av-hormuzstredet-1.17992861",
       "category": "Krigen i Midtøsten",
       "pubDate": "Tue, 18 Aug 2026 03:25:53 GMT"
-    },
-    {
-      "title": "Skoleskyting på Filippinene",
-      "link": "https://www.nrk.no/nyheter/skoleskyting-pa-filippinene-1.17992836",
-      "category": "Filippinene",
-      "pubDate": "Tue, 18 Aug 2026 03:17:27 GMT"
-    },
-    {
-      "title": "Moskva truer Storbritannia etter at Ukraina brukte britiske droner",
-      "link": "https://www.nrk.no/nyheter/moskva-truer-storbritannia-etter-at-ukraina-brukte-britiske-droner-1.17992832",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 18 Aug 2026 03:02:46 GMT"
     }
   ]
 }
