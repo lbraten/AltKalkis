@@ -1,12 +1,18 @@
 {
-  "updatedAt": "2026-08-18T08:38:29.477Z",
+  "updatedAt": "2026-08-18T09:34:28.469Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Kanye West opptrer i Russland",
-      "link": "https://www.nrk.no/nyheter/kanye-west-opptrer-i-russland-1.17993059",
-      "category": "Musikk",
-      "pubDate": "Tue, 18 Aug 2026 08:25:24 GMT"
+      "title": "Vernepliktige dansker utsendt til Grønland for første gang",
+      "link": "https://www.nrk.no/nyheter/vernepliktige-dansker-utsendt-til-gronland-for-forste-gang-1.17993217",
+      "category": "Grønland",
+      "pubDate": "Tue, 18 Aug 2026 09:32:52 GMT"
+    },
+    {
+      "title": "WHO holder krisemøte om ebola-utbruddet",
+      "link": "https://www.nrk.no/nyheter/who-holder-krisemote-om-ebola-utbruddet-1.17993120",
+      "category": "Ebola",
+      "pubDate": "Tue, 18 Aug 2026 09:02:24 GMT"
     },
     {
       "title": "Frihetsberøvelse Lindeberg: Ytterligere en person pågrepet",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-har-hatt-kontakt-med-nord-koreas-leder-1.17992980",
       "category": "Donald Trump",
       "pubDate": "Tue, 18 Aug 2026 06:56:37 GMT"
-    },
-    {
-      "title": "Oslo-folk dårligst i landet på oppkjøring",
-      "link": "https://www.nrk.no/stor-oslo/oslo-folk-darligst-i-landet-pa-oppkjoring-1.17992882",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 18 Aug 2026 06:48:17 GMT"
     }
   ]
 }
