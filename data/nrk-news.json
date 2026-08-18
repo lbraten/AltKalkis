@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-18T10:57:57.000Z",
+  "updatedAt": "2026-08-18T11:32:35.939Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA ber Israel avstå fra unødig eskalering i Syria",
+      "link": "https://www.nrk.no/nyheter/usa-ber-israel-avsta-fra-unodig-eskalering-i-syria-1.17993327",
+      "category": "Syria",
+      "pubDate": "Tue, 18 Aug 2026 11:23:47 GMT"
+    },
     {
       "title": "Minst 24 drept i voldeligheter i Nigeria",
       "link": "https://www.nrk.no/nyheter/minst-24-drept-i-voldeligheter-i-nigeria-1.17993234",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/who-holder-krisemote-om-ebola-utbruddet-1.17993120",
       "category": "Ebola",
       "pubDate": "Tue, 18 Aug 2026 09:02:24 GMT"
-    },
-    {
-      "title": "Frihetsberøvelse Lindeberg: Ytterligere en person pågrepet",
-      "link": "https://www.nrk.no/stor-oslo/frihetsberovelse-lindeberg_-ytterligere-en-person-pagrepet--1.17993096",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 18 Aug 2026 08:11:58 GMT"
     }
   ]
 }
