@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-08-18T20:50:31.488Z",
+  "updatedAt": "2026-08-18T21:25:41.551Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ukrainas avsatte forsvarsminister ber om valg i krigstid",
-      "link": "https://www.nrk.no/nyheter/ukrainas-avsatte-forsvarsminister-ber-om-valg-i-krigstid-1.17993995",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 18 Aug 2026 20:28:36 GMT"
+      "title": "Emiratene stanser handel med Iran",
+      "link": "https://www.nrk.no/nyheter/emiratene-stanser-handel-med-iran-1.17994005",
+      "category": "Iran",
+      "pubDate": "Tue, 18 Aug 2026 21:14:52 GMT"
+    },
+    {
+      "title": "Liberia vil ta imot opptil 1200 utviste personer fra USA",
+      "link": "https://www.nrk.no/nyheter/liberia-vil-ta-imot-opptil-1200-utviste-personer-fra-usa-1.17993996",
+      "category": "Liberia",
+      "pubDate": "Tue, 18 Aug 2026 20:50:55 GMT"
+    },
+    {
+      "title": "Fellingstillatelse gitt for bjørn i Lierne",
+      "link": "https://www.nrk.no/trondelag/fellingstillatelse-gitt-for-bjorn-i-lierne-1.17993830",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Tue, 18 Aug 2026 19:34:01 GMT"
     },
     {
       "title": "ZZ Top-trommis Frank Beard er død",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/liberia-vil-ta-imot-1200-personer-som-skal-deporteres-fra-usa-1.17993934",
       "category": "USA",
       "pubDate": "Tue, 18 Aug 2026 18:19:50 GMT"
-    },
-    {
-      "title": "Ukrainsk kraftverk ute av drift etter russisk angrep",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-kraftverk-ute-av-drift-etter-russisk-angrep-1.17993927",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 18 Aug 2026 18:13:22 GMT"
-    },
-    {
-      "title": "Ine Eriksen Søreide bekrefter forhold med leder i forsvarsindustrien",
-      "link": "https://www.nrk.no/nyheter/ine-eriksen-soreide-bekrefter-forhold-med-leder-i-forsvarsindustrien-1.17993911",
-      "category": "Partiet Høyre",
-      "pubDate": "Tue, 18 Aug 2026 18:07:31 GMT"
     }
   ]
 }
