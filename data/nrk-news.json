@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-18T23:22:56.923Z",
+  "updatedAt": "2026-08-18T23:47:23.622Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Jemen: Tre sivile drept i Houthi-angrep",
+      "link": "https://www.nrk.no/nyheter/jemen_-tre-sivile-drept-i-houthi-angrep-1.17994015",
+      "category": "Jemen",
+      "pubDate": "Tue, 18 Aug 2026 23:33:08 GMT"
+    },
     {
       "title": "Israel bekrefter angrep mot militærbase i Syria",
       "link": "https://www.nrk.no/nyheter/israel-bekrefter-angrep-mot-militaerbase-i-syria-1.17994014",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/trondelag/fellingstillatelse-gitt-for-bjorn-i-lierne-1.17993830",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Tue, 18 Aug 2026 19:34:01 GMT"
-    },
-    {
-      "title": "ZZ Top-trommis Frank Beard er død",
-      "link": "https://www.nrk.no/nyheter/zz-top-trommis-frank-beard-er-dod-1.17993939",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 18 Aug 2026 19:03:00 GMT"
     }
   ]
 }
