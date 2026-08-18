@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-18T09:34:28.469Z",
+  "updatedAt": "2026-08-18T10:29:39.742Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ut mot Støre: – Ap-arroganse på sitt verste",
+      "link": "https://www.nrk.no/nyheter/ut-mot-store_-_-ap-arroganse-pa-sitt-verste-1.17993283",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 18 Aug 2026 10:15:40 GMT"
+    },
+    {
+      "title": "Lik funnet i Glomma",
+      "link": "https://www.nrk.no/ostfold/lik-funnet-i-glomma-1.17992918",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Tue, 18 Aug 2026 09:46:38 GMT"
+    },
     {
       "title": "Vernepliktige dansker utsendt til Grønland for første gang",
       "link": "https://www.nrk.no/nyheter/vernepliktige-dansker-utsendt-til-gronland-for-forste-gang-1.17993217",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hevder-a-ha-angrepet-saudisk-raffineri-1.17993051",
       "category": "Jemen",
       "pubDate": "Tue, 18 Aug 2026 07:40:45 GMT"
-    },
-    {
-      "title": "Imran Khan må overføres til fengsel",
-      "link": "https://www.nrk.no/nyheter/imran-khan-ma-overfores-til-fengsel-1.17992975",
-      "category": "Pakistan",
-      "pubDate": "Tue, 18 Aug 2026 07:36:49 GMT"
-    },
-    {
-      "title": "Trump har hatt kontakt med Nord-Koreas leder",
-      "link": "https://www.nrk.no/nyheter/trump-har-hatt-kontakt-med-nord-koreas-leder-1.17992980",
-      "category": "Donald Trump",
-      "pubDate": "Tue, 18 Aug 2026 06:56:37 GMT"
     }
   ]
 }
