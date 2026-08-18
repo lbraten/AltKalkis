@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-18T17:27:53.329Z",
+  "updatedAt": "2026-08-18T17:56:11.678Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tiltalt for voldtekt av fire år gammel niese",
+      "link": "https://www.nrk.no/tromsogfinnmark/tiltalt-for-voldtekt-av-fire-ar-gammel-niese-1.17993493",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 18 Aug 2026 17:38:45 GMT"
+    },
+    {
+      "title": "Stadig flere arbeidsgivere vil ha ansatte tilbake på kontoret",
+      "link": "https://www.nrk.no/nyheter/stadig-flere-arbeidsgivere-vil-ha-ansatte-tilbake-pa-kontoret-1.17993491",
+      "category": "Hjemmekontor",
+      "pubDate": "Tue, 18 Aug 2026 17:36:49 GMT"
+    },
     {
       "title": "Dommer lar USA kaste ut etiopiere",
       "link": "https://www.nrk.no/nyheter/dommer-lar-usa-kaste-ut-etiopiere-1.17993856",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-person-skadd-etter-eksplosjon-i-lillesand-1.17993683",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 18 Aug 2026 14:11:03 GMT"
-    },
-    {
-      "title": "Norce felt i Diskrimineringsnemnda",
-      "link": "https://www.nrk.no/vestland/norce-felt-i-diskrimineringsnemnda-1.17993693",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 18 Aug 2026 14:05:05 GMT"
-    },
-    {
-      "title": "Eivind Trædal vil ha førsteplassen på MDGs liste i Oslo",
-      "link": "https://www.nrk.no/nyheter/eivind-traedal-vil-ha-forsteplassen-pa-mdgs-liste-i-oslo-1.17993640",
-      "category": "Miljøpartiet De Grønne",
-      "pubDate": "Tue, 18 Aug 2026 13:54:23 GMT"
     }
   ]
 }
