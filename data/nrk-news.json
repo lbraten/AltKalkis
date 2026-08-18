@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-17T23:47:27.446Z",
+  "updatedAt": "2026-08-18T01:17:50.066Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Colombia-jordskjelvets skader anslås til 90 milliarder kroner",
+      "link": "https://www.nrk.no/nyheter/colombia-jordskjelvets-skader-anslas-til-90-milliarder-kroner-1.17992826",
+      "category": "Colombia",
+      "pubDate": "Tue, 18 Aug 2026 00:47:14 GMT"
+    },
+    {
+      "title": "Zambias president gjenvalgt",
+      "link": "https://www.nrk.no/nyheter/zambias-president-gjenvalgt-1.17992824",
+      "category": "Zambia",
+      "pubDate": "Tue, 18 Aug 2026 00:46:33 GMT"
+    },
     {
       "title": "Ingen streik i mølleindustrien",
       "link": "https://www.nrk.no/nyheter/ingen-streik-i-molleindustrien-1.17992823",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/drapssaken-mot-luigi-mangione-utsettes-1.17992819",
       "category": "USA",
       "pubDate": "Mon, 17 Aug 2026 21:35:36 GMT"
-    },
-    {
-      "title": "To biler brenner i Oslo",
-      "link": "https://www.nrk.no/nyheter/to-biler-brenner-i-oslo-1.17992813",
-      "category": "Bilbranner i Stor-Oslo",
-      "pubDate": "Mon, 17 Aug 2026 21:32:57 GMT"
-    },
-    {
-      "title": "En kvinne skadet i trafikkulykke i Holmestrand",
-      "link": "https://www.nrk.no/nyheter/en-kvinne-skadet-i-trafikkulykke-i-holmestrand-1.17992797",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 17 Aug 2026 21:08:13 GMT"
     }
   ]
 }
