@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-18T03:45:09.404Z",
+  "updatedAt": "2026-08-18T04:36:25.217Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Streik avverget for TV-bransjen",
+      "link": "https://www.nrk.no/nyheter/streik-avverget-for-tv-bransjen-1.17992869",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 18 Aug 2026 03:48:27 GMT"
+    },
+    {
+      "title": "Etterforsker alvorlig voldshendelse i Tromsø",
+      "link": "https://www.nrk.no/tromsogfinnmark/etterforsker-alvorlig-voldshendelse-i-tromso-1.17992874",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 18 Aug 2026 03:46:58 GMT"
+    },
     {
       "title": "Nytt Wildberries-lager i Moskva truffet i droneangrep",
       "link": "https://www.nrk.no/nyheter/nytt-wildberries-lager-i-moskva-truffet-i-droneangrep-1.17992868",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/moskva-truer-storbritannia-etter-at-ukraina-brukte-britiske-droner-1.17992832",
       "category": "Krigen i Ukraina",
       "pubDate": "Tue, 18 Aug 2026 03:02:46 GMT"
-    },
-    {
-      "title": "Utenlandsk turist truffet av lyn på italiensk vulkan - døde",
-      "link": "https://www.nrk.no/nyheter/utenlandsk-turist-truffet-av-lyn-pa-italiensk-vulkan---dode-1.17992831",
-      "category": "Italia",
-      "pubDate": "Tue, 18 Aug 2026 02:37:25 GMT"
-    },
-    {
-      "title": "Russland skal ha skutt ned 180 droner rundt Moskva",
-      "link": "https://www.nrk.no/nyheter/russland-skal-ha-skutt-ned-180-droner-rundt-moskva-1.17992829",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 18 Aug 2026 02:36:13 GMT"
     }
   ]
 }
