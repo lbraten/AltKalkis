@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-18T11:32:35.939Z",
+  "updatedAt": "2026-08-18T12:49:05.977Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "VG: PST henlegger anmeldelse av trusler mot AUF-leder Gaute Skjervø",
+      "link": "https://www.nrk.no/nyheter/vg_-pst-henlegger-anmeldelse-av-trusler-mot-auf-leder-gaute-skjervo-1.17993515",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 18 Aug 2026 12:33:49 GMT"
+    },
+    {
+      "title": "EU ber mindreårige reise fra Ceuta",
+      "link": "https://www.nrk.no/nyheter/eu-ber-mindrearige-reise-fra-ceuta-1.17993494",
+      "category": "Spania",
+      "pubDate": "Tue, 18 Aug 2026 12:22:37 GMT"
+    },
+    {
+      "title": "Kronprinsparet besøker kong Harald på Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/kronprinsparet-besoker-kong-harald-pa-rikshospitalet-1.17993490",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 18 Aug 2026 12:10:21 GMT"
+    },
     {
       "title": "USA ber Israel avstå fra unødig eskalering i Syria",
       "link": "https://www.nrk.no/nyheter/usa-ber-israel-avsta-fra-unodig-eskalering-i-syria-1.17993327",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ut-mot-store_-_-ap-arroganse-pa-sitt-verste-1.17993283",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 18 Aug 2026 10:15:40 GMT"
-    },
-    {
-      "title": "Lik funnet i Glomma",
-      "link": "https://www.nrk.no/ostfold/lik-funnet-i-glomma-1.17992918",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Tue, 18 Aug 2026 09:46:38 GMT"
-    },
-    {
-      "title": "Vernepliktige dansker utsendt til Grønland for første gang",
-      "link": "https://www.nrk.no/nyheter/vernepliktige-dansker-utsendt-til-gronland-for-forste-gang-1.17993217",
-      "category": "Grønland",
-      "pubDate": "Tue, 18 Aug 2026 09:32:52 GMT"
-    },
-    {
-      "title": "WHO holder krisemøte om ebola-utbruddet",
-      "link": "https://www.nrk.no/nyheter/who-holder-krisemote-om-ebola-utbruddet-1.17993120",
-      "category": "Ebola",
-      "pubDate": "Tue, 18 Aug 2026 09:02:24 GMT"
     }
   ]
 }
