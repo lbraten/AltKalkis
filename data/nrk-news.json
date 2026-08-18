@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-18T13:42:49.892Z",
+  "updatedAt": "2026-08-18T14:34:31.219Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En person skadd etter eksplosjon i Lillesand",
+      "link": "https://www.nrk.no/nyheter/en-person-skadd-etter-eksplosjon-i-lillesand-1.17993683",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 18 Aug 2026 14:11:03 GMT"
+    },
+    {
+      "title": "Norce felt i Diskrimineringsnemnda",
+      "link": "https://www.nrk.no/vestland/norce-felt-i-diskrimineringsnemnda-1.17993693",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 18 Aug 2026 14:05:05 GMT"
+    },
+    {
+      "title": "Eivind Trædal vil ha førsteplassen på MDGs liste i Oslo",
+      "link": "https://www.nrk.no/nyheter/eivind-traedal-vil-ha-forsteplassen-pa-mdgs-liste-i-oslo-1.17993640",
+      "category": "Miljøpartiet De Grønne",
+      "pubDate": "Tue, 18 Aug 2026 13:54:23 GMT"
+    },
     {
       "title": "Trump: Pågår ingen samtaler med Iran",
       "link": "https://www.nrk.no/nyheter/trump_-pagar-ingen-samtaler-med-iran-1.17993528",
@@ -11,7 +29,7 @@
     {
       "title": "VG: PST henlegger anmeldelse av trusler mot AUF-leder Gaute Skjervø",
       "link": "https://www.nrk.no/nyheter/vg_-pst-henlegger-anmeldelse-av-trusler-mot-auf-leder-gaute-skjervo-1.17993515",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Trøndelag",
       "pubDate": "Tue, 18 Aug 2026 12:33:49 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-ber-mindrearige-reise-fra-ceuta-1.17993494",
       "category": "Spania",
       "pubDate": "Tue, 18 Aug 2026 12:22:37 GMT"
-    },
-    {
-      "title": "Kronprinsparet besøker kong Harald på Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/kronprinsparet-besoker-kong-harald-pa-rikshospitalet-1.17993490",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 18 Aug 2026 12:10:21 GMT"
-    },
-    {
-      "title": "USA ber Israel avstå fra unødig eskalering i Syria",
-      "link": "https://www.nrk.no/nyheter/usa-ber-israel-avsta-fra-unodig-eskalering-i-syria-1.17993327",
-      "category": "Syria",
-      "pubDate": "Tue, 18 Aug 2026 11:23:47 GMT"
-    },
-    {
-      "title": "Minst 24 drept i voldeligheter i Nigeria",
-      "link": "https://www.nrk.no/nyheter/minst-24-drept-i-voldeligheter-i-nigeria-1.17993234",
-      "category": "Nigeria",
-      "pubDate": "Tue, 18 Aug 2026 10:32:49 GMT"
     }
   ]
 }
