@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-18T20:25:10.952Z",
+  "updatedAt": "2026-08-18T20:50:31.488Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukrainas avsatte forsvarsminister ber om valg i krigstid",
+      "link": "https://www.nrk.no/nyheter/ukrainas-avsatte-forsvarsminister-ber-om-valg-i-krigstid-1.17993995",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 18 Aug 2026 20:28:36 GMT"
+    },
     {
       "title": "ZZ Top-trommis Frank Beard er død",
       "link": "https://www.nrk.no/nyheter/zz-top-trommis-frank-beard-er-dod-1.17993939",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ine-eriksen-soreide-bekrefter-forhold-med-leder-i-forsvarsindustrien-1.17993911",
       "category": "Partiet Høyre",
       "pubDate": "Tue, 18 Aug 2026 18:07:31 GMT"
-    },
-    {
-      "title": "USA innfører nye ICC-sanksjoner",
-      "link": "https://www.nrk.no/nyheter/usa-innforer-nye-icc-sanksjoner-1.17993848",
-      "category": "ICC-domstolen i Haag",
-      "pubDate": "Tue, 18 Aug 2026 17:56:02 GMT"
     }
   ]
 }
