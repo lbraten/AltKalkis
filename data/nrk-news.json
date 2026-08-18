@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-18T06:44:31.545Z",
+  "updatedAt": "2026-08-18T07:38:28.895Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Imran Khan må overføres til fengsel",
+      "link": "https://www.nrk.no/nyheter/imran-khan-ma-overfores-til-fengsel-1.17992975",
+      "category": "Pakistan",
+      "pubDate": "Tue, 18 Aug 2026 07:36:49 GMT"
+    },
+    {
+      "title": "Trump har hatt kontakt med Nord-Koreas leder",
+      "link": "https://www.nrk.no/nyheter/trump-har-hatt-kontakt-med-nord-koreas-leder-1.17992980",
+      "category": "Donald Trump",
+      "pubDate": "Tue, 18 Aug 2026 06:56:37 GMT"
+    },
+    {
+      "title": "Oslo-folk dårligst i landet på oppkjøring",
+      "link": "https://www.nrk.no/stor-oslo/oslo-folk-darligst-i-landet-pa-oppkjoring-1.17992882",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 18 Aug 2026 06:48:17 GMT"
+    },
     {
       "title": "10 drept i Kharkiv etter russisk angrep",
       "link": "https://www.nrk.no/nyheter/10-drept-i-kharkiv-etter-russisk-angrep-1.17992971",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/person-dod-i-tromso_-etterforskes-som-drap-1.17992949",
       "category": "high",
       "pubDate": "Tue, 18 Aug 2026 06:19:46 GMT"
-    },
-    {
-      "title": "Jordskjelv utenfor Sumatra i Indonesia",
-      "link": "https://www.nrk.no/nyheter/jordskjelv-utenfor-sumatra-i-indonesia-1.17992943",
-      "category": "Indonesia",
-      "pubDate": "Tue, 18 Aug 2026 06:15:06 GMT"
-    },
-    {
-      "title": "Folketrygdfondet tjente 31 milliarder kroner i første halvår",
-      "link": "https://www.nrk.no/nyheter/folketrygdfondet-tjente-31-milliarder-kroner-i-forste-halvar-1.17992936",
-      "category": "Folketrygdfondet",
-      "pubDate": "Tue, 18 Aug 2026 06:05:39 GMT"
-    },
-    {
-      "title": "Tollerne tar mer narkotika",
-      "link": "https://www.nrk.no/nyheter/tollerne-tar-mer-narkotika-1.17992911",
-      "category": "Tollbeslag",
-      "pubDate": "Tue, 18 Aug 2026 06:01:04 GMT"
     }
   ]
 }
