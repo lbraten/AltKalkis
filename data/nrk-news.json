@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-19T10:57:21.783Z",
+  "updatedAt": "2026-08-19T11:32:11.405Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israel åpner etterforskning av drapet på palestinsk jente",
+      "link": "https://www.nrk.no/nyheter/israel-apner-etterforskning-av-drapet-pa-palestinsk-jente--1.17994704",
+      "category": "Israel",
+      "pubDate": "Wed, 19 Aug 2026 11:12:52 GMT"
+    },
+    {
+      "title": "Israel nekter skyld for drap på hjelpearbeidere",
+      "link": "https://www.nrk.no/nyheter/israel-nekter-skyld-for-drap-pa-hjelpearbeidere--1.17994688",
+      "category": "Israel",
+      "pubDate": "Wed, 19 Aug 2026 11:06:18 GMT"
+    },
+    {
+      "title": "Bane Nor beklager",
+      "link": "https://www.nrk.no/nyheter/bane-nor-beklager--1.17994648",
+      "category": "Tog og jernbane",
+      "pubDate": "Wed, 19 Aug 2026 10:59:47 GMT"
+    },
     {
       "title": "Mann omkom etter eksplosjon",
       "link": "https://www.nrk.no/sorlandet/mann-omkom-etter-eksplosjon-1.17994644",
@@ -9,8 +27,8 @@
       "pubDate": "Wed, 19 Aug 2026 10:45:56 GMT"
     },
     {
-      "title": "Ny forsvarsminister i Ukraina",
-      "link": "https://www.nrk.no/nyheter/ny-forsvarsminister-i-ukraina--1.17994519",
+      "title": "Ny forsvarsminister godkjent i Ukraina",
+      "link": "https://www.nrk.no/nyheter/ny-forsvarsminister-godkjent-i-ukraina--1.17994519",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 19 Aug 2026 10:45:36 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/innlandet/dodsbrannen-i-hamar-henlagt-1.17994581",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Wed, 19 Aug 2026 10:32:06 GMT"
-    },
-    {
-      "title": "Over 20 omkomne i bussulykke i Brasil",
-      "link": "https://www.nrk.no/nyheter/over-20-omkomne-i-bussulykke-i-brasil-1.17994139",
-      "category": "Brasil",
-      "pubDate": "Wed, 19 Aug 2026 10:25:33 GMT"
-    },
-    {
-      "title": "Lunheimdrapet: Mann drept med øks",
-      "link": "https://www.nrk.no/tromsogfinnmark/lunheimdrapet_-mann-drept-med-oks-1.17994319",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 19 Aug 2026 10:23:26 GMT"
-    },
-    {
-      "title": "Tiltalt for uaktsomt drap etter skuterulykke",
-      "link": "https://www.nrk.no/tromsogfinnmark/tiltalt-for-uaktsomt-drap-etter-skuterulykke-1.17994310",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 19 Aug 2026 09:58:43 GMT"
     }
   ]
 }
