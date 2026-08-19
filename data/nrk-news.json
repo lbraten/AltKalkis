@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-19T01:19:31.582Z",
+  "updatedAt": "2026-08-19T02:39:04.890Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "AFP: Trump setter toll mot Canada på pause",
+      "link": "https://www.nrk.no/nyheter/afp_-trump-setter-toll-mot-canada-pa-pause-1.17994023",
+      "category": "USA",
+      "pubDate": "Wed, 19 Aug 2026 02:32:19 GMT"
+    },
+    {
+      "title": "Stort nettangrep i Latvia",
+      "link": "https://www.nrk.no/nyheter/stort-nettangrep-i-latvia-1.17994024",
+      "category": "Latvia",
+      "pubDate": "Wed, 19 Aug 2026 01:42:20 GMT"
+    },
     {
       "title": "Trump vil møte Kim Jong-un i høst",
       "link": "https://www.nrk.no/nyheter/trump-vil-mote-kim-jong-un-i-host-1.17994022",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/jemen_-tre-sivile-drept-i-houthi-angrep-1.17994015",
       "category": "Jemen",
       "pubDate": "Tue, 18 Aug 2026 23:33:08 GMT"
-    },
-    {
-      "title": "Israel bekrefter angrep mot militærbase i Syria",
-      "link": "https://www.nrk.no/nyheter/israel-bekrefter-angrep-mot-militaerbase-i-syria-1.17994014",
-      "category": "Israel og Syria",
-      "pubDate": "Tue, 18 Aug 2026 22:32:50 GMT"
-    },
-    {
-      "title": "Carney og Trump har snakket sammen igjen",
-      "link": "https://www.nrk.no/nyheter/carney-og-trump-har-snakket-sammen-igjen-1.17994012",
-      "category": "USA",
-      "pubDate": "Tue, 18 Aug 2026 21:39:00 GMT"
     }
   ]
 }
