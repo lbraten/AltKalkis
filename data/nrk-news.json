@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-19T20:56:29.199Z",
+  "updatedAt": "2026-08-19T21:29:45.361Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EMSC: Jordskjelv på 4,5 i Nord-Norge",
+      "link": "https://www.nrk.no/nyheter/emsc_-jordskjelv-pa-4_5-i-nord-norge-1.17995262",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 19 Aug 2026 21:15:29 GMT"
+    },
+    {
+      "title": "USAs statsgjeld bikket 40.000 milliarder dollar",
+      "link": "https://www.nrk.no/nyheter/usas-statsgjeld-bikket-40.000-milliarder-dollar-1.17995252",
+      "category": "USA",
+      "pubDate": "Wed, 19 Aug 2026 21:11:22 GMT"
+    },
     {
       "title": "Fører ble tatt med bilskilter fra Temu",
       "link": "https://www.nrk.no/stor-oslo/forer-ble-tatt-med-bilskilter-fra-temu-1.17995240",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ny-skogbrann-i-spania-1.17995077",
       "category": "Spania",
       "pubDate": "Wed, 19 Aug 2026 17:37:51 GMT"
-    },
-    {
-      "title": "Sveitsiske innsjøer rammet av tørken",
-      "link": "https://www.nrk.no/nyheter/sveitsiske-innsjoer-rammet-av-torken-1.17995119",
-      "category": "Klima og miljø",
-      "pubDate": "Wed, 19 Aug 2026 17:28:12 GMT"
-    },
-    {
-      "title": "Rekordmange dager med hetebølge i Frankrike",
-      "link": "https://www.nrk.no/nyheter/rekordmange-dager-med-hetebolge-i-frankrike-1.17994974",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Wed, 19 Aug 2026 16:32:40 GMT"
     }
   ]
 }
