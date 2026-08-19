@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-19T19:50:38.565Z",
+  "updatedAt": "2026-08-19T20:29:04.631Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Mann varetektsfengsles i to uker etter drap i Tromsø",
-      "link": "https://www.nrk.no/nyheter/mann-varetektsfengsles-i-to-uker-etter-drap-i-tromso-1.17995199",
+      "title": "Fører ble tatt med bilskilter fra Temu",
+      "link": "https://www.nrk.no/stor-oslo/forer-ble-tatt-med-bilskilter-fra-temu-1.17995240",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 19 Aug 2026 20:11:31 GMT"
+    },
+    {
+      "title": "Drapssiktet varetektsfengsles i to uker",
+      "link": "https://www.nrk.no/nyheter/drapssiktet-varetektsfengsles-i-to-uker-1.17995199",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 19 Aug 2026 19:37:54 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rekordmange-dager-med-hetebolge-i-frankrike-1.17994974",
       "category": "Hetebølge og varmerekorder",
       "pubDate": "Wed, 19 Aug 2026 16:32:40 GMT"
-    },
-    {
-      "title": "Libanon: 4348 drept i israelske angrep siden mars",
-      "link": "https://www.nrk.no/nyheter/libanon_-4348-drept-i-israelske-angrep-siden-mars-1.17995054",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 19 Aug 2026 15:30:24 GMT"
     }
   ]
 }
