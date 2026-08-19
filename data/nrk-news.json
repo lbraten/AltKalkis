@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-19T07:38:47.301Z",
+  "updatedAt": "2026-08-19T08:38:32.758Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lege på Haugalandet tiltalt for grovt bedrageri",
+      "link": "https://www.nrk.no/rogaland/lege-pa-haugalandet-tiltalt-for-grovt-bedrageri--1.17994332",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 19 Aug 2026 08:24:31 GMT"
+    },
     {
       "title": "Politiet på plass på Svartlamoen: – Vi ønsker minst mulig bruk av makt",
       "link": "https://www.nrk.no/trondelag/politiet-pa-plass-pa-svartlamoen_-__vi-onsker-minst-mulig-bruk-av-makt--1.17994225",
@@ -9,8 +15,8 @@
       "pubDate": "Wed, 19 Aug 2026 07:25:53 GMT"
     },
     {
-      "title": "Brann i einebustad i Stavanger",
-      "link": "https://www.nrk.no/rogaland/brann-i-einebustad-i-stavanger-1.17994210",
+      "title": "Forbipasserande redda bebuarar ut av brennande hus",
+      "link": "https://www.nrk.no/rogaland/forbipasserande-redda-bebuarar-ut-av-brennande-hus-1.17994210",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Wed, 19 Aug 2026 07:19:55 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skogbrann-i-belgia-delvis-under-kontroll-1.17994168",
       "category": "Belgia",
       "pubDate": "Wed, 19 Aug 2026 07:02:30 GMT"
-    },
-    {
-      "title": "Flere drept i russisk droneangrep",
-      "link": "https://www.nrk.no/nyheter/flere-drept-i-russisk-droneangrep-1.17994164",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 19 Aug 2026 06:43:02 GMT"
     }
   ]
 }
