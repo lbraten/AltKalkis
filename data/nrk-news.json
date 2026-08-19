@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-19T09:35:05.072Z",
+  "updatedAt": "2026-08-19T10:29:51.577Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Over 20 omkomne i bussulykke i Brasil",
+      "link": "https://www.nrk.no/nyheter/over-20-omkomne-i-bussulykke-i-brasil-1.17994139",
+      "category": "Brasil",
+      "pubDate": "Wed, 19 Aug 2026 10:25:33 GMT"
+    },
+    {
+      "title": "Lunheimdrapet: Mann drept med øks",
+      "link": "https://www.nrk.no/tromsogfinnmark/lunheimdrapet_-mann-drept-med-oks-1.17994319",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Wed, 19 Aug 2026 10:23:26 GMT"
+    },
+    {
+      "title": "Tiltalt for uaktsomt drap etter skuterulykke",
+      "link": "https://www.nrk.no/tromsogfinnmark/tiltalt-for-uaktsomt-drap-etter-skuterulykke-1.17994310",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Wed, 19 Aug 2026 09:58:43 GMT"
+    },
+    {
+      "title": "Bjørnen i Saltdal er skutt",
+      "link": "https://www.nrk.no/nordland/-bjornen-i-saltdal-er-skutt-1.17994379",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 19 Aug 2026 09:42:03 GMT"
+    },
+    {
+      "title": "Helikopter som antas å ha fraktet turister styrtet i Kenya – ingen overlevende",
+      "link": "https://www.nrk.no/nyheter/helikopter-som-antas-a-ha-fraktet-turister-styrtet-i-kenya-_-ingen-overlevende-1.17994442",
+      "category": "Kenya",
+      "pubDate": "Wed, 19 Aug 2026 09:39:36 GMT"
+    },
     {
       "title": "Person pågrepet for Nord Stream-eksplosjon",
       "link": "https://www.nrk.no/nyheter/person-pagrepet-for-nord-stream-eksplosjon-1.17994499",
       "category": "Gassrørledningen Nord Stream",
       "pubDate": "Wed, 19 Aug 2026 09:25:34 GMT"
-    },
-    {
-      "title": "Tre norske filmar kortlista til Oscar",
-      "link": "https://www.nrk.no/nyheter/tre-norske-filmar-kortlista-til-oscar-1.17994470",
-      "category": "Film og serier",
-      "pubDate": "Wed, 19 Aug 2026 09:17:24 GMT"
-    },
-    {
-      "title": "Nestlederen for presidentkontoret involvert i hvitvasking, ifølge ukrainske antikorrupsjonsmyndighet",
-      "link": "https://www.nrk.no/nyheter/nestlederen-for-presidentkontoret-involvert-i-hvitvasking_-ifolge-ukrainske-antikorrupsjonsmyndighet-1.17994370",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 19 Aug 2026 09:12:56 GMT"
-    },
-    {
-      "title": "Dømt til fengsel for underbetaling",
-      "link": "https://www.nrk.no/nyheter/domt-til-fengsel-for-underbetaling-1.17994452",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 19 Aug 2026 09:02:51 GMT"
-    },
-    {
-      "title": "Iran har delvis mistet kontrollen over Hormuzstredet, mener analytikere",
-      "link": "https://www.nrk.no/nyheter/iran-har-delvis-mistet-kontrollen-over-hormuzstredet_-mener-analytikere-1.17994211",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 19 Aug 2026 08:54:50 GMT"
-    },
-    {
-      "title": "GTA 6-speling lekka ei veke for tidleg",
-      "link": "https://www.nrk.no/nyheter/gta-6-speling-lekka-ei-veke-for-tidleg-1.17994354",
-      "category": "Gaming",
-      "pubDate": "Wed, 19 Aug 2026 08:44:37 GMT"
     }
   ]
 }
