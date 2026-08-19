@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-19T04:37:51.342Z",
+  "updatedAt": "2026-08-19T05:31:38.726Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ett av fem tog forsinket i august",
+      "link": "https://www.nrk.no/nyheter/ett-av-fem-tog-forsinket-i-august-1.17994090",
+      "category": "Togproblemer og forsinkelser",
+      "pubDate": "Wed, 19 Aug 2026 05:20:26 GMT"
+    },
+    {
+      "title": "Over 5000 ebola-tilfeller i Kongo",
+      "link": "https://www.nrk.no/nyheter/over-5000-ebola-tilfeller-i-kongo-1.17994075",
+      "category": "DR Kongo",
+      "pubDate": "Wed, 19 Aug 2026 04:46:01 GMT"
+    },
+    {
+      "title": "Skrekkbilder på røykpakker fra neste år",
+      "link": "https://www.nrk.no/nyheter/skrekkbilder-pa-roykpakker-fra-neste-ar-1.17994074",
+      "category": "Røyk og snus",
+      "pubDate": "Wed, 19 Aug 2026 04:43:04 GMT"
+    },
     {
       "title": "Forbrukerrådet krever 300 millioner kroner tilbake til norske bileiere",
       "link": "https://www.nrk.no/nyheter/forbrukerradet-krever-300-millioner-kroner-tilbake-til-norske-bileiere-1.17994062",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-ni-dode-i-hotellbrann-i-india-1.17994052",
       "category": "India",
       "pubDate": "Wed, 19 Aug 2026 03:41:13 GMT"
-    },
-    {
-      "title": "UiO fortsatt best i Norge",
-      "link": "https://www.nrk.no/stor-oslo/uio-fortsatt-best-i-norge-1.17994036",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 19 Aug 2026 03:28:14 GMT"
-    },
-    {
-      "title": "Kronprinsesse Mette-Marit har fødselsdag",
-      "link": "https://www.nrk.no/nyheter/kronprinsesse-mette-marit-har-fodselsdag-1.17994026",
-      "category": "Kongefamilien",
-      "pubDate": "Wed, 19 Aug 2026 03:07:44 GMT"
-    },
-    {
-      "title": "AFP: Trump setter toll mot Canada på pause",
-      "link": "https://www.nrk.no/nyheter/afp_-trump-setter-toll-mot-canada-pa-pause-1.17994023",
-      "category": "USA",
-      "pubDate": "Wed, 19 Aug 2026 02:32:19 GMT"
     }
   ]
 }
