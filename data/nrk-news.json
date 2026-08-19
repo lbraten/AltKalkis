@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-19T10:29:51.577Z",
+  "updatedAt": "2026-08-19T10:57:21.783Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann omkom etter eksplosjon",
+      "link": "https://www.nrk.no/sorlandet/mann-omkom-etter-eksplosjon-1.17994644",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Wed, 19 Aug 2026 10:45:56 GMT"
+    },
+    {
+      "title": "Ny forsvarsminister i Ukraina",
+      "link": "https://www.nrk.no/nyheter/ny-forsvarsminister-i-ukraina--1.17994519",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 19 Aug 2026 10:45:36 GMT"
+    },
+    {
+      "title": "Dødsbrannen i Hamar henlagt",
+      "link": "https://www.nrk.no/innlandet/dodsbrannen-i-hamar-henlagt-1.17994581",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Wed, 19 Aug 2026 10:32:06 GMT"
+    },
     {
       "title": "Over 20 omkomne i bussulykke i Brasil",
       "link": "https://www.nrk.no/nyheter/over-20-omkomne-i-bussulykke-i-brasil-1.17994139",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/tiltalt-for-uaktsomt-drap-etter-skuterulykke-1.17994310",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Wed, 19 Aug 2026 09:58:43 GMT"
-    },
-    {
-      "title": "Bjørnen i Saltdal er skutt",
-      "link": "https://www.nrk.no/nordland/-bjornen-i-saltdal-er-skutt-1.17994379",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Wed, 19 Aug 2026 09:42:03 GMT"
-    },
-    {
-      "title": "Helikopter som antas å ha fraktet turister styrtet i Kenya – ingen overlevende",
-      "link": "https://www.nrk.no/nyheter/helikopter-som-antas-a-ha-fraktet-turister-styrtet-i-kenya-_-ingen-overlevende-1.17994442",
-      "category": "Kenya",
-      "pubDate": "Wed, 19 Aug 2026 09:39:36 GMT"
-    },
-    {
-      "title": "Person pågrepet for Nord Stream-eksplosjon",
-      "link": "https://www.nrk.no/nyheter/person-pagrepet-for-nord-stream-eksplosjon-1.17994499",
-      "category": "Gassrørledningen Nord Stream",
-      "pubDate": "Wed, 19 Aug 2026 09:25:34 GMT"
     }
   ]
 }
