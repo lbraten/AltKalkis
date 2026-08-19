@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-08-19T12:49:54.274Z",
+  "updatedAt": "2026-08-19T13:44:31.149Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Regjeringen vil begrense kjøp av busser fra Kina",
+      "link": "https://www.nrk.no/stor-oslo/regjeringen-vil-begrense-kjop-av-busser-fra-kina-1.17994560",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 19 Aug 2026 13:10:49 GMT"
+    },
+    {
+      "title": "Evakuerte Trondheim lufthavn – mistenkelig gjenstand viste seg å være ufarlig",
+      "link": "https://www.nrk.no/trondelag/evakuerte-trondheim-lufthavn-_-mistenkelig-gjenstand-viste-seg-a-vaere-ufarlig-1.17994909",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Wed, 19 Aug 2026 12:52:43 GMT"
+    },
+    {
       "title": "1243 flere dødsfall enn normalt under hetebølger i Frankrike",
       "link": "https://www.nrk.no/nyheter/1243-flere-dodsfall-enn-normalt-under-hetebolger-i-frankrike-1.17994852",
-      "category": "NRK Nyheter",
+      "category": "Hetebølge og varmerekorder",
       "pubDate": "Wed, 19 Aug 2026 12:44:15 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-drept-i-israelske-angrep--1.17994775",
       "category": "Krigen i Gaza",
       "pubDate": "Wed, 19 Aug 2026 12:05:29 GMT"
-    },
-    {
-      "title": "To personer siktet for grove tyverier",
-      "link": "https://www.nrk.no/innlandet/to-personer-siktet-for-grove-tyverier-1.17994612",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Wed, 19 Aug 2026 12:00:49 GMT"
-    },
-    {
-      "title": "Togavsporing skyldtes ujevnhet i sporet",
-      "link": "https://www.nrk.no/nyheter/togavsporing-skyldtes-ujevnhet-i-sporet--1.17994715",
-      "category": "England",
-      "pubDate": "Wed, 19 Aug 2026 11:52:17 GMT"
     }
   ]
 }
