@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-18T23:47:23.622Z",
+  "updatedAt": "2026-08-19T01:19:31.582Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump vil møte Kim Jong-un i høst",
+      "link": "https://www.nrk.no/nyheter/trump-vil-mote-kim-jong-un-i-host-1.17994022",
+      "category": "USA",
+      "pubDate": "Wed, 19 Aug 2026 01:10:54 GMT"
+    },
+    {
+      "title": "Iran sier de fortsatt er klare for samtaler med USA",
+      "link": "https://www.nrk.no/nyheter/iran-sier-de-fortsatt-er-klare-for-samtaler-med-usa-1.17994021",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 19 Aug 2026 00:46:45 GMT"
+    },
+    {
+      "title": "Militærøvelse med USA og Sør-Korea forkortes",
+      "link": "https://www.nrk.no/nyheter/militaerovelse-med-usa-og-sor-korea-forkortes-1.17994016",
+      "category": "Sør-Korea",
+      "pubDate": "Wed, 19 Aug 2026 00:42:46 GMT"
+    },
     {
       "title": "Jemen: Tre sivile drept i Houthi-angrep",
       "link": "https://www.nrk.no/nyheter/jemen_-tre-sivile-drept-i-houthi-angrep-1.17994015",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/carney-og-trump-har-snakket-sammen-igjen-1.17994012",
       "category": "USA",
       "pubDate": "Tue, 18 Aug 2026 21:39:00 GMT"
-    },
-    {
-      "title": "Emiratene stanser handel med Iran",
-      "link": "https://www.nrk.no/nyheter/emiratene-stanser-handel-med-iran-1.17994005",
-      "category": "Iran",
-      "pubDate": "Tue, 18 Aug 2026 21:14:52 GMT"
-    },
-    {
-      "title": "Liberia vil ta imot opptil 1200 utviste personer fra USA",
-      "link": "https://www.nrk.no/nyheter/liberia-vil-ta-imot-opptil-1200-utviste-personer-fra-usa-1.17993996",
-      "category": "Liberia",
-      "pubDate": "Tue, 18 Aug 2026 20:50:55 GMT"
-    },
-    {
-      "title": "Fellingstillatelse gitt for bjørn i Lierne",
-      "link": "https://www.nrk.no/trondelag/fellingstillatelse-gitt-for-bjorn-i-lierne-1.17993830",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Tue, 18 Aug 2026 19:34:01 GMT"
     }
   ]
 }
