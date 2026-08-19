@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-19T06:45:55.546Z",
+  "updatedAt": "2026-08-19T07:38:47.301Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet på plass på Svartlamoen: – Vi ønsker minst mulig bruk av makt",
+      "link": "https://www.nrk.no/trondelag/politiet-pa-plass-pa-svartlamoen_-__vi-onsker-minst-mulig-bruk-av-makt--1.17994225",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Wed, 19 Aug 2026 07:25:53 GMT"
+    },
+    {
+      "title": "Brann i einebustad i Stavanger",
+      "link": "https://www.nrk.no/rogaland/brann-i-einebustad-i-stavanger-1.17994210",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 19 Aug 2026 07:19:55 GMT"
+    },
+    {
+      "title": "Saltdal: Fem sauer drept av bjørn i går",
+      "link": "https://www.nrk.no/nordland/saltdal_-fem-sauer-drept-av-bjorn-i-gar-1.17994204",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 19 Aug 2026 07:17:43 GMT"
+    },
+    {
+      "title": "FpU bekrefter varsel mot egen leder",
+      "link": "https://www.nrk.no/nyheter/fpu-bekrefter-varsel-mot-egen-leder--1.17994197",
+      "category": "Varslersaker i Frp og FpU",
+      "pubDate": "Wed, 19 Aug 2026 07:14:33 GMT"
+    },
+    {
+      "title": "Skogbrann i Belgia delvis under kontroll",
+      "link": "https://www.nrk.no/nyheter/skogbrann-i-belgia-delvis-under-kontroll-1.17994168",
+      "category": "Belgia",
+      "pubDate": "Wed, 19 Aug 2026 07:02:30 GMT"
+    },
     {
       "title": "Flere drept i russisk droneangrep",
       "link": "https://www.nrk.no/nyheter/flere-drept-i-russisk-droneangrep-1.17994164",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 19 Aug 2026 06:43:02 GMT"
-    },
-    {
-      "title": "Venstreside-demokrat vant i Florida",
-      "link": "https://www.nrk.no/nyheter/venstreside-demokrat-vant-i-florida-1.17994155",
-      "category": "USA",
-      "pubDate": "Wed, 19 Aug 2026 06:31:06 GMT"
-    },
-    {
-      "title": "Aksjon mot korrupsjon i Ukraina",
-      "link": "https://www.nrk.no/nyheter/aksjon-mot-korrupsjon-i-ukraina--1.17994144",
-      "category": "Ukraina",
-      "pubDate": "Wed, 19 Aug 2026 06:25:00 GMT"
-    },
-    {
-      "title": "Jevnt i islandsk EU-måling",
-      "link": "https://www.nrk.no/nyheter/jevnt-i-islandsk-eu-maling-1.17994103",
-      "category": "Island",
-      "pubDate": "Wed, 19 Aug 2026 06:12:30 GMT"
-    },
-    {
-      "title": "SSB: Ny oppgang i antall fødsler – 29.200 barn født i første halvår",
-      "link": "https://www.nrk.no/nyheter/ssb_-ny-oppgang-i-antall-fodsler-_-29.200-barn-fodt-i-forste-halvar-1.17994088",
-      "category": "Svangerskap og fødsel",
-      "pubDate": "Wed, 19 Aug 2026 06:03:37 GMT"
-    },
-    {
-      "title": "Ett av fem tog forsinket i august",
-      "link": "https://www.nrk.no/nyheter/ett-av-fem-tog-forsinket-i-august-1.17994090",
-      "category": "Togproblemer og forsinkelser",
-      "pubDate": "Wed, 19 Aug 2026 05:20:26 GMT"
     }
   ]
 }
