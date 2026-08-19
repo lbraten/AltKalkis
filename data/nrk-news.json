@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-19T19:26:27.990Z",
+  "updatedAt": "2026-08-19T19:50:38.565Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann varetektsfengsles i to uker etter drap i Tromsø",
+      "link": "https://www.nrk.no/nyheter/mann-varetektsfengsles-i-to-uker-etter-drap-i-tromso-1.17995199",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 19 Aug 2026 19:37:54 GMT"
+    },
     {
       "title": "Fem fra USA og to fra Ecuador omkom i helikopterstyrt i Kenya",
       "link": "https://www.nrk.no/nyheter/fem-fra-usa-og-to-fra-ecuador-omkom-i-helikopterstyrt-i-kenya-1.17995172",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/libanon_-4348-drept-i-israelske-angrep-siden-mars-1.17995054",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 19 Aug 2026 15:30:24 GMT"
-    },
-    {
-      "title": "Miljødirektoratet: Regjeringa bør si ja til midlertidig tømming i Førdefjorden",
-      "link": "https://www.nrk.no/vestland/miljodirektoratet_-regjeringa-bor-si-ja-til-midlertidig-tomming-i-fordefjorden-1.17995040",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 19 Aug 2026 15:09:49 GMT"
     }
   ]
 }
