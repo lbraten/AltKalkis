@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-19T05:31:38.726Z",
+  "updatedAt": "2026-08-19T06:45:55.546Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere drept i russisk droneangrep",
+      "link": "https://www.nrk.no/nyheter/flere-drept-i-russisk-droneangrep-1.17994164",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 19 Aug 2026 06:43:02 GMT"
+    },
+    {
+      "title": "Venstreside-demokrat vant i Florida",
+      "link": "https://www.nrk.no/nyheter/venstreside-demokrat-vant-i-florida-1.17994155",
+      "category": "USA",
+      "pubDate": "Wed, 19 Aug 2026 06:31:06 GMT"
+    },
+    {
+      "title": "Aksjon mot korrupsjon i Ukraina",
+      "link": "https://www.nrk.no/nyheter/aksjon-mot-korrupsjon-i-ukraina--1.17994144",
+      "category": "Ukraina",
+      "pubDate": "Wed, 19 Aug 2026 06:25:00 GMT"
+    },
+    {
+      "title": "Jevnt i islandsk EU-måling",
+      "link": "https://www.nrk.no/nyheter/jevnt-i-islandsk-eu-maling-1.17994103",
+      "category": "Island",
+      "pubDate": "Wed, 19 Aug 2026 06:12:30 GMT"
+    },
+    {
+      "title": "SSB: Ny oppgang i antall fødsler – 29.200 barn født i første halvår",
+      "link": "https://www.nrk.no/nyheter/ssb_-ny-oppgang-i-antall-fodsler-_-29.200-barn-fodt-i-forste-halvar-1.17994088",
+      "category": "Svangerskap og fødsel",
+      "pubDate": "Wed, 19 Aug 2026 06:03:37 GMT"
+    },
     {
       "title": "Ett av fem tog forsinket i august",
       "link": "https://www.nrk.no/nyheter/ett-av-fem-tog-forsinket-i-august-1.17994090",
       "category": "Togproblemer og forsinkelser",
       "pubDate": "Wed, 19 Aug 2026 05:20:26 GMT"
-    },
-    {
-      "title": "Over 5000 ebola-tilfeller i Kongo",
-      "link": "https://www.nrk.no/nyheter/over-5000-ebola-tilfeller-i-kongo-1.17994075",
-      "category": "DR Kongo",
-      "pubDate": "Wed, 19 Aug 2026 04:46:01 GMT"
-    },
-    {
-      "title": "Skrekkbilder på røykpakker fra neste år",
-      "link": "https://www.nrk.no/nyheter/skrekkbilder-pa-roykpakker-fra-neste-ar-1.17994074",
-      "category": "Røyk og snus",
-      "pubDate": "Wed, 19 Aug 2026 04:43:04 GMT"
-    },
-    {
-      "title": "Forbrukerrådet krever 300 millioner kroner tilbake til norske bileiere",
-      "link": "https://www.nrk.no/nyheter/forbrukerradet-krever-300-millioner-kroner-tilbake-til-norske-bileiere-1.17994062",
-      "category": "Bilbransjen",
-      "pubDate": "Wed, 19 Aug 2026 03:51:47 GMT"
-    },
-    {
-      "title": "Radioaktive masser forsinker dobbeltsporet til Hamar",
-      "link": "https://www.nrk.no/innlandet/radioaktive-masser-forsinker-dobbeltsporet-til-hamar-1.17994060",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Wed, 19 Aug 2026 03:49:30 GMT"
-    },
-    {
-      "title": "Minst ni døde i hotellbrann i India",
-      "link": "https://www.nrk.no/nyheter/minst-ni-dode-i-hotellbrann-i-india-1.17994052",
-      "category": "India",
-      "pubDate": "Wed, 19 Aug 2026 03:41:13 GMT"
     }
   ]
 }
