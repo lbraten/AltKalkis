@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-19T22:25:49.595Z",
+  "updatedAt": "2026-08-19T22:51:57.766Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rakettangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/rakettangrep-mot-kyiv-1.17995270",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 19 Aug 2026 22:34:10 GMT"
+    },
     {
       "title": "FpU-lederen trekker seg",
       "link": "https://www.nrk.no/nyheter/fpu-lederen-trekker-seg-1.17995269",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/forer-ble-tatt-med-bilskilter-fra-temu-1.17995240",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 19 Aug 2026 20:11:31 GMT"
-    },
-    {
-      "title": "Drapssiktet varetektsfengsles i to uker",
-      "link": "https://www.nrk.no/nyheter/drapssiktet-varetektsfengsles-i-to-uker-1.17995199",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 19 Aug 2026 19:37:54 GMT"
     }
   ]
 }
