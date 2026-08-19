@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-19T17:27:46.530Z",
+  "updatedAt": "2026-08-19T17:52:12.935Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ny skogbrann i Spania",
+      "link": "https://www.nrk.no/nyheter/ny-skogbrann-i-spania-1.17995077",
+      "category": "Spania",
+      "pubDate": "Wed, 19 Aug 2026 17:37:51 GMT"
+    },
+    {
+      "title": "Sveitsiske innsjøer rammet av tørken",
+      "link": "https://www.nrk.no/nyheter/sveitsiske-innsjoer-rammet-av-torken-1.17995119",
+      "category": "Klima og miljø",
+      "pubDate": "Wed, 19 Aug 2026 17:28:12 GMT"
+    },
     {
       "title": "Rekordmange dager med hetebølge i Frankrike",
       "link": "https://www.nrk.no/nyheter/rekordmange-dager-med-hetebolge-i-frankrike-1.17994974",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/utviser-flere-eritreere-fra-norge_-1.17995031",
       "category": "Norsk flyktning- og asylpolitikk",
       "pubDate": "Wed, 19 Aug 2026 14:47:25 GMT"
-    },
-    {
-      "title": "Flere titalls omkomne i gruvekollaps i Den sentralafrikanske republikk",
-      "link": "https://www.nrk.no/nyheter/flere-titalls-omkomne-i-gruvekollaps-i-den-sentralafrikanske-republikk-1.17994913",
-      "category": "Den sentralafrikanske republikk",
-      "pubDate": "Wed, 19 Aug 2026 14:17:12 GMT"
-    },
-    {
-      "title": "Regjeringen vil begrense kjøp av busser fra Kina",
-      "link": "https://www.nrk.no/stor-oslo/regjeringen-vil-begrense-kjop-av-busser-fra-kina-1.17994560",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 19 Aug 2026 13:10:49 GMT"
     }
   ]
 }
