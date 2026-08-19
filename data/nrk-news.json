@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-19T14:34:41.666Z",
+  "updatedAt": "2026-08-19T15:32:25.485Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Libanon: 4348 drept i israelske angrep siden mars",
+      "link": "https://www.nrk.no/nyheter/libanon_-4348-drept-i-israelske-angrep-siden-mars-1.17995054",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 19 Aug 2026 15:30:24 GMT"
+    },
+    {
+      "title": "Miljødirektoratet: Regjeringa bør si ja til midlertidig tømming i Førdefjorden",
+      "link": "https://www.nrk.no/vestland/miljodirektoratet_-regjeringa-bor-si-ja-til-midlertidig-tomming-i-fordefjorden-1.17995040",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 19 Aug 2026 15:09:49 GMT"
+    },
+    {
+      "title": "Utviser flere eritreere fra Norge",
+      "link": "https://www.nrk.no/nyheter/utviser-flere-eritreere-fra-norge_-1.17995031",
+      "category": "Norsk flyktning- og asylpolitikk",
+      "pubDate": "Wed, 19 Aug 2026 14:47:25 GMT"
+    },
     {
       "title": "Flere titalls omkomne i gruvekollaps i Den sentralafrikanske republikk",
       "link": "https://www.nrk.no/nyheter/flere-titalls-omkomne-i-gruvekollaps-i-den-sentralafrikanske-republikk-1.17994913",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/trondelag/evakuerte-trondheim-lufthavn-_-mistenkelig-gjenstand-viste-seg-a-vaere-ufarlig-1.17994909",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Wed, 19 Aug 2026 12:52:43 GMT"
-    },
-    {
-      "title": "1243 flere dødsfall enn normalt under hetebølger i Frankrike",
-      "link": "https://www.nrk.no/nyheter/1243-flere-dodsfall-enn-normalt-under-hetebolger-i-frankrike-1.17994852",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Wed, 19 Aug 2026 12:44:15 GMT"
-    },
-    {
-      "title": "Alvorlig skadd etter voldshendelse i Kristiansund",
-      "link": "https://www.nrk.no/mr/alvorlig-skadd-etter-voldshendelse-i-kristiansund-1.17994809",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 19 Aug 2026 12:21:19 GMT"
-    },
-    {
-      "title": "Mindre eksplosjon ved bensinstasjon – en person skadd",
-      "link": "https://www.nrk.no/innlandet/mindre-eksplosjon-ved-bensinstasjon-_-en-person-skadd-1.17994836",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 19 Aug 2026 12:21:11 GMT"
     }
   ]
 }
