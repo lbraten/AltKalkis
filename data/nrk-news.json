@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-19T21:29:45.361Z",
+  "updatedAt": "2026-08-19T21:53:48.280Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FpU-lederen trekker seg",
+      "link": "https://www.nrk.no/nyheter/fpu-lederen-trekker-seg-1.17995269",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 19 Aug 2026 21:33:26 GMT"
+    },
+    {
+      "title": "Medier: Prins Harry og Meghan flytter tilbake til Storbritannia",
+      "link": "https://www.nrk.no/nyheter/medier_-prins-harry-og-meghan-flytter-tilbake-til-storbritannia--1.17995265",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 19 Aug 2026 21:32:14 GMT"
+    },
     {
       "title": "EMSC: Jordskjelv på 4,5 i Nord-Norge",
       "link": "https://www.nrk.no/nyheter/emsc_-jordskjelv-pa-4_5-i-nord-norge-1.17995262",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/drapssiktet-varetektsfengsles-i-to-uker-1.17995199",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 19 Aug 2026 19:37:54 GMT"
-    },
-    {
-      "title": "Fem fra USA og to fra Ecuador omkom i helikopterstyrt i Kenya",
-      "link": "https://www.nrk.no/nyheter/fem-fra-usa-og-to-fra-ecuador-omkom-i-helikopterstyrt-i-kenya-1.17995172",
-      "category": "Kenya",
-      "pubDate": "Wed, 19 Aug 2026 18:29:43 GMT"
-    },
-    {
-      "title": "Ny skogbrann i Spania",
-      "link": "https://www.nrk.no/nyheter/ny-skogbrann-i-spania-1.17995077",
-      "category": "Spania",
-      "pubDate": "Wed, 19 Aug 2026 17:37:51 GMT"
     }
   ]
 }
