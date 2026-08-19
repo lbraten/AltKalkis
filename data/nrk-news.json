@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-19T13:44:31.149Z",
+  "updatedAt": "2026-08-19T14:34:41.666Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere titalls omkomne i gruvekollaps i Den sentralafrikanske republikk",
+      "link": "https://www.nrk.no/nyheter/flere-titalls-omkomne-i-gruvekollaps-i-den-sentralafrikanske-republikk-1.17994913",
+      "category": "Den sentralafrikanske republikk",
+      "pubDate": "Wed, 19 Aug 2026 14:17:12 GMT"
+    },
     {
       "title": "Regjeringen vil begrense kjøp av busser fra Kina",
       "link": "https://www.nrk.no/stor-oslo/regjeringen-vil-begrense-kjop-av-busser-fra-kina-1.17994560",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/innlandet/mindre-eksplosjon-ved-bensinstasjon-_-en-person-skadd-1.17994836",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 19 Aug 2026 12:21:11 GMT"
-    },
-    {
-      "title": "Flere drept i israelske angrep",
-      "link": "https://www.nrk.no/nyheter/flere-drept-i-israelske-angrep--1.17994775",
-      "category": "Krigen i Gaza",
-      "pubDate": "Wed, 19 Aug 2026 12:05:29 GMT"
     }
   ]
 }
