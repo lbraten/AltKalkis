@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-20T11:27:36.448Z",
+  "updatedAt": "2026-08-20T11:54:35.949Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Burnham: Prins Harrys og Meghans sikkerhet er en privatsak",
+      "link": "https://www.nrk.no/nyheter/burnham_-prins-harrys-og-meghans-sikkerhet-er-en-privatsak-1.17995863",
+      "category": "Det britiske kongehuset",
+      "pubDate": "Thu, 20 Aug 2026 11:46:16 GMT"
+    },
     {
       "title": "EU ber Spania om svar om mindreårige i Ceuta",
       "link": "https://www.nrk.no/nyheter/eu-ber-spania-om-svar-om-mindrearige-i-ceuta-1.17995826",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/listhaug-om-fpu-lederen_-_-glad-for-at-han-setter-partiet-forst-1.17995620",
       "category": "FpU",
       "pubDate": "Thu, 20 Aug 2026 09:17:34 GMT"
-    },
-    {
-      "title": "Utvider siktelse etter trafikkulykke i Molde",
-      "link": "https://www.nrk.no/mr/utvider-siktelse-etter-trafikkulykke-i-molde-1.17995594",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Thu, 20 Aug 2026 09:04:44 GMT"
     }
   ]
 }
