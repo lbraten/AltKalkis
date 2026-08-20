@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-20T20:58:17.540Z",
+  "updatedAt": "2026-08-20T21:35:04.244Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tønsberg: Mann til sykehus etter å ha falt i sjøen",
+      "link": "https://www.nrk.no/nyheter/tonsberg_-mann-til-sykehus-etter-a-ha-falt-i-sjoen-1.17996626",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 20 Aug 2026 21:23:09 GMT"
+    },
     {
       "title": "Mistenker at russisk fly krenket finsk luftrom",
       "link": "https://www.nrk.no/nyheter/mistenker-at-russisk-fly-krenket-finsk-luftrom-1.17996427",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-50-dode-i-batkantring-i-nigeria--1.17996218",
       "category": "Nigeria",
       "pubDate": "Thu, 20 Aug 2026 16:40:58 GMT"
-    },
-    {
-      "title": "Bauhaus legger ned i Norge: – 223 personer påvirkes av nedleggelsen",
-      "link": "https://www.nrk.no/nyheter/bauhaus-legger-ned-i-norge_-_-223-personer-pavirkes-av-nedleggelsen-1.17996380",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 20 Aug 2026 15:33:37 GMT"
     }
   ]
 }
