@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-20T09:35:47.017Z",
+  "updatedAt": "2026-08-20T10:31:35.557Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dronning Sonja besøker kong Harald på Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/dronning-sonja-besoker-kong-harald-pa-rikshospitalet-1.17995814",
+      "category": "Kongefamilien",
+      "pubDate": "Thu, 20 Aug 2026 10:30:36 GMT"
+    },
+    {
+      "title": "Tankskip kapret utenfor Jemen, ifølge UKMTO",
+      "link": "https://www.nrk.no/nyheter/tankskip-kapret-utenfor-jemen_-ifolge-ukmto-1.17995663",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 20 Aug 2026 10:27:14 GMT"
+    },
+    {
+      "title": "16 år gammel jente tiltalt for seksuelle overgrep",
+      "link": "https://www.nrk.no/rogaland/16-ar-gammel-jente-tiltalt-for-seksuelle-overgrep-1.17995741",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Thu, 20 Aug 2026 09:56:53 GMT"
+    },
     {
       "title": "Listhaug om FpU-lederen: – Glad for at han setter partiet først",
       "link": "https://www.nrk.no/nyheter/listhaug-om-fpu-lederen_-_-glad-for-at-han-setter-partiet-forst-1.17995620",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/aftenposten_-fpu-avslutter-varslingssak-1.17995656",
       "category": "FpU",
       "pubDate": "Thu, 20 Aug 2026 09:03:57 GMT"
-    },
-    {
-      "title": "Sør-Korea sier Nord-Korea avfyrte «rundt ti» ballistiske raketter",
-      "link": "https://www.nrk.no/nyheter/sor-korea-sier-nord-korea-avfyrte-_rundt-ti_-ballistiske-raketter-1.17995598",
-      "category": "Nord-Korea",
-      "pubDate": "Thu, 20 Aug 2026 09:01:06 GMT"
-    },
-    {
-      "title": "Kraftig fall i inntektene for Norse",
-      "link": "https://www.nrk.no/sorlandet/kraftig-fall-i-inntektene-for-norse-1.17995576",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 20 Aug 2026 08:52:22 GMT"
-    },
-    {
-      "title": "8000 ble rammet av strømbrudd - kan ikke utelukke at det skyldtes jordskjelvet",
-      "link": "https://www.nrk.no/nordland/8000-ble-rammet-av-strombrudd---kan-ikke-utelukke-at-det-skyldtes-jordskjelvet-1.17995607",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Thu, 20 Aug 2026 08:31:45 GMT"
     }
   ]
 }
