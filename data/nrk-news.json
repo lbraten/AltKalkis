@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-20T10:31:35.557Z",
+  "updatedAt": "2026-08-20T11:27:36.448Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EU ber Spania om svar om mindreårige i Ceuta",
+      "link": "https://www.nrk.no/nyheter/eu-ber-spania-om-svar-om-mindrearige-i-ceuta-1.17995826",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Thu, 20 Aug 2026 10:50:14 GMT"
+    },
     {
       "title": "Dronning Sonja besøker kong Harald på Rikshospitalet",
       "link": "https://www.nrk.no/nyheter/dronning-sonja-besoker-kong-harald-pa-rikshospitalet-1.17995814",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/mr/utvider-siktelse-etter-trafikkulykke-i-molde-1.17995594",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Thu, 20 Aug 2026 09:04:44 GMT"
-    },
-    {
-      "title": "Aftenposten: FpU avslutter varslingssak",
-      "link": "https://www.nrk.no/nyheter/aftenposten_-fpu-avslutter-varslingssak-1.17995656",
-      "category": "FpU",
-      "pubDate": "Thu, 20 Aug 2026 09:03:57 GMT"
     }
   ]
 }
