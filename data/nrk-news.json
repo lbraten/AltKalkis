@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-20T11:54:35.949Z",
+  "updatedAt": "2026-08-20T12:52:06.519Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere døde av hetebølgen i Europa enn av influensasesongen",
+      "link": "https://www.nrk.no/nyheter/flere-dode-av-hetebolgen-i-europa-enn-av-influensasesongen-1.17995974",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 20 Aug 2026 11:56:43 GMT"
+    },
     {
       "title": "Burnham: Prins Harrys og Meghans sikkerhet er en privatsak",
       "link": "https://www.nrk.no/nyheter/burnham_-prins-harrys-og-meghans-sikkerhet-er-en-privatsak-1.17995863",
@@ -27,16 +33,10 @@
       "pubDate": "Thu, 20 Aug 2026 10:27:14 GMT"
     },
     {
-      "title": "16 år gammel jente tiltalt for seksuelle overgrep",
-      "link": "https://www.nrk.no/rogaland/16-ar-gammel-jente-tiltalt-for-seksuelle-overgrep-1.17995741",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Thu, 20 Aug 2026 09:56:53 GMT"
-    },
-    {
-      "title": "Listhaug om FpU-lederen: – Glad for at han setter partiet først",
-      "link": "https://www.nrk.no/nyheter/listhaug-om-fpu-lederen_-_-glad-for-at-han-setter-partiet-forst-1.17995620",
-      "category": "FpU",
-      "pubDate": "Thu, 20 Aug 2026 09:17:34 GMT"
+      "title": "Vil forlenge varetekt av overgrepssiktet lærer",
+      "link": "https://www.nrk.no/stor-oslo/vil-forlenge-varetekt-av-overgrepssiktet-laerer-1.17995684",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 20 Aug 2026 10:22:00 GMT"
     }
   ]
 }
