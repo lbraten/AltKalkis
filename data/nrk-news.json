@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-20T14:37:26.350Z",
+  "updatedAt": "2026-08-20T15:34:24.880Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bauhaus legger ned butikker i Norge",
+      "link": "https://www.nrk.no/nyheter/bauhaus-legger-ned-butikker-i-norge--1.17996380",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 20 Aug 2026 15:33:37 GMT"
+    },
+    {
+      "title": "Politiet leter etter person med øks etter slagsmål",
+      "link": "https://www.nrk.no/stor-oslo/politiet-leter-etter-person-med-oks-etter-slagsmal-1.17996296",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 20 Aug 2026 14:33:28 GMT"
+    },
+    {
+      "title": "Paraglider har landet i bratt terreng på Voss",
+      "link": "https://www.nrk.no/vestland/paraglider-har-landet-i-bratt-terreng-pa-voss-1.17995894",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Thu, 20 Aug 2026 13:58:26 GMT"
+    },
     {
       "title": "Eide om USAs ICC-sanksjoner: – Undergraver rettssystemet",
       "link": "https://www.nrk.no/nyheter/eide-om-usas-icc-sanksjoner_-_-undergraver-rettssystemet-1.17996149",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/innlandet/lagmannsretten-om-loten-saken_-feil-a-kaste-ut-pressen-1.17995962",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Thu, 20 Aug 2026 11:59:11 GMT"
-    },
-    {
-      "title": "Flere døde av hetebølgen i Europa enn av influensasesongen",
-      "link": "https://www.nrk.no/nyheter/flere-dode-av-hetebolgen-i-europa-enn-av-influensasesongen-1.17995974",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 20 Aug 2026 11:56:43 GMT"
-    },
-    {
-      "title": "Burnham: Prins Harrys og Meghans sikkerhet er en privatsak",
-      "link": "https://www.nrk.no/nyheter/burnham_-prins-harrys-og-meghans-sikkerhet-er-en-privatsak-1.17995863",
-      "category": "Det britiske kongehuset",
-      "pubDate": "Thu, 20 Aug 2026 11:46:16 GMT"
-    },
-    {
-      "title": "EU ber Spania om svar om mindreårige i Ceuta",
-      "link": "https://www.nrk.no/nyheter/eu-ber-spania-om-svar-om-mindrearige-i-ceuta-1.17995826",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Thu, 20 Aug 2026 10:50:14 GMT"
     }
   ]
 }
