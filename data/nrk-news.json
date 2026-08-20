@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-20T16:36:20.469Z",
+  "updatedAt": "2026-08-20T17:30:07.504Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nærmer seg meklingsfrist for flygelederne",
+      "link": "https://www.nrk.no/nyheter/naermer-seg-meklingsfrist-for-flygelederne-1.17996328",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 20 Aug 2026 17:17:33 GMT"
+    },
+    {
+      "title": "Europeiske stormakter fordømmer israelsk byggeprosjekt på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/europeiske-stormakter-fordommer-israelsk-byggeprosjekt-pa-vestbredden-1.17996425",
+      "category": "Krigen i Gaza",
+      "pubDate": "Thu, 20 Aug 2026 16:47:42 GMT"
+    },
+    {
+      "title": "Minst 50 døde i båtkantring i Nigeria",
+      "link": "https://www.nrk.no/nyheter/minst-50-dode-i-batkantring-i-nigeria--1.17996218",
+      "category": "Nigeria",
+      "pubDate": "Thu, 20 Aug 2026 16:40:58 GMT"
+    },
     {
       "title": "Bauhaus legger ned i Norge: – Samtlige medarbeidere i Norge berøres",
       "link": "https://www.nrk.no/nyheter/bauhaus-legger-ned-i-norge_-_-samtlige-medarbeidere-i-norge-berores-1.17996380",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/paraglider-har-landet-i-bratt-terreng-pa-voss-1.17995894",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Thu, 20 Aug 2026 13:58:26 GMT"
-    },
-    {
-      "title": "Eide om USAs ICC-sanksjoner: – Undergraver rettssystemet",
-      "link": "https://www.nrk.no/nyheter/eide-om-usas-icc-sanksjoner_-_-undergraver-rettssystemet-1.17996149",
-      "category": "Menneskerettsdomstolen",
-      "pubDate": "Thu, 20 Aug 2026 13:36:19 GMT"
-    },
-    {
-      "title": "13 omkom i gruveulykke i Colombia",
-      "link": "https://www.nrk.no/nyheter/13-omkom-i-gruveulykke-i-colombia-1.17996050",
-      "category": "Colombia",
-      "pubDate": "Thu, 20 Aug 2026 13:06:50 GMT"
-    },
-    {
-      "title": "Lagmannsretten om Løten-saken: Feil å kaste ut pressen",
-      "link": "https://www.nrk.no/innlandet/lagmannsretten-om-loten-saken_-feil-a-kaste-ut-pressen-1.17995962",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Thu, 20 Aug 2026 11:59:11 GMT"
     }
   ]
 }
