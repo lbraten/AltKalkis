@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-19T23:47:26.418Z",
+  "updatedAt": "2026-08-20T01:18:53.401Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tre pågrepet etter melding om frihetsberøvelse i Stavanger",
+      "link": "https://www.nrk.no/nyheter/tre-pagrepet-etter-melding-om-frihetsberovelse-i-stavanger-1.17995281",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 20 Aug 2026 00:12:29 GMT"
+    },
     {
       "title": "Rakettangrep mot Kyiv",
       "link": "https://www.nrk.no/nyheter/rakettangrep-mot-kyiv-1.17995270",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usas-statsgjeld-bikket-40.000-milliarder-dollar-1.17995252",
       "category": "USA",
       "pubDate": "Wed, 19 Aug 2026 21:11:22 GMT"
-    },
-    {
-      "title": "Fører ble tatt med bilskilter fra Temu",
-      "link": "https://www.nrk.no/stor-oslo/forer-ble-tatt-med-bilskilter-fra-temu-1.17995240",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 19 Aug 2026 20:11:31 GMT"
     }
   ]
 }
