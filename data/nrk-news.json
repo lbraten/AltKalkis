@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-20T04:37:49.608Z",
+  "updatedAt": "2026-08-20T05:31:38.054Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Togtrøbbel i Oslo",
+      "link": "https://www.nrk.no/stor-oslo/togtrobbel-i-oslo-1.17995336",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 20 Aug 2026 04:54:01 GMT"
+    },
     {
       "title": "Flere drepte i rakettangrep mot Kyiv",
       "link": "https://www.nrk.no/nyheter/flere-drepte-i-rakettangrep-mot-kyiv---1.17995288",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/medier_-prins-harry-og-meghan-flytter-tilbake-til-storbritannia--1.17995265",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 19 Aug 2026 21:32:14 GMT"
-    },
-    {
-      "title": "EMSC: Jordskjelv på 4,5 i Nord-Norge",
-      "link": "https://www.nrk.no/nyheter/emsc_-jordskjelv-pa-4_5-i-nord-norge-1.17995262",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 19 Aug 2026 21:15:29 GMT"
     }
   ]
 }
