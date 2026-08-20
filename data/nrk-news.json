@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-20T17:58:42.910Z",
+  "updatedAt": "2026-08-20T18:52:06.991Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mistenker at russisk fly krenket finsk luftrom",
+      "link": "https://www.nrk.no/nyheter/mistenker-at-russisk-fly-krenket-finsk-luftrom-1.17996427",
+      "category": "Finland",
+      "pubDate": "Thu, 20 Aug 2026 18:50:04 GMT"
+    },
+    {
+      "title": "Journal-problemer på sykehus",
+      "link": "https://www.nrk.no/stor-oslo/journal-problemer-pa-sykehus-1.17996415",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Thu, 20 Aug 2026 17:22:22 GMT"
+    },
     {
       "title": "Nærmer seg meklingsfrist for flygelederne",
       "link": "https://www.nrk.no/nyheter/naermer-seg-meklingsfrist-for-flygelederne-1.17996328",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bauhaus-legger-ned-i-norge_-_-223-personer-pavirkes-av-nedleggelsen-1.17996380",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 20 Aug 2026 15:33:37 GMT"
-    },
-    {
-      "title": "Politiet lettteetter person med øks etter slagsmål",
-      "link": "https://www.nrk.no/stor-oslo/politiet-lettteetter-person-med-oks-etter-slagsmal-1.17996296",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 20 Aug 2026 14:33:28 GMT"
-    },
-    {
-      "title": "Paraglider har landet i bratt terreng på Voss",
-      "link": "https://www.nrk.no/vestland/paraglider-har-landet-i-bratt-terreng-pa-voss-1.17995894",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 20 Aug 2026 13:58:26 GMT"
     }
   ]
 }
