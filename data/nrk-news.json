@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-20T07:41:13.803Z",
+  "updatedAt": "2026-08-20T08:39:30.696Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Partene i arbeidslivet tror lønna skal opp 4,4 prosent i år",
+      "link": "https://www.nrk.no/nyheter/partene-i-arbeidslivet-tror-lonna-skal-opp-4_4-prosent-i-ar-1.17995585",
+      "category": "Norsk økonomi",
+      "pubDate": "Thu, 20 Aug 2026 08:19:51 GMT"
+    },
+    {
+      "title": "Flyktninghjelpen varsler om kritiske levekår i Gaza",
+      "link": "https://www.nrk.no/nyheter/flyktninghjelpen-varsler-om-kritiske-levekar-i-gaza-1.17995561",
+      "category": "Krigen i Gaza",
+      "pubDate": "Thu, 20 Aug 2026 08:15:13 GMT"
+    },
+    {
+      "title": "Kvinne siktet for drapsforsøk",
+      "link": "https://www.nrk.no/vestfoldogtelemark/kvinne-siktet-for-drapsforsok-1.17995475",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 20 Aug 2026 08:10:59 GMT"
+    },
+    {
+      "title": "13 drept i massivt russisk angrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/13-drept-i-massivt-russisk-angrep-mot-kyiv-1.17995455",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 20 Aug 2026 08:02:55 GMT"
+    },
     {
       "title": "Norsk Tipping-søksmål: Forlik på 5 millioner kroner",
       "link": "https://www.nrk.no/innlandet/norsk-tipping-soksmal_-forlik-pa-5-millioner-kroner-1.17995440",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/ytterligere-to-personer-siktet-etter-skyting-mot-bil-i-tonsberg-1.17995456",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Thu, 20 Aug 2026 07:04:51 GMT"
-    },
-    {
-      "title": "Færre unge på arbeidsavklaringspenger",
-      "link": "https://www.nrk.no/nyheter/faerre-unge-pa-arbeidsavklaringspenger-1.17995409",
-      "category": "Nav",
-      "pubDate": "Thu, 20 Aug 2026 06:49:17 GMT"
-    },
-    {
-      "title": "TV 2 avviser kritikk fra FpU-leder",
-      "link": "https://www.nrk.no/nyheter/tv-2-avviser-kritikk-fra-fpu-leder--1.17995330",
-      "category": "FpU",
-      "pubDate": "Thu, 20 Aug 2026 05:58:10 GMT"
-    },
-    {
-      "title": "Togtrøbbel i Oslo-området",
-      "link": "https://www.nrk.no/stor-oslo/togtrobbel-i-oslo-omradet-1.17995336",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 20 Aug 2026 04:54:01 GMT"
-    },
-    {
-      "title": "Flere drepte i rakettangrep mot Kyiv",
-      "link": "https://www.nrk.no/nyheter/flere-drepte-i-rakettangrep-mot-kyiv---1.17995288",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 20 Aug 2026 02:17:37 GMT"
     }
   ]
 }
