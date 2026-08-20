@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-20T22:57:21.863Z",
+  "updatedAt": "2026-08-20T23:32:12.727Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Pakistans eksstatsminister er flyttet fra fengsel til sykehus",
+      "link": "https://www.nrk.no/nyheter/pakistans-eksstatsminister-er-flyttet-fra-fengsel-til-sykehus-1.17996636",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 20 Aug 2026 23:28:09 GMT"
+    },
     {
       "title": "Tønsberg: Mann til sykehus etter å ha falt i sjøen",
       "link": "https://www.nrk.no/nyheter/tonsberg_-mann-til-sykehus-etter-a-ha-falt-i-sjoen-1.17996626",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/europeiske-stormakter-fordommer-israelsk-byggeprosjekt-pa-vestbredden-1.17996425",
       "category": "Krigen i Gaza",
       "pubDate": "Thu, 20 Aug 2026 16:47:42 GMT"
-    },
-    {
-      "title": "Minst 50 døde i båtkantring i Nigeria",
-      "link": "https://www.nrk.no/nyheter/minst-50-dode-i-batkantring-i-nigeria--1.17996218",
-      "category": "Nigeria",
-      "pubDate": "Thu, 20 Aug 2026 16:40:58 GMT"
     }
   ]
 }
