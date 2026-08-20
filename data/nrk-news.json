@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-20T06:48:42.753Z",
+  "updatedAt": "2026-08-20T07:41:13.803Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norsk Tipping-søksmål: Forlik på 5 millioner kroner",
+      "link": "https://www.nrk.no/innlandet/norsk-tipping-soksmal_-forlik-pa-5-millioner-kroner-1.17995440",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Thu, 20 Aug 2026 07:21:28 GMT"
+    },
+    {
+      "title": "Ytterligere to personer siktet etter skyting mot bil i Tønsberg",
+      "link": "https://www.nrk.no/vestfoldogtelemark/ytterligere-to-personer-siktet-etter-skyting-mot-bil-i-tonsberg-1.17995456",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 20 Aug 2026 07:04:51 GMT"
+    },
+    {
+      "title": "Færre unge på arbeidsavklaringspenger",
+      "link": "https://www.nrk.no/nyheter/faerre-unge-pa-arbeidsavklaringspenger-1.17995409",
+      "category": "Nav",
+      "pubDate": "Thu, 20 Aug 2026 06:49:17 GMT"
+    },
     {
       "title": "TV 2 avviser kritikk fra FpU-leder",
       "link": "https://www.nrk.no/nyheter/tv-2-avviser-kritikk-fra-fpu-leder--1.17995330",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flere-drepte-i-rakettangrep-mot-kyiv---1.17995288",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 20 Aug 2026 02:17:37 GMT"
-    },
-    {
-      "title": "Regjeringen åpner for å endre loven om hatefulle ytringer",
-      "link": "https://www.nrk.no/nyheter/regjeringen-apner-for-a-endre-loven-om-hatefulle-ytringer-1.17995286",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 20 Aug 2026 01:27:10 GMT"
-    },
-    {
-      "title": "Tre pågrepet etter melding om frihetsberøvelse i Stavanger",
-      "link": "https://www.nrk.no/nyheter/tre-pagrepet-etter-melding-om-frihetsberovelse-i-stavanger-1.17995281",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 20 Aug 2026 00:12:29 GMT"
-    },
-    {
-      "title": "FpU-lederen trekker seg",
-      "link": "https://www.nrk.no/nyheter/fpu-lederen-trekker-seg-1.17995269",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Wed, 19 Aug 2026 21:33:26 GMT"
     }
   ]
 }
