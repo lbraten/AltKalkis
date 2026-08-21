@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-21T12:50:29.606Z",
+  "updatedAt": "2026-08-21T13:46:21.953Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person med sverd skal ha skadd flere på svensk skole",
+      "link": "https://www.nrk.no/nyheter/person-med-sverd-skal-ha-skadd-flere-pa-svensk-skole-1.17997424",
+      "category": "Sverige",
+      "pubDate": "Fri, 21 Aug 2026 12:55:42 GMT"
+    },
     {
       "title": "Finland kaller Russland inn på teppet",
       "link": "https://www.nrk.no/nyheter/finland-kaller-russland-inn-pa-teppet-1.17997405",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/rush-av-kanselleringer-pa-flyplassene-1.17996846",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Fri, 21 Aug 2026 12:15:43 GMT"
-    },
-    {
-      "title": "Kongen blir fortsatt værende på Rikshospitalet for behandling",
-      "link": "https://www.nrk.no/nyheter/kongen-blir-fortsatt-vaerende-pa-rikshospitalet-for-behandling-1.17997195",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 21 Aug 2026 11:27:03 GMT"
     }
   ]
 }
