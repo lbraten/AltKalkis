@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-21T16:35:35.139Z",
+  "updatedAt": "2026-08-21T17:29:50.952Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dødstallene stiger etter kjøpesenterangrep",
+      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-kjopesenterangrep-1.17997746",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 21 Aug 2026 17:04:55 GMT"
+    },
+    {
+      "title": "Godkjenner stor våpenleveranse til Sør-Korea",
+      "link": "https://www.nrk.no/nyheter/godkjenner-stor-vapenleveranse-til-sor-korea-1.17997707",
+      "category": "Sør-Korea",
+      "pubDate": "Fri, 21 Aug 2026 16:41:29 GMT"
+    },
     {
       "title": "Alex Jones får redusert erstatningskrav",
       "link": "https://www.nrk.no/nyheter/alex-jones-far-redusert-erstatningskrav-1.17997645",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vestnilvirus-pavist-i-12-europeiske-land-1.17997605",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 21 Aug 2026 14:52:06 GMT"
-    },
-    {
-      "title": "Frankrike: 300.000 ubrukelige kondomer",
-      "link": "https://www.nrk.no/nyheter/frankrike_-300.000-ubrukelige-kondomer-1.17997600",
-      "category": "Frankrike",
-      "pubDate": "Fri, 21 Aug 2026 14:43:58 GMT"
-    },
-    {
-      "title": "To drept i russisk angrep mot kjøpesenter sentralt i Ukraina",
-      "link": "https://www.nrk.no/nyheter/to-drept-i-russisk-angrep-mot-kjopesenter-sentralt-i-ukraina-1.17997568",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 21 Aug 2026 14:38:25 GMT"
     }
   ]
 }
