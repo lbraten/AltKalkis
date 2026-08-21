@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-21T05:33:42.485Z",
+  "updatedAt": "2026-08-21T06:49:47.954Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina: Russiske droner traff grensepost ved Moldova",
+      "link": "https://www.nrk.no/nyheter/ukraina_-russiske-droner-traff-grensepost-ved-moldova-1.17996759",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 21 Aug 2026 06:00:37 GMT"
+    },
+    {
+      "title": "Avinor sier flygeleder-streik vil ramme hele landet",
+      "link": "https://www.nrk.no/nyheter/avinor-sier-flygeleder-streik-vil-ramme-hele-landet-1.17996750",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 21 Aug 2026 05:48:29 GMT"
+    },
+    {
+      "title": "Flygelederforeningen: – Svært uheldig at dette rammer en uskyldig tredjepart",
+      "link": "https://www.nrk.no/nyheter/flygelederforeningen_-_-svaert-uheldig-at-dette-rammer-en-uskyldig-tredjepart-1.17996741",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 21 Aug 2026 05:42:34 GMT"
+    },
+    {
+      "title": "Riksmekleren til NRK: – Jeg er skuffet",
+      "link": "https://www.nrk.no/nyheter/riksmekleren-til-nrk_-_-jeg-er-skuffet-1.17996710",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 21 Aug 2026 05:38:12 GMT"
+    },
     {
       "title": "Spekter: Flygelederforeningen går ut i streik",
       "link": "https://www.nrk.no/nyheter/spekter_-flygelederforeningen-gar-ut-i-streik-1.17996708",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store-krever-at-israel-stanser-bosettingsprosjekt-pa-vestbredden-1.17996700",
       "category": "Krigen i Midtøsten",
       "pubDate": "Fri, 21 Aug 2026 04:51:33 GMT"
-    },
-    {
-      "title": "Karpe tildeles Fritt Ords Honnør",
-      "link": "https://www.nrk.no/nyheter/karpe-tildeles-fritt-ords-honnor-1.17996691",
-      "category": "Musikk",
-      "pubDate": "Fri, 21 Aug 2026 04:45:24 GMT"
-    },
-    {
-      "title": "Kraftig fall i norske filmer og dramaserier",
-      "link": "https://www.nrk.no/nyheter/kraftig-fall-i-norske-filmer-og-dramaserier-1.17996643",
-      "category": "Film og serier",
-      "pubDate": "Fri, 21 Aug 2026 03:36:39 GMT"
-    },
-    {
-      "title": "Flykrasj i Alaska – åtte om bord",
-      "link": "https://www.nrk.no/nyheter/flykrasj-i-alaska-_-atte-om-bord-1.17996638",
-      "category": "USA",
-      "pubDate": "Fri, 21 Aug 2026 02:59:14 GMT"
-    },
-    {
-      "title": "Fire personer døde da de ble påkjørt av tog i Japan",
-      "link": "https://www.nrk.no/nyheter/fire-personer-dode-da-de-ble-pakjort-av-tog-i-japan-1.17996640",
-      "category": "Japan",
-      "pubDate": "Fri, 21 Aug 2026 01:48:40 GMT"
     }
   ]
 }
