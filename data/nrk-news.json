@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-21T18:49:12.576Z",
+  "updatedAt": "2026-08-21T19:26:22.372Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "En person død etter sverdangrep i Sverige",
+      "link": "https://www.nrk.no/nyheter/en-person-dod-etter-sverdangrep-i-sverige-1.17997813",
+      "category": "Sverige",
+      "pubDate": "Fri, 21 Aug 2026 19:03:55 GMT"
+    },
     {
       "title": "Fly havnet opp ned i vannet i Danmark – nordmann var om bord",
       "link": "https://www.nrk.no/nyheter/fly-havnet-opp-ned-i-vannet-i-danmark-_-nordmann-var-om-bord-1.17997802",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/alex-jones-far-redusert-erstatningskrav-1.17997645",
       "category": "USA",
       "pubDate": "Fri, 21 Aug 2026 15:47:17 GMT"
-    },
-    {
-      "title": "Seks drept og over 90 såret i russisk angrep mot kjøpesenter i Ukraina",
-      "link": "https://www.nrk.no/nyheter/seks-drept-og-over-90-saret-i-russisk-angrep-mot-kjopesenter-i-ukraina-1.17997668",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 21 Aug 2026 15:45:09 GMT"
     }
   ]
 }
