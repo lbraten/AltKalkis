@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-21T19:48:40.936Z",
+  "updatedAt": "2026-08-21T20:26:52.754Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Den svenske kongen: – Forferdelse og sorg",
+      "link": "https://www.nrk.no/nyheter/den-svenske-kongen_-_-forferdelse-og-sorg-1.17997839",
+      "category": "Sverige",
+      "pubDate": "Fri, 21 Aug 2026 20:19:19 GMT"
+    },
     {
       "title": "En person død etter sverdangrep i Sverige",
       "link": "https://www.nrk.no/nyheter/en-person-dod-etter-sverdangrep-i-sverige-1.17997813",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/godkjenner-stor-vapenleveranse-til-sor-korea-1.17997707",
       "category": "Sør-Korea",
       "pubDate": "Fri, 21 Aug 2026 16:41:29 GMT"
-    },
-    {
-      "title": "Alex Jones får redusert erstatningskrav",
-      "link": "https://www.nrk.no/nyheter/alex-jones-far-redusert-erstatningskrav-1.17997645",
-      "category": "USA",
-      "pubDate": "Fri, 21 Aug 2026 15:47:17 GMT"
     }
   ]
 }
