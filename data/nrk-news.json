@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-21T07:43:22.714Z",
+  "updatedAt": "2026-08-21T08:41:33.072Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kaveh Rashidi slutter som fastlege",
+      "link": "https://www.nrk.no/nyheter/kaveh-rashidi-slutter-som-fastlege-1.17996942",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 21 Aug 2026 08:21:46 GMT"
+    },
+    {
+      "title": "Fellesforbundet: Kabinansatte i SAS sier ja til ny tariffavtale",
+      "link": "https://www.nrk.no/nyheter/fellesforbundet_-kabinansatte-i-sas-sier-ja-til-ny-tariffavtale-1.17996917",
+      "category": "Flyselskapet SAS",
+      "pubDate": "Fri, 21 Aug 2026 08:06:44 GMT"
+    },
+    {
+      "title": "Kina: USA-sanksjoner mot Iran ingen løsning",
+      "link": "https://www.nrk.no/nyheter/kina_-usa-sanksjoner-mot-iran-ingen-losning-1.17996815",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 21 Aug 2026 07:48:53 GMT"
+    },
     {
       "title": "Forbyr elsparkesykler ved barnehager og skoler i Bergen",
       "link": "https://www.nrk.no/vestland/forbyr-elsparkesykler-ved-barnehager-og-skoler-i-bergen-1.17996834",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/rogaland/siri-kalvig-gir-seg-som-leder-for-nysno-1.17996795",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Fri, 21 Aug 2026 06:46:16 GMT"
-    },
-    {
-      "title": "Ukraina: Russiske droner traff grensepost ved Moldova",
-      "link": "https://www.nrk.no/nyheter/ukraina_-russiske-droner-traff-grensepost-ved-moldova-1.17996759",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 21 Aug 2026 06:00:37 GMT"
-    },
-    {
-      "title": "Avinor sier flygeleder-streik vil ramme hele landet",
-      "link": "https://www.nrk.no/nyheter/avinor-sier-flygeleder-streik-vil-ramme-hele-landet-1.17996750",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Fri, 21 Aug 2026 05:48:29 GMT"
-    },
-    {
-      "title": "Flygelederforeningen: – Svært uheldig at dette rammer en uskyldig tredjepart",
-      "link": "https://www.nrk.no/nyheter/flygelederforeningen_-_-svaert-uheldig-at-dette-rammer-en-uskyldig-tredjepart-1.17996741",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Fri, 21 Aug 2026 05:42:34 GMT"
     }
   ]
 }
