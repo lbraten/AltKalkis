@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-21T10:31:44.224Z",
+  "updatedAt": "2026-08-21T11:27:17.454Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kongen blir fortsatt værende på Rikshospitalet for behandling",
+      "link": "https://www.nrk.no/nyheter/kongen-blir-fortsatt-vaerende-pa-rikshospitalet-for-behandling-1.17997195",
+      "category": "Kongefamilien",
+      "pubDate": "Fri, 21 Aug 2026 11:27:03 GMT"
+    },
+    {
+      "title": "Kapteinen på NCL Salten dømt til 30 dagers betinget fengsel",
+      "link": "https://www.nrk.no/trondelag/kapteinen-pa-ncl-salten-domt-til-30-dagers-betinget-fengsel-1.17997241",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 21 Aug 2026 11:17:32 GMT"
+    },
+    {
+      "title": "Tesla tilbakekaller flere millioner biler i Kina",
+      "link": "https://www.nrk.no/nyheter/tesla-tilbakekaller-flere-millioner-biler-i-kina-1.17997114",
+      "category": "Tesla",
+      "pubDate": "Fri, 21 Aug 2026 10:59:07 GMT"
+    },
+    {
+      "title": "Lørenskog-siktet utleveres til Norge på mandag",
+      "link": "https://www.nrk.no/stor-oslo/lorenskog-siktet-utleveres-til-norge-pa-mandag-1.17997084",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 21 Aug 2026 10:31:39 GMT"
+    },
     {
       "title": "Drapssaken på Jæren: Utvider siktelsen",
       "link": "https://www.nrk.no/rogaland/drapssaken-pa-jaeren_-utvider-siktelsen-1.17997139",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nordland/gener-av-oppdrettslaks-funnet-i-to-av-tre-villaksbestander-1.17997048",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Fri, 21 Aug 2026 09:55:22 GMT"
-    },
-    {
-      "title": "USA og Sør-Korea avslutter nedskalerte militærøvelser",
-      "link": "https://www.nrk.no/nyheter/usa-og-sor-korea-avslutter-nedskalerte-militaerovelser-1.17997082",
-      "category": "Sør-Korea",
-      "pubDate": "Fri, 21 Aug 2026 09:54:00 GMT"
-    },
-    {
-      "title": "Dobbeltdrapet i Ski: Ber om 17 års fengsel",
-      "link": "https://www.nrk.no/nyheter/dobbeltdrapet-i-ski_-ber-om-17-ars-fengsel-1.17997027",
-      "category": "Dobbeltdrap i Ski",
-      "pubDate": "Fri, 21 Aug 2026 09:23:46 GMT"
-    },
-    {
-      "title": "FN: Over 2500 døde i Ebola-utbruddet i Kongo",
-      "link": "https://www.nrk.no/nyheter/fn_-over-2500-dode-i-ebola-utbruddet-i-kongo-1.17996988",
-      "category": "Ebola",
-      "pubDate": "Fri, 21 Aug 2026 08:52:11 GMT"
-    },
-    {
-      "title": "Kaveh Rashidi slutter som fastlege",
-      "link": "https://www.nrk.no/nyheter/kaveh-rashidi-slutter-som-fastlege-1.17996942",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 21 Aug 2026 08:21:46 GMT"
     }
   ]
 }
