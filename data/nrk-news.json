@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-21T02:45:14.449Z",
+  "updatedAt": "2026-08-21T03:50:55.530Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kraftig fall i norske filmer og dramaserier",
+      "link": "https://www.nrk.no/nyheter/kraftig-fall-i-norske-filmer-og-dramaserier-1.17996643",
+      "category": "Film og serier",
+      "pubDate": "Fri, 21 Aug 2026 03:36:39 GMT"
+    },
+    {
+      "title": "Flykrasj i Alaska – åtte om bord",
+      "link": "https://www.nrk.no/nyheter/flykrasj-i-alaska-_-atte-om-bord-1.17996638",
+      "category": "USA",
+      "pubDate": "Fri, 21 Aug 2026 02:59:14 GMT"
+    },
     {
       "title": "Fire personer døde da de ble påkjørt av tog i Japan",
       "link": "https://www.nrk.no/nyheter/fire-personer-dode-da-de-ble-pakjort-av-tog-i-japan-1.17996640",
@@ -15,8 +27,8 @@
       "pubDate": "Fri, 21 Aug 2026 01:46:27 GMT"
     },
     {
-      "title": "Pakistans eksstatsminister er flyttet fra fengsel til sykehus",
-      "link": "https://www.nrk.no/nyheter/pakistans-eksstatsminister-er-flyttet-fra-fengsel-til-sykehus-1.17996636",
+      "title": "Eksstatsminister flyttet fra fengsel til sykehus og tilbake",
+      "link": "https://www.nrk.no/nyheter/eksstatsminister-flyttet-fra-fengsel-til-sykehus-og-tilbake-1.17996636",
       "category": "NRK Nyheter",
       "pubDate": "Thu, 20 Aug 2026 23:28:09 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tonsberg_-mann-til-sykehus-etter-a-ha-falt-i-sjoen-1.17996626",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Thu, 20 Aug 2026 21:23:09 GMT"
-    },
-    {
-      "title": "Mistenker at russisk fly krenket finsk luftrom",
-      "link": "https://www.nrk.no/nyheter/mistenker-at-russisk-fly-krenket-finsk-luftrom-1.17996427",
-      "category": "Finland",
-      "pubDate": "Thu, 20 Aug 2026 18:50:04 GMT"
-    },
-    {
-      "title": "Journal-problemer på sykehus",
-      "link": "https://www.nrk.no/stor-oslo/journal-problemer-pa-sykehus-1.17996415",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 20 Aug 2026 17:22:22 GMT"
     }
   ]
 }
