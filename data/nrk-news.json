@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-21T09:37:27.271Z",
+  "updatedAt": "2026-08-21T10:31:44.224Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Drapssaken på Jæren: Utvider siktelsen",
+      "link": "https://www.nrk.no/rogaland/drapssaken-pa-jaeren_-utvider-siktelsen-1.17997139",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Fri, 21 Aug 2026 10:08:46 GMT"
+    },
+    {
+      "title": "Gener av oppdrettslaks funnet i to av tre villaksbestander",
+      "link": "https://www.nrk.no/nordland/gener-av-oppdrettslaks-funnet-i-to-av-tre-villaksbestander-1.17997048",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 21 Aug 2026 09:55:22 GMT"
+    },
+    {
+      "title": "USA og Sør-Korea avslutter nedskalerte militærøvelser",
+      "link": "https://www.nrk.no/nyheter/usa-og-sor-korea-avslutter-nedskalerte-militaerovelser-1.17997082",
+      "category": "Sør-Korea",
+      "pubDate": "Fri, 21 Aug 2026 09:54:00 GMT"
+    },
     {
       "title": "Dobbeltdrapet i Ski: Ber om 17 års fengsel",
       "link": "https://www.nrk.no/nyheter/dobbeltdrapet-i-ski_-ber-om-17-ars-fengsel-1.17997027",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kaveh-rashidi-slutter-som-fastlege-1.17996942",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 21 Aug 2026 08:21:46 GMT"
-    },
-    {
-      "title": "Fellesforbundet: Kabinansatte i SAS sier ja til ny tariffavtale",
-      "link": "https://www.nrk.no/nyheter/fellesforbundet_-kabinansatte-i-sas-sier-ja-til-ny-tariffavtale-1.17996917",
-      "category": "Flyselskapet SAS",
-      "pubDate": "Fri, 21 Aug 2026 08:06:44 GMT"
-    },
-    {
-      "title": "Kina: USA-sanksjoner mot Iran ingen løsning",
-      "link": "https://www.nrk.no/nyheter/kina_-usa-sanksjoner-mot-iran-ingen-losning-1.17996815",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 21 Aug 2026 07:48:53 GMT"
-    },
-    {
-      "title": "Forbyr elsparkesykler ved barnehager og skoler i Bergen",
-      "link": "https://www.nrk.no/vestland/forbyr-elsparkesykler-ved-barnehager-og-skoler-i-bergen-1.17996834",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 21 Aug 2026 07:09:32 GMT"
     }
   ]
 }
