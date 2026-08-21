@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-21T14:36:19.894Z",
+  "updatedAt": "2026-08-21T15:34:34.644Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To alvorlig skadd ved svensk skole",
+      "link": "https://www.nrk.no/nyheter/to-alvorlig-skadd-ved-svensk-skole-1.17997628",
+      "category": "Sverige",
+      "pubDate": "Fri, 21 Aug 2026 15:17:16 GMT"
+    },
+    {
+      "title": "Vestnilvirus påvist i 12 europeiske land",
+      "link": "https://www.nrk.no/nyheter/vestnilvirus-pavist-i-12-europeiske-land-1.17997605",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 21 Aug 2026 14:52:06 GMT"
+    },
+    {
+      "title": "Frankrike: 300.000 ubrukelige kondomer",
+      "link": "https://www.nrk.no/nyheter/frankrike_-300.000-ubrukelige-kondomer-1.17997600",
+      "category": "Frankrike",
+      "pubDate": "Fri, 21 Aug 2026 14:43:58 GMT"
+    },
+    {
+      "title": "To drept i russisk angrep mot kjøpesenter sentralt i Ukraina",
+      "link": "https://www.nrk.no/nyheter/to-drept-i-russisk-angrep-mot-kjopesenter-sentralt-i-ukraina-1.17997568",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 21 Aug 2026 14:38:25 GMT"
+    },
     {
       "title": "Sveriges statsminister: Våre tanker er hos de rammede",
       "link": "https://www.nrk.no/nyheter/sveriges-statsminister_-vare-tanker-er-hos-de-rammede-1.17997552",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/varsler-utvidelse-av-mulig-helikopterstreik-fra-onsdag-1.17997534",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Fri, 21 Aug 2026 13:52:19 GMT"
-    },
-    {
-      "title": "AP: 14 drept i militærangrep mot buddhistkloster i Myanmar",
-      "link": "https://www.nrk.no/nyheter/ap_-14-drept-i-militaerangrep-mot-buddhistkloster-i-myanmar-1.17997532",
-      "category": "Myanmar",
-      "pubDate": "Fri, 21 Aug 2026 13:43:39 GMT"
-    },
-    {
-      "title": "Person med sverd skal ha skadd flere på svensk skole",
-      "link": "https://www.nrk.no/nyheter/person-med-sverd-skal-ha-skadd-flere-pa-svensk-skole-1.17997424",
-      "category": "Sverige",
-      "pubDate": "Fri, 21 Aug 2026 12:55:42 GMT"
-    },
-    {
-      "title": "Finland kaller Russland inn på teppet",
-      "link": "https://www.nrk.no/nyheter/finland-kaller-russland-inn-pa-teppet-1.17997405",
-      "category": "Finland",
-      "pubDate": "Fri, 21 Aug 2026 12:40:37 GMT"
-    },
-    {
-      "title": "Fengslingsmøte på tirsdag",
-      "link": "https://www.nrk.no/nyheter/fengslingsmote-pa-tirsdag-1.17997385",
-      "category": "Anne-Elisabeth Hagen savnet",
-      "pubDate": "Fri, 21 Aug 2026 12:40:18 GMT"
     }
   ]
 }
