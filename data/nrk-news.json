@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-21T22:52:00.912Z",
+  "updatedAt": "2026-08-21T23:24:47.321Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rundt 200 ungdom bortvist fra fest",
+      "link": "https://www.nrk.no/nyheter/rundt-200-ungdom-bortvist-fra-fest-1.17997913",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 21 Aug 2026 22:52:50 GMT"
+    },
     {
       "title": "Flygelederstreiken: Disse flyvningene er kansellert lørdag",
       "link": "https://www.nrk.no/nyheter/flygelederstreiken_-disse-flyvningene-er-kansellert-lordag-1.17997891",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/hoyesterett-tillater-videre-bygging-av-trumps-ballsal-1.17997711",
       "category": "USA",
       "pubDate": "Fri, 21 Aug 2026 18:07:53 GMT"
-    },
-    {
-      "title": "Dødstallene stiger etter kjøpesenterangrep",
-      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-kjopesenterangrep-1.17997746",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 21 Aug 2026 17:04:55 GMT"
     }
   ]
 }
