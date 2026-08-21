@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-21T17:58:53.298Z",
+  "updatedAt": "2026-08-21T18:49:12.576Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fly havnet opp ned i vannet i Danmark – nordmann var om bord",
+      "link": "https://www.nrk.no/nyheter/fly-havnet-opp-ned-i-vannet-i-danmark-_-nordmann-var-om-bord-1.17997802",
+      "category": "Danmark",
+      "pubDate": "Fri, 21 Aug 2026 18:10:15 GMT"
+    },
+    {
+      "title": "Høyesterett tillater videre bygging av Trumps ballsal",
+      "link": "https://www.nrk.no/nyheter/hoyesterett-tillater-videre-bygging-av-trumps-ballsal-1.17997711",
+      "category": "USA",
+      "pubDate": "Fri, 21 Aug 2026 18:07:53 GMT"
+    },
     {
       "title": "Dødstallene stiger etter kjøpesenterangrep",
       "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-kjopesenterangrep-1.17997746",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/seks-drept-og-over-90-saret-i-russisk-angrep-mot-kjopesenter-i-ukraina-1.17997668",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 21 Aug 2026 15:45:09 GMT"
-    },
-    {
-      "title": "To alvorlig skadd ved svensk skole",
-      "link": "https://www.nrk.no/nyheter/to-alvorlig-skadd-ved-svensk-skole-1.17997628",
-      "category": "Sverige",
-      "pubDate": "Fri, 21 Aug 2026 15:17:16 GMT"
-    },
-    {
-      "title": "Vestnilvirus påvist i 12 europeiske land",
-      "link": "https://www.nrk.no/nyheter/vestnilvirus-pavist-i-12-europeiske-land-1.17997605",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 21 Aug 2026 14:52:06 GMT"
     }
   ]
 }
