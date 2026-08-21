@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-21T01:22:10.297Z",
+  "updatedAt": "2026-08-21T02:45:14.449Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fire personer døde da de ble påkjørt av tog i Japan",
+      "link": "https://www.nrk.no/nyheter/fire-personer-dode-da-de-ble-pakjort-av-tog-i-japan-1.17996640",
+      "category": "Japan",
+      "pubDate": "Fri, 21 Aug 2026 01:48:40 GMT"
+    },
+    {
+      "title": "Tre personer skadet i jordskjelv i Peru",
+      "link": "https://www.nrk.no/nyheter/tre-personer-skadet-i-jordskjelv-i-peru-1.17996639",
+      "category": "Jordskjelv i Sør-Amerika",
+      "pubDate": "Fri, 21 Aug 2026 01:46:27 GMT"
+    },
     {
       "title": "Pakistans eksstatsminister er flyttet fra fengsel til sykehus",
       "link": "https://www.nrk.no/nyheter/pakistans-eksstatsminister-er-flyttet-fra-fengsel-til-sykehus-1.17996636",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/journal-problemer-pa-sykehus-1.17996415",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 20 Aug 2026 17:22:22 GMT"
-    },
-    {
-      "title": "Nærmer seg meklingsfrist for flygelederne",
-      "link": "https://www.nrk.no/nyheter/naermer-seg-meklingsfrist-for-flygelederne-1.17996328",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 20 Aug 2026 17:17:33 GMT"
-    },
-    {
-      "title": "Europeiske stormakter fordømmer israelsk byggeprosjekt på Vestbredden",
-      "link": "https://www.nrk.no/nyheter/europeiske-stormakter-fordommer-israelsk-byggeprosjekt-pa-vestbredden-1.17996425",
-      "category": "Krigen i Gaza",
-      "pubDate": "Thu, 20 Aug 2026 16:47:42 GMT"
     }
   ]
 }
