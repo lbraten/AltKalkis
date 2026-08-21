@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-21T11:54:03.132Z",
+  "updatedAt": "2026-08-21T12:50:29.606Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Finland kaller Russland inn på teppet",
+      "link": "https://www.nrk.no/nyheter/finland-kaller-russland-inn-pa-teppet-1.17997405",
+      "category": "Finland",
+      "pubDate": "Fri, 21 Aug 2026 12:40:37 GMT"
+    },
+    {
+      "title": "Fengslingsmøte på tirsdag",
+      "link": "https://www.nrk.no/nyheter/fengslingsmote-pa-tirsdag-1.17997385",
+      "category": "Anne-Elisabeth Hagen savnet",
+      "pubDate": "Fri, 21 Aug 2026 12:40:18 GMT"
+    },
+    {
+      "title": "Tyrkia utsteder arrestordre mot Netanyahu",
+      "link": "https://www.nrk.no/nyheter/tyrkia-utsteder-arrestordre-mot-netanyahu-1.17997407",
+      "category": "Tyrkia",
+      "pubDate": "Fri, 21 Aug 2026 12:39:58 GMT"
+    },
+    {
+      "title": "Steinar Wangen får full ankebehandling",
+      "link": "https://www.nrk.no/nyheter/steinar-wangen-far-full-ankebehandling-1.17997371",
+      "category": "Drap i Norge",
+      "pubDate": "Fri, 21 Aug 2026 12:24:03 GMT"
+    },
+    {
+      "title": "Rush av kanselleringer på flyplassene",
+      "link": "https://www.nrk.no/vestland/rush-av-kanselleringer-pa-flyplassene-1.17996846",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 21 Aug 2026 12:15:43 GMT"
+    },
     {
       "title": "Kongen blir fortsatt værende på Rikshospitalet for behandling",
       "link": "https://www.nrk.no/nyheter/kongen-blir-fortsatt-vaerende-pa-rikshospitalet-for-behandling-1.17997195",
       "category": "Kongefamilien",
       "pubDate": "Fri, 21 Aug 2026 11:27:03 GMT"
-    },
-    {
-      "title": "Kapteinen på NCL Salten dømt til 30 dagers betinget fengsel",
-      "link": "https://www.nrk.no/trondelag/kapteinen-pa-ncl-salten-domt-til-30-dagers-betinget-fengsel-1.17997241",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 21 Aug 2026 11:17:32 GMT"
-    },
-    {
-      "title": "Tesla tilbakekaller flere millioner biler i Kina",
-      "link": "https://www.nrk.no/nyheter/tesla-tilbakekaller-flere-millioner-biler-i-kina-1.17997114",
-      "category": "Tesla",
-      "pubDate": "Fri, 21 Aug 2026 10:59:07 GMT"
-    },
-    {
-      "title": "Lørenskog-siktet utleveres til Norge på mandag",
-      "link": "https://www.nrk.no/stor-oslo/lorenskog-siktet-utleveres-til-norge-pa-mandag-1.17997084",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 21 Aug 2026 10:31:39 GMT"
-    },
-    {
-      "title": "Drapssaken på Jæren: Utvider siktelsen",
-      "link": "https://www.nrk.no/rogaland/drapssaken-pa-jaeren_-utvider-siktelsen-1.17997139",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Fri, 21 Aug 2026 10:08:46 GMT"
-    },
-    {
-      "title": "Gener av oppdrettslaks funnet i to av tre villaksbestander",
-      "link": "https://www.nrk.no/nordland/gener-av-oppdrettslaks-funnet-i-to-av-tre-villaksbestander-1.17997048",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Fri, 21 Aug 2026 09:55:22 GMT"
     }
   ]
 }
