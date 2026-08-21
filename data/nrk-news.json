@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-21T04:39:08.361Z",
+  "updatedAt": "2026-08-21T05:33:42.485Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Spekter: Flygelederforeningen går ut i streik",
+      "link": "https://www.nrk.no/nyheter/spekter_-flygelederforeningen-gar-ut-i-streik-1.17996708",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 21 Aug 2026 04:57:20 GMT"
+    },
+    {
+      "title": "Støre krever at Israel stanser bosettingsprosjekt på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/store-krever-at-israel-stanser-bosettingsprosjekt-pa-vestbredden-1.17996700",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Fri, 21 Aug 2026 04:51:33 GMT"
+    },
+    {
+      "title": "Karpe tildeles Fritt Ords Honnør",
+      "link": "https://www.nrk.no/nyheter/karpe-tildeles-fritt-ords-honnor-1.17996691",
+      "category": "Musikk",
+      "pubDate": "Fri, 21 Aug 2026 04:45:24 GMT"
+    },
     {
       "title": "Kraftig fall i norske filmer og dramaserier",
       "link": "https://www.nrk.no/nyheter/kraftig-fall-i-norske-filmer-og-dramaserier-1.17996643",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fire-personer-dode-da-de-ble-pakjort-av-tog-i-japan-1.17996640",
       "category": "Japan",
       "pubDate": "Fri, 21 Aug 2026 01:48:40 GMT"
-    },
-    {
-      "title": "Tre personer skadet i jordskjelv i Peru",
-      "link": "https://www.nrk.no/nyheter/tre-personer-skadet-i-jordskjelv-i-peru-1.17996639",
-      "category": "Jordskjelv i Sør-Amerika",
-      "pubDate": "Fri, 21 Aug 2026 01:46:27 GMT"
-    },
-    {
-      "title": "Eksstatsminister flyttet fra fengsel til sykehus og tilbake",
-      "link": "https://www.nrk.no/nyheter/eksstatsminister-flyttet-fra-fengsel-til-sykehus-og-tilbake-1.17996636",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 20 Aug 2026 23:28:09 GMT"
-    },
-    {
-      "title": "Tønsberg: Mann til sykehus etter å ha falt i sjøen",
-      "link": "https://www.nrk.no/nyheter/tonsberg_-mann-til-sykehus-etter-a-ha-falt-i-sjoen-1.17996626",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Thu, 20 Aug 2026 21:23:09 GMT"
     }
   ]
 }
