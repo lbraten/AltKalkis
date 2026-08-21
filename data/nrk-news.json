@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-21T13:46:21.953Z",
+  "updatedAt": "2026-08-21T14:36:19.894Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sveriges statsminister: Våre tanker er hos de rammede",
+      "link": "https://www.nrk.no/nyheter/sveriges-statsminister_-vare-tanker-er-hos-de-rammede-1.17997552",
+      "category": "Sverige",
+      "pubDate": "Fri, 21 Aug 2026 14:04:28 GMT"
+    },
+    {
+      "title": "Varsler utvidelse av mulig helikopterstreik fra onsdag",
+      "link": "https://www.nrk.no/nyheter/varsler-utvidelse-av-mulig-helikopterstreik-fra-onsdag-1.17997534",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 21 Aug 2026 13:52:19 GMT"
+    },
+    {
+      "title": "AP: 14 drept i militærangrep mot buddhistkloster i Myanmar",
+      "link": "https://www.nrk.no/nyheter/ap_-14-drept-i-militaerangrep-mot-buddhistkloster-i-myanmar-1.17997532",
+      "category": "Myanmar",
+      "pubDate": "Fri, 21 Aug 2026 13:43:39 GMT"
+    },
     {
       "title": "Person med sverd skal ha skadd flere på svensk skole",
       "link": "https://www.nrk.no/nyheter/person-med-sverd-skal-ha-skadd-flere-pa-svensk-skole-1.17997424",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fengslingsmote-pa-tirsdag-1.17997385",
       "category": "Anne-Elisabeth Hagen savnet",
       "pubDate": "Fri, 21 Aug 2026 12:40:18 GMT"
-    },
-    {
-      "title": "Tyrkia utsteder arrestordre mot Netanyahu",
-      "link": "https://www.nrk.no/nyheter/tyrkia-utsteder-arrestordre-mot-netanyahu-1.17997407",
-      "category": "Tyrkia",
-      "pubDate": "Fri, 21 Aug 2026 12:39:58 GMT"
-    },
-    {
-      "title": "Steinar Wangen får full ankebehandling",
-      "link": "https://www.nrk.no/nyheter/steinar-wangen-far-full-ankebehandling-1.17997371",
-      "category": "Drap i Norge",
-      "pubDate": "Fri, 21 Aug 2026 12:24:03 GMT"
-    },
-    {
-      "title": "Rush av kanselleringer på flyplassene",
-      "link": "https://www.nrk.no/vestland/rush-av-kanselleringer-pa-flyplassene-1.17996846",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 21 Aug 2026 12:15:43 GMT"
     }
   ]
 }
