@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-21T21:25:39.903Z",
+  "updatedAt": "2026-08-21T21:50:06.039Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flygelederstreiken: Disse flyvningene er kansellert lørdag",
+      "link": "https://www.nrk.no/nyheter/flygelederstreiken_-disse-flyvningene-er-kansellert-lordag-1.17997891",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 21 Aug 2026 21:31:48 GMT"
+    },
     {
       "title": "Den svenske kongen: – Forferdelse og sorg",
       "link": "https://www.nrk.no/nyheter/den-svenske-kongen_-_-forferdelse-og-sorg-1.17997839",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-kjopesenterangrep-1.17997746",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 21 Aug 2026 17:04:55 GMT"
-    },
-    {
-      "title": "Godkjenner stor våpenleveranse til Sør-Korea",
-      "link": "https://www.nrk.no/nyheter/godkjenner-stor-vapenleveranse-til-sor-korea-1.17997707",
-      "category": "Sør-Korea",
-      "pubDate": "Fri, 21 Aug 2026 16:41:29 GMT"
     }
   ]
 }
