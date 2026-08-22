@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-22T10:49:29.270Z",
+  "updatedAt": "2026-08-22T11:21:24.463Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Titalls sivile drept av jihadister i Nigeria",
+      "link": "https://www.nrk.no/nyheter/titalls-sivile-drept-av-jihadister-i-nigeria-1.17998039",
+      "category": "Nigeria",
+      "pubDate": "Sat, 22 Aug 2026 11:12:59 GMT"
+    },
     {
       "title": "Lagerbygg og oljeraffineri truffet av ukrainske droner",
       "link": "https://www.nrk.no/nyheter/lagerbygg-og-oljeraffineri-truffet-av-ukrainske-droner-1.17998004",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/17-ar-gammel-jente-drept-i-skoleangrep-i-sverige-1.17997989",
       "category": "Sverige",
       "pubDate": "Sat, 22 Aug 2026 07:11:48 GMT"
-    },
-    {
-      "title": "Skoleangrep i Sverige – person mistenkt for drap og drapsforsøk",
-      "link": "https://www.nrk.no/nyheter/skoleangrep-i-sverige-_-person-mistenkt-for-drap-og-drapsforsok-1.17997967",
-      "category": "Sverige",
-      "pubDate": "Sat, 22 Aug 2026 06:50:33 GMT"
     }
   ]
 }
