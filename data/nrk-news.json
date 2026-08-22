@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-22T13:32:32.147Z",
+  "updatedAt": "2026-08-22T14:22:41.956Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sju døde under biljakt i England",
+      "link": "https://www.nrk.no/nyheter/sju-dode-under-biljakt-i-england-1.17998222",
+      "category": "Storbritannia",
+      "pubDate": "Sat, 22 Aug 2026 14:02:11 GMT"
+    },
+    {
+      "title": "Frankrike lover Ukraina avskjæringsmissiler",
+      "link": "https://www.nrk.no/nyheter/frankrike-lover-ukraina-avskjaeringsmissiler-1.17998172",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 22 Aug 2026 13:50:31 GMT"
+    },
     {
       "title": "Anders Danielsen Lie har fått stein på «Walk of Fame» i Haugesund",
       "link": "https://www.nrk.no/rogaland/anders-danielsen-lie-har-fatt-stein-pa-_walk-of-fame_-i-haugesund-1.17998186",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/titalls-sivile-drept-av-jihadister-i-nigeria-1.17998039",
       "category": "Nigeria",
       "pubDate": "Sat, 22 Aug 2026 11:12:59 GMT"
-    },
-    {
-      "title": "Lagerbygg og oljeraffineri truffet av ukrainske droner",
-      "link": "https://www.nrk.no/nyheter/lagerbygg-og-oljeraffineri-truffet-av-ukrainske-droner-1.17998004",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 22 Aug 2026 08:52:51 GMT"
-    },
-    {
-      "title": "Åtte personar til sjukehus etter trafikkulykke",
-      "link": "https://www.nrk.no/vestland/atte-personar-til-sjukehus-etter-trafikkulykke--1.17998025",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 22 Aug 2026 08:29:35 GMT"
     }
   ]
 }
