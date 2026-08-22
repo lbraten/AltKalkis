@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-22T14:22:41.956Z",
+  "updatedAt": "2026-08-22T14:48:29.165Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "9000 passasjerer rammes av Norwegian-kanselleringer søndag",
+      "link": "https://www.nrk.no/nyheter/9000-passasjerer-rammes-av-norwegian-kanselleringer-sondag-1.17998226",
+      "category": "Luftfart",
+      "pubDate": "Sat, 22 Aug 2026 14:25:57 GMT"
+    },
     {
       "title": "Sju døde under biljakt i England",
       "link": "https://www.nrk.no/nyheter/sju-dode-under-biljakt-i-england-1.17998222",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/innlandet/person-floyet-med-luftambulanse-etter-bilulykke-1.17998082",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 22 Aug 2026 11:49:09 GMT"
-    },
-    {
-      "title": "Titalls sivile drept av jihadister i Nigeria",
-      "link": "https://www.nrk.no/nyheter/titalls-sivile-drept-av-jihadister-i-nigeria-1.17998039",
-      "category": "Nigeria",
-      "pubDate": "Sat, 22 Aug 2026 11:12:59 GMT"
     }
   ]
 }
