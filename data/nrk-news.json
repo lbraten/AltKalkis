@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-21T23:49:01.373Z",
+  "updatedAt": "2026-08-22T01:17:59.354Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Giftig røyk fra brann i plastbedrift i Søgne",
+      "link": "https://www.nrk.no/nyheter/giftig-royk-fra-brann-i-plastbedrift-i-sogne-1.17997919",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 22 Aug 2026 00:41:23 GMT"
+    },
+    {
+      "title": "Fire personer pågrepet etter tyveriforsøk i Nannestad",
+      "link": "https://www.nrk.no/nyheter/fire-personer-pagrepet-etter-tyveriforsok-i-nannestad-1.17997918",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 22 Aug 2026 00:14:04 GMT"
+    },
     {
       "title": "Rundt 200 ungdom bortvist fra fest",
       "link": "https://www.nrk.no/nyheter/rundt-200-ungdom-bortvist-fra-fest-1.17997913",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-person-dod-etter-sverdangrep-i-sverige-1.17997813",
       "category": "Sverige",
       "pubDate": "Fri, 21 Aug 2026 19:03:55 GMT"
-    },
-    {
-      "title": "Fly havnet opp ned i vannet i Danmark – nordmann var om bord",
-      "link": "https://www.nrk.no/nyheter/fly-havnet-opp-ned-i-vannet-i-danmark-_-nordmann-var-om-bord-1.17997802",
-      "category": "Danmark",
-      "pubDate": "Fri, 21 Aug 2026 18:10:15 GMT"
-    },
-    {
-      "title": "Høyesterett tillater videre bygging av Trumps ballsal",
-      "link": "https://www.nrk.no/nyheter/hoyesterett-tillater-videre-bygging-av-trumps-ballsal-1.17997711",
-      "category": "USA",
-      "pubDate": "Fri, 21 Aug 2026 18:07:53 GMT"
     }
   ]
 }
