@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-22T12:41:02.309Z",
+  "updatedAt": "2026-08-22T13:32:32.147Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Anders Danielsen Lie har fått stein på «Walk of Fame» i Haugesund",
+      "link": "https://www.nrk.no/rogaland/anders-danielsen-lie-har-fatt-stein-pa-_walk-of-fame_-i-haugesund-1.17998186",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 22 Aug 2026 13:03:57 GMT"
+    },
+    {
+      "title": "Flere skadd i bryllup etter låvebru brøt sammen",
+      "link": "https://www.nrk.no/innlandet/flere-skadd-i-bryllup-etter-lavebru-brot-sammen-1.17998169",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 22 Aug 2026 12:51:37 GMT"
+    },
     {
       "title": "Person fløyet med luftambulanse etter bilulykke",
       "link": "https://www.nrk.no/innlandet/person-floyet-med-luftambulanse-etter-bilulykke-1.17998082",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/atte-personar-til-sjukehus-etter-trafikkulykke--1.17998025",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 22 Aug 2026 08:29:35 GMT"
-    },
-    {
-      "title": "Stadig flere 18-åringer uten hull",
-      "link": "https://www.nrk.no/stor-oslo/stadig-flere-18-aringer-uten-hull-1.17997968",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 22 Aug 2026 07:57:10 GMT"
-    },
-    {
-      "title": "Iran gir irakiske skip tillatelse til å passere Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran-gir-irakiske-skip-tillatelse-til-a-passere-hormuzstredet-1.17997999",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 22 Aug 2026 07:21:14 GMT"
     }
   ]
 }
