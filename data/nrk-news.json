@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-22T22:22:49.945Z",
+  "updatedAt": "2026-08-22T22:48:53.601Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Andrew og Tristan TAte melde til antiterrorpoliti",
+      "link": "https://www.nrk.no/nyheter/andrew-og-tristan-tate-melde-til-antiterrorpoliti-1.17998451",
+      "category": "Andrew Tate",
+      "pubDate": "Sat, 22 Aug 2026 22:35:29 GMT"
+    },
+    {
+      "title": "Politiet avfyrte varselskudd i forbindelse med pågripelse",
+      "link": "https://www.nrk.no/nyheter/politiet-avfyrte-varselskudd-i-forbindelse-med-pagripelse-1.17998439",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 22 Aug 2026 22:22:45 GMT"
+    },
     {
       "title": "To alvorlig skadet etter elgpåkjørsel",
       "link": "https://www.nrk.no/nyheter/to-alvorlig-skadet-etter-elgpakjorsel-1.17998436",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/mr/redningsaksjon-pa-store-trolltind-1.17998391",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sat, 22 Aug 2026 18:19:48 GMT"
-    },
-    {
-      "title": "Jordskjelv utenfor østkysten til Japan",
-      "link": "https://www.nrk.no/nyheter/jordskjelv-utenfor-ostkysten-til-japan-1.17998315",
-      "category": "Japan",
-      "pubDate": "Sat, 22 Aug 2026 17:19:58 GMT"
-    },
-    {
-      "title": "Riksmekler: Ikke grunnlag for nye møter",
-      "link": "https://www.nrk.no/nyheter/riksmekler_-ikke-grunnlag-for-nye-moter-1.17998353",
-      "category": "Luftfart",
-      "pubDate": "Sat, 22 Aug 2026 16:54:25 GMT"
     }
   ]
 }
