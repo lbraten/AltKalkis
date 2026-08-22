@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-22T03:42:46.975Z",
+  "updatedAt": "2026-08-22T04:33:43.941Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Canada og USA gir hverandre toll på 50 prosent",
+      "link": "https://www.nrk.no/nyheter/canada-og-usa-gir-hverandre-toll-pa-50-prosent-1.17997925",
+      "category": "USA",
+      "pubDate": "Sat, 22 Aug 2026 04:02:30 GMT"
+    },
     {
       "title": "Giftig røyk fra brann i plastbedrift i Søgne",
       "link": "https://www.nrk.no/nyheter/giftig-royk-fra-brann-i-plastbedrift-i-sogne-1.17997919",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/den-svenske-kongen_-_-forferdelse-og-sorg-1.17997839",
       "category": "Sverige",
       "pubDate": "Fri, 21 Aug 2026 20:19:19 GMT"
-    },
-    {
-      "title": "En person død etter sverdangrep i Sverige",
-      "link": "https://www.nrk.no/nyheter/en-person-dod-etter-sverdangrep-i-sverige-1.17997813",
-      "category": "Sverige",
-      "pubDate": "Fri, 21 Aug 2026 19:03:55 GMT"
     }
   ]
 }
