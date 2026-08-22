@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-22T04:33:43.941Z",
+  "updatedAt": "2026-08-22T05:28:27.258Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Forsinkelser på Oslo S grunnet jordfeil",
+      "link": "https://www.nrk.no/nyheter/forsinkelser-pa-oslo-s-grunnet-jordfeil-1.17997927",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 22 Aug 2026 05:23:45 GMT"
+    },
     {
       "title": "Canada og USA gir hverandre toll på 50 prosent",
       "link": "https://www.nrk.no/nyheter/canada-og-usa-gir-hverandre-toll-pa-50-prosent-1.17997925",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flygelederstreiken_-disse-flyvningene-er-kansellert-lordag-1.17997891",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Fri, 21 Aug 2026 21:31:48 GMT"
-    },
-    {
-      "title": "Den svenske kongen: – Forferdelse og sorg",
-      "link": "https://www.nrk.no/nyheter/den-svenske-kongen_-_-forferdelse-og-sorg-1.17997839",
-      "category": "Sverige",
-      "pubDate": "Fri, 21 Aug 2026 20:19:19 GMT"
     }
   ]
 }
