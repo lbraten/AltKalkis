@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-22T06:41:58.272Z",
+  "updatedAt": "2026-08-22T07:32:19.463Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran gir irakiske skip tillatelse til å passere Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran-gir-irakiske-skip-tillatelse-til-a-passere-hormuzstredet-1.17997999",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 22 Aug 2026 07:21:14 GMT"
+    },
+    {
+      "title": "17 år gammel jente drept i skoleangrep i Sverige",
+      "link": "https://www.nrk.no/nyheter/17-ar-gammel-jente-drept-i-skoleangrep-i-sverige-1.17997989",
+      "category": "Sverige",
+      "pubDate": "Sat, 22 Aug 2026 07:11:48 GMT"
+    },
+    {
+      "title": "Skoleangrep i Sverige – person mistenkt for drap og drapsforsøk",
+      "link": "https://www.nrk.no/nyheter/skoleangrep-i-sverige-_-person-mistenkt-for-drap-og-drapsforsok-1.17997967",
+      "category": "Sverige",
+      "pubDate": "Sat, 22 Aug 2026 06:50:33 GMT"
+    },
     {
       "title": "Venstrepartiet Die Linke leder på målinger for Berlin",
       "link": "https://www.nrk.no/nyheter/venstrepartiet-die-linke-leder-pa-malinger-for-berlin-1.17997930",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/forsinkelser-pa-oslo-s-grunnet-jordfeil-1.17997927",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 22 Aug 2026 05:23:45 GMT"
-    },
-    {
-      "title": "Canada og USA gir hverandre toll på 50 prosent",
-      "link": "https://www.nrk.no/nyheter/canada-og-usa-gir-hverandre-toll-pa-50-prosent-1.17997925",
-      "category": "USA",
-      "pubDate": "Sat, 22 Aug 2026 04:02:30 GMT"
-    },
-    {
-      "title": "Giftig røyk fra brann i plastbedrift i Søgne",
-      "link": "https://www.nrk.no/nyheter/giftig-royk-fra-brann-i-plastbedrift-i-sogne-1.17997919",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 22 Aug 2026 00:41:23 GMT"
-    },
-    {
-      "title": "Fire personer pågrepet etter tyveriforsøk i Nannestad",
-      "link": "https://www.nrk.no/nyheter/fire-personer-pagrepet-etter-tyveriforsok-i-nannestad-1.17997918",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 22 Aug 2026 00:14:04 GMT"
     }
   ]
 }
