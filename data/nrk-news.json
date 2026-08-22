@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-22T16:51:01.246Z",
+  "updatedAt": "2026-08-22T17:21:15.330Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Riksmekler: Ikke grunnlag for nye møter",
+      "link": "https://www.nrk.no/nyheter/riksmekler_-ikke-grunnlag-for-nye-moter-1.17998353",
+      "category": "Luftfart",
+      "pubDate": "Sat, 22 Aug 2026 16:54:25 GMT"
+    },
     {
       "title": "Canada innfører gjengjeldelsestoll mot USA",
       "link": "https://www.nrk.no/nyheter/canada-innforer-gjengjeldelsestoll-mot-usa-1.17998308",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/9000-passasjerer-rammes-av-norwegian-kanselleringer-sondag-1.17998226",
       "category": "Luftfart",
       "pubDate": "Sat, 22 Aug 2026 14:25:57 GMT"
-    },
-    {
-      "title": "Sju døde under biljakt i England",
-      "link": "https://www.nrk.no/nyheter/sju-dode-under-biljakt-i-england-1.17998222",
-      "category": "Storbritannia",
-      "pubDate": "Sat, 22 Aug 2026 14:02:11 GMT"
     }
   ]
 }
