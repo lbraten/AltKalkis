@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-22T11:45:52.212Z",
+  "updatedAt": "2026-08-22T12:41:02.309Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person fløyet med luftambulanse etter bilulykke",
+      "link": "https://www.nrk.no/innlandet/person-floyet-med-luftambulanse-etter-bilulykke-1.17998082",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 22 Aug 2026 11:49:09 GMT"
+    },
     {
       "title": "Titalls sivile drept av jihadister i Nigeria",
       "link": "https://www.nrk.no/nyheter/titalls-sivile-drept-av-jihadister-i-nigeria-1.17998039",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-gir-irakiske-skip-tillatelse-til-a-passere-hormuzstredet-1.17997999",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sat, 22 Aug 2026 07:21:14 GMT"
-    },
-    {
-      "title": "17 år gammel jente drept i skoleangrep i Sverige",
-      "link": "https://www.nrk.no/nyheter/17-ar-gammel-jente-drept-i-skoleangrep-i-sverige-1.17997989",
-      "category": "Sverige",
-      "pubDate": "Sat, 22 Aug 2026 07:11:48 GMT"
     }
   ]
 }
