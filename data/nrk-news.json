@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-22T07:32:19.463Z",
+  "updatedAt": "2026-08-22T08:31:14.652Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Stadig flere 18-åringer uten hull",
+      "link": "https://www.nrk.no/stor-oslo/stadig-flere-18-aringer-uten-hull-1.17997968",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 22 Aug 2026 07:57:10 GMT"
+    },
     {
       "title": "Iran gir irakiske skip tillatelse til å passere Hormuzstredet",
       "link": "https://www.nrk.no/nyheter/iran-gir-irakiske-skip-tillatelse-til-a-passere-hormuzstredet-1.17997999",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/ingen-streik-i-helikopterbransjen-1.17997939",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sat, 22 Aug 2026 06:03:51 GMT"
-    },
-    {
-      "title": "Forsinkelser på Oslo S grunnet jordfeil",
-      "link": "https://www.nrk.no/nyheter/forsinkelser-pa-oslo-s-grunnet-jordfeil-1.17997927",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 22 Aug 2026 05:23:45 GMT"
     }
   ]
 }
