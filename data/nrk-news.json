@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-08-22T05:55:24.636Z",
+  "updatedAt": "2026-08-22T06:41:58.272Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Venstrepartiet Die Linke leder på målinger for Berlin",
+      "link": "https://www.nrk.no/nyheter/venstrepartiet-die-linke-leder-pa-malinger-for-berlin-1.17997930",
+      "category": "Tyskland",
+      "pubDate": "Sat, 22 Aug 2026 06:24:50 GMT"
+    },
+    {
+      "title": "Ingen streik i helikopterbransjen",
+      "link": "https://www.nrk.no/rogaland/ingen-streik-i-helikopterbransjen-1.17997939",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 22 Aug 2026 06:03:51 GMT"
+    },
+    {
       "title": "Forsinkelser på Oslo S grunnet jordfeil",
       "link": "https://www.nrk.no/nyheter/forsinkelser-pa-oslo-s-grunnet-jordfeil-1.17997927",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 22 Aug 2026 05:23:45 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fire-personer-pagrepet-etter-tyveriforsok-i-nannestad-1.17997918",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 22 Aug 2026 00:14:04 GMT"
-    },
-    {
-      "title": "Rundt 200 ungdom bortvist fra fest",
-      "link": "https://www.nrk.no/nyheter/rundt-200-ungdom-bortvist-fra-fest-1.17997913",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 21 Aug 2026 22:52:50 GMT"
-    },
-    {
-      "title": "Flygelederstreiken: Disse flyvningene er kansellert lørdag",
-      "link": "https://www.nrk.no/nyheter/flygelederstreiken_-disse-flyvningene-er-kansellert-lordag-1.17997891",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Fri, 21 Aug 2026 21:31:48 GMT"
     }
   ]
 }
