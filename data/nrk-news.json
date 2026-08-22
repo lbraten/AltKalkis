@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-22T20:49:22.581Z",
+  "updatedAt": "2026-08-22T21:22:49.350Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To alvorlig skadet etter elgpåkjørsel",
+      "link": "https://www.nrk.no/nyheter/to-alvorlig-skadet-etter-elgpakjorsel-1.17998436",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 22 Aug 2026 21:14:44 GMT"
+    },
+    {
+      "title": "En mann siktet og pågrepet for voldtekt på Sunmmøre",
+      "link": "https://www.nrk.no/nyheter/en-mann-siktet-og-pagrepet-for-voldtekt-pa-sunmmore-1.17998434",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 22 Aug 2026 20:55:50 GMT"
+    },
     {
       "title": "Mange må overnatte på Flesland",
       "link": "https://www.nrk.no/vestland/mange-ma-overnatte-pa-flesland-1.17998394",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/riksmekler_-ikke-grunnlag-for-nye-moter-1.17998353",
       "category": "Luftfart",
       "pubDate": "Sat, 22 Aug 2026 16:54:25 GMT"
-    },
-    {
-      "title": "Canada innfører gjengjeldelsestoll mot USA",
-      "link": "https://www.nrk.no/nyheter/canada-innforer-gjengjeldelsestoll-mot-usa-1.17998308",
-      "category": "Handelsavtaler og toll",
-      "pubDate": "Sat, 22 Aug 2026 15:49:11 GMT"
-    },
-    {
-      "title": "Kunnskapsministeren ber skoler forby KI-briller",
-      "link": "https://www.nrk.no/nyheter/kunnskapsministeren-ber-skoler-forby-ki-briller-1.17998241",
-      "category": "Støre-regjeringen",
-      "pubDate": "Sat, 22 Aug 2026 15:40:21 GMT"
     }
   ]
 }
