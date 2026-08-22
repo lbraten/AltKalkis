@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-22T22:48:53.601Z",
+  "updatedAt": "2026-08-22T23:21:34.954Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Andrew og Tristan TAte melde til antiterrorpoliti",
+      "title": "Stenger gullgruve etter kollaps",
+      "link": "https://www.nrk.no/nyheter/stenger-gullgruve-etter-kollaps-1.17998453",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 22 Aug 2026 23:11:07 GMT"
+    },
+    {
+      "title": "Andrew og Tristan Tate melde til antiterrorpoliti",
       "link": "https://www.nrk.no/nyheter/andrew-og-tristan-tate-melde-til-antiterrorpoliti-1.17998451",
       "category": "Andrew Tate",
       "pubDate": "Sat, 22 Aug 2026 22:35:29 GMT"
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/mange-ma-overnatte-pa-flesland-1.17998394",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sat, 22 Aug 2026 18:39:57 GMT"
-    },
-    {
-      "title": "Redningsaksjon på Store Trolltind",
-      "link": "https://www.nrk.no/mr/redningsaksjon-pa-store-trolltind-1.17998391",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 22 Aug 2026 18:19:48 GMT"
     }
   ]
 }
