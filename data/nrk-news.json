@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-22T18:32:05.080Z",
+  "updatedAt": "2026-08-22T19:22:50.865Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mange må overnatte på Flesland",
+      "link": "https://www.nrk.no/vestland/mange-ma-overnatte-pa-flesland-1.17998394",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 22 Aug 2026 18:39:57 GMT"
+    },
+    {
+      "title": "Redningsaksjon på Store Trolltind",
+      "link": "https://www.nrk.no/mr/redningsaksjon-pa-store-trolltind-1.17998391",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 22 Aug 2026 18:19:48 GMT"
+    },
     {
       "title": "Jordskjelv utenfor østkysten til Japan",
       "link": "https://www.nrk.no/nyheter/jordskjelv-utenfor-ostkysten-til-japan-1.17998315",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kunnskapsministeren-ber-skoler-forby-ki-briller-1.17998241",
       "category": "Støre-regjeringen",
       "pubDate": "Sat, 22 Aug 2026 15:40:21 GMT"
-    },
-    {
-      "title": "Stengingen av luftrommet på Vestlandet utvides",
-      "link": "https://www.nrk.no/rogaland/stengingen-av-luftrommet-pa-vestlandet-utvides-1.17998259",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 22 Aug 2026 15:04:51 GMT"
-    },
-    {
-      "title": "Fikk feil far registrert i helsejournal",
-      "link": "https://www.nrk.no/trondelag/fikk-feil-far-registrert-i-helsejournal-1.17998239",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 22 Aug 2026 14:57:38 GMT"
     }
   ]
 }
