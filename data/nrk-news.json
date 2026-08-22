@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-22T08:31:14.652Z",
+  "updatedAt": "2026-08-22T09:27:10.762Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lagerbygg og oljeraffineri truffet av ukrainske droner",
+      "link": "https://www.nrk.no/nyheter/lagerbygg-og-oljeraffineri-truffet-av-ukrainske-droner-1.17998004",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 22 Aug 2026 08:52:51 GMT"
+    },
+    {
+      "title": "Åtte personar til sjukehus etter trafikkulykke",
+      "link": "https://www.nrk.no/vestland/atte-personar-til-sjukehus-etter-trafikkulykke--1.17998025",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 22 Aug 2026 08:29:35 GMT"
+    },
     {
       "title": "Stadig flere 18-åringer uten hull",
       "link": "https://www.nrk.no/stor-oslo/stadig-flere-18-aringer-uten-hull-1.17997968",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/skoleangrep-i-sverige-_-person-mistenkt-for-drap-og-drapsforsok-1.17997967",
       "category": "Sverige",
       "pubDate": "Sat, 22 Aug 2026 06:50:33 GMT"
-    },
-    {
-      "title": "Venstrepartiet Die Linke leder på målinger for Berlin",
-      "link": "https://www.nrk.no/nyheter/venstrepartiet-die-linke-leder-pa-malinger-for-berlin-1.17997930",
-      "category": "Tyskland",
-      "pubDate": "Sat, 22 Aug 2026 06:24:50 GMT"
-    },
-    {
-      "title": "Ingen streik i helikopterbransjen",
-      "link": "https://www.nrk.no/rogaland/ingen-streik-i-helikopterbransjen-1.17997939",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 22 Aug 2026 06:03:51 GMT"
     }
   ]
 }
