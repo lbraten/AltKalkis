@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T14:24:26.082Z",
+  "updatedAt": "2026-08-23T14:50:13.369Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Redningsaksjon i Kvam",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-i-kvam--1.17998782",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 23 Aug 2026 14:21:18 GMT"
+    },
     {
       "title": "Åtte døde migranter funnet",
       "link": "https://www.nrk.no/nyheter/atte-dode-migranter-funnet-1.17998699",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flygelederforeningen-til-nrk_-moter-spekter-mandag-morgen-1.17998665",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Sun, 23 Aug 2026 11:08:30 GMT"
-    },
-    {
-      "title": "18-åring varetektsfengsla etter skuleangrep i Sverige",
-      "link": "https://www.nrk.no/nyheter/18-aring-varetektsfengsla-etter-skuleangrep-i-sverige-1.17998646",
-      "category": "Sverige",
-      "pubDate": "Sun, 23 Aug 2026 10:47:51 GMT"
     }
   ]
 }
