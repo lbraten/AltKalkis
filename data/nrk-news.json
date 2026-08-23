@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T21:22:15.392Z",
+  "updatedAt": "2026-08-23T21:46:29.091Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flygelederstreiken: Norwegian kansellerer seks flyginger, Widerøe tre",
+      "link": "https://www.nrk.no/nyheter/flygelederstreiken_-norwegian-kansellerer-seks-flyginger_-wideroe-tre-1.17998986",
+      "category": "Luftfart",
+      "pubDate": "Sun, 23 Aug 2026 21:33:49 GMT"
+    },
     {
       "title": "Peter Frølich er sykemeldt etter hjerteinfarkt",
       "link": "https://www.nrk.no/nyheter/peter-frolich-er-sykemeldt-etter-hjerteinfarkt-1.17998957",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/sender-varme-tanker-og-de-beste-onsker-1.17998935",
       "category": "Kongefamilien",
       "pubDate": "Sun, 23 Aug 2026 18:21:38 GMT"
-    },
-    {
-      "title": "– Kan være en alvorlig tilstand",
-      "link": "https://www.nrk.no/nyheter/_-kan-vaere-en-alvorlig-tilstand-1.17998924",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 23 Aug 2026 18:19:19 GMT"
     }
   ]
 }
