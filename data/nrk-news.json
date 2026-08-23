@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-23T05:30:24.464Z",
+  "updatedAt": "2026-08-23T06:42:14.929Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sovnet i butikk før stengetid",
+      "link": "https://www.nrk.no/vestfoldogtelemark/sovnet-i-butikk-for-stengetid-1.17998485",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 23 Aug 2026 06:17:06 GMT"
+    },
+    {
+      "title": "Støre er i Kyiv",
+      "link": "https://www.nrk.no/nyheter/store-er-i-kyiv-1.17998463",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 23 Aug 2026 05:32:42 GMT"
+    },
     {
       "title": "Over 300 overnattet på Flesland grunnet streik",
       "link": "https://www.nrk.no/nyheter/over-300-overnattet-pa-flesland-grunnet-streik-1.17998456",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/andrew-og-tristan-tate-melde-til-antiterrorpoliti-1.17998451",
       "category": "Andrew Tate",
       "pubDate": "Sat, 22 Aug 2026 22:35:29 GMT"
-    },
-    {
-      "title": "Politiet avfyrte varselskudd i forbindelse med pågripelse",
-      "link": "https://www.nrk.no/nyheter/politiet-avfyrte-varselskudd-i-forbindelse-med-pagripelse-1.17998439",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 22 Aug 2026 22:22:45 GMT"
-    },
-    {
-      "title": "To alvorlig skadet etter elgpåkjørsel",
-      "link": "https://www.nrk.no/nyheter/to-alvorlig-skadet-etter-elgpakjorsel-1.17998436",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 22 Aug 2026 21:14:44 GMT"
     }
   ]
 }
