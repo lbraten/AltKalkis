@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T22:48:31.969Z",
+  "updatedAt": "2026-08-23T23:21:53.591Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Guvernør: Tre drept i Kharkiv",
+      "link": "https://www.nrk.no/nyheter/guvernor_-tre-drept-i-kharkiv--1.17998994",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 23 Aug 2026 22:59:47 GMT"
+    },
     {
       "title": "Flygelederstreiken: Norwegian kansellerer seks flyginger, Widerøe tre",
       "link": "https://www.nrk.no/nyheter/flygelederstreiken_-norwegian-kansellerer-seks-flyginger_-wideroe-tre-1.17998986",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store_-_-hele-norge-folger-med-1.17998936",
       "category": "Kongefamilien",
       "pubDate": "Sun, 23 Aug 2026 18:42:44 GMT"
-    },
-    {
-      "title": "Sender varme tanker og de beste ønsker",
-      "link": "https://www.nrk.no/nyheter/sender-varme-tanker-og-de-beste-onsker-1.17998935",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 23 Aug 2026 18:21:38 GMT"
     }
   ]
 }
