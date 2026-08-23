@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-23T17:21:37.173Z",
+  "updatedAt": "2026-08-23T17:46:40.101Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kongens helsetilstand forverret",
+      "link": "https://www.nrk.no/nyheter/kongens-helsetilstand-forverret-1.17998918",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 23 Aug 2026 17:37:03 GMT"
+    },
+    {
+      "title": "Ras på søppelfylling i Guinea – minst 22 døde",
+      "link": "https://www.nrk.no/nyheter/ras-pa-soppelfylling-i-guinea-_-minst-22-dode-1.17998882",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 23 Aug 2026 17:23:32 GMT"
+    },
     {
       "title": "Ulykke mellom bil og sykkel i Bergen",
       "link": "https://www.nrk.no/vestland/ulykke-mellom-bil-og-sykkel-i-bergen-1.17998899",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/avbrot-biljakt-_-ti-sekunder-senere-skjedde-dodskrasjen-1.17998877",
       "category": "Storbritannia",
       "pubDate": "Sun, 23 Aug 2026 16:34:59 GMT"
-    },
-    {
-      "title": "Vil ikke snakke om pauser",
-      "link": "https://www.nrk.no/nyheter/vil-ikke-snakke-om-pauser-1.17998732",
-      "category": "Luftfart",
-      "pubDate": "Sun, 23 Aug 2026 15:30:48 GMT"
-    },
-    {
-      "title": "Storstilt søk etter savnet person i Bodø",
-      "link": "https://www.nrk.no/nordland/storstilt-sok-etter-savnet-person-i-bodo-1.17998829",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sun, 23 Aug 2026 15:18:52 GMT"
     }
   ]
 }
