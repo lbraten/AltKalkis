@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-23T12:41:51.757Z",
+  "updatedAt": "2026-08-23T13:32:39.784Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Åtte døde migranter funnet",
+      "link": "https://www.nrk.no/nyheter/atte-dode-migranter-funnet-1.17998699",
+      "category": "Migranter i Europa",
+      "pubDate": "Sun, 23 Aug 2026 12:59:43 GMT"
+    },
+    {
+      "title": "Trafikken sto på E18 i Bærum",
+      "link": "https://www.nrk.no/stor-oslo/trafikken-sto-pa-e18-i-baerum-1.17998725",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 23 Aug 2026 12:50:53 GMT"
+    },
+    {
+      "title": "Røykutvikling i bolig i Drammen - beboere evakueres",
+      "link": "https://www.nrk.no/buskerud/roykutvikling-i-bolig-i-drammen---beboere-evakueres-1.17998726",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sun, 23 Aug 2026 12:50:53 GMT"
+    },
     {
       "title": "Trafikkulykke mellom motorsykkel og bil",
       "link": "https://www.nrk.no/mr/trafikkulykke-mellom-motorsykkel-og-bil-1.17998679",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/18-aring-varetektsfengsla-etter-skuleangrep-i-sverige-1.17998646",
       "category": "Sverige",
       "pubDate": "Sun, 23 Aug 2026 10:47:51 GMT"
-    },
-    {
-      "title": "Over 300 drukna under hetebølgja i Frankrike",
-      "link": "https://www.nrk.no/nyheter/over-300-drukna-under-hetebolgja-i-frankrike-1.17998608",
-      "category": "Hetebølge og varmerekorder",
-      "pubDate": "Sun, 23 Aug 2026 10:40:39 GMT"
-    },
-    {
-      "title": "Zelenskyj: – Eit val er for farleg",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-_-eit-val-er-for-farleg-1.17998589",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 23 Aug 2026 09:21:47 GMT"
-    },
-    {
-      "title": "Regjeringa vil gje 85 nye milliardar til Ukraina",
-      "link": "https://www.nrk.no/nyheter/regjeringa-vil-gje-85-nye-milliardar-til-ukraina-1.17998469",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 23 Aug 2026 08:49:48 GMT"
     }
   ]
 }
