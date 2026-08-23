@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T15:23:36.365Z",
+  "updatedAt": "2026-08-23T15:47:56.414Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Vil ikke snakke om pauser",
+      "link": "https://www.nrk.no/nyheter/vil-ikke-snakke-om-pauser-1.17998732",
+      "category": "Luftfart",
+      "pubDate": "Sun, 23 Aug 2026 15:30:48 GMT"
+    },
     {
       "title": "Storstilt søk etter savnet person i Bodø",
       "link": "https://www.nrk.no/nordland/storstilt-sok-etter-savnet-person-i-bodo-1.17998829",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/buskerud/roykutvikling-i-leilighetsbygg-i-drammen--1.17998726",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sun, 23 Aug 2026 12:50:53 GMT"
-    },
-    {
-      "title": "Trafikkulykke mellom motorsykkel og bil",
-      "link": "https://www.nrk.no/mr/trafikkulykke-mellom-motorsykkel-og-bil-1.17998679",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 23 Aug 2026 12:19:47 GMT"
     }
   ]
 }
