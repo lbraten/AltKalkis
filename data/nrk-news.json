@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T10:50:40.927Z",
+  "updatedAt": "2026-08-23T11:21:24.938Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flygelederforeningen til NRK: Møter Spekter mandag morgen",
+      "link": "https://www.nrk.no/nyheter/flygelederforeningen-til-nrk_-moter-spekter-mandag-morgen-1.17998665",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 23 Aug 2026 11:08:30 GMT"
+    },
     {
       "title": "18-åring varetektsfengsla etter skuleangrep i Sverige",
       "link": "https://www.nrk.no/nyheter/18-aring-varetektsfengsla-etter-skuleangrep-i-sverige-1.17998646",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukraina-meiner-russland-vil-mobilisere-300.000-nye-soldatar-1.17998465",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 23 Aug 2026 08:30:01 GMT"
-    },
-    {
-      "title": "Sovnet i butikk før stengetid",
-      "link": "https://www.nrk.no/vestfoldogtelemark/sovnet-i-butikk-for-stengetid-1.17998485",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sun, 23 Aug 2026 06:17:06 GMT"
     }
   ]
 }
