@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-23T10:25:12.511Z",
+  "updatedAt": "2026-08-23T10:50:40.927Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "18-åring varetektsfengsla etter skuleangrep i Sverige",
+      "link": "https://www.nrk.no/nyheter/18-aring-varetektsfengsla-etter-skuleangrep-i-sverige-1.17998646",
+      "category": "Sverige",
+      "pubDate": "Sun, 23 Aug 2026 10:47:51 GMT"
+    },
+    {
+      "title": "Over 300 drukna under hetebølgja i Frankrike",
+      "link": "https://www.nrk.no/nyheter/over-300-drukna-under-hetebolgja-i-frankrike-1.17998608",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Sun, 23 Aug 2026 10:40:39 GMT"
+    },
     {
       "title": "Zelenskyj: – Eit val er for farleg",
       "link": "https://www.nrk.no/nyheter/zelenskyj_-_-eit-val-er-for-farleg-1.17998589",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/sovnet-i-butikk-for-stengetid-1.17998485",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sun, 23 Aug 2026 06:17:06 GMT"
-    },
-    {
-      "title": "Støre er i Kyiv",
-      "link": "https://www.nrk.no/nyheter/store-er-i-kyiv-1.17998463",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 23 Aug 2026 05:32:42 GMT"
-    },
-    {
-      "title": "Over 300 overnattet på Flesland grunnet streik",
-      "link": "https://www.nrk.no/nyheter/over-300-overnattet-pa-flesland-grunnet-streik-1.17998456",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 23 Aug 2026 04:30:31 GMT"
     }
   ]
 }
