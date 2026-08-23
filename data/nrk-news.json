@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T14:50:13.369Z",
+  "updatedAt": "2026-08-23T15:23:36.365Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Storstilt søk etter savnet person i Bodø",
+      "link": "https://www.nrk.no/nordland/storstilt-sok-etter-savnet-person-i-bodo-1.17998829",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sun, 23 Aug 2026 15:18:52 GMT"
+    },
     {
       "title": "Redningsaksjon i Kvam",
       "link": "https://www.nrk.no/vestland/redningsaksjon-i-kvam--1.17998782",
@@ -21,8 +27,8 @@
       "pubDate": "Sun, 23 Aug 2026 12:50:53 GMT"
     },
     {
-      "title": "Røykutvikling i bolig i Drammen - beboere evakueres",
-      "link": "https://www.nrk.no/buskerud/roykutvikling-i-bolig-i-drammen---beboere-evakueres-1.17998726",
+      "title": "Røykutvikling i leilighetsbygg i Drammen",
+      "link": "https://www.nrk.no/buskerud/roykutvikling-i-leilighetsbygg-i-drammen--1.17998726",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Sun, 23 Aug 2026 12:50:53 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/mr/trafikkulykke-mellom-motorsykkel-og-bil-1.17998679",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sun, 23 Aug 2026 12:19:47 GMT"
-    },
-    {
-      "title": "Flygelederforeningen til NRK: Møter Spekter mandag morgen",
-      "link": "https://www.nrk.no/nyheter/flygelederforeningen-til-nrk_-moter-spekter-mandag-morgen-1.17998665",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 23 Aug 2026 11:08:30 GMT"
     }
   ]
 }
