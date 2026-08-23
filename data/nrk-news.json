@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T11:46:22.559Z",
+  "updatedAt": "2026-08-23T12:41:51.757Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trafikkulykke mellom motorsykkel og bil",
+      "link": "https://www.nrk.no/mr/trafikkulykke-mellom-motorsykkel-og-bil-1.17998679",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 23 Aug 2026 12:19:47 GMT"
+    },
     {
       "title": "Flygelederforeningen til NRK: Møter Spekter mandag morgen",
       "link": "https://www.nrk.no/nyheter/flygelederforeningen-til-nrk_-moter-spekter-mandag-morgen-1.17998665",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/regjeringa-vil-gje-85-nye-milliardar-til-ukraina-1.17998469",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 23 Aug 2026 08:49:48 GMT"
-    },
-    {
-      "title": "Ukraina meiner Russland vil mobilisere 300.000 nye soldatar",
-      "link": "https://www.nrk.no/nyheter/ukraina-meiner-russland-vil-mobilisere-300.000-nye-soldatar-1.17998465",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 23 Aug 2026 08:30:01 GMT"
     }
   ]
 }
