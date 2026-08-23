@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-23T16:27:24.164Z",
+  "updatedAt": "2026-08-23T16:53:58.520Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Norge og Ukraina inngår strategisk partnerskap",
+      "link": "https://www.nrk.no/nyheter/norge-og-ukraina-inngar-strategisk-partnerskap-1.17998880",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 23 Aug 2026 16:51:12 GMT"
+    },
+    {
+      "title": "Zelenskyj: – Vi sprengte ikke Nord Stream",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-_-vi-sprengte-ikke-nord-stream-1.17998840",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 23 Aug 2026 16:44:36 GMT"
+    },
+    {
+      "title": "Avbrøt biljakt – ti sekunder senere skjedde dødskrasjen",
+      "link": "https://www.nrk.no/nyheter/avbrot-biljakt-_-ti-sekunder-senere-skjedde-dodskrasjen-1.17998877",
+      "category": "Storbritannia",
+      "pubDate": "Sun, 23 Aug 2026 16:34:59 GMT"
+    },
     {
       "title": "Vil ikke snakke om pauser",
       "link": "https://www.nrk.no/nyheter/vil-ikke-snakke-om-pauser-1.17998732",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/redningsaksjon-i-kvam--1.17998782",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Sun, 23 Aug 2026 14:21:18 GMT"
-    },
-    {
-      "title": "Åtte døde migranter funnet",
-      "link": "https://www.nrk.no/nyheter/atte-dode-migranter-funnet-1.17998699",
-      "category": "Migranter i Europa",
-      "pubDate": "Sun, 23 Aug 2026 12:59:43 GMT"
-    },
-    {
-      "title": "Campingvogn ga full stopp på E18 i Bærum",
-      "link": "https://www.nrk.no/stor-oslo/campingvogn-ga-full-stopp-pa-e18-i-baerum-1.17998725",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 23 Aug 2026 12:50:53 GMT"
-    },
-    {
-      "title": "Røykutvikling i leilighetsbygg i Drammen",
-      "link": "https://www.nrk.no/buskerud/roykutvikling-i-leilighetsbygg-i-drammen--1.17998726",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sun, 23 Aug 2026 12:50:53 GMT"
     }
   ]
 }
