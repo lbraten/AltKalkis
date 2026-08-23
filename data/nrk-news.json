@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-23T17:46:40.101Z",
+  "updatedAt": "2026-08-23T18:31:01.348Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sender varme tanker og de beste ønsker",
+      "link": "https://www.nrk.no/nyheter/sender-varme-tanker-og-de-beste-onsker-1.17998935",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 23 Aug 2026 18:21:38 GMT"
+    },
+    {
+      "title": "– Kan være en alvorlig tilstand",
+      "link": "https://www.nrk.no/nyheter/_-kan-vaere-en-alvorlig-tilstand-1.17998924",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 23 Aug 2026 18:19:19 GMT"
+    },
+    {
+      "title": "– Ikke aktuelt med tvungen lønnsnemnd",
+      "link": "https://www.nrk.no/nyheter/_-ikke-aktuelt-med-tvungen-lonnsnemnd-1.17998922",
+      "category": "Luftfart",
+      "pubDate": "Sun, 23 Aug 2026 17:50:11 GMT"
+    },
+    {
+      "title": "Syv flyavganger innstilt mandag",
+      "link": "https://www.nrk.no/nyheter/syv-flyavganger-innstilt-mandag-1.17998913",
+      "category": "Luftfart",
+      "pubDate": "Sun, 23 Aug 2026 17:48:25 GMT"
+    },
     {
       "title": "Kongens helsetilstand forverret",
       "link": "https://www.nrk.no/nyheter/kongens-helsetilstand-forverret-1.17998918",
@@ -9,34 +33,10 @@
       "pubDate": "Sun, 23 Aug 2026 17:37:03 GMT"
     },
     {
-      "title": "Ras på søppelfylling i Guinea – minst 22 døde",
-      "link": "https://www.nrk.no/nyheter/ras-pa-soppelfylling-i-guinea-_-minst-22-dode-1.17998882",
+      "title": "30 personer døde i ras på søppelfylling i Guinea",
+      "link": "https://www.nrk.no/nyheter/30-personer-dode-i-ras-pa-soppelfylling-i-guinea-1.17998882",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 23 Aug 2026 17:23:32 GMT"
-    },
-    {
-      "title": "Ulykke mellom bil og sykkel i Bergen",
-      "link": "https://www.nrk.no/vestland/ulykke-mellom-bil-og-sykkel-i-bergen-1.17998899",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 23 Aug 2026 17:10:40 GMT"
-    },
-    {
-      "title": "Norge og Ukraina inngår strategisk partnerskap",
-      "link": "https://www.nrk.no/nyheter/norge-og-ukraina-inngar-strategisk-partnerskap-1.17998880",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 23 Aug 2026 16:51:12 GMT"
-    },
-    {
-      "title": "Zelenskyj: – Vi sprengte ikke Nord Stream",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-_-vi-sprengte-ikke-nord-stream-1.17998840",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 23 Aug 2026 16:44:36 GMT"
-    },
-    {
-      "title": "Avbrøt biljakt – ti sekunder senere skjedde dødskrasjen",
-      "link": "https://www.nrk.no/nyheter/avbrot-biljakt-_-ti-sekunder-senere-skjedde-dodskrasjen-1.17998877",
-      "category": "Storbritannia",
-      "pubDate": "Sun, 23 Aug 2026 16:34:59 GMT"
     }
   ]
 }
