@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T07:33:58.372Z",
+  "updatedAt": "2026-08-23T08:31:44.514Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina meiner Russland vil mobilisere 300 000 nye soldatar",
+      "link": "https://www.nrk.no/nyheter/ukraina-meiner-russland-vil-mobilisere-300-000-nye-soldatar-1.17998465",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 23 Aug 2026 08:30:01 GMT"
+    },
     {
       "title": "Sovnet i butikk før stengetid",
       "link": "https://www.nrk.no/vestfoldogtelemark/sovnet-i-butikk-for-stengetid-1.17998485",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/stenger-gullgruve-etter-kollaps-1.17998453",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 22 Aug 2026 23:11:07 GMT"
-    },
-    {
-      "title": "Andrew og Tristan Tate melde til antiterrorpoliti",
-      "link": "https://www.nrk.no/nyheter/andrew-og-tristan-tate-melde-til-antiterrorpoliti-1.17998451",
-      "category": "Andrew Tate",
-      "pubDate": "Sat, 22 Aug 2026 22:35:29 GMT"
     }
   ]
 }
