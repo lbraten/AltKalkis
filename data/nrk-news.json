@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T02:45:33.115Z",
+  "updatedAt": "2026-08-23T03:51:20.071Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 37 skadet i jordskjelv nær Tokyo",
+      "link": "https://www.nrk.no/nyheter/minst-37-skadet-i-jordskjelv-naer-tokyo-1.17998454",
+      "category": "Japan",
+      "pubDate": "Sun, 23 Aug 2026 03:20:26 GMT"
+    },
     {
       "title": "Stenger gullgruve etter kollaps",
       "link": "https://www.nrk.no/nyheter/stenger-gullgruve-etter-kollaps-1.17998453",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-mann-siktet-og-pagrepet-for-voldtekt-pa-sunmmore-1.17998434",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sat, 22 Aug 2026 20:55:50 GMT"
-    },
-    {
-      "title": "Mange må overnatte på Flesland",
-      "link": "https://www.nrk.no/vestland/mange-ma-overnatte-pa-flesland-1.17998394",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 22 Aug 2026 18:39:57 GMT"
     }
   ]
 }
