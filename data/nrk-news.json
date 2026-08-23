@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T16:53:58.520Z",
+  "updatedAt": "2026-08-23T17:21:37.173Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ulykke mellom bil og sykkel i Bergen",
+      "link": "https://www.nrk.no/vestland/ulykke-mellom-bil-og-sykkel-i-bergen-1.17998899",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 23 Aug 2026 17:10:40 GMT"
+    },
     {
       "title": "Norge og Ukraina inngår strategisk partnerskap",
       "link": "https://www.nrk.no/nyheter/norge-og-ukraina-inngar-strategisk-partnerskap-1.17998880",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nordland/storstilt-sok-etter-savnet-person-i-bodo-1.17998829",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sun, 23 Aug 2026 15:18:52 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Kvam",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-i-kvam--1.17998782",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 23 Aug 2026 14:21:18 GMT"
     }
   ]
 }
