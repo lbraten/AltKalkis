@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-24T10:10:32.449Z",
+  "updatedAt": "2026-08-24T11:01:57.809Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To fartøy fangstet 37 vågehval på ei uke",
+      "link": "https://www.nrk.no/tromsogfinnmark/to-fartoy-fangstet-37-vagehval-pa-ei-uke-1.17999539",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Mon, 24 Aug 2026 10:54:21 GMT"
+    },
+    {
+      "title": "Fortsatt problemer med offentlige tjenester: – Vi ser en forverring",
+      "link": "https://www.nrk.no/nyheter/fortsatt-problemer-med-offentlige-tjenester_-_-vi-ser-en-forverring-1.17999560",
+      "category": "Digitale løsninger",
+      "pubDate": "Mon, 24 Aug 2026 10:46:21 GMT"
+    },
+    {
+      "title": "Mann angrepet av okse i Hallingdal",
+      "link": "https://www.nrk.no/buskerud/mann-angrepet-av-okse-i-hallingdal-1.17999252",
+      "category": "Politi og hendelser i Buskerud",
+      "pubDate": "Mon, 24 Aug 2026 10:45:49 GMT"
+    },
+    {
+      "title": "Kronprins Haakon besøker kongen på Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/kronprins-haakon-besoker-kongen-pa-rikshospitalet-1.17999546",
+      "category": "Kongefamilien",
+      "pubDate": "Mon, 24 Aug 2026 10:21:36 GMT"
+    },
+    {
+      "title": "«Affeksjonsverdi» nominert til Nordisk råds filmpris",
+      "link": "https://www.nrk.no/nyheter/_affeksjonsverdi_-nominert-til-nordisk-rads-filmpris-1.17999464",
+      "category": "Nordisk råd-prisene",
+      "pubDate": "Mon, 24 Aug 2026 10:15:44 GMT"
+    },
     {
       "title": "Ulykken i Nordre Follo: Samtlige i ulykkesbilen siktet",
       "link": "https://www.nrk.no/stor-oslo/ulykken-i-nordre-follo_-samtlige-i-ulykkesbilen-siktet--1.17999379",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Mon, 24 Aug 2026 09:12:04 GMT"
-    },
-    {
-      "title": "Avinor: Bedre i dag enn i går",
-      "link": "https://www.nrk.no/nyheter/avinor_-bedre-i-dag-enn-i-gar-1.17999356",
-      "category": "Avinor",
-      "pubDate": "Mon, 24 Aug 2026 08:48:15 GMT"
-    },
-    {
-      "title": "Nederlandsk allmennkringkaster dropper Eurovision",
-      "link": "https://www.nrk.no/nyheter/nederlandsk-allmennkringkaster-dropper-eurovision-1.17999332",
-      "category": "MGP og Eurovision Song Contest 2026",
-      "pubDate": "Mon, 24 Aug 2026 08:19:13 GMT"
-    },
-    {
-      "title": "Altinget legges ned i Norge",
-      "link": "https://www.nrk.no/nyheter/altinget-legges-ned-i-norge-1.17999304",
-      "category": "Medier",
-      "pubDate": "Mon, 24 Aug 2026 08:05:45 GMT"
-    },
-    {
-      "title": "Aasland: Norge vil fortsette å bore etter olje i Arktis",
-      "link": "https://www.nrk.no/nyheter/aasland_-norge-vil-fortsette-a-bore-etter-olje-i-arktis-1.17999263",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Mon, 24 Aug 2026 07:53:22 GMT"
-    },
-    {
-      "title": "Klimasøksmålet startar i Høgsterett",
-      "link": "https://www.nrk.no/nyheter/klimasoksmalet-startar-i-hogsterett-1.17999182",
-      "category": "Klima og miljø",
-      "pubDate": "Mon, 24 Aug 2026 07:13:09 GMT"
     }
   ]
 }
