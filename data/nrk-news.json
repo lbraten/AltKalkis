@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-24T11:01:57.809Z",
+  "updatedAt": "2026-08-24T11:54:26.779Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rekordmange partier i årets riksdagsvalg i Sverige",
+      "link": "https://www.nrk.no/nyheter/rekordmange-partier-i-arets-riksdagsvalg-i-sverige-1.17999596",
+      "category": "Sverige",
+      "pubDate": "Mon, 24 Aug 2026 11:25:07 GMT"
+    },
+    {
+      "title": "Det brenner på Tromøya",
+      "link": "https://www.nrk.no/sorlandet/det-brenner-pa-tromoya-1.17999634",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 24 Aug 2026 11:08:38 GMT"
+    },
     {
       "title": "To fartøy fangstet 37 vågehval på ei uke",
       "link": "https://www.nrk.no/tromsogfinnmark/to-fartoy-fangstet-37-vagehval-pa-ei-uke-1.17999539",
@@ -15,8 +27,8 @@
       "pubDate": "Mon, 24 Aug 2026 10:46:21 GMT"
     },
     {
-      "title": "Mann angrepet av okse i Hallingdal",
-      "link": "https://www.nrk.no/buskerud/mann-angrepet-av-okse-i-hallingdal-1.17999252",
+      "title": "Mann omkom etter okseangrep i Hallingdal",
+      "link": "https://www.nrk.no/buskerud/mann-omkom-etter-okseangrep-i-hallingdal-1.17999252",
       "category": "Politi og hendelser i Buskerud",
       "pubDate": "Mon, 24 Aug 2026 10:45:49 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kronprins-haakon-besoker-kongen-pa-rikshospitalet-1.17999546",
       "category": "Kongefamilien",
       "pubDate": "Mon, 24 Aug 2026 10:21:36 GMT"
-    },
-    {
-      "title": "«Affeksjonsverdi» nominert til Nordisk råds filmpris",
-      "link": "https://www.nrk.no/nyheter/_affeksjonsverdi_-nominert-til-nordisk-rads-filmpris-1.17999464",
-      "category": "Nordisk råd-prisene",
-      "pubDate": "Mon, 24 Aug 2026 10:15:44 GMT"
-    },
-    {
-      "title": "Ulykken i Nordre Follo: Samtlige i ulykkesbilen siktet",
-      "link": "https://www.nrk.no/stor-oslo/ulykken-i-nordre-follo_-samtlige-i-ulykkesbilen-siktet--1.17999379",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 24 Aug 2026 09:12:04 GMT"
     }
   ]
 }
