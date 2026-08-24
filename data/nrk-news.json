@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-24T13:52:39.565Z",
+  "updatedAt": "2026-08-24T14:42:46.793Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dronning Sonja har ankommet Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/dronning-sonja-har-ankommet-rikshospitalet-1.17999985",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 24 Aug 2026 14:41:46 GMT"
+    },
+    {
+      "title": "Slottet: Ingen vesentlige endringer i kongens helse – fortsatt stabil",
+      "link": "https://www.nrk.no/nyheter/slottet_-ingen-vesentlige-endringer-i-kongens-helse-_-fortsatt-stabil-1.17999899",
+      "category": "Kongefamilien",
+      "pubDate": "Mon, 24 Aug 2026 14:29:50 GMT"
+    },
+    {
+      "title": "Trump: Biler fra Canada får 50 prosent toll fra 2027",
+      "link": "https://www.nrk.no/nyheter/trump_-biler-fra-canada-far-50-prosent-toll-fra-2027-1.17999908",
+      "category": "USA",
+      "pubDate": "Mon, 24 Aug 2026 13:50:32 GMT"
+    },
+    {
+      "title": "Mann varetektsfengslet etter voldshendelse i Oslo – skal ha forsøkt å tenne på kvinne",
+      "link": "https://www.nrk.no/stor-oslo/mann-varetektsfengslet-etter-voldshendelse-i-oslo-_-skal-ha-forsokt-a-tenne-pa-kvinne-1.17999898",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 24 Aug 2026 13:40:03 GMT"
+    },
     {
       "title": "To FN-ansatte drept i Sør-Sudan",
       "link": "https://www.nrk.no/nyheter/to-fn-ansatte-drept-i-sor-sudan-1.17999847",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/rogaland/drapssiktede-pa-naerbo-motsetter-seg-videre-fengsling-1.17999339",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Mon, 24 Aug 2026 13:30:54 GMT"
-    },
-    {
-      "title": "Norge vil trosse EU-nei til oljeboring i Arktis",
-      "link": "https://www.nrk.no/nordland/norge-vil-trosse-eu-nei-til-oljeboring-i-arktis-1.17999759",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Mon, 24 Aug 2026 13:30:18 GMT"
-    },
-    {
-      "title": "Politiet søker etter bil etter trafikkulykke",
-      "link": "https://www.nrk.no/stor-oslo/politiet-soker-etter-bil-etter-trafikkulykke-1.17999782",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 24 Aug 2026 13:29:20 GMT"
-    },
-    {
-      "title": "Forsvaret kjøper nye panservogner",
-      "link": "https://www.nrk.no/tromsogfinnmark/forsvaret-kjoper-nye-panservogner-1.17999839",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 24 Aug 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Russland og Ukraina utveksler ti fanger hver",
-      "link": "https://www.nrk.no/nyheter/russland-og-ukraina-utveksler-ti-fanger-hver-1.17999796",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 24 Aug 2026 12:58:56 GMT"
     }
   ]
 }
