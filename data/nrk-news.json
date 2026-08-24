@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-24T01:22:14.131Z",
+  "updatedAt": "2026-08-24T02:46:08.507Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Tre tatt etter vold i Drammen",
+      "link": "https://www.nrk.no/nyheter/politiet_-tre-tatt-etter-vold-i-drammen-1.17998997",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Mon, 24 Aug 2026 02:00:23 GMT"
+    },
     {
       "title": "Russisk netthandelselskap: Brann etter droneangrep",
       "link": "https://www.nrk.no/nyheter/russisk-netthandelselskap_-brann-etter-droneangrep-1.17998995",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flyalarm-i-kyiv-under-stores-besok-1.17998952",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 23 Aug 2026 19:11:52 GMT"
-    },
-    {
-      "title": "Fire kjørt til sykehus etter ulykke i Norde Follo",
-      "link": "https://www.nrk.no/stor-oslo/fire-kjort-til-sykehus-etter-ulykke-i-norde-follo-1.17998845",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 23 Aug 2026 18:59:05 GMT"
     }
   ]
 }
