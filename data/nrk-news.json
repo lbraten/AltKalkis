@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-24T12:52:23.602Z",
+  "updatedAt": "2026-08-24T13:52:39.565Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Spreningsuhell i Nordland – en skadd",
-      "link": "https://www.nrk.no/nyheter/spreningsuhell-i-nordland-_-en-skadd-1.17999789",
+      "title": "To FN-ansatte drept i Sør-Sudan",
+      "link": "https://www.nrk.no/nyheter/to-fn-ansatte-drept-i-sor-sudan-1.17999847",
+      "category": "Sør-Sudan",
+      "pubDate": "Mon, 24 Aug 2026 13:35:10 GMT"
+    },
+    {
+      "title": "Drapssiktede på Nærbø motsetter seg videre fengsling",
+      "link": "https://www.nrk.no/rogaland/drapssiktede-pa-naerbo-motsetter-seg-videre-fengsling-1.17999339",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 24 Aug 2026 13:30:54 GMT"
+    },
+    {
+      "title": "Norge vil trosse EU-nei til oljeboring i Arktis",
+      "link": "https://www.nrk.no/nordland/norge-vil-trosse-eu-nei-til-oljeboring-i-arktis-1.17999759",
       "category": "Nyhetssenter Nordland",
-      "pubDate": "Mon, 24 Aug 2026 12:28:21 GMT"
+      "pubDate": "Mon, 24 Aug 2026 13:30:18 GMT"
     },
     {
-      "title": "Flygeleiarstreiken blir avslutta",
-      "link": "https://www.nrk.no/nyheter/flygeleiarstreiken-blir-avslutta-1.17999681",
-      "category": "Luftfart",
-      "pubDate": "Mon, 24 Aug 2026 12:01:52 GMT"
+      "title": "Politiet søker etter bil etter trafikkulykke",
+      "link": "https://www.nrk.no/stor-oslo/politiet-soker-etter-bil-etter-trafikkulykke-1.17999782",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 24 Aug 2026 13:29:20 GMT"
     },
     {
-      "title": "Harstad-verft landet stor avtale med Forsvaret",
-      "link": "https://www.nrk.no/tromsogfinnmark/harstad-verft-landet-stor-avtale-med-forsvaret-1.17999633",
+      "title": "Forsvaret kjøper nye panservogner",
+      "link": "https://www.nrk.no/tromsogfinnmark/forsvaret-kjoper-nye-panservogner-1.17999839",
       "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 24 Aug 2026 11:49:40 GMT"
+      "pubDate": "Mon, 24 Aug 2026 13:00:00 GMT"
     },
     {
-      "title": "Rekordmange partier i årets riksdagsvalg i Sverige",
-      "link": "https://www.nrk.no/nyheter/rekordmange-partier-i-arets-riksdagsvalg-i-sverige-1.17999596",
-      "category": "Sverige",
-      "pubDate": "Mon, 24 Aug 2026 11:25:07 GMT"
-    },
-    {
-      "title": "Det brenner på Tromøya - har bedt om helikopterhjelp",
-      "link": "https://www.nrk.no/sorlandet/det-brenner-pa-tromoya---har-bedt-om-helikopterhjelp-1.17999634",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Mon, 24 Aug 2026 11:08:38 GMT"
-    },
-    {
-      "title": "To fartøy fangstet 37 vågehval på ei uke",
-      "link": "https://www.nrk.no/tromsogfinnmark/to-fartoy-fangstet-37-vagehval-pa-ei-uke-1.17999539",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Mon, 24 Aug 2026 10:54:21 GMT"
+      "title": "Russland og Ukraina utveksler ti fanger hver",
+      "link": "https://www.nrk.no/nyheter/russland-og-ukraina-utveksler-ti-fanger-hver-1.17999796",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 24 Aug 2026 12:58:56 GMT"
     }
   ]
 }
