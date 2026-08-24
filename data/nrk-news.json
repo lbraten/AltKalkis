@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-24T15:39:43.037Z",
+  "updatedAt": "2026-08-24T16:38:36.793Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Dronning Sonja har ankommet Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/dronning-sonja-har-ankommet-rikshospitalet-1.17999985",
+      "title": "Minst 30 drept i gjengoppgjør på Haiti",
+      "link": "https://www.nrk.no/nyheter/minst-30-drept-i-gjengoppgjor-pa-haiti-1.18000067",
+      "category": "Haiti",
+      "pubDate": "Mon, 24 Aug 2026 16:29:37 GMT"
+    },
+    {
+      "title": "Dronning Sonja har vært på Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/dronning-sonja-har-vaert-pa-rikshospitalet-1.17999985",
       "category": "Kongefamilien",
       "pubDate": "Mon, 24 Aug 2026 14:41:46 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-fn-ansatte-drept-i-sor-sudan-1.17999847",
       "category": "Sør-Sudan",
       "pubDate": "Mon, 24 Aug 2026 13:35:10 GMT"
-    },
-    {
-      "title": "Drapssiktede på Nærbø motsetter seg videre fengsling",
-      "link": "https://www.nrk.no/rogaland/drapssiktede-pa-naerbo-motsetter-seg-videre-fengsling-1.17999339",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 24 Aug 2026 13:30:54 GMT"
     }
   ]
 }
