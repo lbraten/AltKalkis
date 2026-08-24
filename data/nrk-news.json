@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-24T21:30:16.316Z",
+  "updatedAt": "2026-08-24T22:27:25.635Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Regjeringen skrinlegger planer om toetasjes tog",
+      "link": "https://www.nrk.no/nyheter/regjeringen-skrinlegger-planer-om-toetasjes-tog-1.18000286",
+      "category": "Tog og jernbane",
+      "pubDate": "Mon, 24 Aug 2026 22:13:12 GMT"
+    },
     {
       "title": "Digdir om dataangrep mot offentlige tjenester: – Forverring av situasjonen",
       "link": "https://www.nrk.no/nyheter/digdir-om-dataangrep-mot-offentlige-tjenester_-_-forverring-av-situasjonen-1.18000262",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-fjerner-syria-fra-terrorliste-_-lemper-pa-sanksjoner-1.18000246",
       "category": "Syria",
       "pubDate": "Mon, 24 Aug 2026 19:27:09 GMT"
-    },
-    {
-      "title": "Canada om tolltrusler: Ingen overraskelse",
-      "link": "https://www.nrk.no/nyheter/canada-om-tolltrusler_-ingen-overraskelse-1.18000238",
-      "category": "Canada",
-      "pubDate": "Mon, 24 Aug 2026 19:20:48 GMT"
     }
   ]
 }
