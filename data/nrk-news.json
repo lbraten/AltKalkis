@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-24T18:41:27.397Z",
+  "updatedAt": "2026-08-24T19:30:26.993Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "USA fjerner Syria fra terrorliste – lemper på sanksjoner",
+      "link": "https://www.nrk.no/nyheter/usa-fjerner-syria-fra-terrorliste-_-lemper-pa-sanksjoner-1.18000246",
+      "category": "Syria",
+      "pubDate": "Mon, 24 Aug 2026 19:27:09 GMT"
+    },
+    {
+      "title": "Canada om tolltrusler: Ingen overraskelse",
+      "link": "https://www.nrk.no/nyheter/canada-om-tolltrusler_-ingen-overraskelse-1.18000238",
+      "category": "Canada",
+      "pubDate": "Mon, 24 Aug 2026 19:20:48 GMT"
+    },
+    {
+      "title": "Iran: Fullt forberedt på amerikanske sanksjoner",
+      "link": "https://www.nrk.no/nyheter/iran_-fullt-forberedt-pa-amerikanske-sanksjoner-1.18000172",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Mon, 24 Aug 2026 19:11:01 GMT"
+    },
+    {
+      "title": "To av dei sikta i Lindeberg-saka er lauslatne",
+      "link": "https://www.nrk.no/stor-oslo/to-av-dei-sikta-i-lindeberg-saka-er-lauslatne-1.18000216",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 24 Aug 2026 18:45:35 GMT"
+    },
+    {
+      "title": "Gjert Ingebrigtsen i ny podkast: Sier han ville beklaget til barna",
+      "link": "https://www.nrk.no/rogaland/gjert-ingebrigtsen-i-ny-podkast_-sier-han-ville-beklaget-til-barna-1.18000213",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 24 Aug 2026 18:39:29 GMT"
+    },
     {
       "title": "Netanyahu hevder Iran prøvde å drepe en av sønnene hans",
       "link": "https://www.nrk.no/nyheter/netanyahu-hevder-iran-provde-a-drepe-en-av-sonnene-hans-1.18000125",
       "category": "Israel",
       "pubDate": "Mon, 24 Aug 2026 17:36:47 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Namsen",
-      "link": "https://www.nrk.no/trondelag/redningsaksjon-i-namsen-1.18000138",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Mon, 24 Aug 2026 17:22:34 GMT"
-    },
-    {
-      "title": "USA ber land kutte økonomiske forbindelser med Iran",
-      "link": "https://www.nrk.no/nyheter/usa-ber-land-kutte-okonomiske-forbindelser-med-iran-1.17999795",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 24 Aug 2026 17:11:19 GMT"
-    },
-    {
-      "title": "Minst 30 drept i gjengoppgjør på Haiti",
-      "link": "https://www.nrk.no/nyheter/minst-30-drept-i-gjengoppgjor-pa-haiti-1.18000067",
-      "category": "Haiti",
-      "pubDate": "Mon, 24 Aug 2026 16:29:37 GMT"
-    },
-    {
-      "title": "Dronning Sonja har vært på Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/dronning-sonja-har-vaert-pa-rikshospitalet-1.17999985",
-      "category": "Kongefamilien",
-      "pubDate": "Mon, 24 Aug 2026 14:41:46 GMT"
-    },
-    {
-      "title": "Slottet: Ingen vesentlige endringer i kongens helse – fortsatt stabil",
-      "link": "https://www.nrk.no/nyheter/slottet_-ingen-vesentlige-endringer-i-kongens-helse-_-fortsatt-stabil-1.17999899",
-      "category": "Kongefamilien",
-      "pubDate": "Mon, 24 Aug 2026 14:29:50 GMT"
     }
   ]
 }
