@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-24T05:38:40.523Z",
+  "updatedAt": "2026-08-24T07:00:36.545Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "ID-porten og Altinn har vært utilgjengelig siden søndag: – Løsningene er på vei opp",
+      "link": "https://www.nrk.no/nyheter/id-porten-og-altinn-har-vaert-utilgjengelig-siden-sondag_-_-losningene-er-pa-vei-opp-1.17999178",
+      "category": "Digitale løsninger",
+      "pubDate": "Mon, 24 Aug 2026 06:38:32 GMT"
+    },
+    {
+      "title": "EU med nye milliarder til Ukraina",
+      "link": "https://www.nrk.no/nyheter/eu-med-nye-milliarder-til-ukraina-1.17999170",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 24 Aug 2026 06:30:09 GMT"
+    },
+    {
+      "title": "Fleire drepne i russiske angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/fleire-drepne-i-russiske-angrep-i-ukraina-1.17999160",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 24 Aug 2026 06:23:51 GMT"
+    },
+    {
+      "title": "Nye samtalar i flygeleiarstriden",
+      "link": "https://www.nrk.no/nyheter/nye-samtalar-i-flygeleiarstriden-1.17999152",
+      "category": "Luftfart",
+      "pubDate": "Mon, 24 Aug 2026 06:16:18 GMT"
+    },
+    {
+      "title": "Amedia utvidar gratisordning",
+      "link": "https://www.nrk.no/nyheter/amedia-utvidar-gratisordning-1.17999125",
+      "category": "Mediekonsernet Amedia",
+      "pubDate": "Mon, 24 Aug 2026 06:06:39 GMT"
+    },
     {
       "title": "Regjeringa foreslår slitarpensjon",
       "link": "https://www.nrk.no/nyheter/regjeringa-foreslar-slitarpensjon-1.17999078",
       "category": "Pensjon",
       "pubDate": "Mon, 24 Aug 2026 05:34:50 GMT"
-    },
-    {
-      "title": "Person død etter brann i Hamar",
-      "link": "https://www.nrk.no/innlandet/person-dod-etter-brann-i-hamar-1.17999088",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Mon, 24 Aug 2026 05:07:14 GMT"
-    },
-    {
-      "title": "Forseinkingar i luftfarta måndag",
-      "link": "https://www.nrk.no/nyheter/forseinkingar-i-luftfarta-mandag-1.17999046",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Mon, 24 Aug 2026 04:42:42 GMT"
-    },
-    {
-      "title": "Fulle tog etter streik",
-      "link": "https://www.nrk.no/stor-oslo/fulle-tog-etter-streik-1.17999073",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 24 Aug 2026 04:39:59 GMT"
-    },
-    {
-      "title": "Uefa-sjefen vil ikke ta over",
-      "link": "https://www.nrk.no/sport/uefa-sjefen-vil-ikke-ta-over-1.17999052",
-      "category": "Sportsnyheter",
-      "pubDate": "Mon, 24 Aug 2026 04:10:13 GMT"
-    },
-    {
-      "title": "Brann i bygg ved asylmottaket i Ål",
-      "link": "https://www.nrk.no/buskerud/brann-i-bygg-ved-asylmottaket-i-al--1.17999014",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Mon, 24 Aug 2026 03:28:02 GMT"
     }
   ]
 }
