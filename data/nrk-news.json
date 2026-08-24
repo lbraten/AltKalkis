@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-24T19:30:26.993Z",
+  "updatedAt": "2026-08-24T20:31:29.456Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ingebrigtsen-brødrenes talsperson til NRK: – Vanskelig å få tak på hva Gjert Ingebrigtsen beklager",
+      "link": "https://www.nrk.no/rogaland/ingebrigtsen-brodrenes-talsperson-til-nrk_-_-vanskelig-a-fa-tak-pa-hva-gjert-ingebrigtsen-beklager-1.18000093",
+      "category": "Sportsnyheter",
+      "pubDate": "Mon, 24 Aug 2026 19:57:55 GMT"
+    },
+    {
+      "title": "Måling: Mindre støtte til Trump og Iran-krigen",
+      "link": "https://www.nrk.no/nyheter/maling_-mindre-stotte-til-trump-og-iran-krigen-1.18000260",
+      "category": "Donald Trump",
+      "pubDate": "Mon, 24 Aug 2026 19:43:21 GMT"
+    },
+    {
+      "title": "Trump har kjøpt aksjer i SpaceX",
+      "link": "https://www.nrk.no/nyheter/trump-har-kjopt-aksjer-i-spacex-1.18000253",
+      "category": "Donald Trump",
+      "pubDate": "Mon, 24 Aug 2026 19:41:37 GMT"
+    },
     {
       "title": "USA fjerner Syria fra terrorliste – lemper på sanksjoner",
       "link": "https://www.nrk.no/nyheter/usa-fjerner-syria-fra-terrorliste-_-lemper-pa-sanksjoner-1.18000246",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran_-fullt-forberedt-pa-amerikanske-sanksjoner-1.18000172",
       "category": "Forholdet Iran – USA",
       "pubDate": "Mon, 24 Aug 2026 19:11:01 GMT"
-    },
-    {
-      "title": "To av dei sikta i Lindeberg-saka er lauslatne",
-      "link": "https://www.nrk.no/stor-oslo/to-av-dei-sikta-i-lindeberg-saka-er-lauslatne-1.18000216",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Mon, 24 Aug 2026 18:45:35 GMT"
-    },
-    {
-      "title": "Gjert Ingebrigtsen i ny podkast: Sier han ville beklaget til barna",
-      "link": "https://www.nrk.no/rogaland/gjert-ingebrigtsen-i-ny-podkast_-sier-han-ville-beklaget-til-barna-1.18000213",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 24 Aug 2026 18:39:29 GMT"
-    },
-    {
-      "title": "Netanyahu hevder Iran prøvde å drepe en av sønnene hans",
-      "link": "https://www.nrk.no/nyheter/netanyahu-hevder-iran-provde-a-drepe-en-av-sonnene-hans-1.18000125",
-      "category": "Israel",
-      "pubDate": "Mon, 24 Aug 2026 17:36:47 GMT"
     }
   ]
 }
