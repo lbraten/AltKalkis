@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-24T07:00:36.545Z",
+  "updatedAt": "2026-08-24T08:10:34.782Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Altinget legges ned i Norge",
+      "link": "https://www.nrk.no/nyheter/altinget-legges-ned-i-norge-1.17999304",
+      "category": "Medier",
+      "pubDate": "Mon, 24 Aug 2026 08:05:45 GMT"
+    },
+    {
+      "title": "Aasland: Norge vil fortsette å bore etter olje i Arktis",
+      "link": "https://www.nrk.no/nyheter/aasland_-norge-vil-fortsette-a-bore-etter-olje-i-arktis-1.17999263",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Mon, 24 Aug 2026 07:53:22 GMT"
+    },
+    {
+      "title": "Klimasøksmålet startar i Høgsterett",
+      "link": "https://www.nrk.no/nyheter/klimasoksmalet-startar-i-hogsterett-1.17999182",
+      "category": "Klima og miljø",
+      "pubDate": "Mon, 24 Aug 2026 07:13:09 GMT"
+    },
+    {
+      "title": "Equinor med stor gassavtale",
+      "link": "https://www.nrk.no/rogaland/equinor-med-stor-gassavtale-1.17999215",
+      "category": "Equinor",
+      "pubDate": "Mon, 24 Aug 2026 07:03:03 GMT"
+    },
     {
       "title": "ID-porten og Altinn har vært utilgjengelig siden søndag: – Løsningene er på vei opp",
       "link": "https://www.nrk.no/nyheter/id-porten-og-altinn-har-vaert-utilgjengelig-siden-sondag_-_-losningene-er-pa-vei-opp-1.17999178",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eu-med-nye-milliarder-til-ukraina-1.17999170",
       "category": "Krigen i Ukraina",
       "pubDate": "Mon, 24 Aug 2026 06:30:09 GMT"
-    },
-    {
-      "title": "Fleire drepne i russiske angrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/fleire-drepne-i-russiske-angrep-i-ukraina-1.17999160",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 24 Aug 2026 06:23:51 GMT"
-    },
-    {
-      "title": "Nye samtalar i flygeleiarstriden",
-      "link": "https://www.nrk.no/nyheter/nye-samtalar-i-flygeleiarstriden-1.17999152",
-      "category": "Luftfart",
-      "pubDate": "Mon, 24 Aug 2026 06:16:18 GMT"
-    },
-    {
-      "title": "Amedia utvidar gratisordning",
-      "link": "https://www.nrk.no/nyheter/amedia-utvidar-gratisordning-1.17999125",
-      "category": "Mediekonsernet Amedia",
-      "pubDate": "Mon, 24 Aug 2026 06:06:39 GMT"
-    },
-    {
-      "title": "Regjeringa foreslår slitarpensjon",
-      "link": "https://www.nrk.no/nyheter/regjeringa-foreslar-slitarpensjon-1.17999078",
-      "category": "Pensjon",
-      "pubDate": "Mon, 24 Aug 2026 05:34:50 GMT"
     }
   ]
 }
