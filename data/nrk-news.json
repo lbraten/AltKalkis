@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-23T23:46:20.037Z",
+  "updatedAt": "2026-08-24T01:22:14.131Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Russisk netthandelselskap: Brann etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/russisk-netthandelselskap_-brann-etter-droneangrep-1.17998995",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 24 Aug 2026 00:04:44 GMT"
+    },
     {
       "title": "Ukrainsk guvernør: Tre drept i Kharkiv",
       "link": "https://www.nrk.no/nyheter/ukrainsk-guvernor_-tre-drept-i-kharkiv--1.17998994",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/fire-kjort-til-sykehus-etter-ulykke-i-norde-follo-1.17998845",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 23 Aug 2026 18:59:05 GMT"
-    },
-    {
-      "title": "Støre: – Hele Norge følger med",
-      "link": "https://www.nrk.no/nyheter/store_-_-hele-norge-folger-med-1.17998936",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 23 Aug 2026 18:42:44 GMT"
     }
   ]
 }
