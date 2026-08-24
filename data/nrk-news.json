@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-24T08:10:34.782Z",
+  "updatedAt": "2026-08-24T09:23:08.642Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ulykken i Nordre Follo: Samtlige i ulykkesbilen siktet",
+      "link": "https://www.nrk.no/stor-oslo/ulykken-i-nordre-follo_-samtlige-i-ulykkesbilen-siktet--1.17999379",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 24 Aug 2026 09:12:04 GMT"
+    },
+    {
+      "title": "Avinor: Bedre i dag enn i går",
+      "link": "https://www.nrk.no/nyheter/avinor_-bedre-i-dag-enn-i-gar-1.17999356",
+      "category": "Avinor",
+      "pubDate": "Mon, 24 Aug 2026 08:48:15 GMT"
+    },
+    {
+      "title": "Nederlandsk allmennkringkaster dropper Eurovision",
+      "link": "https://www.nrk.no/nyheter/nederlandsk-allmennkringkaster-dropper-eurovision-1.17999332",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Mon, 24 Aug 2026 08:19:13 GMT"
+    },
     {
       "title": "Altinget legges ned i Norge",
       "link": "https://www.nrk.no/nyheter/altinget-legges-ned-i-norge-1.17999304",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/klimasoksmalet-startar-i-hogsterett-1.17999182",
       "category": "Klima og miljø",
       "pubDate": "Mon, 24 Aug 2026 07:13:09 GMT"
-    },
-    {
-      "title": "Equinor med stor gassavtale",
-      "link": "https://www.nrk.no/rogaland/equinor-med-stor-gassavtale-1.17999215",
-      "category": "Equinor",
-      "pubDate": "Mon, 24 Aug 2026 07:03:03 GMT"
-    },
-    {
-      "title": "ID-porten og Altinn har vært utilgjengelig siden søndag: – Løsningene er på vei opp",
-      "link": "https://www.nrk.no/nyheter/id-porten-og-altinn-har-vaert-utilgjengelig-siden-sondag_-_-losningene-er-pa-vei-opp-1.17999178",
-      "category": "Digitale løsninger",
-      "pubDate": "Mon, 24 Aug 2026 06:38:32 GMT"
-    },
-    {
-      "title": "EU med nye milliarder til Ukraina",
-      "link": "https://www.nrk.no/nyheter/eu-med-nye-milliarder-til-ukraina-1.17999170",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 24 Aug 2026 06:30:09 GMT"
     }
   ]
 }
