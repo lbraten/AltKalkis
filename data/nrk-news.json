@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-24T04:46:05.065Z",
+  "updatedAt": "2026-08-24T05:38:40.523Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Forseinkingar på Oslo lufthamn",
-      "link": "https://www.nrk.no/nyheter/forseinkingar-pa-oslo-lufthamn-1.17999046",
+      "title": "Regjeringa foreslår slitarpensjon",
+      "link": "https://www.nrk.no/nyheter/regjeringa-foreslar-slitarpensjon-1.17999078",
+      "category": "Pensjon",
+      "pubDate": "Mon, 24 Aug 2026 05:34:50 GMT"
+    },
+    {
+      "title": "Person død etter brann i Hamar",
+      "link": "https://www.nrk.no/innlandet/person-dod-etter-brann-i-hamar-1.17999088",
+      "category": "Politi- og brannloggen i Innlandet",
+      "pubDate": "Mon, 24 Aug 2026 05:07:14 GMT"
+    },
+    {
+      "title": "Forseinkingar i luftfarta måndag",
+      "link": "https://www.nrk.no/nyheter/forseinkingar-i-luftfarta-mandag-1.17999046",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Mon, 24 Aug 2026 04:42:42 GMT"
+    },
+    {
+      "title": "Fulle tog etter streik",
+      "link": "https://www.nrk.no/stor-oslo/fulle-tog-etter-streik-1.17999073",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 24 Aug 2026 04:39:59 GMT"
+    },
+    {
+      "title": "Uefa-sjefen vil ikke ta over",
+      "link": "https://www.nrk.no/sport/uefa-sjefen-vil-ikke-ta-over-1.17999052",
+      "category": "Sportsnyheter",
+      "pubDate": "Mon, 24 Aug 2026 04:10:13 GMT"
     },
     {
       "title": "Brann i bygg ved asylmottaket i Ål",
       "link": "https://www.nrk.no/buskerud/brann-i-bygg-ved-asylmottaket-i-al--1.17999014",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Mon, 24 Aug 2026 03:28:02 GMT"
-    },
-    {
-      "title": "Flere offentlige tjenester utilgjengelige",
-      "link": "https://www.nrk.no/nyheter/flere-offentlige-tjenester-utilgjengelige-1.17998998",
-      "category": "Digitale løsninger",
-      "pubDate": "Mon, 24 Aug 2026 03:17:33 GMT"
-    },
-    {
-      "title": "Politiet: Tre tatt etter vold i Drammen",
-      "link": "https://www.nrk.no/nyheter/politiet_-tre-tatt-etter-vold-i-drammen-1.17998997",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Mon, 24 Aug 2026 02:00:23 GMT"
-    },
-    {
-      "title": "Russisk netthandelselskap: Brann etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/russisk-netthandelselskap_-brann-etter-droneangrep-1.17998995",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 24 Aug 2026 00:04:44 GMT"
-    },
-    {
-      "title": "Ukrainsk guvernør: Tre drept i Kharkiv",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-guvernor_-tre-drept-i-kharkiv--1.17998994",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 23 Aug 2026 22:59:47 GMT"
     }
   ]
 }
