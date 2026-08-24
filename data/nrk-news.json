@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-24T20:31:29.456Z",
+  "updatedAt": "2026-08-24T21:30:16.316Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Digdir om dataangrep mot offentlige tjenester: – Forverring av situasjonen",
+      "link": "https://www.nrk.no/nyheter/digdir-om-dataangrep-mot-offentlige-tjenester_-_-forverring-av-situasjonen-1.18000262",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 24 Aug 2026 20:31:38 GMT"
+    },
     {
       "title": "Ingebrigtsen-brødrenes talsperson til NRK: – Vanskelig å få tak på hva Gjert Ingebrigtsen beklager",
       "link": "https://www.nrk.no/rogaland/ingebrigtsen-brodrenes-talsperson-til-nrk_-_-vanskelig-a-fa-tak-pa-hva-gjert-ingebrigtsen-beklager-1.18000093",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/canada-om-tolltrusler_-ingen-overraskelse-1.18000238",
       "category": "Canada",
       "pubDate": "Mon, 24 Aug 2026 19:20:48 GMT"
-    },
-    {
-      "title": "Iran: Fullt forberedt på amerikanske sanksjoner",
-      "link": "https://www.nrk.no/nyheter/iran_-fullt-forberedt-pa-amerikanske-sanksjoner-1.18000172",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Mon, 24 Aug 2026 19:11:01 GMT"
     }
   ]
 }
