@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-24T17:31:35.015Z",
+  "updatedAt": "2026-08-24T18:41:27.397Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Netanyahu hevder Iran prøvde å drepe en av sønnene hans",
+      "link": "https://www.nrk.no/nyheter/netanyahu-hevder-iran-provde-a-drepe-en-av-sonnene-hans-1.18000125",
+      "category": "Israel",
+      "pubDate": "Mon, 24 Aug 2026 17:36:47 GMT"
+    },
     {
       "title": "Redningsaksjon i Namsen",
       "link": "https://www.nrk.no/trondelag/redningsaksjon-i-namsen-1.18000138",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/slottet_-ingen-vesentlige-endringer-i-kongens-helse-_-fortsatt-stabil-1.17999899",
       "category": "Kongefamilien",
       "pubDate": "Mon, 24 Aug 2026 14:29:50 GMT"
-    },
-    {
-      "title": "Trump: Biler fra Canada får 50 prosent toll fra 2027",
-      "link": "https://www.nrk.no/nyheter/trump_-biler-fra-canada-far-50-prosent-toll-fra-2027-1.17999908",
-      "category": "USA",
-      "pubDate": "Mon, 24 Aug 2026 13:50:32 GMT"
     }
   ]
 }
