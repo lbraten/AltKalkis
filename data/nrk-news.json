@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-24T22:54:55.225Z",
+  "updatedAt": "2026-08-24T23:23:23.675Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "UKMTO: Oljetanker truffet utenfor Oman",
+      "link": "https://www.nrk.no/nyheter/ukmto_-oljetanker-truffet-utenfor-oman-1.18000297",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 24 Aug 2026 23:00:03 GMT"
+    },
     {
       "title": "Regjeringen skrinlegger planer om toetasjes tog",
       "link": "https://www.nrk.no/nyheter/regjeringen-skrinlegger-planer-om-toetasjes-tog-1.18000286",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-har-kjopt-aksjer-i-spacex-1.18000253",
       "category": "Donald Trump",
       "pubDate": "Mon, 24 Aug 2026 19:41:37 GMT"
-    },
-    {
-      "title": "USA fjerner Syria fra terrorliste – lemper på sanksjoner",
-      "link": "https://www.nrk.no/nyheter/usa-fjerner-syria-fra-terrorliste-_-lemper-pa-sanksjoner-1.18000246",
-      "category": "Syria",
-      "pubDate": "Mon, 24 Aug 2026 19:27:09 GMT"
     }
   ]
 }
