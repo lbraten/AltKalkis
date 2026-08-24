@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-24T02:46:08.507Z",
+  "updatedAt": "2026-08-24T03:55:09.509Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i bygg ved asylmottaket i Ål",
+      "link": "https://www.nrk.no/buskerud/brann-i-bygg-ved-asylmottaket-i-al--1.17999014",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Mon, 24 Aug 2026 03:28:02 GMT"
+    },
+    {
+      "title": "Flere offentlige tjenester utilgjengelige",
+      "link": "https://www.nrk.no/nyheter/flere-offentlige-tjenester-utilgjengelige-1.17998998",
+      "category": "Digitale løsninger",
+      "pubDate": "Mon, 24 Aug 2026 03:17:33 GMT"
+    },
     {
       "title": "Politiet: Tre tatt etter vold i Drammen",
       "link": "https://www.nrk.no/nyheter/politiet_-tre-tatt-etter-vold-i-drammen-1.17998997",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/flygelederstreiken_-norwegian-kansellerer-seks-flyginger_-wideroe-tre-1.17998986",
       "category": "Luftfart",
       "pubDate": "Sun, 23 Aug 2026 21:33:49 GMT"
-    },
-    {
-      "title": "Peter Frølich er sykemeldt etter hjerteinfarkt",
-      "link": "https://www.nrk.no/nyheter/peter-frolich-er-sykemeldt-etter-hjerteinfarkt-1.17998957",
-      "category": "Partiet Høyre",
-      "pubDate": "Sun, 23 Aug 2026 19:13:41 GMT"
-    },
-    {
-      "title": "Flyalarm i Kyiv under Støres besøk",
-      "link": "https://www.nrk.no/nyheter/flyalarm-i-kyiv-under-stores-besok-1.17998952",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 23 Aug 2026 19:11:52 GMT"
     }
   ]
 }
