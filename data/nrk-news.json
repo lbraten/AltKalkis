@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T11:56:59.941Z",
+  "updatedAt": "2026-08-25T12:59:01.928Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Øygarden: Overtenning i bustadbygg etter melding om eksplosjon",
+      "link": "https://www.nrk.no/nyheter/oygarden_-overtenning-i-bustadbygg-etter-melding-om-eksplosjon-1.18001079",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 25 Aug 2026 12:42:43 GMT"
+    },
     {
       "title": "Digitaliseringsministeren vil forby ansiktsgjenkjenning i KI-briller",
       "link": "https://www.nrk.no/nyheter/digitaliseringsministeren-vil-forby-ansiktsgjenkjenning-i-ki-briller-1.18000958",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/armenias-tidligere-president-siktet-i-korrupsjonssak-1.18000758",
       "category": "Armenia",
       "pubDate": "Tue, 25 Aug 2026 09:46:52 GMT"
-    },
-    {
-      "title": "Enighet i meklingen for frisørene",
-      "link": "https://www.nrk.no/nyheter/enighet-i-meklingen-for-frisorene-1.18000750",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 25 Aug 2026 09:32:01 GMT"
     }
   ]
 }
