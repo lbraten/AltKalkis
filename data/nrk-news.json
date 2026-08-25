@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T07:44:31.210Z",
+  "updatedAt": "2026-08-25T08:43:26.912Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "DNB har hatt problem med tenester",
+      "link": "https://www.nrk.no/nyheter/dnb-har-hatt-problem-med-tenester-1.18000551",
+      "category": "DNB",
+      "pubDate": "Tue, 25 Aug 2026 08:10:16 GMT"
+    },
     {
       "title": "Obos nedbemanner – skal ha 200 færre ansatte innen utgangen av 2027",
       "link": "https://www.nrk.no/nyheter/obos-nedbemanner-_-skal-ha-200-faerre-ansatte-innen-utgangen-av-2027-1.18000520",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nordland/arbeidsulykke-i-steigen-1.18000402",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Tue, 25 Aug 2026 06:50:39 GMT"
-    },
-    {
-      "title": "Dataangrep held fram",
-      "link": "https://www.nrk.no/nyheter/dataangrep-held-fram-1.18000471",
-      "category": "Digitale løsninger",
-      "pubDate": "Tue, 25 Aug 2026 06:44:17 GMT"
     }
   ]
 }
