@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T22:57:14.298Z",
+  "updatedAt": "2026-08-25T23:30:23.391Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann funnet etter leteaksjon i Nore og Uvdal",
+      "link": "https://www.nrk.no/nyheter/mann-funnet-etter-leteaksjon-i-nore-og-uvdal-1.18001677",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Tue, 25 Aug 2026 23:16:28 GMT"
+    },
     {
       "title": "199 kvinner fikk erstatning for mens-forstyrrelser etter koronavaksine",
       "link": "https://www.nrk.no/nyheter/199-kvinner-fikk-erstatning-for-mens-forstyrrelser-etter-koronavaksine-1.18001670",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/det-hvite-hus-flagger-pa-halv-stang-etter-dolly-partons-bortgang-1.18001574",
       "category": "Dolly Parton er død",
       "pubDate": "Tue, 25 Aug 2026 18:53:14 GMT"
-    },
-    {
-      "title": "Kurdiskledet styrke i Syria oppløses",
-      "link": "https://www.nrk.no/nyheter/kurdiskledet-styrke-i-syria-opploses-1.18001177",
-      "category": "Syria",
-      "pubDate": "Tue, 25 Aug 2026 18:38:17 GMT"
     }
   ]
 }
