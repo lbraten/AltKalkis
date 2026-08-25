@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T18:40:33.820Z",
+  "updatedAt": "2026-08-25T19:32:31.840Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Det hvite hus flagger på halv stang etter Dolly Partons bortgang",
+      "link": "https://www.nrk.no/nyheter/det-hvite-hus-flagger-pa-halv-stang-etter-dolly-partons-bortgang-1.18001574",
+      "category": "Dolly Parton er død",
+      "pubDate": "Tue, 25 Aug 2026 18:53:14 GMT"
+    },
     {
       "title": "Kurdiskledet styrke i Syria oppløses",
       "link": "https://www.nrk.no/nyheter/kurdiskledet-styrke-i-syria-opploses-1.18001177",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/oljeprotester-utenfor-equinors-hagefest-i-stavanger-1.18001509",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Tue, 25 Aug 2026 17:11:40 GMT"
-    },
-    {
-      "title": "Lørenskog-siktet fengsles i fire uker i narkotikasak",
-      "link": "https://www.nrk.no/nyheter/lorenskog-siktet-fengsles-i-fire-uker-i-narkotikasak-1.18001429",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 25 Aug 2026 15:45:11 GMT"
     }
   ]
 }
