@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T16:38:21.227Z",
+  "updatedAt": "2026-08-25T17:32:37.293Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljeprotester utenfor Equinors hagefest i Stavanger",
+      "link": "https://www.nrk.no/rogaland/oljeprotester-utenfor-equinors-hagefest-i-stavanger-1.18001509",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Tue, 25 Aug 2026 17:11:40 GMT"
+    },
     {
       "title": "Lørenskog-siktet fengsles i fire uker i narkotikasak",
       "link": "https://www.nrk.no/nyheter/lorenskog-siktet-fengsles-i-fire-uker-i-narkotikasak-1.18001429",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/funn-av-dod-person-i-bolighus-i-oygarden-1.18001347",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Tue, 25 Aug 2026 14:20:14 GMT"
-    },
-    {
-      "title": "Dronningen på Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/dronningen-pa-rikshospitalet-1.18001160",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 25 Aug 2026 14:19:35 GMT"
     }
   ]
 }
