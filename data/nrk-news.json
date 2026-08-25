@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-25T01:19:43.773Z",
+  "updatedAt": "2026-08-25T02:39:12.001Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Regjeringen vurderer lovpålagt husforsikring",
+      "link": "https://www.nrk.no/nyheter/regjeringen-vurderer-lovpalagt-husforsikring-1.18000301",
+      "category": "Storbrann i Krokstadelva",
+      "pubDate": "Tue, 25 Aug 2026 02:04:04 GMT"
+    },
+    {
+      "title": "Rykket ut i Oslo etter pistolmelding",
+      "link": "https://www.nrk.no/nyheter/rykket-ut-i-oslo-etter-pistolmelding-1.18000300",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 25 Aug 2026 01:45:55 GMT"
+    },
     {
       "title": "FN: Minst 47 mennesker drept i gjengvold på Haiti",
       "link": "https://www.nrk.no/nyheter/fn_-minst-47-mennesker-drept-i-gjengvold-pa-haiti-1.18000299",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/regjeringen-skrinlegger-planer-om-toetasjes-tog-1.18000286",
       "category": "Tog og jernbane",
       "pubDate": "Mon, 24 Aug 2026 22:13:12 GMT"
-    },
-    {
-      "title": "Digdir om dataangrep mot offentlige tjenester: – Forverring av situasjonen",
-      "link": "https://www.nrk.no/nyheter/digdir-om-dataangrep-mot-offentlige-tjenester_-_-forverring-av-situasjonen-1.18000262",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 24 Aug 2026 20:31:38 GMT"
-    },
-    {
-      "title": "Ingebrigtsen-brødrenes talsperson til NRK: – Vanskelig å få tak på hva Gjert Ingebrigtsen beklager",
-      "link": "https://www.nrk.no/rogaland/ingebrigtsen-brodrenes-talsperson-til-nrk_-_-vanskelig-a-fa-tak-pa-hva-gjert-ingebrigtsen-beklager-1.18000093",
-      "category": "Sportsnyheter",
-      "pubDate": "Mon, 24 Aug 2026 19:57:55 GMT"
     }
   ]
 }
