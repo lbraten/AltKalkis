@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T20:57:55.298Z",
+  "updatedAt": "2026-08-25T21:35:50.105Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bodø/Glimt skal til Mesterligaen",
+      "link": "https://www.nrk.no/nyheter/bodo_glimt-skal-til-mesterligaen-1.18001669",
+      "category": "Bodø/Glimt",
+      "pubDate": "Tue, 25 Aug 2026 21:25:51 GMT"
+    },
     {
       "title": "Savnet mann i Nore og Uvdal – redningshelikopter på vei",
       "link": "https://www.nrk.no/buskerud/savnet-mann-i-nore-og-uvdal-_-redningshelikopter-pa-vei-1.18001557",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dolly-parton-er-dod-1.18001549",
       "category": "Dolly Parton er død",
       "pubDate": "Tue, 25 Aug 2026 17:56:11 GMT"
-    },
-    {
-      "title": "Trump truer med å endre navn på Ontariosjøen",
-      "link": "https://www.nrk.no/nyheter/trump-truer-med-a-endre-navn-pa-ontariosjoen-1.18001537",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 25 Aug 2026 17:55:41 GMT"
     }
   ]
 }
