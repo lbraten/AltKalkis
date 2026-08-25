@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T04:39:45.665Z",
+  "updatedAt": "2026-08-25T05:32:24.684Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Det blir fødd fleire i Noreg",
+      "link": "https://www.nrk.no/nyheter/det-blir-fodd-fleire-i-noreg-1.18000367",
+      "category": "Svangerskap og fødsel",
+      "pubDate": "Tue, 25 Aug 2026 05:12:57 GMT"
+    },
     {
       "title": "Laveste trafikk i Hormuzstredet på tre måneder",
       "link": "https://www.nrk.no/nyheter/laveste-trafikk-i-hormuzstredet-pa-tre-maneder-1.18000349",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/rykket-ut-i-oslo-etter-pistolmelding-1.18000300",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Tue, 25 Aug 2026 01:45:55 GMT"
-    },
-    {
-      "title": "FN: Minst 47 mennesker drept i gjengvold på Haiti",
-      "link": "https://www.nrk.no/nyheter/fn_-minst-47-mennesker-drept-i-gjengvold-pa-haiti-1.18000299",
-      "category": "Haiti",
-      "pubDate": "Tue, 25 Aug 2026 00:49:51 GMT"
     }
   ]
 }
