@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-25T13:56:01.286Z",
+  "updatedAt": "2026-08-25T14:49:57.683Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Barnevernsrapport: Rødt krever redegjørelse i Stortinget",
+      "link": "https://www.nrk.no/nyheter/barnevernsrapport_-rodt-krever-redegjorelse-i-stortinget-1.18001322",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 25 Aug 2026 14:26:54 GMT"
+    },
+    {
+      "title": "Funn av død person i bolighus i Øygarden",
+      "link": "https://www.nrk.no/vestland/funn-av-dod-person-i-bolighus-i-oygarden-1.18001347",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 25 Aug 2026 14:20:14 GMT"
+    },
+    {
+      "title": "Dronningen på Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/dronningen-pa-rikshospitalet-1.18001160",
+      "category": "Kongefamilien",
+      "pubDate": "Tue, 25 Aug 2026 14:19:35 GMT"
+    },
+    {
+      "title": "Sterkeste krone på tre måneder",
+      "link": "https://www.nrk.no/nyheter/sterkeste-krone-pa-tre-maneder-1.18001309",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 25 Aug 2026 14:05:27 GMT"
+    },
+    {
+      "title": "Statsforvalteren anbefaler at Tromsø kommune skal inn i Robek-registeret",
+      "link": "https://www.nrk.no/tromsogfinnmark/statsforvalteren-anbefaler-at-tromso-kommune-skal-inn-i-robek-registeret-1.18001310",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Tue, 25 Aug 2026 14:03:29 GMT"
+    },
     {
       "title": "Øygarden: Overtenning i bustadbygg etter melding om eksplosjon",
       "link": "https://www.nrk.no/nyheter/oygarden_-overtenning-i-bustadbygg-etter-melding-om-eksplosjon-1.18001079",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 25 Aug 2026 12:42:43 GMT"
-    },
-    {
-      "title": "Digitaliseringsministeren vil forby ansiktsgjenkjenning i KI-briller",
-      "link": "https://www.nrk.no/nyheter/digitaliseringsministeren-vil-forby-ansiktsgjenkjenning-i-ki-briller-1.18000958",
-      "category": "Kunstig intelligens",
-      "pubDate": "Tue, 25 Aug 2026 11:20:33 GMT"
-    },
-    {
-      "title": "Digdir: Jobbar med å avgrense dataangrep",
-      "link": "https://www.nrk.no/nyheter/digdir_-jobbar-med-a-avgrense-dataangrep-1.18000931",
-      "category": "Digitale løsninger",
-      "pubDate": "Tue, 25 Aug 2026 11:04:23 GMT"
-    },
-    {
-      "title": "Kronprinsparet har reist frå Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/kronprinsparet-har-reist-fra-rikshospitalet-1.18000849",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 25 Aug 2026 11:01:11 GMT"
-    },
-    {
-      "title": "Amerikansk militærfly landet i Moskva",
-      "link": "https://www.nrk.no/nyheter/amerikansk-militaerfly-landet-i-moskva-1.18000780",
-      "category": "Russland og USA",
-      "pubDate": "Tue, 25 Aug 2026 10:22:11 GMT"
-    },
-    {
-      "title": "Armenias tidligere president siktet i korrupsjonssak",
-      "link": "https://www.nrk.no/nyheter/armenias-tidligere-president-siktet-i-korrupsjonssak-1.18000758",
-      "category": "Armenia",
-      "pubDate": "Tue, 25 Aug 2026 09:46:52 GMT"
     }
   ]
 }
