@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-25T08:43:26.912Z",
+  "updatedAt": "2026-08-25T09:36:12.215Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Enighet i meklingen for frisørene",
+      "link": "https://www.nrk.no/nyheter/enighet-i-meklingen-for-frisorene-1.18000750",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 25 Aug 2026 09:32:01 GMT"
+    },
+    {
+      "title": "Kronprinsparet kom til Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/kronprinsparet-kom-til-rikshospitalet-1.18000749",
+      "category": "Kongefamilien",
+      "pubDate": "Tue, 25 Aug 2026 09:25:27 GMT"
+    },
+    {
+      "title": "Stadion avviser konsertar med Kanye West",
+      "link": "https://www.nrk.no/nyheter/stadion-avviser-konsertar-med-kanye-west-1.18000605",
+      "category": "Musikk",
+      "pubDate": "Tue, 25 Aug 2026 09:24:48 GMT"
+    },
     {
       "title": "DNB har hatt problem med tenester",
       "link": "https://www.nrk.no/nyheter/dnb-har-hatt-problem-med-tenester-1.18000551",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fotball-vm-gav-salsvekst-for-lego-1.18000502",
       "category": "Danmark",
       "pubDate": "Tue, 25 Aug 2026 07:19:33 GMT"
-    },
-    {
-      "title": "Arbeidsledigheten falt til 4,5 prosent i juli",
-      "link": "https://www.nrk.no/nyheter/arbeidsledigheten-falt-til-4_5-prosent-i-juli-1.18000498",
-      "category": "Arbeidsledighet",
-      "pubDate": "Tue, 25 Aug 2026 07:00:27 GMT"
-    },
-    {
-      "title": "Konkurransetilsynet meiner KLP svekkar konkurransen",
-      "link": "https://www.nrk.no/nyheter/konkurransetilsynet-meiner-klp-svekkar-konkurransen-1.18000485",
-      "category": "Pensjon",
-      "pubDate": "Tue, 25 Aug 2026 06:55:59 GMT"
-    },
-    {
-      "title": "Arbeidsulykke i Steigen",
-      "link": "https://www.nrk.no/nordland/arbeidsulykke-i-steigen-1.18000402",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Tue, 25 Aug 2026 06:50:39 GMT"
     }
   ]
 }
