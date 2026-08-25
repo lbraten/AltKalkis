@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-25T03:49:41.047Z",
+  "updatedAt": "2026-08-25T04:39:45.665Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Laveste trafikk i Hormuzstredet på tre måneder",
+      "link": "https://www.nrk.no/nyheter/laveste-trafikk-i-hormuzstredet-pa-tre-maneder-1.18000349",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 25 Aug 2026 04:30:19 GMT"
+    },
+    {
+      "title": "Guvernør: Oljeraffineri i brann etter droneangrep",
+      "link": "https://www.nrk.no/nyheter/guvernor_-oljeraffineri-i-brann-etter-droneangrep-1.18000329",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 25 Aug 2026 04:01:59 GMT"
+    },
     {
       "title": "Høyesterett gir Trump en «midlertidig seier» i spørsmål om poststemmer",
       "link": "https://www.nrk.no/nyheter/hoyesterett-gir-trump-en-_midlertidig-seier_-i-sporsmal-om-poststemmer-1.18000302",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fn_-minst-47-mennesker-drept-i-gjengvold-pa-haiti-1.18000299",
       "category": "Haiti",
       "pubDate": "Tue, 25 Aug 2026 00:49:51 GMT"
-    },
-    {
-      "title": "Utenriksministeren på besøk i Syria",
-      "link": "https://www.nrk.no/nyheter/utenriksministeren-pa-besok-i-syria-1.18000298",
-      "category": "Syria",
-      "pubDate": "Mon, 24 Aug 2026 23:32:14 GMT"
-    },
-    {
-      "title": "UKMTO: Oljetanker truffet utenfor Oman",
-      "link": "https://www.nrk.no/nyheter/ukmto_-oljetanker-truffet-utenfor-oman-1.18000297",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 24 Aug 2026 23:00:03 GMT"
     }
   ]
 }
