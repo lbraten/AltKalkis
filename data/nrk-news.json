@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-25T10:34:03.858Z",
+  "updatedAt": "2026-08-25T11:28:52.047Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Digitaliseringsministeren vil forby ansiktsgjenkjenning i KI-briller",
+      "link": "https://www.nrk.no/nyheter/digitaliseringsministeren-vil-forby-ansiktsgjenkjenning-i-ki-briller-1.18000958",
+      "category": "Kunstig intelligens",
+      "pubDate": "Tue, 25 Aug 2026 11:20:33 GMT"
+    },
+    {
+      "title": "Digdir: Jobbar med å avgrense dataangrep",
+      "link": "https://www.nrk.no/nyheter/digdir_-jobbar-med-a-avgrense-dataangrep-1.18000931",
+      "category": "Digitale løsninger",
+      "pubDate": "Tue, 25 Aug 2026 11:04:23 GMT"
+    },
+    {
+      "title": "Kronprinsparet har reist frå Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/kronprinsparet-har-reist-fra-rikshospitalet-1.18000849",
+      "category": "Kongefamilien",
+      "pubDate": "Tue, 25 Aug 2026 11:01:11 GMT"
+    },
     {
       "title": "Amerikansk militærfly landet i Moskva",
       "link": "https://www.nrk.no/nyheter/amerikansk-militaerfly-landet-i-moskva-1.18000780",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/enighet-i-meklingen-for-frisorene-1.18000750",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Tue, 25 Aug 2026 09:32:01 GMT"
-    },
-    {
-      "title": "Kronprinsparet kom til Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/kronprinsparet-kom-til-rikshospitalet-1.18000749",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 25 Aug 2026 09:25:27 GMT"
-    },
-    {
-      "title": "Stadion avviser konsertar med Kanye West",
-      "link": "https://www.nrk.no/nyheter/stadion-avviser-konsertar-med-kanye-west-1.18000605",
-      "category": "Musikk",
-      "pubDate": "Tue, 25 Aug 2026 09:24:48 GMT"
-    },
-    {
-      "title": "DNB har hatt problem med tenester",
-      "link": "https://www.nrk.no/nyheter/dnb-har-hatt-problem-med-tenester-1.18000551",
-      "category": "DNB",
-      "pubDate": "Tue, 25 Aug 2026 08:10:16 GMT"
     }
   ]
 }
