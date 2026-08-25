@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T15:42:44.688Z",
+  "updatedAt": "2026-08-25T16:38:21.227Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lørenskog-siktet fengsles i fire uker i narkotikasak",
+      "link": "https://www.nrk.no/nyheter/lorenskog-siktet-fengsles-i-fire-uker-i-narkotikasak-1.18001429",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 25 Aug 2026 15:45:11 GMT"
+    },
     {
       "title": "Canada svarer USA – innfører straffetoll på over 700 varer fra USA",
       "link": "https://www.nrk.no/nyheter/canada-svarer-usa-_-innforer-straffetoll-pa-over-700-varer-fra-usa-1.18001396",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dronningen-pa-rikshospitalet-1.18001160",
       "category": "Kongefamilien",
       "pubDate": "Tue, 25 Aug 2026 14:19:35 GMT"
-    },
-    {
-      "title": "Sterkeste krone på tre måneder",
-      "link": "https://www.nrk.no/nyheter/sterkeste-krone-pa-tre-maneder-1.18001309",
-      "category": "Kronekursen",
-      "pubDate": "Tue, 25 Aug 2026 14:05:27 GMT"
     }
   ]
 }
