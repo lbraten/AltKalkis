@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T22:28:32.196Z",
+  "updatedAt": "2026-08-25T22:57:14.298Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "199 kvinner fikk erstatning for mens-forstyrrelser etter koronavaksine",
+      "link": "https://www.nrk.no/nyheter/199-kvinner-fikk-erstatning-for-mens-forstyrrelser-etter-koronavaksine-1.18001670",
+      "category": "Koronaviruset",
+      "pubDate": "Tue, 25 Aug 2026 22:45:59 GMT"
+    },
     {
       "title": "Bodø/Glimt skal til Mesterligaen",
       "link": "https://www.nrk.no/nyheter/bodo_glimt-skal-til-mesterligaen-1.18001669",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kurdiskledet-styrke-i-syria-opploses-1.18001177",
       "category": "Syria",
       "pubDate": "Tue, 25 Aug 2026 18:38:17 GMT"
-    },
-    {
-      "title": "Dolly Parton er død",
-      "link": "https://www.nrk.no/nyheter/dolly-parton-er-dod-1.18001549",
-      "category": "Dolly Parton er død",
-      "pubDate": "Tue, 25 Aug 2026 17:56:11 GMT"
     }
   ]
 }
