@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-25T05:32:24.684Z",
+  "updatedAt": "2026-08-25T06:50:18.938Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dataangrep held fram",
+      "link": "https://www.nrk.no/nyheter/dataangrep-held-fram-1.18000471",
+      "category": "Digitale løsninger",
+      "pubDate": "Tue, 25 Aug 2026 06:44:17 GMT"
+    },
+    {
+      "title": "Mer gass til Troll A",
+      "link": "https://www.nrk.no/rogaland/mer-gass-til-troll-a-1.18000460",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Tue, 25 Aug 2026 06:37:28 GMT"
+    },
+    {
+      "title": "Tredje drone med eksplosiver funnet ved Leipzig-flyplassen",
+      "link": "https://www.nrk.no/nyheter/tredje-drone-med-eksplosiver-funnet-ved-leipzig-flyplassen-1.18000464",
+      "category": "Tyskland",
+      "pubDate": "Tue, 25 Aug 2026 06:32:32 GMT"
+    },
+    {
+      "title": "Deler nytt bilete av kronprinsparet i forbindelse med sølvbryllaupsdagen",
+      "link": "https://www.nrk.no/nyheter/deler-nytt-bilete-av-kronprinsparet-i-forbindelse-med-solvbryllaupsdagen-1.18000427",
+      "category": "Kongefamilien",
+      "pubDate": "Tue, 25 Aug 2026 06:25:12 GMT"
+    },
+    {
+      "title": "Adrian Lund får Tabuprisen",
+      "link": "https://www.nrk.no/nyheter/adrian-lund-far-tabuprisen-1.18000395",
+      "category": "Psykisk helse",
+      "pubDate": "Tue, 25 Aug 2026 05:43:37 GMT"
+    },
     {
       "title": "Det blir fødd fleire i Noreg",
       "link": "https://www.nrk.no/nyheter/det-blir-fodd-fleire-i-noreg-1.18000367",
       "category": "Svangerskap og fødsel",
       "pubDate": "Tue, 25 Aug 2026 05:12:57 GMT"
-    },
-    {
-      "title": "Laveste trafikk i Hormuzstredet på tre måneder",
-      "link": "https://www.nrk.no/nyheter/laveste-trafikk-i-hormuzstredet-pa-tre-maneder-1.18000349",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 25 Aug 2026 04:30:19 GMT"
-    },
-    {
-      "title": "Guvernør: Oljeraffineri i brann etter droneangrep",
-      "link": "https://www.nrk.no/nyheter/guvernor_-oljeraffineri-i-brann-etter-droneangrep-1.18000329",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 25 Aug 2026 04:01:59 GMT"
-    },
-    {
-      "title": "Høyesterett gir Trump en «midlertidig seier» i spørsmål om poststemmer",
-      "link": "https://www.nrk.no/nyheter/hoyesterett-gir-trump-en-_midlertidig-seier_-i-sporsmal-om-poststemmer-1.18000302",
-      "category": "USA",
-      "pubDate": "Tue, 25 Aug 2026 03:41:22 GMT"
-    },
-    {
-      "title": "Regjeringen vurderer lovpålagt husforsikring",
-      "link": "https://www.nrk.no/nyheter/regjeringen-vurderer-lovpalagt-husforsikring-1.18000301",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Tue, 25 Aug 2026 02:04:04 GMT"
-    },
-    {
-      "title": "Rykket ut i Oslo etter pistolmelding",
-      "link": "https://www.nrk.no/nyheter/rykket-ut-i-oslo-etter-pistolmelding-1.18000300",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 25 Aug 2026 01:45:55 GMT"
     }
   ]
 }
