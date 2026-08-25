@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-25T14:49:57.683Z",
+  "updatedAt": "2026-08-25T15:42:44.688Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Canada svarer USA – innfører straffetoll på over 700 varer fra USA",
+      "link": "https://www.nrk.no/nyheter/canada-svarer-usa-_-innforer-straffetoll-pa-over-700-varer-fra-usa-1.18001396",
+      "category": "Canada",
+      "pubDate": "Tue, 25 Aug 2026 15:12:27 GMT"
+    },
+    {
+      "title": "LO og NHO foreslår å åpne for oljevirksomhet i omstridt havområde",
+      "link": "https://www.nrk.no/nyheter/lo-og-nho-foreslar-a-apne-for-oljevirksomhet-i-omstridt-havomrade-1.18001349",
+      "category": "Olje og gass",
+      "pubDate": "Tue, 25 Aug 2026 15:01:00 GMT"
+    },
     {
       "title": "Barnevernsrapport: Rødt krever redegjørelse i Stortinget",
       "link": "https://www.nrk.no/nyheter/barnevernsrapport_-rodt-krever-redegjorelse-i-stortinget-1.18001322",
@@ -23,20 +35,8 @@
     {
       "title": "Sterkeste krone på tre måneder",
       "link": "https://www.nrk.no/nyheter/sterkeste-krone-pa-tre-maneder-1.18001309",
-      "category": "NRK Nyheter",
+      "category": "Kronekursen",
       "pubDate": "Tue, 25 Aug 2026 14:05:27 GMT"
-    },
-    {
-      "title": "Statsforvalteren anbefaler at Tromsø kommune skal inn i Robek-registeret",
-      "link": "https://www.nrk.no/tromsogfinnmark/statsforvalteren-anbefaler-at-tromso-kommune-skal-inn-i-robek-registeret-1.18001310",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 25 Aug 2026 14:03:29 GMT"
-    },
-    {
-      "title": "Øygarden: Overtenning i bustadbygg etter melding om eksplosjon",
-      "link": "https://www.nrk.no/nyheter/oygarden_-overtenning-i-bustadbygg-etter-melding-om-eksplosjon-1.18001079",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 25 Aug 2026 12:42:43 GMT"
     }
   ]
 }
