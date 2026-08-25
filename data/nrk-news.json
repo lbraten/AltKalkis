@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-25T17:32:37.293Z",
+  "updatedAt": "2026-08-25T18:40:33.820Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kurdiskledet styrke i Syria oppløses",
+      "link": "https://www.nrk.no/nyheter/kurdiskledet-styrke-i-syria-opploses-1.18001177",
+      "category": "Syria",
+      "pubDate": "Tue, 25 Aug 2026 18:38:17 GMT"
+    },
+    {
+      "title": "Dolly Parton er død",
+      "link": "https://www.nrk.no/nyheter/dolly-parton-er-dod-1.18001549",
+      "category": "Dolly Parton er død",
+      "pubDate": "Tue, 25 Aug 2026 17:56:11 GMT"
+    },
+    {
+      "title": "Trump truer med å endre navn på Ontariosjøen",
+      "link": "https://www.nrk.no/nyheter/trump-truer-med-a-endre-navn-pa-ontariosjoen-1.18001537",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 25 Aug 2026 17:55:41 GMT"
+    },
+    {
+      "title": "Etterforsker eksplosjon i Øygarden",
+      "link": "https://www.nrk.no/nyheter/etterforsker-eksplosjon-i-oygarden-1.18001404",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 25 Aug 2026 17:51:09 GMT"
+    },
     {
       "title": "Oljeprotester utenfor Equinors hagefest i Stavanger",
       "link": "https://www.nrk.no/rogaland/oljeprotester-utenfor-equinors-hagefest-i-stavanger-1.18001509",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/lorenskog-siktet-fengsles-i-fire-uker-i-narkotikasak-1.18001429",
       "category": "NRK Nyheter",
       "pubDate": "Tue, 25 Aug 2026 15:45:11 GMT"
-    },
-    {
-      "title": "Canada svarer USA – innfører straffetoll på over 700 varer fra USA",
-      "link": "https://www.nrk.no/nyheter/canada-svarer-usa-_-innforer-straffetoll-pa-over-700-varer-fra-usa-1.18001396",
-      "category": "Canada",
-      "pubDate": "Tue, 25 Aug 2026 15:12:27 GMT"
-    },
-    {
-      "title": "LO og NHO foreslår å åpne for oljevirksomhet i omstridt havområde",
-      "link": "https://www.nrk.no/nyheter/lo-og-nho-foreslar-a-apne-for-oljevirksomhet-i-omstridt-havomrade-1.18001349",
-      "category": "Olje og gass",
-      "pubDate": "Tue, 25 Aug 2026 15:01:00 GMT"
-    },
-    {
-      "title": "Barnevernsrapport: Rødt krever redegjørelse i Stortinget",
-      "link": "https://www.nrk.no/nyheter/barnevernsrapport_-rodt-krever-redegjorelse-i-stortinget-1.18001322",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 25 Aug 2026 14:26:54 GMT"
-    },
-    {
-      "title": "Funn av død person i bolighus i Øygarden",
-      "link": "https://www.nrk.no/vestland/funn-av-dod-person-i-bolighus-i-oygarden-1.18001347",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 25 Aug 2026 14:20:14 GMT"
     }
   ]
 }
