@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-24T23:47:08.397Z",
+  "updatedAt": "2026-08-25T01:19:43.773Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN: Minst 47 mennesker drept i gjengvold på Haiti",
+      "link": "https://www.nrk.no/nyheter/fn_-minst-47-mennesker-drept-i-gjengvold-pa-haiti-1.18000299",
+      "category": "Haiti",
+      "pubDate": "Tue, 25 Aug 2026 00:49:51 GMT"
+    },
     {
       "title": "Utenriksministeren på besøk i Syria",
       "link": "https://www.nrk.no/nyheter/utenriksministeren-pa-besok-i-syria-1.18000298",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/rogaland/ingebrigtsen-brodrenes-talsperson-til-nrk_-_-vanskelig-a-fa-tak-pa-hva-gjert-ingebrigtsen-beklager-1.18000093",
       "category": "Sportsnyheter",
       "pubDate": "Mon, 24 Aug 2026 19:57:55 GMT"
-    },
-    {
-      "title": "Måling: Mindre støtte til Trump og Iran-krigen",
-      "link": "https://www.nrk.no/nyheter/maling_-mindre-stotte-til-trump-og-iran-krigen-1.18000260",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 24 Aug 2026 19:43:21 GMT"
     }
   ]
 }
