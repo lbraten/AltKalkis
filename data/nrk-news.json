@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-25T09:36:12.215Z",
+  "updatedAt": "2026-08-25T10:34:03.858Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Amerikansk militærfly landet i Moskva",
+      "link": "https://www.nrk.no/nyheter/amerikansk-militaerfly-landet-i-moskva-1.18000780",
+      "category": "Russland og USA",
+      "pubDate": "Tue, 25 Aug 2026 10:22:11 GMT"
+    },
+    {
+      "title": "Armenias tidligere president siktet i korrupsjonssak",
+      "link": "https://www.nrk.no/nyheter/armenias-tidligere-president-siktet-i-korrupsjonssak-1.18000758",
+      "category": "Armenia",
+      "pubDate": "Tue, 25 Aug 2026 09:46:52 GMT"
+    },
     {
       "title": "Enighet i meklingen for frisørene",
       "link": "https://www.nrk.no/nyheter/enighet-i-meklingen-for-frisorene-1.18000750",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dnb-har-hatt-problem-med-tenester-1.18000551",
       "category": "DNB",
       "pubDate": "Tue, 25 Aug 2026 08:10:16 GMT"
-    },
-    {
-      "title": "Obos nedbemanner – skal ha 200 færre ansatte innen utgangen av 2027",
-      "link": "https://www.nrk.no/nyheter/obos-nedbemanner-_-skal-ha-200-faerre-ansatte-innen-utgangen-av-2027-1.18000520",
-      "category": "Obos",
-      "pubDate": "Tue, 25 Aug 2026 07:35:02 GMT"
-    },
-    {
-      "title": "Fotball-VM gav salsvekst for Lego",
-      "link": "https://www.nrk.no/nyheter/fotball-vm-gav-salsvekst-for-lego-1.18000502",
-      "category": "Danmark",
-      "pubDate": "Tue, 25 Aug 2026 07:19:33 GMT"
     }
   ]
 }
