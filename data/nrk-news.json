@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-25T02:39:12.001Z",
+  "updatedAt": "2026-08-25T03:49:41.047Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Høyesterett gir Trump en «midlertidig seier» i spørsmål om poststemmer",
+      "link": "https://www.nrk.no/nyheter/hoyesterett-gir-trump-en-_midlertidig-seier_-i-sporsmal-om-poststemmer-1.18000302",
+      "category": "USA",
+      "pubDate": "Tue, 25 Aug 2026 03:41:22 GMT"
+    },
     {
       "title": "Regjeringen vurderer lovpålagt husforsikring",
       "link": "https://www.nrk.no/nyheter/regjeringen-vurderer-lovpalagt-husforsikring-1.18000301",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ukmto_-oljetanker-truffet-utenfor-oman-1.18000297",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 24 Aug 2026 23:00:03 GMT"
-    },
-    {
-      "title": "Regjeringen skrinlegger planer om toetasjes tog",
-      "link": "https://www.nrk.no/nyheter/regjeringen-skrinlegger-planer-om-toetasjes-tog-1.18000286",
-      "category": "Tog og jernbane",
-      "pubDate": "Mon, 24 Aug 2026 22:13:12 GMT"
     }
   ]
 }
