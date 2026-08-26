@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-26T12:54:22.168Z",
+  "updatedAt": "2026-08-26T13:55:19.389Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "31 bekreftet omkommet i Nepal",
-      "link": "https://www.nrk.no/nyheter/31-bekreftet-omkommet-i-nepal-1.18002518",
+      "title": "Trump: – Tror ikke Irans leder er død",
+      "link": "https://www.nrk.no/nyheter/trump_-_-tror-ikke-irans-leder-er-dod-1.18002578",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Wed, 26 Aug 2026 13:38:50 GMT"
+    },
+    {
+      "title": "Meta har inngått forlik",
+      "link": "https://www.nrk.no/nyheter/meta-har-inngatt-forlik--1.18002559",
+      "category": "Meta",
+      "pubDate": "Wed, 26 Aug 2026 13:10:26 GMT"
+    },
+    {
+      "title": "Durek Verrett har gjennomgått en nyretransplantasjon",
+      "link": "https://www.nrk.no/nyheter/durek-verrett-har-gjennomgatt-en-nyretransplantasjon-1.18002491",
+      "category": "Kongefamilien",
+      "pubDate": "Wed, 26 Aug 2026 13:04:04 GMT"
+    },
+    {
+      "title": "Tromsø på Robek-listen",
+      "link": "https://www.nrk.no/nyheter/tromso-pa-robek-listen-1.18002546",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Wed, 26 Aug 2026 12:59:53 GMT"
+    },
+    {
+      "title": "95 bekreftet omkommet i Nepal",
+      "link": "https://www.nrk.no/nyheter/95-bekreftet-omkommet-i-nepal-1.18002518",
       "category": "Flom og jordskred i Nepal",
       "pubDate": "Wed, 26 Aug 2026 12:54:14 GMT"
     },
     {
-      "title": "LO vil ha endringer i AFP-ordningen.",
-      "link": "https://www.nrk.no/nyheter/lo-vil-ha-endringer-i-afp-ordningen.-1.18002510",
-      "category": "Pensjon",
-      "pubDate": "Wed, 26 Aug 2026 12:49:32 GMT"
-    },
-    {
-      "title": "Ingen opplysninger om at nordmenn er rammet",
-      "link": "https://www.nrk.no/nyheter/ingen-opplysninger-om-at-nordmenn-er-rammet-1.18002493",
-      "category": "Flom og jordskred i Nepal",
-      "pubDate": "Wed, 26 Aug 2026 12:45:01 GMT"
-    },
-    {
-      "title": "Zelenskyj har besøkt fronten i Ukraina",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-har-besokt-fronten-i-ukraina-1.18002454",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 26 Aug 2026 12:20:19 GMT"
-    },
-    {
-      "title": "Prins Harry og familien har landet i Storbritannia",
-      "link": "https://www.nrk.no/nyheter/prins-harry-og-familien-har-landet-i-storbritannia-1.18002439",
-      "category": "Det britiske kongehuset",
-      "pubDate": "Wed, 26 Aug 2026 12:14:26 GMT"
-    },
-    {
-      "title": "Revolusjonsgarden: Iran og Oman enige om å dele Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/revolusjonsgarden_-iran-og-oman-enige-om-a-dele-hormuzstredet---1.18002426",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 26 Aug 2026 12:00:53 GMT"
+      "title": "Togtrøbbel på Oslo S",
+      "link": "https://www.nrk.no/stor-oslo/togtrobbel-pa-oslo-s-1.18002331",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 26 Aug 2026 12:50:14 GMT"
     }
   ]
 }
