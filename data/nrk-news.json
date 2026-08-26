@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-26T18:14:43.920Z",
+  "updatedAt": "2026-08-26T20:36:18.187Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nvidia overgikk forventningene – tjente 96,2 milliarder dollar",
+      "link": "https://www.nrk.no/nyheter/nvidia-overgikk-forventningene-_-tjente-96_2-milliarder-dollar-1.18002934",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 26 Aug 2026 20:26:39 GMT"
+    },
+    {
+      "title": "Aker-selskap inngikk stor kontrakt med Anthropic",
+      "link": "https://www.nrk.no/nyheter/aker-selskap-inngikk-stor-kontrakt-med-anthropic-1.18002903",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 26 Aug 2026 19:09:04 GMT"
+    },
+    {
+      "title": "Bortesupportere hadde to personer i bagasjerom",
+      "link": "https://www.nrk.no/rogaland/bortesupportere-hadde-to-personer-i-bagasjerom-1.18002844",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 26 Aug 2026 18:27:14 GMT"
+    },
+    {
+      "title": "157 døde i Nepal",
+      "link": "https://www.nrk.no/nyheter/157-dode-i-nepal-1.18002825",
+      "category": "Flom og jordskred i Nepal",
+      "pubDate": "Wed, 26 Aug 2026 18:17:34 GMT"
+    },
     {
       "title": "Flyplassansatte døde av malaria i Frankfurt",
       "link": "https://www.nrk.no/nyheter/flyplassansatte-dode-av-malaria-i-frankfurt-1.18002852",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/russland-sier-de-angrep-lasteskip-i-izmajil-1.18002840",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 26 Aug 2026 17:27:02 GMT"
-    },
-    {
-      "title": "Miley Cyrus hyller Dolly Parton",
-      "link": "https://www.nrk.no/nyheter/miley-cyrus-hyller-dolly-parton-1.18002816",
-      "category": "Dolly Parton er død",
-      "pubDate": "Wed, 26 Aug 2026 16:55:27 GMT"
-    },
-    {
-      "title": "Dronningen og kronprinsparet forlater Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/dronningen-og-kronprinsparet-forlater-rikshospitalet-1.18002776",
-      "category": "Kongefamilien",
-      "pubDate": "Wed, 26 Aug 2026 16:38:55 GMT"
-    },
-    {
-      "title": "Morgenbladet felt i PFU etter feilaktig KI-beskyldning",
-      "link": "https://www.nrk.no/vestland/morgenbladet-felt-i-pfu-etter-feilaktig-ki-beskyldning-1.18002781",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 26 Aug 2026 16:02:25 GMT"
-    },
-    {
-      "title": "BBC: 579 turister savnet",
-      "link": "https://www.nrk.no/nyheter/bbc_-579-turister-savnet-1.18002758",
-      "category": "Flom og jordskred i Nepal",
-      "pubDate": "Wed, 26 Aug 2026 15:52:52 GMT"
     }
   ]
 }
