@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-26T08:44:53.055Z",
+  "updatedAt": "2026-08-26T09:42:17.912Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Meta i samtalar om forlik i rettssak",
+      "link": "https://www.nrk.no/nyheter/meta-i-samtalar-om-forlik-i-rettssak-1.18002122",
+      "category": "Meta",
+      "pubDate": "Wed, 26 Aug 2026 09:38:55 GMT"
+    },
+    {
+      "title": "Endrar programmet til dronninga torsdag",
+      "link": "https://www.nrk.no/nyheter/endrar-programmet-til-dronninga-torsdag-1.18002085",
+      "category": "Kongefamilien",
+      "pubDate": "Wed, 26 Aug 2026 09:14:26 GMT"
+    },
+    {
+      "title": "TV 2: Russisk hackergruppe tek ansvaret for dataangrep mot Noreg",
+      "link": "https://www.nrk.no/nyheter/tv-2_-russisk-hackergruppe-tek-ansvaret-for-dataangrep-mot-noreg-1.18001985",
+      "category": "Digitale løsninger",
+      "pubDate": "Wed, 26 Aug 2026 09:01:13 GMT"
+    },
+    {
+      "title": "Fiskeridirektoratet: – 1000 garn er henter opp fra havet",
+      "link": "https://www.nrk.no/tromsogfinnmark/fiskeridirektoratet_-_-1000-garn-er-henter-opp-fra-havet-1.18001951",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Wed, 26 Aug 2026 08:56:46 GMT"
+    },
     {
       "title": "74 flere misjonærbarn har fått oppreisning for belastninger i barndommen",
       "link": "https://www.nrk.no/rogaland/74-flere-misjonaerbarn-har-fatt-oppreisning-for-belastninger-i-barndommen-1.18002012",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nytt-ekstremvaer-far-navnet-_dolly_-1.18001813",
       "category": "Klima og miljø",
       "pubDate": "Wed, 26 Aug 2026 08:08:02 GMT"
-    },
-    {
-      "title": "Ingebrigtsen-brødrene med millionresultat",
-      "link": "https://www.nrk.no/rogaland/ingebrigtsen-brodrene-med-millionresultat-1.18001915",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 26 Aug 2026 07:43:03 GMT"
-    },
-    {
-      "title": "Artistar hyllar Dolly Parton",
-      "link": "https://www.nrk.no/nyheter/artistar-hyllar-dolly-parton-1.18001819",
-      "category": "Musikk",
-      "pubDate": "Wed, 26 Aug 2026 07:31:31 GMT"
-    },
-    {
-      "title": "Sverige: En person pågrepet for medvirkning etter sverdangrep",
-      "link": "https://www.nrk.no/nyheter/sverige_-en-person-pagrepet-for-medvirkning-etter-sverdangrep-1.18001786",
-      "category": "Sverige",
-      "pubDate": "Wed, 26 Aug 2026 06:22:35 GMT"
-    },
-    {
-      "title": "Ber Støre stille kabinettsspørsmål om drivstoff",
-      "link": "https://www.nrk.no/innlandet/ber-store-stille-kabinettssporsmal-om-drivstoff-1.18001728",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Wed, 26 Aug 2026 06:21:59 GMT"
     }
   ]
 }
