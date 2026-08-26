@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-08-26T02:48:14.061Z",
+  "updatedAt": "2026-08-26T03:53:59.721Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Fire drept i angrep på antatt narkobåt",
-      "link": "https://www.nrk.no/nyheter/fire-drept-i-angrep-pa-antatt-narkobat-1.18001680",
+      "title": "Trump-favoritt vant viktig nominasjonskamp i USA",
+      "link": "https://www.nrk.no/nyheter/trump-favoritt-vant-viktig-nominasjonskamp-i-usa-1.18001714",
+      "category": "USA",
+      "pubDate": "Wed, 26 Aug 2026 03:44:22 GMT"
+    },
+    {
+      "title": "Stadig flere boliglån gis med unntak",
+      "link": "https://www.nrk.no/stor-oslo/stadig-flere-boliglan-gis-med-unntak-1.18001702",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 26 Aug 2026 03:32:25 GMT"
+    },
+    {
+      "title": "Kvam: Fann ikkje stien i mørket, måtte bergast ned",
+      "link": "https://www.nrk.no/vestland/kvam_-fann-ikkje-stien-i-morket_-matte-bergast-ned--1.18001684",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 26 Aug 2026 03:08:33 GMT"
+    },
+    {
+      "title": "Fire drept i båtangrep",
+      "link": "https://www.nrk.no/nyheter/fire-drept-i-batangrep-1.18001680",
       "category": "USA",
       "pubDate": "Wed, 26 Aug 2026 01:59:48 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bodo_-pagrepet-mann-skal-i-avhor-onsdag-1.18001678",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Tue, 25 Aug 2026 23:52:50 GMT"
-    },
-    {
-      "title": "Mann funnet etter leteaksjon i Nore og Uvdal",
-      "link": "https://www.nrk.no/nyheter/mann-funnet-etter-leteaksjon-i-nore-og-uvdal-1.18001677",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Tue, 25 Aug 2026 23:16:28 GMT"
-    },
-    {
-      "title": "199 kvinner fikk erstatning for mens-forstyrrelser etter koronavaksine",
-      "link": "https://www.nrk.no/nyheter/199-kvinner-fikk-erstatning-for-mens-forstyrrelser-etter-koronavaksine-1.18001670",
-      "category": "Koronaviruset",
-      "pubDate": "Tue, 25 Aug 2026 22:45:59 GMT"
-    },
-    {
-      "title": "Bodø/Glimt skal til Mesterligaen",
-      "link": "https://www.nrk.no/nyheter/bodo_glimt-skal-til-mesterligaen-1.18001669",
-      "category": "Bodø/Glimt",
-      "pubDate": "Tue, 25 Aug 2026 21:25:51 GMT"
     }
   ]
 }
