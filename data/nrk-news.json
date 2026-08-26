@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-26T05:35:16.381Z",
+  "updatedAt": "2026-08-26T06:51:50.530Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sverige: En person pågrepet for medvirkning etter sverdangrep",
+      "link": "https://www.nrk.no/nyheter/sverige_-en-person-pagrepet-for-medvirkning-etter-sverdangrep-1.18001786",
+      "category": "Sverige",
+      "pubDate": "Wed, 26 Aug 2026 06:22:35 GMT"
+    },
+    {
+      "title": "Ber Støre stille kabinettsspørsmål om drivstoff",
+      "link": "https://www.nrk.no/innlandet/ber-store-stille-kabinettssporsmal-om-drivstoff-1.18001728",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Wed, 26 Aug 2026 06:21:59 GMT"
+    },
+    {
+      "title": "Dataangrep mot Digdir held fram",
+      "link": "https://www.nrk.no/nyheter/dataangrep-mot-digdir-held-fram-1.18001764",
+      "category": "Digitale løsninger",
+      "pubDate": "Wed, 26 Aug 2026 05:55:27 GMT"
+    },
     {
       "title": "Streik ved Diakonhjemmet i Oslo - kan måtte stenge sykehjem",
       "link": "https://www.nrk.no/stor-oslo/streik-ved-diakonhjemmet-i-oslo---kan-matte-stenge-sykehjem-1.18001755",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/drepte-prostituert-i-oslo---ber-om-loslatelse-1.18001712",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 26 Aug 2026 04:21:57 GMT"
-    },
-    {
-      "title": "Trump-favoritt vant viktig nominasjonskamp i USA",
-      "link": "https://www.nrk.no/nyheter/trump-favoritt-vant-viktig-nominasjonskamp-i-usa-1.18001714",
-      "category": "USA",
-      "pubDate": "Wed, 26 Aug 2026 03:44:22 GMT"
-    },
-    {
-      "title": "Stadig flere boliglån gis med unntak",
-      "link": "https://www.nrk.no/stor-oslo/stadig-flere-boliglan-gis-med-unntak-1.18001702",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 26 Aug 2026 03:32:25 GMT"
-    },
-    {
-      "title": "Kvam: Fann ikkje stien i mørket, måtte bergast ned",
-      "link": "https://www.nrk.no/vestland/kvam_-fann-ikkje-stien-i-morket_-matte-bergast-ned--1.18001684",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Wed, 26 Aug 2026 03:08:33 GMT"
     }
   ]
 }
