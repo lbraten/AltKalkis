@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-08-26T10:36:10.124Z",
+  "updatedAt": "2026-08-26T11:31:09.678Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Fleire døde etter flaum i Nepal",
-      "link": "https://www.nrk.no/nyheter/fleire-dode-etter-flaum-i-nepal-1.18002179",
-      "category": "Nepal",
+      "title": "Prins Harry og familien ventes til Storbritannia onsdag",
+      "link": "https://www.nrk.no/nyheter/prins-harry-og-familien-ventes-til-storbritannia-onsdag-1.18002352",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 26 Aug 2026 11:29:08 GMT"
+    },
+    {
+      "title": "Kronprinsen overværer Gardens drilloppvisning",
+      "link": "https://www.nrk.no/nyheter/kronprinsen-overvaerer-gardens-drilloppvisning-1.18002306",
+      "category": "Kongefamilien",
+      "pubDate": "Wed, 26 Aug 2026 11:07:32 GMT"
+    },
+    {
+      "title": "Støre: – Ønsker av hele vårt hjerte kongen god bedring",
+      "link": "https://www.nrk.no/nyheter/store_-_-onsker-av-hele-vart-hjerte-kongen-god-bedring-1.18002298",
+      "category": "Kongefamilien",
+      "pubDate": "Wed, 26 Aug 2026 11:04:13 GMT"
+    },
+    {
+      "title": "Fleire døde etter jordskred i Nepal",
+      "link": "https://www.nrk.no/nyheter/fleire-dode-etter-jordskred-i-nepal-1.18002179",
+      "category": "Flom og jordskred i Nepal",
       "pubDate": "Wed, 26 Aug 2026 10:33:38 GMT"
     },
     {
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kreml_-cia-direktor-motte-ikke-putin-1.18002157",
       "category": "Russland og USA",
       "pubDate": "Wed, 26 Aug 2026 09:59:10 GMT"
-    },
-    {
-      "title": "Meta i samtalar om forlik i rettssak",
-      "link": "https://www.nrk.no/nyheter/meta-i-samtalar-om-forlik-i-rettssak-1.18002122",
-      "category": "Meta",
-      "pubDate": "Wed, 26 Aug 2026 09:38:55 GMT"
-    },
-    {
-      "title": "Endrar programmet til dronninga torsdag",
-      "link": "https://www.nrk.no/nyheter/endrar-programmet-til-dronninga-torsdag-1.18002085",
-      "category": "Kongefamilien",
-      "pubDate": "Wed, 26 Aug 2026 09:14:26 GMT"
-    },
-    {
-      "title": "TV 2: Russisk hackergruppe tek ansvaret for dataangrep mot Noreg",
-      "link": "https://www.nrk.no/nyheter/tv-2_-russisk-hackergruppe-tek-ansvaret-for-dataangrep-mot-noreg-1.18001985",
-      "category": "Digitale løsninger",
-      "pubDate": "Wed, 26 Aug 2026 09:01:13 GMT"
     }
   ]
 }
