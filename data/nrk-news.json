@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-25T23:30:23.391Z",
+  "updatedAt": "2026-08-26T01:23:01.244Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dolly Parton døde etter kreftsykdom",
+      "link": "https://www.nrk.no/nyheter/dolly-parton-dode-etter-kreftsykdom-1.18001679",
+      "category": "Dolly Parton er død",
+      "pubDate": "Wed, 26 Aug 2026 00:30:44 GMT"
+    },
+    {
+      "title": "Bodø: Pågrepet mann skal i avhør onsdag",
+      "link": "https://www.nrk.no/nyheter/bodo_-pagrepet-mann-skal-i-avhor-onsdag-1.18001678",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 25 Aug 2026 23:52:50 GMT"
+    },
     {
       "title": "Mann funnet etter leteaksjon i Nore og Uvdal",
       "link": "https://www.nrk.no/nyheter/mann-funnet-etter-leteaksjon-i-nore-og-uvdal-1.18001677",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/buskerud/savnet-mann-i-nore-og-uvdal-_-redningshelikopter-pa-vei-1.18001557",
       "category": "Nyhetssenter Buskerud",
       "pubDate": "Tue, 25 Aug 2026 20:04:39 GMT"
-    },
-    {
-      "title": "Mann pågrepet etter trusler om brann og vold",
-      "link": "https://www.nrk.no/nordland/mann-pagrepet-etter-trusler-om-brann-og-vold-1.18001560",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Tue, 25 Aug 2026 20:04:38 GMT"
-    },
-    {
-      "title": "Det hvite hus flagger på halv stang etter Dolly Partons bortgang",
-      "link": "https://www.nrk.no/nyheter/det-hvite-hus-flagger-pa-halv-stang-etter-dolly-partons-bortgang-1.18001574",
-      "category": "Dolly Parton er død",
-      "pubDate": "Tue, 25 Aug 2026 18:53:14 GMT"
     }
   ]
 }
