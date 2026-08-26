@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-26T06:51:50.530Z",
+  "updatedAt": "2026-08-26T07:47:50.824Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ingebrigtsen-brødrene med millionresultat",
+      "link": "https://www.nrk.no/rogaland/ingebrigtsen-brodrene-med-millionresultat-1.18001915",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 26 Aug 2026 07:43:03 GMT"
+    },
+    {
+      "title": "Artistar hyllar Dolly Parton",
+      "link": "https://www.nrk.no/nyheter/artistar-hyllar-dolly-parton-1.18001819",
+      "category": "Musikk",
+      "pubDate": "Wed, 26 Aug 2026 07:31:31 GMT"
+    },
     {
       "title": "Sverige: En person pågrepet for medvirkning etter sverdangrep",
       "link": "https://www.nrk.no/nyheter/sverige_-en-person-pagrepet-for-medvirkning-etter-sverdangrep-1.18001786",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/stor-oslo/streik-ved-diakonhjemmet-i-oslo---kan-matte-stenge-sykehjem-1.18001755",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Wed, 26 Aug 2026 05:25:56 GMT"
-    },
-    {
-      "title": "Barn omkom i sjukehusbrann i Pakistan",
-      "link": "https://www.nrk.no/nyheter/barn-omkom-i-sjukehusbrann-i-pakistan-1.18001731",
-      "category": "Pakistan",
-      "pubDate": "Wed, 26 Aug 2026 05:23:27 GMT"
-    },
-    {
-      "title": "Drepte prostituert i Oslo - ber om løslatelse",
-      "link": "https://www.nrk.no/stor-oslo/drepte-prostituert-i-oslo---ber-om-loslatelse-1.18001712",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 26 Aug 2026 04:21:57 GMT"
     }
   ]
 }
