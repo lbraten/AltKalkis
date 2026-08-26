@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-26T16:18:19.986Z",
+  "updatedAt": "2026-08-26T18:14:43.920Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flyplassansatte døde av malaria i Frankfurt",
+      "link": "https://www.nrk.no/nyheter/flyplassansatte-dode-av-malaria-i-frankfurt-1.18002852",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 26 Aug 2026 17:39:35 GMT"
+    },
+    {
+      "title": "Russland sier de angrep lasteskip i Izmajil",
+      "link": "https://www.nrk.no/nyheter/russland-sier-de-angrep-lasteskip-i-izmajil-1.18002840",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 26 Aug 2026 17:27:02 GMT"
+    },
+    {
+      "title": "Miley Cyrus hyller Dolly Parton",
+      "link": "https://www.nrk.no/nyheter/miley-cyrus-hyller-dolly-parton-1.18002816",
+      "category": "Dolly Parton er død",
+      "pubDate": "Wed, 26 Aug 2026 16:55:27 GMT"
+    },
+    {
+      "title": "Dronningen og kronprinsparet forlater Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/dronningen-og-kronprinsparet-forlater-rikshospitalet-1.18002776",
+      "category": "Kongefamilien",
+      "pubDate": "Wed, 26 Aug 2026 16:38:55 GMT"
+    },
+    {
+      "title": "Morgenbladet felt i PFU etter feilaktig KI-beskyldning",
+      "link": "https://www.nrk.no/vestland/morgenbladet-felt-i-pfu-etter-feilaktig-ki-beskyldning-1.18002781",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 26 Aug 2026 16:02:25 GMT"
+    },
     {
       "title": "BBC: 579 turister savnet",
       "link": "https://www.nrk.no/nyheter/bbc_-579-turister-savnet-1.18002758",
       "category": "Flom og jordskred i Nepal",
       "pubDate": "Wed, 26 Aug 2026 15:52:52 GMT"
-    },
-    {
-      "title": "Ulykke mellom buss og personbil i Fredrikstad",
-      "link": "https://www.nrk.no/ostfold/ulykke-mellom-buss-og-personbil-i-fredrikstad-1.18002774",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Wed, 26 Aug 2026 15:48:55 GMT"
-    },
-    {
-      "title": "Laksesykdom bekreftet i oppdrettsanlegg i Bodø",
-      "link": "https://www.nrk.no/nordland/laksesykdom-bekreftet-i-oppdrettsanlegg-i-bodo-1.18002756",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Wed, 26 Aug 2026 15:28:47 GMT"
-    },
-    {
-      "title": "TMZ: Skuespiller Tim Curry er død",
-      "link": "https://www.nrk.no/nyheter/tmz_-skuespiller-tim-curry-er-dod-1.18002741",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 26 Aug 2026 15:27:21 GMT"
-    },
-    {
-      "title": "Tre bekreftet omkommet i Kina",
-      "link": "https://www.nrk.no/nyheter/tre-bekreftet-omkommet-i-kina-1.18002702",
-      "category": "Flom og jordskred i Nepal",
-      "pubDate": "Wed, 26 Aug 2026 15:06:53 GMT"
-    },
-    {
-      "title": "Sverige betaler 4,3 milliarder euro for franske fregatter",
-      "link": "https://www.nrk.no/nyheter/sverige-betaler-4_3-milliarder-euro-for-franske-fregatter-1.18002693",
-      "category": "Sverige",
-      "pubDate": "Wed, 26 Aug 2026 14:31:05 GMT"
     }
   ]
 }
