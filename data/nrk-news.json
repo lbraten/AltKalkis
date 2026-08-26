@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-26T14:45:27.286Z",
+  "updatedAt": "2026-08-26T16:18:19.986Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "BBC: 579 turister savnet",
+      "link": "https://www.nrk.no/nyheter/bbc_-579-turister-savnet-1.18002758",
+      "category": "Flom og jordskred i Nepal",
+      "pubDate": "Wed, 26 Aug 2026 15:52:52 GMT"
+    },
+    {
+      "title": "Ulykke mellom buss og personbil i Fredrikstad",
+      "link": "https://www.nrk.no/ostfold/ulykke-mellom-buss-og-personbil-i-fredrikstad-1.18002774",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Wed, 26 Aug 2026 15:48:55 GMT"
+    },
+    {
+      "title": "Laksesykdom bekreftet i oppdrettsanlegg i Bodø",
+      "link": "https://www.nrk.no/nordland/laksesykdom-bekreftet-i-oppdrettsanlegg-i-bodo-1.18002756",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 26 Aug 2026 15:28:47 GMT"
+    },
+    {
+      "title": "TMZ: Skuespiller Tim Curry er død",
+      "link": "https://www.nrk.no/nyheter/tmz_-skuespiller-tim-curry-er-dod-1.18002741",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 26 Aug 2026 15:27:21 GMT"
+    },
+    {
+      "title": "Tre bekreftet omkommet i Kina",
+      "link": "https://www.nrk.no/nyheter/tre-bekreftet-omkommet-i-kina-1.18002702",
+      "category": "Flom og jordskred i Nepal",
+      "pubDate": "Wed, 26 Aug 2026 15:06:53 GMT"
+    },
     {
       "title": "Sverige betaler 4,3 milliarder euro for franske fregatter",
       "link": "https://www.nrk.no/nyheter/sverige-betaler-4_3-milliarder-euro-for-franske-fregatter-1.18002693",
       "category": "Sverige",
       "pubDate": "Wed, 26 Aug 2026 14:31:05 GMT"
-    },
-    {
-      "title": "Mann død etter alvorlig trafikkulykke i Herøy",
-      "link": "https://www.nrk.no/nyheter/mann-dod-etter-alvorlig-trafikkulykke-i-heroy-1.18002661",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 26 Aug 2026 14:23:22 GMT"
-    },
-    {
-      "title": "Kronprins Haakon besøker Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/kronprins-haakon-besoker-rikshospitalet-1.18002626",
-      "category": "Kongefamilien",
-      "pubDate": "Wed, 26 Aug 2026 14:03:17 GMT"
-    },
-    {
-      "title": "Trump: – Tror ikke Irans leder er død",
-      "link": "https://www.nrk.no/nyheter/trump_-_-tror-ikke-irans-leder-er-dod-1.18002578",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Wed, 26 Aug 2026 13:38:50 GMT"
-    },
-    {
-      "title": "Meta har inngått forlik",
-      "link": "https://www.nrk.no/nyheter/meta-har-inngatt-forlik--1.18002559",
-      "category": "Meta",
-      "pubDate": "Wed, 26 Aug 2026 13:10:26 GMT"
-    },
-    {
-      "title": "Durek Verrett har gjennomgått en nyretransplantasjon",
-      "link": "https://www.nrk.no/nyheter/durek-verrett-har-gjennomgatt-en-nyretransplantasjon-1.18002491",
-      "category": "Kongefamilien",
-      "pubDate": "Wed, 26 Aug 2026 13:04:04 GMT"
     }
   ]
 }
