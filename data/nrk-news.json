@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-26T01:23:01.244Z",
+  "updatedAt": "2026-08-26T02:48:14.061Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fire drept i angrep på antatt narkobåt",
+      "link": "https://www.nrk.no/nyheter/fire-drept-i-angrep-pa-antatt-narkobat-1.18001680",
+      "category": "USA",
+      "pubDate": "Wed, 26 Aug 2026 01:59:48 GMT"
+    },
     {
       "title": "Dolly Parton døde etter kreftsykdom",
       "link": "https://www.nrk.no/nyheter/dolly-parton-dode-etter-kreftsykdom-1.18001679",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bodo_glimt-skal-til-mesterligaen-1.18001669",
       "category": "Bodø/Glimt",
       "pubDate": "Tue, 25 Aug 2026 21:25:51 GMT"
-    },
-    {
-      "title": "Savnet mann i Nore og Uvdal – redningshelikopter på vei",
-      "link": "https://www.nrk.no/buskerud/savnet-mann-i-nore-og-uvdal-_-redningshelikopter-pa-vei-1.18001557",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Tue, 25 Aug 2026 20:04:39 GMT"
     }
   ]
 }
