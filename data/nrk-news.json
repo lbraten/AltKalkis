@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-26T07:47:50.824Z",
+  "updatedAt": "2026-08-26T08:44:53.055Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "74 flere misjonærbarn har fått oppreisning for belastninger i barndommen",
+      "link": "https://www.nrk.no/rogaland/74-flere-misjonaerbarn-har-fatt-oppreisning-for-belastninger-i-barndommen-1.18002012",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 26 Aug 2026 08:24:15 GMT"
+    },
+    {
+      "title": "Nytt ekstremvær får navnet «Dolly»",
+      "link": "https://www.nrk.no/nyheter/nytt-ekstremvaer-far-navnet-_dolly_-1.18001813",
+      "category": "Klima og miljø",
+      "pubDate": "Wed, 26 Aug 2026 08:08:02 GMT"
+    },
     {
       "title": "Ingebrigtsen-brødrene med millionresultat",
       "link": "https://www.nrk.no/rogaland/ingebrigtsen-brodrene-med-millionresultat-1.18001915",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/innlandet/ber-store-stille-kabinettssporsmal-om-drivstoff-1.18001728",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Wed, 26 Aug 2026 06:21:59 GMT"
-    },
-    {
-      "title": "Dataangrep mot Digdir held fram",
-      "link": "https://www.nrk.no/nyheter/dataangrep-mot-digdir-held-fram-1.18001764",
-      "category": "Digitale løsninger",
-      "pubDate": "Wed, 26 Aug 2026 05:55:27 GMT"
-    },
-    {
-      "title": "Streik ved Diakonhjemmet i Oslo - kan måtte stenge sykehjem",
-      "link": "https://www.nrk.no/stor-oslo/streik-ved-diakonhjemmet-i-oslo---kan-matte-stenge-sykehjem-1.18001755",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 26 Aug 2026 05:25:56 GMT"
     }
   ]
 }
