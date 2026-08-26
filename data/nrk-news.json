@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-26T03:53:59.721Z",
+  "updatedAt": "2026-08-26T04:40:34.709Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Drepte prostituert i Oslo - ber om løslatelse",
+      "link": "https://www.nrk.no/stor-oslo/drepte-prostituert-i-oslo---ber-om-loslatelse-1.18001712",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 26 Aug 2026 04:21:57 GMT"
+    },
     {
       "title": "Trump-favoritt vant viktig nominasjonskamp i USA",
       "link": "https://www.nrk.no/nyheter/trump-favoritt-vant-viktig-nominasjonskamp-i-usa-1.18001714",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dolly-parton-dode-etter-kreftsykdom-1.18001679",
       "category": "Dolly Parton er død",
       "pubDate": "Wed, 26 Aug 2026 00:30:44 GMT"
-    },
-    {
-      "title": "Bodø: Pågrepet mann skal i avhør onsdag",
-      "link": "https://www.nrk.no/nyheter/bodo_-pagrepet-mann-skal-i-avhor-onsdag-1.18001678",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Tue, 25 Aug 2026 23:52:50 GMT"
     }
   ]
 }
