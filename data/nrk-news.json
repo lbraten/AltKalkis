@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-26T09:42:17.912Z",
+  "updatedAt": "2026-08-26T10:36:10.124Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fleire døde etter flaum i Nepal",
+      "link": "https://www.nrk.no/nyheter/fleire-dode-etter-flaum-i-nepal-1.18002179",
+      "category": "Nepal",
+      "pubDate": "Wed, 26 Aug 2026 10:33:38 GMT"
+    },
+    {
+      "title": "16-åring siktet for terrorplaner mot barnehage",
+      "link": "https://www.nrk.no/vestfoldogtelemark/-16-aring-siktet-for-terrorplaner-mot-barnehage-1.18002214",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 26 Aug 2026 10:25:44 GMT"
+    },
+    {
+      "title": "Kreml: CIA-direktør møtte ikke Putin",
+      "link": "https://www.nrk.no/nyheter/kreml_-cia-direktor-motte-ikke-putin-1.18002157",
+      "category": "Russland og USA",
+      "pubDate": "Wed, 26 Aug 2026 09:59:10 GMT"
+    },
     {
       "title": "Meta i samtalar om forlik i rettssak",
       "link": "https://www.nrk.no/nyheter/meta-i-samtalar-om-forlik-i-rettssak-1.18002122",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tv-2_-russisk-hackergruppe-tek-ansvaret-for-dataangrep-mot-noreg-1.18001985",
       "category": "Digitale løsninger",
       "pubDate": "Wed, 26 Aug 2026 09:01:13 GMT"
-    },
-    {
-      "title": "Fiskeridirektoratet: – 1000 garn er henter opp fra havet",
-      "link": "https://www.nrk.no/tromsogfinnmark/fiskeridirektoratet_-_-1000-garn-er-henter-opp-fra-havet-1.18001951",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 26 Aug 2026 08:56:46 GMT"
-    },
-    {
-      "title": "74 flere misjonærbarn har fått oppreisning for belastninger i barndommen",
-      "link": "https://www.nrk.no/rogaland/74-flere-misjonaerbarn-har-fatt-oppreisning-for-belastninger-i-barndommen-1.18002012",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 26 Aug 2026 08:24:15 GMT"
-    },
-    {
-      "title": "Nytt ekstremvær får navnet «Dolly»",
-      "link": "https://www.nrk.no/nyheter/nytt-ekstremvaer-far-navnet-_dolly_-1.18001813",
-      "category": "Klima og miljø",
-      "pubDate": "Wed, 26 Aug 2026 08:08:02 GMT"
     }
   ]
 }
