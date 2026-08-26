@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-26T13:55:19.389Z",
+  "updatedAt": "2026-08-26T14:45:27.286Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sverige betaler 4,3 milliarder euro for franske fregatter",
+      "link": "https://www.nrk.no/nyheter/sverige-betaler-4_3-milliarder-euro-for-franske-fregatter-1.18002693",
+      "category": "Sverige",
+      "pubDate": "Wed, 26 Aug 2026 14:31:05 GMT"
+    },
+    {
+      "title": "Mann død etter alvorlig trafikkulykke i Herøy",
+      "link": "https://www.nrk.no/nyheter/mann-dod-etter-alvorlig-trafikkulykke-i-heroy-1.18002661",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 26 Aug 2026 14:23:22 GMT"
+    },
+    {
+      "title": "Kronprins Haakon besøker Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/kronprins-haakon-besoker-rikshospitalet-1.18002626",
+      "category": "Kongefamilien",
+      "pubDate": "Wed, 26 Aug 2026 14:03:17 GMT"
+    },
     {
       "title": "Trump: – Tror ikke Irans leder er død",
       "link": "https://www.nrk.no/nyheter/trump_-_-tror-ikke-irans-leder-er-dod-1.18002578",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/durek-verrett-har-gjennomgatt-en-nyretransplantasjon-1.18002491",
       "category": "Kongefamilien",
       "pubDate": "Wed, 26 Aug 2026 13:04:04 GMT"
-    },
-    {
-      "title": "Tromsø på Robek-listen",
-      "link": "https://www.nrk.no/nyheter/tromso-pa-robek-listen-1.18002546",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 26 Aug 2026 12:59:53 GMT"
-    },
-    {
-      "title": "95 bekreftet omkommet i Nepal",
-      "link": "https://www.nrk.no/nyheter/95-bekreftet-omkommet-i-nepal-1.18002518",
-      "category": "Flom og jordskred i Nepal",
-      "pubDate": "Wed, 26 Aug 2026 12:54:14 GMT"
-    },
-    {
-      "title": "Togtrøbbel på Oslo S",
-      "link": "https://www.nrk.no/stor-oslo/togtrobbel-pa-oslo-s-1.18002331",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 26 Aug 2026 12:50:14 GMT"
     }
   ]
 }
