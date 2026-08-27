@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-26T20:36:18.187Z",
+  "updatedAt": "2026-08-27T00:31:09.897Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "12 døde i skogbranner i Algerie",
+      "link": "https://www.nrk.no/nyheter/12-dode-i-skogbranner-i-algerie-1.18002983",
+      "category": "Algerie",
+      "pubDate": "Wed, 26 Aug 2026 22:59:24 GMT"
+    },
+    {
+      "title": "Én død etter at en bil kjørte på folk i Caen",
+      "link": "https://www.nrk.no/nyheter/en-dod-etter-at-en-bil-kjorte-pa-folk-i-caen-1.18002970",
+      "category": "Frankrike",
+      "pubDate": "Wed, 26 Aug 2026 22:38:51 GMT"
+    },
+    {
+      "title": "Ny medisin mot dødelig bukspyttkjertelkreft godkjent i USA",
+      "link": "https://www.nrk.no/nyheter/ny-medisin-mot-dodelig-bukspyttkjertelkreft-godkjent-i-usa-1.18002962",
+      "category": "Kreft",
+      "pubDate": "Wed, 26 Aug 2026 21:21:38 GMT"
+    },
+    {
+      "title": "Viking til Mesterligaen etter seier mot kroatisk toppklubb",
+      "link": "https://www.nrk.no/nyheter/viking-til-mesterligaen-etter-seier-mot-kroatisk-toppklubb-1.18002961",
+      "category": "Sportsnyheter",
+      "pubDate": "Wed, 26 Aug 2026 20:58:29 GMT"
+    },
     {
       "title": "Nvidia overgikk forventningene – tjente 96,2 milliarder dollar",
       "link": "https://www.nrk.no/nyheter/nvidia-overgikk-forventningene-_-tjente-96_2-milliarder-dollar-1.18002934",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/aker-selskap-inngikk-stor-kontrakt-med-anthropic-1.18002903",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 26 Aug 2026 19:09:04 GMT"
-    },
-    {
-      "title": "Bortesupportere hadde to personer i bagasjerom",
-      "link": "https://www.nrk.no/rogaland/bortesupportere-hadde-to-personer-i-bagasjerom-1.18002844",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Wed, 26 Aug 2026 18:27:14 GMT"
-    },
-    {
-      "title": "157 døde i Nepal",
-      "link": "https://www.nrk.no/nyheter/157-dode-i-nepal-1.18002825",
-      "category": "Flom og jordskred i Nepal",
-      "pubDate": "Wed, 26 Aug 2026 18:17:34 GMT"
-    },
-    {
-      "title": "Flyplassansatte døde av malaria i Frankfurt",
-      "link": "https://www.nrk.no/nyheter/flyplassansatte-dode-av-malaria-i-frankfurt-1.18002852",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 26 Aug 2026 17:39:35 GMT"
-    },
-    {
-      "title": "Russland sier de angrep lasteskip i Izmajil",
-      "link": "https://www.nrk.no/nyheter/russland-sier-de-angrep-lasteskip-i-izmajil-1.18002840",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 26 Aug 2026 17:27:02 GMT"
     }
   ]
 }
