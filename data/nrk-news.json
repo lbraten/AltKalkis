@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-29T20:34:23.428Z",
+  "updatedAt": "2026-08-29T23:02:26.034Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ungdommer festet i damvokterbolig",
+      "link": "https://www.nrk.no/nyheter/ungdommer-festet-i-damvokterbolig-1.18007694",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 29 Aug 2026 21:59:17 GMT"
+    },
     {
       "title": "Kvinne tiltalt for drap på broren i Oslo",
       "link": "https://www.nrk.no/stor-oslo/kvinne-tiltalt-for-drap-pa-broren-i-oslo-1.18007445",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/soreide_---sitt-livs-vanskeligste-tale-1.18007570",
       "category": "Kongefamilien",
       "pubDate": "Sat, 29 Aug 2026 18:02:47 GMT"
-    },
-    {
-      "title": "Gjøvik-selskap saksøkt for 100 mill. dollar",
-      "link": "https://www.nrk.no/innlandet/gjovik-selskap-saksokt-for-100-mill.-dollar-1.18007440",
-      "category": "Næringslivet i Innlandet",
-      "pubDate": "Sat, 29 Aug 2026 17:55:56 GMT"
     }
   ]
 }
