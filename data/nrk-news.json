@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-29T08:43:25.950Z",
+  "updatedAt": "2026-08-29T14:12:45.159Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Person fastklemt etter ulykke i Bjørnafjorden",
-      "link": "https://www.nrk.no/vestland/person-fastklemt-etter-ulykke-i-bjornafjorden-1.18006995",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 29 Aug 2026 08:27:30 GMT"
+      "title": "Kong Haakon er på Slottet",
+      "link": "https://www.nrk.no/nyheter/kong-haakon-er-pa-slottet-1.18007247",
+      "category": "Kongefamilien",
+      "pubDate": "Sat, 29 Aug 2026 13:48:12 GMT"
     },
     {
-      "title": "30 år siden ulykken på Operafjellet",
-      "link": "https://www.nrk.no/tromsogfinnmark/30-ar-siden-ulykken-pa-operafjellet-1.18006894",
+      "title": "Mann påført alvorlige skader i Stavanger i natt",
+      "link": "https://www.nrk.no/nyheter/mann-pafort-alvorlige-skader-i-stavanger-i-natt-1.18007257",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 29 Aug 2026 13:22:27 GMT"
+    },
+    {
+      "title": "Alle apotek i landet har problemer med å hente ut resept",
+      "link": "https://www.nrk.no/nyheter/alle-apotek-i-landet-har-problemer-med-a-hente-ut-resept-1.18006831",
       "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 29 Aug 2026 08:05:29 GMT"
+      "pubDate": "Sat, 29 Aug 2026 12:13:24 GMT"
     },
     {
-      "title": "Gatekunstner hedret kong Harald",
-      "link": "https://www.nrk.no/nyheter/gatekunstner-hedret-kong-harald-1.18006865",
+      "title": "Kong Haakon taler klokken 19",
+      "link": "https://www.nrk.no/nyheter/kong-haakon-taler-klokken-19-1.18007183",
       "category": "Kongefamilien",
-      "pubDate": "Sat, 29 Aug 2026 07:08:11 GMT"
+      "pubDate": "Sat, 29 Aug 2026 11:54:06 GMT"
     },
     {
-      "title": "Stort strømbrudd på Hvaler",
-      "link": "https://www.nrk.no/ostfold/stort-strombrudd-pa-hvaler-1.18006847",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 29 Aug 2026 06:12:01 GMT"
+      "title": "Nigers myndigheter har gradvis kontroll",
+      "link": "https://www.nrk.no/nyheter/nigers-myndigheter-har-gradvis-kontroll-1.18007166",
+      "category": "Niger",
+      "pubDate": "Sat, 29 Aug 2026 11:39:03 GMT"
     },
     {
-      "title": "EU-avstemming på Island i dag",
-      "link": "https://www.nrk.no/nyheter/eu-avstemming-pa-island-i-dag-1.18006829",
-      "category": "Island",
-      "pubDate": "Sat, 29 Aug 2026 05:39:49 GMT"
-    },
-    {
-      "title": "I dag skulle Sonja og Harald feiret sin bryllupsdag",
-      "link": "https://www.nrk.no/nyheter/i-dag-skulle-sonja-og-harald-feiret-sin-bryllupsdag-1.18006828",
-      "category": "Kongefamilien",
-      "pubDate": "Sat, 29 Aug 2026 04:53:58 GMT"
+      "title": "Dødstallene stiger i Butsja",
+      "link": "https://www.nrk.no/nyheter/dodstallene-stiger-i-butsja-1.18007091",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 29 Aug 2026 11:29:03 GMT"
     }
   ]
 }
