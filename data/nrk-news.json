@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-30T13:09:12.975Z",
+  "updatedAt": "2026-08-30T17:41:31.682Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Bil har kjørt ned i bekk – melding om bevisstløs person",
-      "link": "https://www.nrk.no/stor-oslo/bil-har-kjort-ned-i-bekk-_-melding-om-bevisstlos-person-1.18008033",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 30 Aug 2026 12:39:33 GMT"
-    },
-    {
-      "title": "Kypros: Seks døde i båtkantring",
-      "link": "https://www.nrk.no/nyheter/kypros_-seks-dode-i-batkantring-1.18008082",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 30 Aug 2026 12:32:57 GMT"
-    },
-    {
-      "title": "Kypros: Flere omkommet etter forlis",
-      "link": "https://www.nrk.no/nyheter/kypros_-flere-omkommet-etter-forlis-1.18008035",
-      "category": "Kypros",
-      "pubDate": "Sun, 30 Aug 2026 12:12:34 GMT"
-    },
-    {
-      "title": "Politiet: Person knivstukken i Kongsberg",
-      "link": "https://www.nrk.no/nyheter/politiet_-person-knivstukken-i-kongsberg-1.18007770",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sun, 30 Aug 2026 12:07:31 GMT"
-    },
-    {
-      "title": "Passasjerferge med 270 om bord synker utenfor Kypros",
-      "link": "https://www.nrk.no/nyheter/passasjerferge-med-270-om-bord-synker-utenfor-kypros-1.18008024",
-      "category": "Kypros",
-      "pubDate": "Sun, 30 Aug 2026 11:07:57 GMT"
-    },
-    {
-      "title": "Folk strømmer til Slottsplassen",
-      "link": "https://www.nrk.no/nyheter/folk-strommer-til-slottsplassen-1.18008010",
+      "title": "Politiet: Mellom 10.000 og 15.000 på Slottsplassen",
+      "link": "https://www.nrk.no/nyheter/politiet_-mellom-10.000-og-15.000-pa-slottsplassen-1.18008373",
       "category": "Kongefamilien",
-      "pubDate": "Sun, 30 Aug 2026 10:56:59 GMT"
+      "pubDate": "Sun, 30 Aug 2026 17:34:40 GMT"
+    },
+    {
+      "title": "Danske kong Frederik og dronning Mary kommer i kong Haralds gravferd",
+      "link": "https://www.nrk.no/nyheter/danske-kong-frederik-og-dronning-mary-kommer-i-kong-haralds-gravferd-1.18008347",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 30 Aug 2026 17:09:50 GMT"
+    },
+    {
+      "title": "Kong Haralds gravferd blir onsdag 9. september",
+      "link": "https://www.nrk.no/nyheter/kong-haralds-gravferd-blir-onsdag-9.-september-1.18008219",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 30 Aug 2026 16:50:11 GMT"
+    },
+    {
+      "title": "Kongeskipet er på veg inn i Oslofjorden",
+      "link": "https://www.nrk.no/stor-oslo/kongeskipet-er-pa-veg-inn-i-oslofjorden-1.18008189",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 30 Aug 2026 14:57:59 GMT"
+    },
+    {
+      "title": "Redningsaksjon etter dykkarulykke",
+      "link": "https://www.nrk.no/nyheter/redningsaksjon-etter-dykkarulykke-1.18008147",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 30 Aug 2026 14:55:27 GMT"
+    },
+    {
+      "title": "Blomar tok fyr på Slottsplassen",
+      "link": "https://www.nrk.no/nyheter/blomar-tok-fyr-pa-slottsplassen-1.18008183",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 30 Aug 2026 14:45:06 GMT"
     }
   ]
 }
