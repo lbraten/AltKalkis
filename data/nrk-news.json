@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-30T20:42:51.368Z",
+  "updatedAt": "2026-08-30T23:16:18.020Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran: Har angrepet amerikanske militærbaser",
+      "link": "https://www.nrk.no/nyheter/iran_-har-angrepet-amerikanske-militaerbaser-1.18008531",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 30 Aug 2026 23:09:02 GMT"
+    },
+    {
+      "title": "Hovland på andreplass i PGA-sluttspillet",
+      "link": "https://www.nrk.no/nyheter/hovland-pa-andreplass-i-pga-sluttspillet-1.18008526",
+      "category": "Golf",
+      "pubDate": "Sun, 30 Aug 2026 22:06:13 GMT"
+    },
+    {
+      "title": "Flere er savnet etter styrtflom i Grand Canyon",
+      "link": "https://www.nrk.no/nyheter/flere-er-savnet-etter-styrtflom-i-grand-canyon-1.18008508",
+      "category": "USA",
+      "pubDate": "Sun, 30 Aug 2026 21:25:26 GMT"
+    },
     {
       "title": "Flere iranere drept og såret i et amerikansk angrep",
       "link": "https://www.nrk.no/nyheter/flere-iranere-drept-og-saret-i-et-amerikansk-angrep--1.18008496",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/truls-gulowsen-trekker-seg-som-leiar-i-naturvernforbundet-1.18008236",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 30 Aug 2026 18:24:15 GMT"
-    },
-    {
-      "title": "Kongehuset deler bilder av kong Harald og barnebarna",
-      "link": "https://www.nrk.no/nyheter/kongehuset-deler-bilder-av-kong-harald-og-barnebarna-1.18008366",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 30 Aug 2026 18:13:02 GMT"
-    },
-    {
-      "title": "Politiet: Mellom 10.000 og 15.000 på Slottsplassen",
-      "link": "https://www.nrk.no/nyheter/politiet_-mellom-10.000-og-15.000-pa-slottsplassen-1.18008373",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 30 Aug 2026 17:34:40 GMT"
-    },
-    {
-      "title": "Danske kong Frederik og dronning Mary kommer i kong Haralds gravferd",
-      "link": "https://www.nrk.no/nyheter/danske-kong-frederik-og-dronning-mary-kommer-i-kong-haralds-gravferd-1.18008347",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 30 Aug 2026 17:09:50 GMT"
     }
   ]
 }
