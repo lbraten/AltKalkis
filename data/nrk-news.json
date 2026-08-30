@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-30T17:41:31.682Z",
+  "updatedAt": "2026-08-30T20:42:51.368Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere iranere drept og såret i et amerikansk angrep",
+      "link": "https://www.nrk.no/nyheter/flere-iranere-drept-og-saret-i-et-amerikansk-angrep--1.18008496",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 30 Aug 2026 20:19:12 GMT"
+    },
+    {
+      "title": "Støre på Slottsplassen: – Det skjer noe spesielt mellom nordmenn her",
+      "link": "https://www.nrk.no/nyheter/store-pa-slottsplassen_-_-det-skjer-noe-spesielt-mellom-nordmenn-her-1.18008444",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 30 Aug 2026 19:02:08 GMT"
+    },
+    {
+      "title": "Truls Gulowsen trekker seg som leiar i Naturvernforbundet",
+      "link": "https://www.nrk.no/nyheter/truls-gulowsen-trekker-seg-som-leiar-i-naturvernforbundet-1.18008236",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 30 Aug 2026 18:24:15 GMT"
+    },
+    {
+      "title": "Kongehuset deler bilder av kong Harald og barnebarna",
+      "link": "https://www.nrk.no/nyheter/kongehuset-deler-bilder-av-kong-harald-og-barnebarna-1.18008366",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 30 Aug 2026 18:13:02 GMT"
+    },
     {
       "title": "Politiet: Mellom 10.000 og 15.000 på Slottsplassen",
       "link": "https://www.nrk.no/nyheter/politiet_-mellom-10.000-og-15.000-pa-slottsplassen-1.18008373",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/danske-kong-frederik-og-dronning-mary-kommer-i-kong-haralds-gravferd-1.18008347",
       "category": "Kongefamilien",
       "pubDate": "Sun, 30 Aug 2026 17:09:50 GMT"
-    },
-    {
-      "title": "Kong Haralds gravferd blir onsdag 9. september",
-      "link": "https://www.nrk.no/nyheter/kong-haralds-gravferd-blir-onsdag-9.-september-1.18008219",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 30 Aug 2026 16:50:11 GMT"
-    },
-    {
-      "title": "Kongeskipet er på veg inn i Oslofjorden",
-      "link": "https://www.nrk.no/stor-oslo/kongeskipet-er-pa-veg-inn-i-oslofjorden-1.18008189",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 30 Aug 2026 14:57:59 GMT"
-    },
-    {
-      "title": "Redningsaksjon etter dykkarulykke",
-      "link": "https://www.nrk.no/nyheter/redningsaksjon-etter-dykkarulykke-1.18008147",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 30 Aug 2026 14:55:27 GMT"
-    },
-    {
-      "title": "Blomar tok fyr på Slottsplassen",
-      "link": "https://www.nrk.no/nyheter/blomar-tok-fyr-pa-slottsplassen-1.18008183",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 30 Aug 2026 14:45:06 GMT"
     }
   ]
 }
