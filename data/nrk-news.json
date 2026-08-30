@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-30T07:17:52.685Z",
+  "updatedAt": "2026-08-30T13:09:12.975Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ett valgdistrikt gjenstår: Klar nei-ledelse",
-      "link": "https://www.nrk.no/nyheter/ett-valgdistrikt-gjenstar_-klar-nei-ledelse-1.18007773",
-      "category": "Island",
-      "pubDate": "Sun, 30 Aug 2026 07:03:15 GMT"
+      "title": "Bil har kjørt ned i bekk – melding om bevisstløs person",
+      "link": "https://www.nrk.no/stor-oslo/bil-har-kjort-ned-i-bekk-_-melding-om-bevisstlos-person-1.18008033",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 30 Aug 2026 12:39:33 GMT"
     },
     {
-      "title": "To nordmenn pågripne på Kypros",
-      "link": "https://www.nrk.no/nyheter/to-nordmenn-pagripne-pa-kypros-1.18007713",
+      "title": "Kypros: Seks døde i båtkantring",
+      "link": "https://www.nrk.no/nyheter/kypros_-seks-dode-i-batkantring-1.18008082",
       "category": "NRK Nyheter",
-      "pubDate": "Sun, 30 Aug 2026 06:42:27 GMT"
+      "pubDate": "Sun, 30 Aug 2026 12:32:57 GMT"
     },
     {
-      "title": "Folk stiller seg i kø utenfor domkirken",
-      "link": "https://www.nrk.no/nyheter/folk-stiller-seg-i-ko-utenfor-domkirken-1.18007752",
+      "title": "Kypros: Flere omkommet etter forlis",
+      "link": "https://www.nrk.no/nyheter/kypros_-flere-omkommet-etter-forlis-1.18008035",
+      "category": "Kypros",
+      "pubDate": "Sun, 30 Aug 2026 12:12:34 GMT"
+    },
+    {
+      "title": "Politiet: Person knivstukken i Kongsberg",
+      "link": "https://www.nrk.no/nyheter/politiet_-person-knivstukken-i-kongsberg-1.18007770",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sun, 30 Aug 2026 12:07:31 GMT"
+    },
+    {
+      "title": "Passasjerferge med 270 om bord synker utenfor Kypros",
+      "link": "https://www.nrk.no/nyheter/passasjerferge-med-270-om-bord-synker-utenfor-kypros-1.18008024",
+      "category": "Kypros",
+      "pubDate": "Sun, 30 Aug 2026 11:07:57 GMT"
+    },
+    {
+      "title": "Folk strømmer til Slottsplassen",
+      "link": "https://www.nrk.no/nyheter/folk-strommer-til-slottsplassen-1.18008010",
       "category": "Kongefamilien",
-      "pubDate": "Sun, 30 Aug 2026 06:39:42 GMT"
-    },
-    {
-      "title": "Tjörn-ulykken: – Dårlig sikt på lasteskipet",
-      "link": "https://www.nrk.no/nyheter/tjorn-ulykken_-_-darlig-sikt-pa-lasteskipet-1.18007731",
-      "category": "Sverige",
-      "pubDate": "Sun, 30 Aug 2026 06:20:01 GMT"
-    },
-    {
-      "title": "Minst én drept og fem såret på raveparty",
-      "link": "https://www.nrk.no/nyheter/minst-en-drept-og-fem-saret-pa-raveparty-1.18007726",
-      "category": "Sveits",
-      "pubDate": "Sun, 30 Aug 2026 06:19:53 GMT"
-    },
-    {
-      "title": "Nye tall fra Island - fremdeles nei-flertall",
-      "link": "https://www.nrk.no/nyheter/nye-tall-fra-island---fremdeles-nei-flertall-1.18007711",
-      "category": "Island",
-      "pubDate": "Sun, 30 Aug 2026 06:05:44 GMT"
+      "pubDate": "Sun, 30 Aug 2026 10:56:59 GMT"
     }
   ]
 }
