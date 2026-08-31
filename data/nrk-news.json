@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-08-30T23:16:18.020Z",
+  "updatedAt": "2026-08-31T01:29:21.532Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Iran: Har angrepet amerikanske militærbaser",
-      "link": "https://www.nrk.no/nyheter/iran_-har-angrepet-amerikanske-militaerbaser-1.18008531",
+      "title": "Russisk guvernør: To drept i ukrainsk angrep på Belgorod",
+      "link": "https://www.nrk.no/nyheter/russisk-guvernor_-to-drept-i-ukrainsk-angrep-pa-belgorod-1.18008537",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 31 Aug 2026 00:47:16 GMT"
+    },
+    {
+      "title": "Iran: – Har angrepet amerikanske militærbaser i Jordan",
+      "link": "https://www.nrk.no/nyheter/iran_-_-har-angrepet-amerikanske-militaerbaser-i-jordan-1.18008531",
       "category": "Krigen i Midtøsten",
       "pubDate": "Sun, 30 Aug 2026 23:09:02 GMT"
     },
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store-pa-slottsplassen_-_-det-skjer-noe-spesielt-mellom-nordmenn-her-1.18008444",
       "category": "Kongefamilien",
       "pubDate": "Sun, 30 Aug 2026 19:02:08 GMT"
-    },
-    {
-      "title": "Truls Gulowsen trekker seg som leiar i Naturvernforbundet",
-      "link": "https://www.nrk.no/nyheter/truls-gulowsen-trekker-seg-som-leiar-i-naturvernforbundet-1.18008236",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 30 Aug 2026 18:24:15 GMT"
     }
   ]
 }
