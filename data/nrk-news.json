@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-01T11:55:03.104Z",
+  "updatedAt": "2026-09-01T16:13:41.961Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Kong Carl Gustaf i telegram til kong Haakon: – Et hardt slag har rammet Norge",
-      "link": "https://www.nrk.no/nyheter/kong-carl-gustaf-i-telegram-til-kong-haakon_-_-et-hardt-slag-har-rammet-norge-1.18010480",
+      "title": "Russland avviser anklagene",
+      "link": "https://www.nrk.no/nyheter/russland-avviser-anklagene-1.18010869",
+      "category": "Tyskland",
+      "pubDate": "Tue, 01 Sep 2026 16:11:32 GMT"
+    },
+    {
+      "title": "Hevder Russland var involvert i angrepsforsøk i Tyskland",
+      "link": "https://www.nrk.no/nyheter/hevder-russland-var-involvert-i-angrepsforsok-i--tyskland-1.18010837",
+      "category": "Tyskland",
+      "pubDate": "Tue, 01 Sep 2026 15:40:47 GMT"
+    },
+    {
+      "title": "Kong Haakon har ankommet Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/kong-haakon-har-ankommet-rikshospitalet-1.18010832",
       "category": "Kongefamilien",
-      "pubDate": "Tue, 01 Sep 2026 11:48:41 GMT"
+      "pubDate": "Tue, 01 Sep 2026 15:02:05 GMT"
     },
     {
-      "title": "Keir Starmer trekker seg fra parlamentet",
-      "link": "https://www.nrk.no/nyheter/keir-starmer-trekker-seg-fra-parlamentet-1.18010433",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 01 Sep 2026 11:23:49 GMT"
-    },
-    {
-      "title": "Kongen har avlagt eden i Stortinget",
-      "link": "https://www.nrk.no/nyheter/kongen-har-avlagt-eden-i-stortinget-1.18010403",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 01 Sep 2026 11:05:53 GMT"
-    },
-    {
-      "title": "Kong Haakon har ankommet Stortinget",
-      "link": "https://www.nrk.no/nyheter/kong-haakon-har-ankommet-stortinget-1.18010299",
+      "title": "Nederlands kongepar deltar i kong Haralds gravferd",
+      "link": "https://www.nrk.no/nyheter/nederlands-kongepar-deltar-i-kong-haralds-gravferd-1.18010821",
       "category": "Kongefamilien",
-      "pubDate": "Tue, 01 Sep 2026 10:49:23 GMT"
+      "pubDate": "Tue, 01 Sep 2026 14:58:11 GMT"
     },
     {
-      "title": "Kilder til NRK: Nye runder om politisk borgfred",
-      "link": "https://www.nrk.no/nyheter/kilder-til-nrk_-nye-runder-om-politisk-borgfred-1.18010286",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 01 Sep 2026 10:08:12 GMT"
+      "title": "FN halverer mathjelpen til palestinere på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/fn-halverer-mathjelpen-til-palestinere-pa-vestbredden-1.18010816",
+      "category": "Krigen i Gaza",
+      "pubDate": "Tue, 01 Sep 2026 14:50:47 GMT"
     },
     {
-      "title": "Både Nepal og Kina knytter flomkatastrofen til klimaendringene",
-      "link": "https://www.nrk.no/nyheter/bade-nepal-og-kina-knytter-flomkatastrofen-til-klimaendringene-1.18010254",
-      "category": "Nepal",
-      "pubDate": "Tue, 01 Sep 2026 10:04:03 GMT"
+      "title": "Tolv drept i russiske angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/tolv-drept-i-russiske-angrep-i-ukraina-1.18010764",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 01 Sep 2026 14:49:29 GMT"
     }
   ]
 }
