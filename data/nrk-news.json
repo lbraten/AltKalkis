@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-01T19:28:28.880Z",
+  "updatedAt": "2026-09-01T21:56:36.726Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Avgjør om drapstiltalt må møte i retten",
+      "link": "https://www.nrk.no/nyheter/avgjor-om-drapstiltalt-ma-mote-i-retten-1.18011106",
+      "category": "USA",
+      "pubDate": "Tue, 01 Sep 2026 21:04:39 GMT"
+    },
+    {
+      "title": "Putin anklager Tyskland for å plante bevis",
+      "link": "https://www.nrk.no/nyheter/putin-anklager-tyskland-for-a-plante-bevis-1.18011105",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 01 Sep 2026 20:57:37 GMT"
+    },
+    {
+      "title": "Medier: Luftvernsirenene utløst i Jordan",
+      "link": "https://www.nrk.no/nyheter/medier_-luftvernsirenene-utlost-i-jordan-1.18011072",
+      "category": "Iran",
+      "pubDate": "Tue, 01 Sep 2026 19:52:14 GMT"
+    },
+    {
+      "title": "VG: Kongeparet har dratt fra Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/vg_-kongeparet-har-dratt-fra-rikshospitalet-1.18011070",
+      "category": "Kongefamilien",
+      "pubDate": "Tue, 01 Sep 2026 19:31:15 GMT"
+    },
     {
       "title": "Kong Haakon er tilbake på Rikshospitalet",
       "link": "https://www.nrk.no/nyheter/kong-haakon-er-tilbake-pa-rikshospitalet-1.18011046",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iran-varsler-gjengjeldelse-mot-amerikanske-mal-1.18010957",
       "category": "Iran",
       "pubDate": "Tue, 01 Sep 2026 18:36:37 GMT"
-    },
-    {
-      "title": "Tysklands president til kongens gravferd",
-      "link": "https://www.nrk.no/nyheter/tysklands-president-til-kongens-gravferd-1.18011004",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 01 Sep 2026 17:58:25 GMT"
-    },
-    {
-      "title": "Islands president kommer til gravferden",
-      "link": "https://www.nrk.no/nyheter/islands-president-kommer-til-gravferden-1.18010969",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 01 Sep 2026 17:22:33 GMT"
-    },
-    {
-      "title": "Savnet brite funnet i live etter flommen i Nepal",
-      "link": "https://www.nrk.no/nyheter/savnet-brite-funnet-i-live-etter-flommen-i-nepal-1.18010934",
-      "category": "Nepal",
-      "pubDate": "Tue, 01 Sep 2026 17:02:40 GMT"
-    },
-    {
-      "title": "Dødsulykke i Larvik",
-      "link": "https://www.nrk.no/vestfoldogtelemark/dodsulykke-i-larvik-1.18010924",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 01 Sep 2026 16:45:55 GMT"
     }
   ]
 }
