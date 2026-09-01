@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-01T16:13:41.961Z",
+  "updatedAt": "2026-09-01T19:28:28.880Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Russland avviser anklagene",
-      "link": "https://www.nrk.no/nyheter/russland-avviser-anklagene-1.18010869",
-      "category": "Tyskland",
-      "pubDate": "Tue, 01 Sep 2026 16:11:32 GMT"
-    },
-    {
-      "title": "Hevder Russland var involvert i angrepsforsøk i Tyskland",
-      "link": "https://www.nrk.no/nyheter/hevder-russland-var-involvert-i-angrepsforsok-i--tyskland-1.18010837",
-      "category": "Tyskland",
-      "pubDate": "Tue, 01 Sep 2026 15:40:47 GMT"
-    },
-    {
-      "title": "Kong Haakon har ankommet Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/kong-haakon-har-ankommet-rikshospitalet-1.18010832",
+      "title": "Kong Haakon er tilbake på Rikshospitalet",
+      "link": "https://www.nrk.no/nyheter/kong-haakon-er-tilbake-pa-rikshospitalet-1.18011046",
       "category": "Kongefamilien",
-      "pubDate": "Tue, 01 Sep 2026 15:02:05 GMT"
+      "pubDate": "Tue, 01 Sep 2026 19:10:43 GMT"
     },
     {
-      "title": "Nederlands kongepar deltar i kong Haralds gravferd",
-      "link": "https://www.nrk.no/nyheter/nederlands-kongepar-deltar-i-kong-haralds-gravferd-1.18010821",
+      "title": "Iran varsler gjengjeldelse mot amerikanske mål",
+      "link": "https://www.nrk.no/nyheter/iran-varsler-gjengjeldelse-mot-amerikanske-mal-1.18010957",
+      "category": "Iran",
+      "pubDate": "Tue, 01 Sep 2026 18:36:37 GMT"
+    },
+    {
+      "title": "Tysklands president til kongens gravferd",
+      "link": "https://www.nrk.no/nyheter/tysklands-president-til-kongens-gravferd-1.18011004",
       "category": "Kongefamilien",
-      "pubDate": "Tue, 01 Sep 2026 14:58:11 GMT"
+      "pubDate": "Tue, 01 Sep 2026 17:58:25 GMT"
     },
     {
-      "title": "FN halverer mathjelpen til palestinere på Vestbredden",
-      "link": "https://www.nrk.no/nyheter/fn-halverer-mathjelpen-til-palestinere-pa-vestbredden-1.18010816",
-      "category": "Krigen i Gaza",
-      "pubDate": "Tue, 01 Sep 2026 14:50:47 GMT"
+      "title": "Islands president kommer til gravferden",
+      "link": "https://www.nrk.no/nyheter/islands-president-kommer-til-gravferden-1.18010969",
+      "category": "Kongefamilien",
+      "pubDate": "Tue, 01 Sep 2026 17:22:33 GMT"
     },
     {
-      "title": "Tolv drept i russiske angrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/tolv-drept-i-russiske-angrep-i-ukraina-1.18010764",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 01 Sep 2026 14:49:29 GMT"
+      "title": "Savnet brite funnet i live etter flommen i Nepal",
+      "link": "https://www.nrk.no/nyheter/savnet-brite-funnet-i-live-etter-flommen-i-nepal-1.18010934",
+      "category": "Nepal",
+      "pubDate": "Tue, 01 Sep 2026 17:02:40 GMT"
+    },
+    {
+      "title": "Dødsulykke i Larvik",
+      "link": "https://www.nrk.no/vestfoldogtelemark/dodsulykke-i-larvik-1.18010924",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 01 Sep 2026 16:45:55 GMT"
     }
   ]
 }
