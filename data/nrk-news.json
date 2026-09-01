@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-01T21:56:36.726Z",
+  "updatedAt": "2026-09-01T23:54:37.397Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mulig toppmøte mellom Putin, Xi og Trump",
+      "link": "https://www.nrk.no/nyheter/mulig-toppmote-mellom-putin_-xi-og-trump-1.18011124",
+      "category": "USA",
+      "pubDate": "Tue, 01 Sep 2026 23:38:46 GMT"
+    },
+    {
+      "title": "USA har angrepet flere mål i Iran",
+      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-flere-mal-i-iran-1.18011122",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 01 Sep 2026 22:49:16 GMT"
+    },
+    {
+      "title": "Bessent: 19 G20-land enige om å bremse «billig eksport»",
+      "link": "https://www.nrk.no/nyheter/bessent_-19-g20-land-enige-om-a-bremse-_billig-eksport_-1.18011119",
+      "category": "USA og Kina",
+      "pubDate": "Tue, 01 Sep 2026 22:45:16 GMT"
+    },
+    {
+      "title": "Fare for togstreik onsdag morgen –mekler på overtid",
+      "link": "https://www.nrk.no/nyheter/fare-for-togstreik-onsdag-morgen-_mekler-pa-overtid-1.18011118",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 01 Sep 2026 22:06:58 GMT"
+    },
+    {
+      "title": "To drept i skyting i Hamburg",
+      "link": "https://www.nrk.no/nyheter/to-drept-i-skyting-i-hamburg-1.18011110",
+      "category": "Tyskland",
+      "pubDate": "Tue, 01 Sep 2026 21:59:30 GMT"
+    },
     {
       "title": "Avgjør om drapstiltalt må møte i retten",
       "link": "https://www.nrk.no/nyheter/avgjor-om-drapstiltalt-ma-mote-i-retten-1.18011106",
       "category": "USA",
       "pubDate": "Tue, 01 Sep 2026 21:04:39 GMT"
-    },
-    {
-      "title": "Putin anklager Tyskland for å plante bevis",
-      "link": "https://www.nrk.no/nyheter/putin-anklager-tyskland-for-a-plante-bevis-1.18011105",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 01 Sep 2026 20:57:37 GMT"
-    },
-    {
-      "title": "Medier: Luftvernsirenene utløst i Jordan",
-      "link": "https://www.nrk.no/nyheter/medier_-luftvernsirenene-utlost-i-jordan-1.18011072",
-      "category": "Iran",
-      "pubDate": "Tue, 01 Sep 2026 19:52:14 GMT"
-    },
-    {
-      "title": "VG: Kongeparet har dratt fra Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/vg_-kongeparet-har-dratt-fra-rikshospitalet-1.18011070",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 01 Sep 2026 19:31:15 GMT"
-    },
-    {
-      "title": "Kong Haakon er tilbake på Rikshospitalet",
-      "link": "https://www.nrk.no/nyheter/kong-haakon-er-tilbake-pa-rikshospitalet-1.18011046",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 01 Sep 2026 19:10:43 GMT"
-    },
-    {
-      "title": "Iran varsler gjengjeldelse mot amerikanske mål",
-      "link": "https://www.nrk.no/nyheter/iran-varsler-gjengjeldelse-mot-amerikanske-mal-1.18010957",
-      "category": "Iran",
-      "pubDate": "Tue, 01 Sep 2026 18:36:37 GMT"
     }
   ]
 }
