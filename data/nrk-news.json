@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-02T12:54:12.619Z",
+  "updatedAt": "2026-09-02T17:02:41.039Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "MDG dropper borgfred-møte",
-      "link": "https://www.nrk.no/nyheter/mdg-dropper-borgfred-mote-1.18011811",
-      "category": "high",
-      "pubDate": "Wed, 02 Sep 2026 12:43:42 GMT"
+      "title": "Iranske myndigheter: 18 mennesker drept i amerikanske angrep",
+      "link": "https://www.nrk.no/nyheter/iranske-myndigheter_-18-mennesker-drept-i-amerikanske-angrep-1.18012208",
+      "category": "Iran",
+      "pubDate": "Wed, 02 Sep 2026 16:42:47 GMT"
     },
     {
-      "title": "NHO om kongelig gravferd: Kan ikke forvente fri",
-      "link": "https://www.nrk.no/nyheter/nho-om-kongelig-gravferd_-kan-ikke-forvente-fri-1.18011916",
+      "title": "Senterpartiet avlyser møte om borgfred",
+      "link": "https://www.nrk.no/nyheter/senterpartiet-avlyser-mote-om-borgfred-1.18012200",
+      "category": "Norsk politikk",
+      "pubDate": "Wed, 02 Sep 2026 15:32:07 GMT"
+    },
+    {
+      "title": "Tsjekkias president deltar i kong Haralds gravferd",
+      "link": "https://www.nrk.no/nyheter/tsjekkias-president-deltar-i-kong-haralds-gravferd-1.18012192",
       "category": "Kongefamilien",
-      "pubDate": "Wed, 02 Sep 2026 12:33:00 GMT"
+      "pubDate": "Wed, 02 Sep 2026 15:21:32 GMT"
     },
     {
-      "title": "Dobbeltdrapsmann tilbake i Norge",
-      "link": "https://www.nrk.no/stor-oslo/dobbeltdrapsmann-tilbake-i-norge-1.18011639",
-      "category": "Knivdrap på Majorstua",
-      "pubDate": "Wed, 02 Sep 2026 12:22:11 GMT"
+      "title": "Danmarks dronning: Alltid en sann fornøyelse",
+      "link": "https://www.nrk.no/nyheter/danmarks-dronning_-alltid-en-sann-fornoyelse-1.18012159",
+      "category": "Kongefamilien",
+      "pubDate": "Wed, 02 Sep 2026 15:14:18 GMT"
     },
     {
-      "title": "To identifisert etter angrepsforsøk mot tysk flyplass",
-      "link": "https://www.nrk.no/nyheter/to-identifisert-etter-angrepsforsok-mot-tysk-flyplass-1.18011803",
-      "category": "Tyskland",
-      "pubDate": "Wed, 02 Sep 2026 12:15:08 GMT"
+      "title": "Kunnskapshull om Antarktis skaper havusikkerhet",
+      "link": "https://www.nrk.no/nyheter/kunnskapshull-om-antarktis-skaper-havusikkerhet-1.18012170",
+      "category": "Klima og miljø",
+      "pubDate": "Wed, 02 Sep 2026 14:52:46 GMT"
     },
     {
-      "title": "Sp ber om møte om politisk borgfred",
-      "link": "https://www.nrk.no/nyheter/sp-ber-om-mote-om-politisk-borgfred-1.18011809",
-      "category": "high",
-      "pubDate": "Wed, 02 Sep 2026 11:25:24 GMT"
-    },
-    {
-      "title": "Forsvarer: Marius Borg Høiby samtykker til videre fengsling med fotlenke",
-      "link": "https://www.nrk.no/nyheter/forsvarer_-marius-borg-hoiby-samtykker-til-videre-fengsling-med-fotlenke-1.18011760",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Wed, 02 Sep 2026 11:18:11 GMT"
+      "title": "Dødstallene i Nepal har passert 1200",
+      "link": "https://www.nrk.no/nyheter/dodstallene-i-nepal-har-passert-1200-1.18012153",
+      "category": "Nepal",
+      "pubDate": "Wed, 02 Sep 2026 14:40:28 GMT"
     }
   ]
 }
