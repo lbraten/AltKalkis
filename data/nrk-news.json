@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-02T20:00:12.947Z",
+  "updatedAt": "2026-09-02T22:32:41.116Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Store demonstrasjoner i Ceuta",
+      "link": "https://www.nrk.no/nyheter/store-demonstrasjoner-i-ceuta-1.18012452",
+      "category": "Spania",
+      "pubDate": "Wed, 02 Sep 2026 22:16:47 GMT"
+    },
+    {
+      "title": "Dansk etterretning: Russland planlegger sabotasje i Danmark",
+      "link": "https://www.nrk.no/nyheter/dansk-etterretning_-russland-planlegger-sabotasje-i-danmark-1.18012449",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 02 Sep 2026 21:00:37 GMT"
+    },
+    {
+      "title": "E24: Laveste vannivå på minst 30 år",
+      "link": "https://www.nrk.no/nyheter/e24_-laveste-vanniva-pa-minst-30-ar-1.18012395",
+      "category": "Strømpriser",
+      "pubDate": "Wed, 02 Sep 2026 19:59:47 GMT"
+    },
     {
       "title": "Boeing bøtelagt for sikkerhetsbrudd",
       "link": "https://www.nrk.no/nyheter/boeing-botelagt-for-sikkerhetsbrudd-1.18012369",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/ostfold/alpinsenter-straffes-for-uaktsomt-drap-etter-at-18-aring-dode-1.18012375",
       "category": "NRK Nyheter",
       "pubDate": "Wed, 02 Sep 2026 18:55:24 GMT"
-    },
-    {
-      "title": "Trump: Forbereder nye angrep på Iran",
-      "link": "https://www.nrk.no/nyheter/trump_-forbereder-nye-angrep-pa-iran-1.18012349",
-      "category": "Iran",
-      "pubDate": "Wed, 02 Sep 2026 18:23:02 GMT"
-    },
-    {
-      "title": "Norske myndigheter har tatt arrest i et russisk fartøy på Svalbard",
-      "link": "https://www.nrk.no/nyheter/norske-myndigheter-har-tatt-arrest-i-et-russisk-fartoy-pa-svalbard-1.18012343",
-      "category": "Svalbard",
-      "pubDate": "Wed, 02 Sep 2026 18:17:37 GMT"
-    },
-    {
-      "title": "BBC: Bryllup ble trolig rammet av amerikansk angrep",
-      "link": "https://www.nrk.no/nyheter/bbc_-bryllup-ble-trolig-rammet-av-amerikansk-angrep-1.18012326",
-      "category": "Iran",
-      "pubDate": "Wed, 02 Sep 2026 18:03:49 GMT"
     }
   ]
 }
