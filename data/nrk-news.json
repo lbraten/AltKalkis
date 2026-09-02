@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-01T23:54:37.397Z",
+  "updatedAt": "2026-09-02T03:27:11.245Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Skipstrafikken gjennom Hormuzstredet er fortsatt lav",
+      "link": "https://www.nrk.no/nyheter/skipstrafikken-gjennom-hormuzstredet-er-fortsatt-lav-1.18011131",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 02 Sep 2026 02:45:42 GMT"
+    },
+    {
+      "title": "Flere støtter kjernekraft i Norge",
+      "link": "https://www.nrk.no/nyheter/flere-stotter-kjernekraft-i-norge-1.18011130",
+      "category": "Kjernekraft",
+      "pubDate": "Wed, 02 Sep 2026 02:43:13 GMT"
+    },
+    {
+      "title": "Hongkong-aktivist erkjenner straffskyld i ny sak",
+      "link": "https://www.nrk.no/nyheter/hongkong-aktivist-erkjenner-straffskyld-i-ny-sak-1.18011126",
+      "category": "Hongkong",
+      "pubDate": "Wed, 02 Sep 2026 02:40:28 GMT"
+    },
+    {
+      "title": "Endrar innsjønamn etter Trump-ordre",
+      "link": "https://www.nrk.no/nyheter/endrar-innsjonamn-etter-trump-ordre-1.18011128",
+      "category": "USA",
+      "pubDate": "Wed, 02 Sep 2026 02:11:45 GMT"
+    },
+    {
+      "title": "Dommer åpner for dødsstraff for drapet på Charlie Kirk",
+      "link": "https://www.nrk.no/nyheter/dommer-apner-for-dodsstraff-for-drapet-pa-charlie-kirk-1.18011125",
+      "category": "USA",
+      "pubDate": "Wed, 02 Sep 2026 00:23:02 GMT"
+    },
     {
       "title": "Mulig toppmøte mellom Putin, Xi og Trump",
       "link": "https://www.nrk.no/nyheter/mulig-toppmote-mellom-putin_-xi-og-trump-1.18011124",
       "category": "USA",
       "pubDate": "Tue, 01 Sep 2026 23:38:46 GMT"
-    },
-    {
-      "title": "USA har angrepet flere mål i Iran",
-      "link": "https://www.nrk.no/nyheter/usa-har-angrepet-flere-mal-i-iran-1.18011122",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 01 Sep 2026 22:49:16 GMT"
-    },
-    {
-      "title": "Bessent: 19 G20-land enige om å bremse «billig eksport»",
-      "link": "https://www.nrk.no/nyheter/bessent_-19-g20-land-enige-om-a-bremse-_billig-eksport_-1.18011119",
-      "category": "USA og Kina",
-      "pubDate": "Tue, 01 Sep 2026 22:45:16 GMT"
-    },
-    {
-      "title": "Fare for togstreik onsdag morgen –mekler på overtid",
-      "link": "https://www.nrk.no/nyheter/fare-for-togstreik-onsdag-morgen-_mekler-pa-overtid-1.18011118",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 01 Sep 2026 22:06:58 GMT"
-    },
-    {
-      "title": "To drept i skyting i Hamburg",
-      "link": "https://www.nrk.no/nyheter/to-drept-i-skyting-i-hamburg-1.18011110",
-      "category": "Tyskland",
-      "pubDate": "Tue, 01 Sep 2026 21:59:30 GMT"
-    },
-    {
-      "title": "Avgjør om drapstiltalt må møte i retten",
-      "link": "https://www.nrk.no/nyheter/avgjor-om-drapstiltalt-ma-mote-i-retten-1.18011106",
-      "category": "USA",
-      "pubDate": "Tue, 01 Sep 2026 21:04:39 GMT"
     }
   ]
 }
