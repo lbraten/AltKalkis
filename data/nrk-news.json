@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-03T21:13:44.972Z",
+  "updatedAt": "2026-09-03T23:26:24.845Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump utnevner ny fungerende hærsjef",
+      "link": "https://www.nrk.no/nyheter/trump-utnevner-ny-fungerende-haersjef-1.18013704",
+      "category": "USA",
+      "pubDate": "Thu, 03 Sep 2026 22:56:23 GMT"
+    },
+    {
+      "title": "Zelenskyj: Russiske droner traff Coca-Cola-fabrikk nær Kyiv",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-russiske-droner-traff-coca-cola-fabrikk-naer-kyiv-1.18013700",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 03 Sep 2026 22:02:49 GMT"
+    },
     {
       "title": "Zelenskyj venter på amerikanske utsendinger",
       "link": "https://www.nrk.no/nyheter/zelenskyj-venter-pa-amerikanske-utsendinger-1.18013688",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/vil-kutte-russetida-til-ni-dagar-_-russen-rasar-1.18013405",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Thu, 03 Sep 2026 19:09:17 GMT"
-    },
-    {
-      "title": "Dollarmynter med Trump utstedt i USA",
-      "link": "https://www.nrk.no/nyheter/dollarmynter-med-trump-utstedt-i-usa-1.18013649",
-      "category": "USA",
-      "pubDate": "Thu, 03 Sep 2026 19:07:43 GMT"
-    },
-    {
-      "title": "Mann død i motorsykkelulykke i Ringerike",
-      "link": "https://www.nrk.no/nyheter/mann-dod-i-motorsykkelulykke-i-ringerike-1.18013638",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 03 Sep 2026 18:51:04 GMT"
     }
   ]
 }
