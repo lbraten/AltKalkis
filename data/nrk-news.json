@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-02T22:32:41.116Z",
+  "updatedAt": "2026-09-03T00:59:27.280Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ukraina ber FN-organ forby flytrafikk i russisk luftrom",
+      "link": "https://www.nrk.no/nyheter/ukraina-ber-fn-organ-forby-flytrafikk-i-russisk-luftrom-1.18012461",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 03 Sep 2026 00:08:01 GMT"
+    },
+    {
+      "title": "Russisk luftangrep mot boligblokk i Odesa",
+      "link": "https://www.nrk.no/nyheter/russisk-luftangrep-mot-boligblokk-i-odesa-1.18012460",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 02 Sep 2026 23:01:43 GMT"
+    },
+    {
+      "title": "Én drept og seks skadet i skyting i Minneapolis",
+      "link": "https://www.nrk.no/nyheter/en-drept-og-seks-skadet-i-skyting-i-minneapolis-1.18012458",
+      "category": "USA",
+      "pubDate": "Wed, 02 Sep 2026 22:48:14 GMT"
+    },
     {
       "title": "Store demonstrasjoner i Ceuta",
       "link": "https://www.nrk.no/nyheter/store-demonstrasjoner-i-ceuta-1.18012452",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/e24_-laveste-vanniva-pa-minst-30-ar-1.18012395",
       "category": "Strømpriser",
       "pubDate": "Wed, 02 Sep 2026 19:59:47 GMT"
-    },
-    {
-      "title": "Boeing bøtelagt for sikkerhetsbrudd",
-      "link": "https://www.nrk.no/nyheter/boeing-botelagt-for-sikkerhetsbrudd-1.18012369",
-      "category": "Boeing",
-      "pubDate": "Wed, 02 Sep 2026 19:21:25 GMT"
-    },
-    {
-      "title": "Ahus ber brukere endre passord",
-      "link": "https://www.nrk.no/stor-oslo/ahus-ber-brukere-endre-passord-1.18012371",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 02 Sep 2026 19:08:19 GMT"
-    },
-    {
-      "title": "Alpinsenter straffes for uaktsomt drap etter at 18-åring døde",
-      "link": "https://www.nrk.no/ostfold/alpinsenter-straffes-for-uaktsomt-drap-etter-at-18-aring-dode-1.18012375",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 02 Sep 2026 18:55:24 GMT"
     }
   ]
 }
