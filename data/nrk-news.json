@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-04T15:56:01.550Z",
+  "updatedAt": "2026-09-04T18:53:59.844Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "NSM om dataangrepene: – Sikkerheten må løftes",
-      "link": "https://www.nrk.no/nyheter/nsm-om-dataangrepene_-_-sikkerheten-ma-loftes-1.18014837",
+      "title": "Mann i 60-årene omkom i elsparkesykkelulykke i Skien",
+      "link": "https://www.nrk.no/nyheter/mann-i-60-arene-omkom-i-elsparkesykkelulykke-i-skien-1.18014972",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 04 Sep 2026 18:25:52 GMT"
+    },
+    {
+      "title": "Tatt med 46,5 kg khat på Oslo lufthavn",
+      "link": "https://www.nrk.no/stor-oslo/tatt-med-46_5-kg-khat-pa-oslo-lufthavn-1.18014981",
       "category": "NRK Nyheter",
-      "pubDate": "Fri, 04 Sep 2026 15:49:07 GMT"
+      "pubDate": "Fri, 04 Sep 2026 18:23:40 GMT"
     },
     {
-      "title": "Må levere tilbake maleri stjålet av nazistene",
-      "link": "https://www.nrk.no/nyheter/ma-levere-tilbake-maleri-stjalet-av-nazistene-1.18014739",
-      "category": "2. verdenskrig",
-      "pubDate": "Fri, 04 Sep 2026 15:23:58 GMT"
+      "title": "Russlands ambassade nevner atomvåpen i uttalelse om Norge",
+      "link": "https://www.nrk.no/nyheter/russlands-ambassade-nevner-atomvapen-i-uttalelse-om-norge-1.18014951",
+      "category": "Forholdet Norge – Russland",
+      "pubDate": "Fri, 04 Sep 2026 18:09:45 GMT"
     },
     {
-      "title": "Lange køer på E6 i Innlandet",
-      "link": "https://www.nrk.no/innlandet/lange-koer-pa-e6-i-innlandet-1.18014828",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 04 Sep 2026 15:17:10 GMT"
+      "title": "Nordic Mining i dialog om finansieringsløysing",
+      "link": "https://www.nrk.no/vestland/nordic-mining-i-dialog-om-finansieringsloysing-1.18014955",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Fri, 04 Sep 2026 17:37:43 GMT"
     },
     {
-      "title": "Avinor varslar moglege kanselleringar på grunn av kong Haralds gravferd",
-      "link": "https://www.nrk.no/nyheter/avinor-varslar-moglege-kanselleringar-pa-grunn-av-kong-haralds-gravferd-1.18014764",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 04 Sep 2026 14:25:13 GMT"
+      "title": "FNs hovedforsamling vil ha nytt verdenskart",
+      "link": "https://www.nrk.no/nyheter/fns-hovedforsamling-vil-ha-nytt-verdenskart-1.18014637",
+      "category": "De forente nasjoner (FN)",
+      "pubDate": "Fri, 04 Sep 2026 17:29:00 GMT"
     },
     {
-      "title": "Kvinne omkom i trafikkulykke i Melhus",
-      "link": "https://www.nrk.no/trondelag/kvinne-omkom-i-trafikkulykke-i-melhus-1.18014748",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 04 Sep 2026 14:07:03 GMT"
-    },
-    {
-      "title": "Spanias kongefamilie kommer til kong Haralds gravferd",
-      "link": "https://www.nrk.no/nyheter/spanias-kongefamilie-kommer-til-kong-haralds-gravferd-1.18014713",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 04 Sep 2026 13:58:07 GMT"
+      "title": "Sparkesykkelulykke i Skien",
+      "link": "https://www.nrk.no/vestfoldogtelemark/sparkesykkelulykke-i-skien-1.18014905",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 04 Sep 2026 17:01:39 GMT"
     }
   ]
 }
