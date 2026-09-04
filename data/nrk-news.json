@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-04T21:17:31.295Z",
+  "updatedAt": "2026-09-04T23:11:03.218Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere biler i kollisjon på E18 ved Grenlandsporten",
+      "link": "https://www.nrk.no/nyheter/flere-biler-i-kollisjon-pa-e18-ved-grenlandsporten-1.18015085",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 04 Sep 2026 22:53:38 GMT"
+    },
+    {
+      "title": "Meklingen i grossistoppgjøret fortsetter på overtid",
+      "link": "https://www.nrk.no/nyheter/meklingen-i-grossistoppgjoret-fortsetter-pa-overtid-1.18015082",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 04 Sep 2026 22:49:58 GMT"
+    },
     {
       "title": "Minst tre drept i nye angrep mot Libanon",
       "link": "https://www.nrk.no/nyheter/minst-tre-drept-i-nye-angrep-mot-libanon-1.18015071",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-vil-gi-4-til-5-milliarder-til-republikanske-kandidater-1.18014893",
       "category": "USA",
       "pubDate": "Fri, 04 Sep 2026 18:58:54 GMT"
-    },
-    {
-      "title": "Mann i 60-årene omkom i elsparkesykkelulykke i Skien",
-      "link": "https://www.nrk.no/nyheter/mann-i-60-arene-omkom-i-elsparkesykkelulykke-i-skien-1.18014972",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 04 Sep 2026 18:25:52 GMT"
-    },
-    {
-      "title": "Tatt med 46,5 kg khat på Oslo lufthavn",
-      "link": "https://www.nrk.no/stor-oslo/tatt-med-46_5-kg-khat-pa-oslo-lufthavn-1.18014981",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 04 Sep 2026 18:23:40 GMT"
     }
   ]
 }
