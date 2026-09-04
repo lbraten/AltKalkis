@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-03T23:26:24.845Z",
+  "updatedAt": "2026-09-04T01:12:35.046Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump raser etter valgkart-nei fra høyesterett",
+      "link": "https://www.nrk.no/nyheter/trump-raser-etter-valgkart-nei-fra-hoyesterett-1.18013722",
+      "category": "Mellomvalg i USA",
+      "pubDate": "Fri, 04 Sep 2026 00:48:10 GMT"
+    },
+    {
+      "title": "Det hvite hus lanserer arkadespill",
+      "link": "https://www.nrk.no/nyheter/det-hvite-hus-lanserer-arkadespill-1.18013721",
+      "category": "USA",
+      "pubDate": "Fri, 04 Sep 2026 00:12:59 GMT"
+    },
+    {
+      "title": "Studie: Familier unngår områder med mange ikke-vestlige innvandrere",
+      "link": "https://www.nrk.no/nyheter/studie_-familier-unngar-omrader-med-mange-ikke-vestlige-innvandrere-1.18013720",
+      "category": "Innvandring til Norge",
+      "pubDate": "Thu, 03 Sep 2026 23:27:03 GMT"
+    },
+    {
+      "title": "Meklingen på Stortinget fortsetter på overtid",
+      "link": "https://www.nrk.no/nyheter/meklingen-pa-stortinget-fortsetter-pa-overtid-1.18013716",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Thu, 03 Sep 2026 23:23:09 GMT"
+    },
     {
       "title": "Trump utnevner ny fungerende hærsjef",
       "link": "https://www.nrk.no/nyheter/trump-utnevner-ny-fungerende-haersjef-1.18013704",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj_-russiske-droner-traff-coca-cola-fabrikk-naer-kyiv-1.18013700",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 03 Sep 2026 22:02:49 GMT"
-    },
-    {
-      "title": "Zelenskyj venter på amerikanske utsendinger",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-venter-pa-amerikanske-utsendinger-1.18013688",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 03 Sep 2026 20:23:03 GMT"
-    },
-    {
-      "title": "Volkswagen skal kutte 100.000 jobber",
-      "link": "https://www.nrk.no/nyheter/volkswagen-skal-kutte-100.000-jobber-1.18013658",
-      "category": "Tyskland",
-      "pubDate": "Thu, 03 Sep 2026 19:40:26 GMT"
-    },
-    {
-      "title": "Gardermoen: Taxisjåfører sloss",
-      "link": "https://www.nrk.no/stor-oslo/gardermoen_-taxisjaforer-sloss-1.18013642",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 03 Sep 2026 19:30:18 GMT"
-    },
-    {
-      "title": "Vil kutte russetida til ni dagar – russen rasar",
-      "link": "https://www.nrk.no/vestland/vil-kutte-russetida-til-ni-dagar-_-russen-rasar-1.18013405",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Thu, 03 Sep 2026 19:09:17 GMT"
     }
   ]
 }
