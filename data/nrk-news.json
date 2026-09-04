@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-04T18:53:59.844Z",
+  "updatedAt": "2026-09-04T21:17:31.295Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst tre drept i nye angrep mot Libanon",
+      "link": "https://www.nrk.no/nyheter/minst-tre-drept-i-nye-angrep-mot-libanon-1.18015071",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 04 Sep 2026 21:08:50 GMT"
+    },
+    {
+      "title": "Trump bekrefter – Witkoff og Kushner reiser til Russland og Ukraina",
+      "link": "https://www.nrk.no/nyheter/trump-bekrefter-_-witkoff-og-kushner-reiser-til-russland-og-ukraina-1.18015067",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 04 Sep 2026 20:52:50 GMT"
+    },
+    {
+      "title": "Israel angriper sør i Libanon",
+      "link": "https://www.nrk.no/nyheter/israel-angriper-sor-i-libanon-1.18015066",
+      "category": "Libanon og Israel",
+      "pubDate": "Fri, 04 Sep 2026 20:31:06 GMT"
+    },
+    {
+      "title": "Trump vil gi 4 til 5 milliarder til republikanske kandidater",
+      "link": "https://www.nrk.no/nyheter/trump-vil-gi-4-til-5-milliarder-til-republikanske-kandidater-1.18014893",
+      "category": "USA",
+      "pubDate": "Fri, 04 Sep 2026 18:58:54 GMT"
+    },
     {
       "title": "Mann i 60-årene omkom i elsparkesykkelulykke i Skien",
       "link": "https://www.nrk.no/nyheter/mann-i-60-arene-omkom-i-elsparkesykkelulykke-i-skien-1.18014972",
@@ -11,32 +35,8 @@
     {
       "title": "Tatt med 46,5 kg khat på Oslo lufthavn",
       "link": "https://www.nrk.no/stor-oslo/tatt-med-46_5-kg-khat-pa-oslo-lufthavn-1.18014981",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Fri, 04 Sep 2026 18:23:40 GMT"
-    },
-    {
-      "title": "Russlands ambassade nevner atomvåpen i uttalelse om Norge",
-      "link": "https://www.nrk.no/nyheter/russlands-ambassade-nevner-atomvapen-i-uttalelse-om-norge-1.18014951",
-      "category": "Forholdet Norge – Russland",
-      "pubDate": "Fri, 04 Sep 2026 18:09:45 GMT"
-    },
-    {
-      "title": "Nordic Mining i dialog om finansieringsløysing",
-      "link": "https://www.nrk.no/vestland/nordic-mining-i-dialog-om-finansieringsloysing-1.18014955",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 04 Sep 2026 17:37:43 GMT"
-    },
-    {
-      "title": "FNs hovedforsamling vil ha nytt verdenskart",
-      "link": "https://www.nrk.no/nyheter/fns-hovedforsamling-vil-ha-nytt-verdenskart-1.18014637",
-      "category": "De forente nasjoner (FN)",
-      "pubDate": "Fri, 04 Sep 2026 17:29:00 GMT"
-    },
-    {
-      "title": "Sparkesykkelulykke i Skien",
-      "link": "https://www.nrk.no/vestfoldogtelemark/sparkesykkelulykke-i-skien-1.18014905",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 04 Sep 2026 17:01:39 GMT"
     }
   ]
 }
