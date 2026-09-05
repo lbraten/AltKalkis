@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-05T20:58:17.408Z",
+  "updatedAt": "2026-09-05T22:46:56.759Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tass: Witkoff og Kushner har forlatt Moskva",
+      "link": "https://www.nrk.no/nyheter/tass_-witkoff-og-kushner-har-forlatt-moskva--1.18015676",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 05 Sep 2026 21:32:38 GMT"
+    },
+    {
+      "title": "Prins William og prinsesse Anne kommer i kong Haralds gravferd",
+      "link": "https://www.nrk.no/nyheter/prins-william-og-prinsesse-anne-kommer-i-kong-haralds-gravferd-1.18015674",
+      "category": "Kongefamilien",
+      "pubDate": "Sat, 05 Sep 2026 21:08:28 GMT"
+    },
+    {
+      "title": "Støre: – Et gjennombrudd for Norge",
+      "link": "https://www.nrk.no/nyheter/store_-_-et-gjennombrudd-for-norge-1.18015670",
+      "category": "Romfart og astronomi",
+      "pubDate": "Sat, 05 Sep 2026 21:06:02 GMT"
+    },
     {
       "title": "Møtet mellom Putin og Witkoff og Kushner er over",
       "link": "https://www.nrk.no/nyheter/motet-mellom-putin-og-witkoff-og-kushner-er-over-1.18015669",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/motet-mellom-putin-og-witkoff-har-startet-1.18015528",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 05 Sep 2026 17:12:28 GMT"
-    },
-    {
-      "title": "Kortere ventetid for defilering i Slottskapellet",
-      "link": "https://www.nrk.no/stor-oslo/kortere-ventetid-for-defilering-i-slottskapellet-1.18015447",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 05 Sep 2026 16:57:42 GMT"
-    },
-    {
-      "title": "Zelenskyj: – Har snakket med de amerikanske utsendingene",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-_-har-snakket-med-de-amerikanske-utsendingene-1.18015479",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 05 Sep 2026 16:16:11 GMT"
-    },
-    {
-      "title": "Elsparkesykkel mot bil i Larvik",
-      "link": "https://www.nrk.no/vestfoldogtelemark/elsparkesykkel-mot-bil-i-larvik--1.18015478",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 05 Sep 2026 16:00:18 GMT"
     }
   ]
 }
