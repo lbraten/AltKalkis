@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-05T06:08:41.698Z",
+  "updatedAt": "2026-09-05T10:50:31.853Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "En død og elleve savnet etter jordskred i Kina",
-      "link": "https://www.nrk.no/nyheter/en-dod-og-elleve-savnet-etter-jordskred-i-kina-1.18015100",
-      "category": "Kina",
-      "pubDate": "Sat, 05 Sep 2026 05:48:41 GMT"
+      "title": "USA-ambassadør krever reaksjoner på vold på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/usa-ambassador-krever-reaksjoner-pa-vold-pa-vestbredden---1.18015261",
+      "category": "Vestbredden",
+      "pubDate": "Sat, 05 Sep 2026 10:16:37 GMT"
     },
     {
-      "title": "Fire drept i russisk angrep mot Ukraina",
-      "link": "https://www.nrk.no/nyheter/fire-drept-i-russisk-angrep-mot-ukraina-1.18015097",
+      "title": "Zelenskyj: Russiske angrep mot ukrainske flyplasser",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-russiske-angrep-mot-ukrainske-flyplasser--1.18015176",
       "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 05 Sep 2026 04:42:11 GMT"
+      "pubDate": "Sat, 05 Sep 2026 09:22:39 GMT"
     },
     {
-      "title": "Person omkom i ulykke i Gjøvik",
-      "link": "https://www.nrk.no/nyheter/person-omkom-i-ulykke-i-gjovik-1.18015098",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 05 Sep 2026 04:15:03 GMT"
+      "title": "Nesten sju timers ventetid for å defilere kong Haralds båre",
+      "link": "https://www.nrk.no/nyheter/nesten-sju-timers-ventetid-for-a-defilere-kong-haralds-bare-1.18015232",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 05 Sep 2026 09:07:35 GMT"
     },
     {
-      "title": "Streik avverget i grossistoppgjøret",
-      "link": "https://www.nrk.no/nyheter/streik-avverget-i-grossistoppgjoret-1.18015095",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sat, 05 Sep 2026 03:28:19 GMT"
-    },
-    {
-      "title": "Flere døde etter eksplosjon ved militærbase i Bolivia",
-      "link": "https://www.nrk.no/nyheter/flere-dode-etter-eksplosjon-ved-militaerbase-i-bolivia-1.18015091",
-      "category": "Bolivia",
-      "pubDate": "Sat, 05 Sep 2026 03:26:51 GMT"
-    },
-    {
-      "title": "Trump skal til Dallas samme dag som kong Haralds gravferd",
-      "link": "https://www.nrk.no/nyheter/trump-skal-til-dallas-samme-dag-som-kong-haralds-gravferd-1.18015092",
+      "title": "650 journalister fra 19 land vil dekke kong Haralds gravferd",
+      "link": "https://www.nrk.no/nyheter/650-journalister-fra-19-land-vil-dekke-kong-haralds-gravferd-1.18015228",
       "category": "Kongefamilien",
-      "pubDate": "Sat, 05 Sep 2026 02:53:32 GMT"
+      "pubDate": "Sat, 05 Sep 2026 08:48:03 GMT"
+    },
+    {
+      "title": "Mann funnen død i sjøen",
+      "link": "https://www.nrk.no/vestland/mann-funnen-dod-i-sjoen-1.18015166",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 05 Sep 2026 08:23:05 GMT"
+    },
+    {
+      "title": "Kinesisk mann og nepalsk kvinne funnen i live i Nepal",
+      "link": "https://www.nrk.no/nyheter/kinesisk-mann-og-nepalsk-kvinne-funnen-i-live-i-nepal-1.18015205",
+      "category": "Flom og jordskred i Nepal",
+      "pubDate": "Sat, 05 Sep 2026 08:15:17 GMT"
     }
   ]
 }
