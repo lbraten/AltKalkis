@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-04T23:11:03.218Z",
+  "updatedAt": "2026-09-05T01:16:52.115Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To skadd i russisk angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/to-skadd-i-russisk-angrep-i-ukraina-1.18015087",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 05 Sep 2026 00:35:46 GMT"
+    },
+    {
+      "title": "Mann alvorlig skadet av fallende diskokule i København",
+      "link": "https://www.nrk.no/nyheter/mann-alvorlig-skadet-av-fallende-diskokule-i-kobenhavn-1.18015086",
+      "category": "Danmark",
+      "pubDate": "Fri, 04 Sep 2026 23:52:41 GMT"
+    },
     {
       "title": "Flere biler i kollisjon på E18 ved Grenlandsporten",
       "link": "https://www.nrk.no/nyheter/flere-biler-i-kollisjon-pa-e18-ved-grenlandsporten-1.18015085",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-bekrefter-_-witkoff-og-kushner-reiser-til-russland-og-ukraina-1.18015067",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 04 Sep 2026 20:52:50 GMT"
-    },
-    {
-      "title": "Israel angriper sør i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-angriper-sor-i-libanon-1.18015066",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 04 Sep 2026 20:31:06 GMT"
-    },
-    {
-      "title": "Trump vil gi 4 til 5 milliarder til republikanske kandidater",
-      "link": "https://www.nrk.no/nyheter/trump-vil-gi-4-til-5-milliarder-til-republikanske-kandidater-1.18014893",
-      "category": "USA",
-      "pubDate": "Fri, 04 Sep 2026 18:58:54 GMT"
     }
   ]
 }
