@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-05T18:50:17.055Z",
+  "updatedAt": "2026-09-05T20:58:17.408Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Møtet mellom Putin og Witkoff og Kushner er over",
+      "link": "https://www.nrk.no/nyheter/motet-mellom-putin-og-witkoff-og-kushner-er-over-1.18015669",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 05 Sep 2026 20:49:49 GMT"
+    },
+    {
+      "title": "Rakettoppskytingen fra Andøya vellykket",
+      "link": "https://www.nrk.no/nyheter/rakettoppskytingen-fra-andoya-vellykket-1.18015566",
+      "category": "Romfart og astronomi",
+      "pubDate": "Sat, 05 Sep 2026 20:25:26 GMT"
+    },
     {
       "title": "Møtet mellom Putin og Witkoff har startet",
       "link": "https://www.nrk.no/nyheter/motet-mellom-putin-og-witkoff-har-startet-1.18015528",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestfoldogtelemark/elsparkesykkel-mot-bil-i-larvik--1.18015478",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 05 Sep 2026 16:00:18 GMT"
-    },
-    {
-      "title": "To piloter døde da kampfly styrtet under flyshow i Aten",
-      "link": "https://www.nrk.no/nyheter/to-piloter-dode-da-kampfly-styrtet-under-flyshow-i-aten-1.18015443",
-      "category": "Hellas",
-      "pubDate": "Sat, 05 Sep 2026 15:34:11 GMT"
-    },
-    {
-      "title": "Stenger veier i Oslo og Akershus allerede fra tirsdag morgen",
-      "link": "https://www.nrk.no/stor-oslo/stenger-veier-i-oslo-og-akershus-allerede-fra-tirsdag-morgen-1.18015423",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 05 Sep 2026 14:22:23 GMT"
     }
   ]
 }
