@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-05T01:16:52.115Z",
+  "updatedAt": "2026-09-05T06:08:41.698Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "To skadd i russisk angrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/to-skadd-i-russisk-angrep-i-ukraina-1.18015087",
+      "title": "En død og elleve savnet etter jordskred i Kina",
+      "link": "https://www.nrk.no/nyheter/en-dod-og-elleve-savnet-etter-jordskred-i-kina-1.18015100",
+      "category": "Kina",
+      "pubDate": "Sat, 05 Sep 2026 05:48:41 GMT"
+    },
+    {
+      "title": "Fire drept i russisk angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/fire-drept-i-russisk-angrep-mot-ukraina-1.18015097",
       "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 05 Sep 2026 00:35:46 GMT"
+      "pubDate": "Sat, 05 Sep 2026 04:42:11 GMT"
     },
     {
-      "title": "Mann alvorlig skadet av fallende diskokule i København",
-      "link": "https://www.nrk.no/nyheter/mann-alvorlig-skadet-av-fallende-diskokule-i-kobenhavn-1.18015086",
-      "category": "Danmark",
-      "pubDate": "Fri, 04 Sep 2026 23:52:41 GMT"
+      "title": "Person omkom i ulykke i Gjøvik",
+      "link": "https://www.nrk.no/nyheter/person-omkom-i-ulykke-i-gjovik-1.18015098",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 05 Sep 2026 04:15:03 GMT"
     },
     {
-      "title": "Flere biler i kollisjon på E18 ved Grenlandsporten",
-      "link": "https://www.nrk.no/nyheter/flere-biler-i-kollisjon-pa-e18-ved-grenlandsporten-1.18015085",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 04 Sep 2026 22:53:38 GMT"
-    },
-    {
-      "title": "Meklingen i grossistoppgjøret fortsetter på overtid",
-      "link": "https://www.nrk.no/nyheter/meklingen-i-grossistoppgjoret-fortsetter-pa-overtid-1.18015082",
+      "title": "Streik avverget i grossistoppgjøret",
+      "link": "https://www.nrk.no/nyheter/streik-avverget-i-grossistoppgjoret-1.18015095",
       "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Fri, 04 Sep 2026 22:49:58 GMT"
+      "pubDate": "Sat, 05 Sep 2026 03:28:19 GMT"
     },
     {
-      "title": "Minst tre drept i nye angrep mot Libanon",
-      "link": "https://www.nrk.no/nyheter/minst-tre-drept-i-nye-angrep-mot-libanon-1.18015071",
-      "category": "Libanon og Israel",
-      "pubDate": "Fri, 04 Sep 2026 21:08:50 GMT"
+      "title": "Flere døde etter eksplosjon ved militærbase i Bolivia",
+      "link": "https://www.nrk.no/nyheter/flere-dode-etter-eksplosjon-ved-militaerbase-i-bolivia-1.18015091",
+      "category": "Bolivia",
+      "pubDate": "Sat, 05 Sep 2026 03:26:51 GMT"
     },
     {
-      "title": "Trump bekrefter – Witkoff og Kushner reiser til Russland og Ukraina",
-      "link": "https://www.nrk.no/nyheter/trump-bekrefter-_-witkoff-og-kushner-reiser-til-russland-og-ukraina-1.18015067",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 04 Sep 2026 20:52:50 GMT"
+      "title": "Trump skal til Dallas samme dag som kong Haralds gravferd",
+      "link": "https://www.nrk.no/nyheter/trump-skal-til-dallas-samme-dag-som-kong-haralds-gravferd-1.18015092",
+      "category": "Kongefamilien",
+      "pubDate": "Sat, 05 Sep 2026 02:53:32 GMT"
     }
   ]
 }
