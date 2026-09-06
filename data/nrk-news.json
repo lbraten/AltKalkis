@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-09-06T16:44:58.560Z",
+  "updatedAt": "2026-09-06T18:54:54.563Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Økning i tvangssalg av boliger",
-      "link": "https://www.nrk.no/nyheter/-okning-i-tvangssalg-av-boliger-1.18016110",
-      "category": "Norsk økonomi",
-      "pubDate": "Sun, 06 Sep 2026 16:29:52 GMT"
+      "title": "Røykgranat utløst på Ellingsrud: Søker etter personer",
+      "link": "https://www.nrk.no/stor-oslo/roykgranat-utlost-pa-ellingsrud_-soker-etter-personer-1.18016166",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 06 Sep 2026 18:15:21 GMT"
+    },
+    {
+      "title": "Netanyahu beordrer evakuering av enkelte bosettinger på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/netanyahu-beordrer-evakuering-av-enkelte-bosettinger-pa-vestbredden-1.18016119",
+      "category": "Israel",
+      "pubDate": "Sun, 06 Sep 2026 17:24:33 GMT"
+    },
+    {
+      "title": "Ein person alvorleg skadd i ulykke - frakta med luftambulanse",
+      "link": "https://www.nrk.no/mr/ein-person-alvorleg-skadd-i-ulykke---frakta-med-luftambulanse-1.18016146",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 06 Sep 2026 17:04:31 GMT"
     },
     {
       "title": "Reuters: Zelenskyj planlegger tur til Norge for å diskutere anti-ballistiske våpen",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dronning-margrethe-innlagt-pa-sykehus-_-kommer-ikke-i-gravferden-til-kong-harald-1.18016087",
       "category": "Kongefamilien",
       "pubDate": "Sun, 06 Sep 2026 15:53:38 GMT"
-    },
-    {
-      "title": "Danmark statsminister og EU-sjefen til Grønland",
-      "link": "https://www.nrk.no/nyheter/danmark-statsminister-og-eu-sjefen-til-gronland-1.18016055",
-      "category": "Grønland",
-      "pubDate": "Sun, 06 Sep 2026 15:28:49 GMT"
-    },
-    {
-      "title": "Høy deltakelse i tysk delstatsvalg",
-      "link": "https://www.nrk.no/nyheter/hoy-deltakelse-i-tysk-delstatsvalg-1.18016054",
-      "category": "Tyskland",
-      "pubDate": "Sun, 06 Sep 2026 14:56:45 GMT"
     }
   ]
 }
