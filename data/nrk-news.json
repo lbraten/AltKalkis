@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-05T22:46:56.759Z",
+  "updatedAt": "2026-09-06T00:40:22.430Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "14 savnet etter eksplosjon ved militærbase i Bolivia",
+      "link": "https://www.nrk.no/nyheter/14-savnet-etter-eksplosjon-ved-militaerbase-i-bolivia-1.18015681",
+      "category": "Bolivia",
+      "pubDate": "Sun, 06 Sep 2026 00:34:40 GMT"
+    },
+    {
+      "title": "Brann i bolig i Arendal sentrum – mulig spredningsfare",
+      "link": "https://www.nrk.no/nyheter/brann-i-bolig-i-arendal-sentrum-_-mulig-spredningsfare-1.18015679",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sat, 05 Sep 2026 23:31:19 GMT"
+    },
     {
       "title": "Tass: Witkoff og Kushner har forlatt Moskva",
       "link": "https://www.nrk.no/nyheter/tass_-witkoff-og-kushner-har-forlatt-moskva--1.18015676",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/motet-mellom-putin-og-witkoff-og-kushner-er-over-1.18015669",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 05 Sep 2026 20:49:49 GMT"
-    },
-    {
-      "title": "Rakettoppskytingen fra Andøya vellykket",
-      "link": "https://www.nrk.no/nyheter/rakettoppskytingen-fra-andoya-vellykket-1.18015566",
-      "category": "Romfart og astronomi",
-      "pubDate": "Sat, 05 Sep 2026 20:25:26 GMT"
-    },
-    {
-      "title": "Møtet mellom Putin og Witkoff har startet",
-      "link": "https://www.nrk.no/nyheter/motet-mellom-putin-og-witkoff-har-startet-1.18015528",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 05 Sep 2026 17:12:28 GMT"
     }
   ]
 }
