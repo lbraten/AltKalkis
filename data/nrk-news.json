@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-06T13:46:23.131Z",
+  "updatedAt": "2026-09-06T16:44:58.560Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "100 politibiler jakter antatt strømsabotør på sykkel i Tyskland",
-      "link": "https://www.nrk.no/nyheter/100-politibiler-jakter-antatt-stromsabotor-pa-sykkel-i-tyskland-1.18015950",
-      "category": "Tyskland",
-      "pubDate": "Sun, 06 Sep 2026 13:37:26 GMT"
+      "title": "Økning i tvangssalg av boliger",
+      "link": "https://www.nrk.no/nyheter/-okning-i-tvangssalg-av-boliger-1.18016110",
+      "category": "Norsk økonomi",
+      "pubDate": "Sun, 06 Sep 2026 16:29:52 GMT"
     },
     {
-      "title": "Over 200.000 i sentrum da kong Haakon avla sin ed",
-      "link": "https://www.nrk.no/stor-oslo/over-200.000-i-sentrum-da-kong-haakon-avla-sin-ed-1.18015963",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 06 Sep 2026 13:05:10 GMT"
+      "title": "Reuters: Zelenskyj planlegger tur til Norge for å diskutere anti-ballistiske våpen",
+      "link": "https://www.nrk.no/nyheter/reuters_-zelenskyj-planlegger-tur-til-norge-for-a-diskutere-anti-ballistiske-vapen-1.18016093",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 06 Sep 2026 16:17:19 GMT"
+    },
+    {
+      "title": "Valgdagsmåling: AfD mot stor valgseier i tysk delstat",
+      "link": "https://www.nrk.no/nyheter/valgdagsmaling_-afd-mot-stor-valgseier-i-tysk-delstat--1.18016076",
+      "category": "Tyskland",
+      "pubDate": "Sun, 06 Sep 2026 16:01:28 GMT"
+    },
+    {
+      "title": "Dronning Margrethe innlagt på sykehus – kommer ikke i gravferden til kong Harald",
+      "link": "https://www.nrk.no/nyheter/dronning-margrethe-innlagt-pa-sykehus-_-kommer-ikke-i-gravferden-til-kong-harald-1.18016087",
+      "category": "Kongefamilien",
+      "pubDate": "Sun, 06 Sep 2026 15:53:38 GMT"
+    },
+    {
+      "title": "Danmark statsminister og EU-sjefen til Grønland",
+      "link": "https://www.nrk.no/nyheter/danmark-statsminister-og-eu-sjefen-til-gronland-1.18016055",
+      "category": "Grønland",
+      "pubDate": "Sun, 06 Sep 2026 15:28:49 GMT"
     },
     {
       "title": "Høy deltakelse i tysk delstatsvalg",
-      "link": "https://www.nrk.no/nyheter/hoy-deltakelse-i-tysk-delstatsvalg-1.18015938",
+      "link": "https://www.nrk.no/nyheter/hoy-deltakelse-i-tysk-delstatsvalg-1.18016054",
       "category": "Tyskland",
-      "pubDate": "Sun, 06 Sep 2026 12:46:14 GMT"
-    },
-    {
-      "title": "Sjåfør har ikke tatt stilling til skyldspørsmålet",
-      "link": "https://www.nrk.no/innlandet/sjafor-har-ikke-tatt-stilling-til-skyldsporsmalet-1.18015842",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 06 Sep 2026 12:34:23 GMT"
-    },
-    {
-      "title": "Slottet med nye detaljar om gravferda til kong Harald",
-      "link": "https://www.nrk.no/nyheter/slottet-med-nye-detaljar-om-gravferda-til-kong-harald-1.18015895",
-      "category": "Kongefamilien",
-      "pubDate": "Sun, 06 Sep 2026 12:12:11 GMT"
-    },
-    {
-      "title": "Reuters: Europeiske sikkerheitstoppar på plass i Kyiv",
-      "link": "https://www.nrk.no/nyheter/reuters_-europeiske-sikkerheitstoppar-pa-plass-i-kyiv-1.18015865",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 06 Sep 2026 11:29:20 GMT"
+      "pubDate": "Sun, 06 Sep 2026 14:56:45 GMT"
     }
   ]
 }
