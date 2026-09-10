@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-10T15:59:53.887Z",
+  "updatedAt": "2026-09-10T19:05:07.069Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Zelenskyj: Canada har godkjent luftvernpakke",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-canada-har-godkjent-luftvernpakke-1.18020965",
+      "title": "Torgeir Micaelsen ny digitaliseringsminister, får NRK opplyst",
+      "link": "https://www.nrk.no/nyheter/torgeir-micaelsen-ny-digitaliseringsminister_-far-nrk-opplyst-1.18020764",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 10 Sep 2026 18:55:42 GMT"
+    },
+    {
+      "title": "Brudd i forhandlingene for SAS Link",
+      "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-for-sas-link-1.18021145",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Thu, 10 Sep 2026 18:30:21 GMT"
+    },
+    {
+      "title": "Flere døde i turistbussulykke i Sveits",
+      "link": "https://www.nrk.no/nyheter/flere-dode-i-turistbussulykke-i-sveits-1.18021122",
+      "category": "Sveits",
+      "pubDate": "Thu, 10 Sep 2026 18:23:27 GMT"
+    },
+    {
+      "title": "NRK erfarer: Nygård og Bjelland Eriksen går ut av regjeringen",
+      "link": "https://www.nrk.no/nyheter/nrk-erfarer_-nygard-og-bjelland-eriksen-gar-ut-av-regjeringen-1.18021112",
+      "category": "Norsk politikk",
+      "pubDate": "Thu, 10 Sep 2026 18:04:09 GMT"
+    },
+    {
+      "title": "Kilder til NRK: Tung går ut av regjering",
+      "link": "https://www.nrk.no/nyheter/kilder-til-nrk_-tung-gar-ut-av-regjering-1.18021087",
+      "category": "Norsk politikk",
+      "pubDate": "Thu, 10 Sep 2026 17:55:57 GMT"
+    },
+    {
+      "title": "Ukrainas ambassadør: Viser behovet for luftvern",
+      "link": "https://www.nrk.no/nyheter/ukrainas-ambassador_-viser-behovet-for-luftvern-1.18021007",
       "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 10 Sep 2026 15:34:06 GMT"
-    },
-    {
-      "title": "Minst 24 skolebarn omkom i brann i Kongo",
-      "link": "https://www.nrk.no/nyheter/minst-24-skolebarn-omkom-i-brann-i-kongo-1.18020914",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 10 Sep 2026 15:10:35 GMT"
-    },
-    {
-      "title": "Høyesterett opprettholder nei til nytt valgkart i Missouri",
-      "link": "https://www.nrk.no/nyheter/hoyesterett-opprettholder-nei-til-nytt-valgkart-i_missouri-1.18020930",
-      "category": "Donald Trump",
-      "pubDate": "Thu, 10 Sep 2026 14:43:41 GMT"
-    },
-    {
-      "title": "Bier i Agder rammet av sykdom",
-      "link": "https://www.nrk.no/nyheter/bier-i-agder-rammet-av-sykdom-1.18020875",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Thu, 10 Sep 2026 14:11:13 GMT"
-    },
-    {
-      "title": "Analyse: Alle Oslos private tilfluktsrom har alvorlige avvik",
-      "link": "https://www.nrk.no/stor-oslo/analyse_-alle-oslos-private-tilfluktsrom-har-alvorlige-avvik-1.18020868",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 10 Sep 2026 13:37:59 GMT"
-    },
-    {
-      "title": "USA forsinker Økokrims etterforskning av Juul og Rød-Larsen",
-      "link": "https://www.nrk.no/nyheter/usa-forsinker-okokrims-etterforskning-av-juul-og-rod-larsen-1.18020865",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Thu, 10 Sep 2026 13:34:32 GMT"
+      "pubDate": "Thu, 10 Sep 2026 17:44:38 GMT"
     }
   ]
 }
