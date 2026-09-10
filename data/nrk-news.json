@@ -1,11 +1,35 @@
 {
-  "updatedAt": "2026-09-10T19:05:07.069Z",
+  "updatedAt": "2026-09-10T21:45:52.436Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Kilder til NRK: Eileen Fugelsnes inn i regjering",
+      "link": "https://www.nrk.no/nyheter/kilder-til-nrk_-eileen-fugelsnes-inn-i-regjering-1.18021223",
+      "category": "Norsk politikk",
+      "pubDate": "Thu, 10 Sep 2026 20:44:44 GMT"
+    },
+    {
+      "title": "To skip truffet vest for Oman",
+      "link": "https://www.nrk.no/nyheter/to-skip-truffet-vest-for-oman-1.18021202",
+      "category": "Oman",
+      "pubDate": "Thu, 10 Sep 2026 20:38:51 GMT"
+    },
+    {
+      "title": "Kilder til NRK: Kamzy Gunaratnam ny samferdselsminister",
+      "link": "https://www.nrk.no/nyheter/kilder-til-nrk_-kamzy-gunaratnam-ny-samferdselsminister-1.18021192",
+      "category": "Norsk politikk",
+      "pubDate": "Thu, 10 Sep 2026 20:01:38 GMT"
+    },
+    {
+      "title": "Israelske angrep i Libanon ble registrert som jordskjelv",
+      "link": "https://www.nrk.no/nyheter/israelske-angrep-i-libanon-ble-registrert-som-jordskjelv-1.18021153",
+      "category": "Libanon og Israel",
+      "pubDate": "Thu, 10 Sep 2026 19:39:18 GMT"
+    },
+    {
       "title": "Torgeir Micaelsen ny digitaliseringsminister, får NRK opplyst",
       "link": "https://www.nrk.no/nyheter/torgeir-micaelsen-ny-digitaliseringsminister_-far-nrk-opplyst-1.18020764",
-      "category": "NRK Nyheter",
+      "category": "high",
       "pubDate": "Thu, 10 Sep 2026 18:55:42 GMT"
     },
     {
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-for-sas-link-1.18021145",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Thu, 10 Sep 2026 18:30:21 GMT"
-    },
-    {
-      "title": "Flere døde i turistbussulykke i Sveits",
-      "link": "https://www.nrk.no/nyheter/flere-dode-i-turistbussulykke-i-sveits-1.18021122",
-      "category": "Sveits",
-      "pubDate": "Thu, 10 Sep 2026 18:23:27 GMT"
-    },
-    {
-      "title": "NRK erfarer: Nygård og Bjelland Eriksen går ut av regjeringen",
-      "link": "https://www.nrk.no/nyheter/nrk-erfarer_-nygard-og-bjelland-eriksen-gar-ut-av-regjeringen-1.18021112",
-      "category": "Norsk politikk",
-      "pubDate": "Thu, 10 Sep 2026 18:04:09 GMT"
-    },
-    {
-      "title": "Kilder til NRK: Tung går ut av regjering",
-      "link": "https://www.nrk.no/nyheter/kilder-til-nrk_-tung-gar-ut-av-regjering-1.18021087",
-      "category": "Norsk politikk",
-      "pubDate": "Thu, 10 Sep 2026 17:55:57 GMT"
-    },
-    {
-      "title": "Ukrainas ambassadør: Viser behovet for luftvern",
-      "link": "https://www.nrk.no/nyheter/ukrainas-ambassador_-viser-behovet-for-luftvern-1.18021007",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 10 Sep 2026 17:44:38 GMT"
     }
   ]
 }
