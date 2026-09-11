@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-11T17:04:59.583Z",
+  "updatedAt": "2026-09-11T19:55:57.028Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minister: Rundt 20 skadd i togavsporing i Normandie i Frankrike",
+      "link": "https://www.nrk.no/nyheter/minister_-rundt-20-skadd-i-togavsporing-i-normandie-i-frankrike-1.18022424",
+      "category": "Frankrike",
+      "pubDate": "Fri, 11 Sep 2026 19:33:23 GMT"
+    },
+    {
+      "title": "Zelenskyj vil ha nye amerikanske Russland-sanksjoner umiddelbart",
+      "link": "https://www.nrk.no/nyheter/zelenskyj-vil-ha-nye-amerikanske-russland-sanksjoner-umiddelbart-1.18022386",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 11 Sep 2026 18:17:46 GMT"
+    },
+    {
+      "title": "Siktet for drap på Mustafa Ahmed – varetektsfengsles",
+      "link": "https://www.nrk.no/nyheter/siktet-for-drap-pa-mustafa-ahmed-_-varetektsfengsles-1.18022325",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 11 Sep 2026 17:24:24 GMT"
+    },
     {
       "title": "Lørdag stenges Oslos gater igjen",
       "link": "https://www.nrk.no/nyheter/lordag-stenges-oslos-gater-igjen-1.18022324",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/trondelag/har-rykket-ut-til-mulig-gasslekkasje-pa-malvik-1.18022220",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Fri, 11 Sep 2026 15:33:22 GMT"
-    },
-    {
-      "title": "Storbritannias forsvarssjef hevder over 500.000 russiske soldater drept i Ukraina",
-      "link": "https://www.nrk.no/nyheter/storbritannias-forsvarssjef-hevder-over-500.000-russiske-soldater-drept-i-ukraina-1.18022186",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 11 Sep 2026 15:15:47 GMT"
-    },
-    {
-      "title": "Kongen om prinsesse Astrid: – Opptatt av omsorg og inkludering",
-      "link": "https://www.nrk.no/nyheter/kongen-om-prinsesse-astrid_-_-opptatt-av-omsorg-og-inkludering-1.18022103",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 11 Sep 2026 13:08:47 GMT"
-    },
-    {
-      "title": "Familien etter prinsesse Astrids bortgang: – Den beste mammaen vi kunne ha",
-      "link": "https://www.nrk.no/nyheter/familien-etter-prinsesse-astrids-bortgang_-_-den-beste-mammaen-vi-kunne-ha-1.18022091",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 11 Sep 2026 13:03:27 GMT"
     }
   ]
 }
