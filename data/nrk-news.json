@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-11T13:20:51.036Z",
+  "updatedAt": "2026-09-11T17:04:59.583Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lørdag stenges Oslos gater igjen",
+      "link": "https://www.nrk.no/nyheter/lordag-stenges-oslos-gater-igjen-1.18022324",
+      "category": "Oslo maraton",
+      "pubDate": "Fri, 11 Sep 2026 16:12:02 GMT"
+    },
+    {
+      "title": "Sju tiltalt i Tyskland – skal ha planlagt Hamas-angrep",
+      "link": "https://www.nrk.no/nyheter/sju-tiltalt-i-tyskland-_-skal-ha-planlagt-hamas-angrep-1.18022281",
+      "category": "Tyskland",
+      "pubDate": "Fri, 11 Sep 2026 16:09:49 GMT"
+    },
+    {
+      "title": "Har rykket ut til mulig gasslekkasje på Malvik",
+      "link": "https://www.nrk.no/trondelag/har-rykket-ut-til-mulig-gasslekkasje-pa-malvik-1.18022220",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 11 Sep 2026 15:33:22 GMT"
+    },
+    {
+      "title": "Storbritannias forsvarssjef hevder over 500.000 russiske soldater drept i Ukraina",
+      "link": "https://www.nrk.no/nyheter/storbritannias-forsvarssjef-hevder-over-500.000-russiske-soldater-drept-i-ukraina-1.18022186",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 11 Sep 2026 15:15:47 GMT"
+    },
     {
       "title": "Kongen om prinsesse Astrid: – Opptatt av omsorg og inkludering",
       "link": "https://www.nrk.no/nyheter/kongen-om-prinsesse-astrid_-_-opptatt-av-omsorg-og-inkludering-1.18022103",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/familien-etter-prinsesse-astrids-bortgang_-_-den-beste-mammaen-vi-kunne-ha-1.18022091",
       "category": "Kongefamilien",
       "pubDate": "Fri, 11 Sep 2026 13:03:27 GMT"
-    },
-    {
-      "title": "Slottet flagger på halv stang etter prinsesse Astrids bortgang",
-      "link": "https://www.nrk.no/nyheter/slottet-flagger-pa-halv-stang-etter-prinsesse-astrids-bortgang-1.18022079",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 11 Sep 2026 12:58:53 GMT"
-    },
-    {
-      "title": "Støre om prinsesse Astrid: – Dyktig, dedikert og engasjert",
-      "link": "https://www.nrk.no/nyheter/store-om-prinsesse-astrid_-_-dyktig_-dedikert-og-engasjert-1.18022071",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 11 Sep 2026 12:54:41 GMT"
-    },
-    {
-      "title": "Kongehuset: Prinsesse Astrid er død",
-      "link": "https://www.nrk.no/nyheter/kongehuset_-prinsesse-astrid-er-dod-1.18022062",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 11 Sep 2026 12:47:57 GMT"
-    },
-    {
-      "title": "Rekordhøye temperaturer i havet utenfor Spania",
-      "link": "https://www.nrk.no/nyheter/rekordhoye-temperaturer-i-havet-utenfor-spania-1.18021986",
-      "category": "Klima og miljø",
-      "pubDate": "Fri, 11 Sep 2026 12:44:50 GMT"
     }
   ]
 }
