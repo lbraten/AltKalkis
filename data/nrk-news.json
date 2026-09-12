@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-12T21:16:22.363Z",
+  "updatedAt": "2026-09-12T23:10:27.121Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Én pågrepet etter vold mot offentlig tjenesteperson i Bodø",
+      "link": "https://www.nrk.no/nyheter/en-pagrepet-etter-vold-mot-offentlig-tjenesteperson-i-bodo-1.18023127",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 12 Sep 2026 22:57:13 GMT"
+    },
+    {
+      "title": "Ni personer drept i russiske angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/ni-personer-drept-i-russiske-angrep-mot-ukraina-1.18023125",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 12 Sep 2026 22:27:32 GMT"
+    },
+    {
+      "title": "Fem kilometer langt bord satte verdensrekord i Romania",
+      "link": "https://www.nrk.no/nyheter/fem-kilometer-langt-bord-satte-verdensrekord-i-romania-1.18023123",
+      "category": "Romania",
+      "pubDate": "Sat, 12 Sep 2026 21:55:36 GMT"
+    },
+    {
+      "title": "Dansk film vant Gulløven i Venezia",
+      "link": "https://www.nrk.no/nyheter/dansk-film-vant-gulloven-i-venezia-1.18023117",
+      "category": "Film og serier",
+      "pubDate": "Sat, 12 Sep 2026 21:42:45 GMT"
+    },
     {
       "title": "Saudi-Arabia: To skadet i prosjektilangrep nær grensen til Jemen",
       "link": "https://www.nrk.no/nyheter/saudi-arabia_-to-skadet-i-prosjektilangrep-naer-grensen-til-jemen-1.18023104",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bygdetrapen-er-arets-stjerneskudd-pa-by_larm-1.18023086",
       "category": "Musikk",
       "pubDate": "Sat, 12 Sep 2026 20:35:03 GMT"
-    },
-    {
-      "title": "Nødraketter sendt opp fra båt",
-      "link": "https://www.nrk.no/sorlandet/nodraketter-sendt-opp-fra-bat-1.18023089",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sat, 12 Sep 2026 20:03:37 GMT"
-    },
-    {
-      "title": "Céline Dion med comeback",
-      "link": "https://www.nrk.no/nyheter/celine-dion-med-comeback-1.18023071",
-      "category": "Frankrike",
-      "pubDate": "Sat, 12 Sep 2026 19:34:01 GMT"
-    },
-    {
-      "title": "Meningsmåling: Tre av fire tyskere mener Merz bør gå",
-      "link": "https://www.nrk.no/nyheter/meningsmaling_-tre-av-fire-tyskere-mener-merz-bor-ga-1.18023070",
-      "category": "Tyskland",
-      "pubDate": "Sat, 12 Sep 2026 18:51:44 GMT"
-    },
-    {
-      "title": "Gaza-dokumentaren «Naza» fikk spesialpris i Venezia",
-      "link": "https://www.nrk.no/nyheter/gaza-dokumentaren-_naza_-fikk-spesialpris-i-venezia-1.18023029",
-      "category": "Film og serier",
-      "pubDate": "Sat, 12 Sep 2026 18:50:15 GMT"
     }
   ]
 }
