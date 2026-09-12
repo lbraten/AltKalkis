@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-12T16:25:47.596Z",
+  "updatedAt": "2026-09-12T18:36:18.030Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Bilfører siktet etter ulykke",
+      "link": "https://www.nrk.no/vestfoldogtelemark/bilforer-siktet-etter-ulykke-1.18022994",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 12 Sep 2026 18:05:56 GMT"
+    },
+    {
+      "title": "Store demonstrasjoner mot AfD over hele Tyskland",
+      "link": "https://www.nrk.no/nyheter/store-demonstrasjoner-mot-afd-over-hele-tyskland-1.18023017",
+      "category": "Tyskland",
+      "pubDate": "Sat, 12 Sep 2026 17:27:51 GMT"
+    },
+    {
+      "title": "Sier Russland har ødelagt for 93 milliarder i Ukraina i år",
+      "link": "https://www.nrk.no/nyheter/sier-russland-har-odelagt-for-93-milliarder-i-ukraina-i-ar-1.18023010",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 12 Sep 2026 17:06:22 GMT"
+    },
+    {
+      "title": "Musikkfestival avlyst i Santa Monica",
+      "link": "https://www.nrk.no/nyheter/musikkfestival-avlyst-i-santa-monica-1.18022974",
+      "category": "USA",
+      "pubDate": "Sat, 12 Sep 2026 16:59:35 GMT"
+    },
     {
       "title": "Anthropic-sjef vil ha lavere KI-tempo",
       "link": "https://www.nrk.no/nyheter/anthropic-sjef-vil-ha-lavere-ki-tempo-1.18022951",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/mr/miste-kontrakt-verdt-44-millionar-etter-regelbrot-1.18022948",
       "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Sat, 12 Sep 2026 15:36:03 GMT"
-    },
-    {
-      "title": "Modi og Xi lover å løse grensekonflikt",
-      "link": "https://www.nrk.no/nyheter/modi-og-xi-lover-a-lose-grensekonflikt-1.18022929",
-      "category": "Kina",
-      "pubDate": "Sat, 12 Sep 2026 15:28:53 GMT"
-    },
-    {
-      "title": "Minst sju døde i fengselsopprør i Syria",
-      "link": "https://www.nrk.no/nyheter/minst-sju-dode-i-fengselsoppror-i-syria-1.18022898",
-      "category": "Syria",
-      "pubDate": "Sat, 12 Sep 2026 15:02:22 GMT"
-    },
-    {
-      "title": "Gjengleder utlevert til Sverige",
-      "link": "https://www.nrk.no/nyheter/gjengleder-utlevert-til-sverige-1.18022871",
-      "category": "Sverige",
-      "pubDate": "Sat, 12 Sep 2026 13:49:31 GMT"
-    },
-    {
-      "title": "Lange køer på E18",
-      "link": "https://www.nrk.no/stor-oslo/lange-koer-pa-e18-1.18022828",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 12 Sep 2026 13:07:47 GMT"
     }
   ]
 }
