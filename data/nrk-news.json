@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-13T12:35:20.534Z",
+  "updatedAt": "2026-09-13T16:52:12.117Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Slagsmål med øks eller slegge",
+      "link": "https://www.nrk.no/stor-oslo/slagsmal-med-oks-eller-slegge-1.18023509",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 13 Sep 2026 16:13:58 GMT"
+    },
+    {
+      "title": "Sverige: - 975 hendelser på valglokaler så langt",
+      "link": "https://www.nrk.no/nyheter/sverige_---975-hendelser-pa-valglokaler-sa-langt-1.18023411",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 13 Sep 2026 16:10:28 GMT"
+    },
+    {
+      "title": "Trump: – Zelenskyj må slutte å angripe russisk diesellagre",
+      "link": "https://www.nrk.no/nyheter/trump_-_-zelenskyj-ma-slutte-a-angripe-russisk-diesellagre-1.18023386",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 13 Sep 2026 13:22:31 GMT"
+    },
+    {
+      "title": "To timer valgkø i Sverige. – Folk går hjem",
+      "link": "https://www.nrk.no/nyheter/to-timer-valgko-i-sverige.-_-folk-gar-hjem-1.18023364",
+      "category": "Sverige",
+      "pubDate": "Sun, 13 Sep 2026 12:59:24 GMT"
+    },
+    {
+      "title": "Masseslagsmål i Lørenskog - Én person knivstukket",
+      "link": "https://www.nrk.no/stor-oslo/masseslagsmal-i-lorenskog---en-person-knivstukket-1.18023372",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 13 Sep 2026 12:36:14 GMT"
+    },
     {
       "title": "Russisk droneangrep mot passasjertog på vei fra Ukraina til Polen",
       "link": "https://www.nrk.no/nyheter/russisk-droneangrep-mot-passasjertog-pa-vei-fra-ukraina-til-polen-1.18023320",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 13 Sep 2026 11:10:54 GMT"
-    },
-    {
-      "title": "Fugler utløste dronealarm i Litauen",
-      "link": "https://www.nrk.no/nyheter/fugler-utloste-dronealarm-i-litauen-1.18023319",
-      "category": "Litauen",
-      "pubDate": "Sun, 13 Sep 2026 10:30:41 GMT"
-    },
-    {
-      "title": "Israel anklages for bruk av hvitt fosfor mot sivile i Libanon",
-      "link": "https://www.nrk.no/nyheter/israel-anklages-for-bruk-av-hvitt-fosfor-mot-sivile-i-libanon-1.18023155",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 13 Sep 2026 10:28:11 GMT"
-    },
-    {
-      "title": "Gjøvikbanen stengt frem til 19. september",
-      "link": "https://www.nrk.no/innlandet/gjovikbanen-stengt-frem-til-19.-september-1.18023307",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 13 Sep 2026 10:00:36 GMT"
-    },
-    {
-      "title": "Asker: Ulykke med bil og sykler",
-      "link": "https://www.nrk.no/stor-oslo/asker_-ulykke-med-bil-og-sykler-1.18023194",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 13 Sep 2026 09:01:29 GMT"
-    },
-    {
-      "title": "No har vallokala i Sverige opna",
-      "link": "https://www.nrk.no/nyheter/no-har-vallokala-i-sverige-opna-1.18023147",
-      "category": "Sverige",
-      "pubDate": "Sun, 13 Sep 2026 06:04:11 GMT"
     }
   ]
 }
