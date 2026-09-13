@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-12T23:10:27.121Z",
+  "updatedAt": "2026-09-13T01:19:20.405Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann anmeldt for å bære pistolreplika på tog",
+      "link": "https://www.nrk.no/nyheter/mann-anmeldt-for-a-baere-pistolreplika-pa-tog-1.18023131",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 13 Sep 2026 00:04:22 GMT"
+    },
+    {
+      "title": "Gutt til sykehus etter elsparkesykkel-velt i Bergen",
+      "link": "https://www.nrk.no/nyheter/gutt-til-sykehus-etter-elsparkesykkel-velt-i-bergen-1.18023130",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 12 Sep 2026 23:24:14 GMT"
+    },
     {
       "title": "Én pågrepet etter vold mot offentlig tjenesteperson i Bodø",
       "link": "https://www.nrk.no/nyheter/en-pagrepet-etter-vold-mot-offentlig-tjenesteperson-i-bodo-1.18023127",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dansk-film-vant-gulloven-i-venezia-1.18023117",
       "category": "Film og serier",
       "pubDate": "Sat, 12 Sep 2026 21:42:45 GMT"
-    },
-    {
-      "title": "Saudi-Arabia: To skadet i prosjektilangrep nær grensen til Jemen",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia_-to-skadet-i-prosjektilangrep-naer-grensen-til-jemen-1.18023104",
-      "category": "Saudi-Arabia",
-      "pubDate": "Sat, 12 Sep 2026 21:12:02 GMT"
-    },
-    {
-      "title": "BYGDETRAPEN er årets stjerneskudd på by:Larm",
-      "link": "https://www.nrk.no/nyheter/bygdetrapen-er-arets-stjerneskudd-pa-by_larm-1.18023086",
-      "category": "Musikk",
-      "pubDate": "Sat, 12 Sep 2026 20:35:03 GMT"
     }
   ]
 }
