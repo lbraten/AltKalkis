@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-09-13T16:52:12.117Z",
+  "updatedAt": "2026-09-13T19:13:03.749Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Slagsmål med øks eller slegge",
-      "link": "https://www.nrk.no/stor-oslo/slagsmal-med-oks-eller-slegge-1.18023509",
+      "title": "Skuffelse for Sverigedemokratene – 17,2 prosent på SVTs valgdagsmåling",
+      "link": "https://www.nrk.no/nyheter/skuffelse-for-sverigedemokratene-_-17_2-prosent-pa-svts-valgdagsmaling-1.18023603",
+      "category": "Sverige",
+      "pubDate": "Sun, 13 Sep 2026 18:22:24 GMT"
+    },
+    {
+      "title": "Svensk valgdagsmåling: Kan gå mot regjeringsskifte",
+      "link": "https://www.nrk.no/nyheter/svensk-valgdagsmaling_-kan-ga-mot-regjeringsskifte-1.18023508",
+      "category": "high",
+      "pubDate": "Sun, 13 Sep 2026 18:05:47 GMT"
+    },
+    {
+      "title": "Slått med slegge",
+      "link": "https://www.nrk.no/stor-oslo/slatt-med-slegge-1.18023509",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sun, 13 Sep 2026 16:13:58 GMT"
     },
     {
-      "title": "Sverige: - 975 hendelser på valglokaler så langt",
-      "link": "https://www.nrk.no/nyheter/sverige_---975-hendelser-pa-valglokaler-sa-langt-1.18023411",
+      "title": "Sverige: - 1238 hendelser på valglokaler så langt",
+      "link": "https://www.nrk.no/nyheter/sverige_---1238-hendelser-pa-valglokaler-sa-langt-1.18023411",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 13 Sep 2026 16:10:28 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-timer-valgko-i-sverige.-_-folk-gar-hjem-1.18023364",
       "category": "Sverige",
       "pubDate": "Sun, 13 Sep 2026 12:59:24 GMT"
-    },
-    {
-      "title": "Masseslagsmål i Lørenskog - Én person knivstukket",
-      "link": "https://www.nrk.no/stor-oslo/masseslagsmal-i-lorenskog---en-person-knivstukket-1.18023372",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 13 Sep 2026 12:36:14 GMT"
-    },
-    {
-      "title": "Russisk droneangrep mot passasjertog på vei fra Ukraina til Polen",
-      "link": "https://www.nrk.no/nyheter/russisk-droneangrep-mot-passasjertog-pa-vei-fra-ukraina-til-polen-1.18023320",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 13 Sep 2026 11:10:54 GMT"
     }
   ]
 }
