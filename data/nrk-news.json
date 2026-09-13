@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-13T21:34:39.310Z",
+  "updatedAt": "2026-09-13T23:55:32.910Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sveriges statsminister: – Kan føre til en komplisert regjeringsdannelse",
+      "link": "https://www.nrk.no/nyheter/sveriges-statsminister_-_-kan-fore-til-en-komplisert-regjeringsdannelse-1.18023702",
+      "category": "Sverige",
+      "pubDate": "Sun, 13 Sep 2026 23:45:03 GMT"
+    },
+    {
+      "title": "Andersson: – Akkurat nå leder vi",
+      "link": "https://www.nrk.no/nyheter/andersson_-_-akkurat-na-leder-vi-1.18023697",
+      "category": "Sverige",
+      "pubDate": "Sun, 13 Sep 2026 23:30:55 GMT"
+    },
     {
       "title": "Israel vil frata statsborgerskapet til prisvinnende regissører",
       "link": "https://www.nrk.no/nyheter/israel-vil-frata-statsborgerskapet-til-prisvinnende-regissorer-1.18023695",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/trondelag/konflikt-pa-trondheim-torg-1.18023671",
       "category": "Nyhetssenter Trøndelag",
       "pubDate": "Sun, 13 Sep 2026 19:51:09 GMT"
-    },
-    {
-      "title": "Dødt løp i svensk valg, knapp ledelse til opposisjonen",
-      "link": "https://www.nrk.no/nyheter/dodt-lop-i-svensk-valg_-knapp-ledelse-til-opposisjonen-1.18023663",
-      "category": "Sverige",
-      "pubDate": "Sun, 13 Sep 2026 19:46:54 GMT"
-    },
-    {
-      "title": "Ap-statssekretær på tog som ble evakuert i Ukraina: – Kom fram i rute",
-      "link": "https://www.nrk.no/nyheter/ap-statssekretaer-pa-tog-som-ble-evakuert-i-ukraina_-_-kom-fram-i-rute-1.18023619",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 13 Sep 2026 19:40:00 GMT"
     }
   ]
 }
