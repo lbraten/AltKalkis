@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-09-14T16:27:32.024Z",
+  "updatedAt": "2026-09-14T20:26:25.949Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Macklemore droppet fra Ed Sheeran-turné",
+      "link": "https://www.nrk.no/nyheter/macklemore-droppet-fra-ed-sheeran-turne-1.18024720",
+      "category": "Musikk",
+      "pubDate": "Mon, 14 Sep 2026 18:28:29 GMT"
+    },
     {
       "title": "Fawzi Warsame innstilt som ny AUF-leder",
       "link": "https://www.nrk.no/nyheter/fawzi-warsame-innstilt-som-ny-auf-leder-1.18024690",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/oasis-bekrefter-ny-europa-turne-1.18024652",
       "category": "NRK Nyheter",
       "pubDate": "Mon, 14 Sep 2026 15:04:32 GMT"
-    },
-    {
-      "title": "«Verdens viktigste rente» over 5 prosent",
-      "link": "https://www.nrk.no/nyheter/_verdens-viktigste-rente_-over-5-prosent--1.18024623",
-      "category": "USA",
-      "pubDate": "Mon, 14 Sep 2026 15:03:09 GMT"
     }
   ]
 }
