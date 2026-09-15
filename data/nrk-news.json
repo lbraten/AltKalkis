@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-14T23:20:33.365Z",
+  "updatedAt": "2026-09-15T01:45:12.086Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Høyesterett sier nei til poststemme-begrensning",
+      "link": "https://www.nrk.no/nyheter/hoyesterett-sier-nei-til-poststemme-begrensning--1.18024915",
+      "category": "USA",
+      "pubDate": "Tue, 15 Sep 2026 00:48:39 GMT"
+    },
+    {
+      "title": "Mitch McConnell (84) tilbake i Senatet",
+      "link": "https://www.nrk.no/nyheter/mitch-mcconnell-_84_-tilbake-i-senatet-1.18024909",
+      "category": "USA",
+      "pubDate": "Mon, 14 Sep 2026 23:57:37 GMT"
+    },
+    {
+      "title": "Politiet: Pågrepet mann i Oslo hadde kniv",
+      "link": "https://www.nrk.no/nyheter/politiet_-pagrepet-mann-i-oslo-hadde-kniv-1.18024913",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 14 Sep 2026 23:32:30 GMT"
+    },
     {
       "title": "Reuters: Nato-fly skjøt ned drone i litautisk luftrom",
       "link": "https://www.nrk.no/nyheter/reuters_-nato-fly-skjot-ned-drone-i-litautisk-luftrom-1.18024896",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/macklemore-droppet-fra-ed-sheeran-turne-1.18024720",
       "category": "Musikk",
       "pubDate": "Mon, 14 Sep 2026 18:28:29 GMT"
-    },
-    {
-      "title": "Fawzi Warsame innstilt som ny AUF-leder",
-      "link": "https://www.nrk.no/nyheter/fawzi-warsame-innstilt-som-ny-auf-leder-1.18024690",
-      "category": "AUF",
-      "pubDate": "Mon, 14 Sep 2026 16:04:42 GMT"
-    },
-    {
-      "title": "Fredrikstad kommune med hasteforbud mot KI-briller",
-      "link": "https://www.nrk.no/ostfold/fredrikstad-kommune-med-hasteforbud-mot-ki-briller-1.18024622",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Mon, 14 Sep 2026 15:51:35 GMT"
-    },
-    {
-      "title": "Zelenskyj: Ukraina vil avstå fra angrep hvis Russland gjør det samme",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-vil-avsta-fra-angrep-hvis-russland-gjor-det-samme-1.18024674",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 14 Sep 2026 15:35:38 GMT"
     }
   ]
 }
