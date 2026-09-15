@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-15T20:57:48.179Z",
+  "updatedAt": "2026-09-15T23:29:07.998Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Én lettere skadet etter trusselsituasjon i Trondheim",
+      "link": "https://www.nrk.no/nyheter/en-lettere-skadet-etter-trusselsituasjon-i-trondheim-1.18026227",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 15 Sep 2026 22:32:26 GMT"
+    },
+    {
+      "title": "Beregning: Iran-krigen har kostet USA minst 38 milliarder dollar",
+      "link": "https://www.nrk.no/nyheter/beregning_-iran-krigen-har-kostet-usa-minst-38-milliarder-dollar-1.18026215",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 15 Sep 2026 20:57:39 GMT"
+    },
     {
       "title": "Flere artister trekker seg fra Sheeran-turné",
       "link": "https://www.nrk.no/nyheter/flere-artister-trekker-seg-fra-sheeran-turne-1.18026169",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/lakseloin-tilbakekalles-etter-mistanke-om-listeria-1.18025979",
       "category": "Mattrygghet",
       "pubDate": "Tue, 15 Sep 2026 18:26:32 GMT"
-    },
-    {
-      "title": "Styret i Kennedy-senteret vedtar nedleggelse",
-      "link": "https://www.nrk.no/nyheter/styret-i-kennedy-senteret-vedtar-nedleggelse-1.18026076",
-      "category": "USA",
-      "pubDate": "Tue, 15 Sep 2026 18:10:17 GMT"
-    },
-    {
-      "title": "Tek-gigantar jobbar med å oppretta felles KI-organ",
-      "link": "https://www.nrk.no/nyheter/tek-gigantar-jobbar-med-a-oppretta-felles-ki-organ-1.18025712",
-      "category": "Kunstig intelligens",
-      "pubDate": "Tue, 15 Sep 2026 16:57:47 GMT"
     }
   ]
 }
