@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-15T17:30:49.542Z",
+  "updatedAt": "2026-09-15T20:57:48.179Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Flere artister trekker seg fra Sheeran-turné",
+      "link": "https://www.nrk.no/nyheter/flere-artister-trekker-seg-fra-sheeran-turne-1.18026169",
+      "category": "Musikk",
+      "pubDate": "Tue, 15 Sep 2026 20:33:11 GMT"
+    },
+    {
+      "title": "Over 8 millioner filer beslaglagt i overgrepssak",
+      "link": "https://www.nrk.no/innlandet/over-8-millioner-filer-beslaglagt-i-overgrepssak-1.18025980",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Tue, 15 Sep 2026 19:02:50 GMT"
+    },
+    {
+      "title": "Person omkom etter påkjørsel",
+      "link": "https://www.nrk.no/nordland/person-omkom-etter-pakjorsel-1.18026015",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 15 Sep 2026 18:39:12 GMT"
+    },
+    {
+      "title": "Lakseloin tilbakekalles etter mistanke om listeria",
+      "link": "https://www.nrk.no/nyheter/lakseloin-tilbakekalles-etter-mistanke-om-listeria-1.18025979",
+      "category": "Mattrygghet",
+      "pubDate": "Tue, 15 Sep 2026 18:26:32 GMT"
+    },
+    {
+      "title": "Styret i Kennedy-senteret vedtar nedleggelse",
+      "link": "https://www.nrk.no/nyheter/styret-i-kennedy-senteret-vedtar-nedleggelse-1.18026076",
+      "category": "USA",
+      "pubDate": "Tue, 15 Sep 2026 18:10:17 GMT"
+    },
     {
       "title": "Tek-gigantar jobbar med å oppretta felles KI-organ",
       "link": "https://www.nrk.no/nyheter/tek-gigantar-jobbar-med-a-oppretta-felles-ki-organ-1.18025712",
       "category": "Kunstig intelligens",
       "pubDate": "Tue, 15 Sep 2026 16:57:47 GMT"
-    },
-    {
-      "title": "Bilbrann på E18 i Tønsberg",
-      "link": "https://www.nrk.no/vestfoldogtelemark/bilbrann-pa-e18-i-tonsberg-1.18026012",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 15 Sep 2026 16:39:19 GMT"
-    },
-    {
-      "title": "Norges eldste fabrikk legges ned",
-      "link": "https://www.nrk.no/vestfoldogtelemark/norges-eldste-fabrikk-legges-ned-1.18025857",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 15 Sep 2026 15:45:38 GMT"
-    },
-    {
-      "title": "Mindreårig siktet for drapsforsøk etter knivstikking i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/mindrearig-siktet-for-drapsforsok-etter-knivstikking-i-oslo-1.18025873",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 15 Sep 2026 14:47:45 GMT"
-    },
-    {
-      "title": "Russland hevder passasjertog er legitime mål – viser til tidligere «advarsel»",
-      "link": "https://www.nrk.no/nyheter/russland-hevder-passasjertog-er-legitime-mal-_-viser-til-tidligere-_advarsel_-1.18025770",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 15 Sep 2026 14:37:13 GMT"
-    },
-    {
-      "title": "Gravferd for prinsesse Astrid 23. september",
-      "link": "https://www.nrk.no/nyheter/gravferd-for-prinsesse-astrid-23.-september-1.18025711",
-      "category": "Kongefamilien",
-      "pubDate": "Tue, 15 Sep 2026 12:54:09 GMT"
     }
   ]
 }
