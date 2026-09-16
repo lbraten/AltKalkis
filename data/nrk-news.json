@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-16T17:31:04.460Z",
+  "updatedAt": "2026-09-16T20:59:34.775Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Flere digitale tjenester opplever problemer",
-      "link": "https://www.nrk.no/nyheter/flere-digitale-tjenester-opplever-problemer-1.18027263",
+      "title": "Trump mener renten burde vært satt ned",
+      "link": "https://www.nrk.no/nyheter/trump-mener-renten-burde-vaert-satt-ned-1.18027454",
+      "category": "USAs økonomi",
+      "pubDate": "Wed, 16 Sep 2026 20:41:51 GMT"
+    },
+    {
+      "title": "Sigrid til VG om Sheeran-bråket: – Forkastelig",
+      "link": "https://www.nrk.no/nyheter/sigrid-til-vg-om-sheeran-braket_-_-forkastelig-1.18027424",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 16 Sep 2026 16:55:14 GMT"
+      "pubDate": "Wed, 16 Sep 2026 20:23:46 GMT"
     },
     {
-      "title": "SVT: Håpet ute for de borgelige",
-      "link": "https://www.nrk.no/nyheter/svt_-hapet-ute-for-de-borgelige-1.18027187",
-      "category": "Sverige",
-      "pubDate": "Wed, 16 Sep 2026 16:31:37 GMT"
-    },
-    {
-      "title": "FN-sjefen slår KI-alarm",
-      "link": "https://www.nrk.no/nyheter/fn-sjefen-slar-ki-alarm-1.18027208",
-      "category": "Kunstig intelligens",
-      "pubDate": "Wed, 16 Sep 2026 15:51:16 GMT"
-    },
-    {
-      "title": "Sverige: Svært tett mellom blokkene",
-      "link": "https://www.nrk.no/nyheter/sverige_-svaert-tett-mellom-blokkene-1.18027186",
-      "category": "Sverige",
-      "pubDate": "Wed, 16 Sep 2026 15:16:31 GMT"
-    },
-    {
-      "title": "Antall savnede i Nepal stiger med 1000",
-      "link": "https://www.nrk.no/nyheter/antall-savnede-i-nepal-stiger-med-1000-1.18027128",
+      "title": "Tannstudie viser at Tyrannosaurus rex var varmblodig",
+      "link": "https://www.nrk.no/nyheter/tannstudie-viser-at-tyrannosaurus-rex-var-varmblodig-1.18027219",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 16 Sep 2026 15:16:11 GMT"
+      "pubDate": "Wed, 16 Sep 2026 19:53:12 GMT"
     },
     {
-      "title": "Foreldrepar siktet for drapsforsøk på spedbarn",
-      "link": "https://www.nrk.no/nyheter/-foreldrepar-siktet-for-drapsforsok-pa-spedbarn-1.18027069",
+      "title": "DN: Wall Street faller markant etter rentebeslutningen",
+      "link": "https://www.nrk.no/nyheter/dn_-wall-street-faller-markant-etter-rentebeslutningen-1.18027380",
+      "category": "USAs økonomi",
+      "pubDate": "Wed, 16 Sep 2026 19:27:25 GMT"
+    },
+    {
+      "title": "VG: Kun to vil bli ambassadør i Moskva",
+      "link": "https://www.nrk.no/nyheter/vg_-kun-to-vil-bli-ambassador-i-moskva-1.18027350",
       "category": "NRK Nyheter",
-      "pubDate": "Wed, 16 Sep 2026 14:34:33 GMT"
+      "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT"
+    },
+    {
+      "title": "Trosser Trump: USA setter opp renten",
+      "link": "https://www.nrk.no/nyheter/trosser-trump_-usa-setter-opp-renten-1.18027290",
+      "category": "USAs økonomi",
+      "pubDate": "Wed, 16 Sep 2026 18:00:43 GMT"
     }
   ]
 }
