@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-16T20:59:34.775Z",
+  "updatedAt": "2026-09-16T23:37:17.597Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Medier: Eksplosjoner i Kyiv",
+      "link": "https://www.nrk.no/nyheter/medier_-eksplosjoner-i-kyiv-1.18027485",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 16 Sep 2026 23:23:43 GMT"
+    },
+    {
+      "title": "Trump: Har fortsatt tillit til sentralbanksjefen",
+      "link": "https://www.nrk.no/nyheter/trump_-har-fortsatt-tillit-til-sentralbanksjefen-1.18027484",
+      "category": "USA",
+      "pubDate": "Wed, 16 Sep 2026 22:53:46 GMT"
+    },
     {
       "title": "Trump mener renten burde vært satt ned",
       "link": "https://www.nrk.no/nyheter/trump-mener-renten-burde-vaert-satt-ned-1.18027454",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/dn_-wall-street-faller-markant-etter-rentebeslutningen-1.18027380",
       "category": "USAs økonomi",
       "pubDate": "Wed, 16 Sep 2026 19:27:25 GMT"
-    },
-    {
-      "title": "VG: Kun to vil bli ambassadør i Moskva",
-      "link": "https://www.nrk.no/nyheter/vg_-kun-to-vil-bli-ambassador-i-moskva-1.18027350",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT"
-    },
-    {
-      "title": "Trosser Trump: USA setter opp renten",
-      "link": "https://www.nrk.no/nyheter/trosser-trump_-usa-setter-opp-renten-1.18027290",
-      "category": "USAs økonomi",
-      "pubDate": "Wed, 16 Sep 2026 18:00:43 GMT"
     }
   ]
 }
