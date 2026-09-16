@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-15T23:29:07.998Z",
+  "updatedAt": "2026-09-16T01:35:14.261Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Talsperson: – Stanset houthi-drone på vei mot Mekka",
+      "link": "https://www.nrk.no/nyheter/talsperson_-_-stanset-houthi-drone-pa-vei-mot-mekka-1.18026239",
+      "category": "Saudi-Arabia",
+      "pubDate": "Wed, 16 Sep 2026 00:52:53 GMT"
+    },
+    {
+      "title": "Republikaner vil stille Hegseth for riksrett",
+      "link": "https://www.nrk.no/nyheter/republikaner-vil-stille-hegseth-for-riksrett-1.18026238",
+      "category": "USA",
+      "pubDate": "Wed, 16 Sep 2026 00:19:06 GMT"
+    },
     {
       "title": "Én lettere skadet etter trusselsituasjon i Trondheim",
       "link": "https://www.nrk.no/nyheter/en-lettere-skadet-etter-trusselsituasjon-i-trondheim-1.18026227",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/innlandet/over-8-millioner-filer-beslaglagt-i-overgrepssak-1.18025980",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Tue, 15 Sep 2026 19:02:50 GMT"
-    },
-    {
-      "title": "Person omkom etter påkjørsel",
-      "link": "https://www.nrk.no/nordland/person-omkom-etter-pakjorsel-1.18026015",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Tue, 15 Sep 2026 18:39:12 GMT"
-    },
-    {
-      "title": "Lakseloin tilbakekalles etter mistanke om listeria",
-      "link": "https://www.nrk.no/nyheter/lakseloin-tilbakekalles-etter-mistanke-om-listeria-1.18025979",
-      "category": "Mattrygghet",
-      "pubDate": "Tue, 15 Sep 2026 18:26:32 GMT"
     }
   ]
 }
