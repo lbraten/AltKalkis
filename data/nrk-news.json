@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-17T18:26:42.636Z",
+  "updatedAt": "2026-09-17T21:38:21.110Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Duma-valget i Russland har startet",
+      "link": "https://www.nrk.no/nyheter/duma-valget-i-russland-har-startet-1.18028606",
+      "category": "Russland",
+      "pubDate": "Thu, 17 Sep 2026 20:41:04 GMT"
+    },
+    {
+      "title": "Iransk delegasjon får visum til USA",
+      "link": "https://www.nrk.no/nyheter/iransk-delegasjon-far-visum-til-usa-1.18028580",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Thu, 17 Sep 2026 18:44:32 GMT"
+    },
     {
       "title": "Trump sier han vil bygge ny militærbase i Polen",
       "link": "https://www.nrk.no/nyheter/trump-sier-han-vil-bygge-ny-militaerbase-i-polen-1.18028579",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tusk_-russland-planlegger-hybridangrep-mot-ukrainas-stottespillere-1.18028458",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 17 Sep 2026 15:23:57 GMT"
-    },
-    {
-      "title": "Regjeringen: Ukrainere kan søke om oppholdstillatelse hvis de er i jobb",
-      "link": "https://www.nrk.no/nyheter/regjeringen_-ukrainere-kan-soke-om-oppholdstillatelse-hvis-de-er-i-jobb-1.18028413",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 17 Sep 2026 15:00:08 GMT"
-    },
-    {
-      "title": "Evakuerer bebuarar etter brann i Sortland",
-      "link": "https://www.nrk.no/nordland/evakuerer-bebuarar-etter-brann-i-sortland-1.18028387",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Thu, 17 Sep 2026 14:57:41 GMT"
     }
   ]
 }
