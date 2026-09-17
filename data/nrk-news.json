@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-17T21:38:21.110Z",
+  "updatedAt": "2026-09-17T23:57:50.459Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Guvernør: Gruvearbeidere døde i varetekt i Nigeria",
+      "link": "https://www.nrk.no/nyheter/guvernor_-gruvearbeidere-dode-i-varetekt-i-nigeria-1.18028693",
+      "category": "Nigeria",
+      "pubDate": "Thu, 17 Sep 2026 23:35:20 GMT"
+    },
+    {
+      "title": "Iran: Har angrepet tankskip i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/iran_-har-angrepet-tankskip-i-hormuzstredet-1.18028691",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Thu, 17 Sep 2026 22:46:24 GMT"
+    },
+    {
+      "title": "Riksmekleren om togmekling: – Vil beskrive den som vanskelig",
+      "link": "https://www.nrk.no/nyheter/riksmekleren-om-togmekling_-_-vil-beskrive-den-som-vanskelig-1.18028690",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 17 Sep 2026 21:59:45 GMT"
+    },
     {
       "title": "Duma-valget i Russland har startet",
       "link": "https://www.nrk.no/nyheter/duma-valget-i-russland-har-startet-1.18028606",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-sier-han-vil-bygge-ny-militaerbase-i-polen-1.18028579",
       "category": "USA",
       "pubDate": "Thu, 17 Sep 2026 17:46:52 GMT"
-    },
-    {
-      "title": "FN-rapport: USA kan ha begått krigsforbrytelser i Iran",
-      "link": "https://www.nrk.no/nyheter/fn-rapport_-usa-kan-ha-begatt-krigsforbrytelser-i-iran-1.18028534",
-      "category": "Iran",
-      "pubDate": "Thu, 17 Sep 2026 16:59:02 GMT"
-    },
-    {
-      "title": "Fem til sykehus etter eksplosjon på skytefelt i Sverige",
-      "link": "https://www.nrk.no/nyheter/fem-til-sykehus-etter-eksplosjon-pa-skytefelt-i-sverige-1.18028473",
-      "category": "Sverige",
-      "pubDate": "Thu, 17 Sep 2026 15:53:39 GMT"
-    },
-    {
-      "title": "Tusk: Russland planlegger hybridangrep mot Ukrainas støttespillere",
-      "link": "https://www.nrk.no/nyheter/tusk_-russland-planlegger-hybridangrep-mot-ukrainas-stottespillere-1.18028458",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 17 Sep 2026 15:23:57 GMT"
     }
   ]
 }
