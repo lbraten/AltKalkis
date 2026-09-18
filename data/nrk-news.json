@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-09-18T20:33:52.894Z",
+  "updatedAt": "2026-09-18T23:05:26.703Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
+      "title": "Trump: USA har inngått sikkerhetsavtale med Grønland og Danmark",
+      "link": "https://www.nrk.no/nyheter/trump_-usa-har-inngatt-sikkerhetsavtale-med-gronland-og-danmark-1.18029906",
+      "category": "Grønland",
+      "pubDate": "Fri, 18 Sep 2026 21:31:16 GMT"
+    },
+    {
+      "title": "CNN: Et ulovlig angrep på pressefriheten",
+      "link": "https://www.nrk.no/nyheter/cnn_-et-ulovlig-angrep-pa-pressefriheten-1.18029893",
+      "category": "USA",
+      "pubDate": "Fri, 18 Sep 2026 20:56:53 GMT"
+    },
+    {
       "title": "Fiskebåt savnet utenfor Averøya i Møre og Romsdal",
       "link": "https://www.nrk.no/nyheter/fiskebat-savnet-utenfor-averoya-i-more-og-romsdal-1.18029870",
-      "category": "NRK Nyheter",
+      "category": "Nyheitssenter Møre og Romsdal",
       "pubDate": "Fri, 18 Sep 2026 20:32:13 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-reddet-opp-fra-seilbat-i-nod-i-nordsjoen-1.18029832",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 18 Sep 2026 19:37:40 GMT"
-    },
-    {
-      "title": "Trump vil kaste ut flere medier fra Det hvite hus",
-      "link": "https://www.nrk.no/nyheter/trump-vil-kaste-ut-flere-medier-fra-det-hvite-hus-1.18029842",
-      "category": "USA",
-      "pubDate": "Fri, 18 Sep 2026 19:07:27 GMT"
-    },
-    {
-      "title": "Kraftig brann i kjøretøy på E 18 i Lier",
-      "link": "https://www.nrk.no/buskerud/kraftig-brann-i-kjoretoy-pa-e-18-i-lier-1.18029841",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Fri, 18 Sep 2026 19:07:26 GMT"
     }
   ]
 }
