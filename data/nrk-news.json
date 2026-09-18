@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-17T23:57:50.459Z",
+  "updatedAt": "2026-09-18T04:27:47.708Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FN: Minst 26 drept i sammenstøt i Sør-Sudan",
+      "link": "https://www.nrk.no/nyheter/fn_-minst-26-drept-i-sammenstot-i-sor-sudan-1.18028698",
+      "category": "Sør-Sudan",
+      "pubDate": "Fri, 18 Sep 2026 02:11:15 GMT"
+    },
+    {
+      "title": "Brukerbasert app: Diesel kostet over 30 kroner mange steder torsdag",
+      "link": "https://www.nrk.no/nyheter/-brukerbasert-app_-diesel-kostet-over-30-kroner-mange-steder-torsdag-1.18028697",
+      "category": "Høye drivstoffpriser",
+      "pubDate": "Fri, 18 Sep 2026 01:52:47 GMT"
+    },
+    {
+      "title": "Lar verkstedbygning brenne ned i Sortland",
+      "link": "https://www.nrk.no/nyheter/lar-verkstedbygning-brenne-ned-i-sortland-1.18028695",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Fri, 18 Sep 2026 00:48:09 GMT"
+    },
     {
       "title": "Guvernør: Gruvearbeidere døde i varetekt i Nigeria",
       "link": "https://www.nrk.no/nyheter/guvernor_-gruvearbeidere-dode-i-varetekt-i-nigeria-1.18028693",
@@ -17,26 +35,8 @@
     {
       "title": "Riksmekleren om togmekling: – Vil beskrive den som vanskelig",
       "link": "https://www.nrk.no/nyheter/riksmekleren-om-togmekling_-_-vil-beskrive-den-som-vanskelig-1.18028690",
-      "category": "NRK Nyheter",
+      "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Thu, 17 Sep 2026 21:59:45 GMT"
-    },
-    {
-      "title": "Duma-valget i Russland har startet",
-      "link": "https://www.nrk.no/nyheter/duma-valget-i-russland-har-startet-1.18028606",
-      "category": "Russland",
-      "pubDate": "Thu, 17 Sep 2026 20:41:04 GMT"
-    },
-    {
-      "title": "Iransk delegasjon får visum til USA",
-      "link": "https://www.nrk.no/nyheter/iransk-delegasjon-far-visum-til-usa-1.18028580",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Thu, 17 Sep 2026 18:44:32 GMT"
-    },
-    {
-      "title": "Trump sier han vil bygge ny militærbase i Polen",
-      "link": "https://www.nrk.no/nyheter/trump-sier-han-vil-bygge-ny-militaerbase-i-polen-1.18028579",
-      "category": "USA",
-      "pubDate": "Thu, 17 Sep 2026 17:46:52 GMT"
     }
   ]
 }
