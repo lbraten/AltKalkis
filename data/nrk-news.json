@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-19T20:11:33.027Z",
+  "updatedAt": "2026-09-19T22:24:34.732Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Saudi-Arabia bekrefter missilangrep",
+      "link": "https://www.nrk.no/nyheter/saudi-arabia-bekrefter-missilangrep-1.18030493",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 19 Sep 2026 22:20:40 GMT"
+    },
+    {
+      "title": "Søker to mistenkte etter knivstikking i Bodø",
+      "link": "https://www.nrk.no/nyheter/soker-to-mistenkte-etter-knivstikking-i-bodo-1.18030449",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 19 Sep 2026 20:14:26 GMT"
+    },
     {
       "title": "Krever at Trump opphever utestengelsen av journalister",
       "link": "https://www.nrk.no/nyheter/krever-at-trump-opphever-utestengelsen-av-journalister-1.18030425",
@@ -15,28 +27,16 @@
       "pubDate": "Sat, 19 Sep 2026 18:23:53 GMT"
     },
     {
+      "title": "Redningsaksjon i Ullensvang",
+      "link": "https://www.nrk.no/vestland/redningsaksjon-i-ullensvang-1.18030423",
+      "category": "Krim og hendingar i Vestland",
+      "pubDate": "Sat, 19 Sep 2026 18:00:13 GMT"
+    },
+    {
       "title": "Politiet: Søker etter mistenkt etter påtent brann i Oslo",
       "link": "https://www.nrk.no/nyheter/politiet_-soker-etter-mistenkt-etter-patent-brann-i-oslo-1.18030401",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 19 Sep 2026 17:37:54 GMT"
-    },
-    {
-      "title": "AFP: Tek-topper skal delta på møte med Xi i Det hvite hus",
-      "link": "https://www.nrk.no/nyheter/afp_-tek-topper-skal-delta-pa-mote-med-xi-i-det-hvite-hus-1.18030398",
-      "category": "USA og Kina",
-      "pubDate": "Sat, 19 Sep 2026 17:11:00 GMT"
-    },
-    {
-      "title": "Houthiene sier de angrep Saudi-Arabia med missiler og droner",
-      "link": "https://www.nrk.no/nyheter/houthiene-sier-de-angrep-saudi-arabia-med-missiler-og-droner-1.18030363",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 19 Sep 2026 17:08:39 GMT"
-    },
-    {
-      "title": "Person knivstukket i Fredrikstad",
-      "link": "https://www.nrk.no/ostfold/person-knivstukket-i-fredrikstad-1.18030371",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 19 Sep 2026 16:54:36 GMT"
     }
   ]
 }
