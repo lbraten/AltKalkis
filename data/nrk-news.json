@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-20T05:13:36.001Z",
+  "updatedAt": "2026-09-20T09:59:04.499Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Savnet mann funnet død i Ullensvang",
-      "link": "https://www.nrk.no/nyheter/savnet-mann-funnet-dod-i-ullensvang-1.18030523",
-      "category": "Krim og hendingar i Vestland",
-      "pubDate": "Sun, 20 Sep 2026 04:39:02 GMT"
+      "title": "En person død etter påkjørsel i Malvik",
+      "link": "https://www.nrk.no/nyheter/en-person-dod_etter-pakjorsel-i-malvik-1.18030600",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 20 Sep 2026 09:45:28 GMT"
     },
     {
-      "title": "Vy: 163 togavganger innstilt søndag",
-      "link": "https://www.nrk.no/nyheter/vy_-163-togavganger-innstilt-sondag-1.18030514",
+      "title": "Søker etter antatt omkomne fisketurister",
+      "link": "https://www.nrk.no/mr/soker-etter-antatt-omkomne-fisketurister--1.18030636",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sun, 20 Sep 2026 09:25:34 GMT"
+    },
+    {
+      "title": "Alvorlig påkjørsel i Malvik",
+      "link": "https://www.nrk.no/trondelag/alvorlig-pakjorsel-i-malvik-1.18030567",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sun, 20 Sep 2026 08:44:40 GMT"
+    },
+    {
+      "title": "Jordskred over E39 i Sunnfjord",
+      "link": "https://www.nrk.no/vestland/jordskred-over-e39-i-sunnfjord-1.18030585",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sun, 20 Sep 2026 08:19:42 GMT"
+    },
+    {
+      "title": "VG: Norsk kvinne omkom etter fallulykke i Spania",
+      "link": "https://www.nrk.no/nyheter/vg_-norsk-kvinne-omkom-etter-fallulykke-i-spania-1.18030594",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 20 Sep 2026 07:11:30 GMT"
+    },
+    {
+      "title": "Flere tog innstilt",
+      "link": "https://www.nrk.no/nyheter/flere-tog-innstilt--1.18030549",
       "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 20 Sep 2026 03:47:29 GMT"
-    },
-    {
-      "title": "Luxembourg gransker droneobservasjon ved flyplass",
-      "link": "https://www.nrk.no/nyheter/luxembourg-gransker-droneobservasjon-ved-flyplass-1.18030511",
-      "category": "Droner",
-      "pubDate": "Sun, 20 Sep 2026 02:24:48 GMT"
-    },
-    {
-      "title": "Sheeran kommenterte Gaza-kritikken fra scenen",
-      "link": "https://www.nrk.no/nyheter/sheeran-kommenterte-gaza-kritikken-fra-scenen-1.18030510",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sun, 20 Sep 2026 01:15:26 GMT"
-    },
-    {
-      "title": "Fire drept i båtangrep i Karibia",
-      "link": "https://www.nrk.no/nyheter/fire-drept-i-batangrep-i-karibia-1.18030509",
-      "category": "USA",
-      "pubDate": "Sun, 20 Sep 2026 00:18:18 GMT"
-    },
-    {
-      "title": "Ukraina: To barn blant de drepte i russisk luftangrep",
-      "link": "https://www.nrk.no/nyheter/ukraina_-to-barn-blant-de-drepte-i-russisk-luftangrep-1.18030508",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 19 Sep 2026 23:36:37 GMT"
+      "pubDate": "Sun, 20 Sep 2026 06:56:14 GMT"
     }
   ]
 }
