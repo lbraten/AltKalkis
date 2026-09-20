@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-20T00:16:14.860Z",
+  "updatedAt": "2026-09-20T05:13:36.001Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Savnet mann funnet død i Ullensvang",
+      "link": "https://www.nrk.no/nyheter/savnet-mann-funnet-dod-i-ullensvang-1.18030523",
+      "category": "Krim og hendingar i Vestland",
+      "pubDate": "Sun, 20 Sep 2026 04:39:02 GMT"
+    },
+    {
+      "title": "Vy: 163 togavganger innstilt søndag",
+      "link": "https://www.nrk.no/nyheter/vy_-163-togavganger-innstilt-sondag-1.18030514",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sun, 20 Sep 2026 03:47:29 GMT"
+    },
+    {
+      "title": "Luxembourg gransker droneobservasjon ved flyplass",
+      "link": "https://www.nrk.no/nyheter/luxembourg-gransker-droneobservasjon-ved-flyplass-1.18030511",
+      "category": "Droner",
+      "pubDate": "Sun, 20 Sep 2026 02:24:48 GMT"
+    },
+    {
+      "title": "Sheeran kommenterte Gaza-kritikken fra scenen",
+      "link": "https://www.nrk.no/nyheter/sheeran-kommenterte-gaza-kritikken-fra-scenen-1.18030510",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sun, 20 Sep 2026 01:15:26 GMT"
+    },
+    {
+      "title": "Fire drept i båtangrep i Karibia",
+      "link": "https://www.nrk.no/nyheter/fire-drept-i-batangrep-i-karibia-1.18030509",
+      "category": "USA",
+      "pubDate": "Sun, 20 Sep 2026 00:18:18 GMT"
+    },
     {
       "title": "Ukraina: To barn blant de drepte i russisk luftangrep",
       "link": "https://www.nrk.no/nyheter/ukraina_-to-barn-blant-de-drepte-i-russisk-luftangrep-1.18030508",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 19 Sep 2026 23:36:37 GMT"
-    },
-    {
-      "title": "Saudi-Arabia bekrefter missilangrep",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia-bekrefter-missilangrep-1.18030493",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 19 Sep 2026 22:20:40 GMT"
-    },
-    {
-      "title": "Søker to mistenkte etter knivstikking i Bodø",
-      "link": "https://www.nrk.no/nyheter/soker-to-mistenkte-etter-knivstikking-i-bodo-1.18030449",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 19 Sep 2026 20:14:26 GMT"
-    },
-    {
-      "title": "Krever at Trump opphever utestengelsen av journalister",
-      "link": "https://www.nrk.no/nyheter/krever-at-trump-opphever-utestengelsen-av-journalister-1.18030425",
-      "category": "Medier",
-      "pubDate": "Sat, 19 Sep 2026 18:27:00 GMT"
-    },
-    {
-      "title": "Kvinne påkjørt i Trondheim – fører stakk fra stedet",
-      "link": "https://www.nrk.no/trondelag/kvinne-pakjort-i-trondheim-_-forer-stakk-fra-stedet-1.18030367",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 19 Sep 2026 18:23:53 GMT"
-    },
-    {
-      "title": "Redningsaksjon i Ullensvang",
-      "link": "https://www.nrk.no/vestland/redningsaksjon-i-ullensvang-1.18030423",
-      "category": "Krim og hendingar i Vestland",
-      "pubDate": "Sat, 19 Sep 2026 18:00:13 GMT"
     }
   ]
 }
