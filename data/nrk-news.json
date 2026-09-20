@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-09-20T09:59:04.499Z",
+  "updatedAt": "2026-09-20T14:06:15.388Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Israeler drept på den okkuperte Vestbredden",
+      "link": "https://www.nrk.no/nyheter/israeler-drept-pa-den-okkuperte-vestbredden-1.18030655",
+      "category": "Israels bosettinger på Vestbredden",
+      "pubDate": "Sun, 20 Sep 2026 11:45:21 GMT"
+    },
     {
       "title": "En person død etter påkjørsel i Malvik",
       "link": "https://www.nrk.no/nyheter/en-person-dod_etter-pakjorsel-i-malvik-1.18030600",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/vg_-norsk-kvinne-omkom-etter-fallulykke-i-spania-1.18030594",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 20 Sep 2026 07:11:30 GMT"
-    },
-    {
-      "title": "Flere tog innstilt",
-      "link": "https://www.nrk.no/nyheter/flere-tog-innstilt--1.18030549",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sun, 20 Sep 2026 06:56:14 GMT"
     }
   ]
 }
