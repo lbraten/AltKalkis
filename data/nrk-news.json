@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-20T14:06:15.388Z",
+  "updatedAt": "2026-09-20T17:34:40.138Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i Oslo: – Mye røyk og åpne flammer",
+      "link": "https://www.nrk.no/nyheter/brann-i-oslo_-_-mye-royk-og-apne-flammer-1.18030854",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 20 Sep 2026 16:39:49 GMT"
+    },
+    {
+      "title": "Sterk valgdagsmåling for AfD i delstatsvalget",
+      "link": "https://www.nrk.no/nyheter/sterk-valgdagsmaling-for-afd-i-delstatsvalget-1.18030852",
+      "category": "Tyskland",
+      "pubDate": "Sun, 20 Sep 2026 16:04:25 GMT"
+    },
+    {
+      "title": "Trump: Houthiene enige om å ikke angripe USA",
+      "link": "https://www.nrk.no/nyheter/trump_-houthiene-enige-om-a-ikke-angripe-usa-1.18030782",
+      "category": "Jemen",
+      "pubDate": "Sun, 20 Sep 2026 14:56:41 GMT"
+    },
+    {
+      "title": "Vågslidtunnelen stengt etter ulykke",
+      "link": "https://www.nrk.no/vestfoldogtelemark/vagslidtunnelen-stengt-etter-ulykke-1.18030752",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sun, 20 Sep 2026 14:33:18 GMT"
+    },
+    {
+      "title": "Eksplosjon nær Erbil-flyplassen i Irak",
+      "link": "https://www.nrk.no/nyheter/eksplosjon-naer-erbil-flyplassen-i-irak-1.18030721",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 20 Sep 2026 14:27:22 GMT"
+    },
     {
       "title": "Israeler drept på den okkuperte Vestbredden",
       "link": "https://www.nrk.no/nyheter/israeler-drept-pa-den-okkuperte-vestbredden-1.18030655",
       "category": "Israels bosettinger på Vestbredden",
       "pubDate": "Sun, 20 Sep 2026 11:45:21 GMT"
-    },
-    {
-      "title": "En person død etter påkjørsel i Malvik",
-      "link": "https://www.nrk.no/nyheter/en-person-dod_etter-pakjorsel-i-malvik-1.18030600",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 20 Sep 2026 09:45:28 GMT"
-    },
-    {
-      "title": "Søker etter antatt omkomne fisketurister",
-      "link": "https://www.nrk.no/mr/soker-etter-antatt-omkomne-fisketurister--1.18030636",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sun, 20 Sep 2026 09:25:34 GMT"
-    },
-    {
-      "title": "Alvorlig påkjørsel i Malvik",
-      "link": "https://www.nrk.no/trondelag/alvorlig-pakjorsel-i-malvik-1.18030567",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 20 Sep 2026 08:44:40 GMT"
-    },
-    {
-      "title": "Jordskred over E39 i Sunnfjord",
-      "link": "https://www.nrk.no/vestland/jordskred-over-e39-i-sunnfjord-1.18030585",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 20 Sep 2026 08:19:42 GMT"
-    },
-    {
-      "title": "VG: Norsk kvinne omkom etter fallulykke i Spania",
-      "link": "https://www.nrk.no/nyheter/vg_-norsk-kvinne-omkom-etter-fallulykke-i-spania-1.18030594",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 20 Sep 2026 07:11:30 GMT"
     }
   ]
 }
