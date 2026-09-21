@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-21T00:53:38.409Z",
+  "updatedAt": "2026-09-21T05:58:15.685Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Texas: Mann skutt og såret av ICE-agent",
-      "link": "https://www.nrk.no/nyheter/texas_-mann-skutt-og-saret-av-ice-agent-1.18030995",
-      "category": "USA",
-      "pubDate": "Sun, 20 Sep 2026 23:19:14 GMT"
+      "title": "Russland hevder å ha angrepet ukrainske lasteskip",
+      "link": "https://www.nrk.no/nyheter/russland-hevder-a-ha-angrepet-ukrainske-lasteskip-1.18031113",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 21 Sep 2026 05:56:55 GMT"
     },
     {
-      "title": "SV-veteran stiller til valg for Oslo SV",
-      "link": "https://www.nrk.no/nyheter/sv-veteran-stiller-til-valg-for-oslo-sv-1.18030994",
-      "category": "Sosialistisk venstreparti (SV)",
-      "pubDate": "Sun, 20 Sep 2026 21:14:05 GMT"
+      "title": "Snø på Sognefjellet",
+      "link": "https://www.nrk.no/innlandet/sno-pa-sognefjellet-1.18031098",
+      "category": "Trafikk i Innlandet",
+      "pubDate": "Mon, 21 Sep 2026 05:37:58 GMT"
     },
     {
-      "title": "CDU under sperregrensen i Mecklenburg-Vorpommern",
-      "link": "https://www.nrk.no/nyheter/cdu-under-sperregrensen-i-mecklenburg-vorpommern--1.18030973",
+      "title": "Ny skoleplan skal snu Pisa-tallene",
+      "link": "https://www.nrk.no/nyheter/ny-skoleplan-skal-snu-pisa-tallene-1.18031068",
+      "category": "Skole",
+      "pubDate": "Mon, 21 Sep 2026 05:26:01 GMT"
+    },
+    {
+      "title": "Togstreiken: 124 togavganger innstilt mandag",
+      "link": "https://www.nrk.no/nyheter/togstreiken_-124-togavganger-innstilt-mandag-1.18031003",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Mon, 21 Sep 2026 03:39:17 GMT"
+    },
+    {
+      "title": "Medier: CDU under sperregrensen i delstatsvalg",
+      "link": "https://www.nrk.no/nyheter/medier_-cdu-under-sperregrensen-i-delstatsvalg-1.18031002",
       "category": "Tyskland",
-      "pubDate": "Sun, 20 Sep 2026 20:20:56 GMT"
+      "pubDate": "Mon, 21 Sep 2026 02:58:37 GMT"
     },
     {
-      "title": "Haaland kåret til årets mannlige stilikon",
-      "link": "https://www.nrk.no/nyheter/haaland-karet-til-arets-mannlige-stilikon-1.18030967",
-      "category": "Design og mote",
-      "pubDate": "Sun, 20 Sep 2026 19:37:58 GMT"
-    },
-    {
-      "title": "Irans utenriksminister deltar på FNs generalforsamling",
-      "link": "https://www.nrk.no/nyheter/irans-utenriksminister-deltar-pa-fns-generalforsamling-1.18030943",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 20 Sep 2026 19:26:37 GMT"
-    },
-    {
-      "title": "Én person omkommet etter trafikkulykke i Vinje",
-      "link": "https://www.nrk.no/nyheter/en-person-omkommet-etter-trafikkulykke-i-vinje-1.18030927",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 20 Sep 2026 18:45:08 GMT"
+      "title": "Brann i to biler på Vestli i Oslo",
+      "link": "https://www.nrk.no/nyheter/brann-i-to-biler-pa-vestli-i-oslo-1.18030999",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 21 Sep 2026 01:59:39 GMT"
     }
   ]
 }
