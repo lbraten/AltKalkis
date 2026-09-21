@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-09-20T22:39:12.839Z",
+  "updatedAt": "2026-09-21T00:53:38.409Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Texas: Mann skutt og såret av ICE-agent",
+      "link": "https://www.nrk.no/nyheter/texas_-mann-skutt-og-saret-av-ice-agent-1.18030995",
+      "category": "USA",
+      "pubDate": "Sun, 20 Sep 2026 23:19:14 GMT"
+    },
     {
       "title": "SV-veteran stiller til valg for Oslo SV",
       "link": "https://www.nrk.no/nyheter/sv-veteran-stiller-til-valg-for-oslo-sv-1.18030994",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/en-person-omkommet-etter-trafikkulykke-i-vinje-1.18030927",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 20 Sep 2026 18:45:08 GMT"
-    },
-    {
-      "title": "Zelenskyj: Skal møte Trump i New York",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-skal-mote-trump-i-new-york--1.18030926",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 20 Sep 2026 18:21:46 GMT"
     }
   ]
 }
