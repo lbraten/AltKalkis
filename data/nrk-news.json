@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-09-21T18:31:16.654Z",
+  "updatedAt": "2026-09-21T22:29:02.433Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Medlemmer av Irans FN-delegasjon nektes innreise til USA",
+      "link": "https://www.nrk.no/nyheter/medlemmer-av-irans-fn-delegasjon-nektes-innreise-til-usa-1.18032188",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 21 Sep 2026 20:41:18 GMT"
+    },
     {
       "title": "Norge bidrar med 1 mrd. i vaksinesamarbeid",
       "link": "https://www.nrk.no/nyheter/norge-bidrar-med-1-mrd.-i-vaksinesamarbeid-1.18032024",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/vestland/mann-siktet-for-voldtekt-av-mindrearige-i-bergen-1.18031985",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Mon, 21 Sep 2026 16:02:25 GMT"
-    },
-    {
-      "title": "Enighet om Warner-overtakelse",
-      "link": "https://www.nrk.no/nyheter/enighet-om-warner-overtakelse-1.18031977",
-      "category": "USA",
-      "pubDate": "Mon, 21 Sep 2026 15:56:18 GMT"
     }
   ]
 }
