@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-21T12:38:55.676Z",
+  "updatedAt": "2026-09-21T18:31:16.654Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "CNBC: USA og Kina med samarbeid om KI-sikkerhet",
-      "link": "https://www.nrk.no/nyheter/cnbc_-usa-og-kina-med-samarbeid-om-ki-sikkerhet-1.18031746",
+      "title": "Norge bidrar med 1 mrd. i vaksinesamarbeid",
+      "link": "https://www.nrk.no/nyheter/norge-bidrar-med-1-mrd.-i-vaksinesamarbeid-1.18032024",
+      "category": "Støre-regjeringen",
+      "pubDate": "Mon, 21 Sep 2026 18:13:11 GMT"
+    },
+    {
+      "title": "Danmark: Skriver under Grønland-avtale tirsdag",
+      "link": "https://www.nrk.no/nyheter/danmark_-skriver-under-gronland-avtale-tirsdag-1.18032068",
+      "category": "Grønland",
+      "pubDate": "Mon, 21 Sep 2026 17:32:15 GMT"
+    },
+    {
+      "title": "E24: DNB forbyr KI-briller",
+      "link": "https://www.nrk.no/nyheter/e24_-dnb-forbyr-ki-briller-1.18032010",
       "category": "Kunstig intelligens",
-      "pubDate": "Mon, 21 Sep 2026 12:27:56 GMT"
+      "pubDate": "Mon, 21 Sep 2026 16:52:26 GMT"
     },
     {
-      "title": "California innfører årlig Dolly Parton-dag",
-      "link": "https://www.nrk.no/nyheter/california-innforer-arlig-dolly-parton-dag-1.18031668",
-      "category": "Kjendiser og underholdning",
-      "pubDate": "Mon, 21 Sep 2026 11:49:21 GMT"
+      "title": "Øker antall innstilte tog",
+      "link": "https://www.nrk.no/nyheter/oker-antall-innstilte-tog-1.18031976",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Mon, 21 Sep 2026 16:34:33 GMT"
     },
     {
-      "title": "Ny væpnet allianse ønsker regimeskifte i Etiopia",
-      "link": "https://www.nrk.no/nyheter/ny-vaepnet-allianse-onsker-regimeskifte-i-etiopia-1.18031625",
-      "category": "Etiopia",
-      "pubDate": "Mon, 21 Sep 2026 11:41:38 GMT"
-    },
-    {
-      "title": "Datasentrenes strømforbruk er nesten firedoblet på tre år",
-      "link": "https://www.nrk.no/nyheter/datasentrenes-stromforbruk-er-nesten-firedoblet-pa-tre-ar-1.18031470",
-      "category": "Datasenter",
-      "pubDate": "Mon, 21 Sep 2026 11:20:08 GMT"
-    },
-    {
-      "title": "Varsler pålegg til Equinor og Vår Energi etter støyutfordringer",
-      "link": "https://www.nrk.no/vestland/varsler-palegg-til-equinor-og-var-energi-etter-stoyutfordringer-1.18031383",
+      "title": "Mann siktet for voldtekt av mindreårige i Bergen",
+      "link": "https://www.nrk.no/vestland/mann-siktet-for-voldtekt-av-mindrearige-i-bergen-1.18031985",
       "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 21 Sep 2026 10:53:06 GMT"
+      "pubDate": "Mon, 21 Sep 2026 16:02:25 GMT"
     },
     {
-      "title": "CNN, Politico og MS NOW saksøker Trump-administrasjonen",
-      "link": "https://www.nrk.no/nyheter/cnn_-politico-og-ms-now-saksoker-trump-administrasjonen-1.18031514",
+      "title": "Enighet om Warner-overtakelse",
+      "link": "https://www.nrk.no/nyheter/enighet-om-warner-overtakelse-1.18031977",
       "category": "USA",
-      "pubDate": "Mon, 21 Sep 2026 10:25:05 GMT"
+      "pubDate": "Mon, 21 Sep 2026 15:56:18 GMT"
     }
   ]
 }
