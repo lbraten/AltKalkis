@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-09-22T20:24:00.653Z",
+  "updatedAt": "2026-09-22T23:10:20.687Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "EU enige om å oppheve sanksjoner mot russiske oligarke",
+      "link": "https://www.nrk.no/nyheter/eu-enige-om-a-oppheve-sanksjoner-mot-russiske-oligarke-1.18033497",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 22 Sep 2026 21:03:11 GMT"
+    },
     {
       "title": "Iran la frem sine betingelser for USA",
       "link": "https://www.nrk.no/nyheter/iran-la-frem-sine-betingelser-for-usa-1.18033458",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-og-zelenskyj-mottes-1.18033373",
       "category": "USA",
       "pubDate": "Tue, 22 Sep 2026 17:59:50 GMT"
-    },
-    {
-      "title": "Grønlands regjeringssjef: Nå kan vi senke skuldrene",
-      "link": "https://www.nrk.no/nyheter/gronlands-regjeringssjef_-na-kan-vi-senke-skuldrene-1.18033361",
-      "category": "Grønland",
-      "pubDate": "Tue, 22 Sep 2026 17:26:29 GMT"
     }
   ]
 }
