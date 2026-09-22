@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-21T22:29:02.433Z",
+  "updatedAt": "2026-09-22T01:04:34.574Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ingen streik i boligbyggelagene",
+      "link": "https://www.nrk.no/nyheter/ingen-streik-i-boligbyggelagene-1.18032213",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 22 Sep 2026 00:57:48 GMT"
+    },
+    {
+      "title": "Seks drept i saudi-angrep mot Mokka, ifølge houthiene",
+      "link": "https://www.nrk.no/nyheter/seks-drept-i-saudi-angrep-mot-mokka_-ifolge-houthiene-1.18032212",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Tue, 22 Sep 2026 00:45:31 GMT"
+    },
+    {
+      "title": "Macron og Trump har diskutert Rødehavet og Ukraina",
+      "link": "https://www.nrk.no/nyheter/macron-og-trump-har-diskutert-rodehavet-og-ukraina-1.18032211",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 22 Sep 2026 00:24:18 GMT"
+    },
+    {
+      "title": "Fem meldt drept i russiske angrep i Ukraina",
+      "link": "https://www.nrk.no/nyheter/fem-meldt-drept-i-russiske-angrep-i-ukraina-1.18032210",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 22 Sep 2026 00:09:56 GMT"
+    },
+    {
+      "title": "Flytrafikken i gang igjen på USAs østkyst",
+      "link": "https://www.nrk.no/nyheter/flytrafikken-i-gang-igjen-pa-usas-ostkyst-1.18032189",
+      "category": "USA",
+      "pubDate": "Mon, 21 Sep 2026 22:50:08 GMT"
+    },
     {
       "title": "Medlemmer av Irans FN-delegasjon nektes innreise til USA",
       "link": "https://www.nrk.no/nyheter/medlemmer-av-irans-fn-delegasjon-nektes-innreise-til-usa-1.18032188",
       "category": "Krigen i Midtøsten",
       "pubDate": "Mon, 21 Sep 2026 20:41:18 GMT"
-    },
-    {
-      "title": "Norge bidrar med 1 mrd. i vaksinesamarbeid",
-      "link": "https://www.nrk.no/nyheter/norge-bidrar-med-1-mrd.-i-vaksinesamarbeid-1.18032024",
-      "category": "Støre-regjeringen",
-      "pubDate": "Mon, 21 Sep 2026 18:13:11 GMT"
-    },
-    {
-      "title": "Danmark: Skriver under Grønland-avtale tirsdag",
-      "link": "https://www.nrk.no/nyheter/danmark_-skriver-under-gronland-avtale-tirsdag-1.18032068",
-      "category": "Grønland",
-      "pubDate": "Mon, 21 Sep 2026 17:32:15 GMT"
-    },
-    {
-      "title": "E24: DNB forbyr KI-briller",
-      "link": "https://www.nrk.no/nyheter/e24_-dnb-forbyr-ki-briller-1.18032010",
-      "category": "Kunstig intelligens",
-      "pubDate": "Mon, 21 Sep 2026 16:52:26 GMT"
-    },
-    {
-      "title": "Øker antall innstilte tog",
-      "link": "https://www.nrk.no/nyheter/oker-antall-innstilte-tog-1.18031976",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Mon, 21 Sep 2026 16:34:33 GMT"
-    },
-    {
-      "title": "Mann siktet for voldtekt av mindreårige i Bergen",
-      "link": "https://www.nrk.no/vestland/mann-siktet-for-voldtekt-av-mindrearige-i-bergen-1.18031985",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 21 Sep 2026 16:02:25 GMT"
     }
   ]
 }
