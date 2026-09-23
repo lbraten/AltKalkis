@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-23T17:48:10.170Z",
+  "updatedAt": "2026-09-23T21:13:45.086Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Melding om skudd mot bolig i Ullensaker – søker gjerningspersoner",
+      "link": "https://www.nrk.no/nyheter/melding-om-skudd-mot-bolig-i-ullensaker-_-soker-gjerningspersoner-1.18034803",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Wed, 23 Sep 2026 20:07:04 GMT"
+    },
+    {
+      "title": "Reuters: Datainnbrudd hos FBI",
+      "link": "https://www.nrk.no/nyheter/reuters_-datainnbrudd-hos-fbi-1.18034813",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 23 Sep 2026 19:29:21 GMT"
+    },
+    {
+      "title": "Støre møtte Irans president i FN",
+      "link": "https://www.nrk.no/nyheter/store-motte-irans-president-i-fn-1.18034792",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 23 Sep 2026 18:55:01 GMT"
+    },
+    {
+      "title": "Overtent bustad og bil i Øygarden",
+      "link": "https://www.nrk.no/vestland/overtent-bustad-og-bil-i-oygarden--1.18034758",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 23 Sep 2026 18:52:59 GMT"
+    },
+    {
+      "title": "Det hvite hus avviser diesel-nyhet",
+      "link": "https://www.nrk.no/nyheter/det-hvite-hus-avviser-diesel-nyhet-1.18034745",
+      "category": "USA",
+      "pubDate": "Wed, 23 Sep 2026 18:43:51 GMT"
+    },
     {
       "title": "Ukraina: Fem drept i bombeangrep",
       "link": "https://www.nrk.no/nyheter/ukraina_-fem-drept-i-bombeangrep-1.18034733",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 23 Sep 2026 17:25:29 GMT"
-    },
-    {
-      "title": "Falt fra stige i Akershus – fremstår ikke kritisk",
-      "link": "https://www.nrk.no/nyheter/falt-fra-stige-i-akershus-_-fremstar-ikke-kritisk-1.18034729",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 23 Sep 2026 17:11:11 GMT"
-    },
-    {
-      "title": "USA i FN: Fordømmer forsøk på å utvide krigen i Ukraina",
-      "link": "https://www.nrk.no/nyheter/usa-i-fn_-fordommer-forsok-pa-a-utvide-krigen-i-ukraina-1.18034690",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 23 Sep 2026 17:08:52 GMT"
-    },
-    {
-      "title": "AFP: Indisk statsborger drept i angrep i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/afp_-indisk-statsborger-drept-i-angrep-i-hormuzstredet-1.18034622",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 23 Sep 2026 16:23:43 GMT"
-    },
-    {
-      "title": "Ungdomsgjeng truet andre med machete",
-      "link": "https://www.nrk.no/stor-oslo/ungdomsgjeng-truet-andre-med-machete-1.18034393",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 23 Sep 2026 16:22:43 GMT"
-    },
-    {
-      "title": "«Nysgjerrige Noah» Emmy-nominert",
-      "link": "https://www.nrk.no/nyheter/_nysgjerrige-noah_-emmy-nominert--1.18034660",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 23 Sep 2026 16:11:38 GMT"
     }
   ]
 }
