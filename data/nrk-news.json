@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-25T15:54:15.752Z",
+  "updatedAt": "2026-09-25T19:53:26.883Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyj: Russland angriper datasentre i Ukraina",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-russland-angriper-datasentre-i-ukraina-1.18037151",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 25 Sep 2026 19:39:53 GMT"
+    },
+    {
+      "title": "Jury fann Meta skuldig i å ha villeia brukarar",
+      "link": "https://www.nrk.no/nyheter/jury-fann-meta-skuldig-i-a-ha-villeia-brukarar-1.18037117",
+      "category": "Cambridge Analytica",
+      "pubDate": "Fri, 25 Sep 2026 18:18:44 GMT"
+    },
+    {
+      "title": "Sigrid Sollunds siste sending i «Dagsnytt 18»",
+      "link": "https://www.nrk.no/nyheter/sigrid-sollunds-siste-sending-i-_dagsnytt-18_-1.18037058",
+      "category": "Medier",
+      "pubDate": "Fri, 25 Sep 2026 17:14:41 GMT"
+    },
+    {
+      "title": "Fabian Stang: Vil gi kong Harald en egen gate",
+      "link": "https://www.nrk.no/stor-oslo/fabian-stang_-vil-gi-kong-harald-en-egen-gate-1.18037066",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Fri, 25 Sep 2026 15:41:22 GMT"
+    },
     {
       "title": "Xi og Trump fornøgde med USA-besøket",
       "link": "https://www.nrk.no/nyheter/xi-og-trump-fornogde-med-usa-besoket-1.18037006",
@@ -9,34 +33,10 @@
       "pubDate": "Fri, 25 Sep 2026 15:28:47 GMT"
     },
     {
-      "title": "All trafikk stoppet etter observasjon av gutt inne i togtunnel",
-      "link": "https://www.nrk.no/nordland/all-trafikk-stoppet-etter-observasjon-av-gutt-inne-i-togtunnel-1.18037026",
+      "title": "All trafikk ble stoppet etter observasjon av gutt inne i togtunnel",
+      "link": "https://www.nrk.no/nordland/all-trafikk-ble-stoppet-etter-observasjon-av-gutt-inne-i-togtunnel-1.18037026",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Fri, 25 Sep 2026 15:28:04 GMT"
-    },
-    {
-      "title": "Teknisk trøbbel for Skatteetaten løst",
-      "link": "https://www.nrk.no/nyheter/teknisk-trobbel-for-skatteetaten-lost-1.18036970",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 25 Sep 2026 14:25:39 GMT"
-    },
-    {
-      "title": "Omstridt menighet i Asker er frikjent",
-      "link": "https://www.nrk.no/stor-oslo/omstridt-menighet-i-asker-er-frikjent-1.18036556",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 25 Sep 2026 14:13:45 GMT"
-    },
-    {
-      "title": "Equinor forbyr smartbriller",
-      "link": "https://www.nrk.no/nyheter/equinor-forbyr-smartbriller-1.18036944",
-      "category": "Equinor",
-      "pubDate": "Fri, 25 Sep 2026 14:05:11 GMT"
-    },
-    {
-      "title": "Ny person sikta i Lørenskog-saka",
-      "link": "https://www.nrk.no/nyheter/ny-person-sikta-i-lorenskog-saka-1.18036930",
-      "category": "Anne-Elisabeth Hagen savnet",
-      "pubDate": "Fri, 25 Sep 2026 13:41:07 GMT"
     }
   ]
 }
