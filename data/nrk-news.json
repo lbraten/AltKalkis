@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-24T22:03:54.198Z",
+  "updatedAt": "2026-09-25T00:41:16.359Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "205 ansatte i olje- og gassnæringen går ut i streik",
+      "link": "https://www.nrk.no/nyheter/205-ansatte-i-olje--og-gassnaeringen-gar-ut-i-streik-1.18036174",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Fri, 25 Sep 2026 00:11:06 GMT"
+    },
+    {
+      "title": "IS-angrep i Niger - minst 57 drept",
+      "link": "https://www.nrk.no/nyheter/is-angrep-i-niger---minst-57-drept--1.18036167",
+      "category": "Niger",
+      "pubDate": "Thu, 24 Sep 2026 23:08:46 GMT"
+    },
+    {
+      "title": "Antibiotikabruken går ned",
+      "link": "https://www.nrk.no/nyheter/antibiotikabruken-gar-ned-1.18036143",
+      "category": "Antibiotika",
+      "pubDate": "Thu, 24 Sep 2026 22:36:23 GMT"
+    },
     {
       "title": "Fortellerprisen 2026 går til Torbjørn Ekelund",
       "link": "https://www.nrk.no/nyheter/fortellerprisen-2026-gar-til-torbjorn-ekelund-1.18036151",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/eide_-_-urovekkende-tale-fra-netanyahu-1.18036044",
       "category": "Israel",
       "pubDate": "Thu, 24 Sep 2026 19:09:41 GMT"
-    },
-    {
-      "title": "Macron: – CIA har ikke advart Fransk etterretning om russiske angrep",
-      "link": "https://www.nrk.no/nyheter/macron_-_-cia-har-ikke-advart-fransk-etterretning-om-russiske-angrep-1.18036028",
-      "category": "Frankrike",
-      "pubDate": "Thu, 24 Sep 2026 18:40:13 GMT"
-    },
-    {
-      "title": "Motorsykkel traff fotgjengere i Oslo",
-      "link": "https://www.nrk.no/stor-oslo/motorsykkel-traff-fotgjengere-i-oslo-1.18036025",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 24 Sep 2026 18:37:14 GMT"
-    },
-    {
-      "title": "Nethanyahu på talerstolen i FN - flere forlot salen",
-      "link": "https://www.nrk.no/nyheter/nethanyahu-pa-talerstolen-i-fn---flere-forlot-salen-1.18035922",
-      "category": "De forente nasjoner (FN)",
-      "pubDate": "Thu, 24 Sep 2026 18:16:36 GMT"
     }
   ]
 }
