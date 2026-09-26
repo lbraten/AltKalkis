@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-26T19:34:33.168Z",
+  "updatedAt": "2026-09-26T22:27:47.989Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Iran venter på svar fra Trump",
+      "link": "https://www.nrk.no/nyheter/iran-venter-pa-svar-fra-trump-1.18037712",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 26 Sep 2026 21:45:18 GMT"
+    },
+    {
+      "title": "Elg på E6 i Østfold avlivet – veien åpnet igjen",
+      "link": "https://www.nrk.no/nyheter/elg-pa-e6-i-ostfold-avlivet-_-veien-apnet-igjen-1.18037711",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 26 Sep 2026 20:44:13 GMT"
+    },
+    {
+      "title": "EU-kommisjonen gir krisehjelp til fordrevne i Afrika",
+      "link": "https://www.nrk.no/nyheter/eu-kommisjonen-gir-krisehjelp-til-fordrevne-i-afrika--1.18037614",
+      "category": "EU-kommisjonen",
+      "pubDate": "Sat, 26 Sep 2026 20:26:35 GMT"
+    },
+    {
+      "title": "17 omkom i flyulykke i DR Kongo",
+      "link": "https://www.nrk.no/nyheter/17-omkom-i-flyulykke-i-dr-kongo--1.18037678",
+      "category": "DR Kongo",
+      "pubDate": "Sat, 26 Sep 2026 19:50:42 GMT"
+    },
+    {
+      "title": "Elg løper på E6",
+      "link": "https://www.nrk.no/ostfold/elg-loper-pa-e6-1.18037684",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 26 Sep 2026 19:20:51 GMT"
+    },
     {
       "title": "Russland anklager Europa for å blokkere Ukraina-samtaler",
       "link": "https://www.nrk.no/nyheter/russland-anklager-europa-for-a-blokkere-ukraina-samtaler-1.18037636",
       "category": "Russland",
       "pubDate": "Sat, 26 Sep 2026 19:02:45 GMT"
-    },
-    {
-      "title": "Paven har landet i Lourdes",
-      "link": "https://www.nrk.no/nyheter/paven-har-landet-i--lourdes-1.18037632",
-      "category": "Paven og Vatikanet",
-      "pubDate": "Sat, 26 Sep 2026 17:28:04 GMT"
-    },
-    {
-      "title": "Saudi-Arabia ber verden gjøre mer for å beskytte skipstrafikken",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia-ber-verden-gjore-mer-for-a-beskytte-skipstrafikken-1.18037563",
-      "category": "Saudi-Arabia",
-      "pubDate": "Sat, 26 Sep 2026 17:22:03 GMT"
-    },
-    {
-      "title": "Lavrov: – Russland klar til å bidra i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/lavrov_-_-russland-klar-til-a-bidra-i-hormuzstredet-1.18037557",
-      "category": "Russland",
-      "pubDate": "Sat, 26 Sep 2026 16:39:07 GMT"
-    },
-    {
-      "title": "Trump: Avviser Irans forslag for gjenåpning av Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/trump_-avviser-irans-forslag-for-gjenapning-av-hormuzstredet-1.18037562",
-      "category": "Donald Trump",
-      "pubDate": "Sat, 26 Sep 2026 15:11:21 GMT"
-    },
-    {
-      "title": "Trump sier han ikke vil 'integrere' med Kina om KI",
-      "link": "https://www.nrk.no/nyheter/trump-sier-han-ikke-vil-_integrere_-med-kina-om-ki-1.18037546",
-      "category": "Kina",
-      "pubDate": "Sat, 26 Sep 2026 15:06:56 GMT"
     }
   ]
 }
