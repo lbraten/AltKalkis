@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-26T07:11:41.019Z",
+  "updatedAt": "2026-09-26T12:20:49.237Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann siktet for drapsforsøk etter knivstikking på matbutikk i Bærum",
+      "link": "https://www.nrk.no/stor-oslo/mann-siktet-for-drapsforsok-etter-knivstikking-pa-matbutikk-i-baerum-1.18037303",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sat, 26 Sep 2026 09:21:23 GMT"
+    },
+    {
+      "title": "Regjeringa vil doble klimastøtta til FN",
+      "link": "https://www.nrk.no/nyheter/regjeringa-vil-doble-klimastotta-til-fn-1.18037326",
+      "category": "Klima og miljø",
+      "pubDate": "Sat, 26 Sep 2026 09:16:35 GMT"
+    },
+    {
+      "title": "Mann pågrepet for grov voldekt av barn i Bergensområdet",
+      "link": "https://www.nrk.no/vestland/mann-pagrepet-for-grov-voldekt-av-barn-i-bergensomradet-1.18037291",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 26 Sep 2026 08:48:20 GMT"
+    },
+    {
+      "title": "Turist død etter eksplosjon i Aten",
+      "link": "https://www.nrk.no/nyheter/turist-dod-etter-eksplosjon-i-aten-1.18037296",
+      "category": "Hellas",
+      "pubDate": "Sat, 26 Sep 2026 07:54:55 GMT"
+    },
+    {
+      "title": "Skal gjøre søk i sjøen etter savnet person i Haugesund",
+      "link": "https://www.nrk.no/rogaland/skal-gjore-sok-i-sjoen-etter-savnet-person-i-haugesund-1.18037307",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sat, 26 Sep 2026 07:16:48 GMT"
+    },
     {
       "title": "Professor får sjå dokument frå Rød-Larsens kjellarbod",
       "link": "https://www.nrk.no/nyheter/professor-far-sja-dokument-fra-rod-larsens-kjellarbod-1.18037270",
       "category": "Jeffrey Epstein-saken",
       "pubDate": "Sat, 26 Sep 2026 06:37:00 GMT"
-    },
-    {
-      "title": "Nordea aukar rentene",
-      "link": "https://www.nrk.no/nyheter/nordea-aukar-rentene-1.18037252",
-      "category": "Renter og sparing",
-      "pubDate": "Sat, 26 Sep 2026 06:13:48 GMT"
-    },
-    {
-      "title": "Store oversvømmelser i Bangkok",
-      "link": "https://www.nrk.no/nyheter/store-oversvommelser-i-bangkok-1.18037248",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 26 Sep 2026 04:16:36 GMT"
-    },
-    {
-      "title": "CNN utestenges fra Trump-reise",
-      "link": "https://www.nrk.no/nyheter/cnn-utestenges-fra-trump-reise-1.18037242",
-      "category": "USA",
-      "pubDate": "Sat, 26 Sep 2026 03:13:12 GMT"
-    },
-    {
-      "title": "KI-verktøy fra OpenAI skaper mer trøbbel",
-      "link": "https://www.nrk.no/nyheter/ki-verktoy-fra-openai-skaper-mer-trobbel-1.18037245",
-      "category": "Kunstig intelligens",
-      "pubDate": "Sat, 26 Sep 2026 02:29:10 GMT"
-    },
-    {
-      "title": "Tiktok inngår milliardforlik med Alabama",
-      "link": "https://www.nrk.no/nyheter/tiktok-inngar-milliardforlik-med-alabama-1.18037244",
-      "category": "TikTok",
-      "pubDate": "Sat, 26 Sep 2026 02:14:26 GMT"
     }
   ]
 }
