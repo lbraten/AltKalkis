@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-27T17:10:15.304Z",
+  "updatedAt": "2026-09-27T20:18:50.583Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Protester i Madrid mot utkastelse av eldre kvinne",
-      "link": "https://www.nrk.no/nyheter/protester-i-madrid-mot-utkastelse-av-eldre-kvinne--1.18038123",
+      "title": "Disputt over krigsfanger: Sør Korea krever at Ukraina beklager",
+      "link": "https://www.nrk.no/nyheter/disputt-over-krigsfanger_-sor-korea-krever-at-ukraina-beklager--1.18038221",
+      "category": "Sør-Korea",
+      "pubDate": "Sun, 27 Sep 2026 20:18:02 GMT"
+    },
+    {
+      "title": "Tusenvis blokkerte Oransjeordenen-parade i Nord-Irland",
+      "link": "https://www.nrk.no/nyheter/tusenvis-blokkerte-oransjeordenen-parade-i-nord-irland-1.18038219",
       "category": "NRK Nyheter",
-      "pubDate": "Sun, 27 Sep 2026 16:50:30 GMT"
+      "pubDate": "Sun, 27 Sep 2026 20:05:20 GMT"
     },
     {
-      "title": "USA kaller Irans våpenhvileforslag for 'kynisk'",
-      "link": "https://www.nrk.no/nyheter/usa-kaller-irans-vapenhvileforslag-for-_kynisk_-1.18038081",
-      "category": "Forholdet Iran – USA",
-      "pubDate": "Sun, 27 Sep 2026 16:10:51 GMT"
-    },
-    {
-      "title": "TV-stasjon i Tigray-regionen rammet av drone",
-      "link": "https://www.nrk.no/nyheter/tv-stasjon-i-tigray-regionen_rammet-av-drone-1.18038060",
-      "category": "Etiopia",
-      "pubDate": "Sun, 27 Sep 2026 15:49:26 GMT"
-    },
-    {
-      "title": "Trump sier terrormistenkte planla å gjøre stor skade",
-      "link": "https://www.nrk.no/nyheter/trump-sier-terrormistenkte-planla-a-gjore-stor-skade--1.18038046",
-      "category": "Storbritannia",
-      "pubDate": "Sun, 27 Sep 2026 15:43:05 GMT"
-    },
-    {
-      "title": "Hizbollah-leder avviser at Israel har klart å knekke dem",
-      "link": "https://www.nrk.no/nyheter/hizbollah-leder-avviser-at-israel-har-klart-a-knekke-dem-1.18038036",
-      "category": "Libanon og Israel",
-      "pubDate": "Sun, 27 Sep 2026 15:25:14 GMT"
-    },
-    {
-      "title": "Minst seks drept i russiske angrep i Ukraina",
-      "link": "https://www.nrk.no/nyheter/minst-seks-drept-i-russiske-angrep-i-ukraina-1.18037947",
+      "title": "To drept i russisk droneangrep",
+      "link": "https://www.nrk.no/nyheter/to-drept-i-russisk-droneangrep--1.18038214",
       "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 27 Sep 2026 15:06:28 GMT"
+      "pubDate": "Sun, 27 Sep 2026 20:00:53 GMT"
+    },
+    {
+      "title": "Framgang for Le Pens parti i det franske Senatet",
+      "link": "https://www.nrk.no/nyheter/framgang-for-le-pens-parti-i-det-franske-senatet-1.18038204",
+      "category": "Frankrike",
+      "pubDate": "Sun, 27 Sep 2026 19:47:06 GMT"
+    },
+    {
+      "title": "Forskere har bygget verdens mest nøyaktige klokke",
+      "link": "https://www.nrk.no/nyheter/forskere-har-bygget-verdens-mest-noyaktige-klokke-1.18038202",
+      "category": "Teknologi og oppfinnelser",
+      "pubDate": "Sun, 27 Sep 2026 19:20:16 GMT"
+    },
+    {
+      "title": "Syria sier de har arrestert IS-medlemmer som planla angrep",
+      "link": "https://www.nrk.no/nyheter/syria-sier-de-har-arrestert-is-medlemmer-som-planla-angrep---1.18038191",
+      "category": "Syria",
+      "pubDate": "Sun, 27 Sep 2026 19:13:43 GMT"
     }
   ]
 }
