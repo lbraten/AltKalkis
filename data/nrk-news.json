@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-09-27T20:18:50.583Z",
+  "updatedAt": "2026-09-27T23:17:29.100Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Disputt over krigsfanger: Sør Korea krever at Ukraina beklager",
+      "title": "Flertall vil gi Riksdagens leder fornyet tillit",
+      "link": "https://www.nrk.no/nyheter/flertall-vil-gi-riksdagens-leder-fornyet-tillit-1.18038261",
+      "category": "Sverige",
+      "pubDate": "Sun, 27 Sep 2026 23:01:13 GMT"
+    },
+    {
+      "title": "Tenåringer såret da bursdagsfest endte i skuddveksling i USA",
+      "link": "https://www.nrk.no/nyheter/tenaringer-saret-da-bursdagsfest-endte-i-skuddveksling-i-usa-1.18038260",
+      "category": "USA",
+      "pubDate": "Sun, 27 Sep 2026 22:17:19 GMT"
+    },
+    {
+      "title": "Britiske medier: Skal ha funnet sprengstoff i bilene",
+      "link": "https://www.nrk.no/nyheter/britiske-medier_-skal-ha-funnet-sprengstoff-i-bilene-1.18038230",
+      "category": "Storbritannia",
+      "pubDate": "Sun, 27 Sep 2026 20:29:39 GMT"
+    },
+    {
+      "title": "Disputt over krigsfanger: Sør-Korea krever at Ukraina beklager",
       "link": "https://www.nrk.no/nyheter/disputt-over-krigsfanger_-sor-korea-krever-at-ukraina-beklager--1.18038221",
       "category": "Sør-Korea",
       "pubDate": "Sun, 27 Sep 2026 20:18:02 GMT"
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/to-drept-i-russisk-droneangrep--1.18038214",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 27 Sep 2026 20:00:53 GMT"
-    },
-    {
-      "title": "Framgang for Le Pens parti i det franske Senatet",
-      "link": "https://www.nrk.no/nyheter/framgang-for-le-pens-parti-i-det-franske-senatet-1.18038204",
-      "category": "Frankrike",
-      "pubDate": "Sun, 27 Sep 2026 19:47:06 GMT"
-    },
-    {
-      "title": "Forskere har bygget verdens mest nøyaktige klokke",
-      "link": "https://www.nrk.no/nyheter/forskere-har-bygget-verdens-mest-noyaktige-klokke-1.18038202",
-      "category": "Teknologi og oppfinnelser",
-      "pubDate": "Sun, 27 Sep 2026 19:20:16 GMT"
-    },
-    {
-      "title": "Syria sier de har arrestert IS-medlemmer som planla angrep",
-      "link": "https://www.nrk.no/nyheter/syria-sier-de-har-arrestert-is-medlemmer-som-planla-angrep---1.18038191",
-      "category": "Syria",
-      "pubDate": "Sun, 27 Sep 2026 19:13:43 GMT"
     }
   ]
 }
