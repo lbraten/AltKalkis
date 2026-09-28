@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-28T08:22:03.957Z",
+  "updatedAt": "2026-09-28T16:55:17.019Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "NRKs nye Asia-korrespondent",
-      "link": "https://www.nrk.no/nyheter/nrks-nye-asia-korrespondent-1.18038542",
-      "category": "NRK",
-      "pubDate": "Mon, 28 Sep 2026 08:10:44 GMT"
+      "title": "SpaceX’ Starship-rakett har landet",
+      "link": "https://www.nrk.no/nyheter/spacex_-starship-rakett-har-landet-1.18039182",
+      "category": "SpaceX",
+      "pubDate": "Mon, 28 Sep 2026 16:26:30 GMT"
     },
     {
-      "title": "Magdalena Andersson klarer ikke danne regjering",
-      "link": "https://www.nrk.no/nyheter/magdalena-andersson-klarer-ikke-danne-regjering-1.18038463",
+      "title": "Ansatte ved norske ambassader saksøker Utenriksdepartementet",
+      "link": "https://www.nrk.no/nyheter/-ansatte-ved-norske-ambassader-saksoker-utenriksdepartementet-1.18039161",
+      "category": "Arbeidsliv",
+      "pubDate": "Mon, 28 Sep 2026 16:17:35 GMT"
+    },
+    {
+      "title": "Togstrekningen mellom Asker og Drammen stengt",
+      "link": "https://www.nrk.no/buskerud/togstrekningen-mellom-asker-og-drammen-stengt-1.18039139",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Mon, 28 Sep 2026 15:59:20 GMT"
+    },
+    {
+      "title": "Svensk talmann møter partilederne onsdag",
+      "link": "https://www.nrk.no/nyheter/svensk-talmann-moter-partilederne-onsdag-1.18039152",
       "category": "Sverige",
-      "pubDate": "Mon, 28 Sep 2026 07:35:05 GMT"
+      "pubDate": "Mon, 28 Sep 2026 15:47:20 GMT"
     },
     {
-      "title": "Rivingen og ryddingen etter storbrannen starter nå",
-      "link": "https://www.nrk.no/buskerud/rivingen-og-ryddingen-etter-storbrannen-starter-na-1.18038440",
-      "category": "Storbrann i Krokstadelva",
-      "pubDate": "Mon, 28 Sep 2026 07:01:31 GMT"
+      "title": "Komiker dømt for hån mot Tyrkias president",
+      "link": "https://www.nrk.no/nyheter/komiker-domt-for-han-mot-tyrkias-president-1.18039138",
+      "category": "Tyrkia",
+      "pubDate": "Mon, 28 Sep 2026 15:28:55 GMT"
     },
     {
-      "title": "EU: Russland planlegger flere sabotasjeaksjoner i Europa",
-      "link": "https://www.nrk.no/nyheter/eu_-russland-planlegger-flere-sabotasjeaksjoner-i-europa-1.18038406",
-      "category": "Russland og EU",
-      "pubDate": "Mon, 28 Sep 2026 06:41:30 GMT"
-    },
-    {
-      "title": "Setter av 800 millioner til ungdomskriminalitet – avviser «svenske tilstander»",
-      "link": "https://www.nrk.no/nyheter/setter-av-800-millioner-til-ungdomskriminalitet-_-avviser-_svenske-tilstander_-1.18038375",
-      "category": "Ungdomskriminalitet",
-      "pubDate": "Mon, 28 Sep 2026 05:52:31 GMT"
-    },
-    {
-      "title": "Deeyah Khan får Kulturrådets ærespris",
-      "link": "https://www.nrk.no/nyheter/deeyah-khan-far-kulturradets-aerespris-1.18038330",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 28 Sep 2026 05:15:16 GMT"
+      "title": "Fem omkom i brann ved pyroteknisk fabrikk",
+      "link": "https://www.nrk.no/nyheter/fem-omkom-i-brann-ved-pyroteknisk-fabrikk--1.18039134",
+      "category": "Russland",
+      "pubDate": "Mon, 28 Sep 2026 15:09:18 GMT"
     }
   ]
 }
