@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-27T23:17:29.100Z",
+  "updatedAt": "2026-09-28T01:53:42.527Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lokførerforbundet: Kontakt med Vy i helgen",
+      "link": "https://www.nrk.no/nyheter/lokforerforbundet_-kontakt-med-vy-i-helgen-1.18038274",
+      "category": "high",
+      "pubDate": "Mon, 28 Sep 2026 01:12:49 GMT"
+    },
+    {
+      "title": "Mistenkte krigsforbrytere pågrepet i Kosovo",
+      "link": "https://www.nrk.no/nyheter/mistenkte-krigsforbrytere-pagrepet-i-kosovo-1.18038273",
+      "category": "Kosovo",
+      "pubDate": "Mon, 28 Sep 2026 00:39:24 GMT"
+    },
+    {
+      "title": "Irak: – USAs militære har trukket seg helt ut",
+      "link": "https://www.nrk.no/nyheter/irak_-_-usas-militaere-har-trukket-seg-helt-ut-1.18038272",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 28 Sep 2026 00:17:38 GMT"
+    },
+    {
+      "title": "Ordførerposter glapp for AfD",
+      "link": "https://www.nrk.no/nyheter/ordforerposter-glapp-for-afd-1.18038267",
+      "category": "Tyskland",
+      "pubDate": "Sun, 27 Sep 2026 23:56:19 GMT"
+    },
     {
       "title": "Flertall vil gi Riksdagens leder fornyet tillit",
       "link": "https://www.nrk.no/nyheter/flertall-vil-gi-riksdagens-leder-fornyet-tillit-1.18038261",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tenaringer-saret-da-bursdagsfest-endte-i-skuddveksling-i-usa-1.18038260",
       "category": "USA",
       "pubDate": "Sun, 27 Sep 2026 22:17:19 GMT"
-    },
-    {
-      "title": "Britiske medier: Skal ha funnet sprengstoff i bilene",
-      "link": "https://www.nrk.no/nyheter/britiske-medier_-skal-ha-funnet-sprengstoff-i-bilene-1.18038230",
-      "category": "Storbritannia",
-      "pubDate": "Sun, 27 Sep 2026 20:29:39 GMT"
-    },
-    {
-      "title": "Disputt over krigsfanger: Sør-Korea krever at Ukraina beklager",
-      "link": "https://www.nrk.no/nyheter/disputt-over-krigsfanger_-sor-korea-krever-at-ukraina-beklager--1.18038221",
-      "category": "Sør-Korea",
-      "pubDate": "Sun, 27 Sep 2026 20:18:02 GMT"
-    },
-    {
-      "title": "Tusenvis blokkerte Oransjeordenen-parade i Nord-Irland",
-      "link": "https://www.nrk.no/nyheter/tusenvis-blokkerte-oransjeordenen-parade-i-nord-irland-1.18038219",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 27 Sep 2026 20:05:20 GMT"
-    },
-    {
-      "title": "To drept i russisk droneangrep",
-      "link": "https://www.nrk.no/nyheter/to-drept-i-russisk-droneangrep--1.18038214",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 27 Sep 2026 20:00:53 GMT"
     }
   ]
 }
