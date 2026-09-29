@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-29T20:09:56.791Z",
+  "updatedAt": "2026-09-29T23:53:52.207Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Boeing får ny gigantkontrakt fra Pentagon",
+      "link": "https://www.nrk.no/nyheter/boeing-far-ny-gigantkontrakt-fra-pentagon-1.18040499",
+      "category": "Boeing",
+      "pubDate": "Tue, 29 Sep 2026 22:36:25 GMT"
+    },
+    {
+      "title": "Nord-Korea truer Sør-Korea etter mineeksplosjon",
+      "link": "https://www.nrk.no/nyheter/nord-korea-truer-sor-korea-etter-mineeksplosjon-1.18040490",
+      "category": "Forholdet mellom Sør- og Nord-Korea",
+      "pubDate": "Tue, 29 Sep 2026 22:15:00 GMT"
+    },
+    {
+      "title": "Streiken i private barnehager er avblåst",
+      "link": "https://www.nrk.no/nyheter/streiken-i-private-barnehager-er-avblast-1.18040486",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 29 Sep 2026 21:19:33 GMT"
+    },
+    {
+      "title": "Trump: KI-topper signerer «moralsk bindende» avtale om selvregulering",
+      "link": "https://www.nrk.no/nyheter/trump_-ki-topper-signerer-_moralsk-bindende_-avtale-om-selvregulering-1.18040479",
+      "category": "Kunstig intelligens",
+      "pubDate": "Tue, 29 Sep 2026 20:49:39 GMT"
+    },
     {
       "title": "Frankrike: 440 arrestert etter skoleprotester",
       "link": "https://www.nrk.no/nyheter/frankrike_-440-arrestert-etter-skoleprotester-1.18040439",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-far-fortsette-med-deportasjon-av-migranter-til-tredjeland-1.18040418",
       "category": "USA",
       "pubDate": "Tue, 29 Sep 2026 19:23:54 GMT"
-    },
-    {
-      "title": "Trump: Vil ikkje ha statleg regulering av KI",
-      "link": "https://www.nrk.no/nyheter/trump_-vil-ikkje-ha-statleg-regulering-av-ki-1.18040232",
-      "category": "Kunstig intelligens",
-      "pubDate": "Tue, 29 Sep 2026 19:00:24 GMT"
-    },
-    {
-      "title": "Telenor-problemer: Opptil 20.000 rammet",
-      "link": "https://www.nrk.no/nyheter/telenor-problemer_-opptil-20.000-rammet-1.18040374",
-      "category": "Telenor",
-      "pubDate": "Tue, 29 Sep 2026 18:39:19 GMT"
-    },
-    {
-      "title": "Tekniske problemer på NRK.no",
-      "link": "https://www.nrk.no/nyheter/tekniske-problemer-pa-nrk.no-1.18040339",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 29 Sep 2026 17:42:10 GMT"
-    },
-    {
-      "title": "Fant ikke eksplosiver etter terror-pågripelser",
-      "link": "https://www.nrk.no/nyheter/fant-ikke-eksplosiver-etter-terror-pagripelser-1.18040302",
-      "category": "Storbritannia",
-      "pubDate": "Tue, 29 Sep 2026 17:15:09 GMT"
     }
   ]
 }
