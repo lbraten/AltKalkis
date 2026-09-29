@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-28T22:26:13.699Z",
+  "updatedAt": "2026-09-29T02:12:27.552Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Putin øker størrelsen på hæren",
-      "link": "https://www.nrk.no/nyheter/putin-oker-storrelsen-pa-haeren-1.18039380",
+      "title": "Dødsdømt mann i USA løslates etter 41 år",
+      "link": "https://www.nrk.no/nyheter/dodsdomt-mann-i-usa-loslates-etter-41-ar-1.18039386",
+      "category": "USA",
+      "pubDate": "Tue, 29 Sep 2026 00:39:59 GMT"
+    },
+    {
+      "title": "OpenAI utsetter ny KI-modell",
+      "link": "https://www.nrk.no/nyheter/openai-utsetter-ny-ki-modell-1.18039385",
+      "category": "Kunstig intelligens",
+      "pubDate": "Tue, 29 Sep 2026 00:18:37 GMT"
+    },
+    {
+      "title": "40 personer reddet etter forlis utenfor Puerto Rico",
+      "link": "https://www.nrk.no/nyheter/40-personer-reddet-etter-forlis-utenfor-puerto-rico-1.18039384",
+      "category": "Migranter fra Mellom-Amerika",
+      "pubDate": "Mon, 28 Sep 2026 23:56:53 GMT"
+    },
+    {
+      "title": "Opprørere i Colombia dømt for rekruttering av barn",
+      "link": "https://www.nrk.no/nyheter/opprorere-i-colombia-domt-for-rekruttering-av-barn-1.18039383",
+      "category": "Colombia",
+      "pubDate": "Mon, 28 Sep 2026 23:25:32 GMT"
+    },
+    {
+      "title": "Missilvarsel og eksplosjoner i Kyiv",
+      "link": "https://www.nrk.no/nyheter/missilvarsel-og-eksplosjoner-i-kyiv-1.18039382",
       "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 28 Sep 2026 22:05:41 GMT"
+      "pubDate": "Mon, 28 Sep 2026 23:17:13 GMT"
     },
     {
-      "title": "Har reparert strømkabel til Danmark",
-      "link": "https://www.nrk.no/nyheter/har-reparert-stromkabel-til-danmark-1.18039379",
-      "category": "Strømpriser",
-      "pubDate": "Mon, 28 Sep 2026 21:55:13 GMT"
-    },
-    {
-      "title": "Maricarmen (87) får flytte tilbake til leiligheten",
-      "link": "https://www.nrk.no/nyheter/maricarmen-_87_-far-flytte-tilbake-til-leiligheten-1.18039357",
-      "category": "Spania",
-      "pubDate": "Mon, 28 Sep 2026 20:34:23 GMT"
-    },
-    {
-      "title": "Paven sier bekymring rundt KI bør tas på alvor",
-      "link": "https://www.nrk.no/nyheter/paven-sier-bekymring-rundt-ki-bor-tas-pa-alvor-1.18039348",
-      "category": "Paven og Vatikanet",
-      "pubDate": "Mon, 28 Sep 2026 20:17:47 GMT"
-    },
-    {
-      "title": "Over 80 døde i flommer i indisk delstat",
-      "link": "https://www.nrk.no/nyheter/over-80-dode-i-flommer-i-indisk-delstat-1.18039316",
-      "category": "India",
-      "pubDate": "Mon, 28 Sep 2026 20:13:07 GMT"
-    },
-    {
-      "title": "KI-toppene samles til møte i Det hvite hus",
-      "link": "https://www.nrk.no/nyheter/ki-toppene-samles-til-mote-i-det-hvite-hus-1.18039332",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 28 Sep 2026 19:43:35 GMT"
+      "title": "Mistenkt sabotasje mot gassledning i Syria",
+      "link": "https://www.nrk.no/nyheter/mistenkt-sabotasje-mot-gassledning-i-syria-1.18039381",
+      "category": "Syria",
+      "pubDate": "Mon, 28 Sep 2026 22:26:33 GMT"
     }
   ]
 }
