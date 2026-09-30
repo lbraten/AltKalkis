@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-30T16:46:37.243Z",
+  "updatedAt": "2026-09-30T21:17:17.847Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Italia forlenger grensekontrollen mot Spania",
+      "link": "https://www.nrk.no/nyheter/italia-forlenger-grensekontrollen-mot-spania-1.18041506",
+      "category": "Migranter i Europa",
+      "pubDate": "Wed, 30 Sep 2026 18:34:33 GMT"
+    },
+    {
+      "title": "Elg stoppet trafikk på E18",
+      "link": "https://www.nrk.no/vestfoldogtelemark/elg-stoppet-trafikk-pa-e18-1.18041483",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 30 Sep 2026 18:10:54 GMT"
+    },
+    {
+      "title": "Nobelkomitéen bekymret for utviklingen i Etiopia",
+      "link": "https://www.nrk.no/nyheter/nobelkomiteen-bekymret-for-utviklingen-i-etiopia-1.18041253",
+      "category": "Etiopia",
+      "pubDate": "Wed, 30 Sep 2026 17:36:19 GMT"
+    },
+    {
+      "title": "Nordic Mining-sjefen gir seg på dagen",
+      "link": "https://www.nrk.no/vestland/nordic-mining-sjefen-gir-seg-pa-dagen-1.18041504",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Wed, 30 Sep 2026 17:34:46 GMT"
+    },
     {
       "title": "Britisk statsminister: Sterke indikasjoner på at Iran var involvert i hendelsen ved Fairford flybase",
       "link": "https://www.nrk.no/nyheter/britisk-statsminister_-sterke-indikasjoner-pa-at-iran-var-involvert-i-hendelsen-ved-fairford-flybase-1.18041326",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/vestland/regjeringen-gir-gront-lys-til-tomming-av-gruveavfall-i-fordefjorden-i-tre-ar-fremover-1.18041420",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Wed, 30 Sep 2026 15:54:26 GMT"
-    },
-    {
-      "title": "Seks menn dømt for drap etter at 31 migranter druknet",
-      "link": "https://www.nrk.no/nyheter/seks-menn-domt-for-drap-etter-at-31-migranter-druknet-1.18041339",
-      "category": "Den engelske kanal",
-      "pubDate": "Wed, 30 Sep 2026 14:41:29 GMT"
-    },
-    {
-      "title": "Storstilt politiaksjon mot MC-gjeng i Tyskland",
-      "link": "https://www.nrk.no/nyheter/storstilt-politiaksjon-mot-mc-gjeng-i-tyskland-1.18041196",
-      "category": "Tyskland",
-      "pubDate": "Wed, 30 Sep 2026 14:16:51 GMT"
-    },
-    {
-      "title": "TV 2: Etterlyst mann pågrepet for drapsforsøk i Sofienbergparken i Oslo",
-      "link": "https://www.nrk.no/nyheter/tv-2_-etterlyst-mann-pagrepet-for-drapsforsok-i-sofienbergparken-i-oslo-1.18041312",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 30 Sep 2026 14:02:45 GMT"
-    },
-    {
-      "title": "Enda en person funnet under redningsaksjon på Voss",
-      "link": "https://www.nrk.no/nyheter/enda-en-person-funnet-under-redningsaksjon-pa-voss-1.18041310",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 30 Sep 2026 13:51:36 GMT"
     }
   ]
 }
