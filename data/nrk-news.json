@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-29T23:53:52.207Z",
+  "updatedAt": "2026-09-30T04:33:13.581Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Polen har stengt to flyplasser på grunn av «militær aktivitet»",
+      "link": "https://www.nrk.no/nyheter/polen-har-stengt-to-flyplasser-pa-grunn-av-_militaer-aktivitet_-1.18040548",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 30 Sep 2026 04:24:36 GMT"
+    },
+    {
+      "title": "Sør-koreansk etterretning: Zelenskyj avslørte krigsfanger for å vinne våpenstøtte",
+      "link": "https://www.nrk.no/nyheter/sor-koreansk-etterretning_-zelenskyj-avslorte-krigsfanger-for-a-vinne-vapenstotte-1.18040504",
+      "category": "Forholdet mellom Sør- og Nord-Korea",
+      "pubDate": "Wed, 30 Sep 2026 03:30:37 GMT"
+    },
+    {
+      "title": "En drept og tre skadet i Kyiv",
+      "link": "https://www.nrk.no/nyheter/en-drept-og-tre-skadet-i-kyiv--1.18040501",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 30 Sep 2026 00:26:43 GMT"
+    },
+    {
+      "title": "USA strammer inn Cuba-sanksjoner",
+      "link": "https://www.nrk.no/nyheter/usa-strammer-inn-cuba-sanksjoner-1.18040500",
+      "category": "Cuba",
+      "pubDate": "Wed, 30 Sep 2026 00:10:24 GMT"
+    },
     {
       "title": "Boeing får ny gigantkontrakt fra Pentagon",
       "link": "https://www.nrk.no/nyheter/boeing-far-ny-gigantkontrakt-fra-pentagon-1.18040499",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/nord-korea-truer-sor-korea-etter-mineeksplosjon-1.18040490",
       "category": "Forholdet mellom Sør- og Nord-Korea",
       "pubDate": "Tue, 29 Sep 2026 22:15:00 GMT"
-    },
-    {
-      "title": "Streiken i private barnehager er avblåst",
-      "link": "https://www.nrk.no/nyheter/streiken-i-private-barnehager-er-avblast-1.18040486",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Tue, 29 Sep 2026 21:19:33 GMT"
-    },
-    {
-      "title": "Trump: KI-topper signerer «moralsk bindende» avtale om selvregulering",
-      "link": "https://www.nrk.no/nyheter/trump_-ki-topper-signerer-_moralsk-bindende_-avtale-om-selvregulering-1.18040479",
-      "category": "Kunstig intelligens",
-      "pubDate": "Tue, 29 Sep 2026 20:49:39 GMT"
-    },
-    {
-      "title": "Frankrike: 440 arrestert etter skoleprotester",
-      "link": "https://www.nrk.no/nyheter/frankrike_-440-arrestert-etter-skoleprotester-1.18040439",
-      "category": "Frankrike",
-      "pubDate": "Tue, 29 Sep 2026 19:33:23 GMT"
-    },
-    {
-      "title": "Trump får fortsette med deportasjon av migranter til tredjeland",
-      "link": "https://www.nrk.no/nyheter/trump-far-fortsette-med-deportasjon-av-migranter-til-tredjeland-1.18040418",
-      "category": "USA",
-      "pubDate": "Tue, 29 Sep 2026 19:23:54 GMT"
     }
   ]
 }
