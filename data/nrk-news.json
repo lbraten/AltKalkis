@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-02T21:12:01.007Z",
+  "updatedAt": "2026-10-03T00:38:08.026Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump sier USA vil fylle sine oljelagre «for ingenting»",
+      "link": "https://www.nrk.no/nyheter/trump-sier-usa-vil-fylle-sine-oljelagre-_for-ingenting_-1.18044241",
+      "category": "Oljeprisen",
+      "pubDate": "Sat, 03 Oct 2026 00:29:46 GMT"
+    },
+    {
+      "title": "Palestinske helsemyndigheter: Fem drept i angrep mot Gaza",
+      "link": "https://www.nrk.no/nyheter/palestinske-helsemyndigheter_-fem-drept-i-angrep-mot-gaza-1.18044240",
+      "category": "Krigen i Gaza",
+      "pubDate": "Fri, 02 Oct 2026 23:59:17 GMT"
+    },
+    {
+      "title": "Tankskip angrepet utenfor Oman",
+      "link": "https://www.nrk.no/nyheter/tankskip-angrepet-utenfor-oman-1.18044232",
+      "category": "Oman",
+      "pubDate": "Fri, 02 Oct 2026 23:37:41 GMT"
+    },
+    {
+      "title": "Japan og Sør-Korea: Nord-Korea har avfyrt ballistisk missil",
+      "link": "https://www.nrk.no/nyheter/japan-og-sor-korea_-nord-korea-har-avfyrt-ballistisk-missil-1.18044223",
+      "category": "Nord-Korea",
+      "pubDate": "Fri, 02 Oct 2026 22:10:24 GMT"
+    },
     {
       "title": "Tilbakekaller produkter med grønnkål",
       "link": "https://www.nrk.no/nyheter/tilbakekaller-produkter-med-gronnkal-1.18044207",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kong-haakon-avlyser-sikt-konferansen-1.18044202",
       "category": "Kongefamilien",
       "pubDate": "Fri, 02 Oct 2026 20:30:36 GMT"
-    },
-    {
-      "title": "To iranske menn pågrepet for mistenkte terrorplaner mot jøder i Manchester",
-      "link": "https://www.nrk.no/nyheter/to-iranske-menn-pagrepet-for-mistenkte-terrorplaner-mot-joder-i-manchester-1.18044189",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 02 Oct 2026 19:47:37 GMT"
-    },
-    {
-      "title": "Wolasmal-søsknene får Røde Kors-prisen",
-      "link": "https://www.nrk.no/nyheter/wolasmal-sosknene-far-rode-kors-prisen-1.18044187",
-      "category": "Norges Røde Kors",
-      "pubDate": "Fri, 02 Oct 2026 19:23:31 GMT"
-    },
-    {
-      "title": "Minst ti drept i to angrep i Sudan, ifølge lokale kilder",
-      "link": "https://www.nrk.no/nyheter/minst-ti-drept-i-to-angrep-i-sudan_-ifolge-lokale-kilder-1.18044176",
-      "category": "Sudan",
-      "pubDate": "Fri, 02 Oct 2026 19:06:01 GMT"
-    },
-    {
-      "title": "Dødsdømt kvinne i Tennessee: Bevisstløs og i respirator",
-      "link": "https://www.nrk.no/nyheter/dodsdomt-kvinne-i-tennessee_-bevisstlos-og-i-respirator-1.18044174",
-      "category": "USA",
-      "pubDate": "Fri, 02 Oct 2026 18:49:09 GMT"
     }
   ]
 }
