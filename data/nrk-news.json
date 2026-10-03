@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-03T19:04:05.827Z",
+  "updatedAt": "2026-10-03T22:20:07.108Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Nordmann løslatt etter dødsfall under jakt",
-      "link": "https://www.nrk.no/nordland/nordmann-loslatt-etter-dodsfall-under-jakt-1.18044628",
+      "title": "Israel hevder angrep var rettet mot Hamas-topp",
+      "link": "https://www.nrk.no/nyheter/israel-hevder-angrep-var-rettet-mot-hamas-topp-1.18044686",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sat, 03 Oct 2026 22:06:07 GMT"
+    },
+    {
+      "title": "Houthiene sier de angrep saudisk oljeanlegg",
+      "link": "https://www.nrk.no/nyheter/houthiene-sier-de-angrep-saudisk-oljeanlegg-1.18044683",
+      "category": "Saudi-Arabia",
+      "pubDate": "Sat, 03 Oct 2026 21:42:20 GMT"
+    },
+    {
+      "title": "Brann i hus i Vadsø",
+      "link": "https://www.nrk.no/nyheter/brann-i-hus-i-vadso--1.18044680",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sat, 03 Oct 2026 20:52:40 GMT"
+    },
+    {
+      "title": "Kontroll på brann i næringspark i Ørland",
+      "link": "https://www.nrk.no/trondelag/kontroll-pa-brann-i-naeringspark-i-orland-1.18044606",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 03 Oct 2026 19:50:16 GMT"
+    },
+    {
+      "title": "Ny type øgle oppdaga i Peru",
+      "link": "https://www.nrk.no/nyheter/ny-type-ogle-oppdaga-i-peru-1.18044608",
+      "category": "Peru",
+      "pubDate": "Sat, 03 Oct 2026 19:41:57 GMT"
+    },
+    {
+      "title": "Låvebrann har spredt seg til bolighus",
+      "link": "https://www.nrk.no/nordland/lavebrann-har-spredt-seg-til-bolighus-1.18044631",
       "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 03 Oct 2026 18:17:30 GMT"
-    },
-    {
-      "title": "Bevisstløs etter elsparkesykkel-krasj",
-      "link": "https://www.nrk.no/ostfold/bevisstlos-etter-elsparkesykkel-krasj-1.18044621",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 03 Oct 2026 18:16:59 GMT"
-    },
-    {
-      "title": "Leter etter ungdommer på fjell i Hustavika",
-      "link": "https://www.nrk.no/mr/leter-etter-ungdommer-pa-fjell-i-hustavika--1.18044618",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 03 Oct 2026 18:08:10 GMT"
-    },
-    {
-      "title": "Slo bussjåfør i Sarpsborg: Gjerningsperson på frifot",
-      "link": "https://www.nrk.no/ostfold/slo-bussjafor-i-sarpsborg_-gjerningsperson-pa-frifot-1.18044620",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Sat, 03 Oct 2026 17:57:41 GMT"
-    },
-    {
-      "title": "Voldshendelse på Jessheim: Kvinne i 50-årene pågrepet",
-      "link": "https://www.nrk.no/stor-oslo/voldshendelse-pa-jessheim_-kvinne-i-50-arene-pagrepet-1.18044483",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sat, 03 Oct 2026 17:36:28 GMT"
-    },
-    {
-      "title": "Etiopiske styrkar har teke seg inn i Mekele",
-      "link": "https://www.nrk.no/nyheter/etiopiske-styrkar-har-teke-seg-inn-i-mekele-1.18044607",
-      "category": "Etiopia",
-      "pubDate": "Sat, 03 Oct 2026 17:34:24 GMT"
+      "pubDate": "Sat, 03 Oct 2026 19:03:40 GMT"
     }
   ]
 }
