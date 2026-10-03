@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-10-03T00:38:08.026Z",
+  "updatedAt": "2026-10-03T06:08:19.050Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trump sier USA vil fylle sine oljelagre «for ingenting»",
-      "link": "https://www.nrk.no/nyheter/trump-sier-usa-vil-fylle-sine-oljelagre-_for-ingenting_-1.18044241",
+      "title": "Nytt angrep mot bro i Kyiv",
+      "link": "https://www.nrk.no/nyheter/nytt-angrep-mot-bro-i-kyiv-1.18044251",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 03 Oct 2026 04:44:56 GMT"
+    },
+    {
+      "title": "Trump lover helsesjekk til 20 millioner eldre",
+      "link": "https://www.nrk.no/nyheter/trump-lover-helsesjekk-til-20-millioner-eldre--1.18044243",
+      "category": "USA",
+      "pubDate": "Sat, 03 Oct 2026 03:57:27 GMT"
+    },
+    {
+      "title": "Bil inn i folkemengde i Australia – flere skadet",
+      "link": "https://www.nrk.no/nyheter/bil-inn-i-folkemengde-i-australia-_-flere-skadet-1.18044245",
+      "category": "Australia",
+      "pubDate": "Sat, 03 Oct 2026 02:52:22 GMT"
+    },
+    {
+      "title": "Mann til sykehus etter knivstikking på Sunnmøre",
+      "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-knivstikking-pa-sunnmore-1.18044242",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 03 Oct 2026 00:51:30 GMT"
+    },
+    {
+      "title": "Trump sier USA vil fylle sine oljelagre «helt gratis»",
+      "link": "https://www.nrk.no/nyheter/trump-sier-usa-vil-fylle-sine-oljelagre-_helt-gratis_-1.18044241",
       "category": "Oljeprisen",
       "pubDate": "Sat, 03 Oct 2026 00:29:46 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/palestinske-helsemyndigheter_-fem-drept-i-angrep-mot-gaza-1.18044240",
       "category": "Krigen i Gaza",
       "pubDate": "Fri, 02 Oct 2026 23:59:17 GMT"
-    },
-    {
-      "title": "Tankskip angrepet utenfor Oman",
-      "link": "https://www.nrk.no/nyheter/tankskip-angrepet-utenfor-oman-1.18044232",
-      "category": "Oman",
-      "pubDate": "Fri, 02 Oct 2026 23:37:41 GMT"
-    },
-    {
-      "title": "Japan og Sør-Korea: Nord-Korea har avfyrt ballistisk missil",
-      "link": "https://www.nrk.no/nyheter/japan-og-sor-korea_-nord-korea-har-avfyrt-ballistisk-missil-1.18044223",
-      "category": "Nord-Korea",
-      "pubDate": "Fri, 02 Oct 2026 22:10:24 GMT"
-    },
-    {
-      "title": "Tilbakekaller produkter med grønnkål",
-      "link": "https://www.nrk.no/nyheter/tilbakekaller-produkter-med-gronnkal-1.18044207",
-      "category": "Mattrygghet",
-      "pubDate": "Fri, 02 Oct 2026 20:36:34 GMT"
-    },
-    {
-      "title": "Kong Haakon avlyser SIKT-konferansen",
-      "link": "https://www.nrk.no/nyheter/kong-haakon-avlyser-sikt-konferansen-1.18044202",
-      "category": "Kongefamilien",
-      "pubDate": "Fri, 02 Oct 2026 20:30:36 GMT"
     }
   ]
 }
