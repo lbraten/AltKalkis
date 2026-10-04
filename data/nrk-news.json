@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-04T13:47:03.551Z",
+  "updatedAt": "2026-10-04T18:00:51.488Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Pro-ukrainsk parti vant overlegent i Latvia",
+      "link": "https://www.nrk.no/nyheter/pro-ukrainsk-parti-vant-overlegent-i-latvia-1.18045013",
+      "category": "Latvia",
+      "pubDate": "Sun, 04 Oct 2026 16:09:20 GMT"
+    },
+    {
+      "title": "Politiet: Sikta i Halden skal gjennom rettspsykiatrisk undersøking",
+      "link": "https://www.nrk.no/nyheter/politiet_-sikta-i-halden-skal-gjennom-rettspsykiatrisk-undersoking-1.18045009",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 04 Oct 2026 15:40:47 GMT"
+    },
+    {
+      "title": "Skyting på gatefest i Georgia i USA – 2 døde og over 30 såret",
+      "link": "https://www.nrk.no/nyheter/skyting-pa-gatefest-i-georgia-i-usa-_-2-dode-og-over-30-saret-1.18045003",
+      "category": "USA",
+      "pubDate": "Sun, 04 Oct 2026 15:27:00 GMT"
+    },
+    {
+      "title": "Pike framleis på sjukehus etter mislukka avrettingsforsøk",
+      "link": "https://www.nrk.no/nyheter/pike-framleis-pa-sjukehus-etter-mislukka-avrettingsforsok-1.18044953",
+      "category": "USA",
+      "pubDate": "Sun, 04 Oct 2026 15:16:43 GMT"
+    },
+    {
+      "title": "Zelenskyj: USA ønsker samtalar om Ukraina-krigen i slutten av oktober",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-usa-onsker-samtalar-om-ukraina-krigen-i-slutten-av-oktober-1.18044948",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 04 Oct 2026 13:50:11 GMT"
+    },
     {
       "title": "Glastonbury 2027 utselt på 42 minutt",
       "link": "https://www.nrk.no/nyheter/glastonbury-2027-utselt-pa-42-minutt-1.18044943",
       "category": "Storbritannia",
       "pubDate": "Sun, 04 Oct 2026 13:41:01 GMT"
-    },
-    {
-      "title": "Ein person drepen i angrep mot FN-lastebilar i Sudan",
-      "link": "https://www.nrk.no/nyheter/ein-person-drepen-i-angrep-mot-fn-lastebilar-i-sudan-1.18044909",
-      "category": "Sudan",
-      "pubDate": "Sun, 04 Oct 2026 13:20:33 GMT"
-    },
-    {
-      "title": "Ingen ny kontakt i lokførarstreiken",
-      "link": "https://www.nrk.no/innlandet/ingen-ny-kontakt-i-lokforarstreiken--1.18044929",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sun, 04 Oct 2026 13:07:49 GMT"
-    },
-    {
-      "title": "To personar har mista livet etter regn i Spania",
-      "link": "https://www.nrk.no/nyheter/to-personar-har-mista-livet-etter-regn-i-spania-1.18044902",
-      "category": "Spania",
-      "pubDate": "Sun, 04 Oct 2026 12:47:10 GMT"
-    },
-    {
-      "title": "Valget i Brasil er i gang",
-      "link": "https://www.nrk.no/nyheter/valget-i-brasil-er-i-gang-1.18044896",
-      "category": "Brasil",
-      "pubDate": "Sun, 04 Oct 2026 12:30:35 GMT"
-    },
-    {
-      "title": "Houthiane skal ha kutta vegen mellom viktige byar",
-      "link": "https://www.nrk.no/nyheter/houthiane-skal-ha-kutta-vegen-mellom-viktige-byar-1.18044895",
-      "category": "Jemen",
-      "pubDate": "Sun, 04 Oct 2026 12:14:21 GMT"
     }
   ]
 }
