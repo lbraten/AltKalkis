@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-03T22:20:07.108Z",
+  "updatedAt": "2026-10-04T01:51:51.555Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tankbåt og to lasteskip har kollidert ved Ålesund – ingen skadet",
+      "link": "https://www.nrk.no/nyheter/tankbat-og-to-lasteskip-har-kollidert-ved-alesund-_-ingen-skadet-1.18044700",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 04 Oct 2026 01:17:06 GMT"
+    },
+    {
+      "title": "Person funnet bevisstløs etter vold i Arendal",
+      "link": "https://www.nrk.no/nyheter/person-funnet-bevisstlos-etter-vold-i-arendal-1.18044699",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 04 Oct 2026 00:19:08 GMT"
+    },
+    {
+      "title": "Cornell-rektor beklager håndteringen av voldtektssak",
+      "link": "https://www.nrk.no/nyheter/cornell-rektor-beklager-handteringen-av-voldtektssak--1.18044693",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 03 Oct 2026 23:47:53 GMT"
+    },
+    {
+      "title": "Jay Clayton skal lede Trumps KI-arbeidsgruppe",
+      "link": "https://www.nrk.no/nyheter/jay-clayton-skal-lede-trumps-ki-arbeidsgruppe-1.18044688",
+      "category": "Kunstig intelligens",
+      "pubDate": "Sat, 03 Oct 2026 23:20:18 GMT"
+    },
     {
       "title": "Israel hevder angrep var rettet mot Hamas-topp",
       "link": "https://www.nrk.no/nyheter/israel-hevder-angrep-var-rettet-mot-hamas-topp-1.18044686",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/houthiene-sier-de-angrep-saudisk-oljeanlegg-1.18044683",
       "category": "Saudi-Arabia",
       "pubDate": "Sat, 03 Oct 2026 21:42:20 GMT"
-    },
-    {
-      "title": "Brann i hus i Vadsø",
-      "link": "https://www.nrk.no/nyheter/brann-i-hus-i-vadso--1.18044680",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 03 Oct 2026 20:52:40 GMT"
-    },
-    {
-      "title": "Kontroll på brann i næringspark i Ørland",
-      "link": "https://www.nrk.no/trondelag/kontroll-pa-brann-i-naeringspark-i-orland-1.18044606",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 03 Oct 2026 19:50:16 GMT"
-    },
-    {
-      "title": "Ny type øgle oppdaga i Peru",
-      "link": "https://www.nrk.no/nyheter/ny-type-ogle-oppdaga-i-peru-1.18044608",
-      "category": "Peru",
-      "pubDate": "Sat, 03 Oct 2026 19:41:57 GMT"
-    },
-    {
-      "title": "Låvebrann har spredt seg til bolighus",
-      "link": "https://www.nrk.no/nordland/lavebrann-har-spredt-seg-til-bolighus-1.18044631",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 03 Oct 2026 19:03:40 GMT"
     }
   ]
 }
