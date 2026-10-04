@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-04T01:51:51.555Z",
+  "updatedAt": "2026-10-04T07:53:36.905Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Tankbåt og to lasteskip har kollidert ved Ålesund – ingen skadet",
-      "link": "https://www.nrk.no/nyheter/tankbat-og-to-lasteskip-har-kollidert-ved-alesund-_-ingen-skadet-1.18044700",
+      "title": "Palestinsk journalist pågrepet i razzia på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/palestinsk-journalist-pagrepet-i-razzia-pa-vestbredden-1.18044745",
+      "category": "Vestbredden",
+      "pubDate": "Sun, 04 Oct 2026 07:07:06 GMT"
+    },
+    {
+      "title": "Iran avviser gjenåpning av Hormuzstredet nå",
+      "link": "https://www.nrk.no/nyheter/iran-avviser-gjenapning-av-hormuzstredet-na-1.18044726",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Sun, 04 Oct 2026 06:44:42 GMT"
+    },
+    {
+      "title": "Tre personer skutt i Halden",
+      "link": "https://www.nrk.no/nyheter/tre-personer-skutt-i-halden-1.18044723",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 04 Oct 2026 06:00:59 GMT"
+    },
+    {
+      "title": "Helseministeren skal bli pappa",
+      "link": "https://www.nrk.no/nyheter/helseministeren-skal-bli-pappa-1.18044717",
       "category": "NRK Nyheter",
-      "pubDate": "Sun, 04 Oct 2026 01:17:06 GMT"
+      "pubDate": "Sun, 04 Oct 2026 05:39:44 GMT"
     },
     {
-      "title": "Person funnet bevisstløs etter vold i Arendal",
-      "link": "https://www.nrk.no/nyheter/person-funnet-bevisstlos-etter-vold-i-arendal-1.18044699",
-      "category": "Nyheter fra Agder",
-      "pubDate": "Sun, 04 Oct 2026 00:19:08 GMT"
-    },
-    {
-      "title": "Cornell-rektor beklager håndteringen av voldtektssak",
-      "link": "https://www.nrk.no/nyheter/cornell-rektor-beklager-handteringen-av-voldtektssak--1.18044693",
+      "title": "Vrakrester fra savnet fly funnet i USA",
+      "link": "https://www.nrk.no/nyheter/vrakrester-fra-savnet-fly-funnet-i-usa-1.18044714",
       "category": "NRK Nyheter",
-      "pubDate": "Sat, 03 Oct 2026 23:47:53 GMT"
+      "pubDate": "Sun, 04 Oct 2026 04:49:07 GMT"
     },
     {
-      "title": "Jay Clayton skal lede Trumps KI-arbeidsgruppe",
-      "link": "https://www.nrk.no/nyheter/jay-clayton-skal-lede-trumps-ki-arbeidsgruppe-1.18044688",
-      "category": "Kunstig intelligens",
-      "pubDate": "Sat, 03 Oct 2026 23:20:18 GMT"
-    },
-    {
-      "title": "Israel hevder angrep var rettet mot Hamas-topp",
-      "link": "https://www.nrk.no/nyheter/israel-hevder-angrep-var-rettet-mot-hamas-topp-1.18044686",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sat, 03 Oct 2026 22:06:07 GMT"
-    },
-    {
-      "title": "Houthiene sier de angrep saudisk oljeanlegg",
-      "link": "https://www.nrk.no/nyheter/houthiene-sier-de-angrep-saudisk-oljeanlegg-1.18044683",
-      "category": "Saudi-Arabia",
-      "pubDate": "Sat, 03 Oct 2026 21:42:20 GMT"
+      "title": "Målinger peker mot ny valgrunde i Brasil",
+      "link": "https://www.nrk.no/nyheter/malinger-peker-mot-ny-valgrunde-i-brasil-1.18044701",
+      "category": "Brasil",
+      "pubDate": "Sun, 04 Oct 2026 04:06:53 GMT"
     }
   ]
 }
