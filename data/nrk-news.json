@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-05T00:30:45.545Z",
+  "updatedAt": "2026-10-05T06:36:47.027Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ny runde i presidentvalget i Brasil",
-      "link": "https://www.nrk.no/nyheter/ny-runde-i-presidentvalget-i-brasil-1.18045180",
-      "category": "Brasil",
-      "pubDate": "Mon, 05 Oct 2026 00:11:18 GMT"
+      "title": "Kan bli nyvalg i Spania",
+      "link": "https://www.nrk.no/nyheter/kan-bli-nyvalg-i-spania-1.18045306",
+      "category": "Spania",
+      "pubDate": "Mon, 05 Oct 2026 06:23:42 GMT"
     },
     {
-      "title": "BBC: Henter hjem bombefly fra Storbritannia",
-      "link": "https://www.nrk.no/nyheter/bbc_-henter-hjem-bombefly-fra-storbritannia-1.18045174",
+      "title": "Kreml: Ukrainske skip i Svartehavet angrepet",
+      "link": "https://www.nrk.no/nyheter/kreml_-ukrainske-skip-i-svartehavet-angrepet-1.18045261",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 05 Oct 2026 06:15:19 GMT"
+    },
+    {
+      "title": "Vil innføre midlertidig forbud mot KI-briller",
+      "link": "https://www.nrk.no/nyheter/vil-innfore-midlertidig-forbud-mot-ki-briller-1.18045250",
+      "category": "Kunstig intelligens",
+      "pubDate": "Mon, 05 Oct 2026 05:15:27 GMT"
+    },
+    {
+      "title": "Aldri har vi solgt mer laks til utlandet",
+      "link": "https://www.nrk.no/mr/aldri-har-vi-solgt-mer-laks-til-utlandet-1.18045214",
+      "category": "Norsk laks og sjømat",
+      "pubDate": "Mon, 05 Oct 2026 05:10:13 GMT"
+    },
+    {
+      "title": "Fire drept i nytt amerikansk båtangrep",
+      "link": "https://www.nrk.no/nyheter/fire-drept-i-nytt-amerikansk-batangrep-1.18045185",
       "category": "USA",
-      "pubDate": "Sun, 04 Oct 2026 23:43:37 GMT"
+      "pubDate": "Mon, 05 Oct 2026 03:38:16 GMT"
     },
     {
-      "title": "Bolsonoro fortsatt med overtak i Brasil",
-      "link": "https://www.nrk.no/nyheter/bolsonoro-fortsatt-med-overtak-i-brasil-1.18045169",
-      "category": "Brasil",
-      "pubDate": "Sun, 04 Oct 2026 23:02:30 GMT"
-    },
-    {
-      "title": "Bolsonaro med foreløpig ledelse i Brasil",
-      "link": "https://www.nrk.no/nyheter/bolsonaro-med-forelopig-ledelse-i-brasil-1.18045162",
-      "category": "Brasil",
-      "pubDate": "Sun, 04 Oct 2026 22:21:31 GMT"
-    },
-    {
-      "title": "Visekanslaren i Austerrike går av",
-      "link": "https://www.nrk.no/nyheter/visekanslaren-i-austerrike-gar-av-1.18045113",
-      "category": "Østerrike",
-      "pubDate": "Sun, 04 Oct 2026 20:27:05 GMT"
-    },
-    {
-      "title": "Venstrekandidat og to nasjonalister leder i tredelt presidentvalg i Bosnia",
-      "link": "https://www.nrk.no/nyheter/venstrekandidat-og-to-nasjonalister-leder-i-tredelt-presidentvalg-i-bosnia-1.18045107",
-      "category": "Bosnia-Hercegovina",
-      "pubDate": "Sun, 04 Oct 2026 19:06:05 GMT"
+      "title": "Togstreiken trappes opp",
+      "link": "https://www.nrk.no/stor-oslo/togstreiken-trappes-opp-1.18045188",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Mon, 05 Oct 2026 03:20:56 GMT"
     }
   ]
 }
