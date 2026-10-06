@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-05T22:20:58.474Z",
+  "updatedAt": "2026-10-06T02:24:51.443Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump godkjenner henrettelse ved skyting",
+      "link": "https://www.nrk.no/nyheter/trump-godkjenner-henrettelse-ved-skyting-1.18046329",
+      "category": "USA",
+      "pubDate": "Tue, 06 Oct 2026 01:53:14 GMT"
+    },
+    {
+      "title": "Kvinne pågrepet for vold i Nordre Follo",
+      "link": "https://www.nrk.no/nyheter/kvinne-pagrepet-for-vold-i-nordre-follo-1.18046322",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 06 Oct 2026 01:30:54 GMT"
+    },
+    {
+      "title": "Houthi-militsen hevder de har angrepet flyplass",
+      "link": "https://www.nrk.no/nyheter/houthi-militsen-hevder-de-har-angrepet-flyplass-1.18046315",
+      "category": "Jemen",
+      "pubDate": "Tue, 06 Oct 2026 00:26:22 GMT"
+    },
+    {
+      "title": "Jeffrey Archer (86) er død",
+      "link": "https://www.nrk.no/nyheter/jeffrey-archer-_86_-er-dod-1.18046314",
+      "category": "Storbritannia",
+      "pubDate": "Mon, 05 Oct 2026 22:32:51 GMT"
+    },
+    {
+      "title": "Sjåfør drakk vodka – hadde 3,47 i promille",
+      "link": "https://www.nrk.no/innlandet/sjafor-drakk-vodka-_-hadde-3_47-i-promille-1.18046286",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Mon, 05 Oct 2026 21:04:38 GMT"
+    },
     {
       "title": "Meslingutbrot i USA",
       "link": "https://www.nrk.no/nyheter/meslingutbrot-i-usa-1.18046259",
       "category": "USA",
       "pubDate": "Mon, 05 Oct 2026 20:29:30 GMT"
-    },
-    {
-      "title": "TV 2: Fleirtal for å fjerne drivstoffavgift",
-      "link": "https://www.nrk.no/nyheter/tv-2_-fleirtal-for-a-fjerne-drivstoffavgift-1.18046255",
-      "category": "Stortinget",
-      "pubDate": "Mon, 05 Oct 2026 19:17:09 GMT"
-    },
-    {
-      "title": "Mexico sender soldater til grensa mot Texas",
-      "link": "https://www.nrk.no/nyheter/mexico-sender-soldater-til-grensa-mot-texas-1.18046254",
-      "category": "USA og Mexico",
-      "pubDate": "Mon, 05 Oct 2026 19:09:08 GMT"
-    },
-    {
-      "title": "Danskane får tilbake fridag i 2030",
-      "link": "https://www.nrk.no/nyheter/danskane-far-tilbake-fridag-i-2030-1.18046239",
-      "category": "Danmark",
-      "pubDate": "Mon, 05 Oct 2026 19:07:49 GMT"
-    },
-    {
-      "title": "Andrew Mountbatten-Windsor saksøker britisk politi",
-      "link": "https://www.nrk.no/nyheter/andrew-mountbatten-windsor-saksoker-britisk-politi-1.18046230",
-      "category": "Storbritannia",
-      "pubDate": "Mon, 05 Oct 2026 18:36:05 GMT"
-    },
-    {
-      "title": "EU stoppar import av kjøt frå Namibia",
-      "link": "https://www.nrk.no/nyheter/eu-stoppar-import-av-kjot-fra-namibia-1.18046219",
-      "category": "Mattrygghet",
-      "pubDate": "Mon, 05 Oct 2026 18:14:51 GMT"
     }
   ]
 }
