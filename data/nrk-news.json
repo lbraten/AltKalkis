@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-06T21:07:41.553Z",
+  "updatedAt": "2026-10-07T00:55:37.203Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Tankskip skal ha tatt fyr ved Sotsji",
+      "link": "https://www.nrk.no/nyheter/tankskip-skal-ha-tatt-fyr-ved-sotsji-1.18047432",
+      "category": "Russland",
+      "pubDate": "Wed, 07 Oct 2026 00:39:17 GMT"
+    },
+    {
+      "title": "Medier: Eksplosjoner hørt i Kyiv",
+      "link": "https://www.nrk.no/nyheter/medier_-eksplosjoner-hort-i-kyiv-1.18047431",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 07 Oct 2026 00:28:09 GMT"
+    },
+    {
+      "title": "Høyesterett med kullgruve-nei i Australia",
+      "link": "https://www.nrk.no/nyheter/hoyesterett-med-kullgruve-nei-i-australia-1.18047430",
+      "category": "Klima og miljø",
+      "pubDate": "Wed, 07 Oct 2026 00:18:45 GMT"
+    },
+    {
+      "title": "Oscar-vinner Eva Marie Saint er død",
+      "link": "https://www.nrk.no/nyheter/oscar-vinner-eva-marie-saint-er-dod-1.18047423",
+      "category": "Film og serier",
+      "pubDate": "Tue, 06 Oct 2026 23:54:10 GMT"
+    },
+    {
+      "title": "Sykepleiere mekler på overtid",
+      "link": "https://www.nrk.no/nyheter/sykepleiere-mekler-pa-overtid-1.18047405",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 06 Oct 2026 22:41:01 GMT"
+    },
     {
       "title": "Christa Pike våken etter henrettelsesforsøk",
       "link": "https://www.nrk.no/nyheter/christa-pike-vaken-etter-henrettelsesforsok-1.18047399",
       "category": "USA",
       "pubDate": "Tue, 06 Oct 2026 20:58:21 GMT"
-    },
-    {
-      "title": "Flertall for å stramme inn spionasjelovgivingen",
-      "link": "https://www.nrk.no/nyheter/flertall-for-a-stramme-inn-spionasjelovgivingen-1.18047324",
-      "category": "Stortinget",
-      "pubDate": "Tue, 06 Oct 2026 20:23:35 GMT"
-    },
-    {
-      "title": "Mann pågripe med pil og bue",
-      "link": "https://www.nrk.no/vestland/mann-pagripe-med-pil-og-bue--1.18047179",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 06 Oct 2026 19:32:29 GMT"
-    },
-    {
-      "title": "Equinor: – Må bli bedre på kommunikasjon rundt hva vi faktisk gjør",
-      "link": "https://www.nrk.no/nyheter/equinor_-_-ma-bli-bedre-pa-kommunikasjon-rundt-hva-vi-faktisk-gjor-1.18047300",
-      "category": "Equinor",
-      "pubDate": "Tue, 06 Oct 2026 17:55:38 GMT"
-    },
-    {
-      "title": "Fleirtal for ei breiare HPV-vaksine på Stortinget",
-      "link": "https://www.nrk.no/nyheter/fleirtal-for-ei-breiare-hpv-vaksine-pa-stortinget-1.18047287",
-      "category": "HPV-vaksine",
-      "pubDate": "Tue, 06 Oct 2026 17:53:46 GMT"
-    },
-    {
-      "title": "Finland stoppar arbeid med datasenter",
-      "link": "https://www.nrk.no/nyheter/finland-stoppar-arbeid-med-datasenter-1.18047243",
-      "category": "Finland",
-      "pubDate": "Tue, 06 Oct 2026 17:21:59 GMT"
     }
   ]
 }
