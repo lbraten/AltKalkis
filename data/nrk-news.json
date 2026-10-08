@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-08T00:19:54.230Z",
+  "updatedAt": "2026-10-08T06:29:39.745Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "TV 2: Tidligere fotballspiller dømt til ni år og åtte måneders fengsel",
+      "link": "https://www.nrk.no/nyheter/tv-2_-tidligere-fotballspiller-domt-til-ni-ar-og-atte-maneders-fengsel-1.18048962",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Thu, 08 Oct 2026 06:10:49 GMT"
+    },
+    {
+      "title": "Houthiene hevder de har angrepet flyplass i Riyadh",
+      "link": "https://www.nrk.no/nyheter/houthiene-hevder-de-har-angrepet-flyplass-i-riyadh-1.18048941",
+      "category": "Saudi-Arabia",
+      "pubDate": "Thu, 08 Oct 2026 03:37:57 GMT"
+    },
+    {
+      "title": "Ny henrettelse i USA etter Pike-saken",
+      "link": "https://www.nrk.no/nyheter/ny-henrettelse-i-usa-etter-pike-saken-1.18048927",
+      "category": "Dødsstraff i USA",
+      "pubDate": "Thu, 08 Oct 2026 03:28:56 GMT"
+    },
+    {
+      "title": "USA gjentar rådet om å forlate Russland",
+      "link": "https://www.nrk.no/nyheter/usa-gjentar-radet-om-a-forlate-russland-1.18048926",
+      "category": "Russland",
+      "pubDate": "Thu, 08 Oct 2026 01:59:55 GMT"
+    },
+    {
+      "title": "Bevæpnet politi i Kautokeino etter melding om skudd",
+      "link": "https://www.nrk.no/nyheter/bevaepnet-politi-i-kautokeino-etter-melding-om-skudd-1.18048924",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Thu, 08 Oct 2026 00:30:52 GMT"
+    },
     {
       "title": "Trump mener han fortjener fredsprisen",
       "link": "https://www.nrk.no/nyheter/trump-mener-han-fortjener-fredsprisen-1.18048923",
       "category": "Nobels fredspris",
       "pubDate": "Wed, 07 Oct 2026 23:31:52 GMT"
-    },
-    {
-      "title": "Tankskip skal ha blitt angrepet i Persiabukta",
-      "link": "https://www.nrk.no/nyheter/tankskip-skal-ha-blitt-angrepet-i-persiabukta-1.18048922",
-      "category": "Krig og konflikt i Midtøsten",
-      "pubDate": "Wed, 07 Oct 2026 22:54:17 GMT"
-    },
-    {
-      "title": "Eirik Skadsdammen er død",
-      "link": "https://www.nrk.no/nyheter/eirik-skadsdammen-er-dod-1.18048909",
-      "category": "Sportsnyheter",
-      "pubDate": "Wed, 07 Oct 2026 21:55:22 GMT"
-    },
-    {
-      "title": "Kvinnelig Oslo-advokat pågrepet for vold i nære relasjoner",
-      "link": "https://www.nrk.no/nyheter/kvinnelig-oslo-advokat-pagrepet-for-vold-i-naere-relasjoner--1.18048846",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 07 Oct 2026 19:46:45 GMT"
-    },
-    {
-      "title": "Maricarmen (87) som utløste spanske boligprotester er død",
-      "link": "https://www.nrk.no/nyheter/maricarmen-_87_-som-utloste-spanske-boligprotester-er-dod-1.18048830",
-      "category": "Spania",
-      "pubDate": "Wed, 07 Oct 2026 18:37:14 GMT"
-    },
-    {
-      "title": "Tre drept og 36 skadd i flyplass-angrep i Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/tre-drept-og-36-skadd-i-flyplass-angrep-i-saudi-arabia-1.18048816",
-      "category": "Krig og konflikt i Midtøsten",
-      "pubDate": "Wed, 07 Oct 2026 18:14:33 GMT"
     }
   ]
 }
