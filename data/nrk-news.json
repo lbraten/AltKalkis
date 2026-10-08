@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-07T20:04:56.829Z",
+  "updatedAt": "2026-10-08T00:19:54.230Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump mener han fortjener fredsprisen",
+      "link": "https://www.nrk.no/nyheter/trump-mener-han-fortjener-fredsprisen-1.18048923",
+      "category": "Nobels fredspris",
+      "pubDate": "Wed, 07 Oct 2026 23:31:52 GMT"
+    },
+    {
+      "title": "Tankskip skal ha blitt angrepet i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/tankskip-skal-ha-blitt-angrepet-i-persiabukta-1.18048922",
+      "category": "Krig og konflikt i Midtøsten",
+      "pubDate": "Wed, 07 Oct 2026 22:54:17 GMT"
+    },
+    {
+      "title": "Eirik Skadsdammen er død",
+      "link": "https://www.nrk.no/nyheter/eirik-skadsdammen-er-dod-1.18048909",
+      "category": "Sportsnyheter",
+      "pubDate": "Wed, 07 Oct 2026 21:55:22 GMT"
+    },
     {
       "title": "Kvinnelig Oslo-advokat pågrepet for vold i nære relasjoner",
       "link": "https://www.nrk.no/nyheter/kvinnelig-oslo-advokat-pagrepet-for-vold-i-naere-relasjoner--1.18048846",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tre-drept-og-36-skadd-i-flyplass-angrep-i-saudi-arabia-1.18048816",
       "category": "Krig og konflikt i Midtøsten",
       "pubDate": "Wed, 07 Oct 2026 18:14:33 GMT"
-    },
-    {
-      "title": "Christa Pike alvorlig skadd etter å ha våknet fra henrettelsesforsøk",
-      "link": "https://www.nrk.no/nyheter/christa-pike-alvorlig-skadd-etter-a-ha-vaknet-fra-henrettelsesforsok-1.18048653",
-      "category": "Dødsstraff i USA",
-      "pubDate": "Wed, 07 Oct 2026 17:59:38 GMT"
-    },
-    {
-      "title": "Beslagla elsparkesykkel med toppfart på 140 km/t",
-      "link": "https://www.nrk.no/stor-oslo/beslagla-elsparkesykkel-med-toppfart-pa-140-km_t-1.18048696",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Wed, 07 Oct 2026 16:07:06 GMT"
-    },
-    {
-      "title": "WHO: Får ikke gjort full risikovurdering av mistenkt pest-dødsfall i Russland",
-      "link": "https://www.nrk.no/nyheter/who_-far-ikke-gjort-full-risikovurdering-av-mistenkt-pest-dodsfall-i-russland-1.18048496",
-      "category": "Russland",
-      "pubDate": "Wed, 07 Oct 2026 15:47:00 GMT"
     }
   ]
 }
