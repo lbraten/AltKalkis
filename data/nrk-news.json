@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-09T19:38:16.002Z",
+  "updatedAt": "2026-10-09T23:51:39.850Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trump lover russisk dieselleveranse",
-      "link": "https://www.nrk.no/nyheter/trump-lover-russisk-dieselleveranse-1.18051145",
-      "category": "USA",
-      "pubDate": "Fri, 09 Oct 2026 18:54:16 GMT"
+      "title": "Lufthavnen i Panama har åpnet igjen",
+      "link": "https://www.nrk.no/nyheter/lufthavnen-i-panama-har-apnet-igjen-1.18051205",
+      "category": "Jordskjelv i Mellom-Amerika",
+      "pubDate": "Fri, 09 Oct 2026 23:32:56 GMT"
     },
     {
-      "title": "Utfordrende kjøreforhold på riksvei 7 Hardangervidda",
-      "link": "https://www.nrk.no/buskerud/utfordrende-kjoreforhold-pa-riksvei-7-hardangervidda-1.18050945",
+      "title": "Norge vant 2–0 i Romania – tok første stikk i kampen om VM-plass",
+      "link": "https://www.nrk.no/sport/norge-vant-2_0-i-romania-_-tok-forste-stikk-i-kampen-om-vm-plass-1.18051210",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 09 Oct 2026 21:20:37 GMT"
+    },
+    {
+      "title": "Fire pågrepet etter voldshendelse i Drammen",
+      "link": "https://www.nrk.no/nyheter/fire-pagrepet-etter-voldshendelse-i-drammen-1.18051192",
       "category": "Nyhetssenter Buskerud",
-      "pubDate": "Fri, 09 Oct 2026 18:53:28 GMT"
+      "pubDate": "Fri, 09 Oct 2026 21:05:49 GMT"
     },
     {
-      "title": "Trump utnevner ny pressesekretær",
-      "link": "https://www.nrk.no/nyheter/trump-utnevner-ny-pressesekretaer-1.18051123",
-      "category": "USA",
-      "pubDate": "Fri, 09 Oct 2026 18:37:56 GMT"
+      "title": "Martinus Gunnarsen vant «Let's Dance» Sverige",
+      "link": "https://www.nrk.no/nyheter/martinus-gunnarsen-vant-_let_s-dance_-sverige-1.18051185",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Fri, 09 Oct 2026 20:05:58 GMT"
     },
     {
-      "title": "Kraftig jordskjelv i Panama",
-      "link": "https://www.nrk.no/nyheter/kraftig-jordskjelv-i-panama-1.18051095",
-      "category": "Panama",
-      "pubDate": "Fri, 09 Oct 2026 18:05:43 GMT"
-    },
-    {
-      "title": "Dømt til 13,6 års fengsel for smugling av narkotika til Norge",
-      "link": "https://www.nrk.no/innlandet/domt-til-13_6-ars-fengsel-for-smugling-av-narkotika-til-norge-1.18050926",
-      "category": "Tiltaler og dommer i Innlandet",
-      "pubDate": "Fri, 09 Oct 2026 17:58:49 GMT"
-    },
-    {
-      "title": "Fritt Ukraina med bidrag til luftvernet",
-      "link": "https://www.nrk.no/nyheter/fritt-ukraina-med-bidrag-til-luftvernet-1.18051089",
+      "title": "Putin kommenterer oljeavtale med USA",
+      "link": "https://www.nrk.no/nyheter/putin-kommenterer-oljeavtale-med-usa-1.18051182",
       "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 09 Oct 2026 17:35:43 GMT"
+      "pubDate": "Fri, 09 Oct 2026 20:00:28 GMT"
+    },
+    {
+      "title": "Fjerner tsunamivarsel etter jordskjelv",
+      "link": "https://www.nrk.no/nyheter/fjerner-tsunamivarsel-etter-jordskjelv-1.18051149",
+      "category": "Panama",
+      "pubDate": "Fri, 09 Oct 2026 19:56:45 GMT"
     }
   ]
 }
