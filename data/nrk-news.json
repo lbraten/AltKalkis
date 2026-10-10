@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-09T23:51:39.850Z",
+  "updatedAt": "2026-10-10T04:51:58.455Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "«Isaias» har truffet land i Florida",
+      "link": "https://www.nrk.no/nyheter/_isaias_-har-truffet-land-i-florida-1.18051244",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 10 Oct 2026 03:17:11 GMT"
+    },
+    {
+      "title": "Tre menn dømt for drapet på tre surfere i Mexico",
+      "link": "https://www.nrk.no/nyheter/tre-menn-domt-for-drapet-pa-tre-surfere-i-mexico-1.18051241",
+      "category": "Mexico",
+      "pubDate": "Sat, 10 Oct 2026 02:59:19 GMT"
+    },
+    {
+      "title": "Trump med krass kritikk av Norge i tale",
+      "link": "https://www.nrk.no/nyheter/trump-med-krass-kritikk-av-norge-i-tale-1.18051239",
+      "category": "USA",
+      "pubDate": "Sat, 10 Oct 2026 01:37:35 GMT"
+    },
+    {
+      "title": "Panamas president: Ingen opplysninger om omkomne",
+      "link": "https://www.nrk.no/nyheter/panamas-president_-ingen-opplysninger-om-omkomne-1.18051238",
+      "category": "Jordskjelv i Mellom-Amerika",
+      "pubDate": "Sat, 10 Oct 2026 00:40:00 GMT"
+    },
     {
       "title": "Lufthavnen i Panama har åpnet igjen",
       "link": "https://www.nrk.no/nyheter/lufthavnen-i-panama-har-apnet-igjen-1.18051205",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/sport/norge-vant-2_0-i-romania-_-tok-forste-stikk-i-kampen-om-vm-plass-1.18051210",
       "category": "NRK Nyheter",
       "pubDate": "Fri, 09 Oct 2026 21:20:37 GMT"
-    },
-    {
-      "title": "Fire pågrepet etter voldshendelse i Drammen",
-      "link": "https://www.nrk.no/nyheter/fire-pagrepet-etter-voldshendelse-i-drammen-1.18051192",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Fri, 09 Oct 2026 21:05:49 GMT"
-    },
-    {
-      "title": "Martinus Gunnarsen vant «Let's Dance» Sverige",
-      "link": "https://www.nrk.no/nyheter/martinus-gunnarsen-vant-_let_s-dance_-sverige-1.18051185",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Fri, 09 Oct 2026 20:05:58 GMT"
-    },
-    {
-      "title": "Putin kommenterer oljeavtale med USA",
-      "link": "https://www.nrk.no/nyheter/putin-kommenterer-oljeavtale-med-usa-1.18051182",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 09 Oct 2026 20:00:28 GMT"
-    },
-    {
-      "title": "Fjerner tsunamivarsel etter jordskjelv",
-      "link": "https://www.nrk.no/nyheter/fjerner-tsunamivarsel-etter-jordskjelv-1.18051149",
-      "category": "Panama",
-      "pubDate": "Fri, 09 Oct 2026 19:56:45 GMT"
     }
   ]
 }
