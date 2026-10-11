@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-11T16:42:50.536Z",
+  "updatedAt": "2026-10-11T20:49:34.124Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Burnham: Russland blanda seg inn i Brexit-avstemminga",
+      "link": "https://www.nrk.no/nyheter/burnham_-russland-blanda-seg-inn-i-brexit-avstemminga-1.18052015",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 11 Oct 2026 18:18:15 GMT"
+    },
+    {
+      "title": "Zelenskyj: Russland angreip kraftverk etter Trumps kunngjering om energivåpenkvile",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-russland-angreip-kraftverk-etter-trumps-kunngjering-om-energivapenkvile-1.18051974",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 11 Oct 2026 18:02:42 GMT"
+    },
+    {
+      "title": "Daniella Nordhagen får Jenteprisen",
+      "link": "https://www.nrk.no/nyheter/daniella-nordhagen-far-jenteprisen-1.18051949",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 11 Oct 2026 17:08:06 GMT"
+    },
     {
       "title": "Ny flaum i Nepal – 45 hus tatt",
       "link": "https://www.nrk.no/nyheter/ny-flaum-i-nepal-_-45-hus-tatt-1.18051945",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/afp_-72-drepne-i-luftangrep-mot-gullgruve_-ifolgje-menneskerettsgruppe-1.18051924",
       "category": "Sudan",
       "pubDate": "Sun, 11 Oct 2026 15:44:06 GMT"
-    },
-    {
-      "title": "Mann pågripen for mogleg attentatplan mot Polens statsminister",
-      "link": "https://www.nrk.no/nyheter/mann-pagripen-for-mogleg-attentatplan-mot-polens-statsminister-1.18051918",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 11 Oct 2026 15:17:11 GMT"
-    },
-    {
-      "title": "Nye flyplassangrep i Midtausten",
-      "link": "https://www.nrk.no/nyheter/nye-flyplassangrep-i-midtausten-1.18051912",
-      "category": "Saudi-Arabia",
-      "pubDate": "Sun, 11 Oct 2026 15:06:41 GMT"
-    },
-    {
-      "title": "Axios: Zelenskyj visste ikkje om energivåpenkvile",
-      "link": "https://www.nrk.no/nyheter/axios_-zelenskyj-visste-ikkje-om-energivapenkvile-1.18051886",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 11 Oct 2026 14:50:49 GMT"
     }
   ]
 }
