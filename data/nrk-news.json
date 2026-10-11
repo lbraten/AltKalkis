@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-10T23:43:43.318Z",
+  "updatedAt": "2026-10-11T04:38:23.892Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "SAS-mekling på overtid",
-      "link": "https://www.nrk.no/nyheter/sas-mekling-pa-overtid-1.18051652",
+      "title": "Nytt angrep mot russisk datasenter",
+      "link": "https://www.nrk.no/nyheter/nytt-angrep-mot-russisk-datasenter-1.18051667",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 11 Oct 2026 04:36:01 GMT"
+    },
+    {
+      "title": "USA: Angrep lasteskip i Omanbukta",
+      "link": "https://www.nrk.no/nyheter/usa_-angrep-lasteskip-i-omanbukta-1.18051665",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sun, 11 Oct 2026 02:59:55 GMT"
+    },
+    {
+      "title": "Guterres fordømmer flyplassangrep",
+      "link": "https://www.nrk.no/nyheter/guterres-fordommer-flyplassangrep-1.18051664",
+      "category": "Saudi-Arabia",
+      "pubDate": "Sun, 11 Oct 2026 02:24:01 GMT"
+    },
+    {
+      "title": "SAS-meklingen avsluttet – ikke flystreik neste uke",
+      "link": "https://www.nrk.no/nyheter/sas-meklingen-avsluttet-_-ikke-flystreik-neste-uke-1.18051661",
       "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Sat, 10 Oct 2026 22:38:38 GMT"
+      "pubDate": "Sun, 11 Oct 2026 00:59:07 GMT"
     },
     {
-      "title": "Saudi-Arabia: 12 drept i angrep",
-      "link": "https://www.nrk.no/nyheter/saudi-arabia_-12-drept-i-angrep-1.18051642",
+      "title": "Trump reagerer på flyplassangrep",
+      "link": "https://www.nrk.no/nyheter/trump-reagerer-pa-flyplassangrep-1.18051660",
       "category": "Saudi-Arabia",
-      "pubDate": "Sat, 10 Oct 2026 21:59:52 GMT"
+      "pubDate": "Sun, 11 Oct 2026 00:25:54 GMT"
     },
     {
-      "title": "«Prosjektil» nær saudisk flyplass",
-      "link": "https://www.nrk.no/nyheter/_prosjektil_-naer-saudisk-flyplass-1.18051630",
-      "category": "Saudi-Arabia",
-      "pubDate": "Sat, 10 Oct 2026 21:16:54 GMT"
-    },
-    {
-      "title": "ABC News: Tre døde etter orkanen Isaias",
-      "link": "https://www.nrk.no/nyheter/abc-news_-tre-dode-etter-orkanen-isaias-1.18051552",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 10 Oct 2026 19:54:05 GMT"
-    },
-    {
-      "title": "UD ber nordmenn unngå flyplass i Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/ud-ber-nordmenn-unnga-flyplass-i-saudi-arabia-1.18051370",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 10 Oct 2026 18:47:23 GMT"
-    },
-    {
-      "title": "Iran: Oljetankskip i brann i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran_-oljetankskip-i-brann-i-hormuzstredet-1.18051514",
-      "category": "Krig og konflikt i Midtøsten",
-      "pubDate": "Sat, 10 Oct 2026 17:54:36 GMT"
+      "title": "Iden tok sølv i Ironman-VM",
+      "link": "https://www.nrk.no/nyheter/iden-tok-solv-i-ironman-vm-1.18051654",
+      "category": "Triatlon",
+      "pubDate": "Sun, 11 Oct 2026 00:14:04 GMT"
     }
   ]
 }
