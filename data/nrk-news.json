@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-12T15:54:39.233Z",
+  "updatedAt": "2026-10-12T22:46:24.111Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "EU vil øke presset på Russland. Varsler nye sanksjoner",
-      "link": "https://www.nrk.no/nyheter/eu-vil-oke-presset-pa-russland.-varsler-nye-sanksjoner-1.18052703",
+      "title": "Houthiene advarer USA mot å gå inn i Jemen",
+      "link": "https://www.nrk.no/nyheter/houthiene-advarer-usa-mot-a-ga-inn-i-jemen-1.18053065",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 12 Oct 2026 22:14:30 GMT"
+    },
+    {
+      "title": "Mann funnen død i Gloppen",
+      "link": "https://www.nrk.no/vestland/mann-funnen-dod-i-gloppen-1.18053058",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 12 Oct 2026 19:40:22 GMT"
+    },
+    {
+      "title": "Europa har kjøpt russisk olje og gass for 320 milliarder dollar",
+      "link": "https://www.nrk.no/nyheter/europa-har-kjopt-russisk-olje-og-gass-for-320-milliarder-dollar-1.18053055",
       "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 12 Oct 2026 15:07:22 GMT"
+      "pubDate": "Mon, 12 Oct 2026 19:25:46 GMT"
     },
     {
-      "title": "Eksplosjon rammet skoleklasse på tur i Israel – én død og 19 skadet",
-      "link": "https://www.nrk.no/nyheter/eksplosjon-rammet-skoleklasse-pa-tur-i-israel-_-en-dod-og-19-skadet-1.18052776",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 12 Oct 2026 14:13:06 GMT"
+      "title": "Nei til parlamentarisme i Stavanger",
+      "link": "https://www.nrk.no/rogaland/nei-til-parlamentarisme-i-stavanger-1.18053024",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Mon, 12 Oct 2026 18:20:15 GMT"
     },
     {
-      "title": "Slottet: Dronning Sonja fjernet fra Kongehuset",
-      "link": "https://www.nrk.no/nyheter/slottet_-dronning-sonja-fjernet-fra-kongehuset-1.18052755",
-      "category": "Kongefamilien",
-      "pubDate": "Mon, 12 Oct 2026 13:38:56 GMT"
+      "title": "Flere eksplosjoner hørt i Riyadh",
+      "link": "https://www.nrk.no/nyheter/flere-eksplosjoner-hort-i-riyadh-1.18053008",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 12 Oct 2026 18:12:39 GMT"
     },
     {
-      "title": "To alvorlig skadd etter trafikkulykke i Holmestrand",
-      "link": "https://www.nrk.no/vestfoldogtelemark/to-alvorlig-skadd-etter-trafikkulykke-i-holmestrand-1.18052743",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Mon, 12 Oct 2026 13:04:07 GMT"
-    },
-    {
-      "title": "Tvungen mekling i togstreiken fredag",
-      "link": "https://www.nrk.no/nyheter/tvungen-mekling-i-togstreiken-fredag-1.18052702",
-      "category": "Togproblemer og forsinkelser",
-      "pubDate": "Mon, 12 Oct 2026 12:57:57 GMT"
-    },
-    {
-      "title": "Franske dagligvarekjeder rammet av dataangrep – skrudde opp temperaturen i kjøleskap",
-      "link": "https://www.nrk.no/nyheter/franske-dagligvarekjeder-rammet-av-dataangrep-_-skrudde-opp-temperaturen-i-kjoleskap-1.18052585",
-      "category": "Frankrike",
-      "pubDate": "Mon, 12 Oct 2026 11:59:07 GMT"
+      "title": "Polen: To pågrepet for Starlink-sabotasje",
+      "link": "https://www.nrk.no/nyheter/polen_-to-pagrepet-for-starlink-sabotasje-1.18052922",
+      "category": "Polen",
+      "pubDate": "Mon, 12 Oct 2026 17:58:06 GMT"
     }
   ]
 }
