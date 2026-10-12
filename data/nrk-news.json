@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-12T00:16:22.530Z",
+  "updatedAt": "2026-10-12T06:20:19.011Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "UKMTO: Tankskip ble angrepet med drone",
-      "link": "https://www.nrk.no/nyheter/ukmto_-tankskip-ble-angrepet-med-drone-1.18052089",
+      "title": "Kvinne døde i boligbrann på Hønefoss",
+      "link": "https://www.nrk.no/nyheter/kvinne-dode-i-boligbrann-pa-honefoss-1.18052186",
       "category": "NRK Nyheter",
-      "pubDate": "Sun, 11 Oct 2026 23:59:20 GMT"
+      "pubDate": "Mon, 12 Oct 2026 06:17:04 GMT"
     },
     {
-      "title": "Brann i Hønefoss: Person hentet ut av leilighet",
-      "link": "https://www.nrk.no/nyheter/brann-i-honefoss_-person-hentet-ut-av-leilighet-1.18052087",
+      "title": "Telia nedbemanner",
+      "link": "https://www.nrk.no/nyheter/telia-nedbemanner--1.18052164",
+      "category": "Telia",
+      "pubDate": "Mon, 12 Oct 2026 05:44:46 GMT"
+    },
+    {
+      "title": "Datatilsynet gir Microsoft-selskap rekordbot",
+      "link": "https://www.nrk.no/nyheter/datatilsynet-gir-microsoft-selskap-rekordbot-1.18052159",
+      "category": "Personvern og dataovervåkning",
+      "pubDate": "Mon, 12 Oct 2026 05:09:33 GMT"
+    },
+    {
+      "title": "Beslagla 600.000 narkotiske piller på ett døgn",
+      "link": "https://www.nrk.no/nyheter/beslagla-600.000-narkotiske-piller-pa-ett-dogn-1.18052135",
+      "category": "Tollbeslag",
+      "pubDate": "Mon, 12 Oct 2026 05:06:52 GMT"
+    },
+    {
+      "title": "Ber om å slippe tvunget psykisk helsevern",
+      "link": "https://www.nrk.no/buskerud/ber-om-a-slippe-tvunget-psykisk-helsevern-1.18052101",
       "category": "Nyhetssenter Buskerud",
-      "pubDate": "Sun, 11 Oct 2026 22:59:27 GMT"
+      "pubDate": "Mon, 12 Oct 2026 04:48:25 GMT"
     },
     {
-      "title": "Nominasjonskomite i Oslo Ap har pekt på byrådslederkandidater",
-      "link": "https://www.nrk.no/nyheter/nominasjonskomite-i-oslo-ap-har-pekt-pa-byradslederkandidater-1.18052086",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 11 Oct 2026 21:58:36 GMT"
-    },
-    {
-      "title": "Einige om fiskeforbod i Nordishavet",
-      "link": "https://www.nrk.no/tromsogfinnmark/einige-om-fiskeforbod-i-nordishavet-1.18052058",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 11 Oct 2026 19:48:37 GMT"
-    },
-    {
-      "title": "Burnham: Russland blanda seg inn i Brexit-avstemminga",
-      "link": "https://www.nrk.no/nyheter/burnham_-russland-blanda-seg-inn-i-brexit-avstemminga-1.18052015",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 11 Oct 2026 18:18:15 GMT"
-    },
-    {
-      "title": "Zelenskyj: Russland angreip kraftverk etter Trumps kunngjering om energivåpenkvile",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-russland-angreip-kraftverk-etter-trumps-kunngjering-om-energivapenkvile-1.18051974",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 11 Oct 2026 18:02:42 GMT"
+      "title": "Senatorer om Trumps dieselgrep: – Er i strid med loven",
+      "link": "https://www.nrk.no/nyheter/senatorer-om-trumps-dieselgrep_-_-er-i-strid-med-loven-1.18052088",
+      "category": "Donald Trump",
+      "pubDate": "Mon, 12 Oct 2026 03:59:13 GMT"
     }
   ]
 }
