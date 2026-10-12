@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-11T20:49:34.124Z",
+  "updatedAt": "2026-10-12T00:16:22.530Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "UKMTO: Tankskip ble angrepet med drone",
+      "link": "https://www.nrk.no/nyheter/ukmto_-tankskip-ble-angrepet-med-drone-1.18052089",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 11 Oct 2026 23:59:20 GMT"
+    },
+    {
+      "title": "Brann i Hønefoss: Person hentet ut av leilighet",
+      "link": "https://www.nrk.no/nyheter/brann-i-honefoss_-person-hentet-ut-av-leilighet-1.18052087",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Sun, 11 Oct 2026 22:59:27 GMT"
+    },
+    {
+      "title": "Nominasjonskomite i Oslo Ap har pekt på byrådslederkandidater",
+      "link": "https://www.nrk.no/nyheter/nominasjonskomite-i-oslo-ap-har-pekt-pa-byradslederkandidater-1.18052086",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 11 Oct 2026 21:58:36 GMT"
+    },
+    {
+      "title": "Einige om fiskeforbod i Nordishavet",
+      "link": "https://www.nrk.no/tromsogfinnmark/einige-om-fiskeforbod-i-nordishavet-1.18052058",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 11 Oct 2026 19:48:37 GMT"
+    },
     {
       "title": "Burnham: Russland blanda seg inn i Brexit-avstemminga",
       "link": "https://www.nrk.no/nyheter/burnham_-russland-blanda-seg-inn-i-brexit-avstemminga-1.18052015",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj_-russland-angreip-kraftverk-etter-trumps-kunngjering-om-energivapenkvile-1.18051974",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 11 Oct 2026 18:02:42 GMT"
-    },
-    {
-      "title": "Daniella Nordhagen får Jenteprisen",
-      "link": "https://www.nrk.no/nyheter/daniella-nordhagen-far-jenteprisen-1.18051949",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 11 Oct 2026 17:08:06 GMT"
-    },
-    {
-      "title": "Ny flaum i Nepal – 45 hus tatt",
-      "link": "https://www.nrk.no/nyheter/ny-flaum-i-nepal-_-45-hus-tatt-1.18051945",
-      "category": "Nepal",
-      "pubDate": "Sun, 11 Oct 2026 16:27:25 GMT"
-    },
-    {
-      "title": "Reuters: Houthiane tek ansvar for dødeleg angrep på flyplassen i Riyadh",
-      "link": "https://www.nrk.no/nyheter/reuters_-houthiane-tek-ansvar-for-dodeleg-angrep-pa-flyplassen-i-riyadh-1.18051936",
-      "category": "Saudi-Arabia",
-      "pubDate": "Sun, 11 Oct 2026 16:11:22 GMT"
-    },
-    {
-      "title": "AFP: 72 drepne i luftangrep mot gullgruve, ifølgje menneskerettsgruppe",
-      "link": "https://www.nrk.no/nyheter/afp_-72-drepne-i-luftangrep-mot-gullgruve_-ifolgje-menneskerettsgruppe-1.18051924",
-      "category": "Sudan",
-      "pubDate": "Sun, 11 Oct 2026 15:44:06 GMT"
     }
   ]
 }
