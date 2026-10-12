@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-12T06:20:19.011Z",
+  "updatedAt": "2026-10-12T15:54:39.233Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Kvinne døde i boligbrann på Hønefoss",
-      "link": "https://www.nrk.no/nyheter/kvinne-dode-i-boligbrann-pa-honefoss-1.18052186",
+      "title": "EU vil øke presset på Russland. Varsler nye sanksjoner",
+      "link": "https://www.nrk.no/nyheter/eu-vil-oke-presset-pa-russland.-varsler-nye-sanksjoner-1.18052703",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 12 Oct 2026 15:07:22 GMT"
+    },
+    {
+      "title": "Eksplosjon rammet skoleklasse på tur i Israel – én død og 19 skadet",
+      "link": "https://www.nrk.no/nyheter/eksplosjon-rammet-skoleklasse-pa-tur-i-israel-_-en-dod-og-19-skadet-1.18052776",
       "category": "NRK Nyheter",
-      "pubDate": "Mon, 12 Oct 2026 06:17:04 GMT"
+      "pubDate": "Mon, 12 Oct 2026 14:13:06 GMT"
     },
     {
-      "title": "Telia nedbemanner",
-      "link": "https://www.nrk.no/nyheter/telia-nedbemanner--1.18052164",
-      "category": "Telia",
-      "pubDate": "Mon, 12 Oct 2026 05:44:46 GMT"
+      "title": "Slottet: Dronning Sonja fjernet fra Kongehuset",
+      "link": "https://www.nrk.no/nyheter/slottet_-dronning-sonja-fjernet-fra-kongehuset-1.18052755",
+      "category": "Kongefamilien",
+      "pubDate": "Mon, 12 Oct 2026 13:38:56 GMT"
     },
     {
-      "title": "Datatilsynet gir Microsoft-selskap rekordbot",
-      "link": "https://www.nrk.no/nyheter/datatilsynet-gir-microsoft-selskap-rekordbot-1.18052159",
-      "category": "Personvern og dataovervåkning",
-      "pubDate": "Mon, 12 Oct 2026 05:09:33 GMT"
+      "title": "To alvorlig skadd etter trafikkulykke i Holmestrand",
+      "link": "https://www.nrk.no/vestfoldogtelemark/to-alvorlig-skadd-etter-trafikkulykke-i-holmestrand-1.18052743",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Mon, 12 Oct 2026 13:04:07 GMT"
     },
     {
-      "title": "Beslagla 600.000 narkotiske piller på ett døgn",
-      "link": "https://www.nrk.no/nyheter/beslagla-600.000-narkotiske-piller-pa-ett-dogn-1.18052135",
-      "category": "Tollbeslag",
-      "pubDate": "Mon, 12 Oct 2026 05:06:52 GMT"
+      "title": "Tvungen mekling i togstreiken fredag",
+      "link": "https://www.nrk.no/nyheter/tvungen-mekling-i-togstreiken-fredag-1.18052702",
+      "category": "Togproblemer og forsinkelser",
+      "pubDate": "Mon, 12 Oct 2026 12:57:57 GMT"
     },
     {
-      "title": "Ber om å slippe tvunget psykisk helsevern",
-      "link": "https://www.nrk.no/buskerud/ber-om-a-slippe-tvunget-psykisk-helsevern-1.18052101",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Mon, 12 Oct 2026 04:48:25 GMT"
-    },
-    {
-      "title": "Senatorer om Trumps dieselgrep: – Er i strid med loven",
-      "link": "https://www.nrk.no/nyheter/senatorer-om-trumps-dieselgrep_-_-er-i-strid-med-loven-1.18052088",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 12 Oct 2026 03:59:13 GMT"
+      "title": "Franske dagligvarekjeder rammet av dataangrep – skrudde opp temperaturen i kjøleskap",
+      "link": "https://www.nrk.no/nyheter/franske-dagligvarekjeder-rammet-av-dataangrep-_-skrudde-opp-temperaturen-i-kjoleskap-1.18052585",
+      "category": "Frankrike",
+      "pubDate": "Mon, 12 Oct 2026 11:59:07 GMT"
     }
   ]
 }
