@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-12T22:46:24.111Z",
+  "updatedAt": "2026-10-13T03:23:18.276Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Houthiene advarer USA mot å gå inn i Jemen",
-      "link": "https://www.nrk.no/nyheter/houthiene-advarer-usa-mot-a-ga-inn-i-jemen-1.18053065",
+      "title": "Ti omkom i bussulykke i Bolivia",
+      "link": "https://www.nrk.no/nyheter/ti-omkom-i-bussulykke-i-bolivia-1.18053104",
+      "category": "Bolivia",
+      "pubDate": "Tue, 13 Oct 2026 03:16:07 GMT"
+    },
+    {
+      "title": "Minst fem døde etter orkan og uvær i Mexico",
+      "link": "https://www.nrk.no/nyheter/minst-fem-dode-etter-orkan-og-uvaer-i-mexico-1.18053101",
+      "category": "Mexico",
+      "pubDate": "Tue, 13 Oct 2026 02:12:17 GMT"
+    },
+    {
+      "title": "Fire leiligheter totalskadet etter boligbrann i Brønnøy",
+      "link": "https://www.nrk.no/nyheter/fire-leiligheter-totalskadet-etter-boligbrann-i-bronnoy-1.18053100",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 13 Oct 2026 01:24:43 GMT"
+    },
+    {
+      "title": "Innstiller flygninger til Saudi-Arabia",
+      "link": "https://www.nrk.no/nyheter/innstiller-flygninger-til-saudi-arabia-1.18053099",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 12 Oct 2026 22:14:30 GMT"
+      "pubDate": "Tue, 13 Oct 2026 01:16:08 GMT"
     },
     {
-      "title": "Mann funnen død i Gloppen",
-      "link": "https://www.nrk.no/vestland/mann-funnen-dod-i-gloppen-1.18053058",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 12 Oct 2026 19:40:22 GMT"
+      "title": "En død og seks skadet i ulykke på berg-og-dal-bane i USA",
+      "link": "https://www.nrk.no/nyheter/en-dod-og-seks-skadet-i-ulykke-pa-berg-og-dal-bane-i-usa-1.18053097",
+      "category": "USA",
+      "pubDate": "Tue, 13 Oct 2026 00:50:17 GMT"
     },
     {
-      "title": "Europa har kjøpt russisk olje og gass for 320 milliarder dollar",
-      "link": "https://www.nrk.no/nyheter/europa-har-kjopt-russisk-olje-og-gass-for-320-milliarder-dollar-1.18053055",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 12 Oct 2026 19:25:46 GMT"
-    },
-    {
-      "title": "Nei til parlamentarisme i Stavanger",
-      "link": "https://www.nrk.no/rogaland/nei-til-parlamentarisme-i-stavanger-1.18053024",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Mon, 12 Oct 2026 18:20:15 GMT"
-    },
-    {
-      "title": "Flere eksplosjoner hørt i Riyadh",
-      "link": "https://www.nrk.no/nyheter/flere-eksplosjoner-hort-i-riyadh-1.18053008",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Mon, 12 Oct 2026 18:12:39 GMT"
-    },
-    {
-      "title": "Polen: To pågrepet for Starlink-sabotasje",
-      "link": "https://www.nrk.no/nyheter/polen_-to-pagrepet-for-starlink-sabotasje-1.18052922",
-      "category": "Polen",
-      "pubDate": "Mon, 12 Oct 2026 17:58:06 GMT"
+      "title": "Minst 24 drept i angrep i Nigeria",
+      "link": "https://www.nrk.no/nyheter/minst-24-drept-i-angrep-i-nigeria-1.18053096",
+      "category": "Nigeria",
+      "pubDate": "Tue, 13 Oct 2026 00:21:45 GMT"
     }
   ]
 }
