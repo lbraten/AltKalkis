@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-13T23:00:16.499Z",
+  "updatedAt": "2026-10-14T02:04:17.725Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Russisk missilangrep mot boligblokk i Kyiv",
+      "link": "https://www.nrk.no/nyheter/russisk-missilangrep-mot-boligblokk-i-kyiv-1.18054222",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 14 Oct 2026 01:50:18 GMT"
+    },
+    {
+      "title": "Japan krever rettferdig behandling av fengslet journalist i Russland",
+      "link": "https://www.nrk.no/nyheter/japan-krever-rettferdig-behandling-av-fengslet-journalist-i-russland-1.18054211",
+      "category": "Russland",
+      "pubDate": "Wed, 14 Oct 2026 01:20:18 GMT"
+    },
     {
       "title": "Zelenskyj møter Burnham i London",
       "link": "https://www.nrk.no/nyheter/zelenskyj-moter-burnham-i-london-1.18054208",
@@ -9,8 +21,8 @@
       "pubDate": "Tue, 13 Oct 2026 22:50:03 GMT"
     },
     {
-      "title": "Væpnet politiaksjon i Hamar",
-      "link": "https://www.nrk.no/nyheter/vaepnet-politiaksjon-i-hamar-1.18054207",
+      "title": "Mann pågrepet etter politiaksjon i Hamar",
+      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-politiaksjon-i-hamar-1.18054207",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Tue, 13 Oct 2026 22:32:33 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ny-sesong-av-_girls_-1.18054191",
       "category": "Film og serier",
       "pubDate": "Tue, 13 Oct 2026 21:03:49 GMT"
-    },
-    {
-      "title": "Ingen varsler før Kyiv-angrep tirsdag kveld",
-      "link": "https://www.nrk.no/nyheter/ingen-varsler-for-kyiv-angrep-tirsdag-kveld-1.18054157",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 13 Oct 2026 20:13:53 GMT"
-    },
-    {
-      "title": "Kraftige eksplosjoner hørt i Dhahran i Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/kraftige-eksplosjoner-hort-i-dhahran-i-saudi-arabia-1.18054115",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 13 Oct 2026 18:42:05 GMT"
     }
   ]
 }
