@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-14T18:07:14.954Z",
+  "updatedAt": "2026-10-14T21:52:16.314Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brann i tankskip i rumensk farvann i Svartehavet",
+      "link": "https://www.nrk.no/nyheter/brann-i-tankskip-i-rumensk-farvann-i-svartehavet-1.18055316",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 14 Oct 2026 21:11:44 GMT"
+    },
+    {
+      "title": "Seks skip angrepet på én dag i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/seks-skip-angrepet-pa-en-dag-i-hormuzstredet--1.18055314",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 14 Oct 2026 20:46:14 GMT"
+    },
+    {
+      "title": "Fall på børsene i USA",
+      "link": "https://www.nrk.no/nyheter/fall-pa-borsene-i-usa-1.18055313",
+      "category": "USA",
+      "pubDate": "Wed, 14 Oct 2026 20:39:54 GMT"
+    },
+    {
+      "title": "DN: Forretningsmann siktet for datainnbrudd",
+      "link": "https://www.nrk.no/nyheter/dn_-forretningsmann-siktet-for-datainnbrudd-1.18055248",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 14 Oct 2026 18:50:07 GMT"
+    },
+    {
+      "title": "Åtte delstater saksøker OpenAI",
+      "link": "https://www.nrk.no/nyheter/atte-delstater-saksoker-openai-1.18055113",
+      "category": "Kunstig intelligens",
+      "pubDate": "Wed, 14 Oct 2026 18:38:12 GMT"
+    },
     {
       "title": "Zelenskyj om dieselavtalen: Føler seg forrådt av Trump",
       "link": "https://www.nrk.no/nyheter/zelenskyj-om-dieselavtalen_-foler-seg-forradt-av-trump-1.18055047",
       "category": "Krigen i Ukraina",
       "pubDate": "Wed, 14 Oct 2026 16:29:19 GMT"
-    },
-    {
-      "title": "Avviser ny behandling av Frogner-kvinnens erstatningskrav",
-      "link": "https://www.nrk.no/nyheter/avviser-ny-behandling-av-frogner-kvinnens-erstatningskrav-1.18055059",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Wed, 14 Oct 2026 15:48:31 GMT"
-    },
-    {
-      "title": "Sally Rooney får ikke lenger selge bøker i Storbritannia på grunn av Palestina-støtte",
-      "link": "https://www.nrk.no/nyheter/sally-rooney-far-ikke-lenger-selge-boker-i-storbritannia-pa-grunn-av-palestina-stotte-1.18055017",
-      "category": "Litteratur",
-      "pubDate": "Wed, 14 Oct 2026 15:11:44 GMT"
-    },
-    {
-      "title": "Norge fordeler 750 millioner kroner i krisestøtte til Ukraina",
-      "link": "https://www.nrk.no/nyheter/norge-fordeler-750-millioner-kroner-i-krisestotte-til-ukraina-1.18054967",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 14 Oct 2026 14:18:45 GMT"
-    },
-    {
-      "title": "Nordmenn nominerte til Alma-prisen",
-      "link": "https://www.nrk.no/nyheter/nordmenn-nominerte-til-alma-prisen-1.18054988",
-      "category": "Litteratur",
-      "pubDate": "Wed, 14 Oct 2026 14:00:58 GMT"
-    },
-    {
-      "title": "WSJ: Netflix kutter 1000 jobber",
-      "link": "https://www.nrk.no/nyheter/wsj_-netflix-kutter-1000-jobber-1.18054911",
-      "category": "Teknologi og oppfinnelser",
-      "pubDate": "Wed, 14 Oct 2026 13:33:34 GMT"
     }
   ]
 }
