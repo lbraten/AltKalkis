@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-14T02:04:17.725Z",
+  "updatedAt": "2026-10-14T07:54:45.826Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Russisk missilangrep mot boligblokk i Kyiv",
-      "link": "https://www.nrk.no/nyheter/russisk-missilangrep-mot-boligblokk-i-kyiv-1.18054222",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 14 Oct 2026 01:50:18 GMT"
-    },
-    {
-      "title": "Japan krever rettferdig behandling av fengslet journalist i Russland",
-      "link": "https://www.nrk.no/nyheter/japan-krever-rettferdig-behandling-av-fengslet-journalist-i-russland-1.18054211",
-      "category": "Russland",
-      "pubDate": "Wed, 14 Oct 2026 01:20:18 GMT"
-    },
-    {
-      "title": "Zelenskyj møter Burnham i London",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-moter-burnham-i-london-1.18054208",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 13 Oct 2026 22:50:03 GMT"
-    },
-    {
-      "title": "Mann pågrepet etter politiaksjon i Hamar",
-      "link": "https://www.nrk.no/nyheter/mann-pagrepet-etter-politiaksjon-i-hamar-1.18054207",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Tue, 13 Oct 2026 22:32:33 GMT"
-    },
-    {
-      "title": "Fire personer såret etter angrep mot Riyadh",
-      "link": "https://www.nrk.no/nyheter/fire-personer-saret-etter-angrep-mot-riyadh-1.18054192",
+      "title": "Eksplosjoner i Riyadh",
+      "link": "https://www.nrk.no/nyheter/eksplosjoner-i-riyadh-1.18054384",
       "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 13 Oct 2026 21:57:47 GMT"
+      "pubDate": "Wed, 14 Oct 2026 07:10:25 GMT"
     },
     {
-      "title": "Ny sesong av «Girls»",
-      "link": "https://www.nrk.no/nyheter/ny-sesong-av-_girls_-1.18054191",
-      "category": "Film og serier",
-      "pubDate": "Tue, 13 Oct 2026 21:03:49 GMT"
+      "title": "Nytt angrep mot datasenter i Russland",
+      "link": "https://www.nrk.no/nyheter/nytt-angrep-mot-datasenter-i-russland-1.18054358",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 14 Oct 2026 06:46:41 GMT"
+    },
+    {
+      "title": "Problemer med Starlink i Ukraina",
+      "link": "https://www.nrk.no/nyheter/problemer-med-starlink-i-ukraina-1.18054323",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 14 Oct 2026 06:20:36 GMT"
+    },
+    {
+      "title": "Skolefraværet går nedover",
+      "link": "https://www.nrk.no/nyheter/skolefravaeret-gar-nedover-1.18054318",
+      "category": "Fraværsgrense i skolen",
+      "pubDate": "Wed, 14 Oct 2026 05:33:26 GMT"
+    },
+    {
+      "title": "Tyrkisk politi med aksjon mot opposisjonell TV-kanal",
+      "link": "https://www.nrk.no/nyheter/tyrkisk-politi-med-aksjon-mot-opposisjonell-tv-kanal-1.18054315",
+      "category": "Tyrkia",
+      "pubDate": "Wed, 14 Oct 2026 05:17:36 GMT"
+    },
+    {
+      "title": "Russland bekrefter angrep mot ukrainsk energiinfrastruktur",
+      "link": "https://www.nrk.no/nyheter/russland-bekrefter-angrep-mot-ukrainsk-energiinfrastruktur-1.18054286",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Wed, 14 Oct 2026 05:16:07 GMT"
     }
   ]
 }
