@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-15T00:19:07.226Z",
+  "updatedAt": "2026-10-15T05:00:19.258Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "To personer knivstukket i Sandefjord",
-      "link": "https://www.nrk.no/nyheter/to-personer-knivstukket-i-sandefjord-1.18055346",
+      "title": "Krav om sporing av alle fiskebåter",
+      "link": "https://www.nrk.no/nordland/krav-om-sporing-av-alle-fiskebater-1.18055416",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Thu, 15 Oct 2026 04:48:48 GMT"
+    },
+    {
+      "title": "6 av 10 tilsyn avdekket regelbrudd på kravet om politiattester",
+      "link": "https://www.nrk.no/innlandet/6-av-10-tilsyn-avdekket-regelbrudd-pa-kravet-om-politiattester-1.18055420",
+      "category": "Skole og utdanning i Innlandet",
+      "pubDate": "Thu, 15 Oct 2026 04:45:36 GMT"
+    },
+    {
+      "title": "Colombia har åpnet ambassade i Jerusalem",
+      "link": "https://www.nrk.no/nyheter/colombia-har-apnet-ambassade-i-jerusalem-1.18055400",
+      "category": "Israel",
+      "pubDate": "Thu, 15 Oct 2026 03:40:04 GMT"
+    },
+    {
+      "title": "Dødstallet stiger etter uvær i Mexico",
+      "link": "https://www.nrk.no/nyheter/dodstallet-stiger-etter-uvaer-i-mexico-1.18055378",
+      "category": "Mexico",
+      "pubDate": "Thu, 15 Oct 2026 03:39:34 GMT"
+    },
+    {
+      "title": "Person pågrepet etter knivstikking i Sandefjord",
+      "link": "https://www.nrk.no/nyheter/person-pagrepet-etter-knivstikking-i-sandefjord-1.18055377",
       "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 14 Oct 2026 23:49:59 GMT"
+      "pubDate": "Thu, 15 Oct 2026 03:13:33 GMT"
     },
     {
-      "title": "Trump ønsker paven god bedring",
-      "link": "https://www.nrk.no/nyheter/trump-onsker-paven-god-bedring-1.18055340",
-      "category": "Paven og Vatikanet",
-      "pubDate": "Wed, 14 Oct 2026 22:54:28 GMT"
-    },
-    {
-      "title": "Bolsonaro leder over Lula på ny måling",
-      "link": "https://www.nrk.no/nyheter/bolsonaro-leder-over-lula-pa-ny-maling-1.18055339",
-      "category": "Brasil",
-      "pubDate": "Wed, 14 Oct 2026 22:20:33 GMT"
-    },
-    {
-      "title": "20 meldt drept i jihadistangrep i Nigeria",
-      "link": "https://www.nrk.no/nyheter/20-meldt-drept-i-jihadistangrep-i-nigeria-1.18055322",
-      "category": "Nigeria",
-      "pubDate": "Wed, 14 Oct 2026 22:16:25 GMT"
-    },
-    {
-      "title": "Brann i tankskip i rumensk farvann i Svartehavet",
-      "link": "https://www.nrk.no/nyheter/brann-i-tankskip-i-rumensk-farvann-i-svartehavet-1.18055316",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 14 Oct 2026 21:11:44 GMT"
-    },
-    {
-      "title": "Seks skip angrepet på én dag i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/seks-skip-angrepet-pa-en-dag-i-hormuzstredet--1.18055314",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Wed, 14 Oct 2026 20:46:14 GMT"
+      "title": "Minst fem drept i angrep mot Ukraina",
+      "link": "https://www.nrk.no/nyheter/minst-fem-drept-i-angrep-mot-ukraina-1.18055372",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 15 Oct 2026 03:12:00 GMT"
     }
   ]
 }
