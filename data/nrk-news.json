@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-14T21:52:16.314Z",
+  "updatedAt": "2026-10-15T00:19:07.226Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "To personer knivstukket i Sandefjord",
+      "link": "https://www.nrk.no/nyheter/to-personer-knivstukket-i-sandefjord-1.18055346",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Wed, 14 Oct 2026 23:49:59 GMT"
+    },
+    {
+      "title": "Trump ønsker paven god bedring",
+      "link": "https://www.nrk.no/nyheter/trump-onsker-paven-god-bedring-1.18055340",
+      "category": "Paven og Vatikanet",
+      "pubDate": "Wed, 14 Oct 2026 22:54:28 GMT"
+    },
+    {
+      "title": "Bolsonaro leder over Lula på ny måling",
+      "link": "https://www.nrk.no/nyheter/bolsonaro-leder-over-lula-pa-ny-maling-1.18055339",
+      "category": "Brasil",
+      "pubDate": "Wed, 14 Oct 2026 22:20:33 GMT"
+    },
+    {
+      "title": "20 meldt drept i jihadistangrep i Nigeria",
+      "link": "https://www.nrk.no/nyheter/20-meldt-drept-i-jihadistangrep-i-nigeria-1.18055322",
+      "category": "Nigeria",
+      "pubDate": "Wed, 14 Oct 2026 22:16:25 GMT"
+    },
     {
       "title": "Brann i tankskip i rumensk farvann i Svartehavet",
       "link": "https://www.nrk.no/nyheter/brann-i-tankskip-i-rumensk-farvann-i-svartehavet-1.18055316",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/seks-skip-angrepet-pa-en-dag-i-hormuzstredet--1.18055314",
       "category": "Krigen i Midtøsten",
       "pubDate": "Wed, 14 Oct 2026 20:46:14 GMT"
-    },
-    {
-      "title": "Fall på børsene i USA",
-      "link": "https://www.nrk.no/nyheter/fall-pa-borsene-i-usa-1.18055313",
-      "category": "USA",
-      "pubDate": "Wed, 14 Oct 2026 20:39:54 GMT"
-    },
-    {
-      "title": "DN: Forretningsmann siktet for datainnbrudd",
-      "link": "https://www.nrk.no/nyheter/dn_-forretningsmann-siktet-for-datainnbrudd-1.18055248",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 14 Oct 2026 18:50:07 GMT"
-    },
-    {
-      "title": "Åtte delstater saksøker OpenAI",
-      "link": "https://www.nrk.no/nyheter/atte-delstater-saksoker-openai-1.18055113",
-      "category": "Kunstig intelligens",
-      "pubDate": "Wed, 14 Oct 2026 18:38:12 GMT"
-    },
-    {
-      "title": "Zelenskyj om dieselavtalen: Føler seg forrådt av Trump",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-om-dieselavtalen_-foler-seg-forradt-av-trump-1.18055047",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 14 Oct 2026 16:29:19 GMT"
     }
   ]
 }
