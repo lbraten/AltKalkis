@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-15T22:34:52.781Z",
+  "updatedAt": "2026-10-16T01:01:29.215Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Politiet: Tre barn og en lærer drept i USA",
+      "link": "https://www.nrk.no/nyheter/politiet_-tre-barn-og-en-laerer-drept-i-usa-1.18056387",
+      "category": "USA",
+      "pubDate": "Fri, 16 Oct 2026 00:44:57 GMT"
+    },
+    {
+      "title": "MC-fører stakk fra kontroll i Holmestrand",
+      "link": "https://www.nrk.no/nyheter/mc-forer-stakk-fra-kontroll-i-holmestrand-1.18056386",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Fri, 16 Oct 2026 00:30:45 GMT"
+    },
+    {
+      "title": "Bolsonaro leder over Lula på enda en måling",
+      "link": "https://www.nrk.no/nyheter/bolsonaro-leder-over-lula-pa-enda-en-maling-1.18056385",
+      "category": "Brasil",
+      "pubDate": "Fri, 16 Oct 2026 00:01:45 GMT"
+    },
+    {
+      "title": "Amerikanske medier: Fem døde etter skyting på barneskole",
+      "link": "https://www.nrk.no/nyheter/amerikanske-medier_-fem-dode-etter-skyting-pa-barneskole-1.18056384",
+      "category": "USA",
+      "pubDate": "Thu, 15 Oct 2026 22:44:45 GMT"
+    },
+    {
+      "title": "Droneangrep mot industriområde i Russland",
+      "link": "https://www.nrk.no/nyheter/droneangrep-mot-industriomrade-i-russland-1.18056360",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 15 Oct 2026 22:40:31 GMT"
+    },
     {
       "title": "Melding om skyting ved barneskole i USA",
       "link": "https://www.nrk.no/nyheter/melding-om-skyting-ved-barneskole-i-usa-1.18056359",
       "category": "USA",
       "pubDate": "Thu, 15 Oct 2026 21:26:44 GMT"
-    },
-    {
-      "title": "Argentina: Opptøyer under protest mot utdanningskutt",
-      "link": "https://www.nrk.no/nyheter/argentina_-opptoyer-under-protest-mot-utdanningskutt--1.18056287",
-      "category": "Argentina",
-      "pubDate": "Thu, 15 Oct 2026 20:06:43 GMT"
-    },
-    {
-      "title": "Deichman Bjørvika vann prestisjetung pris",
-      "link": "https://www.nrk.no/stor-oslo/deichman-bjorvika-vann-prestisjetung-pris-1.18056135",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 15 Oct 2026 19:50:30 GMT"
-    },
-    {
-      "title": "Frankrike: 19 skadd i kollisjon mellom tog og buss",
-      "link": "https://www.nrk.no/nyheter/frankrike_-19-skadd-i-kollisjon-mellom-tog-og-buss-1.18056308",
-      "category": "Frankrike",
-      "pubDate": "Thu, 15 Oct 2026 19:18:57 GMT"
-    },
-    {
-      "title": "Bekymringsmelding mot kommunedirektøren i Tromsø",
-      "link": "https://www.nrk.no/tromsogfinnmark/bekymringsmelding-mot-kommunedirektoren-i-tromso-1.18056184",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Thu, 15 Oct 2026 19:09:41 GMT"
-    },
-    {
-      "title": "Kongo: Ebolasmitte bekreftet i nok en provins",
-      "link": "https://www.nrk.no/nyheter/kongo_-ebolasmitte-bekreftet-i-nok-en-provins-1.18056240",
-      "category": "Ebola",
-      "pubDate": "Thu, 15 Oct 2026 18:18:21 GMT"
     }
   ]
 }
