@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-16T11:46:30.808Z",
+  "updatedAt": "2026-10-16T16:15:22.334Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Zelenskyj: Bruker ikke Starlink til å angripe Russland",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-bruker-ikke-starlink-til-a-angripe-russland-1.18056820",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 16 Oct 2026 11:45:37 GMT"
+      "title": "Russland bygger sikkerhetssone ved grensen",
+      "link": "https://www.nrk.no/nyheter/russland-bygger-sikkerhetssone-ved-grensen-1.18057153",
+      "category": "Russland",
+      "pubDate": "Fri, 16 Oct 2026 16:06:16 GMT"
     },
     {
-      "title": "Peter Frølich tilbake på Stortinget etter sjukefråvær",
-      "link": "https://www.nrk.no/vestland/peter-frolich-tilbake-pa-stortinget-etter-sjukefravaer-1.18056918",
+      "title": "Paven ber Putin om våpenhvile i Olesjky",
+      "link": "https://www.nrk.no/nyheter/paven-ber-putin-om-vapenhvile-i-olesjky--1.18057041",
+      "category": "Paven og Vatikanet",
+      "pubDate": "Fri, 16 Oct 2026 15:38:44 GMT"
+    },
+    {
+      "title": "Over 6,6 milliarder til ebola-håndtering ikke gjort rede for",
+      "link": "https://www.nrk.no/nyheter/over-6_6-milliarder-til-ebola-handtering-ikke-gjort-rede-for-1.18057113",
+      "category": "DR Kongo",
+      "pubDate": "Fri, 16 Oct 2026 15:20:40 GMT"
+    },
+    {
+      "title": "Russisk utsending om dieselavtalen: USA ber Russlands investeringsfond bistå",
+      "link": "https://www.nrk.no/nyheter/russisk-utsending-om-dieselavtalen_-usa-ber-russlands-investeringsfond-bista-1.18057040",
+      "category": "Russland og USA",
+      "pubDate": "Fri, 16 Oct 2026 14:32:57 GMT"
+    },
+    {
+      "title": "Rykker ut til gasslekkasje i Bergen",
+      "link": "https://www.nrk.no/vestland/rykker-ut-til-gasslekkasje-i-bergen-1.18056925",
       "category": "Nyhetssenter Vestland",
-      "pubDate": "Fri, 16 Oct 2026 11:43:33 GMT"
+      "pubDate": "Fri, 16 Oct 2026 13:41:31 GMT"
     },
     {
-      "title": "19-åring dømt til 20 års fengsel",
-      "link": "https://www.nrk.no/nyheter/19-aring-domt-til-20-ars-fengsel-1.18056813",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 16 Oct 2026 10:46:07 GMT"
-    },
-    {
-      "title": "Skal fjerne boligdemonstranter",
-      "link": "https://www.nrk.no/nyheter/skal-fjerne-boligdemonstranter-1.18056761",
-      "category": "Spania",
-      "pubDate": "Fri, 16 Oct 2026 10:43:23 GMT"
-    },
-    {
-      "title": "Unge Høyre reagerer på etikk-utspill",
-      "link": "https://www.nrk.no/nyheter/unge-hoyre-reagerer-pa-etikk-utspill-1.18056675",
-      "category": "Oljefondet",
-      "pubDate": "Fri, 16 Oct 2026 09:54:51 GMT"
-    },
-    {
-      "title": "Fire menn dømt etter skyting på Grünerløkka",
-      "link": "https://www.nrk.no/stor-oslo/fire-menn-domt-etter-skyting-pa-grunerlokka-1.18056702",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 16 Oct 2026 09:21:28 GMT"
+      "title": "Over én million mistet strømmen etter russiske angrep",
+      "link": "https://www.nrk.no/nyheter/over-en-million-mistet-strommen-etter-russiske-angrep-1.18057014",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 16 Oct 2026 13:15:12 GMT"
     }
   ]
 }
