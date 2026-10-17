@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-17T19:03:32.997Z",
+  "updatedAt": "2026-10-17T21:37:08.443Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Søkkehol har utvida seg",
+      "link": "https://www.nrk.no/vestland/sokkehol-har-utvida-seg-1.18057682",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 17 Oct 2026 19:50:52 GMT"
+    },
+    {
+      "title": "Israelske bosettere angrep diplomater på Vestbredden",
+      "link": "https://www.nrk.no/nyheter/israelske-bosettere-angrep-diplomater-pa-vestbredden-1.18057637",
+      "category": "Vestbredden",
+      "pubDate": "Sat, 17 Oct 2026 19:47:35 GMT"
+    },
+    {
+      "title": "Kvinne døde etter skyting – tenåringer pågrepet",
+      "link": "https://www.nrk.no/nyheter/kvinne-dode-etter-skyting-_-tenaringer-pagrepet-1.18057643",
+      "category": "Sverige",
+      "pubDate": "Sat, 17 Oct 2026 19:21:16 GMT"
+    },
     {
       "title": "400 arrestert i voldsomme protester i Frankrike",
       "link": "https://www.nrk.no/nyheter/400-arrestert-i-voldsomme-protester-i-frankrike-1.18057667",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/ndtv_-minst-17-dode-under-trengsel-pa-festival-i-india-1.18057489",
       "category": "India",
       "pubDate": "Sat, 17 Oct 2026 16:50:11 GMT"
-    },
-    {
-      "title": "To menn siktet for hallikvirksomhet i Trøndelag",
-      "link": "https://www.nrk.no/trondelag/to-menn-siktet-for-hallikvirksomhet-i-trondelag-1.18057577",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sat, 17 Oct 2026 15:20:31 GMT"
-    },
-    {
-      "title": "Nye opptøyer i Albania",
-      "link": "https://www.nrk.no/nyheter/nye-opptoyer-i-albania-1.18057488",
-      "category": "Albania",
-      "pubDate": "Sat, 17 Oct 2026 15:10:24 GMT"
-    },
-    {
-      "title": "Horten: Bil har kjørt inn i bygning",
-      "link": "https://www.nrk.no/ostfold/horten_-bil-har-kjort-inn-i-bygning-1.18057504",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 17 Oct 2026 12:49:46 GMT"
     }
   ]
 }
