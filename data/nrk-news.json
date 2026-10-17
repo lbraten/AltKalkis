@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-16T22:38:24.574Z",
+  "updatedAt": "2026-10-17T01:08:33.926Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person savnet etter vannscooter-ulykke i Bodø",
+      "link": "https://www.nrk.no/nyheter/person-savnet-etter-vannscooter-ulykke-i-bodo-1.18057322",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 17 Oct 2026 01:05:44 GMT"
+    },
+    {
+      "title": "Trump fjerner flere sanskjoner mot Russland",
+      "link": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanskjoner-mot-russland-1.18057320",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 17 Oct 2026 00:50:26 GMT"
+    },
+    {
+      "title": "Trump gjør narr av navnet Mohammed",
+      "link": "https://www.nrk.no/nyheter/trump-gjor-narr-av-navnet-mohammed-1.18057318",
+      "category": "Donald Trump",
+      "pubDate": "Sat, 17 Oct 2026 00:13:30 GMT"
+    },
+    {
+      "title": "16-åring bak masseskyting på skole i USA var tidligere elev",
+      "link": "https://www.nrk.no/nyheter/16-aring-bak-masseskyting-pa-skole-i-usa-var-tidligere-elev-1.18057317",
+      "category": "USA",
+      "pubDate": "Sat, 17 Oct 2026 00:00:47 GMT"
+    },
+    {
+      "title": "Moldova fordømmer Russland etter at fem droner styrtet i landet",
+      "link": "https://www.nrk.no/nyheter/moldova-fordommer-russland-etter-at-fem-droner-styrtet-i-landet-1.18057316",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 16 Oct 2026 22:46:31 GMT"
+    },
     {
       "title": "Seks medlemmer ut i offshorestreik etter brudd i mekling",
       "link": "https://www.nrk.no/nyheter/seks-medlemmer-ut-i-offshorestreik-etter-brudd-i-mekling-1.18057315",
       "category": "Lønnsoppgjøret 2026",
       "pubDate": "Fri, 16 Oct 2026 22:34:25 GMT"
-    },
-    {
-      "title": "Storbritannia fraråder reiser til Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/storbritannia-frarader-reiser-til-saudi-arabia-1.18057295",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Fri, 16 Oct 2026 22:31:27 GMT"
-    },
-    {
-      "title": "Kollisjon mellom trikk og taxi i Oslo",
-      "link": "https://www.nrk.no/nyheter/kollisjon-mellom-trikk-og-taxi-i-oslo-1.18057294",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Fri, 16 Oct 2026 20:58:45 GMT"
-    },
-    {
-      "title": "Person alvorlig skadet etter skyting i Stockholm",
-      "link": "https://www.nrk.no/nyheter/person-alvorlig-skadet-etter-skyting-i-stockholm-1.18057293",
-      "category": "Sverige",
-      "pubDate": "Fri, 16 Oct 2026 20:57:36 GMT"
-    },
-    {
-      "title": "Houtiene tar på seg ansvar for rakettangrep",
-      "link": "https://www.nrk.no/nyheter/houtiene-tar-pa-seg-ansvar-for-rakettangrep-1.18057278",
-      "category": "Jemen",
-      "pubDate": "Fri, 16 Oct 2026 20:14:24 GMT"
-    },
-    {
-      "title": "Vestbredden: Amerikansk fotograf blant skadde i bosetterangrep",
-      "link": "https://www.nrk.no/nyheter/vestbredden_-amerikansk-fotograf-blant-skadde-i-bosetterangrep-1.18057261",
-      "category": "Vestbredden",
-      "pubDate": "Fri, 16 Oct 2026 19:27:56 GMT"
     }
   ]
 }
