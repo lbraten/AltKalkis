@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-17T01:08:33.926Z",
+  "updatedAt": "2026-10-17T05:56:41.433Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Oljetanker i brann i Hormuzstredet",
+      "link": "https://www.nrk.no/nyheter/oljetanker-i-brann-i-hormuzstredet-1.18057331",
+      "category": "Iran",
+      "pubDate": "Sat, 17 Oct 2026 05:55:37 GMT"
+    },
+    {
+      "title": "Vy og Spekter: Togstreiken over",
+      "link": "https://www.nrk.no/nyheter/vy-og-spekter_-togstreiken-over-1.18057323",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Sat, 17 Oct 2026 02:40:36 GMT"
+    },
     {
       "title": "Person savnet etter vannscooter-ulykke i Bodø",
       "link": "https://www.nrk.no/nyheter/person-savnet-etter-vannscooter-ulykke-i-bodo-1.18057322",
@@ -9,9 +21,9 @@
       "pubDate": "Sat, 17 Oct 2026 01:05:44 GMT"
     },
     {
-      "title": "Trump fjerner flere sanskjoner mot Russland",
-      "link": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanskjoner-mot-russland-1.18057320",
-      "category": "NRK Nyheter",
+      "title": "Trump fjerner flere sanksjoner mot Russland",
+      "link": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanksjoner-mot-russland-1.18057320",
+      "category": "Krigen i Ukraina",
       "pubDate": "Sat, 17 Oct 2026 00:50:26 GMT"
     },
     {
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/16-aring-bak-masseskyting-pa-skole-i-usa-var-tidligere-elev-1.18057317",
       "category": "USA",
       "pubDate": "Sat, 17 Oct 2026 00:00:47 GMT"
-    },
-    {
-      "title": "Moldova fordømmer Russland etter at fem droner styrtet i landet",
-      "link": "https://www.nrk.no/nyheter/moldova-fordommer-russland-etter-at-fem-droner-styrtet-i-landet-1.18057316",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Fri, 16 Oct 2026 22:46:31 GMT"
-    },
-    {
-      "title": "Seks medlemmer ut i offshorestreik etter brudd i mekling",
-      "link": "https://www.nrk.no/nyheter/seks-medlemmer-ut-i-offshorestreik-etter-brudd-i-mekling-1.18057315",
-      "category": "Lønnsoppgjøret 2026",
-      "pubDate": "Fri, 16 Oct 2026 22:34:25 GMT"
     }
   ]
 }
