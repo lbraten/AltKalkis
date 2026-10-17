@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-17T21:37:08.443Z",
+  "updatedAt": "2026-10-17T23:49:38.904Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Moskvas ordfører: 200 ukrainske droner skutt ned på vei mot byen",
+      "link": "https://www.nrk.no/nyheter/moskvas-ordforer_-200-ukrainske-droner-skutt-ned-pa-vei-mot-byen-1.18057730",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 17 Oct 2026 23:38:47 GMT"
+    },
+    {
+      "title": "Mann til Ullevål etter elsparkesykkelulykke i Sandefjord",
+      "link": "https://www.nrk.no/nyheter/mann-til-ulleval-etter-elsparkesykkelulykke-i-sandefjord-1.18057729",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 17 Oct 2026 23:14:30 GMT"
+    },
+    {
+      "title": "To døde etter at bil kjørte inn på fotballbane i USA",
+      "link": "https://www.nrk.no/nyheter/to-dode-etter-at-bil-kjorte-inn-pa-fotballbane-i-usa-1.18057724",
+      "category": "USA",
+      "pubDate": "Sat, 17 Oct 2026 22:44:49 GMT"
+    },
+    {
+      "title": "Frankrike: 1200 pågrepet og 150 politifolk skadet",
+      "link": "https://www.nrk.no/nyheter/frankrike_-1200-pagrepet-og-150-politifolk-skadet-1.18057706",
+      "category": "Frankrike",
+      "pubDate": "Sat, 17 Oct 2026 22:29:19 GMT"
+    },
     {
       "title": "Søkkehol har utvida seg",
       "link": "https://www.nrk.no/vestland/sokkehol-har-utvida-seg-1.18057682",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/israelske-bosettere-angrep-diplomater-pa-vestbredden-1.18057637",
       "category": "Vestbredden",
       "pubDate": "Sat, 17 Oct 2026 19:47:35 GMT"
-    },
-    {
-      "title": "Kvinne døde etter skyting – tenåringer pågrepet",
-      "link": "https://www.nrk.no/nyheter/kvinne-dode-etter-skyting-_-tenaringer-pagrepet-1.18057643",
-      "category": "Sverige",
-      "pubDate": "Sat, 17 Oct 2026 19:21:16 GMT"
-    },
-    {
-      "title": "400 arrestert i voldsomme protester i Frankrike",
-      "link": "https://www.nrk.no/nyheter/400-arrestert-i-voldsomme-protester-i-frankrike-1.18057667",
-      "category": "Frankrike",
-      "pubDate": "Sat, 17 Oct 2026 18:15:01 GMT"
-    },
-    {
-      "title": "Fire personer siktet for medvirkning til frihetsberøvelse i Bergen",
-      "link": "https://www.nrk.no/nyheter/fire-personer-siktet-for-medvirkning-til-frihetsberovelse-i-bergen-1.18057582",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 17 Oct 2026 17:02:31 GMT"
-    },
-    {
-      "title": "NDTV: Minst 17 døde under trengsel på festival i India",
-      "link": "https://www.nrk.no/nyheter/ndtv_-minst-17-dode-under-trengsel-pa-festival-i-india-1.18057489",
-      "category": "India",
-      "pubDate": "Sat, 17 Oct 2026 16:50:11 GMT"
     }
   ]
 }
