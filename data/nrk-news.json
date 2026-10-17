@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-17T16:53:07.763Z",
+  "updatedAt": "2026-10-17T19:03:32.997Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "400 arrestert i voldsomme protester i Frankrike",
+      "link": "https://www.nrk.no/nyheter/400-arrestert-i-voldsomme-protester-i-frankrike-1.18057667",
+      "category": "Frankrike",
+      "pubDate": "Sat, 17 Oct 2026 18:15:01 GMT"
+    },
+    {
+      "title": "Fire personer siktet for medvirkning til frihetsberøvelse i Bergen",
+      "link": "https://www.nrk.no/nyheter/fire-personer-siktet-for-medvirkning-til-frihetsberovelse-i-bergen-1.18057582",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 17 Oct 2026 17:02:31 GMT"
+    },
     {
       "title": "NDTV: Minst 17 døde under trengsel på festival i India",
       "link": "https://www.nrk.no/nyheter/ndtv_-minst-17-dode-under-trengsel-pa-festival-i-india-1.18057489",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/ostfold/horten_-bil-har-kjort-inn-i-bygning-1.18057504",
       "category": "Nyhetssenter Vestfold og Telemark",
       "pubDate": "Sat, 17 Oct 2026 12:49:46 GMT"
-    },
-    {
-      "title": "Politiet bruker tåregass i Paris",
-      "link": "https://www.nrk.no/nyheter/politiet-bruker-taregass-i-paris-1.18057455",
-      "category": "Frankrike",
-      "pubDate": "Sat, 17 Oct 2026 11:46:38 GMT"
-    },
-    {
-      "title": "Fant død person på Andenes",
-      "link": "https://www.nrk.no/nordland/fant-dod-person-pa-andenes-1.18057425",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 17 Oct 2026 10:30:21 GMT"
     }
   ]
 }
