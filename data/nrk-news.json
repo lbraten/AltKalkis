@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-17T13:52:16.097Z",
+  "updatedAt": "2026-10-17T16:53:07.763Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "NDTV: Minst 17 døde under trengsel på festival i India",
+      "link": "https://www.nrk.no/nyheter/ndtv_-minst-17-dode-under-trengsel-pa-festival-i-india-1.18057489",
+      "category": "India",
+      "pubDate": "Sat, 17 Oct 2026 16:50:11 GMT"
+    },
+    {
+      "title": "To menn siktet for hallikvirksomhet i Trøndelag",
+      "link": "https://www.nrk.no/trondelag/to-menn-siktet-for-hallikvirksomhet-i-trondelag-1.18057577",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 17 Oct 2026 15:20:31 GMT"
+    },
+    {
+      "title": "Nye opptøyer i Albania",
+      "link": "https://www.nrk.no/nyheter/nye-opptoyer-i-albania-1.18057488",
+      "category": "Albania",
+      "pubDate": "Sat, 17 Oct 2026 15:10:24 GMT"
+    },
     {
       "title": "Horten: Bil har kjørt inn i bygning",
       "link": "https://www.nrk.no/ostfold/horten_-bil-har-kjort-inn-i-bygning-1.18057504",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nordland/fant-dod-person-pa-andenes-1.18057425",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Sat, 17 Oct 2026 10:30:21 GMT"
-    },
-    {
-      "title": "Paven skrives ut i ettermiddag",
-      "link": "https://www.nrk.no/nyheter/paven-skrives-ut-i-ettermiddag-1.18057413",
-      "category": "Paven og Vatikanet",
-      "pubDate": "Sat, 17 Oct 2026 09:51:46 GMT"
-    },
-    {
-      "title": "Brann i valseverk på Karmøy slukket – ingen skadet",
-      "link": "https://www.nrk.no/rogaland/brann-i-valseverk-pa-karmoy-slukket-_-ingen-skadet--1.18057414",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 17 Oct 2026 09:35:43 GMT"
-    },
-    {
-      "title": "Norge forlot salen da Russland talte",
-      "link": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 17 Oct 2026 09:32:09 GMT"
     }
   ]
 }
