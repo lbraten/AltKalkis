@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-17T10:26:28.020Z",
+  "updatedAt": "2026-10-17T13:52:16.097Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Horten: Bil har kjørt inn i bygning",
+      "link": "https://www.nrk.no/ostfold/horten_-bil-har-kjort-inn-i-bygning-1.18057504",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Sat, 17 Oct 2026 12:49:46 GMT"
+    },
+    {
+      "title": "Politiet bruker tåregass i Paris",
+      "link": "https://www.nrk.no/nyheter/politiet-bruker-taregass-i-paris-1.18057455",
+      "category": "Frankrike",
+      "pubDate": "Sat, 17 Oct 2026 11:46:38 GMT"
+    },
+    {
+      "title": "Fant død person på Andenes",
+      "link": "https://www.nrk.no/nordland/fant-dod-person-pa-andenes-1.18057425",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Sat, 17 Oct 2026 10:30:21 GMT"
+    },
     {
       "title": "Paven skrives ut i ettermiddag",
       "link": "https://www.nrk.no/nyheter/paven-skrives-ut-i-ettermiddag-1.18057413",
@@ -9,8 +27,8 @@
       "pubDate": "Sat, 17 Oct 2026 09:51:46 GMT"
     },
     {
-      "title": "Brann på Hydro Aluminium på Karmøy – ingen skadet",
-      "link": "https://www.nrk.no/rogaland/brann-pa-hydro-aluminium-pa-karmoy-_-ingen-skadet--1.18057414",
+      "title": "Brann i valseverk på Karmøy slukket – ingen skadet",
+      "link": "https://www.nrk.no/rogaland/brann-i-valseverk-pa-karmoy-slukket-_-ingen-skadet--1.18057414",
       "category": "Nyheter fra Rogaland",
       "pubDate": "Sat, 17 Oct 2026 09:35:43 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 17 Oct 2026 09:32:09 GMT"
-    },
-    {
-      "title": "Sjeldent Munch-tresnitt funnet i England",
-      "link": "https://www.nrk.no/nyheter/sjeldent-munch-tresnitt-funnet-i-england-1.18057396",
-      "category": "Edvard Munch",
-      "pubDate": "Sat, 17 Oct 2026 08:49:58 GMT"
-    },
-    {
-      "title": "Tenåringer pågrepet etter skyting",
-      "link": "https://www.nrk.no/nyheter/tenaringer-pagrepet-etter-skyting-1.18057376",
-      "category": "Sverige",
-      "pubDate": "Sat, 17 Oct 2026 08:20:21 GMT"
-    },
-    {
-      "title": "Tankskip truffet nordøst for Saudi-Arabia",
-      "link": "https://www.nrk.no/nyheter/tankskip-truffet-nordost-for-saudi-arabia-1.18057344",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 17 Oct 2026 06:57:42 GMT"
     }
   ]
 }
