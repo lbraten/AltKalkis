@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-18T16:42:49.487Z",
+  "updatedAt": "2026-10-18T19:16:19.456Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nesten 1000 politifolk skadet i Frankrike",
+      "link": "https://www.nrk.no/nyheter/nesten-1000-politifolk-skadet-i-frankrike-1.18058078",
+      "category": "Frankrike",
+      "pubDate": "Sun, 18 Oct 2026 18:50:40 GMT"
+    },
+    {
+      "title": "Macron: Ingenting rettferdiggjør voldsbruken",
+      "link": "https://www.nrk.no/nyheter/macron_-ingenting-rettferdiggjor-voldsbruken-1.18058048",
+      "category": "Frankrike",
+      "pubDate": "Sun, 18 Oct 2026 18:10:11 GMT"
+    },
     {
       "title": "Carney: Fire soldater døde i brann",
       "link": "https://www.nrk.no/nyheter/carney_-fire-soldater-dode-i-brann-1.18058036",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/trump-med-stotte-til-netanyahu-1.18057961",
       "category": "Israel",
       "pubDate": "Sun, 18 Oct 2026 15:09:04 GMT"
-    },
-    {
-      "title": "To tenåringer pågrepet etter funn av skadet mann i skogsområde",
-      "link": "https://www.nrk.no/innlandet/to-tenaringer-pagrepet-etter-funn-av-skadet-mann-i-skogsomrade-1.18057977",
-      "category": "Politi- og brannloggen i Innlandet",
-      "pubDate": "Sun, 18 Oct 2026 14:41:50 GMT"
-    },
-    {
-      "title": "Zelenskyj advarer Trump mot «historisk feil»",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-advarer-trump-mot-_historisk-feil_-1.18057936",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 18 Oct 2026 13:33:33 GMT"
     }
   ]
 }
