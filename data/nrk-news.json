@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-10-18T21:40:54.247Z",
+  "updatedAt": "2026-10-18T23:57:56.000Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "39 skadd i brann på militærbase i Canada",
-      "link": "https://www.nrk.no/nyheter/39-skadd-i-brann-pa-militaerbase-i-canada-1.18058117",
+      "title": "En drept og to såret i angrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/en-drept-og-to-saret-i-angrep-mot-kyiv-1.18058127",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 18 Oct 2026 23:27:08 GMT"
+    },
+    {
+      "title": "Etterlyser mer forskning på klankriminalitet",
+      "link": "https://www.nrk.no/nyheter/etterlyser-mer-forskning-pa-klankriminalitet-1.18058126",
+      "category": "Kriminelle gjenger",
+      "pubDate": "Sun, 18 Oct 2026 22:41:17 GMT"
+    },
+    {
+      "title": "Fire døde og 39 skadd i brann på militærbase i Canada",
+      "link": "https://www.nrk.no/nyheter/fire-dode-og-39-skadd-i-brann-pa-militaerbase-i-canada-1.18058117",
       "category": "Canada",
       "pubDate": "Sun, 18 Oct 2026 21:23:50 GMT"
     },
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/fly-fra-tel-aviv-omdirigert-etter-trussel-1.18058094",
       "category": "Israel",
       "pubDate": "Sun, 18 Oct 2026 19:48:13 GMT"
-    },
-    {
-      "title": "Oslo-byråd gir seg: – Medaljen har en bakside",
-      "link": "https://www.nrk.no/stor-oslo/oslo-byrad-gir-seg_-_-medaljen-har-en-bakside-1.18058099",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 18 Oct 2026 19:42:26 GMT"
-    },
-    {
-      "title": "Zelenskyj til Bloomberg: Trump presser Ukraina til å kapitulere",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-til-bloomberg_-trump-presser-ukraina-til-a-kapitulere-1.18058084",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 18 Oct 2026 19:17:11 GMT"
     }
   ]
 }
