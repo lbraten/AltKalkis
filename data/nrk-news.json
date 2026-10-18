@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-18T03:33:12.717Z",
+  "updatedAt": "2026-10-18T08:39:28.986Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Elleve savnet etter båtforlis i Mexico",
-      "link": "https://www.nrk.no/nyheter/elleve-savnet-etter-batforlis-i-mexico-1.18057742",
+      "title": "Redningsaksjon i Kristiansand – dykker skal ha fått problemer",
+      "link": "https://www.nrk.no/sorlandet/redningsaksjon-i-kristiansand-_-dykker-skal-ha-fatt-problemer-1.18057779",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 18 Oct 2026 08:24:28 GMT"
+    },
+    {
+      "title": "Ny forsvarsminister i Iran",
+      "link": "https://www.nrk.no/nyheter/ny-forsvarsminister-i-iran-1.18057818",
+      "category": "Iran",
+      "pubDate": "Sun, 18 Oct 2026 08:14:36 GMT"
+    },
+    {
+      "title": "855 pågrepet etter opptøyene i Paris",
+      "link": "https://www.nrk.no/nyheter/855-pagrepet-etter-opptoyene-i-paris-1.18057754",
+      "category": "Frankrike",
+      "pubDate": "Sun, 18 Oct 2026 07:33:49 GMT"
+    },
+    {
+      "title": "Norge og Vietnam har inngått frihandelsavtale",
+      "link": "https://www.nrk.no/nyheter/norge-og-vietnam-har-inngatt-frihandelsavtale-1.18057752",
+      "category": "Støre-regjeringen",
+      "pubDate": "Sun, 18 Oct 2026 04:52:01 GMT"
+    },
+    {
+      "title": "USA: Bosettervold på Vestbredden er foruroligende",
+      "link": "https://www.nrk.no/nyheter/usa_-bosettervold-pa-vestbredden-er-foruroligende-1.18057743",
+      "category": "Vestbredden",
+      "pubDate": "Sun, 18 Oct 2026 03:38:15 GMT"
+    },
+    {
+      "title": "11 savnet etter båtforlis i Mexico",
+      "link": "https://www.nrk.no/nyheter/11-savnet-etter-batforlis-i-mexico-1.18057742",
       "category": "Mexico",
       "pubDate": "Sun, 18 Oct 2026 02:43:45 GMT"
-    },
-    {
-      "title": "Vance skylder på innvandring etter uro i Frankrike",
-      "link": "https://www.nrk.no/nyheter/vance-skylder-pa-innvandring-etter-uro-i-frankrike-1.18057739",
-      "category": "Frankrike",
-      "pubDate": "Sun, 18 Oct 2026 02:41:29 GMT"
-    },
-    {
-      "title": "Canada: Flere døde og skadede i brann på militærbase",
-      "link": "https://www.nrk.no/nyheter/canada_-flere-dode-og-skadede-i-brann-pa-militaerbase-1.18057740",
-      "category": "Canada",
-      "pubDate": "Sun, 18 Oct 2026 01:48:23 GMT"
-    },
-    {
-      "title": "IS påtar seg skylden for Nigeria-angrep",
-      "link": "https://www.nrk.no/nyheter/is-patar-seg-skylden-for-nigeria-angrep-1.18057735",
-      "category": "Nigeria",
-      "pubDate": "Sun, 18 Oct 2026 01:19:13 GMT"
-    },
-    {
-      "title": "Person siktet etter dødsfall på hytte i Åmli",
-      "link": "https://www.nrk.no/nyheter/person-siktet-etter-dodsfall-pa-hytte-i-amli-1.18057734",
-      "category": "high",
-      "pubDate": "Sun, 18 Oct 2026 00:51:30 GMT"
-    },
-    {
-      "title": "Hyttebrann i Rogaland",
-      "link": "https://www.nrk.no/nyheter/hyttebrann-i-rogaland-1.18057733",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sun, 18 Oct 2026 00:20:27 GMT"
     }
   ]
 }
