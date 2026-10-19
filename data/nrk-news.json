@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-19T17:04:43.421Z",
+  "updatedAt": "2026-10-19T21:39:47.980Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Zelenskyj: Forhandlere kan møtes i Norge",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-forhandlere-kan-motes-i-norge-1.18059063",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 19 Oct 2026 19:40:37 GMT"
+    },
+    {
+      "title": "Erkjenner ikke straffskyld",
+      "link": "https://www.nrk.no/sorlandet/erkjenner-ikke-straffskyld-1.18058905",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Mon, 19 Oct 2026 18:07:41 GMT"
+    },
+    {
+      "title": "To fjellklatrarar redda ned frå fjellhylle",
+      "link": "https://www.nrk.no/vestland/to-fjellklatrarar-redda-ned-fra-fjellhylle-1.18059114",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 19 Oct 2026 17:27:03 GMT"
+    },
     {
       "title": "Portforbud i franske byer",
       "link": "https://www.nrk.no/nyheter/portforbud-i-franske-byer-1.18059042",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kenyansk-sektleder-kjent-skyldig-i-drap-pa-190-barn-1.18058893",
       "category": "Kenya",
       "pubDate": "Mon, 19 Oct 2026 15:48:51 GMT"
-    },
-    {
-      "title": "Minister: Spedbarn og to kvinner drept i Kharkiv",
-      "link": "https://www.nrk.no/nyheter/minister_-spedbarn-og-to-kvinner-drept-i-kharkiv-1.18058856",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 19 Oct 2026 15:07:21 GMT"
-    },
-    {
-      "title": "Rekordmange museumsbesøk i 2025",
-      "link": "https://www.nrk.no/nyheter/rekordmange-museumsbesok-i-2025-1.18058850",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 19 Oct 2026 13:00:13 GMT"
-    },
-    {
-      "title": "Mange drept i houthiangrep mot militærleir",
-      "link": "https://www.nrk.no/nyheter/mange-drept-i-houthiangrep-mot-militaerleir-1.18058836",
-      "category": "Jemen",
-      "pubDate": "Mon, 19 Oct 2026 12:54:05 GMT"
     }
   ]
 }
