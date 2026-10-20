@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-20T19:52:42.078Z",
+  "updatedAt": "2026-10-20T22:58:31.600Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann dømt etter tragedie der 53 migranter døde i Texas",
+      "link": "https://www.nrk.no/nyheter/mann-domt-etter-tragedie-der-53-migranter-dode-i-texas-1.18060284",
+      "category": "USA",
+      "pubDate": "Tue, 20 Oct 2026 22:46:12 GMT"
+    },
+    {
+      "title": "RAF Fairford-hendelsen: To menn pågrepet på nytt",
+      "link": "https://www.nrk.no/nyheter/raf-fairford-hendelsen_-to-menn-pagrepet-pa-nytt-1.18060263",
+      "category": "Storbritannia",
+      "pubDate": "Tue, 20 Oct 2026 21:59:15 GMT"
+    },
     {
       "title": "Nordic Mining ber om nytt kortsiktig lån",
       "link": "https://www.nrk.no/vestland/nordic-mining-ber-om-nytt-kortsiktig-lan-1.18060050",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/raud-ungdom_-raudt-vil-halvere-stotta-til-ungdomspartiet-1.18060183",
       "category": "Rød Ungdom",
       "pubDate": "Tue, 20 Oct 2026 18:27:21 GMT"
-    },
-    {
-      "title": "Zelenskyj: Blir varslet om missilangrep",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-blir-varslet-om-missilangrep-1.18060139",
-      "category": "Ukraina-samtaler i Oslo",
-      "pubDate": "Tue, 20 Oct 2026 17:53:00 GMT"
-    },
-    {
-      "title": "Første tilfelle av ebola i Nigeria",
-      "link": "https://www.nrk.no/nyheter/forste-tilfelle-av-ebola-i-nigeria-1.18060131",
-      "category": "Nigeria",
-      "pubDate": "Tue, 20 Oct 2026 17:26:24 GMT"
     }
   ]
 }
