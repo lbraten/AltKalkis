@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-20T15:45:10.832Z",
+  "updatedAt": "2026-10-20T19:52:42.078Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Ukrainsk energigigant tar arrest i russiske eiendommer i Oslo",
-      "link": "https://www.nrk.no/nyheter/ukrainsk-energigigant-tar-arrest-i-russiske-eiendommer-i-oslo-1.18059982",
+      "title": "Nordic Mining ber om nytt kortsiktig lån",
+      "link": "https://www.nrk.no/vestland/nordic-mining-ber-om-nytt-kortsiktig-lan-1.18060050",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Tue, 20 Oct 2026 19:34:23 GMT"
+    },
+    {
+      "title": "Skulebyråden i Oslo: Kjønnsdelt svømming er ulovleg",
+      "link": "https://www.nrk.no/stor-oslo/skulebyraden-i-oslo_-kjonnsdelt-svomming-er-ulovleg-1.18060119",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 20 Oct 2026 19:06:16 GMT"
+    },
+    {
+      "title": "Trump: Det er på tide at Ukraina inngår en avtale",
+      "link": "https://www.nrk.no/nyheter/trump_-det-er-pa-tide-at-ukraina-inngar-en-avtale-1.18060162",
       "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 20 Oct 2026 15:20:36 GMT"
+      "pubDate": "Tue, 20 Oct 2026 18:58:32 GMT"
     },
     {
-      "title": "Christian Sønstebø trekker søksmål mot TV 2",
-      "link": "https://www.nrk.no/nyheter/christian-sonstebo-trekker-soksmal-mot-tv-2-1.18059970",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 20 Oct 2026 14:21:25 GMT"
+      "title": "Raud Ungdom: Raudt vil halvere støtta til ungdomspartiet",
+      "link": "https://www.nrk.no/nyheter/raud-ungdom_-raudt-vil-halvere-stotta-til-ungdomspartiet-1.18060183",
+      "category": "Rød Ungdom",
+      "pubDate": "Tue, 20 Oct 2026 18:27:21 GMT"
     },
     {
-      "title": "Zelenskyj hos kongen: – Vi må få barna hjem",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-hos-kongen_-_-vi-ma-fa-barna-hjem-1.18059896",
+      "title": "Zelenskyj: Blir varslet om missilangrep",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-blir-varslet-om-missilangrep-1.18060139",
       "category": "Ukraina-samtaler i Oslo",
-      "pubDate": "Tue, 20 Oct 2026 14:07:52 GMT"
+      "pubDate": "Tue, 20 Oct 2026 17:53:00 GMT"
     },
     {
-      "title": "Witkoff ble tatt imot av Støre",
-      "link": "https://www.nrk.no/nyheter/witkoff-ble-tatt-imot-av-store-1.18059859",
-      "category": "Ukraina-samtaler i Oslo",
-      "pubDate": "Tue, 20 Oct 2026 13:07:44 GMT"
-    },
-    {
-      "title": "EU vil la oljen i Arktis ligge",
-      "link": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832",
-      "category": "Nordområdene",
-      "pubDate": "Tue, 20 Oct 2026 12:45:21 GMT"
-    },
-    {
-      "title": "Zelenskyj møter kong Haakon på Slottet",
-      "link": "https://www.nrk.no/nyheter/zelenskyj-moter-kong-haakon-pa-slottet-1.18059830",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 20 Oct 2026 12:24:07 GMT"
+      "title": "Første tilfelle av ebola i Nigeria",
+      "link": "https://www.nrk.no/nyheter/forste-tilfelle-av-ebola-i-nigeria-1.18060131",
+      "category": "Nigeria",
+      "pubDate": "Tue, 20 Oct 2026 17:26:24 GMT"
     }
   ]
 }
