@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-19T21:39:47.980Z",
+  "updatedAt": "2026-10-20T00:56:01.792Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "BPA-assistenter går ut i streik",
+      "link": "https://www.nrk.no/nyheter/bpa-assistenter-gar-ut-i-streik-1.18059204",
+      "category": "Lønnsoppgjøret 2026",
+      "pubDate": "Tue, 20 Oct 2026 00:33:59 GMT"
+    },
+    {
+      "title": "14 døde i gruveulykke i Colombia",
+      "link": "https://www.nrk.no/nyheter/14-dode-i-gruveulykke-i-colombia--1.18059203",
+      "category": "Colombia",
+      "pubDate": "Mon, 19 Oct 2026 23:25:22 GMT"
+    },
+    {
+      "title": "Minst 40 sivile drept i Mali",
+      "link": "https://www.nrk.no/nyheter/minst-40-sivile-drept-i-mali-1.18059193",
+      "category": "Mali",
+      "pubDate": "Mon, 19 Oct 2026 23:06:01 GMT"
+    },
     {
       "title": "Zelenskyj: Forhandlere kan møtes i Norge",
       "link": "https://www.nrk.no/nyheter/zelenskyj_-forhandlere-kan-motes-i-norge-1.18059063",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/vestland/to-fjellklatrarar-redda-ned-fra-fjellhylle-1.18059114",
       "category": "Nyhetssenter Vestland",
       "pubDate": "Mon, 19 Oct 2026 17:27:03 GMT"
-    },
-    {
-      "title": "Portforbud i franske byer",
-      "link": "https://www.nrk.no/nyheter/portforbud-i-franske-byer-1.18059042",
-      "category": "Frankrike",
-      "pubDate": "Mon, 19 Oct 2026 16:51:56 GMT"
-    },
-    {
-      "title": "Mann i 80-årene savnet i Tana",
-      "link": "https://www.nrk.no/nyheter/mann-i-80-arene-savnet-i-tana-1.18058981",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 19 Oct 2026 16:19:49 GMT"
-    },
-    {
-      "title": "Kenyansk sektleder kjent skyldig i drap på 190 barn",
-      "link": "https://www.nrk.no/nyheter/kenyansk-sektleder-kjent-skyldig-i-drap-pa-190-barn-1.18058893",
-      "category": "Kenya",
-      "pubDate": "Mon, 19 Oct 2026 15:48:51 GMT"
     }
   ]
 }
