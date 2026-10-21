@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-20T22:58:31.600Z",
+  "updatedAt": "2026-10-21T01:26:40.436Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "55 pågrepet under boligprotester i Portugal",
+      "link": "https://www.nrk.no/nyheter/55-pagrepet-under-boligprotester-i-portugal-1.18060293",
+      "category": "Portugal",
+      "pubDate": "Wed, 21 Oct 2026 01:20:18 GMT"
+    },
+    {
+      "title": "Gjeninnfører dødsstraff i Burkina Faso",
+      "link": "https://www.nrk.no/nyheter/gjeninnforer-dodsstraff-i-burkina-faso-1.18060292",
+      "category": "Burkina Faso",
+      "pubDate": "Wed, 21 Oct 2026 01:14:37 GMT"
+    },
+    {
+      "title": "Polske politikere stemte for å lette på abortlovene",
+      "link": "https://www.nrk.no/nyheter/polske-politikere-stemte-for-a-lette-pa-abortlovene-1.18060279",
+      "category": "Polen",
+      "pubDate": "Wed, 21 Oct 2026 00:24:10 GMT"
+    },
+    {
+      "title": "Australsk politi advarer om nettekstremisme etter angrep på politiker",
+      "link": "https://www.nrk.no/nyheter/australsk-politi-advarer-om-nettekstremisme-etter-angrep-pa-politiker-1.18060290",
+      "category": "Australia",
+      "pubDate": "Tue, 20 Oct 2026 23:31:45 GMT"
+    },
+    {
+      "title": "Nato-forsterkninger til Svartehavet",
+      "link": "https://www.nrk.no/nyheter/nato-forsterkninger-til-svartehavet-1.18060289",
+      "category": "Nato",
+      "pubDate": "Tue, 20 Oct 2026 23:21:43 GMT"
+    },
     {
       "title": "Mann dømt etter tragedie der 53 migranter døde i Texas",
       "link": "https://www.nrk.no/nyheter/mann-domt-etter-tragedie-der-53-migranter-dode-i-texas-1.18060284",
       "category": "USA",
       "pubDate": "Tue, 20 Oct 2026 22:46:12 GMT"
-    },
-    {
-      "title": "RAF Fairford-hendelsen: To menn pågrepet på nytt",
-      "link": "https://www.nrk.no/nyheter/raf-fairford-hendelsen_-to-menn-pagrepet-pa-nytt-1.18060263",
-      "category": "Storbritannia",
-      "pubDate": "Tue, 20 Oct 2026 21:59:15 GMT"
-    },
-    {
-      "title": "Nordic Mining ber om nytt kortsiktig lån",
-      "link": "https://www.nrk.no/vestland/nordic-mining-ber-om-nytt-kortsiktig-lan-1.18060050",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Tue, 20 Oct 2026 19:34:23 GMT"
-    },
-    {
-      "title": "Skulebyråden i Oslo: Kjønnsdelt svømming er ulovleg",
-      "link": "https://www.nrk.no/stor-oslo/skulebyraden-i-oslo_-kjonnsdelt-svomming-er-ulovleg-1.18060119",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Tue, 20 Oct 2026 19:06:16 GMT"
-    },
-    {
-      "title": "Trump: Det er på tide at Ukraina inngår en avtale",
-      "link": "https://www.nrk.no/nyheter/trump_-det-er-pa-tide-at-ukraina-inngar-en-avtale-1.18060162",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 20 Oct 2026 18:58:32 GMT"
-    },
-    {
-      "title": "Raud Ungdom: Raudt vil halvere støtta til ungdomspartiet",
-      "link": "https://www.nrk.no/nyheter/raud-ungdom_-raudt-vil-halvere-stotta-til-ungdomspartiet-1.18060183",
-      "category": "Rød Ungdom",
-      "pubDate": "Tue, 20 Oct 2026 18:27:21 GMT"
     }
   ]
 }
