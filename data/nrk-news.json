@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-21T21:22:09.002Z",
+  "updatedAt": "2026-10-22T00:07:13.695Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Trump: Slutten på Ukraina-krigen er nærmere enn noen gang",
-      "link": "https://www.nrk.no/nyheter/trump_-slutten-pa-ukraina-krigen-er-naermere-enn-noen-gang-1.18061296",
+      "title": "Rød beredskap ved Kirkenes sykehus etter vannlekkasje i Sør-Varanger",
+      "link": "https://www.nrk.no/nyheter/rod-beredskap-ved-kirkenes-sykehus-etter-vannlekkasje-i-sor-varanger-1.18061316",
+      "category": "NRK Nyheter",
+      "pubDate": "Thu, 22 Oct 2026 00:03:38 GMT"
+    },
+    {
+      "title": "Seks såret i missilangrep mot Kyiv",
+      "link": "https://www.nrk.no/nyheter/seks-saret-i-missilangrep-mot-kyiv-1.18061314",
       "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 21 Oct 2026 21:18:23 GMT"
+      "pubDate": "Wed, 21 Oct 2026 23:51:16 GMT"
     },
     {
-      "title": "Rundt 6000 husstander uten vann i Finnmark",
-      "link": "https://www.nrk.no/nyheter/rundt-6000-husstander-uten-vann-i-finnmark-1.18061294",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Wed, 21 Oct 2026 21:11:43 GMT"
+      "title": "«Glee» tilbake på skjermen etter elleve år",
+      "link": "https://www.nrk.no/nyheter/_glee_-tilbake-pa-skjermen-etter-elleve-ar-1.18061306",
+      "category": "Film og serier",
+      "pubDate": "Wed, 21 Oct 2026 23:41:14 GMT"
     },
     {
-      "title": "Ukrainas sentralbank ransaket",
-      "link": "https://www.nrk.no/nyheter/ukrainas-sentralbank-ransaket-1.18061293",
-      "category": "Ukraina",
-      "pubDate": "Wed, 21 Oct 2026 20:56:05 GMT"
+      "title": "Én person drept i angrep mot flyplass i Saudi-Arabia",
+      "link": "https://www.nrk.no/nyheter/en-person-drept-i-angrep-mot-flyplass-i-saudi-arabia-1.18061303",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Wed, 21 Oct 2026 22:44:04 GMT"
     },
     {
-      "title": "Fire ungdommer funnet bevisstløse i Moss",
-      "link": "https://www.nrk.no/nyheter/fire-ungdommer-funnet-bevisstlose-i-moss-1.18061279",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Wed, 21 Oct 2026 20:12:05 GMT"
+      "title": "Mann til sykehus etter knivstikking i Stavanger",
+      "link": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-knivstikking-i-stavanger-1.18061302",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Wed, 21 Oct 2026 22:31:21 GMT"
     },
     {
-      "title": "Person i 80-årene omkom i trafikkulykke i Heim kommune",
-      "link": "https://www.nrk.no/nyheter/person-i-80-arene-omkom-i-trafikkulykke-i-heim-kommune-1.18061267",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Wed, 21 Oct 2026 20:04:45 GMT"
-    },
-    {
-      "title": "– Eksplosjoner i Kyiv",
-      "link": "https://www.nrk.no/nyheter/_-eksplosjoner-i-kyiv-1.18061264",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 21 Oct 2026 19:26:18 GMT"
+      "title": "Kraftig resultatvekst for Meta",
+      "link": "https://www.nrk.no/nyheter/kraftig-resultatvekst-for-meta-1.18061298",
+      "category": "Meta",
+      "pubDate": "Wed, 21 Oct 2026 22:20:37 GMT"
     }
   ]
 }
