@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-22T23:00:49.391Z",
+  "updatedAt": "2026-10-23T01:45:12.571Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Evakuerer beboere fra brann i Haugesund",
+      "link": "https://www.nrk.no/nyheter/evakuerer-beboere-fra-brann-i-haugesund-1.18062394",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Fri, 23 Oct 2026 00:13:18 GMT"
+    },
+    {
+      "title": "Skarp granatøvelse utløste dødsbrannen i Canada",
+      "link": "https://www.nrk.no/nyheter/skarp-granatovelse-utloste-dodsbrannen-i-canada-1.18062393",
+      "category": "Canada",
+      "pubDate": "Thu, 22 Oct 2026 23:54:06 GMT"
+    },
+    {
+      "title": "Fire drept i angrep mot Gazastripen",
+      "link": "https://www.nrk.no/nyheter/fire-drept-i-angrep-mot-gazastripen-1.18062366",
+      "category": "Krigen i Gaza",
+      "pubDate": "Thu, 22 Oct 2026 23:17:23 GMT"
+    },
     {
       "title": "Jevnt mellom Bolsonaro og Lula før andre valgrunde i Brasil",
       "link": "https://www.nrk.no/nyheter/jevnt-mellom-bolsonaro-og-lula-for-andre-valgrunde-i-brasil-1.18062364",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-16-dode-i-jordskjelv-i-tibet-1.18062340",
       "category": "Kina",
       "pubDate": "Thu, 22 Oct 2026 20:42:27 GMT"
-    },
-    {
-      "title": "Putin sier Russland er klar til å forhandle om endelig Ukraina-avtale, ikke en «kort» våpenhvile",
-      "link": "https://www.nrk.no/nyheter/putin-sier-russland-er-klar-til-a-forhandle-om-endelig-ukraina-avtale_-ikke-en-_kort_-vapenhvile-1.18062332",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 22 Oct 2026 20:21:15 GMT"
-    },
-    {
-      "title": "Kraftig børsfall i USA – Nasdaq ned 2,6 prosent",
-      "link": "https://www.nrk.no/nyheter/kraftig-borsfall-i-usa-_-nasdaq-ned-2_6-prosent-1.18062326",
-      "category": "Uro på børsene",
-      "pubDate": "Thu, 22 Oct 2026 20:08:14 GMT"
-    },
-    {
-      "title": "Monet-maleri satt salgsrekord i Paris",
-      "link": "https://www.nrk.no/nyheter/monet-maleri-satt-salgsrekord-i-paris-1.18062305",
-      "category": "Kunst",
-      "pubDate": "Thu, 22 Oct 2026 19:38:33 GMT"
     }
   ]
 }
