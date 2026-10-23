@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-23T01:45:12.571Z",
+  "updatedAt": "2026-10-23T07:06:45.725Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Evakuerer beboere fra brann i Haugesund",
-      "link": "https://www.nrk.no/nyheter/evakuerer-beboere-fra-brann-i-haugesund-1.18062394",
+      "title": "40 000 tonn russisk diesel på vei til USA",
+      "link": "https://www.nrk.no/nyheter/40-000-tonn-russisk-diesel-pa-vei-til-usa-1.18062563",
+      "category": "Russisk olje og gass",
+      "pubDate": "Fri, 23 Oct 2026 06:36:34 GMT"
+    },
+    {
+      "title": "Mann siktet etter dødsbrann i Haugesund",
+      "link": "https://www.nrk.no/nyheter/mann-siktet-etter-dodsbrann-i-haugesund--1.18062551",
       "category": "Nyheter fra Rogaland",
-      "pubDate": "Fri, 23 Oct 2026 00:13:18 GMT"
+      "pubDate": "Fri, 23 Oct 2026 06:21:32 GMT"
     },
     {
-      "title": "Skarp granatøvelse utløste dødsbrannen i Canada",
-      "link": "https://www.nrk.no/nyheter/skarp-granatovelse-utloste-dodsbrannen-i-canada-1.18062393",
-      "category": "Canada",
-      "pubDate": "Thu, 22 Oct 2026 23:54:06 GMT"
+      "title": "Færre røyker daglig, viser tall fra SSB",
+      "link": "https://www.nrk.no/nyheter/faerre-royker-daglig_-viser-tall-fra-ssb-1.18062522",
+      "category": "Røyk og snus",
+      "pubDate": "Fri, 23 Oct 2026 06:04:05 GMT"
     },
     {
-      "title": "Fire drept i angrep mot Gazastripen",
-      "link": "https://www.nrk.no/nyheter/fire-drept-i-angrep-mot-gazastripen-1.18062366",
-      "category": "Krigen i Gaza",
-      "pubDate": "Thu, 22 Oct 2026 23:17:23 GMT"
+      "title": "Danmark forbyr minkoppdrett",
+      "link": "https://www.nrk.no/nyheter/danmark-forbyr-minkoppdrett-1.18062515",
+      "category": "Danmark",
+      "pubDate": "Fri, 23 Oct 2026 05:57:38 GMT"
     },
     {
-      "title": "Jevnt mellom Bolsonaro og Lula før andre valgrunde i Brasil",
-      "link": "https://www.nrk.no/nyheter/jevnt-mellom-bolsonaro-og-lula-for-andre-valgrunde-i-brasil-1.18062364",
-      "category": "Brasil",
-      "pubDate": "Thu, 22 Oct 2026 22:44:32 GMT"
+      "title": "Sør-Korea foreslår å holde militærsamtaler med Nord-Korea",
+      "link": "https://www.nrk.no/nyheter/sor-korea-foreslar-a-holde-militaersamtaler-med-nord-korea-1.18062511",
+      "category": "Sør-Korea",
+      "pubDate": "Fri, 23 Oct 2026 05:24:40 GMT"
     },
     {
-      "title": "MC-fører hardt skadet etter ulykke i Nordre Follo",
-      "link": "https://www.nrk.no/nyheter/mc-forer-hardt-skadet-etter-ulykke-i-nordre-follo-1.18062346",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 22 Oct 2026 21:47:15 GMT"
-    },
-    {
-      "title": "Minst 16 døde i jordskjelv i Tibet",
-      "link": "https://www.nrk.no/nyheter/minst-16-dode-i-jordskjelv-i-tibet-1.18062340",
-      "category": "Kina",
-      "pubDate": "Thu, 22 Oct 2026 20:42:27 GMT"
+      "title": "Volvo Cars nedbemanner – 2000 mister jobben i Sverige",
+      "link": "https://www.nrk.no/nyheter/volvo-cars-nedbemanner-_-2000-mister-jobben-i-sverige-1.18062480",
+      "category": "Sverige",
+      "pubDate": "Fri, 23 Oct 2026 05:13:29 GMT"
     }
   ]
 }
