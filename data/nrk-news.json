@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-24T16:48:56.154Z",
+  "updatedAt": "2026-10-24T19:17:19.016Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nær 1000 arrestert i Frankrike",
+      "link": "https://www.nrk.no/nyheter/naer-1000-arrestert-i-frankrike-1.18063928",
+      "category": "Frankrike",
+      "pubDate": "Sat, 24 Oct 2026 17:42:56 GMT"
+    },
+    {
+      "title": "Minst tre drept av russisk drone i Dnipropetrovsk",
+      "link": "https://www.nrk.no/nyheter/minst-tre-drept-av-russisk-drone-i-dnipropetrovsk-1.18063895",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 24 Oct 2026 17:30:40 GMT"
+    },
     {
       "title": "Demonstranter har tatt seg inn i Colosseum",
       "link": "https://www.nrk.no/nyheter/demonstranter-har-tatt-seg-inn-i-colosseum-1.18063885",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/110.000-protesterte-i-paris-1.18063832",
       "category": "Frankrike",
       "pubDate": "Sat, 24 Oct 2026 15:51:09 GMT"
-    },
-    {
-      "title": "Hitlers «Ørnerede» skal bygges opp igjen",
-      "link": "https://www.nrk.no/nyheter/hitlers-_ornerede_-skal-bygges-opp-igjen-1.18063799",
-      "category": "Tyskland",
-      "pubDate": "Sat, 24 Oct 2026 14:40:23 GMT"
-    },
-    {
-      "title": "Svært jevnt dagen før Brasil-valget",
-      "link": "https://www.nrk.no/nyheter/svaert-jevnt-dagen-for-brasil-valget-1.18063791",
-      "category": "Brasil",
-      "pubDate": "Sat, 24 Oct 2026 14:04:44 GMT"
     }
   ]
 }
