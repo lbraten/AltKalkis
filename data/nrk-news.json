@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-24T19:17:19.016Z",
+  "updatedAt": "2026-10-24T21:45:22.989Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Titalls drept i angrep i Nigeria",
+      "link": "https://www.nrk.no/nyheter/titalls-drept-i-angrep-i-nigeria-1.18064002",
+      "category": "Nigeria",
+      "pubDate": "Sat, 24 Oct 2026 21:28:46 GMT"
+    },
+    {
+      "title": "Trump har forhåndsstemt",
+      "link": "https://www.nrk.no/nyheter/trump-har-forhandsstemt-1.18063995",
+      "category": "Mellomvalg i USA",
+      "pubDate": "Sat, 24 Oct 2026 20:10:25 GMT"
+    },
+    {
+      "title": "2000 palestinere fordrevet fra Hebron",
+      "link": "https://www.nrk.no/nyheter/2000-palestinere-fordrevet-fra-hebron-1.18063934",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 24 Oct 2026 20:09:12 GMT"
+    },
+    {
+      "title": "Tatt i 159 km/t i 90-sonen",
+      "link": "https://www.nrk.no/stor-oslo/tatt-i-159-km_t-i-90-sonen-1.18063991",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 24 Oct 2026 19:58:42 GMT"
+    },
     {
       "title": "Nær 1000 arrestert i Frankrike",
       "link": "https://www.nrk.no/nyheter/naer-1000-arrestert-i-frankrike-1.18063928",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-tre-drept-av-russisk-drone-i-dnipropetrovsk-1.18063895",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 24 Oct 2026 17:30:40 GMT"
-    },
-    {
-      "title": "Demonstranter har tatt seg inn i Colosseum",
-      "link": "https://www.nrk.no/nyheter/demonstranter-har-tatt-seg-inn-i-colosseum-1.18063885",
-      "category": "Italia",
-      "pubDate": "Sat, 24 Oct 2026 16:31:39 GMT"
-    },
-    {
-      "title": "Hevder 800.000 demonstrerer i Frankrike",
-      "link": "https://www.nrk.no/nyheter/hevder-800.000-demonstrerer-i-frankrike-1.18063866",
-      "category": "Frankrike",
-      "pubDate": "Sat, 24 Oct 2026 16:23:19 GMT"
-    },
-    {
-      "title": "Stor vannlekkasje på Bamble",
-      "link": "https://www.nrk.no/vestfoldogtelemark/stor-vannlekkasje-pa-bamble-1.18063869",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Sat, 24 Oct 2026 16:02:16 GMT"
-    },
-    {
-      "title": "110.000 protesterte i Paris",
-      "link": "https://www.nrk.no/nyheter/110.000-protesterte-i-paris-1.18063832",
-      "category": "Frankrike",
-      "pubDate": "Sat, 24 Oct 2026 15:51:09 GMT"
     }
   ]
 }
