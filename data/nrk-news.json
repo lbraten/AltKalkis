@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-25T20:30:36.279Z",
+  "updatedAt": "2026-10-25T23:02:36.276Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump: Norge suger",
+      "link": "https://www.nrk.no/nyheter/trump_-norge-suger-1.18064529",
+      "category": "USA",
+      "pubDate": "Sun, 25 Oct 2026 21:18:45 GMT"
+    },
+    {
+      "title": "Serbia: Regjeringspartiet erkjenner valgnederlag",
+      "link": "https://www.nrk.no/nyheter/serbia_-regjeringspartiet-erkjenner-valgnederlag-1.18064507",
+      "category": "high",
+      "pubDate": "Sun, 25 Oct 2026 20:35:20 GMT"
+    },
     {
       "title": "Brasil utvider åpningstidene for valget",
       "link": "https://www.nrk.no/nyheter/brasil-utvider-apningstidene-for-valget-1.18064483",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/zelenskyj_-etterretningsdelingen-er-tilbake-1.18064455",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 25 Oct 2026 18:52:05 GMT"
-    },
-    {
-      "title": "Lula ber høyesterett forlenge valget i Brasil",
-      "link": "https://www.nrk.no/nyheter/lula-ber-hoyesterett-forlenge-valget-i-brasil-1.18064430",
-      "category": "Brasil",
-      "pubDate": "Sun, 25 Oct 2026 18:46:46 GMT"
-    },
-    {
-      "title": "Brann i tog-bremsene på et tog",
-      "link": "https://www.nrk.no/stor-oslo/brann-i-tog-bremsene-pa-et-tog-1.18064447",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Sun, 25 Oct 2026 18:38:32 GMT"
     }
   ]
 }
