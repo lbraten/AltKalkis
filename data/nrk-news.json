@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-25T17:47:26.350Z",
+  "updatedAt": "2026-10-25T20:30:36.279Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "E6 stengt mellom Lillehammer og Biri",
-      "link": "https://www.nrk.no/nyheter/e6-stengt-mellom-lillehammer-og-biri-1.18064402",
+      "title": "Brasil utvider åpningstidene for valget",
+      "link": "https://www.nrk.no/nyheter/brasil-utvider-apningstidene-for-valget-1.18064483",
+      "category": "Brasil",
+      "pubDate": "Sun, 25 Oct 2026 20:05:28 GMT"
+    },
+    {
+      "title": "Zelenskyj: USA, Ukraina og Russland skal møtes i november",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-usa_-ukraina-og-russland-skal-motes-i-november-1.18064471",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 25 Oct 2026 19:30:03 GMT"
+    },
+    {
+      "title": "Oransje farevarsel for stormflo i Rogaland",
+      "link": "https://www.nrk.no/nyheter/oransje-farevarsel-for-stormflo-i-rogaland-1.18064462",
       "category": "Vær og trafikk i Norge",
-      "pubDate": "Sun, 25 Oct 2026 17:41:42 GMT"
+      "pubDate": "Sun, 25 Oct 2026 19:04:10 GMT"
     },
     {
-      "title": "Netanyahu advarer mot nytt holocaust om han ikke blir valgt",
-      "link": "https://www.nrk.no/nyheter/netanyahu-advarer-mot-nytt-holocaust-om-han-ikke-blir-valgt-1.18064285",
-      "category": "Israel",
-      "pubDate": "Sun, 25 Oct 2026 16:08:53 GMT"
+      "title": "Zelenskyj: Etterretningsdelingen er tilbake",
+      "link": "https://www.nrk.no/nyheter/zelenskyj_-etterretningsdelingen-er-tilbake-1.18064455",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 25 Oct 2026 18:52:05 GMT"
     },
     {
-      "title": "Kabel fall over rutebuss ved Voss",
-      "link": "https://www.nrk.no/vestland/kabel-fall-over-rutebuss-ved-voss-1.18064309",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sun, 25 Oct 2026 15:49:22 GMT"
+      "title": "Lula ber høyesterett forlenge valget i Brasil",
+      "link": "https://www.nrk.no/nyheter/lula-ber-hoyesterett-forlenge-valget-i-brasil-1.18064430",
+      "category": "Brasil",
+      "pubDate": "Sun, 25 Oct 2026 18:46:46 GMT"
     },
     {
-      "title": "Venezuelas opposisjonsleder er tilbake i landet",
-      "link": "https://www.nrk.no/nyheter/venezuelas-opposisjonsleder-er-tilbake-i-landet-1.18064279",
-      "category": "Venezuela",
-      "pubDate": "Sun, 25 Oct 2026 15:46:00 GMT"
-    },
-    {
-      "title": "Mot rekordoppslutning ved valget i Serbia",
-      "link": "https://www.nrk.no/nyheter/mot-rekordoppslutning-ved-valget-i-serbia-1.18064238",
-      "category": "Serbia",
-      "pubDate": "Sun, 25 Oct 2026 14:47:45 GMT"
-    },
-    {
-      "title": "14 år gammel jente varetektsfengslet etter drap i Sverige",
-      "link": "https://www.nrk.no/nyheter/14-ar-gammel-jente-varetektsfengslet-etter-drap-i-sverige-1.18064245",
-      "category": "Sverige",
-      "pubDate": "Sun, 25 Oct 2026 14:43:47 GMT"
+      "title": "Brann i tog-bremsene på et tog",
+      "link": "https://www.nrk.no/stor-oslo/brann-i-tog-bremsene-pa-et-tog-1.18064447",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Sun, 25 Oct 2026 18:38:32 GMT"
     }
   ]
 }
