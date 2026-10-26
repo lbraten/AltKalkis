@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-25T23:02:36.276Z",
+  "updatedAt": "2026-10-26T01:29:47.434Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lula vant presidentvalget",
+      "link": "https://www.nrk.no/nyheter/lula-vant-presidentvalget-1.18064565",
+      "category": "Brasil",
+      "pubDate": "Mon, 26 Oct 2026 00:28:20 GMT"
+    },
+    {
+      "title": "Bryggen i Bergen stenges for trafikk – setter opp flomvern",
+      "link": "https://www.nrk.no/nyheter/bryggen-i-bergen-stenges-for-trafikk-_-setter-opp-flomvern-1.18064563",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 26 Oct 2026 00:23:27 GMT"
+    },
+    {
+      "title": "Nytt vannbrudd i Sør-Varanger",
+      "link": "https://www.nrk.no/nyheter/nytt-vannbrudd-i-sor-varanger-1.18064546",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 25 Oct 2026 23:49:47 GMT"
+    },
     {
       "title": "Trump: Norge suger",
       "link": "https://www.nrk.no/nyheter/trump_-norge-suger-1.18064529",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/brasil-utvider-apningstidene-for-valget-1.18064483",
       "category": "Brasil",
       "pubDate": "Sun, 25 Oct 2026 20:05:28 GMT"
-    },
-    {
-      "title": "Zelenskyj: USA, Ukraina og Russland skal møtes i november",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-usa_-ukraina-og-russland-skal-motes-i-november-1.18064471",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 25 Oct 2026 19:30:03 GMT"
-    },
-    {
-      "title": "Oransje farevarsel for stormflo i Rogaland",
-      "link": "https://www.nrk.no/nyheter/oransje-farevarsel-for-stormflo-i-rogaland-1.18064462",
-      "category": "Vær og trafikk i Norge",
-      "pubDate": "Sun, 25 Oct 2026 19:04:10 GMT"
-    },
-    {
-      "title": "Zelenskyj: Etterretningsdelingen er tilbake",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-etterretningsdelingen-er-tilbake-1.18064455",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 25 Oct 2026 18:52:05 GMT"
     }
   ]
 }
