@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-10-27T20:29:00.361Z",
+  "updatedAt": "2026-10-27T23:56:31.415Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Koalisjon: Har avskåret missil mot Saudi-Arabia",
+      "link": "https://www.nrk.no/nyheter/koalisjon_-har-avskaret-missil-mot-saudi-arabia-1.18066626",
+      "category": "Saudi-Arabia",
+      "pubDate": "Tue, 27 Oct 2026 23:32:06 GMT"
+    },
     {
       "title": "Egyptisk redaktør pågrepet – domstol beordret nettavisen stengt",
       "link": "https://www.nrk.no/nyheter/egyptisk-redaktor-pagrepet-_-domstol-beordret-nettavisen-stengt-1.18066573",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/buskerud/person-fastklemt-etter-kollisjon-mellom-bil-og-mopedbil-1.18066251",
       "category": "Trafikk i Buskerud",
       "pubDate": "Tue, 27 Oct 2026 18:52:46 GMT"
-    },
-    {
-      "title": "Elsparkesyklist påkjørt i Halden: Flys til sykehus",
-      "link": "https://www.nrk.no/ostfold/elsparkesyklist-pakjort-i-halden_-flys-til-sykehus-1.18066537",
-      "category": "Nyhetssenter Østfold",
-      "pubDate": "Tue, 27 Oct 2026 18:48:34 GMT"
     }
   ]
 }
