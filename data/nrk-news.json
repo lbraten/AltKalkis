@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-26T23:36:52.707Z",
+  "updatedAt": "2026-10-27T04:08:02.123Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann anholdt etter boligbrann på Nesodden",
+      "link": "https://www.nrk.no/nyheter/mann-anholdt-etter-boligbrann-pa-nesodden-1.18065591",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 27 Oct 2026 03:59:30 GMT"
+    },
+    {
+      "title": "Brann i enebolig på Nesodden",
+      "link": "https://www.nrk.no/nyheter/brann-i-enebolig-pa-nesodden-1.18065590",
+      "category": "Nyhetssenter Stor-Oslo",
+      "pubDate": "Tue, 27 Oct 2026 02:31:32 GMT"
+    },
+    {
+      "title": "Reuters: Eksplosjoner hørt i Kyiv",
+      "link": "https://www.nrk.no/nyheter/reuters_-eksplosjoner-hort-i-kyiv-1.18065589",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 27 Oct 2026 01:44:24 GMT"
+    },
+    {
+      "title": "Skal ha avskåret missiler mot Saudi-Arabia",
+      "link": "https://www.nrk.no/nyheter/skal-ha-avskaret-missiler-mot-saudi-arabia-1.18065588",
+      "category": "Saudi-Arabia",
+      "pubDate": "Tue, 27 Oct 2026 00:44:34 GMT"
+    },
     {
       "title": "Bolsonaros parti anerkjenner valgresultatet i Brasil",
       "link": "https://www.nrk.no/nyheter/bolsonaros-parti-anerkjenner-valgresultatet-i-brasil-1.18065581",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kane-og-putellas-vant-gullballen-1.18065578",
       "category": "Gullballen (Ballon d'Or)",
       "pubDate": "Mon, 26 Oct 2026 22:56:06 GMT"
-    },
-    {
-      "title": "Tidligere FBI-sjef James Comey er siktet igjen",
-      "link": "https://www.nrk.no/nyheter/tidligere-fbi-sjef-james-comey-er-siktet-igjen-1.18065534",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 26 Oct 2026 21:12:15 GMT"
-    },
-    {
-      "title": "Minst en død i angrep på Kyiv i kveld",
-      "link": "https://www.nrk.no/nyheter/minst-en-dod-i-angrep-pa-kyiv-i-kveld-1.18065510",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 26 Oct 2026 20:39:01 GMT"
-    },
-    {
-      "title": "Bolsonaro: Har fått beskjed om å levere inn passet",
-      "link": "https://www.nrk.no/nyheter/bolsonaro_-har-fatt-beskjed-om-a-levere-inn-passet-1.18065509",
-      "category": "Brasil",
-      "pubDate": "Mon, 26 Oct 2026 19:56:10 GMT"
-    },
-    {
-      "title": "Politiet tror kran-problemene snart er løst",
-      "link": "https://www.nrk.no/nyheter/politiet-tror-kran-problemene-snart-er-lost-1.18065506",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 26 Oct 2026 19:52:56 GMT"
     }
   ]
 }
