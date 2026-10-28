@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-10-28T17:17:50.683Z",
+  "updatedAt": "2026-10-28T21:50:25.458Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Midlertidig stans i Meta-endringer for norske mediehus",
-      "link": "https://www.nrk.no/nyheter/midlertidig-stans-i-meta-endringer-for-norske-mediehus-1.18067443",
+      "title": "Bolsonaro i USA: Hevder at han vant valget",
+      "link": "https://www.nrk.no/nyheter/bolsonaro-i-usa_-hevder-at-han-vant-valget-1.18067497",
+      "category": "Brasil",
+      "pubDate": "Wed, 28 Oct 2026 19:48:15 GMT"
+    },
+    {
+      "title": "USA holder renten uendret",
+      "link": "https://www.nrk.no/nyheter/usa-holder-renten-uendret-1.18067488",
+      "category": "Økonomi",
+      "pubDate": "Wed, 28 Oct 2026 18:23:43 GMT"
+    },
+    {
+      "title": "Melding om mulig skyting i Drammen",
+      "link": "https://www.nrk.no/nyheter/melding-om-mulig-skyting-i-drammen-1.18067450",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Wed, 28 Oct 2026 18:06:58 GMT"
+    },
+    {
+      "title": "Midlertidig stans av omstridte Meta-endringer for norske mediehus",
+      "link": "https://www.nrk.no/nyheter/midlertidig-stans-av-omstridte-meta-endringer-for-norske-mediehus-1.18067443",
       "category": "Meta",
       "pubDate": "Wed, 28 Oct 2026 16:57:46 GMT"
     },
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/tyskland-etterforsker-belarusere-for-sabotasjeplaner-1.18067370",
       "category": "Tyskland",
       "pubDate": "Wed, 28 Oct 2026 15:03:07 GMT"
-    },
-    {
-      "title": "Steinar Wangen dømt til 15 års forvaring",
-      "link": "https://www.nrk.no/nyheter/steinar-wangen-domt-til-15-ars-forvaring-1.18067368",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 28 Oct 2026 14:52:47 GMT"
-    },
-    {
-      "title": "Kong Haakon kondolerer etter togulykken",
-      "link": "https://www.nrk.no/nyheter/kong-haakon-kondolerer-etter-togulykken-1.18067355",
-      "category": "NRK Nyheter",
-      "pubDate": "Wed, 28 Oct 2026 14:52:02 GMT"
-    },
-    {
-      "title": "To menn dømt for å produsere over 70 kilo amfetamin på en gård",
-      "link": "https://www.nrk.no/nyheter/to-menn-domt-for-a-produsere-over-70-kilo-amfetamin-pa-en-gard-1.18067265",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Wed, 28 Oct 2026 14:39:27 GMT"
     }
   ]
 }
