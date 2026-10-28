@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-27T23:56:31.415Z",
+  "updatedAt": "2026-10-28T05:01:17.773Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump vil forby begrepet kunstig intelligens",
+      "link": "https://www.nrk.no/nyheter/trump-vil-forby-begrepet-kunstig-intelligens-1.18066634",
+      "category": "Donald Trump",
+      "pubDate": "Wed, 28 Oct 2026 02:12:16 GMT"
+    },
+    {
+      "title": "Beboer i god behold i Horten",
+      "link": "https://www.nrk.no/nyheter/beboer-i-god-behold-i-horten-1.18066633",
+      "category": "Nyhetssenter Vestfold og Telemark",
+      "pubDate": "Tue, 27 Oct 2026 23:59:53 GMT"
+    },
     {
       "title": "Koalisjon: Har avskåret missil mot Saudi-Arabia",
       "link": "https://www.nrk.no/nyheter/koalisjon_-har-avskaret-missil-mot-saudi-arabia-1.18066626",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/vannet-tilbake-i-kirkenes-1.18066561",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Tue, 27 Oct 2026 19:34:51 GMT"
-    },
-    {
-      "title": "Siktet for å ha skutt elg ulovlig",
-      "link": "https://www.nrk.no/tromsogfinnmark/siktet-for-a-ha-skutt-elg-ulovlig-1.18066434",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Tue, 27 Oct 2026 19:28:53 GMT"
-    },
-    {
-      "title": "Person fastklemt etter kollisjon mellom bil og mopedbil",
-      "link": "https://www.nrk.no/buskerud/person-fastklemt-etter-kollisjon-mellom-bil-og-mopedbil-1.18066251",
-      "category": "Trafikk i Buskerud",
-      "pubDate": "Tue, 27 Oct 2026 18:52:46 GMT"
     }
   ]
 }
