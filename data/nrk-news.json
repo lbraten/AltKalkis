@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-28T21:50:25.458Z",
+  "updatedAt": "2026-10-29T01:37:00.196Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Koalisjon: Har skutt ned ballistisk missil",
+      "link": "https://www.nrk.no/nyheter/koalisjon_-har-skutt-ned-ballistisk-missil-1.18067653",
+      "category": "Saudi-Arabia",
+      "pubDate": "Thu, 29 Oct 2026 01:19:16 GMT"
+    },
+    {
+      "title": "Finsk og amerikansk utenriksminister møtes torsdag",
+      "link": "https://www.nrk.no/nyheter/finsk-og-amerikansk-utenriksminister-motes-torsdag-1.18067652",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 29 Oct 2026 00:31:56 GMT"
+    },
+    {
+      "title": "Opplysninger om 40.000 ansatte i USAs sikkerhetsdepartement lekket på nettet",
+      "link": "https://www.nrk.no/nyheter/opplysninger-om-40.000-ansatte-i-usas-sikkerhetsdepartement-lekket-pa-nettet-1.18067628",
+      "category": "USA",
+      "pubDate": "Wed, 28 Oct 2026 23:38:13 GMT"
+    },
+    {
+      "title": "Tre pågrepet og siktet etter skyting i Drammen",
+      "link": "https://www.nrk.no/nyheter/tre-pagrepet-og-siktet-etter-skyting-i-drammen-1.18067623",
+      "category": "Nyhetssenter Buskerud",
+      "pubDate": "Wed, 28 Oct 2026 22:37:52 GMT"
+    },
+    {
+      "title": "Person skadet etter voldshendelse – politiet søker etter gjerningsperson",
+      "link": "https://www.nrk.no/nordland/person-skadet-etter-voldshendelse-_-politiet-soker-etter-gjerningsperson-1.18067493",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Wed, 28 Oct 2026 20:18:21 GMT"
+    },
     {
       "title": "Bolsonaro i USA: Hevder at han vant valget",
       "link": "https://www.nrk.no/nyheter/bolsonaro-i-usa_-hevder-at-han-vant-valget-1.18067497",
       "category": "Brasil",
       "pubDate": "Wed, 28 Oct 2026 19:48:15 GMT"
-    },
-    {
-      "title": "USA holder renten uendret",
-      "link": "https://www.nrk.no/nyheter/usa-holder-renten-uendret-1.18067488",
-      "category": "Økonomi",
-      "pubDate": "Wed, 28 Oct 2026 18:23:43 GMT"
-    },
-    {
-      "title": "Melding om mulig skyting i Drammen",
-      "link": "https://www.nrk.no/nyheter/melding-om-mulig-skyting-i-drammen-1.18067450",
-      "category": "Nyhetssenter Buskerud",
-      "pubDate": "Wed, 28 Oct 2026 18:06:58 GMT"
-    },
-    {
-      "title": "Midlertidig stans av omstridte Meta-endringer for norske mediehus",
-      "link": "https://www.nrk.no/nyheter/midlertidig-stans-av-omstridte-meta-endringer-for-norske-mediehus-1.18067443",
-      "category": "Meta",
-      "pubDate": "Wed, 28 Oct 2026 16:57:46 GMT"
-    },
-    {
-      "title": "Justisministeren ber om å få orientere Stortinget om PST",
-      "link": "https://www.nrk.no/nyheter/justisministeren-ber-om-a-fa-orientere-stortinget-om-pst-1.18067382",
-      "category": "PST",
-      "pubDate": "Wed, 28 Oct 2026 16:37:02 GMT"
-    },
-    {
-      "title": "Tyskland etterforsker belarusere for sabotasjeplaner",
-      "link": "https://www.nrk.no/nyheter/tyskland-etterforsker-belarusere-for-sabotasjeplaner-1.18067370",
-      "category": "Tyskland",
-      "pubDate": "Wed, 28 Oct 2026 15:03:07 GMT"
     }
   ]
 }
