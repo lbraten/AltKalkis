@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-29T20:28:09.488Z",
+  "updatedAt": "2026-10-30T00:11:40.127Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mann i 20-årene omkom under militærøvelse i Stjørdal",
+      "link": "https://www.nrk.no/nyheter/mann-i-20-arene-omkom-under-militaerovelse-i-stjordal-1.18068930",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Thu, 29 Oct 2026 23:51:30 GMT"
+    },
+    {
+      "title": "Myndighetene i Kyiv: Én drept i russisk angrep",
+      "link": "https://www.nrk.no/nyheter/myndighetene-i-kyiv_-en-drept-i-russisk-angrep-1.18068922",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 29 Oct 2026 22:03:53 GMT"
+    },
+    {
+      "title": "Alvorlig ulykke på militært område i Stjørdal",
+      "link": "https://www.nrk.no/trondelag/alvorlig-ulykke-pa-militaert-omrade-i-stjordal-1.18068817",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Thu, 29 Oct 2026 20:57:34 GMT"
+    },
+    {
+      "title": "Klart for evakuering fra beleiret ukrainsk by",
+      "link": "https://www.nrk.no/nyheter/klart-for-evakuering-fra-beleiret-ukrainsk-by-1.18068901",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 29 Oct 2026 20:57:19 GMT"
+    },
+    {
+      "title": "Eksplosjoner i Kyiv: Russland angriper med ballistiske raketter",
+      "link": "https://www.nrk.no/nyheter/eksplosjoner-i-kyiv_-russland-angriper-med-ballistiske-raketter-1.18068866",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 29 Oct 2026 20:53:59 GMT"
+    },
     {
       "title": "Kraftig nedgang for tech-aksjer i USA",
       "link": "https://www.nrk.no/nyheter/kraftig-nedgang-for-tech-aksjer-i-usa-1.18068425",
       "category": "USA",
       "pubDate": "Thu, 29 Oct 2026 20:10:25 GMT"
-    },
-    {
-      "title": "Skuespiller Patrick Stewart er død, 86 år gammel",
-      "link": "https://www.nrk.no/nyheter/skuespiller-patrick-stewart-er-dod_-86-ar-gammel-1.18068863",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 29 Oct 2026 19:52:25 GMT"
-    },
-    {
-      "title": "Fire døde i militærhelikopterstyrt i Bosnia",
-      "link": "https://www.nrk.no/nyheter/fire-dode-i-militaerhelikopterstyrt-i-bosnia-1.18068749",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 29 Oct 2026 19:47:31 GMT"
-    },
-    {
-      "title": "Trine Skei Grande ny leder i World Expression Forum (WEXFO)",
-      "link": "https://www.nrk.no/innlandet/trine-skei-grande-ny-leder-i-world-expression-forum-_wexfo_-1.18068727",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Thu, 29 Oct 2026 19:01:53 GMT"
-    },
-    {
-      "title": "Kommune slutter med Facebook: – Ikke lenger en trygg kanal",
-      "link": "https://www.nrk.no/stor-oslo/kommune-slutter-med-facebook_-_-ikke-lenger-en-trygg-kanal-1.18068748",
-      "category": "Nyhetssenter Stor-Oslo",
-      "pubDate": "Thu, 29 Oct 2026 17:54:52 GMT"
-    },
-    {
-      "title": "Togulykken i Spania: Dødstallene steget til 74",
-      "link": "https://www.nrk.no/nyheter/togulykken-i-spania_-dodstallene-steget-til-74-1.18068594",
-      "category": "Spania",
-      "pubDate": "Thu, 29 Oct 2026 16:41:52 GMT"
     }
   ]
 }
