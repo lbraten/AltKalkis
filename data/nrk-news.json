@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-30T18:45:17.429Z",
+  "updatedAt": "2026-10-30T22:49:21.171Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Blodrød dag på Wall Street",
+      "link": "https://www.nrk.no/nyheter/blodrod-dag-pa-wall-street-1.18069874",
+      "category": "USA",
+      "pubDate": "Fri, 30 Oct 2026 20:51:37 GMT"
+    },
+    {
+      "title": "Russisk veto mot Vest-Sahara-resolusjon",
+      "link": "https://www.nrk.no/nyheter/russisk-veto-mot-vest-sahara-resolusjon-1.18069868",
+      "category": "Russland",
+      "pubDate": "Fri, 30 Oct 2026 20:44:35 GMT"
+    },
+    {
+      "title": "USA godkjenner salg av Patriot-missiler til Ukraina",
+      "link": "https://www.nrk.no/nyheter/usa-godkjenner-salg-av-patriot-missiler-til-ukraina-1.18069865",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 30 Oct 2026 20:26:03 GMT"
+    },
+    {
+      "title": "5000 døde av ebola i Kongo",
+      "link": "https://www.nrk.no/nyheter/5000-dode-av-ebola-i-kongo-1.18069780",
+      "category": "Ebola",
+      "pubDate": "Fri, 30 Oct 2026 20:19:12 GMT"
+    },
     {
       "title": "Tønsberg: Ung MC-fører livstruende skadet",
       "link": "https://www.nrk.no/vestfoldogtelemark/tonsberg_-ung-mc-forer-livstruende-skadet-1.18069761",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/innlandet/mann-fraktet-til-sykehus-med-skuddskade-1.18069804",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Fri, 30 Oct 2026 18:24:55 GMT"
-    },
-    {
-      "title": "Ber forsvarsministeren sette anbud på pause",
-      "link": "https://www.nrk.no/tromsogfinnmark/ber-forsvarsministeren-sette-anbud-pa-pause-1.18069710",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 30 Oct 2026 18:05:17 GMT"
-    },
-    {
-      "title": "Britiske myndigheter undersøker Meta",
-      "link": "https://www.nrk.no/nyheter/britiske-myndigheter-undersoker-meta-1.18069750",
-      "category": "Storbritannia",
-      "pubDate": "Fri, 30 Oct 2026 17:49:27 GMT"
-    },
-    {
-      "title": "Brasils president til klimatoppmøtet",
-      "link": "https://www.nrk.no/nyheter/brasils-president-til-klimatoppmotet-1.18069568",
-      "category": "Klima og miljø",
-      "pubDate": "Fri, 30 Oct 2026 17:07:02 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke – luftambulanse på vei",
-      "link": "https://www.nrk.no/vestfoldogtelemark/alvorlig-trafikkulykke-_-luftambulanse-pa-vei-1.18069664",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 30 Oct 2026 17:05:34 GMT"
     }
   ]
 }
