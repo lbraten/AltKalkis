@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-31T19:28:04.845Z",
+  "updatedAt": "2026-10-31T22:45:09.547Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "FBI: Nord-Korea stod bak tjuveriet av nesten 60 milliardar kroner i kryptovaluta",
+      "link": "https://www.nrk.no/nyheter/fbi_-nord-korea-stod-bak-tjuveriet-av-nesten-60-milliardar-kroner-i-kryptovaluta-1.18070245",
+      "category": "Kryptovaluta",
+      "pubDate": "Sat, 31 Oct 2026 21:48:31 GMT"
+    },
+    {
+      "title": "Brann i ein bustad",
+      "link": "https://www.nrk.no/mr/brann-i-ein-bustad-1.18070330",
+      "category": "Nyheitssenter Møre og Romsdal",
+      "pubDate": "Sat, 31 Oct 2026 20:55:23 GMT"
+    },
     {
       "title": "Person funnet livløs i vann i Rindal",
       "link": "https://www.nrk.no/trondelag/person-funnet-livlos-i-vann-i-rindal-1.18070268",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-atvarar-russland-om-terrorplanar-mot-moskva-i-dag-1.18070211",
       "category": "Russland",
       "pubDate": "Sat, 31 Oct 2026 15:38:12 GMT"
-    },
-    {
-      "title": "Binance: – 90 prosent av alle midlar er gjenoppretta",
-      "link": "https://www.nrk.no/nyheter/binance_-_-90-prosent-av-alle-midlar-er-gjenoppretta-1.18070147",
-      "category": "Kryptovaluta",
-      "pubDate": "Sat, 31 Oct 2026 14:51:14 GMT"
-    },
-    {
-      "title": "Evakuerte frå Olesjky er framme i Ukraina",
-      "link": "https://www.nrk.no/nyheter/evakuerte-fra-olesjky-er-framme-i-ukraina-1.18070126",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 31 Oct 2026 13:41:44 GMT"
     }
   ]
 }
