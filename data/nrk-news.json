@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-30T22:49:21.171Z",
+  "updatedAt": "2026-10-31T02:04:56.392Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Polens president avbryter reise",
+      "link": "https://www.nrk.no/nyheter/polens-president-avbryter-reise-1.18069904",
+      "category": "Polen",
+      "pubDate": "Sat, 31 Oct 2026 01:56:45 GMT"
+    },
+    {
+      "title": "Energiministeren ikke skremt av havvindanalyse",
+      "link": "https://www.nrk.no/nyheter/energiministeren-ikke-skremt-av-havvindanalyse-1.18069903",
+      "category": "Havvind",
+      "pubDate": "Sat, 31 Oct 2026 00:58:45 GMT"
+    },
+    {
+      "title": "Avis: Angrep mot ukrainsk energianlegg",
+      "link": "https://www.nrk.no/nyheter/avis_-angrep-mot-ukrainsk-energianlegg-1.18069900",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 30 Oct 2026 23:33:35 GMT"
+    },
     {
       "title": "Blodrød dag på Wall Street",
       "link": "https://www.nrk.no/nyheter/blodrod-dag-pa-wall-street-1.18069874",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-godkjenner-salg-av-patriot-missiler-til-ukraina-1.18069865",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 30 Oct 2026 20:26:03 GMT"
-    },
-    {
-      "title": "5000 døde av ebola i Kongo",
-      "link": "https://www.nrk.no/nyheter/5000-dode-av-ebola-i-kongo-1.18069780",
-      "category": "Ebola",
-      "pubDate": "Fri, 30 Oct 2026 20:19:12 GMT"
-    },
-    {
-      "title": "Tønsberg: Ung MC-fører livstruende skadet",
-      "link": "https://www.nrk.no/vestfoldogtelemark/tonsberg_-ung-mc-forer-livstruende-skadet-1.18069761",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Fri, 30 Oct 2026 18:38:47 GMT"
-    },
-    {
-      "title": "Mann fraktet til sykehus med skuddskade",
-      "link": "https://www.nrk.no/innlandet/mann-fraktet-til-sykehus-med-skuddskade-1.18069804",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 30 Oct 2026 18:24:55 GMT"
     }
   ]
 }
