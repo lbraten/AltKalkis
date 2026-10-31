@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-31T15:08:53.007Z",
+  "updatedAt": "2026-10-31T19:28:04.845Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Person funnet livløs i vann i Rindal",
+      "link": "https://www.nrk.no/trondelag/person-funnet-livlos-i-vann-i-rindal-1.18070268",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Sat, 31 Oct 2026 18:15:37 GMT"
+    },
+    {
+      "title": "Maskerte personar med skytevåpen tok seg inn på privat adresse",
+      "link": "https://www.nrk.no/vestland/maskerte-personar-med-skytevapen-tok-seg-inn-pa-privat-adresse-1.18070263",
+      "category": "Krim og hendingar i Vestland",
+      "pubDate": "Sat, 31 Oct 2026 18:07:14 GMT"
+    },
+    {
+      "title": "Dansk TV 2 trekk tilbake narreprogram etter massiv kritikk",
+      "link": "https://www.nrk.no/nyheter/dansk-tv-2-trekk-tilbake-narreprogram-etter-massiv-kritikk-1.18070229",
+      "category": "Danmark",
+      "pubDate": "Sat, 31 Oct 2026 16:37:02 GMT"
+    },
+    {
+      "title": "USA åtvarar Russland om terrorplanar mot Moskva i dag",
+      "link": "https://www.nrk.no/nyheter/usa-atvarar-russland-om-terrorplanar-mot-moskva-i-dag-1.18070211",
+      "category": "Russland",
+      "pubDate": "Sat, 31 Oct 2026 15:38:12 GMT"
+    },
     {
       "title": "Binance: – 90 prosent av alle midlar er gjenoppretta",
       "link": "https://www.nrk.no/nyheter/binance_-_-90-prosent-av-alle-midlar-er-gjenoppretta-1.18070147",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/evakuerte-fra-olesjky-er-framme-i-ukraina-1.18070126",
       "category": "Krigen i Ukraina",
       "pubDate": "Sat, 31 Oct 2026 13:41:44 GMT"
-    },
-    {
-      "title": "Redningshelikopteret søkte etter mulig paragliderulykke i Ryfylke",
-      "link": "https://www.nrk.no/rogaland/redningshelikopteret-sokte-etter-mulig-paragliderulykke-i-ryfylke-1.18070097",
-      "category": "Nyheter fra Rogaland",
-      "pubDate": "Sat, 31 Oct 2026 12:57:54 GMT"
-    },
-    {
-      "title": "Glimt-styret gikk på kjempesmell – nedstemt i navnestrid",
-      "link": "https://www.nrk.no/sport/glimt-styret-gikk-pa-kjempesmell-_-nedstemt-i-navnestrid-1.18070110",
-      "category": "Nyhetssenter Nordland",
-      "pubDate": "Sat, 31 Oct 2026 12:43:45 GMT"
-    },
-    {
-      "title": "Reineigarane på Nord-Fosen vurderer å ta saka til FN",
-      "link": "https://www.nrk.no/nyheter/reineigarane-pa-nord-fosen-vurderer-a-ta-saka-til-fn-1.18070053",
-      "category": "Fosen-dommen",
-      "pubDate": "Sat, 31 Oct 2026 12:30:57 GMT"
-    },
-    {
-      "title": "Zelenskyj: Nesten 300.000 utan elektrisitet i Ukraina",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-nesten-300.000-utan-elektrisitet-i-ukraina-1.18070051",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 31 Oct 2026 10:31:59 GMT"
     }
   ]
 }
