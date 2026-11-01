@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-01T20:20:56.368Z",
+  "updatedAt": "2026-11-01T23:47:07.866Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Lokal våpenhvile i Ukraina er over",
+      "link": "https://www.nrk.no/nyheter/lokal-vapenhvile-i-ukraina-er-over-1.18070844",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 01 Nov 2026 23:11:15 GMT"
+    },
+    {
+      "title": "Fly har styrtet i Florida, melder lokalt brannvesen",
+      "link": "https://www.nrk.no/nyheter/fly-har-styrtet-i-florida_-melder-lokalt-brannvesen-1.18070760",
+      "category": "USA",
+      "pubDate": "Sun, 01 Nov 2026 20:19:40 GMT"
+    },
     {
       "title": "Dommer avviser Trump-søksmål knyttet til navneforveksling i mellomvalget",
       "link": "https://www.nrk.no/nyheter/dommer-avviser-trump-soksmal-knyttet-til-navneforveksling-i-mellomvalget-1.18070627",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/tromsogfinnmark/bilulykke-i-gullesfjorden_-de-involverte-skal-vaere-kritisk-skadd-1.18070547",
       "category": "Nyhetssenter Troms og Finnmark",
       "pubDate": "Sun, 01 Nov 2026 13:23:47 GMT"
-    },
-    {
-      "title": "Åtte drept i israelske angrep i Gaza",
-      "link": "https://www.nrk.no/nyheter/atte-drept-i-israelske-angrep-i-gaza-1.18070541",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sun, 01 Nov 2026 12:22:07 GMT"
-    },
-    {
-      "title": "Politi og demonstranter i sammenstøt i Portugal",
-      "link": "https://www.nrk.no/nyheter/politi-og-demonstranter-i-sammenstot-i-portugal-1.18070531",
-      "category": "Portugal",
-      "pubDate": "Sun, 01 Nov 2026 11:56:38 GMT"
     }
   ]
 }
