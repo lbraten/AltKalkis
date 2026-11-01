@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-11-01T15:56:08.422Z",
+  "updatedAt": "2026-11-01T20:20:56.368Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Dommer avviser Trump-søksmål knyttet til navneforveksling i mellomvalget",
+      "link": "https://www.nrk.no/nyheter/dommer-avviser-trump-soksmal-knyttet-til-navneforveksling-i-mellomvalget-1.18070627",
+      "category": "USA",
+      "pubDate": "Sun, 01 Nov 2026 18:03:31 GMT"
+    },
     {
       "title": "Person falt ned fra demning i Orkland",
       "link": "https://www.nrk.no/trondelag/person-falt-ned-fra-demning-i-orkland-1.18070628",
@@ -31,12 +37,6 @@
       "link": "https://www.nrk.no/nyheter/politi-og-demonstranter-i-sammenstot-i-portugal-1.18070531",
       "category": "Portugal",
       "pubDate": "Sun, 01 Nov 2026 11:56:38 GMT"
-    },
-    {
-      "title": "FHI bekymret for økende mengde av meslingtilfeller hos småbarn",
-      "link": "https://www.nrk.no/nyheter/fhi-bekymret-for-okende-mengde-av-meslingtilfeller-hos-smabarn-1.18070501",
-      "category": "Meslinger",
-      "pubDate": "Sun, 01 Nov 2026 11:43:40 GMT"
     }
   ]
 }
