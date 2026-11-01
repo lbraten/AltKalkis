@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-31T22:45:09.547Z",
+  "updatedAt": "2026-11-01T01:56:27.577Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "36 migranter reddet fra drivende båt utenfor Nederland",
+      "link": "https://www.nrk.no/nyheter/36-migranter-reddet-fra-drivende-bat-utenfor-nederland-1.18070358",
+      "category": "Migranter i Europa",
+      "pubDate": "Sun, 01 Nov 2026 01:45:08 GMT"
+    },
+    {
+      "title": "Tenåring påkjørt av elsparkesyklist – sendt til sykehus",
+      "link": "https://www.nrk.no/nyheter/tenaring-pakjort-av-elsparkesyklist-_-sendt-til-sykehus-1.18070349",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 01 Nov 2026 00:18:21 GMT"
+    },
     {
       "title": "FBI: Nord-Korea stod bak tjuveriet av nesten 60 milliardar kroner i kryptovaluta",
       "link": "https://www.nrk.no/nyheter/fbi_-nord-korea-stod-bak-tjuveriet-av-nesten-60-milliardar-kroner-i-kryptovaluta-1.18070245",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/vestland/maskerte-personar-med-skytevapen-tok-seg-inn-pa-privat-adresse-1.18070263",
       "category": "Krim og hendingar i Vestland",
       "pubDate": "Sat, 31 Oct 2026 18:07:14 GMT"
-    },
-    {
-      "title": "Dansk TV 2 trekk tilbake narreprogram etter massiv kritikk",
-      "link": "https://www.nrk.no/nyheter/dansk-tv-2-trekk-tilbake-narreprogram-etter-massiv-kritikk-1.18070229",
-      "category": "Danmark",
-      "pubDate": "Sat, 31 Oct 2026 16:37:02 GMT"
-    },
-    {
-      "title": "USA åtvarar Russland om terrorplanar mot Moskva i dag",
-      "link": "https://www.nrk.no/nyheter/usa-atvarar-russland-om-terrorplanar-mot-moskva-i-dag-1.18070211",
-      "category": "Russland",
-      "pubDate": "Sat, 31 Oct 2026 15:38:12 GMT"
     }
   ]
 }
