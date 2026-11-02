@@ -1472,6 +1472,10 @@ h6 {
     border-bottom-color: #67b8ff;
 }
 
+.ame-bre-legend__line--yellow {
+    border-bottom-color: #f4d35e;
+}
+
 .ame-bre-mark {
     text-underline-offset: 0.12em;
     text-decoration-thickness: 1.7px;
@@ -1488,6 +1492,24 @@ h6 {
     text-decoration-line: underline;
     text-decoration-style: wavy;
     text-decoration-color: #67b8ff;
+}
+
+.ame-bre-mark--yellow {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #f4d35e;
+}
+
+.ame-bre-mark--action {
+    cursor: pointer;
+    transition: background-color 0.14s ease;
+    border-radius: 4px;
+}
+
+.ame-bre-mark--action:hover,
+.ame-bre-mark--action:focus-visible {
+    background: rgba(255, 255, 255, 0.1);
+    outline: none;
 }
 
 .ame-bre-actions {
@@ -1526,6 +1548,23 @@ h6 {
 
 .ame-bre-suggestions li {
     margin: 0;
+}
+
+.ame-bre-suggestion-btn {
+    width: 100%;
+    text-align: left;
+    margin: 0;
+    padding: 0.4rem 0.55rem;
+    font-size: 0.84rem;
+    border-radius: 7px;
+    border: 1px solid rgba(var(--color-border), 0.45);
+    background: rgba(var(--color-bg-input), 0.7);
+    color: rgba(var(--color-text-base), 0.95);
+}
+
+.ame-bre-suggestion-btn:hover {
+    border-color: rgba(var(--color-ring), 0.75);
+    background: rgba(var(--color-button-muted), 0.9);
 }
 
 .weather-controls {

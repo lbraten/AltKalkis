@@ -636,6 +636,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const ameToBreStrictnessStorageKey = "altkalkis-ame-bre-strictness";
     let ameToBreStrictness = "balanced";
+    let ameToBreActiveMarkers = [];
 
     try {
         const storedStrictness = localStorage.getItem(ameToBreStrictnessStorageKey);
@@ -878,6 +879,13 @@ document.addEventListener("DOMContentLoaded", () => {
         return ameToBreStrictness;
     };
 
+    const ameToBreGetTypeLabel = (type) => {
+        if (type === "red") return "Staving";
+        if (type === "blue") return "Stil";
+        if (type === "yellow") return "Grammatikk";
+        return "Forslag";
+    };
+
     const ameToBreResolveWord = (rawWord, replacementMap) => {
         const token = String(rawWord || "");
         const lower = token.toLowerCase();
@@ -952,6 +960,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 end: match.index + token.length,
                 type,
                 title: `${token} -> ${replacement}`,
+                replacement,
             });
 
             suggestions.push({
@@ -959,6 +968,9 @@ document.addEventListener("DOMContentLoaded", () => {
                 from: token,
                 to: replacement,
                 reason,
+                start: match.index,
+                end: match.index + token.length,
+                replacement,
             });
         }
 
@@ -981,12 +993,16 @@ document.addEventListener("DOMContentLoaded", () => {
                     end: match.index + found.length,
                     type: "blue",
                     title: `${found} -> ${replacement}`,
+                    replacement,
                 });
                 suggestions.push({
                     type: "blue",
                     from: found,
                     to: replacement,
                     reason: rule.reason,
+                    start: match.index,
+                    end: match.index + found.length,
+                    replacement,
                 });
             }
         });
@@ -994,12 +1010,71 @@ document.addEventListener("DOMContentLoaded", () => {
         return markers;
     };
 
+    const ameToBreCollectGrammarMarkers = (text, suggestions) => {
+        const markers = [];
+        const source = String(text || "");
+
+        const pushGrammar = (start, end, from, to, reason) => {
+            if (!Number.isInteger(start) || !Number.isInteger(end)) return;
+            if (start < 0 || end <= start || end > source.length) return;
+            markers.push({
+                start,
+                end,
+                type: "yellow",
+                title: `${from} -> ${to}`,
+                replacement: to,
+            });
+            suggestions.push({
+                type: "yellow",
+                from,
+                to,
+                reason,
+                start,
+                end,
+                replacement: to,
+            });
+        };
+
+        source.replace(/\bi\b/g, (match, offset) => {
+            pushGrammar(offset, offset + match.length, match, "I", "Pronomenet 'I' skal ha stor bokstav");
+            return match;
+        });
+
+        source.replace(/(^|[.!?]\s+|\n+)([a-z])/g, (match, prefix, letter, offset) => {
+            const letterStart = offset + String(prefix || "").length;
+            pushGrammar(letterStart, letterStart + 1, letter, letter.toUpperCase(), "Ny setning bør starte med stor bokstav");
+            return match;
+        });
+
+        source.replace(/([A-Za-z0-9])\s+([,.;!?])/g, (match, left, punctuation, offset) => {
+            pushGrammar(offset, offset + match.length, match, `${left}${punctuation}`, "Fjern mellomrom før tegnsetting");
+            return match;
+        });
+
+        source.replace(/([,;:])([A-Za-z(])/g, (match, punctuation, right, offset) => {
+            pushGrammar(offset, offset + match.length, match, `${punctuation} ${right}`, "Sett inn mellomrom etter tegnsetting");
+            return match;
+        });
+
+        source.replace(/([A-Za-z0-9]) {2,}([A-Za-z0-9])/g, (match, left, right, offset) => {
+            pushGrammar(offset, offset + match.length, match, `${left} ${right}`, "Bruk ett mellomrom mellom ord");
+            return match;
+        });
+
+        return markers;
+    };
+
     const ameToBreMergeMarkers = (markers) => {
+        const markerPriority = {
+            red: 3,
+            yellow: 2,
+            blue: 1,
+        };
+
         const sorted = [...markers].sort((a, b) => {
             if (a.start !== b.start) return a.start - b.start;
             if (a.end !== b.end) return b.end - a.end;
-            if (a.type === b.type) return 0;
-            return a.type === "red" ? -1 : 1;
+            return (markerPriority[b.type] || 0) - (markerPriority[a.type] || 0);
         });
 
         const merged = [];
@@ -1011,13 +1086,18 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             const existing = merged[overlapsIndex];
-            const preferNew = marker.type === "red" && existing.type !== "red";
+            const preferNew = (markerPriority[marker.type] || 0) > (markerPriority[existing.type] || 0);
             if (preferNew) {
                 merged.splice(overlapsIndex, 1, marker);
             }
         });
 
-        return merged.sort((a, b) => a.start - b.start);
+        return merged
+            .sort((a, b) => a.start - b.start)
+            .map((marker, index) => ({
+                ...marker,
+                id: index + 1,
+            }));
     };
 
     const ameToBreRenderPreview = (text, markers) => {
@@ -1040,8 +1120,15 @@ document.addEventListener("DOMContentLoaded", () => {
                 parts.push(ameToBreEscapeHtml(source.slice(cursor, marker.start)));
             }
             const chunk = source.slice(marker.start, marker.end);
-            const className = marker.type === "red" ? "ame-bre-mark ame-bre-mark--red" : "ame-bre-mark ame-bre-mark--blue";
-            parts.push(`<span class="${className}" title="${ameToBreEscapeHtml(marker.title)}">${ameToBreEscapeHtml(chunk)}</span>`);
+            const colorClass = marker.type === "red"
+                ? "ame-bre-mark--red"
+                : marker.type === "yellow"
+                    ? "ame-bre-mark--yellow"
+                    : "ame-bre-mark--blue";
+            const clickTitle = `${marker.title} (klikk for å bruke)`;
+            parts.push(
+                `<span class="ame-bre-mark ${colorClass} ame-bre-mark--action" role="button" tabindex="0" data-fix-start="${marker.start}" data-fix-end="${marker.end}" data-fix-replacement="${ameToBreEscapeHtml(marker.replacement || "")}" title="${ameToBreEscapeHtml(clickTitle)}">${ameToBreEscapeHtml(chunk)}</span>`,
+            );
             cursor = marker.end;
         });
 
@@ -1057,22 +1144,38 @@ document.addEventListener("DOMContentLoaded", () => {
         ameToBreSuggestionList.innerHTML = "";
         if (!suggestions.length) return;
 
-        const unique = new Set();
-        const firstSuggestions = suggestions.filter((item) => {
-            const key = `${item.type}|${item.from.toLowerCase()}|${item.to.toLowerCase()}`;
-            if (unique.has(key)) return false;
-            unique.add(key);
-            return true;
-        }).slice(0, 18);
-
         const fragment = document.createDocumentFragment();
-        firstSuggestions.forEach((item) => {
+        suggestions.slice(0, 20).forEach((item) => {
             const li = document.createElement("li");
-            const prefix = item.type === "red" ? "Staving" : "Stil";
-            li.textContent = `${prefix}: ${item.from} -> ${item.to}${item.reason ? ` (${item.reason})` : ""}`;
+            const button = document.createElement("button");
+            button.type = "button";
+            button.className = "ame-bre-suggestion-btn";
+            button.dataset.fixStart = String(item.start ?? "");
+            button.dataset.fixEnd = String(item.end ?? "");
+            button.dataset.fixReplacement = String(item.replacement ?? item.to ?? "");
+            const prefix = ameToBreGetTypeLabel(item.type);
+            button.textContent = `${prefix}: ${item.from} -> ${item.to}${item.reason ? ` (${item.reason})` : ""}`;
+            li.appendChild(button);
             fragment.appendChild(li);
         });
         ameToBreSuggestionList.appendChild(fragment);
+    };
+
+    const ameToBreApplyFix = (startRaw, endRaw, replacementRaw) => {
+        if (!ameToBreInput || !ameToBreStatus) return;
+        const start = Number.parseInt(String(startRaw || ""), 10);
+        const end = Number.parseInt(String(endRaw || ""), 10);
+        const replacement = String(replacementRaw ?? "");
+
+        if (!Number.isInteger(start) || !Number.isInteger(end)) return;
+        if (start < 0 || end <= start || end > ameToBreInput.value.length) return;
+
+        const current = ameToBreInput.value;
+        ameToBreInput.value = `${current.slice(0, start)}${replacement}${current.slice(end)}`;
+        const caretPos = start + replacement.length;
+        ameToBreInput.focus();
+        ameToBreInput.setSelectionRange(caretPos, caretPos);
+        ameToBreRun();
     };
 
     const ameToBreRun = () => {
@@ -1084,6 +1187,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!inputText.trim()) {
             ameToBreOutput.value = "";
             ameToBreStatus.innerText = `Skriv inn tekst for å få britiske forslag. Nivå: ${strictnessName}.`;
+            ameToBreActiveMarkers = [];
             ameToBreRenderPreview("", []);
             ameToBreRenderSuggestions([]);
             return;
@@ -1127,21 +1231,48 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         markers.push(...ameToBreCollectPhraseMarkers(inputText, suggestions, strictnessLevel));
+        markers.push(...ameToBreCollectGrammarMarkers(inputText, suggestions));
         const mergedMarkers = ameToBreMergeMarkers(markers);
+        ameToBreActiveMarkers = mergedMarkers;
 
         const convertedText = ameToBreBuildConvertedText(inputText, strictnessLevel);
         const changedCount = countTextCleanerChanges(inputText, convertedText);
         const redCount = mergedMarkers.filter((marker) => marker.type === "red").length;
         const blueCount = mergedMarkers.filter((marker) => marker.type === "blue").length;
+        const yellowCount = mergedMarkers.filter((marker) => marker.type === "yellow").length;
 
         ameToBreOutput.value = convertedText;
         ameToBreRenderPreview(inputText, mergedMarkers);
         ameToBreRenderSuggestions(suggestions);
-        ameToBreStatus.innerText = `Nivå ${strictnessName}: ${redCount} stavingsforslag (rød), ${blueCount} stilforslag (blå). ${changedCount.toLocaleString("nb-NO")} tegn endret i konvertert tekst.`;
+        ameToBreStatus.innerText = `Nivå ${strictnessName}: ${redCount} røde, ${blueCount} blå, ${yellowCount} gule forslag. Klikk understreking eller forslag for å fikse. ${changedCount.toLocaleString("nb-NO")} tegn endret i konvertert tekst.`;
     };
 
     if (ameToBreInput) {
         ameToBreInput.addEventListener("input", ameToBreRun);
+    }
+
+    if (ameToBrePreview) {
+        ameToBrePreview.addEventListener("click", (event) => {
+            const target = event.target instanceof HTMLElement ? event.target.closest("[data-fix-start][data-fix-end][data-fix-replacement]") : null;
+            if (!target) return;
+            ameToBreApplyFix(target.dataset.fixStart, target.dataset.fixEnd, target.dataset.fixReplacement);
+        });
+
+        ameToBrePreview.addEventListener("keydown", (event) => {
+            if (event.key !== "Enter" && event.key !== " ") return;
+            const target = event.target instanceof HTMLElement ? event.target.closest("[data-fix-start][data-fix-end][data-fix-replacement]") : null;
+            if (!target) return;
+            event.preventDefault();
+            ameToBreApplyFix(target.dataset.fixStart, target.dataset.fixEnd, target.dataset.fixReplacement);
+        });
+    }
+
+    if (ameToBreSuggestionList) {
+        ameToBreSuggestionList.addEventListener("click", (event) => {
+            const target = event.target instanceof HTMLElement ? event.target.closest("[data-fix-start][data-fix-end][data-fix-replacement]") : null;
+            if (!target) return;
+            ameToBreApplyFix(target.dataset.fixStart, target.dataset.fixEnd, target.dataset.fixReplacement);
+        });
     }
 
     ameToBreStrictnessInputs.forEach((input) => {
@@ -1175,6 +1306,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (ameToBreInput) ameToBreInput.value = "";
             if (ameToBreOutput) ameToBreOutput.value = "";
             if (ameToBreStatus) ameToBreStatus.innerText = "";
+            ameToBreActiveMarkers = [];
             ameToBreRenderPreview("", []);
             ameToBreRenderSuggestions([]);
         });
