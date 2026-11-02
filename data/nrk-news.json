@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-01T23:47:07.866Z",
+  "updatedAt": "2026-11-02T04:56:15.139Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 12 utlendinger døde i togulykken i Spania",
+      "link": "https://www.nrk.no/nyheter/minst-12-utlendinger-dode-i-togulykken-i-spania-1.18070859",
+      "category": "Spania",
+      "pubDate": "Mon, 02 Nov 2026 03:49:26 GMT"
+    },
+    {
+      "title": "Overvåkingssenter: Tankskip truffet i Persiabukta",
+      "link": "https://www.nrk.no/nyheter/-overvakingssenter_-tankskip-truffet-i-persiabukta-1.18070858",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Mon, 02 Nov 2026 02:58:01 GMT"
+    },
+    {
+      "title": "Russland: – Cyberangrep mot app",
+      "link": "https://www.nrk.no/nyheter/russland_-_-cyberangrep-mot-app-1.18070856",
+      "category": "Russland",
+      "pubDate": "Mon, 02 Nov 2026 01:55:44 GMT"
+    },
+    {
+      "title": "Ikke opplysninger om omkomne på bakken etter flystyrt",
+      "link": "https://www.nrk.no/nyheter/ikke-opplysninger-om-omkomne-pa-bakken-etter-flystyrt-1.18070855",
+      "category": "USA",
+      "pubDate": "Mon, 02 Nov 2026 00:48:08 GMT"
+    },
+    {
+      "title": "Ukraina: Flyalarm-app er hacket",
+      "link": "https://www.nrk.no/nyheter/ukraina_-flyalarm-app-er-hacket-1.18070854",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 01 Nov 2026 23:59:55 GMT"
+    },
     {
       "title": "Lokal våpenhvile i Ukraina er over",
       "link": "https://www.nrk.no/nyheter/lokal-vapenhvile-i-ukraina-er-over-1.18070844",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 01 Nov 2026 23:11:15 GMT"
-    },
-    {
-      "title": "Fly har styrtet i Florida, melder lokalt brannvesen",
-      "link": "https://www.nrk.no/nyheter/fly-har-styrtet-i-florida_-melder-lokalt-brannvesen-1.18070760",
-      "category": "USA",
-      "pubDate": "Sun, 01 Nov 2026 20:19:40 GMT"
-    },
-    {
-      "title": "Dommer avviser Trump-søksmål knyttet til navneforveksling i mellomvalget",
-      "link": "https://www.nrk.no/nyheter/dommer-avviser-trump-soksmal-knyttet-til-navneforveksling-i-mellomvalget-1.18070627",
-      "category": "USA",
-      "pubDate": "Sun, 01 Nov 2026 18:03:31 GMT"
-    },
-    {
-      "title": "Person falt ned fra demning i Orkland",
-      "link": "https://www.nrk.no/trondelag/person-falt-ned-fra-demning-i-orkland-1.18070628",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 01 Nov 2026 14:12:57 GMT"
-    },
-    {
-      "title": "Mindreårig pågrepet for terrorplaner i Moskva",
-      "link": "https://www.nrk.no/nyheter/mindrearig-pagrepet-for-terrorplaner-i-moskva-1.18070596",
-      "category": "Russland",
-      "pubDate": "Sun, 01 Nov 2026 14:10:54 GMT"
-    },
-    {
-      "title": "Bilulykke i Gullesfjorden: De involverte skal være kritisk skadd",
-      "link": "https://www.nrk.no/tromsogfinnmark/bilulykke-i-gullesfjorden_-de-involverte-skal-vaere-kritisk-skadd-1.18070547",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sun, 01 Nov 2026 13:23:47 GMT"
     }
   ]
 }
