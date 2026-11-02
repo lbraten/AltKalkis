@@ -620,9 +620,38 @@ document.addEventListener("DOMContentLoaded", () => {
     const ameToBreCopyBtn = document.getElementById("ameToBreCopyBtn");
     const ameToBreClearBtn = document.getElementById("ameToBreClearBtn");
     const ameToBreSuggestionList = document.getElementById("ameToBreSuggestionList");
+    const ameToBreStrictnessInputs = Array.from(document.querySelectorAll("input[name='ameToBreStrictness']"));
+
+    const ameToBreStrictnessOrder = {
+        conservative: 1,
+        balanced: 2,
+        aggressive: 3,
+    };
+
+    const ameToBreStrictnessLabel = {
+        conservative: "Konservativ",
+        balanced: "Balansert",
+        aggressive: "Aggressiv",
+    };
+
+    const ameToBreStrictnessStorageKey = "altkalkis-ame-bre-strictness";
+    let ameToBreStrictness = "balanced";
+
+    try {
+        const storedStrictness = localStorage.getItem(ameToBreStrictnessStorageKey);
+        if (storedStrictness && Object.prototype.hasOwnProperty.call(ameToBreStrictnessOrder, storedStrictness)) {
+            ameToBreStrictness = storedStrictness;
+        }
+    } catch {
+        ameToBreStrictness = "balanced";
+    }
+
+    ameToBreStrictnessInputs.forEach((input) => {
+        input.checked = input.value === ameToBreStrictness;
+    });
 
     const ameToBreWordPattern = /\b[A-Za-z]+(?:'[A-Za-z]+)?\b/g;
-    const ameToBreBaseMap = {
+    const ameToBreSpellingBaseMap = {
         color: "colour",
         colors: "colours",
         favorite: "favourite",
@@ -646,29 +675,7 @@ document.addEventListener("DOMContentLoaded", () => {
         theater: "theatre",
         theaters: "theatres",
         fiber: "fibre",
-        check: "cheque",
-        checks: "cheques",
-        mom: "mum",
-        moms: "mums",
         gray: "grey",
-        airplane: "aeroplane",
-        airplanes: "aeroplanes",
-        aluminum: "aluminium",
-        cookie: "biscuit",
-        cookies: "biscuits",
-        fries: "chips",
-        movie: "film",
-        movies: "films",
-        candy: "sweets",
-        stroller: "pushchair",
-        strollers: "pushchairs",
-        trunk: "boot",
-        sidewalk: "pavement",
-        sidewalks: "pavements",
-        flashlight: "torch",
-        flashlights: "torches",
-        soccer: "football",
-        math: "maths",
         catalog: "catalogue",
         catalogs: "catalogues",
         dialog: "dialogue",
@@ -693,8 +700,36 @@ document.addEventListener("DOMContentLoaded", () => {
         maneuver: "manoeuvre",
         maneuvers: "manoeuvres",
         pajamas: "pyjamas",
+    };
+
+    const ameToBreLexicalBaseMap = {
+        mom: "mum",
+        moms: "mums",
+        airplane: "aeroplane",
+        airplanes: "aeroplanes",
+        aluminum: "aluminium",
+        cookie: "biscuit",
+        cookies: "biscuits",
+        fries: "chips",
+        movie: "film",
+        movies: "films",
+        candy: "sweets",
+        stroller: "pushchair",
+        strollers: "pushchairs",
+        trunk: "boot",
+        sidewalk: "pavement",
+        sidewalks: "pavements",
+        flashlight: "torch",
+        flashlights: "torches",
+        soccer: "football",
+        math: "maths",
         curb: "kerb",
         curbs: "kerbs",
+    };
+
+    const ameToBreAggressiveLexicalBaseMap = {
+        check: "cheque",
+        checks: "cheques",
         program: "programme",
         programs: "programmes",
     };
@@ -725,38 +760,57 @@ document.addEventListener("DOMContentLoaded", () => {
             pattern: /\bon the weekend\b/gi,
             replacement: "at the weekend",
             reason: "Vanlig britisk uttrykk",
+            minLevel: "balanced",
         },
         {
             pattern: /\bdifferent than\b/gi,
             replacement: "different from",
             reason: "Foretrukket i britisk engelsk",
+            minLevel: "balanced",
         },
         {
             pattern: /\bwrite me\b/gi,
             replacement: "write to me",
             reason: "Vanlig preposisjon i britisk engelsk",
+            minLevel: "balanced",
         },
         {
             pattern: /\bMonday through Friday\b/gi,
             replacement: "Monday to Friday",
             reason: "Mer naturlig britisk formulering",
+            minLevel: "balanced",
         },
         {
             pattern: /\bgotten\b/gi,
             replacement: "got",
             reason: "Britisk engelsk foretrekker vanligvis 'got'",
+            minLevel: "aggressive",
         },
         {
             pattern: /\bparking lot\b/gi,
             replacement: "car park",
             reason: "Britisk ordvalg",
+            minLevel: "aggressive",
         },
         {
             pattern: /\btrash can\b/gi,
             replacement: "bin",
             reason: "Britisk ordvalg",
+            minLevel: "aggressive",
+        },
+        {
+            pattern: /\bcan I get\b/gi,
+            replacement: "may I have",
+            reason: "Høfligere britisk formulering",
+            minLevel: "aggressive",
         },
     ];
+
+    const ameToBreIsLevelEnabled = (minimumLevel, activeLevel) => {
+        const minRank = ameToBreStrictnessOrder[minimumLevel] || ameToBreStrictnessOrder.balanced;
+        const activeRank = ameToBreStrictnessOrder[activeLevel] || ameToBreStrictnessOrder.balanced;
+        return activeRank >= minRank;
+    };
 
     const ameToBreEscapeHtml = (value) => String(value)
         .replace(/&/g, "&amp;")
@@ -809,8 +863,20 @@ document.addEventListener("DOMContentLoaded", () => {
         return output;
     };
 
-    const ameToBreLexicalMap = ameToBreBuildInflectedMap(ameToBreBaseMap);
+    const ameToBreSpellingMap = ameToBreBuildInflectedMap(ameToBreSpellingBaseMap);
+    const ameToBreLexicalMap = ameToBreBuildInflectedMap(ameToBreLexicalBaseMap);
+    const ameToBreAggressiveLexicalMap = ameToBreBuildInflectedMap(ameToBreAggressiveLexicalBaseMap);
     const ameToBreStyleMap = ameToBreBuildInflectedMap(ameToBreStyleWordBaseMap);
+
+    const ameToBreGetActiveStrictness = () => {
+        const selected = ameToBreStrictnessInputs.find((input) => input.checked);
+        const selectedValue = selected?.value;
+        if (selectedValue && Object.prototype.hasOwnProperty.call(ameToBreStrictnessOrder, selectedValue)) {
+            ameToBreStrictness = selectedValue;
+            return selectedValue;
+        }
+        return ameToBreStrictness;
+    };
 
     const ameToBreResolveWord = (rawWord, replacementMap) => {
         const token = String(rawWord || "");
@@ -847,15 +913,25 @@ document.addEventListener("DOMContentLoaded", () => {
         return replacement;
     };
 
-    const ameToBreBuildConvertedText = (inputText) => {
+    const ameToBreBuildConvertedText = (inputText, strictnessLevel) => {
         let nextText = String(inputText || "");
 
         ameToBrePhraseRules.forEach((rule) => {
+            if (!ameToBreIsLevelEnabled(rule.minLevel, strictnessLevel)) return;
             nextText = nextText.replace(rule.pattern, (match) => ameToBreApplyPhraseCase(match, rule.replacement));
         });
 
-        nextText = ameToBreReplaceWords(nextText, ameToBreLexicalMap);
-        nextText = ameToBreReplaceWords(nextText, ameToBreStyleMap);
+        nextText = ameToBreReplaceWords(nextText, ameToBreSpellingMap);
+
+        if (ameToBreIsLevelEnabled("balanced", strictnessLevel)) {
+            nextText = ameToBreReplaceWords(nextText, ameToBreLexicalMap);
+            nextText = ameToBreReplaceWords(nextText, ameToBreStyleMap);
+        }
+
+        if (ameToBreIsLevelEnabled("aggressive", strictnessLevel)) {
+            nextText = ameToBreReplaceWords(nextText, ameToBreAggressiveLexicalMap);
+        }
+
         return nextText;
     };
 
@@ -889,11 +965,12 @@ document.addEventListener("DOMContentLoaded", () => {
         return markers;
     };
 
-    const ameToBreCollectPhraseMarkers = (text, suggestions) => {
+    const ameToBreCollectPhraseMarkers = (text, suggestions, strictnessLevel) => {
         const markers = [];
         const source = String(text || "");
 
         ameToBrePhraseRules.forEach((rule) => {
+            if (!ameToBreIsLevelEnabled(rule.minLevel, strictnessLevel)) return;
             const localPattern = new RegExp(rule.pattern.source, "gi");
             let match;
             while ((match = localPattern.exec(source)) !== null) {
@@ -1001,47 +1078,83 @@ document.addEventListener("DOMContentLoaded", () => {
     const ameToBreRun = () => {
         if (!ameToBreInput || !ameToBreOutput || !ameToBreStatus) return;
         const inputText = ameToBreInput.value || "";
+        const strictnessLevel = ameToBreGetActiveStrictness();
+        const strictnessName = ameToBreStrictnessLabel[strictnessLevel] || ameToBreStrictnessLabel.balanced;
 
         if (!inputText.trim()) {
             ameToBreOutput.value = "";
-            ameToBreStatus.innerText = "Skriv inn tekst for å få britiske forslag.";
+            ameToBreStatus.innerText = `Skriv inn tekst for å få britiske forslag. Nivå: ${strictnessName}.`;
             ameToBreRenderPreview("", []);
             ameToBreRenderSuggestions([]);
             return;
         }
 
         const suggestions = [];
-        const redMarkers = ameToBreCollectWordMarkers(
+        const redSpellingMarkers = ameToBreCollectWordMarkers(
             inputText,
-            ameToBreLexicalMap,
+            ameToBreSpellingMap,
             "red",
             "Amerikansk stavemåte",
             suggestions,
         );
-        const blueWordMarkers = ameToBreCollectWordMarkers(
-            inputText,
-            ameToBreStyleMap,
-            "blue",
-            "Vanlig britisk stilforslag",
-            suggestions,
-        );
-        const bluePhraseMarkers = ameToBreCollectPhraseMarkers(inputText, suggestions);
-        const markers = ameToBreMergeMarkers([...redMarkers, ...blueWordMarkers, ...bluePhraseMarkers]);
+        const markers = [...redSpellingMarkers];
 
-        const convertedText = ameToBreBuildConvertedText(inputText);
+        if (ameToBreIsLevelEnabled("balanced", strictnessLevel)) {
+            markers.push(...ameToBreCollectWordMarkers(
+                inputText,
+                ameToBreLexicalMap,
+                "red",
+                "Amerikansk ordvalg",
+                suggestions,
+            ));
+            markers.push(...ameToBreCollectWordMarkers(
+                inputText,
+                ameToBreStyleMap,
+                "blue",
+                "Vanlig britisk stilforslag",
+                suggestions,
+            ));
+        }
+
+        if (ameToBreIsLevelEnabled("aggressive", strictnessLevel)) {
+            markers.push(...ameToBreCollectWordMarkers(
+                inputText,
+                ameToBreAggressiveLexicalMap,
+                "red",
+                "Aggressivt ordvalg",
+                suggestions,
+            ));
+        }
+
+        markers.push(...ameToBreCollectPhraseMarkers(inputText, suggestions, strictnessLevel));
+        const mergedMarkers = ameToBreMergeMarkers(markers);
+
+        const convertedText = ameToBreBuildConvertedText(inputText, strictnessLevel);
         const changedCount = countTextCleanerChanges(inputText, convertedText);
-        const redCount = markers.filter((marker) => marker.type === "red").length;
-        const blueCount = markers.filter((marker) => marker.type === "blue").length;
+        const redCount = mergedMarkers.filter((marker) => marker.type === "red").length;
+        const blueCount = mergedMarkers.filter((marker) => marker.type === "blue").length;
 
         ameToBreOutput.value = convertedText;
-        ameToBreRenderPreview(inputText, markers);
+        ameToBreRenderPreview(inputText, mergedMarkers);
         ameToBreRenderSuggestions(suggestions);
-        ameToBreStatus.innerText = `${redCount} stavingsforslag (rød), ${blueCount} stilforslag (blå). ${changedCount.toLocaleString("nb-NO")} tegn endret i konvertert tekst.`;
+        ameToBreStatus.innerText = `Nivå ${strictnessName}: ${redCount} stavingsforslag (rød), ${blueCount} stilforslag (blå). ${changedCount.toLocaleString("nb-NO")} tegn endret i konvertert tekst.`;
     };
 
     if (ameToBreInput) {
         ameToBreInput.addEventListener("input", ameToBreRun);
     }
+
+    ameToBreStrictnessInputs.forEach((input) => {
+        input.addEventListener("change", () => {
+            ameToBreStrictness = input.value;
+            try {
+                localStorage.setItem(ameToBreStrictnessStorageKey, ameToBreStrictness);
+            } catch {
+                // Ignorer lagringsfeil.
+            }
+            ameToBreRun();
+        });
+    });
 
     if (ameToBreCopyBtn) {
         ameToBreCopyBtn.addEventListener("click", async () => {
@@ -1068,7 +1181,8 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     if (ameToBreStatus) {
-        ameToBreStatus.innerText = "Skriv inn tekst for å få britiske forslag.";
+        const strictnessName = ameToBreStrictnessLabel[ameToBreGetActiveStrictness()] || ameToBreStrictnessLabel.balanced;
+        ameToBreStatus.innerText = `Skriv inn tekst for å få britiske forslag. Nivå: ${strictnessName}.`;
     }
     ameToBreRenderPreview("", []);
 

@@ -1414,6 +1414,36 @@ h6 {
     overflow-wrap: anywhere;
 }
 
+.ame-bre-strictness {
+    margin: 0;
+    padding: 0.45rem 0.65rem 0.55rem;
+    border: 1px solid rgba(var(--color-border), 0.45);
+    border-radius: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.45rem 0.8rem;
+}
+
+.ame-bre-strictness legend {
+    padding: 0 0.25rem;
+    font-size: 0.82rem;
+    color: rgba(var(--color-text-muted), 0.95);
+}
+
+.ame-bre-strictness label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.86rem;
+    color: rgba(var(--color-text-base), 0.95);
+    cursor: pointer;
+}
+
+.ame-bre-strictness input[type="radio"] {
+    accent-color: rgb(var(--color-button-accent));
+}
+
 .ame-bre-legend {
     display: flex;
     flex-wrap: wrap;

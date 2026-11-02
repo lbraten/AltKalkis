@@ -363,6 +363,12 @@
                 <h2>American English -> British English</h2>
                 <div class="ame-bre-grid">
                     <textarea id="ameToBreInput" class="ame-bre-input" rows="8" placeholder="Paste or write American English text here"></textarea>
+                    <fieldset class="ame-bre-strictness" aria-label="Velg nivå for strenghet">
+                        <legend>Strenghet</legend>
+                        <label><input type="radio" name="ameToBreStrictness" value="conservative" /> Konservativ</label>
+                        <label><input type="radio" name="ameToBreStrictness" value="balanced" checked /> Balansert</label>
+                        <label><input type="radio" name="ameToBreStrictness" value="aggressive" /> Aggressiv</label>
+                    </fieldset>
                     <div class="ame-bre-legend" aria-hidden="true">
                         <span class="ame-bre-legend__item"><span class="ame-bre-legend__line ame-bre-legend__line--red"></span>Rød: amerikansk stavemåte</span>
                         <span class="ame-bre-legend__item"><span class="ame-bre-legend__line ame-bre-legend__line--blue"></span>Blå: forslag til britisk uttrykk</span>
