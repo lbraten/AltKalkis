@@ -107,6 +107,7 @@
                         <div class="sidebar__category">Verktøy</div>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="textCleanerCard" checked><span>KI tekst renser</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="markdownConverterCard" checked><span>Markdown Converter</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="ameToBreCard" checked><span>American → British English</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="colorWidget" checked><span>Hex / fargepalett</span></label>
 
                         <div class="sidebar__category">Info & annet</div>
@@ -355,6 +356,25 @@
                         <button id="markdownConverterClearBtn" type="button" class="markdown-converter-action markdown-converter-action--clear" aria-label="Nullstill" title="Nullstill">Nullstill</button>
                     </div>
                     <p id="markdownConverterStatus" class="chart-meta-status markdown-converter-status" aria-live="polite"></p>
+                </div>
+            </div>
+
+            <div class="bordershadow card--m" id="ameToBreCard">
+                <h2>American English -> British English</h2>
+                <div class="ame-bre-grid">
+                    <textarea id="ameToBreInput" class="ame-bre-input" rows="8" placeholder="Paste or write American English text here"></textarea>
+                    <div class="ame-bre-legend" aria-hidden="true">
+                        <span class="ame-bre-legend__item"><span class="ame-bre-legend__line ame-bre-legend__line--red"></span>Rød: amerikansk stavemåte</span>
+                        <span class="ame-bre-legend__item"><span class="ame-bre-legend__line ame-bre-legend__line--blue"></span>Blå: forslag til britisk uttrykk</span>
+                    </div>
+                    <p id="ameToBreStatus" class="chart-meta-status" aria-live="polite"></p>
+                    <div id="ameToBrePreview" class="ame-bre-preview" aria-label="Annotert tekst med forslag"></div>
+                    <div class="ame-bre-actions">
+                        <button id="ameToBreCopyBtn" type="button">Kopier British English</button>
+                        <button id="ameToBreClearBtn" class="ame-bre-clear" type="button">Nullstill</button>
+                    </div>
+                    <textarea id="ameToBreOutput" class="ame-bre-output" rows="8" placeholder="British English output" readonly></textarea>
+                    <ul id="ameToBreSuggestionList" class="ame-bre-suggestions" aria-label="Forslag"></ul>
                 </div>
             </div>
 

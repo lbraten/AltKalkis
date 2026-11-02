@@ -612,6 +612,466 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
+    //American English -> British English converter
+    const ameToBreInput = document.getElementById("ameToBreInput");
+    const ameToBreOutput = document.getElementById("ameToBreOutput");
+    const ameToBrePreview = document.getElementById("ameToBrePreview");
+    const ameToBreStatus = document.getElementById("ameToBreStatus");
+    const ameToBreCopyBtn = document.getElementById("ameToBreCopyBtn");
+    const ameToBreClearBtn = document.getElementById("ameToBreClearBtn");
+    const ameToBreSuggestionList = document.getElementById("ameToBreSuggestionList");
+
+    const ameToBreWordPattern = /\b[A-Za-z]+(?:'[A-Za-z]+)?\b/g;
+    const ameToBreBaseMap = {
+        color: "colour",
+        colors: "colours",
+        favorite: "favourite",
+        favorites: "favourites",
+        flavor: "flavour",
+        flavors: "flavours",
+        honor: "honour",
+        honors: "honours",
+        humor: "humour",
+        labor: "labour",
+        neighbor: "neighbour",
+        neighbors: "neighbours",
+        behavior: "behaviour",
+        behaviors: "behaviours",
+        center: "centre",
+        centers: "centres",
+        meter: "metre",
+        meters: "metres",
+        liter: "litre",
+        liters: "litres",
+        theater: "theatre",
+        theaters: "theatres",
+        fiber: "fibre",
+        check: "cheque",
+        checks: "cheques",
+        mom: "mum",
+        moms: "mums",
+        gray: "grey",
+        airplane: "aeroplane",
+        airplanes: "aeroplanes",
+        aluminum: "aluminium",
+        cookie: "biscuit",
+        cookies: "biscuits",
+        fries: "chips",
+        movie: "film",
+        movies: "films",
+        candy: "sweets",
+        stroller: "pushchair",
+        strollers: "pushchairs",
+        trunk: "boot",
+        sidewalk: "pavement",
+        sidewalks: "pavements",
+        flashlight: "torch",
+        flashlights: "torches",
+        soccer: "football",
+        math: "maths",
+        catalog: "catalogue",
+        catalogs: "catalogues",
+        dialog: "dialogue",
+        dialogs: "dialogues",
+        apologize: "apologise",
+        apologized: "apologised",
+        apologizing: "apologising",
+        analyze: "analyse",
+        analyzed: "analysed",
+        analyzing: "analysing",
+        defense: "defence",
+        offenses: "offences",
+        offense: "offence",
+        pretense: "pretence",
+        license: "licence",
+        licenses: "licences",
+        traveler: "traveller",
+        travelers: "travellers",
+        traveling: "travelling",
+        traveled: "travelled",
+        jewelry: "jewellery",
+        maneuver: "manoeuvre",
+        maneuvers: "manoeuvres",
+        pajamas: "pyjamas",
+        curb: "kerb",
+        curbs: "kerbs",
+        program: "programme",
+        programs: "programmes",
+    };
+
+    const ameToBreStyleWordBaseMap = {
+        organize: "organise",
+        organized: "organised",
+        organizing: "organising",
+        realize: "realise",
+        realized: "realised",
+        realizing: "realising",
+        recognize: "recognise",
+        recognized: "recognised",
+        recognizing: "recognising",
+        specialize: "specialise",
+        specialized: "specialised",
+        specializing: "specialising",
+        standardize: "standardise",
+        standardized: "standardised",
+        standardizing: "standardising",
+        optimize: "optimise",
+        optimized: "optimised",
+        optimizing: "optimising",
+    };
+
+    const ameToBrePhraseRules = [
+        {
+            pattern: /\bon the weekend\b/gi,
+            replacement: "at the weekend",
+            reason: "Vanlig britisk uttrykk",
+        },
+        {
+            pattern: /\bdifferent than\b/gi,
+            replacement: "different from",
+            reason: "Foretrukket i britisk engelsk",
+        },
+        {
+            pattern: /\bwrite me\b/gi,
+            replacement: "write to me",
+            reason: "Vanlig preposisjon i britisk engelsk",
+        },
+        {
+            pattern: /\bMonday through Friday\b/gi,
+            replacement: "Monday to Friday",
+            reason: "Mer naturlig britisk formulering",
+        },
+        {
+            pattern: /\bgotten\b/gi,
+            replacement: "got",
+            reason: "Britisk engelsk foretrekker vanligvis 'got'",
+        },
+        {
+            pattern: /\bparking lot\b/gi,
+            replacement: "car park",
+            reason: "Britisk ordvalg",
+        },
+        {
+            pattern: /\btrash can\b/gi,
+            replacement: "bin",
+            reason: "Britisk ordvalg",
+        },
+    ];
+
+    const ameToBreEscapeHtml = (value) => String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/\"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+
+    const ameToBreApplyCase = (source, target) => {
+        if (!source) return target;
+        if (source === source.toUpperCase()) return target.toUpperCase();
+        if (source === source.toLowerCase()) return target.toLowerCase();
+        if (source[0] === source[0].toUpperCase() && source.slice(1) === source.slice(1).toLowerCase()) {
+            return `${target.charAt(0).toUpperCase()}${target.slice(1).toLowerCase()}`;
+        }
+        return target;
+    };
+
+    const ameToBrePluralize = (word) => {
+        if (/(s|x|z|ch|sh)$/i.test(word)) return `${word}es`;
+        if (/[^aeiou]y$/i.test(word)) return `${word.slice(0, -1)}ies`;
+        return `${word}s`;
+    };
+
+    const ameToBrePast = (word) => {
+        if (/e$/i.test(word)) return `${word}d`;
+        if (/[^aeiou]y$/i.test(word)) return `${word.slice(0, -1)}ied`;
+        return `${word}ed`;
+    };
+
+    const ameToBreProgressive = (word) => {
+        if (/ie$/i.test(word)) return `${word.slice(0, -2)}ying`;
+        if (/e$/i.test(word) && !/(ee|ye|oe)$/i.test(word)) return `${word.slice(0, -1)}ing`;
+        return `${word}ing`;
+    };
+
+    const ameToBreBuildInflectedMap = (baseMap) => {
+        const output = new Map();
+        Object.entries(baseMap).forEach(([us, uk]) => {
+            const usLower = us.toLowerCase();
+            const ukLower = uk.toLowerCase();
+            output.set(usLower, ukLower);
+
+            if (/\s|-/.test(usLower) || /\s|-/.test(ukLower)) return;
+
+            output.set(ameToBrePluralize(usLower), ameToBrePluralize(ukLower));
+            output.set(ameToBrePast(usLower), ameToBrePast(ukLower));
+            output.set(ameToBreProgressive(usLower), ameToBreProgressive(ukLower));
+        });
+        return output;
+    };
+
+    const ameToBreLexicalMap = ameToBreBuildInflectedMap(ameToBreBaseMap);
+    const ameToBreStyleMap = ameToBreBuildInflectedMap(ameToBreStyleWordBaseMap);
+
+    const ameToBreResolveWord = (rawWord, replacementMap) => {
+        const token = String(rawWord || "");
+        const lower = token.toLowerCase();
+        const direct = replacementMap.get(lower);
+        if (direct) return ameToBreApplyCase(token, direct);
+
+        if (lower.endsWith("'s")) {
+            const base = token.slice(0, -2);
+            const baseReplacement = replacementMap.get(base.toLowerCase());
+            if (baseReplacement) return `${ameToBreApplyCase(base, baseReplacement)}'s`;
+        }
+
+        if (lower.endsWith("s'")) {
+            const base = token.slice(0, -1);
+            const baseReplacement = replacementMap.get(base.toLowerCase());
+            if (baseReplacement) return `${ameToBreApplyCase(base, baseReplacement)}'`;
+        }
+
+        return null;
+    };
+
+    const ameToBreReplaceWords = (text, replacementMap) => text.replace(ameToBreWordPattern, (word) => {
+        const replacement = ameToBreResolveWord(word, replacementMap);
+        return replacement || word;
+    });
+
+    const ameToBreApplyPhraseCase = (match, replacement) => {
+        if (!match) return replacement;
+        if (match === match.toUpperCase()) return replacement.toUpperCase();
+        if (match[0] === match[0].toUpperCase() && match.slice(1) === match.slice(1).toLowerCase()) {
+            return `${replacement.charAt(0).toUpperCase()}${replacement.slice(1)}`;
+        }
+        return replacement;
+    };
+
+    const ameToBreBuildConvertedText = (inputText) => {
+        let nextText = String(inputText || "");
+
+        ameToBrePhraseRules.forEach((rule) => {
+            nextText = nextText.replace(rule.pattern, (match) => ameToBreApplyPhraseCase(match, rule.replacement));
+        });
+
+        nextText = ameToBreReplaceWords(nextText, ameToBreLexicalMap);
+        nextText = ameToBreReplaceWords(nextText, ameToBreStyleMap);
+        return nextText;
+    };
+
+    const ameToBreCollectWordMarkers = (text, replacementMap, type, reason, suggestions) => {
+        const markers = [];
+        const source = String(text || "");
+        let match;
+        ameToBreWordPattern.lastIndex = 0;
+
+        while ((match = ameToBreWordPattern.exec(source)) !== null) {
+            const token = match[0];
+            const replacement = ameToBreResolveWord(token, replacementMap);
+            if (!replacement) continue;
+            if (replacement.toLowerCase() === token.toLowerCase()) continue;
+
+            markers.push({
+                start: match.index,
+                end: match.index + token.length,
+                type,
+                title: `${token} -> ${replacement}`,
+            });
+
+            suggestions.push({
+                type,
+                from: token,
+                to: replacement,
+                reason,
+            });
+        }
+
+        return markers;
+    };
+
+    const ameToBreCollectPhraseMarkers = (text, suggestions) => {
+        const markers = [];
+        const source = String(text || "");
+
+        ameToBrePhraseRules.forEach((rule) => {
+            const localPattern = new RegExp(rule.pattern.source, "gi");
+            let match;
+            while ((match = localPattern.exec(source)) !== null) {
+                const found = match[0];
+                const replacement = ameToBreApplyPhraseCase(found, rule.replacement);
+                markers.push({
+                    start: match.index,
+                    end: match.index + found.length,
+                    type: "blue",
+                    title: `${found} -> ${replacement}`,
+                });
+                suggestions.push({
+                    type: "blue",
+                    from: found,
+                    to: replacement,
+                    reason: rule.reason,
+                });
+            }
+        });
+
+        return markers;
+    };
+
+    const ameToBreMergeMarkers = (markers) => {
+        const sorted = [...markers].sort((a, b) => {
+            if (a.start !== b.start) return a.start - b.start;
+            if (a.end !== b.end) return b.end - a.end;
+            if (a.type === b.type) return 0;
+            return a.type === "red" ? -1 : 1;
+        });
+
+        const merged = [];
+        sorted.forEach((marker) => {
+            const overlapsIndex = merged.findIndex((existing) => marker.start < existing.end && marker.end > existing.start);
+            if (overlapsIndex === -1) {
+                merged.push(marker);
+                return;
+            }
+
+            const existing = merged[overlapsIndex];
+            const preferNew = marker.type === "red" && existing.type !== "red";
+            if (preferNew) {
+                merged.splice(overlapsIndex, 1, marker);
+            }
+        });
+
+        return merged.sort((a, b) => a.start - b.start);
+    };
+
+    const ameToBreRenderPreview = (text, markers) => {
+        if (!ameToBrePreview) return;
+        const source = String(text || "");
+        if (!source) {
+            ameToBrePreview.textContent = "Annotert tekst vises her.";
+            return;
+        }
+
+        if (!markers.length) {
+            ameToBrePreview.textContent = source;
+            return;
+        }
+
+        let cursor = 0;
+        const parts = [];
+        markers.forEach((marker) => {
+            if (marker.start > cursor) {
+                parts.push(ameToBreEscapeHtml(source.slice(cursor, marker.start)));
+            }
+            const chunk = source.slice(marker.start, marker.end);
+            const className = marker.type === "red" ? "ame-bre-mark ame-bre-mark--red" : "ame-bre-mark ame-bre-mark--blue";
+            parts.push(`<span class="${className}" title="${ameToBreEscapeHtml(marker.title)}">${ameToBreEscapeHtml(chunk)}</span>`);
+            cursor = marker.end;
+        });
+
+        if (cursor < source.length) {
+            parts.push(ameToBreEscapeHtml(source.slice(cursor)));
+        }
+
+        ameToBrePreview.innerHTML = parts.join("");
+    };
+
+    const ameToBreRenderSuggestions = (suggestions) => {
+        if (!ameToBreSuggestionList) return;
+        ameToBreSuggestionList.innerHTML = "";
+        if (!suggestions.length) return;
+
+        const unique = new Set();
+        const firstSuggestions = suggestions.filter((item) => {
+            const key = `${item.type}|${item.from.toLowerCase()}|${item.to.toLowerCase()}`;
+            if (unique.has(key)) return false;
+            unique.add(key);
+            return true;
+        }).slice(0, 18);
+
+        const fragment = document.createDocumentFragment();
+        firstSuggestions.forEach((item) => {
+            const li = document.createElement("li");
+            const prefix = item.type === "red" ? "Staving" : "Stil";
+            li.textContent = `${prefix}: ${item.from} -> ${item.to}${item.reason ? ` (${item.reason})` : ""}`;
+            fragment.appendChild(li);
+        });
+        ameToBreSuggestionList.appendChild(fragment);
+    };
+
+    const ameToBreRun = () => {
+        if (!ameToBreInput || !ameToBreOutput || !ameToBreStatus) return;
+        const inputText = ameToBreInput.value || "";
+
+        if (!inputText.trim()) {
+            ameToBreOutput.value = "";
+            ameToBreStatus.innerText = "Skriv inn tekst for å få britiske forslag.";
+            ameToBreRenderPreview("", []);
+            ameToBreRenderSuggestions([]);
+            return;
+        }
+
+        const suggestions = [];
+        const redMarkers = ameToBreCollectWordMarkers(
+            inputText,
+            ameToBreLexicalMap,
+            "red",
+            "Amerikansk stavemåte",
+            suggestions,
+        );
+        const blueWordMarkers = ameToBreCollectWordMarkers(
+            inputText,
+            ameToBreStyleMap,
+            "blue",
+            "Vanlig britisk stilforslag",
+            suggestions,
+        );
+        const bluePhraseMarkers = ameToBreCollectPhraseMarkers(inputText, suggestions);
+        const markers = ameToBreMergeMarkers([...redMarkers, ...blueWordMarkers, ...bluePhraseMarkers]);
+
+        const convertedText = ameToBreBuildConvertedText(inputText);
+        const changedCount = countTextCleanerChanges(inputText, convertedText);
+        const redCount = markers.filter((marker) => marker.type === "red").length;
+        const blueCount = markers.filter((marker) => marker.type === "blue").length;
+
+        ameToBreOutput.value = convertedText;
+        ameToBreRenderPreview(inputText, markers);
+        ameToBreRenderSuggestions(suggestions);
+        ameToBreStatus.innerText = `${redCount} stavingsforslag (rød), ${blueCount} stilforslag (blå). ${changedCount.toLocaleString("nb-NO")} tegn endret i konvertert tekst.`;
+    };
+
+    if (ameToBreInput) {
+        ameToBreInput.addEventListener("input", ameToBreRun);
+    }
+
+    if (ameToBreCopyBtn) {
+        ameToBreCopyBtn.addEventListener("click", async () => {
+            if (!ameToBreOutput || !ameToBreStatus) return;
+            if (!ameToBreOutput.value.trim()) {
+                ameToBreStatus.innerText = "Ingen konvertert tekst å kopiere.";
+                return;
+            }
+            const copied = await copyTextToClipboard(ameToBreOutput.value);
+            ameToBreStatus.innerText = copied
+                ? "British English-tekst kopiert."
+                : "Klarte ikke kopiere teksten.";
+        });
+    }
+
+    if (ameToBreClearBtn) {
+        ameToBreClearBtn.addEventListener("click", () => {
+            if (ameToBreInput) ameToBreInput.value = "";
+            if (ameToBreOutput) ameToBreOutput.value = "";
+            if (ameToBreStatus) ameToBreStatus.innerText = "";
+            ameToBreRenderPreview("", []);
+            ameToBreRenderSuggestions([]);
+        });
+    }
+
+    if (ameToBreStatus) {
+        ameToBreStatus.innerText = "Skriv inn tekst for å få britiske forslag.";
+    }
+    ameToBreRenderPreview("", []);
+
     //timeslønn
     const monthlySalaryInput = document.getElementById("monthlySalary");
     const hoursPerWeekInput = document.getElementById("hoursPerWeek");
@@ -5612,6 +6072,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 cardIds: [
                     "textCleanerCard",
                     "markdownConverterCard",
+                    "ameToBreCard",
                     "unitConverterCard",
                     "currencyCard",
                     "colorWidget",

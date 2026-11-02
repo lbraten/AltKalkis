@@ -1376,6 +1376,128 @@ h6 {
     color: rgb(var(--color-aqi));
 }
 
+.ame-bre-grid {
+    display: grid;
+    gap: 0.55rem;
+}
+
+.ame-bre-input,
+.ame-bre-output,
+.ame-bre-preview {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.75rem 0.85rem;
+    border: 1px solid rgba(var(--color-border), 0.45);
+    border-radius: 8px;
+    background: rgb(var(--color-bg-input));
+    color: rgb(var(--color-text-base));
+    font: inherit;
+    line-height: 1.45;
+}
+
+.ame-bre-input,
+.ame-bre-output {
+    resize: vertical;
+}
+
+.ame-bre-input {
+    min-height: 150px;
+}
+
+.ame-bre-output {
+    min-height: 150px;
+}
+
+.ame-bre-preview {
+    min-height: 150px;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+}
+
+.ame-bre-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem 1rem;
+    font-size: 0.83rem;
+    color: rgba(var(--color-text-muted), 0.95);
+}
+
+.ame-bre-legend__item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+}
+
+.ame-bre-legend__line {
+    width: 18px;
+    height: 0;
+    border-bottom: 2px wavy transparent;
+}
+
+.ame-bre-legend__line--red {
+    border-bottom-color: #ff6479;
+}
+
+.ame-bre-legend__line--blue {
+    border-bottom-color: #67b8ff;
+}
+
+.ame-bre-mark {
+    text-underline-offset: 0.12em;
+    text-decoration-thickness: 1.7px;
+    text-decoration-skip-ink: none;
+}
+
+.ame-bre-mark--red {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #ff6479;
+}
+
+.ame-bre-mark--blue {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #67b8ff;
+}
+
+.ame-bre-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+}
+
+.ame-bre-actions button {
+    margin: 0;
+    padding: 0.45rem 0.7rem;
+    font-size: 0.86rem;
+}
+
+.ame-bre-actions .ame-bre-clear {
+    background: transparent;
+    border: 1px solid #d83a22;
+    color: rgba(var(--color-text-base), 0.96);
+}
+
+.ame-bre-actions .ame-bre-clear:hover {
+    background: #d83a22;
+    border-color: #d83a22;
+    color: rgb(var(--color-fill));
+    box-shadow: 0 0 0 1px rgba(216, 58, 34, 0.3);
+}
+
+.ame-bre-suggestions {
+    margin: 0;
+    padding-left: 1.1rem;
+    display: grid;
+    gap: 0.2rem;
+    color: rgba(var(--color-text-base), 0.92);
+    font-size: 0.88rem;
+}
+
+.ame-bre-suggestions li {
+    margin: 0;
+}
+
 .weather-controls {
     gap: 8px;
     margin-bottom: 10px;
