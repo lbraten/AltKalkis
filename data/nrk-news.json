@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-03T03:38:11.372Z",
+  "updatedAt": "2026-11-03T11:41:31.056Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Éin person kritisk skadd i trafikkulykke i Larvik",
-      "link": "https://www.nrk.no/nyheter/ein-person-kritisk-skadd-i-trafikkulykke-i-larvik-1.18071790",
+      "title": "Fant håndgranat på avfallsanlegg",
+      "link": "https://www.nrk.no/nordland/fant-handgranat-pa-avfallsanlegg--1.18072203",
+      "category": "Nyhetssenter Nordland",
+      "pubDate": "Tue, 03 Nov 2026 11:18:17 GMT"
+    },
+    {
+      "title": "Fly landet i Polen etter mistanke om eksplosiv ombord",
+      "link": "https://www.nrk.no/nyheter/fly-landet-i-polen-etter-mistanke-om-eksplosiv-ombord-1.18071832",
       "category": "NRK Nyheter",
-      "pubDate": "Tue, 03 Nov 2026 02:55:17 GMT"
+      "pubDate": "Tue, 03 Nov 2026 09:27:43 GMT"
     },
     {
-      "title": "Amerikanske medier: Nytt angrep mot Iran",
-      "link": "https://www.nrk.no/nyheter/amerikanske-medier_-nytt-angrep-mot-iran-1.18071791",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Tue, 03 Nov 2026 01:56:35 GMT"
+      "title": "Varmeste oktober siden 2000 – over 60 temperaturrekorder",
+      "link": "https://www.nrk.no/nyheter/varmeste-oktober-siden-2000-_-over-60-temperaturrekorder-1.18071873",
+      "category": "Hetebølge og varmerekorder",
+      "pubDate": "Tue, 03 Nov 2026 08:25:38 GMT"
     },
     {
-      "title": "Europeisk styrke for Ukraina skal øve i Polen",
-      "link": "https://www.nrk.no/nyheter/europeisk-styrke-for-ukraina-skal-ove-i-polen-1.18071789",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Tue, 03 Nov 2026 00:05:12 GMT"
+      "title": "Fløyet til sykehus etter sparkesykkelulykke i Moss",
+      "link": "https://www.nrk.no/ostfold/floyet-til-sykehus-etter-sparkesykkelulykke-i-moss-1.18071961",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Tue, 03 Nov 2026 08:15:52 GMT"
     },
     {
-      "title": "Barn døde etter meslingutbrudd i New York",
-      "link": "https://www.nrk.no/nyheter/barn-dode-etter-meslingutbrudd-i-new-york-1.18071788",
-      "category": "Meslinger",
-      "pubDate": "Mon, 02 Nov 2026 23:44:20 GMT"
+      "title": "Fagforbundet varsler politisk streik for Posten",
+      "link": "https://www.nrk.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten-1.18071828",
+      "category": "Posten",
+      "pubDate": "Tue, 03 Nov 2026 06:39:43 GMT"
     },
     {
-      "title": "USA skal megle mellom Ukraina og Russland i Abu Dhabi",
-      "link": "https://www.nrk.no/nyheter/usa-skal-megle-mellom-ukraina-og-russland-i-abu-dhabi-1.18071787",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 02 Nov 2026 23:18:17 GMT"
-    },
-    {
-      "title": "Høyesterett i USA vil ikke stoppe telling av stemmer i California",
-      "link": "https://www.nrk.no/nyheter/hoyesterett-i-usa-vil-ikke-stoppe-telling-av-stemmer-i-california-1.18071785",
-      "category": "Mellomvalg i USA",
-      "pubDate": "Mon, 02 Nov 2026 23:11:19 GMT"
+      "title": "Guvernør raser etter første meslingdødsfall på 30 år i New York",
+      "link": "https://www.nrk.no/nyheter/guvernor-raser-etter-forste-meslingdodsfall-pa-30-ar-i-new-york-1.18071806",
+      "category": "USA",
+      "pubDate": "Tue, 03 Nov 2026 05:01:00 GMT"
     }
   ]
 }
