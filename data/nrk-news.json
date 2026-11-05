@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-04T21:25:59.238Z",
+  "updatedAt": "2026-11-05T01:41:39.906Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nord-Korea bekrefter nye raketttester",
+      "link": "https://www.nrk.no/nyheter/nord-korea-bekrefter-nye-raketttester-1.18074099",
+      "category": "Nord-Korea",
+      "pubDate": "Thu, 05 Nov 2026 01:04:39 GMT"
+    },
+    {
+      "title": "New York-børsene opp etter valget",
+      "link": "https://www.nrk.no/nyheter/new-york-borsene-opp-etter-valget-1.18074083",
+      "category": "Mellomvalg i USA",
+      "pubDate": "Wed, 04 Nov 2026 22:06:42 GMT"
+    },
     {
       "title": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
       "link": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nordland/-wideroe-fly-fikk-ikke-ut-landingshjul-_-bodo-lufthavn-i-full-beredskap-1.18073786",
       "category": "Nyhetssenter Nordland",
       "pubDate": "Wed, 04 Nov 2026 17:55:59 GMT"
-    },
-    {
-      "title": "Mor og datter funnet døde i Canada – mistenker grizzlybjørnangrep",
-      "link": "https://www.nrk.no/nyheter/mor-og-datter-funnet-dode-i-canada-_-mistenker-grizzlybjornangrep-1.18073920",
-      "category": "Canada",
-      "pubDate": "Wed, 04 Nov 2026 17:47:30 GMT"
-    },
-    {
-      "title": "Merz: Tror Trump vil omgå Kongressen med presidentordre",
-      "link": "https://www.nrk.no/nyheter/merz_-tror-trump-vil-omga-kongressen-med-presidentordre-1.18073858",
-      "category": "Mellomvalg i USA",
-      "pubDate": "Wed, 04 Nov 2026 17:42:51 GMT"
     }
   ]
 }
