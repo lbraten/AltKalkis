@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-11-07T05:04:34.362Z",
+  "updatedAt": "2026-11-07T11:52:03.745Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Medier: 22 drept i angrep i Jemen",
+      "link": "https://www.nrk.no/nyheter/medier_-22-drept-i-angrep-i-jemen-1.18076378",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Nov 2026 11:50:53 GMT"
+    },
+    {
+      "title": "Flere områder i Ukraina uten strøm etter angrep",
+      "link": "https://www.nrk.no/nyheter/flere-omrader-i-ukraina-uten-strom-etter-angrep-1.18076343",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sat, 07 Nov 2026 10:12:51 GMT"
+    },
+    {
+      "title": "Macklemore: USA-arenaer sa nei til Fri Palestina-turné",
+      "link": "https://www.nrk.no/nyheter/macklemore_-usa-arenaer-sa-nei-til-fri-palestina-turne-1.18076286",
+      "category": "Musikk",
+      "pubDate": "Sat, 07 Nov 2026 09:22:39 GMT"
+    },
+    {
+      "title": "Knivstukket på lukket avdeling – tok 20 minutter før politiet ble varslet",
+      "link": "https://www.nrk.no/nyheter/knivstukket-pa-lukket-avdeling-_-tok-20-minutter-for-politiet-ble-varslet-1.18076285",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 07 Nov 2026 09:15:45 GMT"
+    },
     {
       "title": "Trump bekrefter nye angrep mot iransk øy",
       "link": "https://www.nrk.no/nyheter/trump-bekrefter-nye-angrep-mot-iransk-oy-1.18076273",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/usa-utlover-dusor-for-info-om-irans-atomprogram-1.18076282",
       "category": "Atomavtalen med Iran",
       "pubDate": "Sat, 07 Nov 2026 02:30:06 GMT"
-    },
-    {
-      "title": "Undersøker om brann i Kongsvinger kan være påsatt",
-      "link": "https://www.nrk.no/nyheter/undersoker-om-brann-i-kongsvinger-kan-vaere-pasatt-1.18076277",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 07 Nov 2026 01:33:51 GMT"
-    },
-    {
-      "title": "Paraguays president avsatt og pågrepet",
-      "link": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275",
-      "category": "Paraguay",
-      "pubDate": "Fri, 06 Nov 2026 23:27:30 GMT"
-    },
-    {
-      "title": "Person til sykehus etter ulykke i Troms",
-      "link": "https://www.nrk.no/nyheter/person-til-sykehus-etter-ulykke-i-troms-1.18076203",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Fri, 06 Nov 2026 22:53:13 GMT"
-    },
-    {
-      "title": "Bygning har rast sammen i Brasil – flere titalls skadd",
-      "link": "https://www.nrk.no/nyheter/bygning-har-rast-sammen-i-brasil-_-flere-titalls-skadd-1.18076272",
-      "category": "Brasil",
-      "pubDate": "Fri, 06 Nov 2026 22:33:15 GMT"
     }
   ]
 }
