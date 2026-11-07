@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-11-07T17:32:59.036Z",
+  "updatedAt": "2026-11-07T21:33:14.474Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Politiet: Trafikkuhell på E18 ved Lier",
-      "link": "https://www.nrk.no/buskerud/politiet_-trafikkuhell-pa-e18-ved-lier--1.18076584",
+      "title": "Eisenkot får i oppdrag å danne regjering i Israel",
+      "link": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617",
+      "category": "Israel",
+      "pubDate": "Sat, 07 Nov 2026 20:03:24 GMT"
+    },
+    {
+      "title": "Trump tilbyr Dana White jobben som pressetalsperson",
+      "link": "https://www.nrk.no/nyheter/trump-tilbyr-dana-white-jobben-som-pressetalsperson-1.18076605",
+      "category": "USA",
+      "pubDate": "Sat, 07 Nov 2026 18:46:46 GMT"
+    },
+    {
+      "title": "Nye masseprotester i Frankrike",
+      "link": "https://www.nrk.no/nyheter/nye-masseprotester-i-frankrike-1.18076589",
+      "category": "Frankrike",
+      "pubDate": "Sat, 07 Nov 2026 18:21:05 GMT"
+    },
+    {
+      "title": "Flere titusen telt rammet av flom på Gaza",
+      "link": "https://www.nrk.no/nyheter/flere-titusen-telt-rammet-av-flom-pa-gaza-1.18076476",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sat, 07 Nov 2026 17:36:50 GMT"
+    },
+    {
+      "title": "Trafikkuhell på E18 – Store materielle skader",
+      "link": "https://www.nrk.no/buskerud/trafikkuhell-pa-e18-_-store-materielle-skader--1.18076584",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 07 Nov 2026 17:21:35 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/minst-seks-dode-i-skyting-i-polen-1.18076530",
       "category": "Polen",
       "pubDate": "Sat, 07 Nov 2026 15:19:05 GMT"
-    },
-    {
-      "title": "Advarer om sterk vind",
-      "link": "https://www.nrk.no/tromsogfinnmark/advarer-om-sterk-vind-1.18076484",
-      "category": "Nyhetssenter Troms og Finnmark",
-      "pubDate": "Sat, 07 Nov 2026 14:18:45 GMT"
-    },
-    {
-      "title": "Zelenskyj: Russland bruker nordkoreanske missiler",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-russland-bruker-nordkoreanske-missiler-1.18076453",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 07 Nov 2026 13:58:13 GMT"
-    },
-    {
-      "title": "Rykker ut til oljeutslepp i Ålesund",
-      "link": "https://www.nrk.no/mr/rykker-ut-til-oljeutslepp-i-alesund-1.18076462",
-      "category": "Nyheitssenter Møre og Romsdal",
-      "pubDate": "Sat, 07 Nov 2026 13:55:28 GMT"
-    },
-    {
-      "title": "Alvorlig trafikkulykke på E6 i Lillehammer",
-      "link": "https://www.nrk.no/innlandet/alvorlig-trafikkulykke-pa-e6-i-lillehammer-1.18076433",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Sat, 07 Nov 2026 13:51:53 GMT"
     }
   ]
 }
