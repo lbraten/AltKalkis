@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-06T23:46:08.287Z",
+  "updatedAt": "2026-11-07T05:04:34.362Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Trump bekrefter nye angrep mot iransk øy",
+      "link": "https://www.nrk.no/nyheter/trump-bekrefter-nye-angrep-mot-iransk-oy-1.18076273",
+      "category": "Krigen i Midtøsten",
+      "pubDate": "Sat, 07 Nov 2026 03:52:44 GMT"
+    },
+    {
+      "title": "USA utlover dusør for info om Irans atomprogram",
+      "link": "https://www.nrk.no/nyheter/usa-utlover-dusor-for-info-om-irans-atomprogram-1.18076282",
+      "category": "Atomavtalen med Iran",
+      "pubDate": "Sat, 07 Nov 2026 02:30:06 GMT"
+    },
+    {
+      "title": "Undersøker om brann i Kongsvinger kan være påsatt",
+      "link": "https://www.nrk.no/nyheter/undersoker-om-brann-i-kongsvinger-kan-vaere-pasatt-1.18076277",
+      "category": "Nyhetssenter Innlandet",
+      "pubDate": "Sat, 07 Nov 2026 01:33:51 GMT"
+    },
     {
       "title": "Paraguays president avsatt og pågrepet",
       "link": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/bygning-har-rast-sammen-i-brasil-_-flere-titalls-skadd-1.18076272",
       "category": "Brasil",
       "pubDate": "Fri, 06 Nov 2026 22:33:15 GMT"
-    },
-    {
-      "title": "Brann i historisk bygning i Kongsvinger",
-      "link": "https://www.nrk.no/nyheter/brann-i-historisk-bygning-i-kongsvinger-1.18076202",
-      "category": "Nyhetssenter Innlandet",
-      "pubDate": "Fri, 06 Nov 2026 21:44:24 GMT"
-    },
-    {
-      "title": "Jonas Gahr Støre til G20-møtet i Miami",
-      "link": "https://www.nrk.no/nyheter/jonas-gahr-store-til-g20-motet-i-miami-1.18075859",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 06 Nov 2026 21:31:00 GMT"
-    },
-    {
-      "title": "Paven besøker Sør-Amerika",
-      "link": "https://www.nrk.no/nyheter/paven-besoker-sor-amerika-1.18076155",
-      "category": "Paven og Vatikanet",
-      "pubDate": "Fri, 06 Nov 2026 20:01:11 GMT"
     }
   ]
 }
