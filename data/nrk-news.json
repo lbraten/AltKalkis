@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-08T19:22:55.557Z",
+  "updatedAt": "2026-11-08T23:00:41.508Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fem mennesker døde i Gaza etter at sandvoll kollapset",
+      "link": "https://www.nrk.no/nyheter/fem-mennesker-dode-i-gaza-etter-at-sandvoll-kollapset-1.18077080",
+      "category": "Krigen i Gaza",
+      "pubDate": "Sun, 08 Nov 2026 22:01:11 GMT"
+    },
+    {
+      "title": "Sju av ti oljepionerer har fått avslag på erstatning",
+      "link": "https://www.nrk.no/nyheter/sju-av-ti-oljepionerer-har-fatt-avslag-pa-erstatning-1.18077024",
+      "category": "Olje og gass",
+      "pubDate": "Sun, 08 Nov 2026 21:36:54 GMT"
+    },
+    {
+      "title": "IAEA: Strømmen er tilbake på atomkraftverk i Ukraina",
+      "link": "https://www.nrk.no/nyheter/iaea_-strommen-er-tilbake-pa-atomkraftverk-i-ukraina-1.18076978",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 08 Nov 2026 19:35:32 GMT"
+    },
     {
       "title": "Ledende demokrat støtter riksrett mot Hegseth",
       "link": "https://www.nrk.no/nyheter/ledende-demokrat-stotter-riksrett-mot-hegseth-1.18076959",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/elendig-valg-for-anc-i-sor-afrika-1.18076902",
       "category": "Sør-Afrika",
       "pubDate": "Sun, 08 Nov 2026 17:11:10 GMT"
-    },
-    {
-      "title": "Lørenskog: Barn fraktet til sykehus etter påkjørsel",
-      "link": "https://www.nrk.no/stor-oslo/lorenskog_-barn-fraktet-til-sykehus-etter-pakjorsel-1.18076910",
-      "category": "NRK Nyheter",
-      "pubDate": "Sun, 08 Nov 2026 15:27:18 GMT"
-    },
-    {
-      "title": "Flere døde og 120 skadet i togkollisjon i Egypt",
-      "link": "https://www.nrk.no/nyheter/flere-dode-og-120-skadet-i-togkollisjon-i-egypt-1.18076882",
-      "category": "Egypt",
-      "pubDate": "Sun, 08 Nov 2026 15:10:26 GMT"
-    },
-    {
-      "title": "Politiet oppretter straffesak mot mann som trengte seg inn hos Høiby",
-      "link": "https://www.nrk.no/nyheter/politiet-oppretter-straffesak-mot-mann-som-trengte-seg-inn-hos-hoiby-1.18076838",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Sun, 08 Nov 2026 14:33:37 GMT"
     }
   ]
 }
