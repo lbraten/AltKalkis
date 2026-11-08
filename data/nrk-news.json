@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-08T01:09:34.812Z",
+  "updatedAt": "2026-11-08T07:46:25.576Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "600.000 uten strøm øst i Ukraina, ifølge energiselskap",
+      "link": "https://www.nrk.no/nyheter/600.000-uten-strom-ost-i-ukraina_-ifolge-energiselskap-1.18076700",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Sun, 08 Nov 2026 07:28:59 GMT"
+    },
+    {
+      "title": "Brann i bolig i Kristiansand",
+      "link": "https://www.nrk.no/nyheter/brann-i-bolig-i-kristiansand-1.18076698",
+      "category": "Nyheter fra Agder",
+      "pubDate": "Sun, 08 Nov 2026 04:56:17 GMT"
+    },
+    {
+      "title": "Falsk flyalarm nord i Israel",
+      "link": "https://www.nrk.no/nyheter/falsk-flyalarm-nord-i-israel-1.18076697",
+      "category": "Israel",
+      "pubDate": "Sun, 08 Nov 2026 04:18:09 GMT"
+    },
+    {
+      "title": "Tenåringer angrep politiet på Finnsnes",
+      "link": "https://www.nrk.no/nyheter/tenaringer-angrep-politiet-pa-finnsnes-1.18076695",
+      "category": "Nyhetssenter Troms og Finnmark",
+      "pubDate": "Sun, 08 Nov 2026 04:00:38 GMT"
+    },
+    {
+      "title": "Melding om våpentrussel på fest i Stavanger",
+      "link": "https://www.nrk.no/nyheter/melding-om-vapentrussel-pa-fest-i-stavanger-1.18076694",
+      "category": "Nyheter fra Rogaland",
+      "pubDate": "Sun, 08 Nov 2026 01:54:16 GMT"
+    },
     {
       "title": "E6 åpnet igjen etter alvorlig ulykke",
       "link": "https://www.nrk.no/nyheter/e6-apnet-igjen-etter-alvorlig-ulykke-1.18076693",
       "category": "Nyhetssenter Innlandet",
       "pubDate": "Sun, 08 Nov 2026 00:07:24 GMT"
-    },
-    {
-      "title": "Paven ber unge om å stifte familie",
-      "link": "https://www.nrk.no/nyheter/paven-ber-unge-om-a-stifte-familie-1.18076692",
-      "category": "Paven og Vatikanet",
-      "pubDate": "Sat, 07 Nov 2026 23:51:04 GMT"
-    },
-    {
-      "title": "Kraftig jordskjelv sentralt i Japan",
-      "link": "https://www.nrk.no/nyheter/kraftig-jordskjelv-sentralt-i-japan-1.18076688",
-      "category": "Japan",
-      "pubDate": "Sat, 07 Nov 2026 23:29:58 GMT"
-    },
-    {
-      "title": "Brite drept og flere utlendinger såret i Krakow",
-      "link": "https://www.nrk.no/nyheter/brite-drept-og-flere-utlendinger-saret-i-krakow-1.18076686",
-      "category": "Polen",
-      "pubDate": "Sat, 07 Nov 2026 22:52:53 GMT"
-    },
-    {
-      "title": "Støre: – Vi står sammen i solidaritet med Polen",
-      "link": "https://www.nrk.no/nyheter/store_-_-vi-star-sammen-i-solidaritet-med-polen-1.18076673",
-      "category": "Polen",
-      "pubDate": "Sat, 07 Nov 2026 22:50:24 GMT"
-    },
-    {
-      "title": "Hendelse mellom lasteskip og militære i Omanbukta",
-      "link": "https://www.nrk.no/nyheter/hendelse-mellom-lasteskip-og-militaere-i-omanbukta-1.18076664",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sat, 07 Nov 2026 22:14:41 GMT"
     }
   ]
 }
