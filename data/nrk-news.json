@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-09T02:53:29.807Z",
+  "updatedAt": "2026-11-09T11:00:40.644Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Merz vil ha Ilse Aigner som Tysklands første kvinnelige president",
-      "link": "https://www.nrk.no/nyheter/merz-vil-ha-ilse-aigner-som-tysklands-forste-kvinnelige-president-1.18077088",
-      "category": "Tyskland",
-      "pubDate": "Mon, 09 Nov 2026 01:59:02 GMT"
+      "title": "Datasenterbransjen reagerer på stans: – Skaper usikkerhet",
+      "link": "https://www.nrk.no/nyheter/datasenterbransjen-reagerer-pa-stans_-_-skaper-usikkerhet-1.18077389",
+      "category": "Datasenter",
+      "pubDate": "Mon, 09 Nov 2026 10:18:39 GMT"
     },
     {
-      "title": "Guvernør: Droner traff industriområde i Russland",
-      "link": "https://www.nrk.no/nyheter/guvernor_-droner-traff-industriomrade-i-russland-1.18077087",
+      "title": "Kongsberg Maritime lanserer ubemannet ubåtjeger for den britiske marinen",
+      "link": "https://www.nrk.no/nyheter/kongsberg-maritime-lanserer-ubemannet-ubatjeger-for-den-britiske-marinen-1.18077333",
+      "category": "Kongsberg Maritime",
+      "pubDate": "Mon, 09 Nov 2026 10:17:05 GMT"
+    },
+    {
+      "title": "Arbeidsulukke ved Kolltveit i Øygarden",
+      "link": "https://www.nrk.no/vestland/arbeidsulukke-ved-kolltveit-i-oygarden-1.18077368",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 09 Nov 2026 09:55:50 GMT"
+    },
+    {
+      "title": "Minst tre drept i russisk angrep",
+      "link": "https://www.nrk.no/nyheter/minst-tre-drept-i-russisk-angrep--1.18077350",
       "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 09 Nov 2026 01:39:41 GMT"
+      "pubDate": "Mon, 09 Nov 2026 09:55:29 GMT"
     },
     {
-      "title": "Trump venter at Rubio fortsetter",
-      "link": "https://www.nrk.no/nyheter/trump-venter-at-rubio-fortsetter-1.18077082",
-      "category": "USA",
-      "pubDate": "Mon, 09 Nov 2026 00:35:31 GMT"
+      "title": "Jan Egeland går av som leder for Flyktninghjelpen",
+      "link": "https://www.nrk.no/nyheter/jan-egeland-gar-av-som-leder-for-flyktninghjelpen-1.18077263",
+      "category": "Norsk flyktning- og asylpolitikk",
+      "pubDate": "Mon, 09 Nov 2026 09:30:34 GMT"
     },
     {
-      "title": "Fem mennesker døde i Gaza etter at sandvoll kollapset",
-      "link": "https://www.nrk.no/nyheter/fem-mennesker-dode-i-gaza-etter-at-sandvoll-kollapset-1.18077080",
-      "category": "Krigen i Gaza",
-      "pubDate": "Sun, 08 Nov 2026 22:01:11 GMT"
-    },
-    {
-      "title": "Sju av ti oljepionerer har fått avslag på erstatning",
-      "link": "https://www.nrk.no/nyheter/sju-av-ti-oljepionerer-har-fatt-avslag-pa-erstatning-1.18077024",
-      "category": "Olje og gass",
-      "pubDate": "Sun, 08 Nov 2026 21:36:54 GMT"
-    },
-    {
-      "title": "IAEA: Strømmen er tilbake på atomkraftverk i Ukraina",
-      "link": "https://www.nrk.no/nyheter/iaea_-strommen-er-tilbake-pa-atomkraftverk-i-ukraina-1.18076978",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 08 Nov 2026 19:35:32 GMT"
+      "title": "Vil innføre konsesjonsordning for datasentre",
+      "link": "https://www.nrk.no/nyheter/vil-innfore-konsesjonsordning-for-datasentre-1.18077209",
+      "category": "Datasenter",
+      "pubDate": "Mon, 09 Nov 2026 08:36:39 GMT"
     }
   ]
 }
