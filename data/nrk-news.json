@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-08T23:00:41.508Z",
+  "updatedAt": "2026-11-09T02:53:29.807Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Merz vil ha Ilse Aigner som Tysklands første kvinnelige president",
+      "link": "https://www.nrk.no/nyheter/merz-vil-ha-ilse-aigner-som-tysklands-forste-kvinnelige-president-1.18077088",
+      "category": "Tyskland",
+      "pubDate": "Mon, 09 Nov 2026 01:59:02 GMT"
+    },
+    {
+      "title": "Guvernør: Droner traff industriområde i Russland",
+      "link": "https://www.nrk.no/nyheter/guvernor_-droner-traff-industriomrade-i-russland-1.18077087",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 09 Nov 2026 01:39:41 GMT"
+    },
+    {
+      "title": "Trump venter at Rubio fortsetter",
+      "link": "https://www.nrk.no/nyheter/trump-venter-at-rubio-fortsetter-1.18077082",
+      "category": "USA",
+      "pubDate": "Mon, 09 Nov 2026 00:35:31 GMT"
+    },
     {
       "title": "Fem mennesker døde i Gaza etter at sandvoll kollapset",
       "link": "https://www.nrk.no/nyheter/fem-mennesker-dode-i-gaza-etter-at-sandvoll-kollapset-1.18077080",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/iaea_-strommen-er-tilbake-pa-atomkraftverk-i-ukraina-1.18076978",
       "category": "Krigen i Ukraina",
       "pubDate": "Sun, 08 Nov 2026 19:35:32 GMT"
-    },
-    {
-      "title": "Ledende demokrat støtter riksrett mot Hegseth",
-      "link": "https://www.nrk.no/nyheter/ledende-demokrat-stotter-riksrett-mot-hegseth-1.18076959",
-      "category": "USA",
-      "pubDate": "Sun, 08 Nov 2026 17:51:47 GMT"
-    },
-    {
-      "title": "Over 500 skademeldinger i helgen – mandag blir også glatt",
-      "link": "https://www.nrk.no/nyheter/over-500-skademeldinger-i-helgen-_-mandag-blir-ogsa-glatt-1.18076969",
-      "category": "Trafikk i Norge",
-      "pubDate": "Sun, 08 Nov 2026 17:40:51 GMT"
-    },
-    {
-      "title": "Elendig valg for ANC i Sør-Afrika",
-      "link": "https://www.nrk.no/nyheter/elendig-valg-for-anc-i-sor-afrika-1.18076902",
-      "category": "Sør-Afrika",
-      "pubDate": "Sun, 08 Nov 2026 17:11:10 GMT"
     }
   ]
 }
