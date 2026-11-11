@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-11T00:31:04.671Z",
+  "updatedAt": "2026-11-11T07:33:02.936Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Dronangrep mørkla deler av Zelenskyjs hjemby",
-      "link": "https://www.nrk.no/nyheter/dronangrep-morkla-deler-av-zelenskyjs-hjemby-1.18078854",
+      "title": "Norges Bank: Økt risiko for alvorlige hendelser",
+      "link": "https://www.nrk.no/nyheter/norges-bank_-okt-risiko-for-alvorlige-hendelser-1.18078936",
+      "category": "Norsk økonomi",
+      "pubDate": "Wed, 11 Nov 2026 07:30:12 GMT"
+    },
+    {
+      "title": "Iran: Oljetanker i brann i Hormuz-stredet",
+      "link": "https://www.nrk.no/nyheter/iran_-oljetanker-i-brann-i-hormuz-stredet-1.18078907",
+      "category": "Iran",
+      "pubDate": "Wed, 11 Nov 2026 06:57:22 GMT"
+    },
+    {
+      "title": "Russland sier de har pågrepet to agenter fra polsk etterretningstjeneste",
+      "link": "https://www.nrk.no/nyheter/russland-sier-de-har-pagrepet-to-agenter-fra-polsk-etterretningstjeneste-1.18078898",
+      "category": "Russland",
+      "pubDate": "Wed, 11 Nov 2026 05:58:32 GMT"
+    },
+    {
+      "title": "Bil kjørte inn i folkemengde i Los Angeles",
+      "link": "https://www.nrk.no/nyheter/bil-kjorte-inn-i-folkemengde-i-los-angeles-1.18078894",
+      "category": "USA",
+      "pubDate": "Wed, 11 Nov 2026 05:28:03 GMT"
+    },
+    {
+      "title": "Russiske medier: To drept av dronerester i Russland",
+      "link": "https://www.nrk.no/nyheter/russiske-medier_-to-drept-av-dronerester-i-russland-1.18078858",
       "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 11 Nov 2026 00:00:51 GMT"
+      "pubDate": "Wed, 11 Nov 2026 03:50:21 GMT"
     },
     {
-      "title": "Over 11.000 ebolatilfeller i Kongo",
-      "link": "https://www.nrk.no/nyheter/over-11.000-ebolatilfeller-i-kongo-1.18078851",
-      "category": "Ebola",
-      "pubDate": "Tue, 10 Nov 2026 22:58:40 GMT"
-    },
-    {
-      "title": "Latvias hær: Ber folk søke tilfluktsrom etter luftromstrussel",
-      "link": "https://www.nrk.no/nyheter/latvias-haer_-ber-folk-soke-tilfluktsrom-etter-luftromstrussel-1.18078847",
-      "category": "Latvia",
-      "pubDate": "Tue, 10 Nov 2026 22:05:14 GMT"
-    },
-    {
-      "title": "Bussjåfør dømt til fem års fengsel for overgrep mot sårbare barn på skolerute i Vestfold",
-      "link": "https://www.nrk.no/vestfoldogtelemark/bussjafor-domt-til-fem-ars-fengsel-for-overgrep-mot-sarbare-barn-pa-skolerute-i-vestfold-1.18078799",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Tue, 10 Nov 2026 19:26:14 GMT"
-    },
-    {
-      "title": "Flere kvinner har anmeldt Russell Brand etter rettssak",
-      "link": "https://www.nrk.no/nyheter/flere-kvinner-har-anmeldt-russell-brand-etter-rettssak-1.18078790",
-      "category": "Storbritannia",
-      "pubDate": "Tue, 10 Nov 2026 18:52:34 GMT"
-    },
-    {
-      "title": "Storbritannia: Amerikansk soldat arrestert i antiterror-etterforskning",
-      "link": "https://www.nrk.no/nyheter/storbritannia_-amerikansk-soldat-arrestert-i-antiterror-etterforskning-1.18078778",
-      "category": "Storbritannia",
-      "pubDate": "Tue, 10 Nov 2026 18:48:52 GMT"
+      "title": "Senator: – Nvidia-direktøren må gå av",
+      "link": "https://www.nrk.no/nyheter/senator_-_-nvidia-direktoren-ma-ga-av---1.18078859",
+      "category": "USA",
+      "pubDate": "Wed, 11 Nov 2026 03:22:02 GMT"
     }
   ]
 }
