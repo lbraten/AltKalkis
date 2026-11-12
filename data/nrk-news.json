@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-11T22:30:47.591Z",
+  "updatedAt": "2026-11-12T03:39:03.787Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Rekordmye potet på lager i Norge",
+      "link": "https://www.nrk.no/nyheter/rekordmye-potet-pa-lager-i-norge-1.18079887",
+      "category": "Landbruk",
+      "pubDate": "Thu, 12 Nov 2026 03:16:15 GMT"
+    },
+    {
+      "title": "Eksplosjoner hørt i Kyiv",
+      "link": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-kyiv-1.18079886",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 12 Nov 2026 01:28:47 GMT"
+    },
+    {
+      "title": "Ansatt ved Zaporizjzja-kraftverket drept i droneangrep",
+      "link": "https://www.nrk.no/nyheter/ansatt-ved-zaporizjzja-kraftverket-drept-i-droneangrep-1.18079885",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Thu, 12 Nov 2026 00:10:44 GMT"
+    },
+    {
+      "title": "Gazas sivilforsvar: Seks drept i israelsk sykehusangrep",
+      "link": "https://www.nrk.no/nyheter/gazas-sivilforsvar_-seks-drept-i-israelsk-sykehusangrep-1.18079883",
+      "category": "Krigen i Gaza",
+      "pubDate": "Thu, 12 Nov 2026 00:07:47 GMT"
+    },
+    {
+      "title": "CNN: Demokratene vinner historisk senatsvalg i Mississippi",
+      "link": "https://www.nrk.no/nyheter/cnn_-demokratene-vinner-historisk-senatsvalg-i-mississippi-1.18079865",
+      "category": "USA",
+      "pubDate": "Wed, 11 Nov 2026 22:46:27 GMT"
+    },
     {
       "title": "MDG: Vil fremme hasteforslag for å pause gruvesalg",
       "link": "https://www.nrk.no/nyheter/mdg_-vil-fremme-hasteforslag-for-a-pause-gruvesalg-1.18079838",
       "category": "Gruvedrift i Finnmark",
       "pubDate": "Wed, 11 Nov 2026 21:12:44 GMT"
-    },
-    {
-      "title": "Zelenskyj: Framgang i samtaler avhenger av hvordan USA snakker med Russland",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-framgang-i-samtaler-avhenger-av-hvordan-usa-snakker-med-russland-1.18079810",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 11 Nov 2026 19:51:11 GMT"
-    },
-    {
-      "title": "Kontroll på person med øks og hammer i Sandefjord sentrum",
-      "link": "https://www.nrk.no/vestfoldogtelemark/kontroll-pa-person-med-oks-og-hammer-i-sandefjord-sentrum-1.18079784",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 11 Nov 2026 18:49:36 GMT"
-    },
-    {
-      "title": "DR: Danmark skal kutte bensin- og dieselavgiften",
-      "link": "https://www.nrk.no/nyheter/dr_-danmark-skal-kutte-bensin--og-dieselavgiften-1.18079743",
-      "category": "Danmark",
-      "pubDate": "Wed, 11 Nov 2026 18:34:07 GMT"
-    },
-    {
-      "title": "Garasjebrann har spredt seg til bolighus Holmestrand",
-      "link": "https://www.nrk.no/vestfoldogtelemark/garasjebrann-har-spredt-seg-til-bolighus-holmestrand-1.18079766",
-      "category": "Nyhetssenter Vestfold og Telemark",
-      "pubDate": "Wed, 11 Nov 2026 18:28:20 GMT"
-    },
-    {
-      "title": "Nato-Rutte: Forhandlingene i Abu Dhabi viser at USA og Europa er på linje",
-      "link": "https://www.nrk.no/nyheter/nato-rutte_-forhandlingene-i-abu-dhabi-viser-at-usa-og-europa-er-pa-linje-1.18079748",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Wed, 11 Nov 2026 18:07:53 GMT"
     }
   ]
 }
