@@ -1452,6 +1452,297 @@ document.addEventListener("DOMContentLoaded", () => {
     if (time2Input) time2Input.addEventListener("input", updateTimeDiff);
     updateTimeDiff();
 
+    //tilfeldig tall + D6 + snurrehjul
+    const secureRandomFraction = () => {
+        if (window.crypto?.getRandomValues) {
+            const randomBuffer = new Uint32Array(1);
+            window.crypto.getRandomValues(randomBuffer);
+            return randomBuffer[0] / 4294967296;
+        }
+        return Math.random();
+    };
+
+    const getRandomIntInclusive = (minValue, maxValue) => {
+        const min = Math.ceil(minValue);
+        const max = Math.floor(maxValue);
+        const span = max - min + 1;
+        if (!Number.isInteger(span) || span <= 0) return min;
+
+        if (window.crypto?.getRandomValues) {
+            const maxUint32 = 0x100000000;
+            const threshold = maxUint32 - (maxUint32 % span);
+            const randomBuffer = new Uint32Array(1);
+
+            let randomValue = 0;
+            do {
+                window.crypto.getRandomValues(randomBuffer);
+                randomValue = randomBuffer[0];
+            } while (randomValue >= threshold);
+
+            return min + (randomValue % span);
+        }
+
+        return min + Math.floor(secureRandomFraction() * span);
+    };
+
+    const randomMinInput = document.getElementById("randomMin");
+    const randomMaxInput = document.getElementById("randomMax");
+    const randomGenerateBtn = document.getElementById("randomGenerateBtn");
+    const randomNumberResultEl = document.getElementById("randomNumberResult");
+
+    const generateRandomNumber = () => {
+        if (!randomMinInput || !randomMaxInput || !randomNumberResultEl) return;
+
+        const min = Number(randomMinInput.value);
+        const max = Number(randomMaxInput.value);
+
+        if (!Number.isFinite(min) || !Number.isFinite(max)) {
+            randomNumberResultEl.innerText = "Resultat: Skriv inn gyldige grenser.";
+            return;
+        }
+
+        if (Math.floor(min) !== min || Math.floor(max) !== max) {
+            randomNumberResultEl.innerText = "Resultat: Bruk hele tall.";
+            return;
+        }
+
+        if (min > max) {
+            randomNumberResultEl.innerText = "Resultat: Min må være mindre enn eller lik maks.";
+            return;
+        }
+
+        const value = getRandomIntInclusive(min, max);
+        randomNumberResultEl.innerText = `Resultat: ${value}`;
+    };
+
+    if (randomGenerateBtn) randomGenerateBtn.addEventListener("click", generateRandomNumber);
+    if (randomMinInput) {
+        randomMinInput.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") generateRandomNumber();
+        });
+    }
+    if (randomMaxInput) {
+        randomMaxInput.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") generateRandomNumber();
+        });
+    }
+
+    const coinFlipBtn = document.getElementById("coinFlipBtn");
+    const coinFlipVisualEl = document.getElementById("coinFlipVisual");
+    const coinFlipResultEl = document.getElementById("coinFlipResult");
+
+    const flipCoin = () => {
+        if (!coinFlipResultEl || !coinFlipVisualEl) return;
+
+        const isHeads = getRandomIntInclusive(0, 1) === 0;
+        const value = isHeads ? "Kron" : "Mynt";
+
+        coinFlipVisualEl.classList.remove("is-flipping");
+        void coinFlipVisualEl.offsetWidth;
+        coinFlipVisualEl.classList.add("is-flipping");
+        coinFlipVisualEl.innerText = value.charAt(0);
+        coinFlipResultEl.innerText = `Resultat: ${value}`;
+    };
+
+    if (coinFlipBtn) coinFlipBtn.addEventListener("click", flipCoin);
+
+    const diceCountSelect = document.getElementById("diceCount");
+    const rollDiceBtn = document.getElementById("rollDiceBtn");
+    const diceResultEl = document.getElementById("diceResult");
+    const diceSumResultEl = document.getElementById("diceSumResult");
+
+    const rollD6Dice = () => {
+        if (!diceCountSelect || !diceResultEl || !diceSumResultEl) return;
+
+        const count = Math.max(1, Math.min(4, Number(diceCountSelect.value) || 1));
+        const rolls = Array.from({ length: count }, () => getRandomIntInclusive(1, 6));
+        const sum = rolls.reduce((acc, value) => acc + value, 0);
+
+        diceResultEl.innerHTML = "";
+        rolls.forEach((value, index) => {
+            const chip = document.createElement("span");
+            chip.className = "dice-chip";
+            chip.textContent = `D${index + 1}: ${value}`;
+            diceResultEl.appendChild(chip);
+        });
+
+        diceSumResultEl.innerText = `Sum: ${sum}`;
+    };
+
+    if (rollDiceBtn) rollDiceBtn.addEventListener("click", rollD6Dice);
+    if (diceCountSelect) {
+        diceCountSelect.addEventListener("change", rollD6Dice);
+        rollD6Dice();
+    }
+
+    const spinWheelOptionsInput = document.getElementById("spinWheelOptions");
+    const spinWheelBtn = document.getElementById("spinWheelBtn");
+    const spinWheelResetBtn = document.getElementById("spinWheelResetBtn");
+    const spinWheelResultEl = document.getElementById("spinWheelResult");
+    const spinWheelCanvas = document.getElementById("spinWheelCanvas");
+
+    const defaultSpinWheelOptions = ["Pizza", "Burger", "Sushi", "Taco", "Salat", "Pasta"];
+    const spinWheelColorPalette = [
+        "#ff7b72",
+        "#f5c451",
+        "#7ad97a",
+        "#5ec7ff",
+        "#c69bff",
+        "#ff9ec8",
+        "#8de1da",
+        "#ffb86b",
+    ];
+
+    let spinWheelRotation = 0;
+    let spinWheelIsSpinning = false;
+
+    const getSpinWheelOptions = () => {
+        if (!spinWheelOptionsInput) return [];
+        return spinWheelOptionsInput.value
+            .split("\n")
+            .map((item) => item.trim())
+            .filter(Boolean);
+    };
+
+    const drawSpinWheel = (options, rotation = 0) => {
+        if (!spinWheelCanvas) return;
+        const context = spinWheelCanvas.getContext("2d");
+        if (!context) return;
+
+        const size = spinWheelCanvas.width;
+        const center = size / 2;
+        const radius = center - 8;
+        context.clearRect(0, 0, size, size);
+
+        if (!options.length) {
+            context.fillStyle = "rgba(18, 24, 40, 0.9)";
+            context.beginPath();
+            context.arc(center, center, radius, 0, Math.PI * 2);
+            context.fill();
+
+            context.fillStyle = "rgba(241, 243, 248, 0.85)";
+            context.textAlign = "center";
+            context.textBaseline = "middle";
+            context.font = "600 15px Open Sans";
+            context.fillText("Legg til minst to valg", center, center);
+            return;
+        }
+
+        const segmentAngle = (Math.PI * 2) / options.length;
+        const startAngle = -Math.PI / 2;
+
+        options.forEach((label, index) => {
+            const angleStart = startAngle + rotation + (segmentAngle * index);
+            const angleEnd = angleStart + segmentAngle;
+
+            context.beginPath();
+            context.moveTo(center, center);
+            context.arc(center, center, radius, angleStart, angleEnd);
+            context.closePath();
+            context.fillStyle = spinWheelColorPalette[index % spinWheelColorPalette.length];
+            context.fill();
+
+            context.save();
+            context.translate(center, center);
+            context.rotate(angleStart + (segmentAngle / 2));
+            context.textAlign = "right";
+            context.textBaseline = "middle";
+            context.fillStyle = "#101622";
+            context.font = "700 12px Open Sans";
+
+            const trimmedLabel = label.length > 18 ? `${label.slice(0, 15)}...` : label;
+            context.fillText(trimmedLabel, radius - 14, 0);
+            context.restore();
+        });
+
+        context.beginPath();
+        context.arc(center, center, 14, 0, Math.PI * 2);
+        context.fillStyle = "rgba(10, 16, 30, 0.96)";
+        context.fill();
+        context.strokeStyle = "rgba(255, 255, 255, 0.35)";
+        context.lineWidth = 2;
+        context.stroke();
+    };
+
+    const normalizeAngle = (angle) => {
+        const fullRotation = Math.PI * 2;
+        let result = angle % fullRotation;
+        if (result < 0) result += fullRotation;
+        return result;
+    };
+
+    const resolveSpinWheelWinner = (options, rotation) => {
+        if (!options.length) return "";
+        const segmentAngle = (Math.PI * 2) / options.length;
+        const normalized = normalizeAngle(-rotation);
+        const winnerIndex = Math.floor(normalized / segmentAngle) % options.length;
+        return options[winnerIndex] || "";
+    };
+
+    const spinTheWheel = () => {
+        if (spinWheelIsSpinning || !spinWheelBtn) return;
+        const options = getSpinWheelOptions();
+
+        if (options.length < 2) {
+            if (spinWheelResultEl) spinWheelResultEl.innerText = "Vinner: Legg inn minst to valg.";
+            drawSpinWheel(options, spinWheelRotation);
+            return;
+        }
+
+        spinWheelIsSpinning = true;
+        spinWheelBtn.disabled = true;
+        if (spinWheelResultEl) spinWheelResultEl.innerText = "Vinner: Snurrer...";
+
+        const fullTurns = getRandomIntInclusive(5, 8);
+        const randomOffset = secureRandomFraction() * Math.PI * 2;
+        const startRotation = spinWheelRotation;
+        const targetRotation = startRotation + (fullTurns * Math.PI * 2) + randomOffset;
+        const durationMs = 4600;
+        const startTime = performance.now();
+
+        const animate = (now) => {
+            const elapsed = now - startTime;
+            const progress = Math.min(elapsed / durationMs, 1);
+            const easedProgress = 1 - ((1 - progress) ** 3);
+            spinWheelRotation = startRotation + ((targetRotation - startRotation) * easedProgress);
+            drawSpinWheel(options, spinWheelRotation);
+
+            if (progress < 1) {
+                window.requestAnimationFrame(animate);
+                return;
+            }
+
+            spinWheelRotation = normalizeAngle(targetRotation);
+            const winner = resolveSpinWheelWinner(options, spinWheelRotation);
+            if (spinWheelResultEl) spinWheelResultEl.innerText = winner ? `Vinner: ${winner}` : "Vinner: -";
+            spinWheelIsSpinning = false;
+            spinWheelBtn.disabled = false;
+        };
+
+        window.requestAnimationFrame(animate);
+    };
+
+    if (spinWheelOptionsInput) {
+        spinWheelOptionsInput.addEventListener("input", () => {
+            const options = getSpinWheelOptions();
+            drawSpinWheel(options, spinWheelRotation);
+        });
+    }
+    if (spinWheelBtn) spinWheelBtn.addEventListener("click", spinTheWheel);
+    if (spinWheelResetBtn && spinWheelOptionsInput) {
+        spinWheelResetBtn.addEventListener("click", () => {
+            spinWheelOptionsInput.value = defaultSpinWheelOptions.join("\n");
+            spinWheelRotation = 0;
+            drawSpinWheel(defaultSpinWheelOptions, spinWheelRotation);
+            if (spinWheelResultEl) spinWheelResultEl.innerText = "Vinner: -";
+        });
+    }
+
+    if (spinWheelOptionsInput && !spinWheelOptionsInput.value.trim()) {
+        spinWheelOptionsInput.value = defaultSpinWheelOptions.join("\n");
+    }
+    drawSpinWheel(getSpinWheelOptions(), spinWheelRotation);
+
     //tidssoner
     const tzBtn = document.getElementById("timezoneButton");
     if (tzBtn) {
@@ -6336,6 +6627,10 @@ document.addEventListener("DOMContentLoaded", () => {
                     "ageCard",
                     "dateDiffCard",
                     "timeDiffCard",
+                    "randomNumberCard",
+                    "coinFlipCard",
+                    "diceCard",
+                    "spinWheelCard",
                 ],
             },
             "all-tools": {
