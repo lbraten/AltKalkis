@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-13T16:59:13.444Z",
+  "updatedAt": "2026-11-13T22:29:30.711Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Britisk politi starter etterforskning av David Walliams",
-      "link": "https://www.nrk.no/nyheter/britisk-politi-starter-etterforskning-av-david-walliams-1.18081553",
+      "title": "USAs nasjonale værtjeneste melder om problemer",
+      "link": "https://www.nrk.no/nyheter/usas-nasjonale-vaertjeneste-melder-om-problemer-1.18081709",
+      "category": "USA",
+      "pubDate": "Fri, 13 Nov 2026 22:04:29 GMT"
+    },
+    {
+      "title": "Drone skapte sikkerhetssituasjon på amerikansk base i England",
+      "link": "https://www.nrk.no/nyheter/drone-skapte-sikkerhetssituasjon-pa-amerikansk-base-i-england-1.18081707",
       "category": "Storbritannia",
-      "pubDate": "Fri, 13 Nov 2026 16:20:41 GMT"
+      "pubDate": "Fri, 13 Nov 2026 21:37:57 GMT"
     },
     {
-      "title": "Svensk minister varsler: Skal stenge Russland ute fra ski-VM",
-      "link": "https://www.nrk.no/nyheter/svensk-minister-varsler_-skal-stenge-russland-ute-fra-ski-vm-1.18081489",
-      "category": "Russland",
-      "pubDate": "Fri, 13 Nov 2026 15:52:36 GMT"
+      "title": "USA: Alle fly satt på bakken",
+      "link": "https://www.nrk.no/nyheter/usa_-alle-fly-satt-pa-bakken-1.18081682",
+      "category": "high",
+      "pubDate": "Fri, 13 Nov 2026 20:59:43 GMT"
     },
     {
-      "title": "Nvidia stiger igjen på Wall Street etter kaoset",
-      "link": "https://www.nrk.no/nyheter/nvidia-stiger-igjen-pa-wall-street-etter-kaoset-1.18081445",
-      "category": "Kunstig intelligens",
-      "pubDate": "Fri, 13 Nov 2026 14:52:45 GMT"
+      "title": "Musk vil kjempe for å gi Jensen Huang jobben tilbake",
+      "link": "https://www.nrk.no/nyheter/musk-vil-kjempe-for-a-gi-jensen-huang-jobben-tilbake-1.18081681",
+      "category": "USA",
+      "pubDate": "Fri, 13 Nov 2026 20:59:08 GMT"
     },
     {
-      "title": "Thore «Henki» Holm Hansen er død",
-      "link": "https://www.nrk.no/nyheter/thore-_henki_-holm-hansen-er-dod-1.18081252",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 13 Nov 2026 12:25:08 GMT"
+      "title": "Maga-yndling tapte gjenvalg",
+      "link": "https://www.nrk.no/nyheter/maga-yndling-tapte-gjenvalg-1.18081643",
+      "category": "Mellomvalg i USA",
+      "pubDate": "Fri, 13 Nov 2026 20:44:41 GMT"
     },
     {
-      "title": "AfD fortsatt klart største parti i Tyskland, ifølge meningsmåling",
-      "link": "https://www.nrk.no/nyheter/afd-fortsatt-klart-storste-parti-i-tyskland_-ifolge-meningsmaling-1.18081249",
-      "category": "Tyskland",
-      "pubDate": "Fri, 13 Nov 2026 11:36:41 GMT"
-    },
-    {
-      "title": "VG: Økokrim har ransaket Rød-Larsens luksusvilla i Hellas",
-      "link": "https://www.nrk.no/nyheter/vg_-okokrim-har-ransaket-rod-larsens-luksusvilla-i-hellas-1.18081100",
-      "category": "Epsteins norske forbindelser",
-      "pubDate": "Fri, 13 Nov 2026 10:01:57 GMT"
+      "title": "Ekvebåt kantret i New Orleans",
+      "link": "https://www.nrk.no/nyheter/ekvebat-kantret-i-new-orleans-1.18081654",
+      "category": "USA",
+      "pubDate": "Fri, 13 Nov 2026 20:29:48 GMT"
     }
   ]
 }
