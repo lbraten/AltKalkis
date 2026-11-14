@@ -101,7 +101,7 @@
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="timeDiffCard" checked><span>Klokkeslett-differanse</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="randomNumberCard" checked><span>Tilfeldig tall</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="coinFlipCard" checked><span>Kron eller mynt</span></label>
-                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="diceCard" checked><span>D6-kast</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="diceCard" checked><span>RPG terninger</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="spinWheelCard" checked><span>Snurrehjul</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="calculatorCard" checked><span>Kalkulator</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="currencyCard" checked><span>Valutakalkulator</span></label>
@@ -450,6 +450,7 @@
                         </label>
                     </div>
                     <button id="randomGenerateBtn" class="vanligknapp" type="button">Generer</button>
+                    <div id="randomNumberVisual" class="random-number-visual" aria-hidden="true">-</div>
                     <p id="randomNumberResult" class="random-number-result" aria-live="polite">Resultat: -</p>
                 </div>
             </div>
@@ -464,20 +465,32 @@
             </div>
 
             <div class="bordershadow card--s" id="diceCard">
-                <h2>D6-kast (1-4 terninger)</h2>
+                <h2>RPG Dice Suite</h2>
                 <div class="dice-grid">
-                    <label class="unit-converter-field" for="diceCount">
-                        <span>Antall terninger</span>
-                        <select id="diceCount" class="lysereboks" aria-label="Velg antall D6">
-                            <option value="1">1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                            <option value="4" selected>4</option>
-                        </select>
-                    </label>
-                    <button id="rollDiceBtn" class="vanligknapp" type="button">Kast terning(er)</button>
+                    <div class="dice-controls">
+                        <label class="unit-converter-field" for="diceType">
+                            <span>Terning</span>
+                            <select id="diceType" class="lysereboks" aria-label="Velg terningtype">
+                                <option value="4">d4</option>
+                                <option value="8">d8</option>
+                                <option value="10">d10</option>
+                                <option value="12">d12</option>
+                                <option value="20" selected>d20</option>
+                            </select>
+                        </label>
+                        <label class="unit-converter-field" for="diceCount">
+                            <span>Antall</span>
+                            <input id="diceCount" class="dice-count-input" type="number" min="1" max="12" value="2" />
+                        </label>
+                        <label class="unit-converter-field" for="diceModifier">
+                            <span>Modifier</span>
+                            <input id="diceModifier" class="dice-count-input" type="number" step="1" min="-50" max="50" value="0" />
+                        </label>
+                    </div>
+                    <button id="rollDiceBtn" class="vanligknapp" type="button">Rull terninger</button>
                     <div id="diceResult" class="dice-result" aria-live="polite"></div>
-                    <p id="diceSumResult" class="random-number-result" aria-live="polite">Sum: -</p>
+                    <p id="diceRollFormula" class="dice-formula" aria-live="polite">Kast: -</p>
+                    <p id="diceSumResult" class="random-number-result" aria-live="polite">Total: -</p>
                 </div>
             </div>
 
@@ -496,6 +509,7 @@ Pasta</textarea>
                     </div>
                     <div class="spin-wheel-stage" aria-label="Snurrehjul">
                         <div class="spin-wheel-pointer" aria-hidden="true"></div>
+                        <div id="spinWheelConfetti" class="spin-wheel-confetti" aria-hidden="true"></div>
                         <canvas id="spinWheelCanvas" width="320" height="320" aria-label="Snurrehjul canvas"></canvas>
                     </div>
                     <p id="spinWheelResult" class="random-number-result" aria-live="polite">Vinner: -</p>

@@ -1488,7 +1488,46 @@ document.addEventListener("DOMContentLoaded", () => {
     const randomMinInput = document.getElementById("randomMin");
     const randomMaxInput = document.getElementById("randomMax");
     const randomGenerateBtn = document.getElementById("randomGenerateBtn");
+    const randomNumberVisualEl = document.getElementById("randomNumberVisual");
     const randomNumberResultEl = document.getElementById("randomNumberResult");
+    let randomNumberAnimationId = 0;
+
+    const animateRandomNumberVisual = (min, max, finalValue) => {
+        if (!randomNumberVisualEl) {
+            if (randomNumberResultEl) randomNumberResultEl.innerText = `Resultat: ${finalValue}`;
+            return;
+        }
+
+        if (randomNumberAnimationId) {
+            window.cancelAnimationFrame(randomNumberAnimationId);
+            randomNumberAnimationId = 0;
+        }
+
+        const durationMs = 700;
+        const startTime = performance.now();
+        randomNumberVisualEl.classList.remove("is-animating");
+        void randomNumberVisualEl.offsetWidth;
+        randomNumberVisualEl.classList.add("is-animating");
+
+        const frame = (now) => {
+            const elapsed = now - startTime;
+            const progress = Math.min(elapsed / durationMs, 1);
+
+            if (progress < 1) {
+                const preview = getRandomIntInclusive(min, max);
+                randomNumberVisualEl.innerText = String(preview);
+                randomNumberAnimationId = window.requestAnimationFrame(frame);
+                return;
+            }
+
+            randomNumberVisualEl.innerText = String(finalValue);
+            randomNumberVisualEl.classList.remove("is-animating");
+            randomNumberAnimationId = 0;
+            if (randomNumberResultEl) randomNumberResultEl.innerText = `Resultat: ${finalValue}`;
+        };
+
+        randomNumberAnimationId = window.requestAnimationFrame(frame);
+    };
 
     const generateRandomNumber = () => {
         if (!randomMinInput || !randomMaxInput || !randomNumberResultEl) return;
@@ -1498,21 +1537,25 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (!Number.isFinite(min) || !Number.isFinite(max)) {
             randomNumberResultEl.innerText = "Resultat: Skriv inn gyldige grenser.";
+            if (randomNumberVisualEl) randomNumberVisualEl.innerText = "!";
             return;
         }
 
         if (Math.floor(min) !== min || Math.floor(max) !== max) {
             randomNumberResultEl.innerText = "Resultat: Bruk hele tall.";
+            if (randomNumberVisualEl) randomNumberVisualEl.innerText = "!";
             return;
         }
 
         if (min > max) {
             randomNumberResultEl.innerText = "Resultat: Min må være mindre enn eller lik maks.";
+            if (randomNumberVisualEl) randomNumberVisualEl.innerText = "!";
             return;
         }
 
         const value = getRandomIntInclusive(min, max);
-        randomNumberResultEl.innerText = `Resultat: ${value}`;
+        randomNumberResultEl.innerText = "Resultat: Trekker...";
+        animateRandomNumberVisual(min, max, value);
     };
 
     if (randomGenerateBtn) randomGenerateBtn.addEventListener("click", generateRandomNumber);
@@ -1546,38 +1589,117 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (coinFlipBtn) coinFlipBtn.addEventListener("click", flipCoin);
 
+    const diceTypeSelect = document.getElementById("diceType");
     const diceCountSelect = document.getElementById("diceCount");
+    const diceModifierInput = document.getElementById("diceModifier");
     const rollDiceBtn = document.getElementById("rollDiceBtn");
     const diceResultEl = document.getElementById("diceResult");
+    const diceRollFormulaEl = document.getElementById("diceRollFormula");
     const diceSumResultEl = document.getElementById("diceSumResult");
+    let diceRollTimer = 0;
 
-    const rollD6Dice = () => {
-        if (!diceCountSelect || !diceResultEl || !diceSumResultEl) return;
+    const buildDiceChip = (sides, value, rolling = false) => {
+        const chip = document.createElement("span");
+        chip.className = "dice-chip";
+        if (rolling) chip.classList.add("is-rolling");
 
-        const count = Math.max(1, Math.min(4, Number(diceCountSelect.value) || 1));
-        const rolls = Array.from({ length: count }, () => getRandomIntInclusive(1, 6));
-        const sum = rolls.reduce((acc, value) => acc + value, 0);
+        const dieLabel = document.createElement("span");
+        dieLabel.className = "dice-chip__die";
+        dieLabel.textContent = `d${sides}`;
 
-        diceResultEl.innerHTML = "";
-        rolls.forEach((value, index) => {
-            const chip = document.createElement("span");
-            chip.className = "dice-chip";
-            chip.textContent = `D${index + 1}: ${value}`;
-            diceResultEl.appendChild(chip);
-        });
+        const dieValue = document.createElement("span");
+        dieValue.className = "dice-chip__value";
+        dieValue.textContent = String(value);
 
-        diceSumResultEl.innerText = `Sum: ${sum}`;
+        chip.append(dieLabel, dieValue);
+        return chip;
     };
 
-    if (rollDiceBtn) rollDiceBtn.addEventListener("click", rollD6Dice);
+    const renderDicePreview = (count, sides) => {
+        if (!diceResultEl) return;
+        diceResultEl.innerHTML = "";
+        for (let index = 0; index < count; index += 1) {
+            diceResultEl.appendChild(buildDiceChip(sides, "...", true));
+        }
+    };
+
+    const rollRpgDice = () => {
+        if (!diceTypeSelect || !diceCountSelect || !diceResultEl || !diceSumResultEl) return;
+
+        const sides = Math.max(2, Number(diceTypeSelect.value) || 20);
+        const count = Math.max(1, Math.min(12, Number(diceCountSelect.value) || 1));
+        const modifier = Number(diceModifierInput?.value || 0);
+        const safeModifier = Number.isFinite(modifier) ? Math.trunc(modifier) : 0;
+
+        if (diceCountSelect.value !== String(count)) {
+            diceCountSelect.value = String(count);
+        }
+        if (diceModifierInput && diceModifierInput.value !== String(safeModifier)) {
+            diceModifierInput.value = String(safeModifier);
+        }
+
+        renderDicePreview(count, sides);
+        if (diceRollFormulaEl) diceRollFormulaEl.innerText = `Kast: ${count}d${sides}${safeModifier ? ` ${safeModifier >= 0 ? "+" : "-"} ${Math.abs(safeModifier)}` : ""}`;
+        diceSumResultEl.innerText = "Total: Ruller...";
+
+        if (diceRollTimer) {
+            window.clearTimeout(diceRollTimer);
+            diceRollTimer = 0;
+        }
+
+        diceRollTimer = window.setTimeout(() => {
+            const rolls = Array.from({ length: count }, () => getRandomIntInclusive(1, sides));
+            const subtotal = rolls.reduce((acc, value) => acc + value, 0);
+            const total = subtotal + safeModifier;
+
+            diceResultEl.innerHTML = "";
+            rolls.forEach((value) => {
+                diceResultEl.appendChild(buildDiceChip(sides, value));
+            });
+
+            if (diceRollFormulaEl) {
+                const breakdown = rolls.join(" + ");
+                const modifierText = safeModifier ? ` ${safeModifier >= 0 ? "+" : "-"} ${Math.abs(safeModifier)}` : "";
+                diceRollFormulaEl.innerText = `Kast: ${breakdown}${modifierText}`;
+            }
+            diceSumResultEl.innerText = `Total: ${total}`;
+            diceRollTimer = 0;
+        }, 540);
+    };
+
+    if (rollDiceBtn) rollDiceBtn.addEventListener("click", rollRpgDice);
+    if (diceTypeSelect) diceTypeSelect.addEventListener("change", rollRpgDice);
     if (diceCountSelect) {
-        diceCountSelect.addEventListener("change", rollD6Dice);
-        rollD6Dice();
+        diceCountSelect.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") rollRpgDice();
+        });
+        diceCountSelect.addEventListener("change", () => {
+            const count = Math.max(1, Math.min(12, Number(diceCountSelect.value) || 1));
+            diceCountSelect.value = String(count);
+        });
+    }
+    if (diceModifierInput) {
+        diceModifierInput.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") rollRpgDice();
+        });
+        diceModifierInput.addEventListener("change", () => {
+            const modifier = Number(diceModifierInput.value);
+            if (!Number.isFinite(modifier)) {
+                diceModifierInput.value = "0";
+                return;
+            }
+            diceModifierInput.value = String(Math.trunc(modifier));
+        });
+    }
+
+    if (diceTypeSelect) {
+        rollRpgDice();
     }
 
     const spinWheelOptionsInput = document.getElementById("spinWheelOptions");
     const spinWheelBtn = document.getElementById("spinWheelBtn");
     const spinWheelResetBtn = document.getElementById("spinWheelResetBtn");
+    const spinWheelConfettiEl = document.getElementById("spinWheelConfetti");
     const spinWheelResultEl = document.getElementById("spinWheelResult");
     const spinWheelCanvas = document.getElementById("spinWheelCanvas");
 
@@ -1679,6 +1801,29 @@ document.addEventListener("DOMContentLoaded", () => {
         return options[winnerIndex] || "";
     };
 
+    const burstSpinWheelConfetti = () => {
+        if (!spinWheelConfettiEl) return;
+
+        spinWheelConfettiEl.innerHTML = "";
+        const confettiColors = ["#ff6b7f", "#ffd166", "#62e88f", "#6ec5ff", "#c6a1ff", "#ff9ec8"];
+
+        for (let index = 0; index < 34; index += 1) {
+            const piece = document.createElement("span");
+            piece.className = "confetti-piece";
+            piece.style.left = `${42 + (secureRandomFraction() * 16)}%`;
+            piece.style.backgroundColor = confettiColors[index % confettiColors.length];
+            piece.style.setProperty("--drift", `${-130 + (secureRandomFraction() * 260)}px`);
+            piece.style.setProperty("--drop", `${130 + (secureRandomFraction() * 180)}px`);
+            piece.style.setProperty("--rotation", `${180 + getRandomIntInclusive(0, 720)}deg`);
+            piece.style.animationDelay = `${secureRandomFraction() * 140}ms`;
+            spinWheelConfettiEl.appendChild(piece);
+        }
+
+        window.setTimeout(() => {
+            if (spinWheelConfettiEl) spinWheelConfettiEl.innerHTML = "";
+        }, 1800);
+    };
+
     const spinTheWheel = () => {
         if (spinWheelIsSpinning || !spinWheelBtn) return;
         const options = getSpinWheelOptions();
@@ -1715,6 +1860,7 @@ document.addEventListener("DOMContentLoaded", () => {
             spinWheelRotation = normalizeAngle(targetRotation);
             const winner = resolveSpinWheelWinner(options, spinWheelRotation);
             if (spinWheelResultEl) spinWheelResultEl.innerText = winner ? `Vinner: ${winner}` : "Vinner: -";
+            if (winner) burstSpinWheelConfetti();
             spinWheelIsSpinning = false;
             spinWheelBtn.disabled = false;
         };
@@ -1734,6 +1880,7 @@ document.addEventListener("DOMContentLoaded", () => {
             spinWheelOptionsInput.value = defaultSpinWheelOptions.join("\n");
             spinWheelRotation = 0;
             drawSpinWheel(defaultSpinWheelOptions, spinWheelRotation);
+            if (spinWheelConfettiEl) spinWheelConfettiEl.innerHTML = "";
             if (spinWheelResultEl) spinWheelResultEl.innerText = "Vinner: -";
         });
     }

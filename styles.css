@@ -1256,29 +1256,101 @@ h6 {
     gap: 0.55rem;
 }
 
+.random-number-visual {
+    min-height: 64px;
+    border-radius: 11px;
+    border: 1px solid rgba(var(--color-border), 0.6);
+    background: linear-gradient(140deg, rgba(var(--color-bg-input), 0.92), rgba(var(--color-button-muted), 0.9));
+    color: rgb(var(--color-text-base));
+    display: grid;
+    place-items: center;
+    font-size: clamp(1.45rem, 3.4vw, 2.1rem);
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    font-variant-numeric: tabular-nums;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.04), 0 8px 16px rgba(5, 8, 16, 0.26);
+}
+
+.random-number-visual.is-animating {
+    animation: randomNumberPulse 0.28s ease-in-out infinite alternate;
+}
+
+@keyframes randomNumberPulse {
+    0% {
+        transform: translateY(0) scale(1);
+        filter: brightness(1);
+    }
+    100% {
+        transform: translateY(-1px) scale(1.02);
+        filter: brightness(1.15);
+    }
+}
+
 .random-number-result {
     margin: 0;
     min-height: 1.4em;
+}
+
+.dice-controls {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.55rem;
+}
+
+.dice-count-input {
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .dice-result {
     display: flex;
     flex-wrap: wrap;
     gap: 0.45rem;
-    min-height: 2.1rem;
+    min-height: 2.8rem;
 }
 
 .dice-chip {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    padding: 0.38rem 0.55rem;
-    border-radius: 7px;
+    display: inline-grid;
+    justify-items: center;
+    min-width: 62px;
+    padding: 0.38rem 0.55rem 0.45rem;
+    border-radius: 10px;
     border: 1px solid rgba(var(--color-border), 0.6);
-    background: rgba(var(--color-bg-input), 0.86);
+    background: linear-gradient(160deg, rgba(var(--color-bg-input), 0.93), rgba(var(--color-button-muted), 0.9));
     color: rgba(var(--color-text-base), 0.96);
-    font-size: 0.84rem;
-    font-weight: 600;
+    box-shadow: 0 8px 18px rgba(5, 8, 16, 0.2);
+}
+
+.dice-chip__die {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: rgba(var(--color-text-muted), 0.95);
+}
+
+.dice-chip__value {
+    font-size: 1.06rem;
+    font-weight: 700;
+}
+
+.dice-chip.is-rolling {
+    animation: diceRollPulse 0.35s ease-in-out infinite alternate;
+}
+
+@keyframes diceRollPulse {
+    0% {
+        transform: translateY(0) rotate(-1deg) scale(1);
+    }
+    100% {
+        transform: translateY(-2px) rotate(1deg) scale(1.03);
+    }
+}
+
+.dice-formula {
+    margin: 0;
+    min-height: 1.4em;
+    color: rgba(var(--color-text-muted), 0.95);
+    font-size: 0.86rem;
 }
 
 .spin-wheel-options {
@@ -1320,6 +1392,7 @@ h6 {
     display: grid;
     place-items: center;
     padding: 0.2rem 0;
+    overflow: hidden;
 }
 
 .spin-wheel-pointer {
@@ -1346,8 +1419,44 @@ h6 {
     box-shadow: 0 18px 34px rgba(5, 8, 16, 0.34);
 }
 
+.spin-wheel-confetti {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 3;
+}
+
+.confetti-piece {
+    position: absolute;
+    top: 42%;
+    width: 8px;
+    height: 14px;
+    border-radius: 2px;
+    opacity: 0;
+    transform: translate(0, 0) rotate(0deg);
+    animation: confettiBurst 1.3s ease-out forwards;
+}
+
+@keyframes confettiBurst {
+    0% {
+        opacity: 0;
+        transform: translate(0, 0) rotate(0deg) scale(0.7);
+    }
+    12% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        transform: translate(var(--drift), var(--drop)) rotate(var(--rotation)) scale(1);
+    }
+}
+
 @media (max-width: 560px) {
     .random-number-row {
+        grid-template-columns: 1fr;
+    }
+
+    .dice-controls {
         grid-template-columns: 1fr;
     }
 }
