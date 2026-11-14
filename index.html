@@ -406,6 +406,28 @@
                 <div class="percentResult">
                     <p id="ageResult">Omtrent ...</p>
                 </div>
+                <div class="age-lookup-grid">
+                    <p class="protein-helper">Slå opp fødselsår fra alder og dato.</p>
+                    <div class="age-lookup-row">
+                        <label class="unit-converter-field" for="ageLookupAge">
+                            <span>Alder</span>
+                            <input id="ageLookupAge" type="number" min="0" max="130" step="1" placeholder="f.eks. 44" />
+                        </label>
+                        <label class="unit-converter-field" for="ageLookupDate">
+                            <span>Dato</span>
+                            <input id="ageLookupDate" type="date" />
+                        </label>
+                    </div>
+                    <label class="unit-converter-field" for="ageLookupMode">
+                        <span>Type oppslag</span>
+                        <select id="ageLookupMode" class="lysereboks" aria-label="Velg type aldersoppslag">
+                            <option value="turns" selected>Fyller denne alderen på datoen</option>
+                            <option value="is">Er denne alderen på datoen</option>
+                        </select>
+                    </label>
+                    <button id="ageLookupBtn" class="vanligknapp" type="button">Finn fødselsår</button>
+                    <p id="ageLookupResult" class="random-number-result" aria-live="polite">Oppslag: -</p>
+                </div>
             </div>
 
             <!-- Differanse mellom datoer -->
@@ -472,6 +494,7 @@
                             <span>Terning</span>
                             <select id="diceType" class="lysereboks" aria-label="Velg terningtype">
                                 <option value="4">d4</option>
+                                <option value="6">d6</option>
                                 <option value="8">d8</option>
                                 <option value="10">d10</option>
                                 <option value="12">d12</option>

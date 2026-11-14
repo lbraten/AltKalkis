@@ -961,6 +961,24 @@ div.background1 {
     flex-wrap: wrap;
 }
 
+.age-lookup-grid {
+    margin-top: 0.6rem;
+    padding-top: 0.55rem;
+    border-top: 1px solid rgba(var(--color-border), 0.45);
+    display: grid;
+    gap: 0.55rem;
+}
+
+.age-lookup-grid .protein-helper {
+    margin: 0;
+}
+
+.age-lookup-row {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.55rem;
+}
+
 .date-diff-group {
     display: inline-flex;
     align-items: center;
@@ -1111,6 +1129,10 @@ h6 {
     .time-diff-row {
         flex-direction: column;
         align-items: stretch;
+    }
+
+    .age-lookup-row {
+        grid-template-columns: 1fr;
     }
 
     .date-diff-group {

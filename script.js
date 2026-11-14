@@ -1347,6 +1347,32 @@ document.addEventListener("DOMContentLoaded", () => {
     //alderskalkulator
     const birthDateInput = document.getElementById("birthDate");
     const ageResultEl = document.getElementById("ageResult");
+    const ageLookupAgeInput = document.getElementById("ageLookupAge");
+    const ageLookupDateInput = document.getElementById("ageLookupDate");
+    const ageLookupModeSelect = document.getElementById("ageLookupMode");
+    const ageLookupBtn = document.getElementById("ageLookupBtn");
+    const ageLookupResultEl = document.getElementById("ageLookupResult");
+
+    const parseIsoDate = (isoDate) => {
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(String(isoDate || ""))) return null;
+        const [year, month, day] = isoDate.split("-").map(Number);
+        const date = new Date(year, month - 1, day);
+        if (
+            date.getFullYear() !== year
+            || date.getMonth() !== month - 1
+            || date.getDate() !== day
+        ) {
+            return null;
+        }
+        return date;
+    };
+
+    const formatDateNbNo = (date) => date.toLocaleDateString("nb-NO", {
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric",
+    });
+
     const updateAge = () => {
         if (!birthDateInput || !ageResultEl) return;
         const birthStr = birthDateInput.value;
@@ -1354,9 +1380,17 @@ document.addEventListener("DOMContentLoaded", () => {
             ageResultEl.innerText = "Omtrent ...";
             return;
         }
-        const birth = new Date(birthStr);
+        const birth = parseIsoDate(birthStr);
+        if (!birth) {
+            ageResultEl.innerText = "Velg en gyldig fødselsdato.";
+            return;
+        }
         const now = new Date();
         const diffMs = now - birth;
+        if (diffMs < 0) {
+            ageResultEl.innerText = "Fødselsdato kan ikke være i fremtiden.";
+            return;
+        }
         const totalDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
         const totalWeeks = Math.floor(totalDays / 7);
         const ageInYears = diffMs / (1000 * 60 * 60 * 24 * 365.25);
@@ -1373,6 +1407,71 @@ document.addEventListener("DOMContentLoaded", () => {
     };
     if (birthDateInput) birthDateInput.addEventListener("input", updateAge);
     updateAge();
+
+    const runAgeLookup = () => {
+        if (!ageLookupAgeInput || !ageLookupDateInput || !ageLookupModeSelect || !ageLookupResultEl) return;
+
+        const ageValue = Number(ageLookupAgeInput.value);
+        const lookupDate = parseIsoDate(ageLookupDateInput.value);
+        const mode = ageLookupModeSelect.value;
+
+        if (!Number.isFinite(ageValue) || Math.floor(ageValue) !== ageValue || ageValue < 0 || ageValue > 130) {
+            ageLookupResultEl.innerText = "Oppslag: Skriv inn en gyldig alder (0-130).";
+            return;
+        }
+
+        if (!lookupDate) {
+            ageLookupResultEl.innerText = "Oppslag: Velg en gyldig dato.";
+            return;
+        }
+
+        if (mode === "turns") {
+            const birthDate = new Date(
+                lookupDate.getFullYear() - ageValue,
+                lookupDate.getMonth(),
+                lookupDate.getDate(),
+            );
+            ageLookupResultEl.innerText = `Oppslag: Fødselsdato er ${formatDateNbNo(birthDate)} (fødselsår ${birthDate.getFullYear()}).`;
+            return;
+        }
+
+        const latestBirth = new Date(
+            lookupDate.getFullYear() - ageValue,
+            lookupDate.getMonth(),
+            lookupDate.getDate(),
+        );
+        const earliestExclusive = new Date(
+            lookupDate.getFullYear() - (ageValue + 1),
+            lookupDate.getMonth(),
+            lookupDate.getDate(),
+        );
+        const earliestBirth = new Date(earliestExclusive);
+        earliestBirth.setDate(earliestBirth.getDate() + 1);
+
+        ageLookupResultEl.innerText = `Oppslag: Personen kan være født mellom ${formatDateNbNo(earliestBirth)} og ${formatDateNbNo(latestBirth)}.`;
+    };
+
+    if (ageLookupDateInput && !ageLookupDateInput.value) {
+        const now = new Date();
+        const year = now.getFullYear();
+        const month = String(now.getMonth() + 1).padStart(2, "0");
+        const day = String(now.getDate()).padStart(2, "0");
+        ageLookupDateInput.value = `${year}-${month}-${day}`;
+    }
+
+    if (ageLookupBtn) ageLookupBtn.addEventListener("click", runAgeLookup);
+    if (ageLookupAgeInput) {
+        ageLookupAgeInput.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") runAgeLookup();
+        });
+    }
+    if (ageLookupDateInput) {
+        ageLookupDateInput.addEventListener("change", runAgeLookup);
+        ageLookupDateInput.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") runAgeLookup();
+        });
+    }
+    if (ageLookupModeSelect) ageLookupModeSelect.addEventListener("change", runAgeLookup);
 
     //dato-diff
     const date1Input = document.getElementById("date1");
