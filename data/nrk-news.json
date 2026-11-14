@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-14T16:24:43.087Z",
+  "updatedAt": "2026-11-14T20:51:59.537Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Fem ungdommer tatt etter biljakt",
+      "link": "https://www.nrk.no/ostfold/fem-ungdommer-tatt-etter-biljakt--1.18081951",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sat, 14 Nov 2026 19:56:20 GMT"
+    },
+    {
+      "title": "Flystansen i USA: Bytting av kabel mulig årsak",
+      "link": "https://www.nrk.no/nyheter/flystansen-i-usa_-bytting-av-kabel-mulig-arsak-1.18082036",
+      "category": "USA",
+      "pubDate": "Sat, 14 Nov 2026 18:33:24 GMT"
+    },
+    {
+      "title": "Nye demonstrasjoner i Frankrike",
+      "link": "https://www.nrk.no/nyheter/nye-demonstrasjoner-i-frankrike-1.18081978",
+      "category": "Frankrike",
+      "pubDate": "Sat, 14 Nov 2026 17:42:57 GMT"
+    },
+    {
+      "title": "Filippinane vann den første utgåva av Eurovision Asia",
+      "link": "https://www.nrk.no/kultur/filippinane-vann-den-forste-utgava-av-eurovision-asia-1.18082014",
+      "category": "MGP og Eurovision Song Contest 2026",
+      "pubDate": "Sat, 14 Nov 2026 16:49:15 GMT"
+    },
+    {
+      "title": "Funn av død person i Sveio",
+      "link": "https://www.nrk.no/vestland/funn-av-dod-person-i-sveio-1.18081948",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 14 Nov 2026 16:27:13 GMT"
+    },
     {
       "title": "Kraftig brann i Lillestrøm",
       "link": "https://www.nrk.no/stor-oslo/kraftig-brann-i-lillestrom-1.18081998",
       "category": "Nyhetssenter Stor-Oslo",
       "pubDate": "Sat, 14 Nov 2026 15:58:24 GMT"
-    },
-    {
-      "title": "Trump, Xi og Putin møtes 19. november.",
-      "link": "https://www.nrk.no/nyheter/trump_-xi-og-putin-motes-19.-november.--1.18081954",
-      "category": "Russland",
-      "pubDate": "Sat, 14 Nov 2026 15:17:25 GMT"
-    },
-    {
-      "title": "Sør-Sudan utsetter valget",
-      "link": "https://www.nrk.no/nyheter/sor-sudan-utsetter-valget-1.18081952",
-      "category": "Sør-Sudan",
-      "pubDate": "Sat, 14 Nov 2026 14:32:17 GMT"
-    },
-    {
-      "title": "Høyre-Ine erkjenner: – Vi har ikke vært tydelige nok",
-      "link": "https://www.nrk.no/nyheter/hoyre-ine-erkjenner_-_-vi-har-ikke-vaert-tydelige-nok-1.18081897",
-      "category": "Partiet Høyre",
-      "pubDate": "Sat, 14 Nov 2026 12:42:11 GMT"
-    },
-    {
-      "title": "Italia gir Meta 8,3 milliarder i bot",
-      "link": "https://www.nrk.no/nyheter/italia-gir-meta-8_3-milliarder-i-bot-1.18081831",
-      "category": "Meta",
-      "pubDate": "Sat, 14 Nov 2026 12:35:55 GMT"
-    },
-    {
-      "title": "Frp: Vil gjere eit av våre beste kommuneval",
-      "link": "https://www.nrk.no/nyheter/frp_-vil-gjere-eit-av-vare-beste-kommuneval-1.18081853",
-      "category": "Fremskrittspartiet",
-      "pubDate": "Sat, 14 Nov 2026 11:02:19 GMT"
     }
   ]
 }
