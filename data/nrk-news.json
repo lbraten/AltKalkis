@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-15T15:26:23.872Z",
+  "updatedAt": "2026-11-15T20:29:55.193Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Sverige: Centerpartiet velger Socialdemokraterna",
+      "link": "https://www.nrk.no/nyheter/sverige_-centerpartiet-velger-socialdemokraterna-1.18082387",
+      "category": "Sverige",
+      "pubDate": "Sun, 15 Nov 2026 18:58:05 GMT"
+    },
+    {
+      "title": "Tidligere høyesterettsadvokat Ole Lund er død",
+      "link": "https://www.nrk.no/nyheter/tidligere-hoyesterettsadvokat-ole-lund-er-dod-1.18082367",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 15 Nov 2026 18:15:24 GMT"
+    },
+    {
+      "title": "Bil i grøfta på E18 – fant sovende danske i førersetet",
+      "link": "https://www.nrk.no/ostfold/bil-i-grofta-pa-e18-_-fant-sovende-danske-i-forersetet-1.18082393",
+      "category": "Nyhetssenter Østfold",
+      "pubDate": "Sun, 15 Nov 2026 17:54:38 GMT"
+    },
+    {
+      "title": "Fugleinfluensa påvist i Rogaland og Agder",
+      "link": "https://www.nrk.no/nyheter/fugleinfluensa-pavist-i-rogaland-og-agder-1.18082377",
+      "category": "Fugleinfluensa",
+      "pubDate": "Sun, 15 Nov 2026 17:42:55 GMT"
+    },
+    {
+      "title": "Byfjordtunnelen åpen etter bilbrann",
+      "link": "https://www.nrk.no/nyheter/byfjordtunnelen-apen-etter-bilbrann-1.18082303",
+      "category": "Trafikk i Norge",
+      "pubDate": "Sun, 15 Nov 2026 17:26:39 GMT"
+    },
     {
       "title": "Estland stenger grensen mot Russland",
       "link": "https://www.nrk.no/nyheter/estland-stenger-grensen-mot-russland-1.18082258",
       "category": "Estland",
       "pubDate": "Sun, 15 Nov 2026 15:15:29 GMT"
-    },
-    {
-      "title": "Iran: Tankskip i brann i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/iran_-tankskip-i-brann-i-hormuzstredet-1.18082255",
-      "category": "Krigen i Midtøsten",
-      "pubDate": "Sun, 15 Nov 2026 13:31:58 GMT"
-    },
-    {
-      "title": "Sunkne jordmasser på Hallset i Trondheim",
-      "link": "https://www.nrk.no/trondelag/sunkne-jordmasser-pa-hallset-i-trondheim-1.18082194",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 15 Nov 2026 12:18:56 GMT"
-    },
-    {
-      "title": "Zelenskyj: – Russiske angrep på Ukraina hjulpet av Starshield-restriksjoner",
-      "link": "https://www.nrk.no/nyheter/zelenskyj_-_-russiske-angrep-pa-ukraina-hjulpet-av-starshield-restriksjoner-1.18082190",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 15 Nov 2026 11:58:44 GMT"
-    },
-    {
-      "title": "Moské i Steinkjer anmeldt for bedrageri",
-      "link": "https://www.nrk.no/trondelag/moske-i-steinkjer-anmeldt-for-bedrageri-1.18082161",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Sun, 15 Nov 2026 10:52:28 GMT"
-    },
-    {
-      "title": "Trump får nei til golfbane i Washington",
-      "link": "https://www.nrk.no/nyheter/trump-far-nei-til-golfbane-i-washington-1.18082174",
-      "category": "Donald Trump",
-      "pubDate": "Sun, 15 Nov 2026 10:23:45 GMT"
     }
   ]
 }
