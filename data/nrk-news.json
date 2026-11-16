@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-15T20:29:55.193Z",
+  "updatedAt": "2026-11-16T00:18:26.519Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Kapp Verdes president gjenvalgt",
+      "link": "https://www.nrk.no/nyheter/kapp-verdes-president-gjenvalgt-1.18082459",
+      "category": "Kapp Verde",
+      "pubDate": "Sun, 15 Nov 2026 23:44:31 GMT"
+    },
+    {
+      "title": "Demonstrasjoner mot mediepolitikk i Tsjekkia",
+      "link": "https://www.nrk.no/nyheter/demonstrasjoner-mot-mediepolitikk-i-tsjekkia-1.18082450",
+      "category": "Tsjekkia",
+      "pubDate": "Sun, 15 Nov 2026 22:59:57 GMT"
+    },
+    {
+      "title": "Vulcan-rakett havarerte",
+      "link": "https://www.nrk.no/nyheter/vulcan-rakett-havarerte--1.18082420",
+      "category": "Romfart og astronomi",
+      "pubDate": "Sun, 15 Nov 2026 20:30:09 GMT"
+    },
     {
       "title": "Sverige: Centerpartiet velger Socialdemokraterna",
       "link": "https://www.nrk.no/nyheter/sverige_-centerpartiet-velger-socialdemokraterna-1.18082387",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/ostfold/bil-i-grofta-pa-e18-_-fant-sovende-danske-i-forersetet-1.18082393",
       "category": "Nyhetssenter Østfold",
       "pubDate": "Sun, 15 Nov 2026 17:54:38 GMT"
-    },
-    {
-      "title": "Fugleinfluensa påvist i Rogaland og Agder",
-      "link": "https://www.nrk.no/nyheter/fugleinfluensa-pavist-i-rogaland-og-agder-1.18082377",
-      "category": "Fugleinfluensa",
-      "pubDate": "Sun, 15 Nov 2026 17:42:55 GMT"
-    },
-    {
-      "title": "Byfjordtunnelen åpen etter bilbrann",
-      "link": "https://www.nrk.no/nyheter/byfjordtunnelen-apen-etter-bilbrann-1.18082303",
-      "category": "Trafikk i Norge",
-      "pubDate": "Sun, 15 Nov 2026 17:26:39 GMT"
-    },
-    {
-      "title": "Estland stenger grensen mot Russland",
-      "link": "https://www.nrk.no/nyheter/estland-stenger-grensen-mot-russland-1.18082258",
-      "category": "Estland",
-      "pubDate": "Sun, 15 Nov 2026 15:15:29 GMT"
     }
   ]
 }
