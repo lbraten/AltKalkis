@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-17T00:58:15.451Z",
+  "updatedAt": "2026-11-17T09:00:10.253Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Russisk leder: Bro til Krym angrepet",
-      "link": "https://www.nrk.no/nyheter/russisk-leder_-bro-til-krym-angrepet-1.18083128",
+      "title": "Ni såret i luftangrep i Jemen, ifølge houthiene",
+      "link": "https://www.nrk.no/nyheter/ni-saret-i-luftangrep-i-jemen_-ifolge-houthiene-1.18083317",
+      "category": "Jemen",
+      "pubDate": "Tue, 17 Nov 2026 08:54:16 GMT"
+    },
+    {
+      "title": "Kun 10 prosent fikk bedre råd i perioden 2019-2024, ifølge Agenda-beregning",
+      "link": "https://www.nrk.no/nyheter/kun-10-prosent-fikk-bedre-rad-i-perioden-2019-2024_-ifolge-agenda-beregning-1.18083268",
+      "category": "Norsk økonomi",
+      "pubDate": "Tue, 17 Nov 2026 08:45:25 GMT"
+    },
+    {
+      "title": "Iran har angrepet Bahrain",
+      "link": "https://www.nrk.no/nyheter/iran-har-angrepet-bahrain-1.18083266",
+      "category": "Bahrain",
+      "pubDate": "Tue, 17 Nov 2026 07:54:03 GMT"
+    },
+    {
+      "title": "Norge og Tyskland sponser nye amerikanske våpen til Ukraina",
+      "link": "https://www.nrk.no/nyheter/norge-og-tyskland-sponser-nye-amerikanske-vapen-til-ukraina-1.18083249",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 17 Nov 2026 07:51:18 GMT"
+    },
+    {
+      "title": "Deler av broen til Krym-halvøya har kollapset, ifølge Ukraina",
+      "link": "https://www.nrk.no/nyheter/deler-av-broen-til-krym-halvoya-har-kollapset_-ifolge-ukraina-1.18083244",
       "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 16 Nov 2026 23:20:36 GMT"
+      "pubDate": "Tue, 17 Nov 2026 07:43:32 GMT"
     },
     {
-      "title": "Nye samtaler mellom Ukraina, USA og EU",
-      "link": "https://www.nrk.no/nyheter/nye-samtaler-mellom-ukraina_-usa-og-eu--1.18083063",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 16 Nov 2026 18:45:15 GMT"
-    },
-    {
-      "title": "Trump: Møter kanskje Kim Jong-un i Kina",
-      "link": "https://www.nrk.no/nyheter/trump_-moter-kanskje-kim-jong-un-i-kina-1.18082866",
-      "category": "Donald Trump",
-      "pubDate": "Mon, 16 Nov 2026 14:49:37 GMT"
-    },
-    {
-      "title": "Rapport: Mange dødsulykker i anleggsbransjen",
-      "link": "https://www.nrk.no/nyheter/rapport_-mange-dodsulykker-i-anleggsbransjen-1.18082844",
-      "category": "Arbeidsulykker",
-      "pubDate": "Mon, 16 Nov 2026 13:10:12 GMT"
-    },
-    {
-      "title": "DNBs IT-problemer",
-      "link": "https://www.nrk.no/nyheter/dnbs-it-problemer-1.18082819",
-      "category": "DNB",
-      "pubDate": "Mon, 16 Nov 2026 12:56:05 GMT"
-    },
-    {
-      "title": "Nye, amerikanske KI-restriksjoner nevner ikke Norge",
-      "link": "https://www.nrk.no/nyheter/nye_-amerikanske-ki-restriksjoner-nevner-ikke-norge-1.18082723",
-      "category": "Kunstig intelligens",
-      "pubDate": "Mon, 16 Nov 2026 12:33:06 GMT"
+      "title": "Snittalderen for norske foreldre fortsetter å øke",
+      "link": "https://www.nrk.no/nyheter/snittalderen-for-norske-foreldre-fortsetter-a-oke-1.18083239",
+      "category": "Svangerskap og fødsel",
+      "pubDate": "Tue, 17 Nov 2026 07:37:31 GMT"
     }
   ]
 }
