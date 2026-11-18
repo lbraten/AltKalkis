@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-11-17T18:26:48.439Z",
+  "updatedAt": "2026-11-18T01:11:21.099Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Nvidia: Ingen planer om å gjeninnsette Huang",
+      "link": "https://www.nrk.no/nyheter/nvidia_-ingen-planer-om-a-gjeninnsette-huang-1.18083946",
+      "category": "USA",
+      "pubDate": "Tue, 17 Nov 2026 22:24:02 GMT"
+    },
+    {
+      "title": "Amerikanske angrep på iransk øy",
+      "link": "https://www.nrk.no/nyheter/amerikanske-angrep-pa-iransk-oy-1.18083902",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Tue, 17 Nov 2026 20:01:33 GMT"
+    },
+    {
+      "title": "Grønland kutter i danskundervisning",
+      "link": "https://www.nrk.no/nyheter/gronland-kutter-i-danskundervisning--1.18083865",
+      "category": "Grønland",
+      "pubDate": "Tue, 17 Nov 2026 19:47:21 GMT"
+    },
+    {
+      "title": "Nytt tilfelle av fugleinfluensa i Lindesnes",
+      "link": "https://www.nrk.no/nyheter/nytt-tilfelle-av-fugleinfluensa-i-lindesnes-1.18083843",
+      "category": "Fugleinfluensa",
+      "pubDate": "Tue, 17 Nov 2026 18:30:11 GMT"
+    },
     {
       "title": "Pågående cyberangrep mot Equinor",
       "link": "https://www.nrk.no/nyheter/pagaende-cyberangrep-mot-equinor-1.18083829",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/moldova-stenger-luftrommet-1.18083784",
       "category": "Moldova",
       "pubDate": "Tue, 17 Nov 2026 17:32:16 GMT"
-    },
-    {
-      "title": "Jensen Huang åpen for comeback",
-      "link": "https://www.nrk.no/nyheter/jensen-huang-apen-for-comeback-1.18083780",
-      "category": "USA",
-      "pubDate": "Tue, 17 Nov 2026 16:01:09 GMT"
-    },
-    {
-      "title": "Militært transportfly styrtet i Russland",
-      "link": "https://www.nrk.no/nyheter/militaert-transportfly-styrtet-i-russland-1.18083776",
-      "category": "Russland",
-      "pubDate": "Tue, 17 Nov 2026 15:43:43 GMT"
-    },
-    {
-      "title": "EU med kritikk av Norge",
-      "link": "https://www.nrk.no/nyheter/eu-med-kritikk-av-norge-1.18083743",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Tue, 17 Nov 2026 15:25:41 GMT"
-    },
-    {
-      "title": "Jensen Huang stiller til høyring i Kongressen",
-      "link": "https://www.nrk.no/nyheter/jensen-huang-stiller-til-hoyring-i-kongressen-1.18083749",
-      "category": "USA",
-      "pubDate": "Tue, 17 Nov 2026 15:21:13 GMT"
     }
   ]
 }
