@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-18T01:11:21.099Z",
+  "updatedAt": "2026-11-18T08:56:03.453Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Brenna: Det som skjer med Posten, gjør vondt",
+      "link": "https://www.nrk.no/nyheter/brenna_-det-som-skjer-med-posten_-gjor-vondt-1.18084059",
+      "category": "Statsbudsjettet 2027",
+      "pubDate": "Wed, 18 Nov 2026 08:37:36 GMT"
+    },
+    {
+      "title": "Dømt til 27 års fengsel for drapsplaner i USA",
+      "link": "https://www.nrk.no/nyheter/domt-til-27-ars-fengsel-for-drapsplaner-i-usa-1.18083993",
+      "category": "USA",
+      "pubDate": "Wed, 18 Nov 2026 06:01:20 GMT"
+    },
+    {
+      "title": "Bahrain: Har avskåret iranske luftangrep",
+      "link": "https://www.nrk.no/nyheter/bahrain_-har-avskaret-iranske-luftangrep-1.18083947",
+      "category": "Bahrain",
+      "pubDate": "Wed, 18 Nov 2026 01:41:33 GMT"
+    },
     {
       "title": "Nvidia: Ingen planer om å gjeninnsette Huang",
       "link": "https://www.nrk.no/nyheter/nvidia_-ingen-planer-om-a-gjeninnsette-huang-1.18083946",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/gronland-kutter-i-danskundervisning--1.18083865",
       "category": "Grønland",
       "pubDate": "Tue, 17 Nov 2026 19:47:21 GMT"
-    },
-    {
-      "title": "Nytt tilfelle av fugleinfluensa i Lindesnes",
-      "link": "https://www.nrk.no/nyheter/nytt-tilfelle-av-fugleinfluensa-i-lindesnes-1.18083843",
-      "category": "Fugleinfluensa",
-      "pubDate": "Tue, 17 Nov 2026 18:30:11 GMT"
-    },
-    {
-      "title": "Pågående cyberangrep mot Equinor",
-      "link": "https://www.nrk.no/nyheter/pagaende-cyberangrep-mot-equinor-1.18083829",
-      "category": "Equinor",
-      "pubDate": "Tue, 17 Nov 2026 18:05:21 GMT"
-    },
-    {
-      "title": "Moldova stenger luftrommet",
-      "link": "https://www.nrk.no/nyheter/moldova-stenger-luftrommet-1.18083784",
-      "category": "Moldova",
-      "pubDate": "Tue, 17 Nov 2026 17:32:16 GMT"
     }
   ]
 }
