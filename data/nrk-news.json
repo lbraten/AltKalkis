@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-18T17:53:14.888Z",
+  "updatedAt": "2026-11-18T23:59:12.991Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Medier: Anthropic-aksjen prises til 83 dollar",
+      "link": "https://www.nrk.no/nyheter/medier_-anthropic-aksjen-prises-til-83-dollar-1.18084614",
+      "category": "Kunstig intelligens",
+      "pubDate": "Wed, 18 Nov 2026 22:04:32 GMT"
+    },
+    {
+      "title": "Bustadhus brenn i Tvedestrand",
+      "link": "https://www.nrk.no/nyheter/bustadhus-brenn-i-tvedestrand-1.18084510",
+      "category": "Politiloggen i Agder",
+      "pubDate": "Wed, 18 Nov 2026 20:40:50 GMT"
+    },
+    {
+      "title": "MDG frustrert over budsjettforhandlingene",
+      "link": "https://www.nrk.no/nyheter/mdg-frustrert-over-budsjettforhandlingene-1.18084532",
+      "category": "NRK Nyheter",
+      "pubDate": "Wed, 18 Nov 2026 19:24:54 GMT"
+    },
     {
       "title": "Tre funnet døde i Danmark",
       "link": "https://www.nrk.no/nyheter/tre-funnet-dode-i-danmark-1.18084501",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/store-hyller-solbakken-1.18084461",
       "category": "Landslaget i fotball, menn",
       "pubDate": "Wed, 18 Nov 2026 15:45:57 GMT"
-    },
-    {
-      "title": "«Fossilpris» til Norge på klimatoppmøtet",
-      "link": "https://www.nrk.no/nyheter/_fossilpris_-til-norge-pa-klimatoppmotet-1.18084446",
-      "category": "Klima og miljø",
-      "pubDate": "Wed, 18 Nov 2026 15:14:33 GMT"
-    },
-    {
-      "title": "Israel med ny offensiv – tre drept",
-      "link": "https://www.nrk.no/nyheter/israel-med-ny-offensiv-_-tre-drept-1.18084431",
-      "category": "Krigen i Gaza",
-      "pubDate": "Wed, 18 Nov 2026 14:43:35 GMT"
-    },
-    {
-      "title": "«GTA» sender selskap i veret",
-      "link": "https://www.nrk.no/nyheter/_gta_-sender-selskap-i-veret-1.18084425",
-      "category": "Dataspill",
-      "pubDate": "Wed, 18 Nov 2026 14:41:16 GMT"
     }
   ]
 }
