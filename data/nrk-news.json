@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-19T16:43:14.974Z",
+  "updatedAt": "2026-11-19T23:25:56.289Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Tusk: Tvilar på at Russland vil forhandle med Ukraina før vinteren er over",
-      "link": "https://www.nrk.no/nyheter/tusk_-tvilar-pa-at-russland-vil-forhandle-med-ukraina-for-vinteren-er-over-1.18085355",
+      "title": "Domstol nektar Erdogans rival å stille til presidentkandidat",
+      "link": "https://www.nrk.no/nyheter/domstol-nektar-erdogans-rival-a-stille-til-presidentkandidat-1.18085462",
+      "category": "Tyrkia",
+      "pubDate": "Thu, 19 Nov 2026 20:51:47 GMT"
+    },
+    {
+      "title": "Norwegian ber 5000 kundar sperre bankkortet etter datainnbrot",
+      "link": "https://www.nrk.no/nyheter/norwegian-ber-5000-kundar-sperre-bankkortet-etter-datainnbrot-1.18085456",
+      "category": "Flyselskapet Norwegian",
+      "pubDate": "Thu, 19 Nov 2026 19:58:32 GMT"
+    },
+    {
+      "title": "Ambassader i Kyiv rammet i russiske angrep",
+      "link": "https://www.nrk.no/nyheter/ambassader-i-kyiv-rammet-i-russiske-angrep-1.18085387",
       "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 19 Nov 2026 16:42:05 GMT"
+      "pubDate": "Thu, 19 Nov 2026 19:44:49 GMT"
     },
     {
-      "title": "Melding om skot i Balsfjord",
-      "link": "https://www.nrk.no/nyheter/melding-om-skot-i-balsfjord-1.18085354",
+      "title": "Dommar forlengjer stansen av bygginga av Trumps triumfboge",
+      "link": "https://www.nrk.no/nyheter/dommar-forlengjer-stansen-av-bygginga-av-trumps-triumfboge-1.18085380",
+      "category": "Donald Trump",
+      "pubDate": "Thu, 19 Nov 2026 17:23:43 GMT"
+    },
+    {
+      "title": "Støre om toppmøte i Kina: – Fotohøve",
+      "link": "https://www.nrk.no/nyheter/store-om-toppmote-i-kina_-_-fotohove-1.18085363",
       "category": "NRK Nyheter",
-      "pubDate": "Thu, 19 Nov 2026 16:33:41 GMT"
+      "pubDate": "Thu, 19 Nov 2026 17:11:13 GMT"
     },
     {
-      "title": "Oljefondet selger eiendom i Sveits – drar inn 9,8 milliarder kroner",
-      "link": "https://www.nrk.no/nyheter/oljefondet-selger-eiendom-i-sveits-_-drar-inn-9_8-milliarder-kroner-1.18085339",
-      "category": "Oljefondet",
-      "pubDate": "Thu, 19 Nov 2026 16:29:12 GMT"
-    },
-    {
-      "title": "Ny person sikta i spionsak på Andøya",
-      "link": "https://www.nrk.no/nyheter/ny-person-sikta-i-spionsak-pa-andoya-1.18085313",
-      "category": "PST",
-      "pubDate": "Thu, 19 Nov 2026 15:59:34 GMT"
-    },
-    {
-      "title": "Høgsterett forkastar anken til Frogner-kvinna",
-      "link": "https://www.nrk.no/nyheter/hogsterett-forkastar-anken-til-frogner-kvinna-1.18085307",
-      "category": "Straffesaken mot Marius Borg Høiby",
-      "pubDate": "Thu, 19 Nov 2026 15:33:08 GMT"
-    },
-    {
-      "title": "Nasdaq steig før børsnotering av Anthropic",
-      "link": "https://www.nrk.no/nyheter/nasdaq-steig-for-borsnotering-av-anthropic-1.18085266",
-      "category": "Kunstig intelligens",
-      "pubDate": "Thu, 19 Nov 2026 14:48:27 GMT"
+      "title": "Trump kjøpte Nvidia-aksjer for flere millioner kroner i september",
+      "link": "https://www.nrk.no/nyheter/trump-kjopte-nvidia-aksjer-for-flere-millioner-kroner-i-september-1.18085362",
+      "category": "Donald Trump",
+      "pubDate": "Thu, 19 Nov 2026 16:42:50 GMT"
     }
   ]
 }
