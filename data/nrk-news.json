@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-20T13:27:13.342Z",
+  "updatedAt": "2026-11-20T21:27:34.370Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "NSM: Equinor-angrep var rettet mot Microsoft-tjeneste",
+      "link": "https://www.nrk.no/nyheter/nsm_-equinor-angrep-var-rettet-mot-microsoft-tjeneste-1.18086099",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 20 Nov 2026 17:03:22 GMT"
+    },
+    {
+      "title": "Kongen inviterer til takkekonsert etter kong Haralds gravferd",
+      "link": "https://www.nrk.no/nyheter/kongen-inviterer-til-takkekonsert-etter-kong-haralds-gravferd-1.18086069",
+      "category": "Kongefamilien",
+      "pubDate": "Fri, 20 Nov 2026 15:49:37 GMT"
+    },
+    {
+      "title": "Klimatoppmøtet på overtid",
+      "link": "https://www.nrk.no/nyheter/klimatoppmotet-pa-overtid-1.18086029",
+      "category": "Klima og miljø",
+      "pubDate": "Fri, 20 Nov 2026 14:49:30 GMT"
+    },
+    {
+      "title": "Anthropic stuper dagen etter børsnotering",
+      "link": "https://www.nrk.no/nyheter/anthropic-stuper-dagen-etter-borsnotering-1.18086018",
+      "category": "Uro på børsene",
+      "pubDate": "Fri, 20 Nov 2026 14:45:50 GMT"
+    },
+    {
+      "title": "Kreml inviterer europeiske land til Ukraina-samtaler",
+      "link": "https://www.nrk.no/nyheter/kreml-inviterer-europeiske-land-til-ukraina-samtaler-1.18085960",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 20 Nov 2026 14:17:51 GMT"
+    },
     {
       "title": "Frankrike vil kalle inn sikkerhetsrådet etter Kyiv-angrep",
       "link": "https://www.nrk.no/nyheter/frankrike-vil-kalle-inn-sikkerhetsradet-etter-kyiv-angrep-1.18085830",
       "category": "Krigen i Ukraina",
       "pubDate": "Fri, 20 Nov 2026 11:55:31 GMT"
-    },
-    {
-      "title": "Barn påkjørt i Stavanger",
-      "link": "https://www.nrk.no/nyheter/barn-pakjort-i-stavanger-1.18085816",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 20 Nov 2026 11:43:21 GMT"
-    },
-    {
-      "title": "Brann i rekkehus i Stavanger",
-      "link": "https://www.nrk.no/nyheter/brann-i-rekkehus-i-stavanger-1.18085800",
-      "category": "NRK Nyheter",
-      "pubDate": "Fri, 20 Nov 2026 11:31:41 GMT"
-    },
-    {
-      "title": "Houthi-opprørere truer med angrep mot saudiske havner",
-      "link": "https://www.nrk.no/nyheter/houthi-opprorere-truer-med-angrep-mot-saudiske-havner-1.18085771",
-      "category": "Jemen",
-      "pubDate": "Fri, 20 Nov 2026 11:19:46 GMT"
-    },
-    {
-      "title": "Støre har brukt privatfly 14 ganger til nå i år",
-      "link": "https://www.nrk.no/nyheter/store-har-brukt-privatfly-14-ganger-til-na-i-ar-1.18085776",
-      "category": "Støre-regjeringen",
-      "pubDate": "Fri, 20 Nov 2026 11:03:17 GMT"
-    },
-    {
-      "title": "Regjeringen vil investere i luftvernraketter",
-      "link": "https://www.nrk.no/nyheter/regjeringen-vil-investere-i-luftvernraketter-1.18085748",
-      "category": "Det norske Forsvaret",
-      "pubDate": "Fri, 20 Nov 2026 11:00:00 GMT"
     }
   ]
 }
