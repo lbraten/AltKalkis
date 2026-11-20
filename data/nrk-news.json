@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-19T23:25:56.289Z",
+  "updatedAt": "2026-11-20T04:11:13.023Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "El Salvadors president stiller til valg – igjen",
+      "link": "https://www.nrk.no/nyheter/el-salvadors-president-stiller-til-valg-_-igjen-1.18085499",
+      "category": "El Salvador",
+      "pubDate": "Fri, 20 Nov 2026 03:52:41 GMT"
+    },
+    {
+      "title": "Saudi-Arabia: Har skutt ned houthi-missil",
+      "link": "https://www.nrk.no/nyheter/saudi-arabia_-har-skutt-ned-houthi-missil-1.18085498",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 20 Nov 2026 03:00:34 GMT"
+    },
+    {
+      "title": "Pentagon: Iran-krigen har kostet USA 48 milliarder dollar",
+      "link": "https://www.nrk.no/nyheter/pentagon_-iran-krigen-har-kostet-usa-48-milliarder-dollar-1.18085497",
+      "category": "Forholdet Iran – USA",
+      "pubDate": "Fri, 20 Nov 2026 01:59:24 GMT"
+    },
+    {
+      "title": "Ny henrettelse gjennomført i USA",
+      "link": "https://www.nrk.no/nyheter/ny-henrettelse-gjennomfort-i-usa-1.18085496",
+      "category": "USA",
+      "pubDate": "Fri, 20 Nov 2026 00:12:30 GMT"
+    },
+    {
+      "title": "NTB: Menneskerettsdomstol avviste klage fra Nav-ofre",
+      "link": "https://www.nrk.no/nyheter/ntb_-menneskerettsdomstol-avviste-klage-fra-nav-ofre-1.18085490",
+      "category": "Nav-skandalen",
+      "pubDate": "Thu, 19 Nov 2026 23:59:01 GMT"
+    },
     {
       "title": "Domstol nektar Erdogans rival å stille til presidentkandidat",
       "link": "https://www.nrk.no/nyheter/domstol-nektar-erdogans-rival-a-stille-til-presidentkandidat-1.18085462",
       "category": "Tyrkia",
       "pubDate": "Thu, 19 Nov 2026 20:51:47 GMT"
-    },
-    {
-      "title": "Norwegian ber 5000 kundar sperre bankkortet etter datainnbrot",
-      "link": "https://www.nrk.no/nyheter/norwegian-ber-5000-kundar-sperre-bankkortet-etter-datainnbrot-1.18085456",
-      "category": "Flyselskapet Norwegian",
-      "pubDate": "Thu, 19 Nov 2026 19:58:32 GMT"
-    },
-    {
-      "title": "Ambassader i Kyiv rammet i russiske angrep",
-      "link": "https://www.nrk.no/nyheter/ambassader-i-kyiv-rammet-i-russiske-angrep-1.18085387",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 19 Nov 2026 19:44:49 GMT"
-    },
-    {
-      "title": "Dommar forlengjer stansen av bygginga av Trumps triumfboge",
-      "link": "https://www.nrk.no/nyheter/dommar-forlengjer-stansen-av-bygginga-av-trumps-triumfboge-1.18085380",
-      "category": "Donald Trump",
-      "pubDate": "Thu, 19 Nov 2026 17:23:43 GMT"
-    },
-    {
-      "title": "Støre om toppmøte i Kina: – Fotohøve",
-      "link": "https://www.nrk.no/nyheter/store-om-toppmote-i-kina_-_-fotohove-1.18085363",
-      "category": "NRK Nyheter",
-      "pubDate": "Thu, 19 Nov 2026 17:11:13 GMT"
-    },
-    {
-      "title": "Trump kjøpte Nvidia-aksjer for flere millioner kroner i september",
-      "link": "https://www.nrk.no/nyheter/trump-kjopte-nvidia-aksjer-for-flere-millioner-kroner-i-september-1.18085362",
-      "category": "Donald Trump",
-      "pubDate": "Thu, 19 Nov 2026 16:42:50 GMT"
     }
   ]
 }
