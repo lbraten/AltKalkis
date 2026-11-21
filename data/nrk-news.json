@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-21T10:44:07.742Z",
+  "updatedAt": "2026-11-21T17:53:56.751Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Klimaministeren utsetter hjemreise fra klimatoppmøtet",
+      "link": "https://www.nrk.no/nyheter/klimaministeren-utsetter-hjemreise-fra-klimatoppmotet-1.18086369",
+      "category": "Klima og miljø",
+      "pubDate": "Sat, 21 Nov 2026 16:51:58 GMT"
+    },
+    {
+      "title": "ID-porten hadde problemer etter dataangrep",
+      "link": "https://www.nrk.no/nyheter/id-porten-hadde-problemer-etter-dataangrep-1.18086360",
+      "category": "NRK Nyheter",
+      "pubDate": "Sat, 21 Nov 2026 13:47:26 GMT"
+    },
     {
       "title": "Kapteinen på Costa Concordia løslates",
       "link": "https://www.nrk.no/nyheter/kapteinen-pa-costa-concordia-loslates-1.18086307",
@@ -25,18 +37,6 @@
       "link": "https://www.nrk.no/nyheter/derfor-er-klementinene-misfarget-i-ar-1.18086252",
       "category": "NRK Nyheter",
       "pubDate": "Sat, 21 Nov 2026 09:22:55 GMT"
-    },
-    {
-      "title": "Dronealarm i Finland og Estland – Nato-fly på vingene",
-      "link": "https://www.nrk.no/nyheter/dronealarm-i-finland-og-estland-_-nato-fly-pa-vingene-1.18086223",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sat, 21 Nov 2026 08:33:22 GMT"
-    },
-    {
-      "title": "Tankskip truffet av ukjent objekt i Hormuzstredet",
-      "link": "https://www.nrk.no/nyheter/tankskip-truffet-av-ukjent-objekt-i-hormuzstredet-1.18086215",
-      "category": "Iran",
-      "pubDate": "Sat, 21 Nov 2026 07:48:15 GMT"
     }
   ]
 }
