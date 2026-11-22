@@ -1,10 +1,34 @@
 {
-  "updatedAt": "2026-11-22T02:52:05.482Z",
+  "updatedAt": "2026-11-22T10:50:18.350Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Mange savnet etter fabrikkbrann i Indonesia",
-      "link": "https://www.nrk.no/nyheter/mange-savnet-etter-fabrikkbrann-i-indonesia-1.18086532",
+      "title": "Budsjettforhandlingene gjenopptas nå",
+      "link": "https://www.nrk.no/nyheter/budsjettforhandlingene-gjenopptas-na-1.18086570",
+      "category": "Statsbudsjettet 2027",
+      "pubDate": "Sun, 22 Nov 2026 08:13:16 GMT"
+    },
+    {
+      "title": "Tre bilbranner i Oslo – kan være påsatt",
+      "link": "https://www.nrk.no/nyheter/tre-bilbranner-i-oslo-_-kan-vaere-pasatt-1.18086540",
+      "category": "NRK Nyheter",
+      "pubDate": "Sun, 22 Nov 2026 05:27:33 GMT"
+    },
+    {
+      "title": "Bahrain: Iran har angrepet industrianlegg",
+      "link": "https://www.nrk.no/nyheter/bahrain_-iran-har-angrepet-industrianlegg-1.18086539",
+      "category": "Iran",
+      "pubDate": "Sun, 22 Nov 2026 05:21:52 GMT"
+    },
+    {
+      "title": "Eisenkot inviterer Likud til samtaler",
+      "link": "https://www.nrk.no/nyheter/eisenkot-inviterer-likud-til-samtaler-1.18086533",
+      "category": "Israel",
+      "pubDate": "Sun, 22 Nov 2026 04:29:23 GMT"
+    },
+    {
+      "title": "Tre personer døde og 36 savnet i Indonesia",
+      "link": "https://www.nrk.no/nyheter/tre-personer-dode-og-36-savnet-i-indonesia-1.18086532",
       "category": "Indonesia",
       "pubDate": "Sun, 22 Nov 2026 02:27:16 GMT"
     },
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/klimatoppmotet-fortsetter-sondag-1.18086531",
       "category": "Klima og miljø",
       "pubDate": "Sun, 22 Nov 2026 00:10:10 GMT"
-    },
-    {
-      "title": "Brann i hus i Bømlo",
-      "link": "https://www.nrk.no/nyheter/brann-i-hus-i-bomlo-1.18086519",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Sat, 21 Nov 2026 23:50:17 GMT"
-    },
-    {
-      "title": "Klimaministeren utsetter hjemreise fra klimatoppmøtet",
-      "link": "https://www.nrk.no/nyheter/klimaministeren-utsetter-hjemreise-fra-klimatoppmotet-1.18086369",
-      "category": "Klima og miljø",
-      "pubDate": "Sat, 21 Nov 2026 16:51:58 GMT"
-    },
-    {
-      "title": "ID-porten hadde problemer etter dataangrep",
-      "link": "https://www.nrk.no/nyheter/id-porten-hadde-problemer-etter-dataangrep-1.18086360",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 21 Nov 2026 13:47:26 GMT"
-    },
-    {
-      "title": "Kapteinen på Costa Concordia løslates",
-      "link": "https://www.nrk.no/nyheter/kapteinen-pa-costa-concordia-loslates-1.18086307",
-      "category": "Rettssak mot Costa Concordia-kaptein",
-      "pubDate": "Sat, 21 Nov 2026 10:30:59 GMT"
     }
   ]
 }
