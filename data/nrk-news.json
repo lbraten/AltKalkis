@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-21T22:52:08.376Z",
+  "updatedAt": "2026-11-22T02:52:05.482Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Mange savnet etter fabrikkbrann i Indonesia",
+      "link": "https://www.nrk.no/nyheter/mange-savnet-etter-fabrikkbrann-i-indonesia-1.18086532",
+      "category": "Indonesia",
+      "pubDate": "Sun, 22 Nov 2026 02:27:16 GMT"
+    },
+    {
+      "title": "Klimatoppmøtet fortsetter søndag",
+      "link": "https://www.nrk.no/nyheter/klimatoppmotet-fortsetter-sondag-1.18086531",
+      "category": "Klima og miljø",
+      "pubDate": "Sun, 22 Nov 2026 00:10:10 GMT"
+    },
+    {
+      "title": "Brann i hus i Bømlo",
+      "link": "https://www.nrk.no/nyheter/brann-i-hus-i-bomlo-1.18086519",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Sat, 21 Nov 2026 23:50:17 GMT"
+    },
     {
       "title": "Klimaministeren utsetter hjemreise fra klimatoppmøtet",
       "link": "https://www.nrk.no/nyheter/klimaministeren-utsetter-hjemreise-fra-klimatoppmotet-1.18086369",
@@ -19,24 +37,6 @@
       "link": "https://www.nrk.no/nyheter/kapteinen-pa-costa-concordia-loslates-1.18086307",
       "category": "Rettssak mot Costa Concordia-kaptein",
       "pubDate": "Sat, 21 Nov 2026 10:30:59 GMT"
-    },
-    {
-      "title": "EU foreslår skatt på tek-gigantene",
-      "link": "https://www.nrk.no/nyheter/eu-foreslar-skatt-pa-tek-gigantene-1.18086289",
-      "category": "Den europeiske union (EU)",
-      "pubDate": "Sat, 21 Nov 2026 10:26:01 GMT"
-    },
-    {
-      "title": "Glatte veier: Alvorlig ulykke i Møre og Romsdal",
-      "link": "https://www.nrk.no/nyheter/glatte-veier_-alvorlig-ulykke-i-more-og-romsdal-1.18086271",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 21 Nov 2026 09:40:53 GMT"
-    },
-    {
-      "title": "Derfor er klementinene misfarget i år",
-      "link": "https://www.nrk.no/nyheter/derfor-er-klementinene-misfarget-i-ar-1.18086252",
-      "category": "NRK Nyheter",
-      "pubDate": "Sat, 21 Nov 2026 09:22:55 GMT"
     }
   ]
 }
