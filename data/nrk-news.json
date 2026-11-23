@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-11-22T23:44:34.386Z",
+  "updatedAt": "2026-11-23T06:20:31.187Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Minst 24 omkom i fabrikkbrann i Indonesia",
+      "link": "https://www.nrk.no/nyheter/minst-24-omkom-i-fabrikkbrann-i-indonesia-1.18086856",
+      "category": "Indonesia",
+      "pubDate": "Mon, 23 Nov 2026 03:59:44 GMT"
+    },
+    {
+      "title": "12 evakuert etter kjellerbrann i Trondheim",
+      "link": "https://www.nrk.no/nyheter/12-evakuert-etter-kjellerbrann-i-trondheim-1.18086855",
+      "category": "Nyhetssenter Trøndelag",
+      "pubDate": "Mon, 23 Nov 2026 02:59:54 GMT"
+    },
+    {
+      "title": "Førde: Person til sykehus etter knivhendelse",
+      "link": "https://www.nrk.no/nyheter/forde_-person-til-sykehus-etter-knivhendelse-1.18086853",
+      "category": "Nyhetssenter Vestland",
+      "pubDate": "Mon, 23 Nov 2026 00:59:41 GMT"
+    },
+    {
+      "title": "Danmark: 120 avviste asylsøkere kan sendes til Rwanda",
+      "link": "https://www.nrk.no/nyheter/danmark_-120-avviste-asylsokere-kan-sendes-til-rwanda-1.18086852",
+      "category": "Danmark",
+      "pubDate": "Sun, 22 Nov 2026 23:48:27 GMT"
+    },
     {
       "title": "Budsjettforhandlingene: Venter på skisse fra Ap",
       "link": "https://www.nrk.no/nyheter/budsjettforhandlingene_-venter-pa-skisse-fra-ap-1.18086707",
@@ -13,30 +37,6 @@
       "link": "https://www.nrk.no/nyheter/mann-siktet-for-drapsforsok-i-arendal-1.18086690",
       "category": "NRK Nyheter",
       "pubDate": "Sun, 22 Nov 2026 15:06:26 GMT"
-    },
-    {
-      "title": "Usman Mushtaq og Birgit Skarstein valgt på topp for Oslo Ap",
-      "link": "https://www.nrk.no/nyheter/usman-mushtaq-og-birgit-skarstein-valgt-pa-topp-for-oslo-ap-1.18086676",
-      "category": "Politikk i Oslo",
-      "pubDate": "Sun, 22 Nov 2026 14:28:47 GMT"
-    },
-    {
-      "title": "Libyske myndigheter: Mistenker droneangrep mot russisk skip",
-      "link": "https://www.nrk.no/nyheter/libyske-myndigheter_-mistenker-droneangrep-mot-russisk-skip-1.18086672",
-      "category": "Russland",
-      "pubDate": "Sun, 22 Nov 2026 13:52:56 GMT"
-    },
-    {
-      "title": "Pågrepet med et kvart tonn eksplosiver",
-      "link": "https://www.nrk.no/nyheter/pagrepet-med-et-kvart-tonn-eksplosiver-1.18086571",
-      "category": "Libanon",
-      "pubDate": "Sun, 22 Nov 2026 12:20:34 GMT"
-    },
-    {
-      "title": "Det brenner fremdeles i russisk skip",
-      "link": "https://www.nrk.no/nyheter/det-brenner-fremdeles-i-russisk-skip-1.18086636",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Sun, 22 Nov 2026 12:14:50 GMT"
     }
   ]
 }
