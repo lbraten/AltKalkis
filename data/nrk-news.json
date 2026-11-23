@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-23T06:20:31.187Z",
+  "updatedAt": "2026-11-23T18:38:14.739Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Minst 24 omkom i fabrikkbrann i Indonesia",
-      "link": "https://www.nrk.no/nyheter/minst-24-omkom-i-fabrikkbrann-i-indonesia-1.18086856",
-      "category": "Indonesia",
-      "pubDate": "Mon, 23 Nov 2026 03:59:44 GMT"
-    },
-    {
-      "title": "12 evakuert etter kjellerbrann i Trondheim",
-      "link": "https://www.nrk.no/nyheter/12-evakuert-etter-kjellerbrann-i-trondheim-1.18086855",
-      "category": "Nyhetssenter Trøndelag",
-      "pubDate": "Mon, 23 Nov 2026 02:59:54 GMT"
-    },
-    {
-      "title": "Førde: Person til sykehus etter knivhendelse",
-      "link": "https://www.nrk.no/nyheter/forde_-person-til-sykehus-etter-knivhendelse-1.18086853",
-      "category": "Nyhetssenter Vestland",
-      "pubDate": "Mon, 23 Nov 2026 00:59:41 GMT"
-    },
-    {
-      "title": "Danmark: 120 avviste asylsøkere kan sendes til Rwanda",
-      "link": "https://www.nrk.no/nyheter/danmark_-120-avviste-asylsokere-kan-sendes-til-rwanda-1.18086852",
-      "category": "Danmark",
-      "pubDate": "Sun, 22 Nov 2026 23:48:27 GMT"
-    },
-    {
-      "title": "Budsjettforhandlingene: Venter på skisse fra Ap",
-      "link": "https://www.nrk.no/nyheter/budsjettforhandlingene_-venter-pa-skisse-fra-ap-1.18086707",
-      "category": "Støre-regjeringen",
-      "pubDate": "Sun, 22 Nov 2026 18:15:47 GMT"
-    },
-    {
-      "title": "Mann siktet for drapsforsøk i Arendal",
-      "link": "https://www.nrk.no/nyheter/mann-siktet-for-drapsforsok-i-arendal-1.18086690",
+      "title": "Fiskefartøy i nød i Nordsjøen",
+      "link": "https://www.nrk.no/nyheter/fiskefartoy-i-nod-i-nordsjoen-1.18087346",
       "category": "NRK Nyheter",
-      "pubDate": "Sun, 22 Nov 2026 15:06:26 GMT"
+      "pubDate": "Mon, 23 Nov 2026 18:19:54 GMT"
+    },
+    {
+      "title": "Estland benekter anklager om at Ukraina får bruke estisk luftrom til angrep mot Russland",
+      "link": "https://www.nrk.no/nyheter/estland-benekter-anklager-om-at-ukraina-far-bruke-estisk-luftrom-til-angrep-mot-russland-1.18087302",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Mon, 23 Nov 2026 15:10:22 GMT"
+    },
+    {
+      "title": "EU med ny sanksjonspakke mot Russland",
+      "link": "https://www.nrk.no/nyheter/eu-med-ny-sanksjonspakke-mot-russland-1.18087262",
+      "category": "Russland",
+      "pubDate": "Mon, 23 Nov 2026 15:04:57 GMT"
+    },
+    {
+      "title": "Nytt dataangrep mot ID-porten – ustabilitet i tjenesten",
+      "link": "https://www.nrk.no/nyheter/nytt-dataangrep-mot-id-porten-_-ustabilitet-i-tjenesten-1.18087234",
+      "category": "Dataangrep og hacking",
+      "pubDate": "Mon, 23 Nov 2026 14:19:38 GMT"
+    },
+    {
+      "title": "Jensen Huang gjeninnsettes som toppsjef i Nvidia, opplyser selskapet",
+      "link": "https://www.nrk.no/nyheter/jensen-huang-gjeninnsettes-som-toppsjef-i-nvidia_-opplyser-selskapet-1.18087233",
+      "category": "high",
+      "pubDate": "Mon, 23 Nov 2026 14:00:53 GMT"
+    },
+    {
+      "title": "Hjelpearbeider for FN drept i israelsk angrep på Gazastripen",
+      "link": "https://www.nrk.no/nyheter/hjelpearbeider-for-fn-drept-i-israelsk-angrep-pa-gazastripen-1.18087108",
+      "category": "Krigen i Gaza",
+      "pubDate": "Mon, 23 Nov 2026 12:08:56 GMT"
     }
   ]
 }
