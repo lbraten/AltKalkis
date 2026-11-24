@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-23T18:38:14.739Z",
+  "updatedAt": "2026-11-24T04:12:48.951Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Fiskefartøy i nød i Nordsjøen",
-      "link": "https://www.nrk.no/nyheter/fiskefartoy-i-nod-i-nordsjoen-1.18087346",
+      "title": "Trump møter Nato-sjefen denne veka",
+      "link": "https://www.nrk.no/nyheter/trump-moter-nato-sjefen-denne-veka-1.18087446",
+      "category": "Nato",
+      "pubDate": "Tue, 24 Nov 2026 04:03:10 GMT"
+    },
+    {
+      "title": "Pasient falt flere meter ned i en sjakt på St. Olavs hospital",
+      "link": "https://www.nrk.no/nyheter/pasient-falt-flere-meter-ned-i-en-sjakt-pa-st.-olavs-hospital-1.18087443",
       "category": "NRK Nyheter",
-      "pubDate": "Mon, 23 Nov 2026 18:19:54 GMT"
+      "pubDate": "Tue, 24 Nov 2026 03:21:33 GMT"
     },
     {
-      "title": "Estland benekter anklager om at Ukraina får bruke estisk luftrom til angrep mot Russland",
-      "link": "https://www.nrk.no/nyheter/estland-benekter-anklager-om-at-ukraina-far-bruke-estisk-luftrom-til-angrep-mot-russland-1.18087302",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Mon, 23 Nov 2026 15:10:22 GMT"
+      "title": "Dødsdømt tidligere statsminister for Bangladesh vil hjem",
+      "link": "https://www.nrk.no/nyheter/dodsdomt-tidligere-statsminister-for-bangladesh-vil-hjem-1.18087444",
+      "category": "Bangladesh",
+      "pubDate": "Tue, 24 Nov 2026 03:09:53 GMT"
     },
     {
-      "title": "EU med ny sanksjonspakke mot Russland",
-      "link": "https://www.nrk.no/nyheter/eu-med-ny-sanksjonspakke-mot-russland-1.18087262",
-      "category": "Russland",
-      "pubDate": "Mon, 23 Nov 2026 15:04:57 GMT"
+      "title": "Tyskland: Maskert person angreip partikontor",
+      "link": "https://www.nrk.no/nyheter/tyskland_-maskert-person-angreip-partikontor-1.18087442",
+      "category": "Tyskland",
+      "pubDate": "Tue, 24 Nov 2026 01:43:53 GMT"
     },
     {
-      "title": "Nytt dataangrep mot ID-porten – ustabilitet i tjenesten",
-      "link": "https://www.nrk.no/nyheter/nytt-dataangrep-mot-id-porten-_-ustabilitet-i-tjenesten-1.18087234",
-      "category": "Dataangrep og hacking",
-      "pubDate": "Mon, 23 Nov 2026 14:19:38 GMT"
+      "title": "Nvidia-sjefen tilbake: Vekst på asiatiske børsar frå start",
+      "link": "https://www.nrk.no/nyheter/nvidia-sjefen-tilbake_-vekst-pa-asiatiske-borsar-fra-start-1.18087440",
+      "category": "NRK Nyheter",
+      "pubDate": "Tue, 24 Nov 2026 00:33:35 GMT"
     },
     {
-      "title": "Jensen Huang gjeninnsettes som toppsjef i Nvidia, opplyser selskapet",
-      "link": "https://www.nrk.no/nyheter/jensen-huang-gjeninnsettes-som-toppsjef-i-nvidia_-opplyser-selskapet-1.18087233",
-      "category": "high",
-      "pubDate": "Mon, 23 Nov 2026 14:00:53 GMT"
-    },
-    {
-      "title": "Hjelpearbeider for FN drept i israelsk angrep på Gazastripen",
-      "link": "https://www.nrk.no/nyheter/hjelpearbeider-for-fn-drept-i-israelsk-angrep-pa-gazastripen-1.18087108",
-      "category": "Krigen i Gaza",
-      "pubDate": "Mon, 23 Nov 2026 12:08:56 GMT"
+      "title": "Nytt anslag: 700.000 russiske soldatar mista livet i Ukraina-krigen",
+      "link": "https://www.nrk.no/nyheter/nytt-anslag_-700.000-russiske-soldatar-mista-livet-i-ukraina-krigen-1.18087418",
+      "category": "NRK Nyheter",
+      "pubDate": "Mon, 23 Nov 2026 23:59:25 GMT"
     }
   ]
 }
