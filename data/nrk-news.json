@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-24T04:12:48.951Z",
+  "updatedAt": "2026-11-24T15:08:06.435Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Ingen utsatt frist for de rødgrønne: Må avklare innen onsdag",
+      "link": "https://www.nrk.no/nyheter/ingen-utsatt-frist-for-de-rodgronne_-ma-avklare-innen-onsdag-1.18087741",
+      "category": "high",
+      "pubDate": "Tue, 24 Nov 2026 12:19:39 GMT"
+    },
+    {
+      "title": "Høytstående Hamas-leder blant syv drepte i israelsk angrep i Gaza",
+      "link": "https://www.nrk.no/nyheter/hoytstaende-hamas-leder-blant-syv-drepte-i-israelsk-angrep-i-gaza-1.18087680",
+      "category": "Krigen i Gaza",
+      "pubDate": "Tue, 24 Nov 2026 11:27:50 GMT"
+    },
+    {
+      "title": "Equinor inngår 18-årig gigantavtale om gass med tysk selskap",
+      "link": "https://www.nrk.no/nyheter/equinor-inngar-18-arig-gigantavtale-om-gass-med-tysk-selskap-1.18087465",
+      "category": "Equinor",
+      "pubDate": "Tue, 24 Nov 2026 06:31:24 GMT"
+    },
+    {
+      "title": "Regjeringen: Ukrainas forsvarsminister Jevhenij Khmara er i Norge",
+      "link": "https://www.nrk.no/nyheter/regjeringen_-ukrainas-forsvarsminister-jevhenij-khmara-er-i-norge-1.18087474",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Tue, 24 Nov 2026 06:03:21 GMT"
+    },
+    {
+      "title": "Sør-Korea sende opp jagarfly: Russiske militærfly kom nære",
+      "link": "https://www.nrk.no/nyheter/sor-korea-sende-opp-jagarfly_-russiske-militaerfly-kom-naere-1.18087447",
+      "category": "Sør-Korea",
+      "pubDate": "Tue, 24 Nov 2026 04:23:39 GMT"
+    },
     {
       "title": "Trump møter Nato-sjefen denne veka",
       "link": "https://www.nrk.no/nyheter/trump-moter-nato-sjefen-denne-veka-1.18087446",
       "category": "Nato",
       "pubDate": "Tue, 24 Nov 2026 04:03:10 GMT"
-    },
-    {
-      "title": "Pasient falt flere meter ned i en sjakt på St. Olavs hospital",
-      "link": "https://www.nrk.no/nyheter/pasient-falt-flere-meter-ned-i-en-sjakt-pa-st.-olavs-hospital-1.18087443",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 24 Nov 2026 03:21:33 GMT"
-    },
-    {
-      "title": "Dødsdømt tidligere statsminister for Bangladesh vil hjem",
-      "link": "https://www.nrk.no/nyheter/dodsdomt-tidligere-statsminister-for-bangladesh-vil-hjem-1.18087444",
-      "category": "Bangladesh",
-      "pubDate": "Tue, 24 Nov 2026 03:09:53 GMT"
-    },
-    {
-      "title": "Tyskland: Maskert person angreip partikontor",
-      "link": "https://www.nrk.no/nyheter/tyskland_-maskert-person-angreip-partikontor-1.18087442",
-      "category": "Tyskland",
-      "pubDate": "Tue, 24 Nov 2026 01:43:53 GMT"
-    },
-    {
-      "title": "Nvidia-sjefen tilbake: Vekst på asiatiske børsar frå start",
-      "link": "https://www.nrk.no/nyheter/nvidia-sjefen-tilbake_-vekst-pa-asiatiske-borsar-fra-start-1.18087440",
-      "category": "NRK Nyheter",
-      "pubDate": "Tue, 24 Nov 2026 00:33:35 GMT"
-    },
-    {
-      "title": "Nytt anslag: 700.000 russiske soldatar mista livet i Ukraina-krigen",
-      "link": "https://www.nrk.no/nyheter/nytt-anslag_-700.000-russiske-soldatar-mista-livet-i-ukraina-krigen-1.18087418",
-      "category": "NRK Nyheter",
-      "pubDate": "Mon, 23 Nov 2026 23:59:25 GMT"
     }
   ]
 }
