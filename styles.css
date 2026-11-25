@@ -3364,12 +3364,12 @@ h6 {
     100% { transform: translateY(0); opacity: 1; }
 }
 
-#klokke .clock-widget {
+.clock-widget {
     display: grid;
     gap: 1rem;
 }
 
-#klokke .clock-widget__panel {
+.clock-widget__panel {
     padding: 0.9rem 1rem;
     border-radius: 12px;
     border: 1px solid rgba(var(--color-border), 0.6);
@@ -3378,58 +3378,63 @@ h6 {
     gap: 0.35rem;
 }
 
-#klokke .clock-widget__label {
+.clock-widget__label {
     font-size: 0.78rem;
     text-transform: uppercase;
     letter-spacing: 0.12em;
     color: rgba(var(--color-text-muted), 0.9);
 }
 
-#klokke .clock-widget__display {
+.clock-widget__display {
     font-family: 'Satoshi', sans-serif;
     font-size: 1.7rem;
     letter-spacing: 0.12em;
     color: rgba(var(--color-text-base), 0.95);
 }
 
-#klokke .clock-widget__status {
+.clock-widget__status {
     margin: 0;
 }
 
-#klokke .clock-widget__controls {
+.clock-widget__controls {
     display: grid;
     gap: 0.9rem;
 }
 
-#klokke .clock-widget__row {
+.clock-widget__row {
     display: grid;
     gap: 0.75rem;
 }
 
-#klokke .clock-widget__inline {
+.clock-widget__inline {
     display: grid;
     grid-template-columns: minmax(0, 1fr) auto;
     gap: 0.6rem;
 }
 
-#klokke .clock-widget__buttons {
+.clock-widget__buttons {
     display: flex;
     gap: 0.6rem;
     flex-wrap: wrap;
     align-items: center;
 }
 
-#klokke .clock-widget__controls input[type="number"],
-#klokke .clock-widget__controls input[type="time"] {
+.clock-widget__controls input[type="number"],
+.clock-widget__controls input[type="time"] {
     width: 100%;
 }
 
-#klokke .clock-widget__quick {
+.clock-widget__quick {
     min-width: 72px;
 }
 
+.clock-widget button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
 @media (max-width: 700px) {
-    #klokke .clock-widget__inline {
+    .clock-widget__inline {
         grid-template-columns: 1fr;
     }
 }
@@ -3562,7 +3567,7 @@ a:hover {
 }
 
 .background1 .route-card,
-.background1 #klokke .clock-widget__panel,
+.background1 .clock-widget__panel,
 .background1 .holiday:not(.holiday--next),
 .background1 .nrk-news-item {
     background:

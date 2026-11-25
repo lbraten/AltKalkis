@@ -6682,6 +6682,14 @@ document.addEventListener("DOMContentLoaded", () => {
         updateTrendChartForCoords(Number(lat), Number(lon), { showWeatherNowLoader: true });
     });
 
+    const formatClockDuration = (totalSeconds) => {
+        const safeSeconds = Math.max(0, Math.floor(totalSeconds));
+        const hours = String(Math.floor(safeSeconds / 3600)).padStart(2, "0");
+        const minutes = String(Math.floor((safeSeconds % 3600) / 60)).padStart(2, "0");
+        const seconds = String(safeSeconds % 60).padStart(2, "0");
+        return `${hours}:${minutes}:${seconds}`;
+    };
+
     //nedtelling-widget
     const countdownDisplay = document.getElementById("countdownDisplay");
     const countdownStatus = document.getElementById("countdownStatus");
@@ -6698,20 +6706,12 @@ document.addEventListener("DOMContentLoaded", () => {
         let countdownInterval = null;
         let targetTimestamp = null;
 
-        const formatTid = (totalSekunder) => {
-            const safeSeconds = Math.max(0, Math.floor(totalSekunder));
-            const timer = String(Math.floor(safeSeconds / 3600)).padStart(2, "0");
-            const min = String(Math.floor((safeSeconds % 3600) / 60)).padStart(2, "0");
-            const sek = String(safeSeconds % 60).padStart(2, "0");
-            return `${timer}:${min}:${sek}`;
-        };
-
         const setStatus = (message) => {
             if (countdownStatus) countdownStatus.textContent = message;
         };
 
         const updateDisplay = () => {
-            countdownDisplay.textContent = formatTid(countdownSeconds);
+            countdownDisplay.textContent = formatClockDuration(countdownSeconds);
         };
 
         const stopCountdown = () => {
@@ -6728,11 +6728,8 @@ document.addEventListener("DOMContentLoaded", () => {
         };
 
         const tick = () => {
-            if (targetTimestamp) {
-                countdownSeconds = Math.ceil((targetTimestamp - Date.now()) / 1000);
-            } else {
-                countdownSeconds -= 1;
-            }
+            if (targetTimestamp === null) return;
+            countdownSeconds = Math.ceil((targetTimestamp - Date.now()) / 1000);
 
             if (countdownSeconds <= 0) {
                 finishCountdown();
@@ -6748,18 +6745,22 @@ document.addEventListener("DOMContentLoaded", () => {
                 return;
             }
             stopCountdown();
-            targetTimestamp = nextTargetTimestamp;
-            countdownSeconds = Math.floor(seconds);
+            targetTimestamp = nextTargetTimestamp ?? Date.now() + seconds * 1000;
+            countdownSeconds = Math.ceil(seconds);
             updateDisplay();
             setStatus(statusMessage);
             countdownInterval = setInterval(tick, 1000);
         };
 
         const startFromMinutes = (minutesValue) => {
-            const minutes = Number.isFinite(minutesValue) ? minutesValue : parseFloat(countdownMinutesInput?.value || "");
-            const validMinutes = Number.isFinite(minutes) && minutes > 0 ? minutes : 10;
-            if (countdownMinutesInput) countdownMinutesInput.value = String(validMinutes);
-            startCountdown(validMinutes * 60, `Kjører nedtelling: ${validMinutes} min.`);
+            const quickSelection = Number.isFinite(minutesValue);
+            const minutes = quickSelection ? minutesValue : Number(countdownMinutesInput?.value);
+            if ((!quickSelection && !countdownMinutesInput?.value) || !Number.isSafeInteger(minutes) || minutes <= 0) {
+                setStatus("Velg et helt antall minutter over 0.");
+                return;
+            }
+            if (countdownMinutesInput) countdownMinutesInput.value = String(minutes);
+            startCountdown(minutes * 60, `Kjører nedtelling: ${minutes} min.`);
         };
 
         const startToClockTime = () => {
@@ -6770,7 +6771,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             const [hours, minutes] = timeValue.split(":").map(Number);
-            if (!Number.isInteger(hours) || !Number.isInteger(minutes)) {
+            if (!Number.isInteger(hours) || hours < 0 || hours > 23 || !Number.isInteger(minutes) || minutes < 0 || minutes > 59) {
                 setStatus("Ugyldig klokkeslett.");
                 return;
             }
@@ -6814,7 +6815,163 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         });
 
+        document.addEventListener("visibilitychange", () => {
+            if (!document.hidden && countdownInterval) tick();
+        });
         updateDisplay();
+    }
+
+    const stopwatchDisplay = document.getElementById("stopwatchDisplay");
+    if (stopwatchDisplay) {
+        const status = document.getElementById("stopwatchStatus");
+        const startBtn = document.getElementById("startStopwatchBtn");
+        const pauseBtn = document.getElementById("pauseStopwatchBtn");
+        const resetBtn = document.getElementById("resetStopwatchBtn");
+        let elapsed = 0;
+        let startedAt = null;
+        let interval = null;
+
+        const update = () => {
+            const milliseconds = elapsed + (startedAt === null ? 0 : performance.now() - startedAt);
+            stopwatchDisplay.textContent = `${formatClockDuration(milliseconds / 1000)}.${Math.floor((milliseconds % 1000) / 100)}`;
+        };
+
+        startBtn.addEventListener("click", () => {
+            if (startedAt !== null) return;
+            startedAt = performance.now();
+            interval = setInterval(update, 100);
+            startBtn.disabled = true;
+            pauseBtn.disabled = false;
+            status.textContent = "Stoppeklokken går.";
+            update();
+        });
+
+        pauseBtn.addEventListener("click", () => {
+            if (startedAt === null) return;
+            elapsed += performance.now() - startedAt;
+            startedAt = null;
+            clearInterval(interval);
+            interval = null;
+            startBtn.disabled = false;
+            pauseBtn.disabled = true;
+            startBtn.textContent = "Fortsett";
+            status.textContent = "Stoppet.";
+            update();
+        });
+
+        resetBtn.addEventListener("click", () => {
+            clearInterval(interval);
+            interval = null;
+            elapsed = 0;
+            startedAt = null;
+            startBtn.disabled = false;
+            startBtn.textContent = "Start";
+            pauseBtn.disabled = true;
+            status.textContent = "Nullstilt.";
+            update();
+        });
+
+        document.addEventListener("visibilitychange", () => {
+            if (!document.hidden) update();
+        });
+    }
+
+    const alarmDisplay = document.getElementById("alarmDisplay");
+    if (alarmDisplay) {
+        const status = document.getElementById("alarmStatus");
+        const timeInput = document.getElementById("alarmTime");
+        const setBtn = document.getElementById("setAlarmBtn");
+        const cancelBtn = document.getElementById("cancelAlarmBtn");
+        let alarmTimestamp = null;
+        let interval = null;
+        let audioContext = null;
+
+        const soundAlarm = () => {
+            if (!audioContext) return;
+            audioContext.resume().then(() => {
+                for (let i = 0; i < 3; i++) {
+                    const oscillator = audioContext.createOscillator();
+                    const gain = audioContext.createGain();
+                    const start = audioContext.currentTime + i * 0.35;
+                    oscillator.frequency.value = 880;
+                    gain.gain.setValueAtTime(0.001, start);
+                    gain.gain.exponentialRampToValueAtTime(0.25, start + 0.02);
+                    gain.gain.exponentialRampToValueAtTime(0.001, start + 0.25);
+                    oscillator.connect(gain);
+                    gain.connect(audioContext.destination);
+                    oscillator.start(start);
+                    oscillator.stop(start + 0.26);
+                }
+            }).catch((error) => {
+                console.error("Alarmlyd kunne ikke spilles av:", error);
+                status.textContent += " Lyd kunne ikke spilles av.";
+            });
+        };
+
+        const tickAlarm = () => {
+            if (alarmTimestamp === null) return;
+            const remaining = Math.ceil((alarmTimestamp - Date.now()) / 1000);
+            if (remaining <= 0) {
+                clearInterval(interval);
+                interval = null;
+                alarmTimestamp = null;
+                alarmDisplay.textContent = "00:00:00";
+                cancelBtn.disabled = true;
+                status.textContent = "Alarm! Klokkeslettet er nå.";
+                soundAlarm();
+                return;
+            }
+            alarmDisplay.textContent = formatClockDuration(remaining);
+        };
+
+        setBtn.addEventListener("click", () => {
+            const value = timeInput.value;
+            const [hours, minutes] = value.split(":").map(Number);
+            if (!value || !Number.isInteger(hours) || hours < 0 || hours > 23 || !Number.isInteger(minutes) || minutes < 0 || minutes > 59) {
+                status.textContent = "Velg et gyldig klokkeslett.";
+                return;
+            }
+
+            const now = new Date();
+            const target = new Date(now);
+            target.setHours(hours, minutes, 0, 0);
+            if (target <= now) target.setDate(target.getDate() + 1);
+            alarmTimestamp = target.getTime();
+            clearInterval(interval);
+            interval = setInterval(tickAlarm, 1000);
+            cancelBtn.disabled = false;
+            status.textContent = `Alarm satt til ${value} (${target.toLocaleDateString("nb-NO")}). Hold siden åpen.`;
+            tickAlarm();
+
+            const AudioContextClass = window.AudioContext || window.webkitAudioContext;
+            if (!AudioContextClass) {
+                status.textContent += " Lyd støttes ikke i denne nettleseren.";
+            } else {
+                try {
+                    if (!audioContext) audioContext = new AudioContextClass();
+                    audioContext.resume().catch((error) => {
+                        console.error("Alarmlyd kunne ikke aktiveres:", error);
+                        status.textContent += " Lyd kunne ikke aktiveres.";
+                    });
+                } catch (error) {
+                    console.error("Alarmlyd kunne ikke aktiveres:", error);
+                    status.textContent += " Lyd kunne ikke aktiveres.";
+                }
+            }
+        });
+
+        cancelBtn.addEventListener("click", () => {
+            clearInterval(interval);
+            interval = null;
+            alarmTimestamp = null;
+            alarmDisplay.textContent = "--:--:--";
+            cancelBtn.disabled = true;
+            status.textContent = "Alarm avbrutt.";
+        });
+
+        document.addEventListener("visibilitychange", () => {
+            if (!document.hidden) tickAlarm();
+        });
     }
         //Værinnhold håndteres av weatherCard-modulen over (Open-Meteo + Yr).
 
@@ -6846,6 +7003,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     "enturCard",
                     "marketCard",
                     "klokke",
+                    "stopwatchCard",
+                    "alarmCard",
                 ],
             },
             converters: {

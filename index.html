@@ -124,6 +124,8 @@
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="enturCard" checked><span>Ruter (Entur)</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="historicalCard" checked><span>Dagens historiske</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="klokke" checked><span>Nedtelling</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="stopwatchCard" checked><span>Stoppeklokke</span></label>
+                        <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="alarmCard" checked><span>Alarm</span></label>
                         <label class="sidebar__toggle"><input type="checkbox" data-toggle-card="holidayCard" checked><span>Helligdager</span></label>
                     </div>
                 </div>
@@ -806,6 +808,41 @@ Pasta</textarea>
                             <button id="pauseCountdownBtn" type="button">Stopp</button>
                             <button id="resetCountdownBtn" type="button">Nullstill</button>
                         </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bordershadow card--m" id="stopwatchCard">
+                <div class="clock-widget">
+                    <h2>Stoppeklokke</h2>
+                    <div class="clock-widget__panel">
+                        <div class="clock-widget__label">Tid gått</div>
+                        <div id="stopwatchDisplay" class="clock-widget__display">00:00:00.0</div>
+                        <p id="stopwatchStatus" class="clock-widget__status muted" aria-live="polite">Klar til start.</p>
+                    </div>
+                    <div class="clock-widget__buttons">
+                        <button id="startStopwatchBtn" type="button">Start</button>
+                        <button id="pauseStopwatchBtn" type="button" disabled>Stopp</button>
+                        <button id="resetStopwatchBtn" type="button">Nullstill</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bordershadow card--m" id="alarmCard">
+                <div class="clock-widget">
+                    <h2>Alarm</h2>
+                    <div class="clock-widget__panel">
+                        <div class="clock-widget__label">Tid til alarm</div>
+                        <div id="alarmDisplay" class="clock-widget__display">--:--:--</div>
+                        <p id="alarmStatus" class="clock-widget__status muted" role="status" aria-live="assertive">Velg klokkeslett og sett alarmen. Hold siden åpen.</p>
+                    </div>
+                    <div class="clock-widget__controls">
+                        <label class="clock-widget__label" for="alarmTime">Klokkeslett</label>
+                        <div class="clock-widget__inline">
+                            <input id="alarmTime" type="time" />
+                            <button id="setAlarmBtn" type="button">Sett alarm</button>
+                        </div>
+                        <button id="cancelAlarmBtn" type="button" disabled>Avbryt alarm</button>
                     </div>
                 </div>
             </div>
