@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-27T12:57:55.035Z",
+  "updatedAt": "2026-11-27T21:53:41.783Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
     {
-      "title": "Norse kaller inn de ansatte til møte klokken 14",
-      "link": "https://www.nrk.no/nyheter/norse-kaller-inn-de-ansatte-til-mote-klokken-14-1.18089784",
+      "title": "Brann i bygning på Lågdalsmuseet i Kongsberg",
+      "link": "https://www.nrk.no/nyheter/brann-i-bygning-pa-lagdalsmuseet-i-kongsberg-1.18090059",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 27 Nov 2026 21:30:10 GMT"
+    },
+    {
+      "title": "Putin avduket ny atomubåt",
+      "link": "https://www.nrk.no/nyheter/putin-avduket-ny-atomubat-1.18090047",
+      "category": "Russland",
+      "pubDate": "Fri, 27 Nov 2026 19:35:49 GMT"
+    },
+    {
+      "title": "Tilbakekalling av Monster Energy utvides: Normal tilbakekaller seks varianter",
+      "link": "https://www.nrk.no/nyheter/tilbakekalling-av-monster-energy-utvides_-normal-tilbakekaller-seks-varianter-1.18089989",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 27 Nov 2026 19:31:08 GMT"
+    },
+    {
+      "title": "Ukraina tilbyr våpenhvile i Svartehavet – avviser russisk oljekrav",
+      "link": "https://www.nrk.no/nyheter/ukraina-tilbyr-vapenhvile-i-svartehavet-_-avviser-russisk-oljekrav-1.18089949",
+      "category": "Krigen i Ukraina",
+      "pubDate": "Fri, 27 Nov 2026 15:31:55 GMT"
+    },
+    {
+      "title": "FN slår sultalarm: El Niño og væpnede konflikter truer en rekke nye land",
+      "link": "https://www.nrk.no/nyheter/fn-slar-sultalarm_-el-nino-og-vaepnede-konflikter-truer-en-rekke-nye-land-1.18089886",
+      "category": "Sult",
+      "pubDate": "Fri, 27 Nov 2026 14:43:11 GMT"
+    },
+    {
+      "title": "Flyselskapet Norse varsler konkurs",
+      "link": "https://www.nrk.no/nyheter/flyselskapet-norse-varsler-konkurs-1.18089822",
       "category": "Flybransjen",
-      "pubDate": "Fri, 27 Nov 2026 12:36:38 GMT"
-    },
-    {
-      "title": "Belgiske myndigheter tvinger Google til å stanse utbygging av datasenter",
-      "link": "https://www.nrk.no/nyheter/belgiske-myndigheter-tvinger-google-til-a-stanse-utbygging-av-datasenter-1.18089778",
-      "category": "Google",
-      "pubDate": "Fri, 27 Nov 2026 12:02:01 GMT"
-    },
-    {
-      "title": "Brenna om MDG-samtaler: – Kontakten er god",
-      "link": "https://www.nrk.no/nyheter/brenna-om-mdg-samtaler_-__kontakten-er-god-1.18089756",
-      "category": "Statsbudsjettet 2027",
-      "pubDate": "Fri, 27 Nov 2026 11:56:34 GMT"
-    },
-    {
-      "title": "Sri Lanka: Drapsmistenkt på flukt kolliderte med elefant",
-      "link": "https://www.nrk.no/nyheter/sri-lanka_-drapsmistenkt-pa-flukt-kolliderte-med-elefant-1.18089746",
-      "category": "Sri Lanka",
-      "pubDate": "Fri, 27 Nov 2026 11:29:07 GMT"
-    },
-    {
-      "title": "Strømmegiganter pålegges å investere i norske filmer og serier",
-      "link": "https://www.nrk.no/nyheter/strommegiganter-palegges-a-investere-i-norske-filmer-og-serier-1.18089740",
-      "category": "Film og serier",
-      "pubDate": "Fri, 27 Nov 2026 11:19:28 GMT"
-    },
-    {
-      "title": "Harriet Backer-maleri skal på auksjon",
-      "link": "https://www.nrk.no/nyheter/harriet-backer-maleri-skal-pa-auksjon-1.18089690",
-      "category": "Kunst",
-      "pubDate": "Fri, 27 Nov 2026 11:10:12 GMT"
+      "pubDate": "Fri, 27 Nov 2026 13:01:05 GMT"
     }
   ]
 }
