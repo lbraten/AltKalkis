@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-26T20:25:15.907Z",
+  "updatedAt": "2026-11-27T03:05:46.865Z",
   "source": "https://www.nrk.no/nyheter/siste.rss",
   "items": [
+    {
+      "title": "Luftromstrussel i Latvia er over",
+      "link": "https://www.nrk.no/nyheter/luftromstrussel-i-latvia-er-over-1.18089504",
+      "category": "Latvia",
+      "pubDate": "Fri, 27 Nov 2026 01:18:09 GMT"
+    },
+    {
+      "title": "Trump: Nvidia-sjefen er ikke en sikkerhetstrussel",
+      "link": "https://www.nrk.no/nyheter/trump_-nvidia-sjefen-er-ikke-en-sikkerhetstrussel-1.18089503",
+      "category": "USA",
+      "pubDate": "Fri, 27 Nov 2026 01:02:37 GMT"
+    },
+    {
+      "title": "Bybanen sporet av i Bergen",
+      "link": "https://www.nrk.no/nyheter/bybanen-sporet-av-i-bergen-1.18089493",
+      "category": "NRK Nyheter",
+      "pubDate": "Fri, 27 Nov 2026 01:01:52 GMT"
+    },
+    {
+      "title": "Lite fremgang i EUs budsjettforhandlinger",
+      "link": "https://www.nrk.no/nyheter/lite-fremgang-i-eus-budsjettforhandlinger-1.18089488",
+      "category": "Den europeiske union (EU)",
+      "pubDate": "Thu, 26 Nov 2026 22:38:57 GMT"
+    },
+    {
+      "title": "Norse-flyvning til Phuket kanselleres",
+      "link": "https://www.nrk.no/nyheter/norse-flyvning-til-phuket-kanselleres-1.18089487",
+      "category": "Flybransjen",
+      "pubDate": "Thu, 26 Nov 2026 22:25:56 GMT"
+    },
     {
       "title": "Ønsker våpenhvile ved ukrainsk atomkraftverk",
       "link": "https://www.nrk.no/nyheter/onsker-vapenhvile-ved-ukrainsk-atomkraftverk-1.18089375",
       "category": "Krigen i Ukraina",
       "pubDate": "Thu, 26 Nov 2026 19:09:59 GMT"
-    },
-    {
-      "title": "Norge kjøper 70 nye CV-90 kampvogner til Hæren",
-      "link": "https://www.nrk.no/nyheter/norge-kjoper-70-nye-cv-90-kampvogner-til-haeren-1.18089402",
-      "category": "Det norske Forsvaret",
-      "pubDate": "Thu, 26 Nov 2026 17:45:59 GMT"
-    },
-    {
-      "title": "Klart for ny regjering i Sverige",
-      "link": "https://www.nrk.no/nyheter/klart-for-ny-regjering-i-sverige-1.18089336",
-      "category": "Sverige",
-      "pubDate": "Thu, 26 Nov 2026 16:45:17 GMT"
-    },
-    {
-      "title": "Trump vil at Putin skal stanse all militær aggresjon i Europa",
-      "link": "https://www.nrk.no/nyheter/trump-vil-at-putin-skal-stanse-all-militaer-aggresjon-i-europa-1.18089313",
-      "category": "Krigen i Ukraina",
-      "pubDate": "Thu, 26 Nov 2026 15:27:24 GMT"
-    },
-    {
-      "title": "Elleve varianter av Monster tilbakekalles etter funn av ulovlig stoff",
-      "link": "https://www.nrk.no/nyheter/elleve-varianter-av-monster-tilbakekalles-etter-funn-av-ulovlig-stoff-1.18089310",
-      "category": "Mattrygghet",
-      "pubDate": "Thu, 26 Nov 2026 14:37:06 GMT"
-    },
-    {
-      "title": "Dataangrep hos passord-selskap",
-      "link": "https://www.nrk.no/nyheter/dataangrep-hos-passord-selskap-1.18089255",
-      "category": "Datasikkerhet",
-      "pubDate": "Thu, 26 Nov 2026 14:33:01 GMT"
     }
   ]
 }
